@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS64"]={"id":"WS64","name":"SCHIFFMANN","lat":45.888147,"lon":-89.532919,"elevation":1589,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

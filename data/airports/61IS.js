@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61IS"]={"id":"61IS","name":"JIM & PEG","lat":41.054756,"lon":-88.387281,"elevation":630,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

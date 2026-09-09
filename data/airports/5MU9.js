@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MU9"]={"id":"5MU9","name":"SKY RANCH II","lat":37.679286,"lon":-90.714625,"elevation":1049,"region":"K3","runways":[{"id":"RW18","lat":37.682767,"lon":-90.714675,"length":2537,"course":180.9},{"id":"RW36","lat":37.675803,"lon":-90.714572,"length":2537,"course":0.9}],"procedures":{"D":{},"E":{},"F":{}}};

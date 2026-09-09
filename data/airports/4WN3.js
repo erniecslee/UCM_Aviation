@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WN3"]={"id":"4WN3","name":"LAKEWOOD AIRPARK","lat":45.332053,"lon":-88.535997,"elevation":1300,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

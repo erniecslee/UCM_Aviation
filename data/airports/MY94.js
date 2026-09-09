@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY94"]={"id":"MY94","name":"COUNTRY HAVEN","lat":46.7525,"lon":-92.419167,"elevation":1309,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

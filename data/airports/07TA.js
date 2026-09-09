@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07TA"]={"id":"07TA","name":"SALAIKA AVIATION","lat":29.240519,"lon":-95.344658,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

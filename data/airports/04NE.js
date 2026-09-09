@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04NE"]={"id":"04NE","name":"MC CONNELL FLD","lat":41.159994,"lon":-101.299053,"elevation":3035,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV42"]={"id":"WV42","name":"WEIRTON - STEUBENVILLE","lat":40.397844,"lon":-80.622019,"elevation":644,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

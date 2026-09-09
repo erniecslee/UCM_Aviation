@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1PA3"]={"id":"1PA3","name":"RIDGEVIEW","lat":40.450103,"lon":-75.199619,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

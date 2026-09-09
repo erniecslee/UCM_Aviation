@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS55"]={"id":"WS55","name":"BARTEN","lat":42.517517,"lon":-88.745383,"elevation":977,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

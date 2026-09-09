@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI22"]={"id":"WI22","name":"ROCKET CITY","lat":44.323056,"lon":-88.600833,"elevation":905,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

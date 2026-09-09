@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO58"]={"id":"MO58","name":"WALDEMER FLYING W RANCH","lat":36.658389,"lon":-90.640394,"elevation":460,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

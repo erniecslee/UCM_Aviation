@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1VA0"]={"id":"1VA0","name":"SABOT","lat":37.629314,"lon":-77.747494,"elevation":255,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

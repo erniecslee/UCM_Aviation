@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26MN"]={"id":"26MN","name":"CHRISTIANSON FLD","lat":47.329972,"lon":-96.783689,"elevation":874,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00AA"]={"id":"00AA","name":"AERO B RANCH","lat":38.704022,"lon":-101.473911,"elevation":3435,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

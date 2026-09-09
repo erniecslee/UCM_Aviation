@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE30"]={"id":"GE30","name":"SANDY HILL","lat":33.221111,"lon":-81.995278,"elevation":310,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

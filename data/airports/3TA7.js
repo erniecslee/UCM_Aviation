@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TA7"]={"id":"3TA7","name":"JIM SEARS","lat":33.143728,"lon":-97.804478,"elevation":900,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19OR"]={"id":"19OR","name":"NELSON RANCH","lat":45.109561,"lon":-121.223672,"elevation":2000,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

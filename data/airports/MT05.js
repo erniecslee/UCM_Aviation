@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT05"]={"id":"MT05","name":"LAIRD RANCH","lat":45.66805,"lon":-104.703292,"elevation":3462,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

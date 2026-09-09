@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42CN"]={"id":"42CN","name":"PEG FLD","lat":36.709117,"lon":-119.404847,"elevation":460,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

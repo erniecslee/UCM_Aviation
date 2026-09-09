@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38I"]={"id":"38I","name":"COOK","lat":40.091169,"lon":-83.689369,"elevation":1150,"region":"K5","runways":[{"id":"RW09","lat":40.090819,"lon":-83.694083,"length":2650,"course":91.3},{"id":"RW27","lat":40.091517,"lon":-83.684656,"length":2650,"course":271.3}],"procedures":{"D":{},"E":{},"F":{}}};

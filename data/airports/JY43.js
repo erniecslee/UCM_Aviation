@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY43"]={"id":"JY43","name":"HILL TOP","lat":41.083222,"lon":-74.338556,"elevation":921,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

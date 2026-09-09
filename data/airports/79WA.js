@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79WA"]={"id":"79WA","name":"RNR FARMS","lat":46.166275,"lon":-123.361844,"elevation":8,"region":"K1","runways":[{"id":"RW14","lat":46.168289,"lon":-123.363097,"length":1600,"course":141.8},{"id":"RW32","lat":46.164261,"lon":-123.360592,"length":1600,"course":321.8}],"procedures":{"D":{},"E":{},"F":{}}};

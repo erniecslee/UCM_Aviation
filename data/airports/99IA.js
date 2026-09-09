@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99IA"]={"id":"99IA","name":"COURTNEY'S LANDING","lat":41.216567,"lon":-92.777975,"elevation":835,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA32"]={"id":"LA32","name":"LAKE AIR SERVICE","lat":30.094661,"lon":-92.700694,"elevation":11,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

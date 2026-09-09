@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY50"]={"id":"NY50","name":"JOHNSON","lat":42.991667,"lon":-74.136111,"elevation":760,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7I2"]={"id":"7I2","name":"REESE","lat":40.155239,"lon":-85.318947,"elevation":991,"region":"K5","runways":[{"id":"RW09","lat":40.155361,"lon":-85.323375,"length":2800,"course":95.0},{"id":"RW27","lat":40.155103,"lon":-85.313939,"length":2800,"course":275.0}],"procedures":{"D":{},"E":{},"F":{}}};

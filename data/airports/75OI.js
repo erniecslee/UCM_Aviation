@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75OI"]={"id":"75OI","name":"SOLTIS FLD","lat":40.503672,"lon":-83.090189,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

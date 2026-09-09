@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GE4"]={"id":"0GE4","name":"PECAN PATCH AIRSTRIP","lat":33.331389,"lon":-84.266667,"elevation":860,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

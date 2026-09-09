@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D56"]={"id":"D56","name":"MAYVILLE MUNI","lat":47.476842,"lon":-97.328083,"elevation":977,"region":"K3","runways":[{"id":"RW18","lat":47.481364,"lon":-97.32805,"length":3300,"course":174.0},{"id":"RW36","lat":47.472319,"lon":-97.328114,"length":3300,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

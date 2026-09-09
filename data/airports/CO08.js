@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO08"]={"id":"CO08","name":"HELLING","lat":39.73,"lon":-102.171667,"elevation":3900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5QC"]={"id":"5QC","name":"QUARTZ CREEK / KOUGAROK","lat":65.405933,"lon":-164.655725,"elevation":416,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

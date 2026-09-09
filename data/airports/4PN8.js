@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PN8"]={"id":"4PN8","name":"SWIFT RUN FLD","lat":39.870728,"lon":-77.102386,"elevation":540,"region":"K6","runways":[{"id":"RW05","lat":39.869475,"lon":-77.103972,"length":1275,"course":55.1},{"id":"RW23","lat":39.871983,"lon":-77.1008,"length":1275,"course":235.1}],"procedures":{"D":{},"E":{},"F":{}}};

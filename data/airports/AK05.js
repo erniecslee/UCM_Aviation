@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK05"]={"id":"AK05","name":"BREEDEN","lat":60.54105,"lon":-150.599217,"elevation":365,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

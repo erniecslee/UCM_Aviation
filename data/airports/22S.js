@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22S"]={"id":"22S","name":"PAISLEY","lat":42.717972,"lon":-120.562778,"elevation":4395,"region":"K1","runways":[{"id":"RW13","lat":42.722983,"lon":-120.567028,"length":4300,"course":130.0},{"id":"RW31","lat":42.712986,"lon":-120.558519,"length":4300,"course":310.0}],"procedures":{"D":{},"E":{},"F":{}}};

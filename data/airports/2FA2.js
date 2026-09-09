@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FA2"]={"id":"2FA2","name":"MONROE AIRPARK","lat":29.018869,"lon":-82.1137,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

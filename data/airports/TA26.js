@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA26"]={"id":"TA26","name":"COYOTE CROSSING","lat":32.296361,"lon":-97.056806,"elevation":580,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

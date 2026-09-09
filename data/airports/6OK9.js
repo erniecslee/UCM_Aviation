@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OK9"]={"id":"6OK9","name":"MULBERRY HILL","lat":36.141556,"lon":-96.943194,"elevation":1026,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

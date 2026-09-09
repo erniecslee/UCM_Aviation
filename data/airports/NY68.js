@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY68"]={"id":"NY68","name":"RICHFIELD","lat":42.861183,"lon":-74.945431,"elevation":1450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

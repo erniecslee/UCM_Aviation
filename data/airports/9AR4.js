@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AR4"]={"id":"9AR4","name":"TANGO 7","lat":34.523092,"lon":-92.167656,"elevation":233,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

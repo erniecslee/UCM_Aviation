@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ05"]={"id":"AZ05","name":"LAKESIDE AIRPARK","lat":33.1125,"lon":-112.661667,"elevation":780,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8V6"]={"id":"8V6","name":"DOVE CREEK","lat":37.76475,"lon":-108.888639,"elevation":6975,"region":"K2","runways":[{"id":"RW01","lat":37.759342,"lon":-108.891197,"length":4200,"course":8.0},{"id":"RW19","lat":37.770136,"lon":-108.886069,"length":4200,"course":188.0}],"procedures":{"D":{},"E":{},"F":{}}};

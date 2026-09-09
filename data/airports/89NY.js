@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89NY"]={"id":"89NY","name":"MAXSON AIRFIELD","lat":44.316717,"lon":-75.899672,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

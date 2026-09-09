@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01F"]={"id":"01F","name":"HAMILTON LAKE","lat":41.552222,"lon":-84.917222,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

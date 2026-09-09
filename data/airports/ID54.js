@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID54"]={"id":"ID54","name":"BOTTLE BAY","lat":48.479097,"lon":-116.445469,"elevation":2063,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A13"]={"id":"A13","name":"BOLD","lat":61.341339,"lon":-148.998881,"elevation":900,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

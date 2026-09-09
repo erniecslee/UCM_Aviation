@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC6"]={"id":"1NC6","name":"ARANT","lat":35.055983,"lon":-80.450067,"elevation":535,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

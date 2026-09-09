@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL24"]={"id":"IL24","name":"BILLS LAST RESORT RLA","lat":39.7075,"lon":-89.883056,"elevation":653,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

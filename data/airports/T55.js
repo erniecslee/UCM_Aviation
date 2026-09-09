@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T55"]={"id":"T55","name":"DIMMITT MUNI","lat":34.566736,"lon":-102.322694,"elevation":3883,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

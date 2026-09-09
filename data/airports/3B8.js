@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3B8"]={"id":"3B8","name":"SHADY ACRES","lat":47.070389,"lon":-122.371083,"elevation":445,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

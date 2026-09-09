@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05AA"]={"id":"05AA","name":"CHATHAM","lat":57.514939,"lon":-134.946214,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

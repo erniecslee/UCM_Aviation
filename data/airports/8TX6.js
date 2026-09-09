@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TX6"]={"id":"8TX6","name":"HARKEY RANCH","lat":30.940392,"lon":-99.189914,"elevation":1674,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40LA"]={"id":"40LA","name":"WOODSLAND PLANTATION","lat":32.345981,"lon":-91.969575,"elevation":60,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

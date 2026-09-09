@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ03"]={"id":"AZ03","name":"CLIFF DWELLERS","lat":36.734431,"lon":-111.752664,"elevation":4217,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

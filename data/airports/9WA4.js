@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WA4"]={"id":"9WA4","name":"PIPER CANYON","lat":45.810417,"lon":-120.952472,"elevation":1610,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

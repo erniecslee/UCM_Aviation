@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40ID"]={"id":"40ID","name":"CAMAS CREEK RANCH","lat":43.314222,"lon":-114.905222,"elevation":5075,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

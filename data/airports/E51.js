@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E51"]={"id":"E51","name":"BAGDAD","lat":34.592894,"lon":-113.17195,"elevation":4196,"region":"K2","runways":[{"id":"RW05","lat":34.590514,"lon":-113.178939,"length":4552,"course":55.0},{"id":"RW23","lat":34.595275,"lon":-113.164958,"length":4552,"course":235.0}],"procedures":{"D":{},"E":{},"F":{}}};

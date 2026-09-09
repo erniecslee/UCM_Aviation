@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK11"]={"id":"AK11","name":"HIGH VISTA","lat":60.773167,"lon":-151.230528,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

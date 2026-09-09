@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98FL"]={"id":"98FL","name":"SAND LAKE","lat":28.433617,"lon":-81.491461,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39TN"]={"id":"39TN","name":"BIG SANDY AIRPARK","lat":36.279722,"lon":-88.043611,"elevation":632,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

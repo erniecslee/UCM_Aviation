@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8N4"]={"id":"8N4","name":"FLYING DOLLAR","lat":41.214931,"lon":-75.246903,"elevation":1430,"region":"K6","runways":[{"id":"RW02","lat":41.211661,"lon":-75.247511,"length":2405,"course":20.0},{"id":"RW20","lat":41.218197,"lon":-75.246294,"length":2405,"course":200.0}],"procedures":{"D":{},"E":{},"F":{}}};

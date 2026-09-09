@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA09"]={"id":"XA09","name":"MENARD","lat":33.581944,"lon":-98.061111,"elevation":1055,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

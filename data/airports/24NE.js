@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24NE"]={"id":"24NE","name":"ORR","lat":42.383864,"lon":-102.438808,"elevation":3827,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OH0"]={"id":"3OH0","name":"ANDY BARNHART MEML","lat":39.930892,"lon":-84.013547,"elevation":895,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

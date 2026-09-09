@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MI7"]={"id":"6MI7","name":"J P'S FLD","lat":42.806136,"lon":-85.934203,"elevation":708,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

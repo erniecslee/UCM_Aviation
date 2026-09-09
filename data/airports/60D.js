@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60D"]={"id":"60D","name":"BAUER FLD","lat":43.438475,"lon":-83.634153,"elevation":660,"region":"K5","runways":[{"id":"RW10","lat":43.438464,"lon":-83.637542,"length":1800,"course":97.0},{"id":"RW28","lat":43.438486,"lon":-83.630764,"length":1800,"course":277.0}],"procedures":{"D":{},"E":{},"F":{}}};

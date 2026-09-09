@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29LS"]={"id":"29LS","name":"L AUBERGE DU LAC HOTEL","lat":30.207778,"lon":-93.265278,"elevation":8,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13FA"]={"id":"13FA","name":"EARLE AIRPARK","lat":29.694414,"lon":-81.513689,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

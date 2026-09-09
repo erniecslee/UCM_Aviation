@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07OK"]={"id":"07OK","name":"PLEASANT VALLEY","lat":34.633406,"lon":-99.033689,"elevation":1322,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

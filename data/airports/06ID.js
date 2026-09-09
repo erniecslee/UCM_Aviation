@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06ID"]={"id":"06ID","name":"LARKIN","lat":43.462664,"lon":-116.359008,"elevation":2750,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53GA"]={"id":"53GA","name":"DAWSON FLD","lat":34.168958,"lon":-85.256986,"elevation":680,"region":"K7","runways":[{"id":"RW06","lat":34.165833,"lon":-85.262222,"length":3900,"course":56.3},{"id":"RW24","lat":34.172083,"lon":-85.25175,"length":3900,"course":236.3}],"procedures":{"D":{},"E":{},"F":{}}};

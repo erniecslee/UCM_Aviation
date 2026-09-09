@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14VT"]={"id":"14VT","name":"CROSSROAD","lat":44.926033,"lon":-72.331844,"elevation":837,"region":"K6","runways":[{"id":"RW06","lat":44.9242,"lon":-72.334153,"length":1794,"course":55.8},{"id":"RW24","lat":44.927867,"lon":-72.329536,"length":1794,"course":235.8}],"procedures":{"D":{},"E":{},"F":{}}};

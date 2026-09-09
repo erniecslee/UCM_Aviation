@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84XS"]={"id":"84XS","name":"LANG RANCH","lat":30.255,"lon":-99.398889,"elevation":2200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

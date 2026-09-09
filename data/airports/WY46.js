@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY46"]={"id":"WY46","name":"RADIO RANCH","lat":41.072778,"lon":-104.825653,"elevation":6115,"region":"K1","runways":[{"id":"RW08","lat":41.072528,"lon":-104.829,"length":1855,"course":76.8},{"id":"RW26","lat":41.073028,"lon":-104.822306,"length":1855,"course":256.8}],"procedures":{"D":{},"E":{},"F":{}}};

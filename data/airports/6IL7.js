@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IL7"]={"id":"6IL7","name":"KLEINIK","lat":39.383025,"lon":-89.256256,"elevation":668,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA00"]={"id":"WA00","name":"MERCER RANCH","lat":45.9,"lon":-119.905556,"elevation":780,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

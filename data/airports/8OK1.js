@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OK1"]={"id":"8OK1","name":"WARBONNET","lat":35.168333,"lon":-97.710833,"elevation":1335,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NE5"]={"id":"1NE5","name":"SIBBERNSEN","lat":41.406111,"lon":-96.285556,"elevation":1280,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

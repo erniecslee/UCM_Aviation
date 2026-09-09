@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK78"]={"id":"OK78","name":"DELOZIER","lat":36.559108,"lon":-95.431694,"elevation":750,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

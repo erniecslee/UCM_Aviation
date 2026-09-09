@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OA1"]={"id":"1OA1","name":"BASHORE","lat":40.045886,"lon":-84.334392,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

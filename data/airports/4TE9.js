@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TE9"]={"id":"4TE9","name":"SQUIRREL CREEK RANCH","lat":29.264125,"lon":-99.350597,"elevation":970,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

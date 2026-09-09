@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT43"]={"id":"CT43","name":"SPRUCE","lat":41.593708,"lon":-71.931183,"elevation":200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

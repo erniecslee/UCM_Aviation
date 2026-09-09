@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15IN"]={"id":"15IN","name":"BUGTOWN","lat":38.150556,"lon":-87.840278,"elevation":464,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

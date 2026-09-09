@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD77"]={"id":"SD77","name":"METTLER","lat":43.277775,"lon":-97.558547,"elevation":1362,"region":"K3","runways":[{"id":"RW18","lat":43.284458,"lon":-97.558581,"length":4875,"course":176.7},{"id":"RW36","lat":43.271089,"lon":-97.558514,"length":4875,"course":356.7}],"procedures":{"D":{},"E":{},"F":{}}};

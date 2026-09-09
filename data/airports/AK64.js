@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK64"]={"id":"AK64","name":"SCOOTERS","lat":61.948422,"lon":-151.524186,"elevation":505,"region":"PA","runways":[{"id":"RW13","lat":61.949483,"lon":-151.525511,"length":900,"course":130.5},{"id":"RW31","lat":61.947361,"lon":-151.522861,"length":900,"course":310.5}],"procedures":{"D":{},"E":{},"F":{}}};

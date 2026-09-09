@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30NC"]={"id":"30NC","name":"RIVERSIDE FARM","lat":36.048611,"lon":-80.456944,"elevation":705,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

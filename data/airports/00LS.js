@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00LS"]={"id":"00LS","name":"LEJEUNE","lat":30.136278,"lon":-92.429361,"elevation":12,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

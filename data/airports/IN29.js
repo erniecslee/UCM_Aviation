@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN29"]={"id":"IN29","name":"DURFLINGER","lat":40.573914,"lon":-87.103364,"elevation":748,"region":"K5","runways":[{"id":"RW09","lat":40.573861,"lon":-87.109844,"length":3600,"course":92.0},{"id":"RW27","lat":40.573964,"lon":-87.096883,"length":3600,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

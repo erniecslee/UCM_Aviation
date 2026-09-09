@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34LA"]={"id":"34LA","name":"SWAMP SMITH","lat":30.771586,"lon":-93.271275,"elevation":180,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

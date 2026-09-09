@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CL1"]={"id":"8CL1","name":"LAKE WOHLFORD RESORT","lat":33.18615,"lon":-117.001975,"elevation":1643,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

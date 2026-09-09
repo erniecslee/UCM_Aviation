@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KREO"]={"id":"KREO","name":"ROME STATE","lat":42.577661,"lon":-117.885431,"elevation":4053,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

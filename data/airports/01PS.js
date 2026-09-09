@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01PS"]={"id":"01PS","name":"NORT'S RESORT","lat":41.595908,"lon":-76.029644,"elevation":1040,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06TA"]={"id":"06TA","name":"GLASER FLD","lat":30.908519,"lon":-97.116936,"elevation":480,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

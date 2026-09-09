@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK77"]={"id":"AK77","name":"ALL WEST","lat":63.941428,"lon":-145.422225,"elevation":1275,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

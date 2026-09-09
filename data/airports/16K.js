@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16K"]={"id":"16K","name":"PORT ALICE","lat":55.784906,"lon":-133.594225,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

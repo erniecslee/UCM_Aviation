@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT95"]={"id":"MT95","name":"SKY RANCH","lat":48.1169,"lon":-114.185956,"elevation":2905,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

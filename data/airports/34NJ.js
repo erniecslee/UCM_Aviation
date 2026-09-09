@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34NJ"]={"id":"34NJ","name":"BLEWS","lat":39.503056,"lon":-75.172222,"elevation":30,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX49"]={"id":"TX49","name":"ONE EYED CREEK","lat":31.291667,"lon":-94.699444,"elevation":295,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

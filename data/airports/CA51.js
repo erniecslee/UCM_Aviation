@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA51"]={"id":"CA51","name":"THE SEA RANCH","lat":38.704633,"lon":-123.432508,"elevation":360,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

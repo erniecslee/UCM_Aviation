@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27CA"]={"id":"27CA","name":"HOLIDAY RANCH","lat":34.561106,"lon":-117.080594,"elevation":3260,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

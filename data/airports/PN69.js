@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN69"]={"id":"PN69","name":"ALTEMOSE","lat":40.0925,"lon":-75.515833,"elevation":345,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

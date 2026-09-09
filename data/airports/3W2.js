@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3W2"]={"id":"3W2","name":"PUT IN BAY","lat":41.636667,"lon":-82.828333,"elevation":595,"region":"K5","runways":[{"id":"RW03","lat":41.634403,"lon":-82.830283,"length":2870,"course":40.0},{"id":"RW21","lat":41.638456,"lon":-82.826775,"length":2870,"course":220.0}],"procedures":{"D":{},"E":{},"F":{}}};

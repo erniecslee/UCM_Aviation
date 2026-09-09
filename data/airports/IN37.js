@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN37"]={"id":"IN37","name":"CREEKBEND","lat":39.267592,"lon":-86.577544,"elevation":780,"region":"K5","runways":[{"id":"RW09","lat":39.267511,"lon":-86.581,"length":3157,"course":92.9},{"id":"RW27","lat":39.267703,"lon":-86.573033,"length":3157,"course":272.9}],"procedures":{"D":{},"E":{},"F":{}}};

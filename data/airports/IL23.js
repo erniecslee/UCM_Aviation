@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL23"]={"id":"IL23","name":"ELLIS","lat":42.442514,"lon":-89.450117,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

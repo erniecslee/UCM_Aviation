@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93NR"]={"id":"93NR","name":"RALEIGH EAST","lat":35.797722,"lon":-78.437003,"elevation":309,"region":"K7","runways":[{"id":"RW01","lat":35.793603,"lon":-78.437167,"length":3000,"course":8.8},{"id":"RW19","lat":35.801839,"lon":-78.436842,"length":3000,"course":188.8}],"procedures":{"D":{},"E":{},"F":{}}};

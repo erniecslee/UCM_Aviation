@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52WI"]={"id":"52WI","name":"JOHNS FLD","lat":45.159644,"lon":-90.056883,"elevation":1455,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

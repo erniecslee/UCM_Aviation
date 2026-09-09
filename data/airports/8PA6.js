@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PA6"]={"id":"8PA6","name":"TURTLE ROCK","lat":40.329306,"lon":-77.167639,"elevation":626,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W49"]={"id":"W49","name":"ROSARIO","lat":48.645658,"lon":-122.867961,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

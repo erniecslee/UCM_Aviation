@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12IN"]={"id":"12IN","name":"J & S FLD","lat":38.114356,"lon":-87.646675,"elevation":445,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK35"]={"id":"NK35","name":"MARIWILL","lat":42.756528,"lon":-76.44375,"elevation":1130,"region":"K6","runways":[{"id":"RW18","lat":42.758889,"lon":-76.444167,"length":1736,"course":184.3},{"id":"RW36","lat":42.754167,"lon":-76.443333,"length":1736,"course":4.3}],"procedures":{"D":{},"E":{},"F":{}}};

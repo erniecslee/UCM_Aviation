@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC94"]={"id":"SC94","name":"WEAVER FLD","lat":33.889444,"lon":-79.506389,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

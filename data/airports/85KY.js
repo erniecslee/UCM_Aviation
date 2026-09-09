@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85KY"]={"id":"85KY","name":"DEER RUN AIRPARK","lat":38.470278,"lon":-85.138611,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KCDD"]={"id":"KCDD","name":"SCOTTS","lat":48.266572,"lon":-92.483492,"elevation":1119,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

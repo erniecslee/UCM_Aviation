@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC36"]={"id":"NC36","name":"COTTON GIN","lat":36.208889,"lon":-75.864444,"elevation":6,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

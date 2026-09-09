@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IN3"]={"id":"1IN3","name":"CONFER'S PLACE","lat":41.097825,"lon":-85.242472,"elevation":865,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

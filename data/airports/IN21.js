@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN21"]={"id":"IN21","name":"GUTWEIN","lat":40.964444,"lon":-86.918472,"elevation":680,"region":"K5","runways":[{"id":"RW09","lat":40.964444,"lon":-86.925556,"length":3912,"course":94.6},{"id":"RW27","lat":40.964444,"lon":-86.911389,"length":3912,"course":274.6}],"procedures":{"D":{},"E":{},"F":{}}};

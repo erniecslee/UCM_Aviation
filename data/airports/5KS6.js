@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KS6"]={"id":"5KS6","name":"TRACY","lat":39.2348,"lon":-96.4736,"elevation":1272,"region":"K3","runways":[{"id":"RW18","lat":39.236589,"lon":-96.473603,"length":1305,"course":177.5},{"id":"RW36","lat":39.233008,"lon":-96.473597,"length":1305,"course":357.5}],"procedures":{"D":{},"E":{},"F":{}}};

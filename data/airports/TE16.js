@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE16"]={"id":"TE16","name":"COW PASTURE","lat":32.250425,"lon":-97.297236,"elevation":795,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

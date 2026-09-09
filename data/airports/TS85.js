@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS85"]={"id":"TS85","name":"DIAMOND J","lat":33.810556,"lon":-96.703889,"elevation":802,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

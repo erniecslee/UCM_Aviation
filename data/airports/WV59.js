@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV59"]={"id":"WV59","name":"FAYETTE","lat":38.026778,"lon":-81.119825,"elevation":1960,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

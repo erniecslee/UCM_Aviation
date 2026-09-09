@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2GC"]={"id":"2GC","name":"GRAYS CREEK","lat":34.893692,"lon":-78.843531,"elevation":160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

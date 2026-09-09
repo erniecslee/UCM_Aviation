@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AR6"]={"id":"1AR6","name":"DIAMOND BLUFF","lat":35.503328,"lon":-92.196708,"elevation":1000,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

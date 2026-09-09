@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7R9"]={"id":"7R9","name":"BAILES","lat":29.165056,"lon":-95.401083,"elevation":21,"region":"K4","runways":[{"id":"RW17","lat":29.167894,"lon":-95.401181,"length":2060,"course":172.0},{"id":"RW35","lat":29.162231,"lon":-95.401006,"length":2060,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

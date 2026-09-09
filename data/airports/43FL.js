@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43FL"]={"id":"43FL","name":"TARVAIR","lat":28.542172,"lon":-81.779178,"elevation":97,"region":"K7","runways":[{"id":"RW08W","lat":28.540033,"lon":-81.782194,"length":2403,"course":87.3},{"id":"RW26W","lat":28.541114,"lon":-81.774811,"length":2403,"course":267.3}],"procedures":{"D":{},"E":{},"F":{}}};

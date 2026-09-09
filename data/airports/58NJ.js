@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58NJ"]={"id":"58NJ","name":"HARRAH'S LANDING","lat":39.386228,"lon":-74.425983,"elevation":17,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS01"]={"id":"WS01","name":"ARCHIE'S","lat":42.737508,"lon":-89.070947,"elevation":768,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

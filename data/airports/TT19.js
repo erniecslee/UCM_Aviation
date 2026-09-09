@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT19"]={"id":"TT19","name":"CIRCLE C RANCH","lat":30.157617,"lon":-94.709894,"elevation":72,"region":"K4","runways":[{"id":"RW18","lat":30.160742,"lon":-94.709631,"length":2280,"course":182.9},{"id":"RW36","lat":30.154489,"lon":-94.710156,"length":2280,"course":2.9}],"procedures":{"D":{},"E":{},"F":{}}};

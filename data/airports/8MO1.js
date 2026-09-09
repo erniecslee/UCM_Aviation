@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MO1"]={"id":"8MO1","name":"LIFE FARM","lat":37.405069,"lon":-93.351389,"elevation":1141,"region":"K3","runways":[{"id":"RW16","lat":37.406806,"lon":-93.352222,"length":1354,"course":158.7},{"id":"RW34","lat":37.403333,"lon":-93.350556,"length":1354,"course":338.7}],"procedures":{"D":{},"E":{},"F":{}}};

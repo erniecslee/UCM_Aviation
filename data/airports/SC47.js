@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC47"]={"id":"SC47","name":"PARKER FLD","lat":34.761389,"lon":-82.161389,"elevation":860,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

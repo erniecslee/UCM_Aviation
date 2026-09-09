@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97FL"]={"id":"97FL","name":"LOVE FLD","lat":28.961928,"lon":-81.891472,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

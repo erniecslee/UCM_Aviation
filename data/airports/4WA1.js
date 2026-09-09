@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WA1"]={"id":"4WA1","name":"BROWN'S CAPE HORN","lat":45.608333,"lon":-122.196944,"elevation":920,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

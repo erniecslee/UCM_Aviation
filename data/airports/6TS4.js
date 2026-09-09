@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TS4"]={"id":"6TS4","name":"STAMPEDE VALLEY","lat":31.186286,"lon":-97.390564,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

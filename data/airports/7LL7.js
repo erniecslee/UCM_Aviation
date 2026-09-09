@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7LL7"]={"id":"7LL7","name":"DELHOTAL","lat":41.736142,"lon":-89.172314,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

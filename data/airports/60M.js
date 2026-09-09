@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60M"]={"id":"60M","name":"SPENCER","lat":42.2905,"lon":-71.964694,"elevation":1043,"region":"K6","runways":[{"id":"RW01","lat":42.287886,"lon":-71.964681,"length":1898,"course":14.9},{"id":"RW19","lat":42.293094,"lon":-71.964697,"length":1898,"course":194.9}],"procedures":{"D":{},"E":{},"F":{}}};

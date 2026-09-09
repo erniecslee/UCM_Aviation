@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3II3"]={"id":"3II3","name":"BASTING","lat":41.086994,"lon":-84.841075,"elevation":755,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA27"]={"id":"VA27","name":"MOOREFIELD'S AIRSTRIP","lat":36.559861,"lon":-80.137828,"elevation":1110,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

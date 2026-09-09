@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y48"]={"id":"Y48","name":"BELMOND MUNI","lat":42.852747,"lon":-93.594653,"elevation":1201,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

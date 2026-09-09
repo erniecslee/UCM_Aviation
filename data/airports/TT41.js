@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT41"]={"id":"TT41","name":"FOUR NOTCH","lat":30.697575,"lon":-95.481389,"elevation":367,"region":"K4","runways":[{"id":"RW06","lat":30.697061,"lon":-95.4828,"length":962,"course":65.3},{"id":"RW24","lat":30.698089,"lon":-95.479981,"length":962,"course":245.3}],"procedures":{"D":{},"E":{},"F":{}}};

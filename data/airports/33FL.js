@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33FL"]={"id":"33FL","name":"FLYING S RANCH","lat":27.860861,"lon":-80.999861,"elevation":72,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

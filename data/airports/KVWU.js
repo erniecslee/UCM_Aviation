@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KVWU"]={"id":"KVWU","name":"WASKISH MUNI","lat":48.148456,"lon":-94.516917,"elevation":1185,"region":"K3","runways":[{"id":"RW02","lat":48.144681,"lon":-94.5193,"length":2992,"course":19.0},{"id":"RW20","lat":48.152231,"lon":-94.514531,"length":2992,"course":199.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10IA"]={"id":"10IA","name":"FLYERS","lat":42.416656,"lon":-92.250183,"elevation":830,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

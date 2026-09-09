@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OH1"]={"id":"3OH1","name":"MORNINGSTAR NORTH","lat":39.697275,"lon":-84.542728,"elevation":982,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

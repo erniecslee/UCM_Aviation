@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY54"]={"id":"MY54","name":"CLOVERLEAF-EAST BEMIDJI","lat":47.438286,"lon":-94.812217,"elevation":1445,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

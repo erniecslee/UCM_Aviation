@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS82"]={"id":"MS82","name":"SHADE TREE FLD","lat":30.510472,"lon":-89.147264,"elevation":113,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

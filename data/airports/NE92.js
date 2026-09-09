@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE92"]={"id":"NE92","name":"THOMSEN","lat":40.049447,"lon":-96.666133,"elevation":1405,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

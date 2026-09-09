@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS15"]={"id":"TS15","name":"CIBOLO CREEK RANCH","lat":29.893536,"lon":-104.261067,"elevation":4400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41FA"]={"id":"41FA","name":"ALOHA MALOLO","lat":28.096875,"lon":-81.740222,"elevation":101,"region":"K7","runways":[{"id":"RW04","lat":28.092083,"lon":-81.745264,"length":4767,"course":49.7},{"id":"RW22","lat":28.101667,"lon":-81.735178,"length":4767,"course":229.7}],"procedures":{"D":{},"E":{},"F":{}}};

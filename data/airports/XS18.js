@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS18"]={"id":"XS18","name":"TOM J MOORE FARM","lat":30.384653,"lon":-96.224683,"elevation":198,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

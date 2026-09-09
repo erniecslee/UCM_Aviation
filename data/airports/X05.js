@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X05"]={"id":"X05","name":"PILOT COUNTRY","lat":28.330283,"lon":-82.496486,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

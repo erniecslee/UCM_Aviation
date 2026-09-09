@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07KY"]={"id":"07KY","name":"BLUE LICK","lat":38.080622,"lon":-85.693292,"elevation":532,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

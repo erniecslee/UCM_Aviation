@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV27"]={"id":"NV27","name":"CIRCLE L RANCH","lat":37.716597,"lon":-118.084272,"elevation":4835,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MT5"]={"id":"2MT5","name":"BRIAR CREEK","lat":45.594139,"lon":-111.152222,"elevation":5175,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25FD"]={"id":"25FD","name":"RITZ CARLTON GRANDE LAKES","lat":28.399381,"lon":-81.435814,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

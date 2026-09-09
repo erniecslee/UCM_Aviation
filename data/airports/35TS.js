@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35TS"]={"id":"35TS","name":"HEMPSTEAD","lat":30.121606,"lon":-96.086625,"elevation":260,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

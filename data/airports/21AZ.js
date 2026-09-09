@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21AZ"]={"id":"21AZ","name":"WHITE MOUNTAIN LAKE","lat":34.352261,"lon":-109.970111,"elevation":6066,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

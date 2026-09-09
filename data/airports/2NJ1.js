@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NJ1"]={"id":"2NJ1","name":"JUGTOWN MOUNTAIN","lat":40.633556,"lon":-75.030083,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

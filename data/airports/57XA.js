@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57XA"]={"id":"57XA","name":"AUSMUS","lat":29.858331,"lon":-98.114625,"elevation":957,"region":"K4","runways":[{"id":"RW12","lat":29.859119,"lon":-98.116089,"length":1092,"course":118.5},{"id":"RW30","lat":29.857539,"lon":-98.113161,"length":1092,"course":298.5}],"procedures":{"D":{},"E":{},"F":{}}};

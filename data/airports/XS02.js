@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS02"]={"id":"XS02","name":"IN THE TRENCHES","lat":32.5101,"lon":-94.824544,"elevation":359,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TE7"]={"id":"0TE7","name":"LBJ RANCH","lat":30.251814,"lon":-98.622531,"elevation":1515,"region":"K4","runways":[{"id":"RW17","lat":30.260439,"lon":-98.623375,"length":6291,"course":167.0},{"id":"RW35","lat":30.2432,"lon":-98.621703,"length":6291,"course":347.0}],"procedures":{"D":{},"E":{},"F":{}}};

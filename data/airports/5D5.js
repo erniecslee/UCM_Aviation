@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5D5"]={"id":"5D5","name":"WOOLSEY MEML","lat":45.164347,"lon":-85.575478,"elevation":628,"region":"K5","runways":[{"id":"RW27","lat":45.1632,"lon":-85.570272,"length":3663,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN84"]={"id":"PN84","name":"LAKE ARTHUR FLD","lat":40.984506,"lon":-80.162006,"elevation":1240,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

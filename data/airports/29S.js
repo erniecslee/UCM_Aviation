@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29S"]={"id":"29S","name":"GARDINER","lat":45.049936,"lon":-110.7466,"elevation":5286,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

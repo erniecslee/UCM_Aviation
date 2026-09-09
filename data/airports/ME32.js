@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME32"]={"id":"ME32","name":"TAILWIND FARM","lat":45.090333,"lon":-69.258656,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

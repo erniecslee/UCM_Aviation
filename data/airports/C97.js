@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C97"]={"id":"C97","name":"LOWELL","lat":41.230169,"lon":-87.507694,"elevation":672,"region":"K5","runways":[{"id":"RW18","lat":41.232214,"lon":-87.507697,"length":3041,"course":181.0},{"id":"RW36","lat":41.225997,"lon":-87.507689,"length":3041,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY32"]={"id":"WY32","name":"CIRCLE B","lat":42.093889,"lon":-110.872222,"elevation":6524,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

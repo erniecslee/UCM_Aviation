@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NA9"]={"id":"7NA9","name":"SJULE PVT AIRSTRIP","lat":48.928347,"lon":-100.577928,"elevation":1680,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

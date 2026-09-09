@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I64"]={"id":"I64","name":"ORTNER","lat":41.293492,"lon":-82.372361,"elevation":848,"region":"K5","runways":[{"id":"RW04","lat":41.288925,"lon":-82.375697,"length":3800,"course":35.0},{"id":"RW22","lat":41.298058,"lon":-82.369025,"length":3800,"course":215.0}],"procedures":{"D":{},"E":{},"F":{}}};

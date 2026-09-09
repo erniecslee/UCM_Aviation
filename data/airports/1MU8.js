@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MU8"]={"id":"1MU8","name":"CHURCH'S LANDING","lat":39.554167,"lon":-94.998611,"elevation":826,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

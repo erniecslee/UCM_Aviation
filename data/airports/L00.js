@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L00"]={"id":"L00","name":"ROSAMOND SKYPARK","lat":34.8705,"lon":-118.205417,"elevation":2415,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

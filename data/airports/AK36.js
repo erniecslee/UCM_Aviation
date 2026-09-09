@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK36"]={"id":"AK36","name":"POINT MAC","lat":61.436019,"lon":-150.122361,"elevation":123,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

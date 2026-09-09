@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40MN"]={"id":"40MN","name":"TURNER FLD","lat":43.866625,"lon":-95.014156,"elevation":1410,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0B2"]={"id":"0B2","name":"BREWER","lat":44.763833,"lon":-68.767861,"elevation":125,"region":"K6","runways":[{"id":"RW01","lat":44.761517,"lon":-68.76715,"length":1730,"course":7.0},{"id":"RW19","lat":44.766153,"lon":-68.768578,"length":1730,"course":187.0}],"procedures":{"D":{},"E":{},"F":{}}};

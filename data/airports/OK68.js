@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK68"]={"id":"OK68","name":"6B AIRFIELD","lat":33.878781,"lon":-96.082528,"elevation":542,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

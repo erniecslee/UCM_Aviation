@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72NM"]={"id":"72NM","name":"OTERO MILL","lat":32.958419,"lon":-105.963044,"elevation":4603,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

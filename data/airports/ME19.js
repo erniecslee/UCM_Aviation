@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME19"]={"id":"ME19","name":"CLAYTON LAKE STRIP","lat":46.616142,"lon":-69.522278,"elevation":1150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

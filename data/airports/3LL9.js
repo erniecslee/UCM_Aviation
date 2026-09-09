@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LL9"]={"id":"3LL9","name":"COMPTON","lat":38.804167,"lon":-89.608889,"elevation":535,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

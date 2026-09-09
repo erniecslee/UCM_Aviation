@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71TX"]={"id":"71TX","name":"GRIER","lat":29.872717,"lon":-98.73225,"elevation":1450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

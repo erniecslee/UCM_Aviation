@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD02"]={"id":"FD02","name":"PATCH O BLUE","lat":29.484972,"lon":-82.022036,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT65"]={"id":"UT65","name":"GOSHUTE","lat":39.997994,"lon":-113.977086,"elevation":5460,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

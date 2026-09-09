@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT88"]={"id":"WT88","name":"HILL","lat":46.841,"lon":-117.056281,"elevation":2700,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

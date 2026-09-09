@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E40"]={"id":"E40","name":"WILSON'S","lat":35.652078,"lon":-81.357864,"elevation":985,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

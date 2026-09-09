@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS57"]={"id":"MS57","name":"FRED NETTERVILLE LUMBER COMPAN","lat":31.220636,"lon":-91.2456,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

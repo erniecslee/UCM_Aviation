@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23CO"]={"id":"23CO","name":"HIGH MESA","lat":38.843861,"lon":-103.989944,"elevation":6000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

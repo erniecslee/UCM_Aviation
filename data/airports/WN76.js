@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN76"]={"id":"WN76","name":"BERGSETH FLD","lat":47.243575,"lon":-121.924553,"elevation":1100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

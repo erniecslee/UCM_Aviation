@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35WA"]={"id":"35WA","name":"FISHER RANCH","lat":46.749867,"lon":-118.417758,"elevation":1521,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

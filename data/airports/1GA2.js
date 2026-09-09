@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GA2"]={"id":"1GA2","name":"FLYING N ESTATES","lat":33.177344,"lon":-84.748542,"elevation":870,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

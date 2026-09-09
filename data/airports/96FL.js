@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96FL"]={"id":"96FL","name":"WINGS FLD","lat":29.242469,"lon":-82.545383,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

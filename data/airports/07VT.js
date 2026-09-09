@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07VT"]={"id":"07VT","name":"MEADOW","lat":44.447222,"lon":-72.914722,"elevation":801,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

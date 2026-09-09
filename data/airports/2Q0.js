@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Q0"]={"id":"2Q0","name":"FLYING W","lat":34.428922,"lon":-80.069939,"elevation":292,"region":"K7","runways":[{"id":"RW09","lat":34.428914,"lon":-80.0726,"length":1606,"course":98.2},{"id":"RW27","lat":34.428931,"lon":-80.067278,"length":1606,"course":278.2}],"procedures":{"D":{},"E":{},"F":{}}};

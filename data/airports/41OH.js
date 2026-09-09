@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41OH"]={"id":"41OH","name":"HUBER FLD","lat":40.313975,"lon":-84.181047,"elevation":1040,"region":"K5","runways":[{"id":"RW01","lat":40.312778,"lon":-84.181442,"length":900,"course":20.7},{"id":"RW19","lat":40.315172,"lon":-84.18065,"length":900,"course":200.7}],"procedures":{"D":{},"E":{},"F":{}}};

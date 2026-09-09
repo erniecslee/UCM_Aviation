@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9N7"]={"id":"9N7","name":"FARMERS PRIDE","lat":40.442869,"lon":-76.441628,"elevation":495,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

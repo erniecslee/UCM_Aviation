@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12LS"]={"id":"12LS","name":"HAINS AIRSTRIP","lat":30.178611,"lon":-92.285,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

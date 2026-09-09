@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9ID0"]={"id":"9ID0","name":"JENKINS CREEK RANCH","lat":44.300333,"lon":-116.985722,"elevation":2315,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

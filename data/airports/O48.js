@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O48"]={"id":"O48","name":"SALMON BAR","lat":45.860264,"lon":-116.797817,"elevation":947,"region":"K1","runways":[{"id":"RW14","lat":45.861214,"lon":-116.798433,"length":762,"course":142.3},{"id":"RW32","lat":45.859311,"lon":-116.7972,"length":762,"course":322.3}],"procedures":{"D":{},"E":{},"F":{}}};

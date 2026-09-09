@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI76"]={"id":"WI76","name":"MAGGIES FARM LLC","lat":42.948617,"lon":-88.775939,"elevation":836,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

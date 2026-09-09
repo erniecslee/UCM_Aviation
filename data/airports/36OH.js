@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36OH"]={"id":"36OH","name":"WRIGHT'S FLD","lat":40.190347,"lon":-81.974025,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

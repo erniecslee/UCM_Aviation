@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04XA"]={"id":"04XA","name":"PECAN FLD","lat":33.283933,"lon":-98.402861,"elevation":1130,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PN8"]={"id":"0PN8","name":"SHRIVER","lat":41.616725,"lon":-79.683108,"elevation":1560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

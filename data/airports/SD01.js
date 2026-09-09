@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD01"]={"id":"SD01","name":"MJ AVIATION I","lat":43.899753,"lon":-98.111019,"elevation":1305,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

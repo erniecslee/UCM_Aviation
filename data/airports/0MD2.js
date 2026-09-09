@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MD2"]={"id":"0MD2","name":"SQUIER LANDING","lat":38.287906,"lon":-76.867469,"elevation":16,"region":"K6","runways":[{"id":"RW12","lat":38.287906,"lon":-76.867469,"length":2200,"course":107.1}],"procedures":{"D":{},"E":{},"F":{}}};

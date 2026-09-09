@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TA0"]={"id":"4TA0","name":"PRAIRIE AIRE FLD","lat":29.35885,"lon":-95.664667,"elevation":65,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

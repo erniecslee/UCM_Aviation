@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02OK"]={"id":"02OK","name":"BOBBITT","lat":36.618889,"lon":-97.535,"elevation":1033,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44TN"]={"id":"44TN","name":"STONE FLD","lat":35.840908,"lon":-84.075719,"elevation":890,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

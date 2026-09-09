@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9PA2"]={"id":"9PA2","name":"OLD PLAINS","lat":40.394544,"lon":-75.441292,"elevation":660,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

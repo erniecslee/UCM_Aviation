@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0F7"]={"id":"0F7","name":"FOUNTAINHEAD LODGE AIRPARK","lat":35.388667,"lon":-95.600278,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

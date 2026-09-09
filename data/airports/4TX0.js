@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TX0"]={"id":"4TX0","name":"SLACK","lat":29.863556,"lon":-94.834367,"elevation":35,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

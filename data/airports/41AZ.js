@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41AZ"]={"id":"41AZ","name":"FARMS","lat":32.986164,"lon":-112.025697,"elevation":1210,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY64"]={"id":"WY64","name":"LONE PINE FLYING RANCH","lat":42.957422,"lon":-110.982711,"elevation":6000,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

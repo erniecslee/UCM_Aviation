@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA24"]={"id":"VA24","name":"SKOVHUS","lat":37.414311,"lon":-78.964186,"elevation":712,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

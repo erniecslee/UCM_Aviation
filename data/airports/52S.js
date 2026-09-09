@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52S"]={"id":"52S","name":"ST IGNATIUS","lat":47.325,"lon":-114.080833,"elevation":3006,"region":"K1","runways":[{"id":"RW08","lat":47.326178,"lon":-114.085806,"length":2610,"course":91.0},{"id":"RW26","lat":47.323808,"lon":-114.075875,"length":2610,"course":271.0}],"procedures":{"D":{},"E":{},"F":{}}};

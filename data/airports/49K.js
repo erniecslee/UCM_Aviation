@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49K"]={"id":"49K","name":"NORWICH","lat":37.455575,"lon":-97.833664,"elevation":1494,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

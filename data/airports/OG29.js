@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG29"]={"id":"OG29","name":"MC KINNON AIRPARK","lat":45.430675,"lon":-122.242033,"elevation":658,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

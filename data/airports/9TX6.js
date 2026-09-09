@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TX6"]={"id":"9TX6","name":"BEGGS RANCH","lat":33.175094,"lon":-101.024017,"elevation":2355,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

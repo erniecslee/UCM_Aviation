@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN63"]={"id":"WN63","name":"BRISTOL","lat":42.536686,"lon":-88.003969,"elevation":735,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IS3"]={"id":"3IS3","name":"NOLAND FARMS","lat":39.739144,"lon":-89.147175,"elevation":602,"region":"K5","runways":[{"id":"E","lat":39.739131,"lon":-89.150728,"length":2000,"course":89.0},{"id":"W","lat":39.739158,"lon":-89.143619,"length":2000,"course":269.0}],"procedures":{"D":{},"E":{},"F":{}}};

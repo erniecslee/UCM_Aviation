@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG33"]={"id":"OG33","name":"OREGON SKY RANCH","lat":45.879022,"lon":-118.405244,"elevation":1357,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

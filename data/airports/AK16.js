@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK16"]={"id":"AK16","name":"SUNSET STRIP","lat":61.523419,"lon":-149.714861,"elevation":303,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

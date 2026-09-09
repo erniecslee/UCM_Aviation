@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN86"]={"id":"WN86","name":"ST CROIX VALLEY","lat":45.263853,"lon":-92.621592,"elevation":1085,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

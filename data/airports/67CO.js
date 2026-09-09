@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67CO"]={"id":"67CO","name":"HIGHLINE FARM AIRSTRIP","lat":40.4715,"lon":-104.813472,"elevation":4745,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73CA"]={"id":"73CA","name":"BEAR VALLEY","lat":38.4588,"lon":-120.039908,"elevation":7073,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

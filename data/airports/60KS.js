@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60KS"]={"id":"60KS","name":"ALLEY FLD","lat":37.513997,"lon":-96.999669,"elevation":1260,"region":"K3","runways":[{"id":"RW17","lat":37.515642,"lon":-96.999792,"length":1200,"course":169.6},{"id":"RW35","lat":37.51235,"lon":-96.999547,"length":1200,"course":349.6}],"procedures":{"D":{},"E":{},"F":{}}};

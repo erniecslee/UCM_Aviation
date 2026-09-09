@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A63"]={"id":"A63","name":"TWIN HILLS","lat":59.074525,"lon":-160.275042,"elevation":82,"region":"PA","runways":[{"id":"RW18","lat":59.078478,"lon":-160.272897,"length":3000,"course":177.0},{"id":"RW36","lat":59.070572,"lon":-160.277183,"length":3000,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

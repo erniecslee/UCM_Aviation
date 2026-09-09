@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL49"]={"id":"LL49","name":"RAYMOND","lat":39.062222,"lon":-90.272222,"elevation":658,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA05"]={"id":"XA05","name":"FAIRVIEW FLD","lat":34.10105,"lon":-102.624233,"elevation":3819,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

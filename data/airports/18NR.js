@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18NR"]={"id":"18NR","name":"SUGGS FLD","lat":35.364939,"lon":-77.635389,"elevation":85,"region":"K7","runways":[{"id":"RW15","lat":35.367214,"lon":-77.637553,"length":2100,"course":152.0},{"id":"RW33","lat":35.362661,"lon":-77.633225,"length":2100,"course":332.0}],"procedures":{"D":{},"E":{},"F":{}}};

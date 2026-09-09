@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA37"]={"id":"TA37","name":"VACA MOO","lat":32.427681,"lon":-95.711389,"elevation":590,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

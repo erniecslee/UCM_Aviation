@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27ID"]={"id":"27ID","name":"HUDDLESTON","lat":42.582956,"lon":-114.5501,"elevation":3697,"region":"K1","runways":[{"id":"RW01","lat":42.580269,"lon":-114.5501,"length":1957,"course":348.0},{"id":"RW19","lat":42.585639,"lon":-114.5501,"length":1957,"course":168.0}],"procedures":{"D":{},"E":{},"F":{}}};

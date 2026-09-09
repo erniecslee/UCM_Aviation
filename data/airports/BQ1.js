@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["BQ1"]={"id":"BQ1","name":"GILLIAM - MC CONNELL AIRFIELD","lat":35.341667,"lon":-79.436944,"elevation":445,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

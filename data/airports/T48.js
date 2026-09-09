@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T48"]={"id":"T48","name":"POETRY FLYING RANCH","lat":32.868122,"lon":-96.219142,"elevation":500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

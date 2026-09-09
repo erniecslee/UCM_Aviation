@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83IN"]={"id":"83IN","name":"GOODENOUGH","lat":40.739764,"lon":-86.000547,"elevation":685,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

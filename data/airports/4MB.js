@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MB"]={"id":"4MB","name":"MOULTONBOROUGH","lat":43.767458,"lon":-71.387625,"elevation":576,"region":"K6","runways":[{"id":"RW02","lat":43.762664,"lon":-71.388128,"length":3505,"course":20.0},{"id":"RW20","lat":43.77225,"lon":-71.387125,"length":3505,"course":200.0}],"procedures":{"D":{},"E":{},"F":{}}};

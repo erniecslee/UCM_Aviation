@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NC3"]={"id":"5NC3","name":"REED MINE","lat":35.299386,"lon":-80.457833,"elevation":581,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

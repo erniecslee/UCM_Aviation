@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME27"]={"id":"ME27","name":"DOUBLE A","lat":44.900903,"lon":-68.802258,"elevation":115,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA7"]={"id":"8GA7","name":"ETOWAH BEND","lat":34.202039,"lon":-84.977167,"elevation":620,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

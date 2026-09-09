@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR7"]={"id":"3AR7","name":"TAYLOR FLD","lat":36.264739,"lon":-94.165417,"elevation":1315,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

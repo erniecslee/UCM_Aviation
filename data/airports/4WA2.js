@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WA2"]={"id":"4WA2","name":"CRICKET FLD","lat":46.927181,"lon":-122.968472,"elevation":184,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

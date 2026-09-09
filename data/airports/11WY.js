@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11WY"]={"id":"11WY","name":"THOMPSON CREEK OILFIELD","lat":44.958606,"lon":-104.868656,"elevation":3814,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

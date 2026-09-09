@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4XA4"]={"id":"4XA4","name":"APACHE PASS","lat":30.683553,"lon":-97.143378,"elevation":410,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

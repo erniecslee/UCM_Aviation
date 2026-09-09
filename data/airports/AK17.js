@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK17"]={"id":"AK17","name":"GLACIERVIEW STRIP","lat":59.763564,"lon":-151.223242,"elevation":1600,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA00"]={"id":"GA00","name":"KINTAIL FARM","lat":33.825556,"lon":-83.639722,"elevation":810,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

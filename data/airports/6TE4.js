@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TE4"]={"id":"6TE4","name":"CIRCLE WC RANCH","lat":33.440311,"lon":-94.927992,"elevation":320,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

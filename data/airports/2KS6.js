@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KS6"]={"id":"2KS6","name":"FLYING H","lat":39.750381,"lon":-96.026783,"elevation":1192,"region":"K3","runways":[{"id":"RW18","lat":39.754042,"lon":-96.026047,"length":2700,"course":186.7},{"id":"RW36","lat":39.746717,"lon":-96.027519,"length":2700,"course":6.7}],"procedures":{"D":{},"E":{},"F":{}}};

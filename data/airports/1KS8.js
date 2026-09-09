@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS8"]={"id":"1KS8","name":"BUEHLER","lat":38.515297,"lon":-100.994597,"elevation":3038,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

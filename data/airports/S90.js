@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S90"]={"id":"S90","name":"ELK CITY","lat":45.822686,"lon":-115.43985,"elevation":4097,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

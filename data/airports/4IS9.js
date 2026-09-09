@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IS9"]={"id":"4IS9","name":"WEIDNER","lat":39.085861,"lon":-89.958875,"elevation":667,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

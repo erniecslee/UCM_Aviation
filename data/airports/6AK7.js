@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK7"]={"id":"6AK7","name":"RAINBOW HEIGHTS ESTATES AIRSTR","lat":61.574722,"lon":-149.635,"elevation":270,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

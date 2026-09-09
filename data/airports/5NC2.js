@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NC2"]={"id":"5NC2","name":"SUGAR VALLEY","lat":35.984861,"lon":-80.511417,"elevation":731,"region":"K7","runways":[{"id":"RW02L","lat":35.981569,"lon":-80.5121,"length":2424,"course":16.0},{"id":"RW20R","lat":35.988133,"lon":-80.510706,"length":2424,"course":196.0}],"procedures":{"D":{},"E":{},"F":{}}};

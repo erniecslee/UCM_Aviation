@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LL1"]={"id":"0LL1","name":"JERSEYVILLE AVIATION INC","lat":39.094214,"lon":-90.313447,"elevation":604,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

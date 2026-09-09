@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR13"]={"id":"OR13","name":"WILEY CREEK","lat":44.502833,"lon":-119.371083,"elevation":4130,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

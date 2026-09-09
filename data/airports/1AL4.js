@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AL4"]={"id":"1AL4","name":"ELSANOR","lat":30.544722,"lon":-87.559444,"elevation":180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

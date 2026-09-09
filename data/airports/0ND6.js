@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ND6"]={"id":"0ND6","name":"SCHUMACHER STRIP","lat":46.054986,"lon":-99.917058,"elevation":2020,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I83"]={"id":"I83","name":"SALEM MUNI","lat":38.604075,"lon":-86.152253,"elevation":840,"region":"K5","runways":[{"id":"RW08","lat":38.603186,"lon":-86.157378,"length":3000,"course":81.5},{"id":"RW26","lat":38.604964,"lon":-86.147125,"length":3000,"course":261.5}],"procedures":{"D":{},"E":{},"F":{}}};

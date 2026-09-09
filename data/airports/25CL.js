@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25CL"]={"id":"25CL","name":"VAN DYKE STRIP","lat":38.866564,"lon":-121.4844,"elevation":48,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

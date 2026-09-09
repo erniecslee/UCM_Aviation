@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MD3"]={"id":"6MD3","name":"HARP","lat":39.596944,"lon":-77.546667,"elevation":1360,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

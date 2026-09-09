@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00WA"]={"id":"00WA","name":"HOWELL","lat":47.178431,"lon":-122.7718,"elevation":150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

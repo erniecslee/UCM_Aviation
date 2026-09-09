@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA49"]={"id":"PA49","name":"MOUNTAIN BAY AIR PARK INC","lat":41.380089,"lon":-75.2324,"elevation":1500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

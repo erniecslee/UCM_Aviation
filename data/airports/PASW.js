@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PASW"]={"id":"PASW","name":"SKWENTNA","lat":61.966114,"lon":-151.195392,"elevation":148,"region":"PA","runways":[{"id":"RW10","lat":61.968183,"lon":-151.204233,"length":3400,"course":91.0},{"id":"RW28","lat":61.964042,"lon":-151.186547,"length":3400,"course":271.0}],"procedures":{"D":{},"E":{},"F":{}}};

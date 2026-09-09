@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2II6"]={"id":"2II6","name":"BAIRD-WOLFORD","lat":40.264758,"lon":-86.102767,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

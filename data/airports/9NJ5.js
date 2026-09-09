@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NJ5"]={"id":"9NJ5","name":"STALLONE","lat":39.680114,"lon":-75.252408,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

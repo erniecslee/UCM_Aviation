@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA32"]={"id":"XA32","name":"WOLFE FLD","lat":30.911472,"lon":-97.171278,"elevation":500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

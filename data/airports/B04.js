@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["B04"]={"id":"B04","name":"GARNSEYS","lat":43.067644,"lon":-73.583842,"elevation":100,"region":"K6","runways":[{"id":"RW02","lat":43.064225,"lon":-73.584211,"length":2500,"course":19.0},{"id":"RW20","lat":43.071061,"lon":-73.583469,"length":2500,"course":199.0}],"procedures":{"D":{},"E":{},"F":{}}};

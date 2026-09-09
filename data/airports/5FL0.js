@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FL0"]={"id":"5FL0","name":"DUSTY AIRPATCH","lat":28.413056,"lon":-82.223417,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

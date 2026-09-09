@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67TX"]={"id":"67TX","name":"JOHN R ARMSTRONG MEML FLD","lat":32.911486,"lon":-95.73835,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

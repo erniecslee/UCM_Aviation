@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FL1"]={"id":"9FL1","name":"FLYING W AIRRANCH","lat":28.683603,"lon":-82.157586,"elevation":58,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

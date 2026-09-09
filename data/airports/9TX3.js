@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TX3"]={"id":"9TX3","name":"HORAN","lat":34.168961,"lon":-101.635172,"elevation":3339,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

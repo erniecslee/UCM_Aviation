@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX0"]={"id":"TX0","name":"SHANK N BANK","lat":28.740072,"lon":-96.468189,"elevation":29,"region":"K4","runways":[{"id":"RW09","lat":28.739983,"lon":-96.475994,"length":5002,"course":87.0},{"id":"RW27","lat":28.740158,"lon":-96.460386,"length":5002,"course":267.0}],"procedures":{"D":{},"E":{},"F":{}}};

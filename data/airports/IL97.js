@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL97"]={"id":"IL97","name":"HARFORD","lat":41.273683,"lon":-88.444192,"elevation":584,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

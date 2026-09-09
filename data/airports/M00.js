@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M00"]={"id":"M00","name":"AUGUSTA","lat":44.267569,"lon":-69.781711,"elevation":23,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

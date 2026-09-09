@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38WA"]={"id":"38WA","name":"BLAKELY ISLAND","lat":48.578992,"lon":-122.826292,"elevation":66,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

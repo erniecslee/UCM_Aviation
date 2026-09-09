@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG25"]={"id":"OG25","name":"FIREFLY RANCH AIRFIELD","lat":42.511233,"lon":-122.924211,"elevation":1310,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

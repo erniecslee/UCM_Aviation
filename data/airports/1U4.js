@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1U4"]={"id":"1U4","name":"NEW MEADOWS","lat":44.978,"lon":-116.283917,"elevation":3908,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

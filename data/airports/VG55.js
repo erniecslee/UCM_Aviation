@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG55"]={"id":"VG55","name":"BURNER","lat":38.88205,"lon":-78.557789,"elevation":965,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

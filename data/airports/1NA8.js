@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NA8"]={"id":"1NA8","name":"PRESZLER AIRSTRIP","lat":46.690542,"lon":-100.095386,"elevation":1795,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

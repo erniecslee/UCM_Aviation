@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK6"]={"id":"4AK6","name":"WOLF LAKE","lat":61.639375,"lon":-149.283953,"elevation":540,"region":"PA","runways":[{"id":"RW08","lat":61.639375,"lon":-149.294875,"length":3800,"course":65.0},{"id":"RW26","lat":61.639375,"lon":-149.273028,"length":3800,"course":245.0}],"procedures":{"D":{},"E":{},"F":{}}};

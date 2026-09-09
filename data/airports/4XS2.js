@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4XS2"]={"id":"4XS2","name":"FELTON FLD","lat":33.170556,"lon":-97.731667,"elevation":795,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

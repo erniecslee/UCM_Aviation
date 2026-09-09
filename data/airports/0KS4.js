@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KS4"]={"id":"0KS4","name":"NORRIS","lat":38.807239,"lon":-95.370056,"elevation":1065,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

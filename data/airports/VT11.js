@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT11"]={"id":"VT11","name":"ASS-PIRIN ACRES","lat":44.068667,"lon":-73.373444,"elevation":130,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

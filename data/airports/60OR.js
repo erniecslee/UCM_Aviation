@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60OR"]={"id":"60OR","name":"WHITAKER","lat":43.426508,"lon":-123.279797,"elevation":625,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

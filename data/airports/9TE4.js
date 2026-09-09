@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TE4"]={"id":"9TE4","name":"TANNER'S","lat":28.569756,"lon":-96.633847,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32FA"]={"id":"32FA","name":"SUNSET STRIP AIRPARK","lat":27.234214,"lon":-80.903672,"elevation":34,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NR7"]={"id":"1NR7","name":"BOYD FLD","lat":36.274094,"lon":-78.468808,"elevation":336,"region":"K7","runways":[{"id":"RW01","lat":36.268097,"lon":-78.469722,"length":4400,"course":16.5},{"id":"RW19","lat":36.280092,"lon":-78.467894,"length":4400,"course":196.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41NY"]={"id":"41NY","name":"BONEBENDER","lat":44.312389,"lon":-73.384889,"elevation":336,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

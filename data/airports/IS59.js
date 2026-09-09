@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS59"]={"id":"IS59","name":"ROTSTEIN","lat":42.133889,"lon":-88.924167,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

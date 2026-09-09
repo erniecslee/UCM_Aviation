@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68TA"]={"id":"68TA","name":"COX FLD","lat":31.667,"lon":-99.088833,"elevation":1608,"region":"K4","runways":[{"id":"RW02","lat":31.665333,"lon":-99.089667,"length":1319,"course":19.3},{"id":"RW20","lat":31.668667,"lon":-99.088,"length":1319,"course":199.3}],"procedures":{"D":{},"E":{},"F":{}}};

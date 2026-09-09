@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK9"]={"id":"0AK9","name":"FALCON LAKE STRIP","lat":61.33255,"lon":-150.059053,"elevation":110,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

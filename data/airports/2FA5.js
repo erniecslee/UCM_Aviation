@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FA5"]={"id":"2FA5","name":"THUNDERBIRD AIRPARK","lat":29.472194,"lon":-81.572019,"elevation":67,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

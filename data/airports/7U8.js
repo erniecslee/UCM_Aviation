@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7U8"]={"id":"7U8","name":"RICHEY","lat":47.626417,"lon":-105.079583,"elevation":2494,"region":"K1","runways":[{"id":"RW14","lat":47.629647,"lon":-105.082217,"length":2690,"course":138.0},{"id":"RW32","lat":47.623181,"lon":-105.076972,"length":2690,"course":318.0}],"procedures":{"D":{},"E":{},"F":{}}};

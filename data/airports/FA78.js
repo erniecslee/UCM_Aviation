@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA78"]={"id":"FA78","name":"ROBINESTTE","lat":28.333,"lon":-81.25,"elevation":58,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

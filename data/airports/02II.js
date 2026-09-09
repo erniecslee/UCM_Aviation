@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02II"]={"id":"02II","name":"KING","lat":40.062261,"lon":-86.210547,"elevation":925,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

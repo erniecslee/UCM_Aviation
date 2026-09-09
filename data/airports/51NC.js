@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51NC"]={"id":"51NC","name":"PHILLIP R BUNN","lat":35.860167,"lon":-78.345333,"elevation":330,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

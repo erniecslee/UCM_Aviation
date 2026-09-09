@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS44"]={"id":"MS44","name":"FIGHTING BAYOU","lat":33.69625,"lon":-90.431111,"elevation":126,"region":"K7","runways":[{"id":"RW18","lat":33.698889,"lon":-90.431111,"length":1921,"course":181.5},{"id":"RW36","lat":33.693611,"lon":-90.431111,"length":1921,"course":1.5}],"procedures":{"D":{},"E":{},"F":{}}};

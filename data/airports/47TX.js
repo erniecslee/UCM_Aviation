@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47TX"]={"id":"47TX","name":"ARMSTRONG RANCH","lat":26.933944,"lon":-97.762494,"elevation":27,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

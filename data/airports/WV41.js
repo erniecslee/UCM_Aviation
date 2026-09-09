@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV41"]={"id":"WV41","name":"EAST LIVERPOOL","lat":40.629231,"lon":-80.524792,"elevation":665,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

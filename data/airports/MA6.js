@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA6"]={"id":"MA6","name":"MONPONSETT POND","lat":42.009825,"lon":-70.843097,"elevation":52,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

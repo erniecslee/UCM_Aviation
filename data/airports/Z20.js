@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z20"]={"id":"Z20","name":"TUNTUTULIAK","lat":60.341456,"lon":-162.665619,"elevation":15,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

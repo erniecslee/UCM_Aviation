@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK85"]={"id":"AK85","name":"BIRCHWATER","lat":61.482333,"lon":-149.763986,"elevation":110,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

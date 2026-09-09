@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83V"]={"id":"83V","name":"UPTON MUNI","lat":44.090536,"lon":-104.640794,"elevation":4290,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

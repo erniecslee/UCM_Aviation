@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GE7"]={"id":"1GE7","name":"HAY FLD","lat":33.517222,"lon":-83.439722,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

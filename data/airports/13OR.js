@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13OR"]={"id":"13OR","name":"AUBREY MOUNTAIN AIRSTRIP","lat":43.740678,"lon":-122.426436,"elevation":1680,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

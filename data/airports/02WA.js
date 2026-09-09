@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02WA"]={"id":"02WA","name":"CAWLEYS SOUTH PRAIRIE","lat":47.152325,"lon":-122.094003,"elevation":690,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

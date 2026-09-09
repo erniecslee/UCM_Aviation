@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18T"]={"id":"18T","name":"TATUM","lat":33.260806,"lon":-103.278486,"elevation":3986,"region":"K2","runways":[{"id":"RW12","lat":33.263472,"lon":-103.282056,"length":2920,"course":122.0},{"id":"RW30","lat":33.258139,"lon":-103.274917,"length":2920,"course":302.0}],"procedures":{"D":{},"E":{},"F":{}}};

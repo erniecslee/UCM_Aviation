@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TS8"]={"id":"2TS8","name":"BAILEY","lat":29.220519,"lon":-97.871667,"elevation":452,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

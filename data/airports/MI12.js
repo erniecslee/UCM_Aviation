@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI12"]={"id":"MI12","name":"RADO'S CROSSING","lat":41.90555,"lon":-83.632011,"elevation":673,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

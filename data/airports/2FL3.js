@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FL3"]={"id":"2FL3","name":"FOLSOM","lat":30.672583,"lon":-85.083453,"elevation":155,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

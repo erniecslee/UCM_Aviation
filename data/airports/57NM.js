@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57NM"]={"id":"57NM","name":"MONTE PRIETO RANCH","lat":34.088681,"lon":-106.119167,"elevation":6164,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

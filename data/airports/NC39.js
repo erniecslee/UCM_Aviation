@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC39"]={"id":"NC39","name":"ENOCHVILLE","lat":35.524306,"lon":-80.647844,"elevation":789,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

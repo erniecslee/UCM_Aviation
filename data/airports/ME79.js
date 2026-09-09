@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME79"]={"id":"ME79","name":"TWO FALLS","lat":45.305606,"lon":-69.346714,"elevation":366,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

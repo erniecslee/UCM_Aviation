@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72LL"]={"id":"72LL","name":"FOLEY","lat":41.373647,"lon":-89.344533,"elevation":690,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

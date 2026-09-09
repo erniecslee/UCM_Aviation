@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA62"]={"id":"IA62","name":"MATTHIAS FLD","lat":43.3746,"lon":-92.308275,"elevation":1304,"region":"K3","runways":[{"id":"RW18","lat":43.378125,"lon":-92.308272,"length":2570,"course":180.8},{"id":"RW36","lat":43.371075,"lon":-92.308275,"length":2570,"course":0.8}],"procedures":{"D":{},"E":{},"F":{}}};

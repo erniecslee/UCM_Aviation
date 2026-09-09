@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CL0"]={"id":"0CL0","name":"YOSEMITE HIDDEN LAKE RANCH","lat":37.118003,"lon":-119.913214,"elevation":500,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

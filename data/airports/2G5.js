@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2G5"]={"id":"2G5","name":"GRANITE SHOALS/ BOB SYLVESTER","lat":30.589356,"lon":-98.370303,"elevation":860,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

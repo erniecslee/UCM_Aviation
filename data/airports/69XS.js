@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69XS"]={"id":"69XS","name":"BRUSHY CREEK","lat":33.753403,"lon":-96.830247,"elevation":715,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

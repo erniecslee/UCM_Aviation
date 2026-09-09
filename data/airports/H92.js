@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H92"]={"id":"H92","name":"HOMINY MUNI","lat":36.44275,"lon":-96.387222,"elevation":825,"region":"K4","runways":[{"id":"RW17","lat":36.447158,"lon":-96.387225,"length":3210,"course":174.0},{"id":"RW35","lat":36.438342,"lon":-96.387225,"length":3210,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

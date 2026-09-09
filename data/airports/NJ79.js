@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ79"]={"id":"NJ79","name":"GOAT HILL","lat":40.351494,"lon":-74.909333,"elevation":350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

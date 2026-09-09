@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80G"]={"id":"80G","name":"TRI-CITY","lat":40.247861,"lon":-81.736069,"elevation":844,"region":"K5","runways":[{"id":"RW28","lat":40.247711,"lon":-81.7307,"length":3000,"course":280.2}],"procedures":{"D":{},"E":{},"F":{}}};

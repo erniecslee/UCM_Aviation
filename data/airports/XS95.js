@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS95"]={"id":"XS95","name":"CARDINAL FLD","lat":29.256694,"lon":-96.987,"elevation":221,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

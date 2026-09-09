@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MN2"]={"id":"4MN2","name":"OAK","lat":49.314247,"lon":-94.874964,"elevation":1061,"region":"K3","runways":[{"id":"RW05W","lat":49.308022,"lon":-94.886814,"length":7252,"course":50.3},{"id":"RW23W","lat":49.320469,"lon":-94.863114,"length":7252,"course":230.3}],"procedures":{"D":{},"E":{},"F":{}}};

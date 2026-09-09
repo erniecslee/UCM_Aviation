@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO15"]={"id":"CO15","name":"KELLY AIR PARK","lat":39.224667,"lon":-104.6399,"elevation":7040,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

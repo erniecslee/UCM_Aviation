@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA65"]={"id":"TA65","name":"SPORTSMAN'S WORLD","lat":32.821233,"lon":-98.478667,"elevation":1142,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

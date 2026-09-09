@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK67"]={"id":"AK67","name":"SKID MARKS","lat":61.738611,"lon":-150.072778,"elevation":64,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

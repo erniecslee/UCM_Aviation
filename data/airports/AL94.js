@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL94"]={"id":"AL94","name":"EVANS FLD","lat":30.812689,"lon":-88.377233,"elevation":212,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

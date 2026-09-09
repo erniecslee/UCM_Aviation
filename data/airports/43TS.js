@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43TS"]={"id":"43TS","name":"AERO SAYLEE","lat":28.474286,"lon":-98.583819,"elevation":269,"region":"K4","runways":[{"id":"RW17","lat":28.479017,"lon":-98.584433,"length":3462,"course":169.9},{"id":"RW35","lat":28.469556,"lon":-98.583203,"length":3462,"course":349.9}],"procedures":{"D":{},"E":{},"F":{}}};

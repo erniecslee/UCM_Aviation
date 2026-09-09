@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06Y"]={"id":"06Y","name":"HERMAN MUNI","lat":45.829961,"lon":-96.160614,"elevation":1068,"region":"K3","runways":[{"id":"RW14","lat":45.833178,"lon":-96.163567,"length":2997,"course":143.3},{"id":"RW32","lat":45.826189,"lon":-96.157383,"length":2997,"course":323.3}],"procedures":{"D":{},"E":{},"F":{}}};

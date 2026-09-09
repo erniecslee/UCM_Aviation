@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAS"]={"id":"PAAS","name":"STEBBINS","lat":63.515969,"lon":-162.278006,"elevation":19,"region":"PA","runways":[{"id":"RW05","lat":63.514189,"lon":-162.286281,"length":3000,"course":45.0},{"id":"RW23","lat":63.517747,"lon":-162.269731,"length":3000,"course":225.0}],"procedures":{"D":{},"E":{},"F":{}}};

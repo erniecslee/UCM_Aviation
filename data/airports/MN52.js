@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN52"]={"id":"MN52","name":"GOSPEL RANCH","lat":47.2285,"lon":-93.091111,"elevation":1360,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

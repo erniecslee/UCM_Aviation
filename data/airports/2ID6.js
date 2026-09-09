@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ID6"]={"id":"2ID6","name":"LEMONS FLD","lat":43.927336,"lon":-116.946475,"elevation":2280,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

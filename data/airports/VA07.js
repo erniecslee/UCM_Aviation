@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA07"]={"id":"VA07","name":"BURKES GARDEN","lat":37.095672,"lon":-81.369272,"elevation":3060,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

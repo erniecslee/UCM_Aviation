@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT07"]={"id":"CT07","name":"SKIS LANDING AREA","lat":41.573708,"lon":-72.303136,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

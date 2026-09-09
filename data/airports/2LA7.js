@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LA7"]={"id":"2LA7","name":"COSTELLO","lat":32.965856,"lon":-91.425864,"elevation":100,"region":"K4","runways":[{"id":"RW01","lat":32.961403,"lon":-91.426831,"length":3293,"course":7.4},{"id":"RW19","lat":32.970306,"lon":-91.424894,"length":3293,"course":187.4}],"procedures":{"D":{},"E":{},"F":{}}};

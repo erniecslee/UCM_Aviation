@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC81"]={"id":"SC81","name":"ABBEVILLE","lat":34.151506,"lon":-82.353736,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

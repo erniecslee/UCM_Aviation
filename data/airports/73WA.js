@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73WA"]={"id":"73WA","name":"7 BAYS","lat":47.850992,"lon":-118.330267,"elevation":1580,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

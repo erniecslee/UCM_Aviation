@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL72"]={"id":"FL72","name":"MEZRAH","lat":27.947531,"lon":-82.390872,"elevation":6,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

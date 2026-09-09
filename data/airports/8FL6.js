@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FL6"]={"id":"8FL6","name":"GEORGE T MC CUTCHAN","lat":30.673525,"lon":-86.851906,"elevation":160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3J6"]={"id":"3J6","name":"DAVIS FLD","lat":30.796361,"lon":-82.028167,"elevation":68,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

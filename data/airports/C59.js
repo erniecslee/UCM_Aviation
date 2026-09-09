@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C59"]={"id":"C59","name":"LAKE LAWN","lat":42.634125,"lon":-88.601131,"elevation":981,"region":"K5","runways":[{"id":"RW18","lat":42.639303,"lon":-88.600531,"length":4423,"course":187.0},{"id":"RW36","lat":42.628906,"lon":-88.601722,"length":4423,"course":7.0}],"procedures":{"D":{},"E":{},"F":{}}};

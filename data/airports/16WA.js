@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16WA"]={"id":"16WA","name":"TIGHTCLIFF","lat":47.844722,"lon":-117.693611,"elevation":1855,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

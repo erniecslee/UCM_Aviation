@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18TA"]={"id":"18TA","name":"WEST KERR RANCH","lat":30.136314,"lon":-99.743675,"elevation":2330,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

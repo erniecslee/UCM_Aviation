@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CO0"]={"id":"5CO0","name":"WINDY PLAINS","lat":38.829722,"lon":-102.298889,"elevation":4184,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

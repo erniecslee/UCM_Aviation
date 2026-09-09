@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK22"]={"id":"AK22","name":"LAKLOEY AIR PARK","lat":64.821667,"lon":-147.521667,"elevation":475,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

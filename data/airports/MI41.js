@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI41"]={"id":"MI41","name":"CRYSTAL","lat":42.831697,"lon":-82.534636,"elevation":610,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

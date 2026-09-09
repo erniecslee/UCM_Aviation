@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44KY"]={"id":"44KY","name":"DUFF","lat":37.352592,"lon":-83.342403,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

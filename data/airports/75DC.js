@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75DC"]={"id":"75DC","name":"OAKESDALE","lat":47.141561,"lon":-117.235739,"elevation":2680,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

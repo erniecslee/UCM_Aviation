@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KY5"]={"id":"4KY5","name":"WEAVERS RUN","lat":38.028611,"lon":-85.89,"elevation":550,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95CO"]={"id":"95CO","name":"MANN RANCH","lat":37.868483,"lon":-104.83575,"elevation":6000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

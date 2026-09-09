@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN5"]={"id":"IN5","name":"ADAMS LAKE","lat":41.552689,"lon":-85.331119,"elevation":955,"region":"K5","runways":[{"id":"RW06W","lat":41.5513,"lon":-85.335122,"length":2675,"course":70.3},{"id":"RW24W","lat":41.554469,"lon":-85.326292,"length":2675,"course":250.3}],"procedures":{"D":{},"E":{},"F":{}}};

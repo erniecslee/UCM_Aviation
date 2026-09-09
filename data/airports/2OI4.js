@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OI4"]={"id":"2OI4","name":"CRAZY BOB'S","lat":41.045333,"lon":-81.936531,"elevation":1195,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

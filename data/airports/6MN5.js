@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MN5"]={"id":"6MN5","name":"GALE'S","lat":45.207742,"lon":-94.162483,"elevation":1011,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

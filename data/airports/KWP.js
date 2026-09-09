@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KWP"]={"id":"KWP","name":"WEST POINT VILLAGE","lat":57.770108,"lon":-153.548947,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

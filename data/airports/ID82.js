@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID82"]={"id":"ID82","name":"PICABO","lat":43.308239,"lon":-114.063367,"elevation":4828,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ID1"]={"id":"0ID1","name":"ZIGGY'S","lat":42.641211,"lon":-114.605433,"elevation":3225,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

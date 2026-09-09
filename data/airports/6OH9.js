@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OH9"]={"id":"6OH9","name":"KEMPS FIELD OF DREAMS","lat":40.105883,"lon":-84.39995,"elevation":974,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

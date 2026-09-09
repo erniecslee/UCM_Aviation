@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FL4"]={"id":"5FL4","name":"BYRD AIR FLD","lat":29.800803,"lon":-81.500914,"elevation":21,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

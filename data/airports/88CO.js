@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88CO"]={"id":"88CO","name":"TRANQUILA","lat":38.886103,"lon":-104.24885,"elevation":6320,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

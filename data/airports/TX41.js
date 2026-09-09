@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX41"]={"id":"TX41","name":"PIPPEN-YORK RANCH","lat":30.091319,"lon":-98.364742,"elevation":1340,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

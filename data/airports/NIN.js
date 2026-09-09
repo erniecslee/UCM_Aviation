@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NIN"]={"id":"NIN","name":"NINILCHIK","lat":60.020233,"lon":-151.589419,"elevation":276,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

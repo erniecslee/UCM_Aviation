@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K08"]={"id":"K08","name":"HOLLY","lat":38.035125,"lon":-102.116672,"elevation":3399,"region":"K2","runways":[{"id":"RW17","lat":38.040808,"lon":-102.116725,"length":4140,"course":170.0},{"id":"RW35","lat":38.029439,"lon":-102.116617,"length":4140,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

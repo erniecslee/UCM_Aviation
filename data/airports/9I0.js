@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9I0"]={"id":"9I0","name":"HAVANA RGNL","lat":40.222694,"lon":-90.022783,"elevation":488,"region":"K5","runways":[{"id":"RW09","lat":40.222681,"lon":-90.026783,"length":2235,"course":88.8},{"id":"RW27","lat":40.222706,"lon":-90.018781,"length":2235,"course":268.8}],"procedures":{"D":{},"E":{},"F":{}}};

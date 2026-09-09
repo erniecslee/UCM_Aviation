@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC10"]={"id":"NC10","name":"NOCARVA","lat":36.541814,"lon":-78.058047,"elevation":275,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

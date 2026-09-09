@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WI6"]={"id":"8WI6","name":"FUNK AERODROME","lat":44.609719,"lon":-87.652872,"elevation":831,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

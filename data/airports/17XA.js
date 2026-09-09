@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17XA"]={"id":"17XA","name":"MANDYLAND","lat":28.989444,"lon":-98.305278,"elevation":406,"region":"K4","runways":[{"id":"RW14","lat":28.990606,"lon":-98.306439,"length":1124,"course":135.3},{"id":"RW32","lat":28.988283,"lon":-98.304117,"length":1124,"course":315.3}],"procedures":{"D":{},"E":{},"F":{}}};

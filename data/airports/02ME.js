@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02ME"]={"id":"02ME","name":"NADEAU'S AIRFIELD","lat":43.5373,"lon":-70.929367,"elevation":700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY37"]={"id":"MY37","name":"EYOTA","lat":43.981725,"lon":-92.245883,"elevation":1285,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

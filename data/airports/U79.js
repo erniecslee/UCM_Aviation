@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U79"]={"id":"U79","name":"CHAMBERLAIN USFS","lat":45.379078,"lon":-115.196781,"elevation":5765,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

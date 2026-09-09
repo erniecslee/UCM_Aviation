@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAST"]={"id":"PAST","name":"SUMMIT","lat":63.331039,"lon":-149.128836,"elevation":2409,"region":"PA","runways":[{"id":"RW03","lat":63.328181,"lon":-149.138539,"length":3814,"course":31.0}],"procedures":{"D":{},"E":{},"F":{}}};

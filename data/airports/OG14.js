@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG14"]={"id":"OG14","name":"SILVIES VALLEY RANCH","lat":44.025778,"lon":-118.932889,"elevation":4584,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

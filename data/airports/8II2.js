@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8II2"]={"id":"8II2","name":"NORRIS FLD","lat":39.653056,"lon":-84.866111,"elevation":1085,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

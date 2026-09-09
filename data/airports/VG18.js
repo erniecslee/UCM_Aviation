@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG18"]={"id":"VG18","name":"SKY BRYCE","lat":38.815403,"lon":-78.770758,"elevation":1267,"region":"K6","runways":[{"id":"RW05","lat":38.813264,"lon":-78.773581,"length":2240,"course":54.0},{"id":"RW23","lat":38.817542,"lon":-78.767933,"length":2240,"course":234.0}],"procedures":{"D":{},"E":{},"F":{}}};

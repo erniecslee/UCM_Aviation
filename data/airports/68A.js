@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68A"]={"id":"68A","name":"WRANGELL","lat":56.466325,"lon":-132.380019,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38WI"]={"id":"38WI","name":"NORTHPORT","lat":44.388592,"lon":-88.852606,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

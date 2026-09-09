@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46LA"]={"id":"46LA","name":"PLUNKETT AVIATION SERVICES INC","lat":32.606986,"lon":-91.382778,"elevation":85,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

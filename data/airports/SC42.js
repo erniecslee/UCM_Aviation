@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC42"]={"id":"SC42","name":"HONDAROSA","lat":32.686944,"lon":-80.106389,"elevation":13,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

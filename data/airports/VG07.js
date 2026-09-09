@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG07"]={"id":"VG07","name":"RULAR","lat":38.538889,"lon":-77.828333,"elevation":305,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

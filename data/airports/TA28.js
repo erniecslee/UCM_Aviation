@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA28"]={"id":"TA28","name":"SCOTT","lat":26.555086,"lon":-97.823294,"elevation":41,"region":"K4","runways":[{"id":"RW18","lat":26.558742,"lon":-97.823133,"length":2660,"course":179.2},{"id":"RW36","lat":26.551431,"lon":-97.823456,"length":2660,"course":359.2}],"procedures":{"D":{},"E":{},"F":{}}};

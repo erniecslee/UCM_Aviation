@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TE1"]={"id":"1TE1","name":"BRISCOES CATARINA RANCH","lat":28.250272,"lon":-99.816997,"elevation":650,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

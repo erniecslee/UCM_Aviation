@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55OK"]={"id":"55OK","name":"GILSTRAP FLD","lat":36.223986,"lon":-95.578311,"elevation":575,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61K"]={"id":"61K","name":"SEDAN CITY","lat":37.148386,"lon":-96.185269,"elevation":1005,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

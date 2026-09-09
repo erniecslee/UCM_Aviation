@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CO3"]={"id":"7CO3","name":"BUFFALO","lat":39.315556,"lon":-104.712222,"elevation":6948,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

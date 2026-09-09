@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV70"]={"id":"WV70","name":"FAIRVIEW","lat":38.956217,"lon":-79.788675,"elevation":2600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

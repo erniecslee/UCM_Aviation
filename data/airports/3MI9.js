@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MI9"]={"id":"3MI9","name":"NESS LANDING","lat":45.903889,"lon":-86.970278,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

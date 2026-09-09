@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK13"]={"id":"NK13","name":"SNYDER'S LAKE","lat":42.658414,"lon":-73.63845,"elevation":488,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

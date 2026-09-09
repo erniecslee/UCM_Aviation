@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FA8"]={"id":"7FA8","name":"LAKEVIEW AIRSTRIP","lat":30.5256,"lon":-83.858258,"elevation":156,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

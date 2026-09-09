@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN68"]={"id":"SN68","name":"LIL BIRD","lat":37.879186,"lon":-97.309011,"elevation":1456,"region":"K3","runways":[{"id":"RW36","lat":37.875806,"lon":-97.309072,"length":2462,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

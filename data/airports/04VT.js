@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04VT"]={"id":"04VT","name":"LIGHTNING BOLT FLD","lat":44.401111,"lon":-72.263611,"elevation":2156,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

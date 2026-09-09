@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JLA"]={"id":"JLA","name":"QUARTZ CREEK","lat":60.484264,"lon":-149.7229,"elevation":466,"region":"PA","runways":[{"id":"RW04","lat":60.482608,"lon":-149.727989,"length":2200,"course":32.0},{"id":"RW22","lat":60.485919,"lon":-149.717811,"length":2200,"course":212.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME26"]={"id":"ME26","name":"RAGMUFF","lat":46.019586,"lon":-69.533819,"elevation":1046,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

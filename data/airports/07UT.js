@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07UT"]={"id":"07UT","name":"E NORTHROP GRUMMAN","lat":41.716667,"lon":-112.447222,"elevation":4480,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

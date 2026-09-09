@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AL6"]={"id":"6AL6","name":"HAWTHORN PINES","lat":31.388583,"lon":-88.092583,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

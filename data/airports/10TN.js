@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10TN"]={"id":"10TN","name":"FLATWOOD FLD","lat":36.071944,"lon":-86.354444,"elevation":600,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

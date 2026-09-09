@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PS0"]={"id":"0PS0","name":"FREDERICK AIRPARK","lat":41.370897,"lon":-79.341711,"elevation":1560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

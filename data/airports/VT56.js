@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT56"]={"id":"VT56","name":"WEST BURKE AERODROME","lat":44.613108,"lon":-71.980928,"elevation":1285,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

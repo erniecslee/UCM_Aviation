@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9F8"]={"id":"9F8","name":"HOVEN MUNI","lat":45.257558,"lon":-99.797839,"elevation":1885,"region":"K3","runways":[{"id":"RW13","lat":45.261525,"lon":-99.802317,"length":3700,"course":132.0},{"id":"RW31","lat":45.253592,"lon":-99.793361,"length":3700,"course":312.0}],"procedures":{"D":{},"E":{},"F":{}}};

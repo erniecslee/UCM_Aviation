@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IG03"]={"id":"IG03","name":"BLUEBIRD","lat":39.391667,"lon":-86.6,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

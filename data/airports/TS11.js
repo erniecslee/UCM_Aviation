@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS11"]={"id":"TS11","name":"GLENMAR","lat":33.107061,"lon":-95.929967,"elevation":531,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

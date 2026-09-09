@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61KS"]={"id":"61KS","name":"WEST BRANCH","lat":37.908469,"lon":-96.437486,"elevation":1190,"region":"K3","runways":[{"id":"RW17","lat":37.912061,"lon":-96.43835,"length":2665,"course":166.8},{"id":"RW35","lat":37.904875,"lon":-96.436622,"length":2665,"course":346.8}],"procedures":{"D":{},"E":{},"F":{}}};

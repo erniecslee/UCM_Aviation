@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK46"]={"id":"AK46","name":"ABI","lat":61.628831,"lon":-149.043189,"elevation":750,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

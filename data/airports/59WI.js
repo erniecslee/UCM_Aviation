@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59WI"]={"id":"59WI","name":"LITTLE WHEEL FLD","lat":43.033886,"lon":-89.192614,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

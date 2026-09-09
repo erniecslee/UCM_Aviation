@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0S0"]={"id":"0S0","name":"LIND","lat":46.976842,"lon":-118.587231,"elevation":1507,"region":"K1","runways":[{"id":"RW05","lat":46.974903,"lon":-118.592972,"length":3197,"course":45.0}],"procedures":{"D":{},"E":{},"F":{}}};

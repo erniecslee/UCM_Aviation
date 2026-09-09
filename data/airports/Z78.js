@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z78"]={"id":"Z78","name":"CHIGNIK BAY","lat":56.295611,"lon":-158.401481,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

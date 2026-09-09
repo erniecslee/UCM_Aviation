@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MS3"]={"id":"2MS3","name":"SHOCKLEY FLD","lat":33.612917,"lon":-88.368611,"elevation":247,"region":"K7","runways":[{"id":"RW15","lat":33.615,"lon":-88.370556,"length":1925,"course":144.9},{"id":"RW33","lat":33.610833,"lon":-88.366667,"length":1925,"course":324.9}],"procedures":{"D":{},"E":{},"F":{}}};

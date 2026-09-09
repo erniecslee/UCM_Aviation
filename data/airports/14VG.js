@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14VG"]={"id":"14VG","name":"ABILENE","lat":37.168056,"lon":-78.500833,"elevation":590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

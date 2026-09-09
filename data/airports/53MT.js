@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53MT"]={"id":"53MT","name":"PASS CREEK","lat":45.986589,"lon":-111.117317,"elevation":5229,"region":"K1","runways":[{"id":"RW04","lat":45.984883,"lon":-111.120933,"length":2220,"course":44.7},{"id":"RW22","lat":45.988294,"lon":-111.1137,"length":2220,"course":224.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76II"]={"id":"76II","name":"RIES","lat":41.276436,"lon":-85.271086,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

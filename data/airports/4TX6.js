@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TX6"]={"id":"4TX6","name":"KILGORE","lat":32.41265,"lon":-94.818269,"elevation":365,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

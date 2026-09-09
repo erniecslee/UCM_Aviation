@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK90"]={"id":"AK90","name":"SHIRLEY LAKE","lat":61.744719,"lon":-150.115461,"elevation":185,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

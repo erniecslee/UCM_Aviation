@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PG1"]={"id":"PG1","name":"GRIFFIN FLD","lat":44.867722,"lon":-68.977106,"elevation":200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

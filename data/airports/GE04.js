@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE04"]={"id":"GE04","name":"MCLENDON FLD","lat":32.666944,"lon":-84.965556,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

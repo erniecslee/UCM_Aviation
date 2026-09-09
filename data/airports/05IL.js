@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05IL"]={"id":"05IL","name":"CLASSIC LANDINGS","lat":41.16,"lon":-88.016667,"elevation":635,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

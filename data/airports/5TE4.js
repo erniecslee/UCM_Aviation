@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TE4"]={"id":"5TE4","name":"PERKINS-PROTHRO CIMARRON RANCH","lat":36.508358,"lon":-102.392125,"elevation":3995,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

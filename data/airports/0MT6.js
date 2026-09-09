@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MT6"]={"id":"0MT6","name":"HANSON","lat":48.037689,"lon":-114.674619,"elevation":3947,"region":"K1","runways":[{"id":"RW08","lat":48.038594,"lon":-114.679339,"length":2400,"course":89.0},{"id":"RW26","lat":48.036781,"lon":-114.6699,"length":2400,"course":269.0}],"procedures":{"D":{},"E":{},"F":{}}};

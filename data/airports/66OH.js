@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66OH"]={"id":"66OH","name":"OLD BOSTON","lat":39.027506,"lon":-84.046836,"elevation":896,"region":"K5","runways":[{"id":"RW08","lat":39.026614,"lon":-84.050942,"length":2422,"course":80.9},{"id":"RW26","lat":39.028394,"lon":-84.042728,"length":2422,"course":260.9}],"procedures":{"D":{},"E":{},"F":{}}};

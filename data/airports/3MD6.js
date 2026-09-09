@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MD6"]={"id":"3MD6","name":"WEST ST MARY'S","lat":38.189014,"lon":-76.446897,"elevation":50,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

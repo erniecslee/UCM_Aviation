@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83IS"]={"id":"83IS","name":"PRAIRIE","lat":38.426439,"lon":-89.131183,"elevation":550,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

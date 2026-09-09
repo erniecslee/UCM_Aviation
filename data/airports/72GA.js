@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72GA"]={"id":"72GA","name":"BARBOUR ISLAND","lat":31.583556,"lon":-81.233153,"elevation":10,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

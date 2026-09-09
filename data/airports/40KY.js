@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40KY"]={"id":"40KY","name":"ROOSTER FLD","lat":38.293403,"lon":-85.204956,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

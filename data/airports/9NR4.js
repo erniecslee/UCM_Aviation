@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NR4"]={"id":"9NR4","name":"WOLF PIT","lat":35.355,"lon":-80.431389,"elevation":535,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

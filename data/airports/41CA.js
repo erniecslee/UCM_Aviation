@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41CA"]={"id":"41CA","name":"SILVER CREEK RANCH","lat":40.317647,"lon":-123.253914,"elevation":2511,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

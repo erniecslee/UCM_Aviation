@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28II"]={"id":"28II","name":"CEDAR FARM","lat":37.974656,"lon":-86.056217,"elevation":453,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

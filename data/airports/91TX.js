@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91TX"]={"id":"91TX","name":"PAISANO RANCH","lat":28.396942,"lon":-98.362789,"elevation":235,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

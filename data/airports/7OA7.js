@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OA7"]={"id":"7OA7","name":"SKYDIVE GREENE COUNTY INC","lat":39.679228,"lon":-83.870761,"elevation":1055,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

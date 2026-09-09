@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82KS"]={"id":"82KS","name":"GREG POST FARMS","lat":38.012744,"lon":-94.858072,"elevation":884,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

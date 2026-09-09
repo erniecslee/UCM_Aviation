@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4VA8"]={"id":"4VA8","name":"CHRISTIAN'S","lat":37.613756,"lon":-77.295811,"elevation":125,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

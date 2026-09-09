@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC5"]={"id":"4NC5","name":"TRIPLE M","lat":34.730439,"lon":-77.050503,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

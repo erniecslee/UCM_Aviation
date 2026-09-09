@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3ND5"]={"id":"3ND5","name":"GAGE FLYING FARMER","lat":47.061092,"lon":-97.771214,"elevation":1235,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

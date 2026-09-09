@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL7"]={"id":"5LL7","name":"FUNNY FARM","lat":42.210478,"lon":-88.520056,"elevation":875,"region":"K5","runways":[{"id":"E","lat":42.21045,"lon":-88.523778,"length":2016,"course":90.0},{"id":"W","lat":42.210503,"lon":-88.516333,"length":2016,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

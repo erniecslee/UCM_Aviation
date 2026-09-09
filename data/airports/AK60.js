@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK60"]={"id":"AK60","name":"FORT JENSEN","lat":57.8851,"lon":-157.096819,"elevation":240,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

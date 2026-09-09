@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN32"]={"id":"IN32","name":"HALLMARK","lat":40.955278,"lon":-86.906111,"elevation":695,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

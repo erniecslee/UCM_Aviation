@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE29"]={"id":"NE29","name":"CAVANAUGH","lat":40.513903,"lon":-99.012028,"elevation":2175,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

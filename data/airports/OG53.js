@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG53"]={"id":"OG53","name":"WILDHORSE VALLEY","lat":42.487942,"lon":-118.608356,"elevation":4225,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

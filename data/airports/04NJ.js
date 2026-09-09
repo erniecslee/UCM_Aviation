@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04NJ"]={"id":"04NJ","name":"EMMANUEL","lat":39.596781,"lon":-75.233519,"elevation":155,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

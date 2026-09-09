@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U89"]={"id":"U89","name":"GLENNS FERRY MUNI","lat":42.943667,"lon":-115.330083,"elevation":2536,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

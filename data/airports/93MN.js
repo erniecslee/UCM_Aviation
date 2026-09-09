@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93MN"]={"id":"93MN","name":"HOPPE SKY RANCH","lat":44.032103,"lon":-93.948369,"elevation":1010,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

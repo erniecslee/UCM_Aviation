@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4W4"]={"id":"4W4","name":"WHITFIELD FARMS","lat":36.283472,"lon":-79.078903,"elevation":653,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

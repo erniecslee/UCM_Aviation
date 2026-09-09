@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OK6"]={"id":"5OK6","name":"DCH ANNEX","lat":36.512761,"lon":-95.914256,"elevation":675,"region":"K4","runways":[{"id":"RW17","lat":36.514381,"lon":-95.914633,"length":1200,"course":167.4},{"id":"RW35","lat":36.511142,"lon":-95.913881,"length":1200,"course":347.4}],"procedures":{"D":{},"E":{},"F":{}}};

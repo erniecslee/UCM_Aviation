@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5PA0"]={"id":"5PA0","name":"BLOMSTER FLD","lat":39.872847,"lon":-79.955328,"elevation":1050,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

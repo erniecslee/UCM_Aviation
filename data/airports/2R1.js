@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2R1"]={"id":"2R1","name":"LE MAIRE MEML","lat":29.899069,"lon":-91.666,"elevation":14,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

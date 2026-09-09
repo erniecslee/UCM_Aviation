@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07LA"]={"id":"07LA","name":"RICHMOND PLANTATION","lat":31.053,"lon":-92.632875,"elevation":150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

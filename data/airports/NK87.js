@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK87"]={"id":"NK87","name":"MERKLE","lat":43.066725,"lon":-78.59975,"elevation":590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

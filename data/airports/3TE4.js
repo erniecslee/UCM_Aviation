@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TE4"]={"id":"3TE4","name":"HOT SPRINGS","lat":30.008775,"lon":-104.664647,"elevation":3071,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

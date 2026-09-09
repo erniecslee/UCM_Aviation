@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41C"]={"id":"41C","name":"CALKINS FLD","lat":42.691436,"lon":-85.647336,"elevation":754,"region":"K5","runways":[{"id":"RW09","lat":42.691439,"lon":-85.649717,"length":1800,"course":94.0},{"id":"RW27","lat":42.691447,"lon":-85.643989,"length":1800,"course":274.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN18"]={"id":"TN18","name":"RICHARDSON STRIP","lat":35.204256,"lon":-89.666747,"elevation":340,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

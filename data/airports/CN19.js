@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN19"]={"id":"CN19","name":"LAS SERPIENTES","lat":37.935653,"lon":-121.612842,"elevation":10,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

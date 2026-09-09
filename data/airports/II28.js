@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II28"]={"id":"II28","name":"STETTLER STRIP","lat":41.210556,"lon":-85.063611,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

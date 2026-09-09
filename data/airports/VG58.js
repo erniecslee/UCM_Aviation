@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG58"]={"id":"VG58","name":"ABBOTT","lat":36.945333,"lon":-79.796667,"elevation":981,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

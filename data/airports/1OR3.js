@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OR3"]={"id":"1OR3","name":"SUNSET AIRSTRIP","lat":45.591503,"lon":-123.00955,"elevation":207,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

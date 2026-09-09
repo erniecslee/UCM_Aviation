@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NE7"]={"id":"6NE7","name":"LEE FLD","lat":40.24445,"lon":-100.337922,"elevation":2450,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

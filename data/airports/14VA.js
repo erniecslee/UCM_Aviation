@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14VA"]={"id":"14VA","name":"KRENS FARM","lat":39.228992,"lon":-77.746661,"elevation":790,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

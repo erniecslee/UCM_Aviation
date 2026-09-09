@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA19"]={"id":"PA19","name":"STRIZKI","lat":41.697303,"lon":-75.594908,"elevation":1260,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

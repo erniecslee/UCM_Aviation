@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0II8"]={"id":"0II8","name":"SUTTON'S FLD","lat":41.324758,"lon":-87.475869,"elevation":740,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

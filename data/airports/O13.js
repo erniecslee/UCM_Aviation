@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O13"]={"id":"O13","name":"HADDOCK FLD","lat":35.20075,"lon":-99.881056,"elevation":2097,"region":"K4","runways":[{"id":"RW17","lat":35.204378,"lon":-99.881256,"length":2650,"course":169.0},{"id":"RW35","lat":35.197103,"lon":-99.880864,"length":2650,"course":349.0}],"procedures":{"D":{},"E":{},"F":{}}};

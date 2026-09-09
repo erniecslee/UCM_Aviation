@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV33"]={"id":"NV33","name":"FARIAS WHEEL","lat":38.833244,"lon":-119.395994,"elevation":4848,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

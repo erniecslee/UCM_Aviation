@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37IN"]={"id":"37IN","name":"FELIX","lat":40.291703,"lon":-86.780283,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

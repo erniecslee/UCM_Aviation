@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI62"]={"id":"OI62","name":"RATAICZAK","lat":41.476442,"lon":-81.317053,"elevation":1200,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

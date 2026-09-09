@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67FL"]={"id":"67FL","name":"BALD EAGLE AIRFIELD- MYAKKA HE","lat":27.455556,"lon":-82.105,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

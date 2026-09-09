@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32GA"]={"id":"32GA","name":"SEBASTIAN COVE","lat":33.454167,"lon":-83.277778,"elevation":490,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

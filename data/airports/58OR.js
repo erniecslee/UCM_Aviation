@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58OR"]={"id":"58OR","name":"UMPQUA","lat":43.309722,"lon":-123.126944,"elevation":700,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

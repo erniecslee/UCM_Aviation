@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42MO"]={"id":"42MO","name":"AIRE PARQUE","lat":38.123108,"lon":-90.389011,"elevation":710,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

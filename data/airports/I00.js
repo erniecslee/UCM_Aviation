@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I00"]={"id":"I00","name":"LAKE SHAFER","lat":40.799039,"lon":-86.776961,"elevation":655,"region":"K5","runways":[{"id":"RW17W","lat":40.803036,"lon":-86.777722,"length":2675,"course":176.6},{"id":"RW35W","lat":40.795733,"lon":-86.776353,"length":2675,"course":356.6}],"procedures":{"D":{},"E":{},"F":{}}};

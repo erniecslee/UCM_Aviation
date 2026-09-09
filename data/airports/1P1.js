@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1P1"]={"id":"1P1","name":"PLYMOUTH MUNI","lat":43.778256,"lon":-71.75385,"elevation":506,"region":"K6","runways":[{"id":"RW12","lat":43.778722,"lon":-71.758253,"length":2347,"course":114.0},{"id":"RW30","lat":43.777906,"lon":-71.750572,"length":2347,"course":294.0}],"procedures":{"D":{},"E":{},"F":{}}};

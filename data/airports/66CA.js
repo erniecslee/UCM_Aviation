@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66CA"]={"id":"66CA","name":"RANCHO SAN SIMEON","lat":35.607747,"lon":-121.110194,"elevation":320,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

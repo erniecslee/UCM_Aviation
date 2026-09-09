@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01TS"]={"id":"01TS","name":"FORT PARKER FLYING FLD","lat":31.56525,"lon":-96.546097,"elevation":500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

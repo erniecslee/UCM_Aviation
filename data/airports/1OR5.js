@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OR5"]={"id":"1OR5","name":"MAC FLD","lat":45.518911,"lon":-118.047411,"elevation":2924,"region":"K1","runways":[{"id":"RW17","lat":45.521872,"lon":-118.048672,"length":2254,"course":149.8},{"id":"RW35","lat":45.51595,"lon":-118.046147,"length":2254,"course":329.8}],"procedures":{"D":{},"E":{},"F":{}}};

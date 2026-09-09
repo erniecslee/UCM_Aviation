@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN7"]={"id":"IN7","name":"CEDAR LAKE","lat":41.373461,"lon":-87.432811,"elevation":692,"region":"K5","runways":[{"id":"RW18W","lat":41.377206,"lon":-87.432831,"length":2675,"course":184.1},{"id":"RW36W","lat":41.369864,"lon":-87.432792,"length":2675,"course":4.1}],"procedures":{"D":{},"E":{},"F":{}}};

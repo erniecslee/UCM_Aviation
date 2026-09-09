@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT18"]={"id":"TT18","name":"LIONWOOD","lat":29.948019,"lon":-96.372061,"elevation":250,"region":"K4","runways":[{"id":"RW18","lat":29.950481,"lon":-96.371747,"length":2000,"course":184.0},{"id":"RW36","lat":29.945561,"lon":-96.372375,"length":2000,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

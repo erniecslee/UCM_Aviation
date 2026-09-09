@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K58"]={"id":"K58","name":"HAROLD KRIER FLD","lat":37.166694,"lon":-99.775128,"elevation":1951,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AZ2"]={"id":"0AZ2","name":"WESTERN SKY AIRPARK","lat":33.778056,"lon":-113.641667,"elevation":1930,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

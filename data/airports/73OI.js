@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73OI"]={"id":"73OI","name":"RICK'S","lat":41.574497,"lon":-81.075653,"elevation":1265,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

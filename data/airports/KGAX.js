@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KGAX"]={"id":"KGAX","name":"WILLIAMS AUXILIARY AIRFIELD 6","lat":32.88525,"lon":-112.816306,"elevation":806,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

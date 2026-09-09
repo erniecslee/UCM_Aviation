@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA84"]={"id":"IA84","name":"LAWTON","lat":42.483325,"lon":-96.200303,"elevation":1235,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

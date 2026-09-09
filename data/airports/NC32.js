@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC32"]={"id":"NC32","name":"RIVERCLIFF","lat":36.025833,"lon":-80.436389,"elevation":690,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

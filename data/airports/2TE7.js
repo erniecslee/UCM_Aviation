@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE7"]={"id":"2TE7","name":"BEACH RANCH","lat":33.228167,"lon":-101.13535,"elevation":2303,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

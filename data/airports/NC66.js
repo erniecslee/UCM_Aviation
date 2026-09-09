@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC66"]={"id":"NC66","name":"VENTOSA PLANTATION","lat":36.131267,"lon":-77.2958,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

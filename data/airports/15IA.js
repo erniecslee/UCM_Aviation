@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15IA"]={"id":"15IA","name":"STELLA","lat":42.235394,"lon":-90.406767,"elevation":625,"region":"K3","runways":[{"id":"RW13","lat":42.236839,"lon":-90.408475,"length":1400,"course":140.8},{"id":"RW31","lat":42.23395,"lon":-90.405056,"length":1400,"course":320.8}],"procedures":{"D":{},"E":{},"F":{}}};

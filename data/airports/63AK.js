@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63AK"]={"id":"63AK","name":"KUCERA RESIDENCE","lat":61.584331,"lon":-149.9381,"elevation":189,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA41"]={"id":"VA41","name":"HIGH HOPES","lat":37.934569,"lon":-75.609928,"elevation":9,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

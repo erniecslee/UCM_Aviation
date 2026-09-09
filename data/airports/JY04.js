@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY04"]={"id":"JY04","name":"PARAMOUNT AIR","lat":39.065114,"lon":-74.909617,"elevation":8,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

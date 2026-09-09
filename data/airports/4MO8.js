@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MO8"]={"id":"4MO8","name":"MARTENS","lat":39.206667,"lon":-94.269722,"elevation":720,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

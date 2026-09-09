@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H58"]={"id":"H58","name":"OWEN FLD","lat":37.18405,"lon":-92.737053,"elevation":1593,"region":"K3","runways":[{"id":"RW15","lat":37.186156,"lon":-92.738411,"length":1725,"course":148.7},{"id":"RW33","lat":37.181944,"lon":-92.735694,"length":1725,"course":328.7}],"procedures":{"D":{},"E":{},"F":{}}};

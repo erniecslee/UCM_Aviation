@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TS0"]={"id":"8TS0","name":"HAMILTON RANCH","lat":27.553086,"lon":-98.732242,"elevation":698,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

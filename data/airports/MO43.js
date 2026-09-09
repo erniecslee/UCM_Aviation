@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO43"]={"id":"MO43","name":"WILKINS","lat":38.968703,"lon":-91.443306,"elevation":843,"region":"K3","runways":[{"id":"RW02","lat":38.965172,"lon":-91.444572,"length":2670,"course":14.7},{"id":"RW20","lat":38.972231,"lon":-91.442039,"length":2670,"course":194.7}],"procedures":{"D":{},"E":{},"F":{}}};

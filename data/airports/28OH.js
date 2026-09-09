@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28OH"]={"id":"28OH","name":"HOUK FLD","lat":41.703383,"lon":-84.002722,"elevation":743,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

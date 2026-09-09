@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TA9"]={"id":"2TA9","name":"MAFRIGE RANCH INC","lat":29.811203,"lon":-100.687144,"elevation":1847,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

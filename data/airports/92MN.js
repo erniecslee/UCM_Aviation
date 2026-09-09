@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92MN"]={"id":"92MN","name":"BRUTLAG FARMS","lat":46.014406,"lon":-96.101725,"elevation":1127,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

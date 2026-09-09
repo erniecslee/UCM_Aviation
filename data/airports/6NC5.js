@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC5"]={"id":"6NC5","name":"THOMPSON FARMS","lat":36.024972,"lon":-77.659394,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

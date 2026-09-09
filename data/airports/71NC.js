@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71NC"]={"id":"71NC","name":"K & D","lat":36.263333,"lon":-79.449722,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

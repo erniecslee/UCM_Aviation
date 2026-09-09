@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT90"]={"id":"UT90","name":"CAVOK RANCH","lat":41.585369,"lon":-111.9037,"elevation":5155,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

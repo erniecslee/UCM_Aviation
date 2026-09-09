@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WA6"]={"id":"8WA6","name":"CHRISTENSEN FLD","lat":46.920694,"lon":-119.590033,"elevation":1150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

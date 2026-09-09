@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76TE"]={"id":"76TE","name":"BIG TANK RANCH","lat":31.500122,"lon":-105.083836,"elevation":4800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

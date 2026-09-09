@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL56"]={"id":"IL56","name":"MC CULLEY","lat":40.220311,"lon":-88.253661,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

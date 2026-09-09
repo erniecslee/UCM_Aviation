@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06CO"]={"id":"06CO","name":"JECAN","lat":37.387514,"lon":-103.691061,"elevation":5100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

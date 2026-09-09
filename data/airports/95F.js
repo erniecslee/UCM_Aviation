@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95F"]={"id":"95F","name":"CLEVELAND MUNI","lat":36.284167,"lon":-96.463333,"elevation":976,"region":"K4","runways":[{"id":"RW18","lat":36.289614,"lon":-96.462453,"length":4000,"course":181.0},{"id":"RW36","lat":36.278719,"lon":-96.464214,"length":4000,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

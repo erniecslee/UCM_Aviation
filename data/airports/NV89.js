@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV89"]={"id":"NV89","name":"RED OWL RANCH","lat":40.502333,"lon":-116.546769,"elevation":4850,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

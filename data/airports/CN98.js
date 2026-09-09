@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN98"]={"id":"CN98","name":"WALTER'S CAMP","lat":33.245556,"lon":-114.710278,"elevation":309,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95ID"]={"id":"95ID","name":"DEER CREEK","lat":46.000456,"lon":-116.691186,"elevation":1169,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

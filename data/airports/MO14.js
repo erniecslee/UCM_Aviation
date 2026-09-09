@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO14"]={"id":"MO14","name":"MARSHALL FLD","lat":37.422778,"lon":-93.208611,"elevation":1166,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

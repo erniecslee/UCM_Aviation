@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00NK"]={"id":"00NK","name":"CLICHE COVE","lat":44.811861,"lon":-73.369806,"elevation":96,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

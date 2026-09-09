@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67WA"]={"id":"67WA","name":"GREENBLUFF MEADOWS","lat":47.8265,"lon":-117.266892,"elevation":2346,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

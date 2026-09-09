@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45PN"]={"id":"45PN","name":"CHAMBERS","lat":41.554,"lon":-76.054583,"elevation":1021,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

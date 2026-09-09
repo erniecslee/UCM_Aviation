@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CL1"]={"id":"1CL1","name":"LITTLE BUTTES ANTIQUE AIRFIELD","lat":34.794147,"lon":-118.277578,"elevation":2433,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

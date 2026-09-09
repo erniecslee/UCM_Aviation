@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GA3"]={"id":"5GA3","name":"EAGLES LANDING","lat":33.154953,"lon":-84.371672,"elevation":932,"region":"K7","runways":[{"id":"RW13","lat":33.156944,"lon":-84.375,"length":2500,"course":127.5},{"id":"RW31","lat":33.152958,"lon":-84.368347,"length":2500,"course":307.5}],"procedures":{"D":{},"E":{},"F":{}}};

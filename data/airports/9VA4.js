@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9VA4"]={"id":"9VA4","name":"FRANWOOD FARMS INC","lat":38.69095,"lon":-78.629458,"elevation":990,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

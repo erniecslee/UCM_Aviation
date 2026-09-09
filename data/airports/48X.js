@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48X"]={"id":"48X","name":"MANATEE","lat":27.642597,"lon":-82.519917,"elevation":27,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

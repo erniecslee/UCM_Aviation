@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TA0"]={"id":"5TA0","name":"HAMILTON AIRCRAFT, INC","lat":32.732047,"lon":-102.943817,"elevation":3520,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

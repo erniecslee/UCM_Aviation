@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0J8"]={"id":"0J8","name":"FLYING TEN","lat":29.619431,"lon":-82.508669,"elevation":92,"region":"K7","runways":[{"id":"RW18","lat":29.624814,"lon":-82.5087,"length":3917,"course":181.0},{"id":"RW36","lat":29.615042,"lon":-82.508636,"length":3917,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

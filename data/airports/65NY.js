@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65NY"]={"id":"65NY","name":"CHAUTAUQUA LAKE AIRPARK","lat":42.283947,"lon":-79.443936,"elevation":1655,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

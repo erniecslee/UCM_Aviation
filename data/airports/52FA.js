@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52FA"]={"id":"52FA","name":"BENT WILLIES","lat":27.939611,"lon":-81.432028,"elevation":73,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

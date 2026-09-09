@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3T6"]={"id":"3T6","name":"CLARK","lat":33.133611,"lon":-97.297028,"elevation":705,"region":"K4","runways":[{"id":"RW17","lat":33.136072,"lon":-97.296992,"length":1800,"course":174.0},{"id":"RW35","lat":33.131122,"lon":-97.297042,"length":1800,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

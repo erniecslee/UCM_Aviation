@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32IS"]={"id":"32IS","name":"BAKER","lat":40.135325,"lon":-91.009581,"elevation":485,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

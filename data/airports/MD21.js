@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD21"]={"id":"MD21","name":"ASHLAND LANDING FARM","lat":39.118056,"lon":-76.096389,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

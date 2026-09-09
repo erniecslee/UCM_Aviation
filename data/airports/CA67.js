@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA67"]={"id":"CA67","name":"VALLEY CROP DUSTERS INC","lat":37.547986,"lon":-121.204936,"elevation":96,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

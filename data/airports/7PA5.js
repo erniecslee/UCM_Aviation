@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7PA5"]={"id":"7PA5","name":"FAUSER","lat":41.102861,"lon":-76.805517,"elevation":565,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

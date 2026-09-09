@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI70"]={"id":"WI70","name":"SWAN","lat":42.706958,"lon":-88.637603,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39SC"]={"id":"39SC","name":"RIZZY RIDGE","lat":35.158194,"lon":-81.226211,"elevation":775,"region":"K7","runways":[{"id":"RW07","lat":35.157722,"lon":-81.227422,"length":800,"course":72.4},{"id":"RW25","lat":35.158667,"lon":-81.224997,"length":800,"course":252.4}],"procedures":{"D":{},"E":{},"F":{}}};

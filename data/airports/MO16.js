@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO16"]={"id":"MO16","name":"BAUGH FLIGHT PARK","lat":37.163944,"lon":-94.168272,"elevation":984,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

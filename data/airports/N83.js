@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N83"]={"id":"N83","name":"DS BUTLER FARM AND AIRFIELD","lat":36.195136,"lon":-80.005317,"elevation":950,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

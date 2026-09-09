@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAFB"]={"id":"PAFB","name":"LADD AAF","lat":64.837611,"lon":-147.614492,"elevation":449,"region":"PA","runways":[{"id":"RW07","lat":64.837411,"lon":-147.642025,"length":8575,"course":72.0},{"id":"RW25","lat":64.837808,"lon":-147.586958,"length":8575,"course":252.0}],"procedures":{"D":{},"E":{},"F":{}}};

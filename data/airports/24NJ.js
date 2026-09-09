@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24NJ"]={"id":"24NJ","name":"TAILDRAGGER ACRES","lat":39.490597,"lon":-75.433269,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

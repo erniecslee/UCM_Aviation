@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64XA"]={"id":"64XA","name":"BIRD DOG LANDING","lat":33.581981,"lon":-97.549744,"elevation":960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

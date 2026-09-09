@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ04"]={"id":"AZ04","name":"SAWTOOTH","lat":32.660847,"lon":-111.681531,"elevation":1550,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PA8"]={"id":"4PA8","name":"RUSSO AIRSTRIP","lat":40.432881,"lon":-75.149617,"elevation":400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

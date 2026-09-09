@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1DE5"]={"id":"1DE5","name":"MCKEOWN","lat":39.495556,"lon":-75.733333,"elevation":60,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64I"]={"id":"64I","name":"LEE BOTTOM","lat":38.631442,"lon":-85.443419,"elevation":473,"region":"K5","runways":[{"id":"RW18","lat":38.636978,"lon":-85.444511,"length":4080,"course":173.2},{"id":"RW36","lat":38.628075,"lon":-85.442756,"length":4080,"course":353.2}],"procedures":{"D":{},"E":{},"F":{}}};

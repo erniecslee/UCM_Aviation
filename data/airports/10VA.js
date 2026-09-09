@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10VA"]={"id":"10VA","name":"NASHS","lat":37.386256,"lon":-78.813069,"elevation":785,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

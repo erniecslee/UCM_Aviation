@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79MI"]={"id":"79MI","name":"DAVIS FLD","lat":41.997942,"lon":-84.476389,"elevation":1185,"region":"K5","runways":[{"id":"RW18","lat":42.0,"lon":-84.476389,"length":1500,"course":186.5},{"id":"RW36","lat":41.995883,"lon":-84.476389,"length":1500,"course":6.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY44"]={"id":"WY44","name":"ROBBERS ROOST RANCH","lat":43.426642,"lon":-104.236236,"elevation":3725,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

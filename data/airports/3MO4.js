@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MO4"]={"id":"3MO4","name":"PENMAN","lat":36.450619,"lon":-89.628136,"elevation":287,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

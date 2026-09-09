@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0VA0"]={"id":"0VA0","name":"RAMBO AIRFIELD","lat":38.524856,"lon":-77.687356,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

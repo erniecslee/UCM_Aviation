@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH29"]={"id":"OH29","name":"PETERSBURG","lat":40.900617,"lon":-80.555347,"elevation":1174,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

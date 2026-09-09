@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E35"]={"id":"E35","name":"FABENS","lat":31.517197,"lon":-106.147061,"elevation":3680,"region":"K4","runways":[{"id":"RW08","lat":31.517147,"lon":-106.153239,"length":4197,"course":78.6},{"id":"RW26","lat":31.517239,"lon":-106.140328,"length":4197,"course":258.6}],"procedures":{"D":{},"E":{},"F":{}}};

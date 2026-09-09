@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO52"]={"id":"CO52","name":"MARSHDALE","lat":39.583322,"lon":-105.303325,"elevation":7700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

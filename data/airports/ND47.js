@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND47"]={"id":"ND47","name":"GESKE AIRFIELD","lat":46.640806,"lon":-97.551122,"elevation":1103,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I71"]={"id":"I71","name":"MORGAN COUNTY","lat":39.654236,"lon":-81.803189,"elevation":1000,"region":"K5","runways":[{"id":"RW30","lat":39.651942,"lon":-81.797725,"length":3500,"course":305.0}],"procedures":{"D":{},"E":{},"F":{}}};

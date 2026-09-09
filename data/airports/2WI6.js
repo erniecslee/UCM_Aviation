@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WI6"]={"id":"2WI6","name":"MATSON","lat":42.913614,"lon":-89.186225,"elevation":915,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

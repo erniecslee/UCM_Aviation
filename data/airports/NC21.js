@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC21"]={"id":"NC21","name":"AERO PLANTATION","lat":34.991817,"lon":-80.748403,"elevation":634,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

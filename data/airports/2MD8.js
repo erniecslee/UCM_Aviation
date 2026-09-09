@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MD8"]={"id":"2MD8","name":"GREATER GORTNER","lat":39.333433,"lon":-79.441436,"elevation":2500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME60"]={"id":"ME60","name":"SUNNY HILL","lat":44.4684,"lon":-69.817828,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

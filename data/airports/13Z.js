@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13Z"]={"id":"13Z","name":"LORING","lat":55.601306,"lon":-131.636683,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

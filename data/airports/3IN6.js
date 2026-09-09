@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IN6"]={"id":"3IN6","name":"HOLLOWAY FLD","lat":38.588333,"lon":-85.505833,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

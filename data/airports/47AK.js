@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47AK"]={"id":"47AK","name":"HIGHLAND","lat":61.2925,"lon":-149.5325,"elevation":650,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61OK"]={"id":"61OK","name":"LEMONS AIRSTRIP","lat":34.683856,"lon":-97.928033,"elevation":1417,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

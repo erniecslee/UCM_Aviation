@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX75"]={"id":"TX75","name":"SANDBUR RANCHES PVT","lat":31.009722,"lon":-96.540833,"elevation":455,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

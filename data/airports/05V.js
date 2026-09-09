@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05V"]={"id":"05V","name":"BLANCA","lat":37.411119,"lon":-105.551681,"elevation":7720,"region":"K2","runways":[{"id":"RW03","lat":37.404836,"lon":-105.559717,"length":6160,"course":30.0},{"id":"RW21","lat":37.417519,"lon":-105.545681,"length":6160,"course":210.0}],"procedures":{"D":{},"E":{},"F":{}}};

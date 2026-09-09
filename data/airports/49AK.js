@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49AK"]={"id":"49AK","name":"SECLUDED LAKE","lat":62.024481,"lon":-149.977242,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

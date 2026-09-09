@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71KS"]={"id":"71KS","name":"STONEHENGE","lat":39.104167,"lon":-95.296083,"elevation":1030,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

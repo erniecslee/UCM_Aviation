@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OK0"]={"id":"8OK0","name":"LAMLE","lat":36.068333,"lon":-98.289167,"elevation":1212,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

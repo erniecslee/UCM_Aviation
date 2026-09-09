@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN03"]={"id":"SN03","name":"LENORA MUNI","lat":39.62945,"lon":-100.015406,"elevation":2373,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

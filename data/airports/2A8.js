@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2A8"]={"id":"2A8","name":"ADDISON","lat":34.217142,"lon":-87.158158,"elevation":786,"region":"K7","runways":[{"id":"RW05","lat":34.21475,"lon":-87.16145,"length":2644,"course":49.0},{"id":"RW23","lat":34.219533,"lon":-87.154867,"length":2644,"course":229.0}],"procedures":{"D":{},"E":{},"F":{}}};

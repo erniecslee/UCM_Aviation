@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2E6"]={"id":"2E6","name":"GROTON MUNI","lat":45.533736,"lon":-98.093928,"elevation":1310,"region":"K3","runways":[{"id":"RW18","lat":45.536342,"lon":-98.093964,"length":2500,"course":172.0},{"id":"RW36","lat":45.531131,"lon":-98.093892,"length":2500,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

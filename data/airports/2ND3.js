@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND3"]={"id":"2ND3","name":"CASSLINDAN","lat":48.000814,"lon":-97.122436,"elevation":832,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

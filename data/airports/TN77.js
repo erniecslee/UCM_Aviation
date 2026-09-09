@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN77"]={"id":"TN77","name":"WHIFFERDILL","lat":36.321833,"lon":-87.150667,"elevation":622,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

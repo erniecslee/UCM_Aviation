@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TX7"]={"id":"6TX7","name":"FLYING L AIRPARK","lat":32.537639,"lon":-97.130842,"elevation":680,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

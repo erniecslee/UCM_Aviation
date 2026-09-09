@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC57"]={"id":"SC57","name":"JORDAN PRIVATE","lat":33.540569,"lon":-79.534175,"elevation":33,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

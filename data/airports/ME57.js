@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME57"]={"id":"ME57","name":"BAUNEG BEG","lat":43.358972,"lon":-70.735333,"elevation":305,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

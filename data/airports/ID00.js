@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID00"]={"id":"ID00","name":"HUBLER FLD","lat":43.695717,"lon":-116.638469,"elevation":2385,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

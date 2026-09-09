@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD6"]={"id":"4MD6","name":"MOXLEY'S","lat":39.625,"lon":-76.2625,"elevation":410,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

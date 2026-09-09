@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV30"]={"id":"NV30","name":"DIXIE VALLEY","lat":39.966581,"lon":-117.827625,"elevation":3443,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CA6"]={"id":"1CA6","name":"ON THE ROCKS","lat":32.765056,"lon":-116.722519,"elevation":2650,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

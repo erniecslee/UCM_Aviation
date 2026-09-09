@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02ID"]={"id":"02ID","name":"MORGAN RANCH","lat":44.555458,"lon":-115.305106,"elevation":5634,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

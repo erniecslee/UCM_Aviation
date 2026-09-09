@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OR1"]={"id":"6OR1","name":"POINTERS","lat":45.572064,"lon":-121.272017,"elevation":1140,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

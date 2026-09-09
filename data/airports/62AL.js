@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62AL"]={"id":"62AL","name":"SKYWEST AIRPARK","lat":30.683525,"lon":-88.371956,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

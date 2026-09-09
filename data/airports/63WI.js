@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63WI"]={"id":"63WI","name":"FLYING H","lat":42.665839,"lon":-89.737622,"elevation":1020,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

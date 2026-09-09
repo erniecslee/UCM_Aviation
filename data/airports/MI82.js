@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI82"]={"id":"MI82","name":"HARRY'S FLD","lat":42.876414,"lon":-85.955594,"elevation":662,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

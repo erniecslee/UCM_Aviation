@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20WI"]={"id":"20WI","name":"HARJU","lat":44.021369,"lon":-89.079283,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

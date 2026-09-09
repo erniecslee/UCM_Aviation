@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7ND8"]={"id":"7ND8","name":"FOREST","lat":48.852228,"lon":-98.748183,"elevation":1570,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

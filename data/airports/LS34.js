@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS34"]={"id":"LS34","name":"BORDELON AIRPARK","lat":30.310889,"lon":-91.866306,"elevation":22,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

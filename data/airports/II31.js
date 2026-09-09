@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II31"]={"id":"II31","name":"JURASSIC LANDINGS","lat":41.187917,"lon":-88.167083,"elevation":585,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

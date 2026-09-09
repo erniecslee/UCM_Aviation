@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CW0"]={"id":"CW0","name":"COW CREEK","lat":47.9475,"lon":-109.008056,"elevation":3300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD23"]={"id":"FD23","name":"RUTLAND RUNWAY","lat":28.867808,"lon":-82.198147,"elevation":49,"region":"K7","runways":[{"id":"RW18","lat":28.869653,"lon":-82.198261,"length":2204,"course":183.4},{"id":"RW36","lat":28.864783,"lon":-82.197961,"length":2204,"course":3.4}],"procedures":{"D":{},"E":{},"F":{}}};

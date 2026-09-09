@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16LS"]={"id":"16LS","name":"EVAN","lat":30.315111,"lon":-90.907972,"elevation":17,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

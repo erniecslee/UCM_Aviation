@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY89"]={"id":"NY89","name":"GOOSE CREEK","lat":42.080056,"lon":-79.391439,"elevation":1350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

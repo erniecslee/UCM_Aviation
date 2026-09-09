@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA81"]={"id":"NA81","name":"CENTRAL VALLEY AVIATION","lat":47.628311,"lon":-97.086475,"elevation":920,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

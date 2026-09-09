@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL28"]={"id":"IL28","name":"FOSTER FLD","lat":42.466444,"lon":-90.169389,"elevation":990,"region":"K5","runways":[{"id":"RW18","lat":42.470028,"lon":-90.169344,"length":2996,"course":179.4},{"id":"RW36","lat":42.462481,"lon":-90.169419,"length":2996,"course":359.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2G6"]={"id":"2G6","name":"MC LAUGHLIN","lat":37.320556,"lon":-77.345833,"elevation":7,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

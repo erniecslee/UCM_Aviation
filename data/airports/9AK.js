@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK"]={"id":"9AK","name":"TOTATLANIKA RIVER","lat":64.025661,"lon":-148.522339,"elevation":2717,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

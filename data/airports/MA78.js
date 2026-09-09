@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA78"]={"id":"MA78","name":"RUSSELL MILL POND","lat":41.917881,"lon":-70.627811,"elevation":55,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

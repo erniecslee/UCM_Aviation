@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33TE"]={"id":"33TE","name":"DONNA FLD","lat":33.8151,"lon":-96.734769,"elevation":787,"region":"K4","runways":[{"id":"RW18","lat":33.818289,"lon":-96.73485,"length":2322,"course":176.3},{"id":"RW36","lat":33.811911,"lon":-96.734689,"length":2322,"course":356.3}],"procedures":{"D":{},"E":{},"F":{}}};

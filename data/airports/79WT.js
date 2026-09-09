@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79WT"]={"id":"79WT","name":"WEST RANCH","lat":47.091,"lon":-120.589403,"elevation":1962,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z95"]={"id":"Z95","name":"CIBECUE","lat":34.003333,"lon":-110.444167,"elevation":5037,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

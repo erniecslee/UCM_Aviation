@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25NM"]={"id":"25NM","name":"DREAM CATCHER RANCH","lat":34.476944,"lon":-108.031111,"elevation":7253,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

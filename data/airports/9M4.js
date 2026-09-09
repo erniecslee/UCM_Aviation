@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9M4"]={"id":"9M4","name":"ACKERMAN CHOCTAW COUNTY","lat":33.303458,"lon":-89.2284,"elevation":552,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

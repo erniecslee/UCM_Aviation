@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS58"]={"id":"XS58","name":"TRI-COUNTY AIR SERVICE","lat":30.044103,"lon":-94.705753,"elevation":70,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

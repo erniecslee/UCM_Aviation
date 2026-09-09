@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL01"]={"id":"IL01","name":"WOLFORD'S","lat":40.792539,"lon":-90.438186,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

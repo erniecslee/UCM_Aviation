@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02MO"]={"id":"02MO","name":"TROY AIRPARK","lat":39.046261,"lon":-91.028219,"elevation":630,"region":"K3","runways":[{"id":"RW08","lat":39.045986,"lon":-91.0319,"length":2100,"course":82.5},{"id":"RW26","lat":39.046539,"lon":-91.024539,"length":2100,"course":262.5}],"procedures":{"D":{},"E":{},"F":{}}};

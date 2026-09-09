@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA61"]={"id":"WA61","name":"THOMPSON","lat":47.798333,"lon":-122.529722,"elevation":50,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

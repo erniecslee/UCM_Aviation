@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL32"]={"id":"IL32","name":"ADKISSON","lat":39.783333,"lon":-88.621389,"elevation":669,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC99"]={"id":"SC99","name":"WHITEPLAINS","lat":33.963856,"lon":-81.358272,"elevation":524,"region":"K7","runways":[{"id":"RW09","lat":33.963856,"lon":-81.362253,"length":3000,"course":97.6},{"id":"RW27","lat":33.963856,"lon":-81.353325,"length":3000,"course":277.6}],"procedures":{"D":{},"E":{},"F":{}}};

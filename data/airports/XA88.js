@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA88"]={"id":"XA88","name":"DM RANCH","lat":28.978333,"lon":-99.563056,"elevation":750,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

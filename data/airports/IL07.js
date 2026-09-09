@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL07"]={"id":"IL07","name":"TAYLOR","lat":41.723644,"lon":-89.291761,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA19"]={"id":"VA19","name":"SNOW HILL","lat":37.954031,"lon":-78.369175,"elevation":268,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

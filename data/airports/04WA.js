@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04WA"]={"id":"04WA","name":"OX MEADOWS","lat":47.581836,"lon":-117.437153,"elevation":2345,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

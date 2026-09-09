@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00SD"]={"id":"00SD","name":"HOMAN FLD","lat":44.809158,"lon":-96.498897,"elevation":1590,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

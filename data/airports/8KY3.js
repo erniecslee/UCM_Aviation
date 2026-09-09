@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KY3"]={"id":"8KY3","name":"CUMMINGS FARMS AIRFIELD","lat":36.728056,"lon":-86.725556,"elevation":638,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81GA"]={"id":"81GA","name":"LUCKY LAIRDS LANDING","lat":33.640942,"lon":-84.904939,"elevation":1130,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

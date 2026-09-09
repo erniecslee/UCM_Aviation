@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W57"]={"id":"W57","name":"ROUND LAKE","lat":42.931183,"lon":-73.770878,"elevation":178,"region":"K6","runways":[{"id":"RW14","lat":42.932858,"lon":-73.773661,"length":1927,"course":143.0},{"id":"RW32","lat":42.929506,"lon":-73.768092,"length":1927,"course":323.0}],"procedures":{"D":{},"E":{},"F":{}}};

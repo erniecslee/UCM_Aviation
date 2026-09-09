@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75PA"]={"id":"75PA","name":"MARTHER FLD","lat":41.873111,"lon":-80.458958,"elevation":950,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

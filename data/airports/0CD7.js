@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CD7"]={"id":"0CD7","name":"FOX HOLE","lat":40.004722,"lon":-105.071944,"elevation":5135,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

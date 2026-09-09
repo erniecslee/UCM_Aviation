@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS6"]={"id":"1KS6","name":"SILERS PLANE VALLEY","lat":38.866669,"lon":-97.536422,"elevation":1204,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

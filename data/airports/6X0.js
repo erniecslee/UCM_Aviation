@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6X0"]={"id":"6X0","name":"TARRANT FLD","lat":32.0975,"lon":-95.294861,"elevation":590,"region":"K4","runways":[{"id":"RW12","lat":32.099528,"lon":-95.298519,"length":2700,"course":117.0},{"id":"RW30","lat":32.095458,"lon":-95.291225,"length":2700,"course":297.0}],"procedures":{"D":{},"E":{},"F":{}}};

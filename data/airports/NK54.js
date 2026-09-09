@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK54"]={"id":"NK54","name":"MATEJKA FLD","lat":42.176742,"lon":-76.641058,"elevation":1690,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1D3"]={"id":"1D3","name":"PLATTE MUNI","lat":43.404714,"lon":-98.830492,"elevation":1618,"region":"K3","runways":[{"id":"RW14","lat":43.408153,"lon":-98.833928,"length":3100,"course":135.9},{"id":"RW32","lat":43.401278,"lon":-98.827053,"length":3100,"course":315.9}],"procedures":{"D":{},"E":{},"F":{}}};

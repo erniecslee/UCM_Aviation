@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN09"]={"id":"IN09","name":"SCHLETER FLD","lat":39.805053,"lon":-85.854811,"elevation":860,"region":"K5","runways":[{"id":"RW08","lat":39.804769,"lon":-85.858711,"length":2200,"course":89.8},{"id":"RW26","lat":39.805336,"lon":-85.850911,"length":2200,"course":269.8}],"procedures":{"D":{},"E":{},"F":{}}};

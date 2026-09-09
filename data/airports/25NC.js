@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25NC"]={"id":"25NC","name":"SMITH AIR STRIP","lat":35.633333,"lon":-79.71,"elevation":560,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

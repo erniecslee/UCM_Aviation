@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89FL"]={"id":"89FL","name":"LAKE HIAWASSEE","lat":28.529169,"lon":-81.480906,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

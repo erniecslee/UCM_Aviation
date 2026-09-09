@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX64"]={"id":"TX64","name":"LAZY 9 RANCH","lat":33.299283,"lon":-97.52725,"elevation":1020,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

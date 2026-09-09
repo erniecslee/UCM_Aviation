@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94NC"]={"id":"94NC","name":"VIKING","lat":35.009611,"lon":-79.260033,"elevation":295,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

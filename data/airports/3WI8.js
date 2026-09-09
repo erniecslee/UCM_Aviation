@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI8"]={"id":"3WI8","name":"PLANTATION PINE","lat":44.053311,"lon":-89.121783,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

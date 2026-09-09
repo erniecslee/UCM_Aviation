@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ27"]={"id":"AZ27","name":"BIG SPRINGS RANCH","lat":34.910019,"lon":-112.534061,"elevation":4421,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

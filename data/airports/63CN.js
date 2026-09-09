@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63CN"]={"id":"63CN","name":"MEADOWLARK FLD","lat":37.661319,"lon":-121.693561,"elevation":730,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

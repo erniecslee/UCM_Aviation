@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IL1"]={"id":"3IL1","name":"SILVERCREEK","lat":38.925278,"lon":-89.662222,"elevation":595,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

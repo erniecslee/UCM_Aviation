@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LL3"]={"id":"2LL3","name":"MILLER","lat":40.066483,"lon":-89.272144,"elevation":626,"region":"K5","runways":[{"id":"RW18","lat":40.068769,"lon":-89.272114,"length":1665,"course":183.4},{"id":"RW36","lat":40.0642,"lon":-89.272175,"length":1665,"course":3.4}],"procedures":{"D":{},"E":{},"F":{}}};

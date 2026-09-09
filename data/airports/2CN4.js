@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CN4"]={"id":"2CN4","name":"WONDERFUL PISTACHIOS & ALMONDS","lat":35.666389,"lon":-119.896389,"elevation":617,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

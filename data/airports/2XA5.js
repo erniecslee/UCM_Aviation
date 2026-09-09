@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XA5"]={"id":"2XA5","name":"SOMEDAY RANCH","lat":29.803683,"lon":-97.691217,"elevation":466,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

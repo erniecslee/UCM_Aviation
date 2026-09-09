@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NE1"]={"id":"4NE1","name":"MC MILLAN RANCH","lat":41.754169,"lon":-99.754567,"elevation":2500,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

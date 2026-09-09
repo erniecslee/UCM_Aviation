@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67CL"]={"id":"67CL","name":"DAVIS","lat":39.201003,"lon":-122.048583,"elevation":45,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

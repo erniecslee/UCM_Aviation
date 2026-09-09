@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85IL"]={"id":"85IL","name":"DURBIN","lat":39.637244,"lon":-88.619297,"elevation":664,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

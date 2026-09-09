@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK2"]={"id":"9AK2","name":"KAKO","lat":61.899,"lon":-161.439722,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

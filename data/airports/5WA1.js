@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WA1"]={"id":"5WA1","name":"DORMAN FLD","lat":46.521528,"lon":-119.179458,"elevation":700,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

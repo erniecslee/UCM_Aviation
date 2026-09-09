@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U01"]={"id":"U01","name":"SAVAGE FLD","lat":42.797317,"lon":-112.825186,"elevation":4420,"region":"K1","runways":[{"id":"RW04","lat":42.793142,"lon":-112.832339,"length":4900,"course":36.0},{"id":"RW22","lat":42.801492,"lon":-112.818036,"length":4900,"course":216.0}],"procedures":{"D":{},"E":{},"F":{}}};

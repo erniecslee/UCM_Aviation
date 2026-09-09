@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD1"]={"id":"MD1","name":"MASSEY AERODROME","lat":39.299361,"lon":-75.799389,"elevation":73,"region":"K6","runways":[{"id":"RW20","lat":39.303033,"lon":-75.798158,"length":3000,"course":206.5}],"procedures":{"D":{},"E":{},"F":{}}};

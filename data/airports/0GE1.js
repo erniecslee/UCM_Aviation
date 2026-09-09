@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GE1"]={"id":"0GE1","name":"CRYSTAL LAKE AIRPARK","lat":31.665461,"lon":-83.447106,"elevation":327,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36AR"]={"id":"36AR","name":"DAVID STANLEY MEML","lat":35.206389,"lon":-91.318889,"elevation":200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

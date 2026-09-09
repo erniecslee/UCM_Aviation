@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA13"]={"id":"LA13","name":"SHAW CROP SERVICE","lat":30.578244,"lon":-90.315919,"elevation":95,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

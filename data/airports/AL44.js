@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL44"]={"id":"AL44","name":"MOUNDVILLE","lat":32.969492,"lon":-87.637022,"elevation":162,"region":"K7","runways":[{"id":"RW18","lat":32.972786,"lon":-87.636875,"length":2400,"course":182.0},{"id":"RW36","lat":32.966194,"lon":-87.637167,"length":2400,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD39"]={"id":"FD39","name":"FLYING COW AIR RANCH","lat":27.155556,"lon":-80.691667,"elevation":19,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

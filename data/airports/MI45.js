@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI45"]={"id":"MI45","name":"LOST CREEK","lat":44.660044,"lon":-84.237189,"elevation":1051,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

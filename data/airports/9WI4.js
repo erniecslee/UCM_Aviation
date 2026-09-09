@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI4"]={"id":"9WI4","name":"FAKEN","lat":42.978625,"lon":-88.134811,"elevation":904,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

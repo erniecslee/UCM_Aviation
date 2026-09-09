@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00GA"]={"id":"00GA","name":"LT WORLD","lat":33.7675,"lon":-84.068333,"elevation":700,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

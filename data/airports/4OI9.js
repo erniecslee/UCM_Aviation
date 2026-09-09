@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OI9"]={"id":"4OI9","name":"BAISDEN","lat":39.102222,"lon":-82.610719,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

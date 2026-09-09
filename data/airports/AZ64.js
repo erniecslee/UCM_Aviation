@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ64"]={"id":"AZ64","name":"RIO VISTA HILLS","lat":33.952253,"lon":-112.686564,"elevation":2225,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

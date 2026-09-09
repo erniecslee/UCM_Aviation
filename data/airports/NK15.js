@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK15"]={"id":"NK15","name":"SEVENTH LAKE","lat":43.742778,"lon":-74.761944,"elevation":1785,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

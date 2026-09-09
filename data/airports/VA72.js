@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA72"]={"id":"VA72","name":"COVINGTON","lat":36.600139,"lon":-80.038656,"elevation":940,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

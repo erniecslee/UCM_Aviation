@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Z1"]={"id":"1Z1","name":"GRAND CANYON BAR TEN AIRSTRIP","lat":36.2565,"lon":-113.230889,"elevation":4100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

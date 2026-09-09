@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KS5"]={"id":"3KS5","name":"HIGH POINT","lat":37.842644,"lon":-97.351381,"elevation":1395,"region":"K3","runways":[{"id":"RW17","lat":37.845939,"lon":-97.351389,"length":2400,"course":177.0},{"id":"RW35","lat":37.839347,"lon":-97.351372,"length":2400,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

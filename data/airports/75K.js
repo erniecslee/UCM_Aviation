@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75K"]={"id":"75K","name":"BETHANY MEML","lat":40.276833,"lon":-94.007417,"elevation":1035,"region":"K3","runways":[{"id":"RW03","lat":40.274222,"lon":-94.009578,"length":2255,"course":28.3}],"procedures":{"D":{},"E":{},"F":{}}};

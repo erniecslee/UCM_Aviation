@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI86"]={"id":"WI86","name":"ORI","lat":42.66085,"lon":-88.135919,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

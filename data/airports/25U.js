@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25U"]={"id":"25U","name":"MEMALOOSE USFS","lat":45.427861,"lon":-116.693889,"elevation":6708,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

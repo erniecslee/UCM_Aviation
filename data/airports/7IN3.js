@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IN3"]={"id":"7IN3","name":"GARRETT FLD","lat":38.243325,"lon":-87.786822,"elevation":400,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

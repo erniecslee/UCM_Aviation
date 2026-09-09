@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25AA"]={"id":"25AA","name":"SKYFLIGHT","lat":64.928658,"lon":-147.880572,"elevation":1100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

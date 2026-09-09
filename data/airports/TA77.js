@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA77"]={"id":"TA77","name":"FLYERS RIDGE","lat":30.429783,"lon":-95.336619,"elevation":318,"region":"K4","runways":[{"id":"RW06","lat":30.428608,"lon":-95.339511,"length":2014,"course":63.2},{"id":"RW24","lat":30.430958,"lon":-95.333725,"length":2014,"course":243.2}],"procedures":{"D":{},"E":{},"F":{}}};

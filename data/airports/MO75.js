@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO75"]={"id":"MO75","name":"BROWNSBERGER","lat":38.305022,"lon":-94.053275,"elevation":794,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

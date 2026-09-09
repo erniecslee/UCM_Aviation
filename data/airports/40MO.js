@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40MO"]={"id":"40MO","name":"DUDES LANDING","lat":38.859186,"lon":-92.601369,"elevation":796,"region":"K3","runways":[{"id":"RW01","lat":38.855844,"lon":-92.601844,"length":2452,"course":6.7},{"id":"RW19","lat":38.862536,"lon":-92.600892,"length":2452,"course":186.7}],"procedures":{"D":{},"E":{},"F":{}}};

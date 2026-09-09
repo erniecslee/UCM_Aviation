@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42NE"]={"id":"42NE","name":"JONES","lat":40.05805,"lon":-101.546833,"elevation":3126,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

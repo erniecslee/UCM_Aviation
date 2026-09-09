@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8K9"]={"id":"8K9","name":"MURPHYS PULLOUT","lat":55.38965,"lon":-131.738075,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU04"]={"id":"MU04","name":"BROADWATER","lat":36.589781,"lon":-89.920089,"elevation":280,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

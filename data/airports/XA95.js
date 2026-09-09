@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA95"]={"id":"XA95","name":"CANDELARIA","lat":30.149444,"lon":-104.6825,"elevation":2913,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

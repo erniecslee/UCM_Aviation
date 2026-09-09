@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62LA"]={"id":"62LA","name":"TOW'S FLD","lat":30.004233,"lon":-92.014494,"elevation":12,"region":"K4","runways":[{"id":"RW18","lat":30.005608,"lon":-92.014483,"length":1000,"course":180.8},{"id":"RW36","lat":30.002858,"lon":-92.014508,"length":1000,"course":0.8}],"procedures":{"D":{},"E":{},"F":{}}};

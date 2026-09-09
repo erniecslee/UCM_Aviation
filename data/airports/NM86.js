@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM86"]={"id":"NM86","name":"PLAYAS AIR STRIP","lat":31.936758,"lon":-108.536717,"elevation":4519,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

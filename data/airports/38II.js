@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38II"]={"id":"38II","name":"HAMPTON FLD","lat":39.728611,"lon":-86.823056,"elevation":895,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

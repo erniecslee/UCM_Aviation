@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6Y9"]={"id":"6Y9","name":"PRICKETT-GROOMS FLD","lat":46.508653,"lon":-88.705847,"elevation":1377,"region":"K5","runways":[{"id":"RW28","lat":46.508522,"lon":-88.704669,"length":2600,"course":281.0}],"procedures":{"D":{},"E":{},"F":{}}};

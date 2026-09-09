@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8XA6"]={"id":"8XA6","name":"BLACKJACK FLD","lat":33.317056,"lon":-96.98,"elevation":680,"region":"K4","runways":[{"id":"RW18","lat":33.321861,"lon":-96.979806,"length":3500,"course":179.2},{"id":"RW36","lat":33.31225,"lon":-96.980194,"length":3500,"course":359.2}],"procedures":{"D":{},"E":{},"F":{}}};

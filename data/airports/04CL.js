@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04CL"]={"id":"04CL","name":"DESERT WINGS SKY RANCH","lat":33.081711,"lon":-116.441406,"elevation":2310,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

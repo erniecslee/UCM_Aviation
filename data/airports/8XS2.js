@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8XS2"]={"id":"8XS2","name":"AYERS FLD","lat":33.570167,"lon":-98.114467,"elevation":1010,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

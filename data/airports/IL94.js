@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL94"]={"id":"IL94","name":"HOBLIT FARMS","lat":40.226317,"lon":-89.242903,"elevation":623,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

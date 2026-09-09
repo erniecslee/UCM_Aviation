@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS20"]={"id":"PS20","name":"FAIRVIEW FARM AIRFIELD","lat":40.533422,"lon":-76.462183,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

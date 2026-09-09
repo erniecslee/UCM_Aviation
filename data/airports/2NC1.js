@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NC1"]={"id":"2NC1","name":"HAWK'S KNOLL","lat":34.997439,"lon":-80.801642,"elevation":695,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

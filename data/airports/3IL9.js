@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IL9"]={"id":"3IL9","name":"ALEKAT ACRES","lat":40.281036,"lon":-89.313039,"elevation":696,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

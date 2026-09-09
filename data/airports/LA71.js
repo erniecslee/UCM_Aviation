@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA71"]={"id":"LA71","name":"O'BRIEN FLYING SERVICE","lat":30.224375,"lon":-93.00015,"elevation":26,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56S"]={"id":"56S","name":"SEASIDE MUNI","lat":46.014997,"lon":-123.907658,"elevation":12,"region":"K1","runways":[{"id":"RW16","lat":46.017603,"lon":-123.907664,"length":2211,"course":159.9},{"id":"RW34","lat":46.011964,"lon":-123.90765,"length":2211,"course":339.9}],"procedures":{"D":{},"E":{},"F":{}}};

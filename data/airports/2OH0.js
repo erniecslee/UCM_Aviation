@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OH0"]={"id":"2OH0","name":"BOHANNAN","lat":40.3455,"lon":-82.9405,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

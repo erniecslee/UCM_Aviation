@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32WY"]={"id":"32WY","name":"DOUBLE L RANCH","lat":43.076731,"lon":-111.0315,"elevation":5732,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

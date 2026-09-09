@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II43"]={"id":"II43","name":"C V","lat":41.750047,"lon":-86.192228,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

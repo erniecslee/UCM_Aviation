@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47OK"]={"id":"47OK","name":"HARMAN","lat":35.583661,"lon":-98.040053,"elevation":1345,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA67"]={"id":"TA67","name":"BIGGIN HILL AIRPARK","lat":33.748119,"lon":-102.065933,"elevation":3330,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

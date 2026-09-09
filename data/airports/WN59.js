@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN59"]={"id":"WN59","name":"NELSONS NITCH","lat":46.537608,"lon":-122.717894,"elevation":520,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

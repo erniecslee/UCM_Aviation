@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ09"]={"id":"NJ09","name":"MATTHEWS","lat":40.791764,"lon":-75.070453,"elevation":750,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

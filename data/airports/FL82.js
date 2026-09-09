@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL82"]={"id":"FL82","name":"OAK RIDGE","lat":29.580536,"lon":-81.861181,"elevation":72,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

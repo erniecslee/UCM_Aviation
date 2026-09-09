@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC61"]={"id":"SC61","name":"WILD IRISH ROSE","lat":34.617933,"lon":-80.151733,"elevation":376,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL19"]={"id":"OL19","name":"KOURTIS FAMILY FARM","lat":36.415278,"lon":-96.056111,"elevation":919,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

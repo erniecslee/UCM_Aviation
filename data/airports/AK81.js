@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK81"]={"id":"AK81","name":"AMOOK BAY","lat":57.471494,"lon":-153.815361,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

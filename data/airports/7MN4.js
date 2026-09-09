@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MN4"]={"id":"7MN4","name":"MILLE LACS LAKE","lat":46.319403,"lon":-93.830811,"elevation":1261,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

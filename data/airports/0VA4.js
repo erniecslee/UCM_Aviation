@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0VA4"]={"id":"0VA4","name":"WORLEY FLD","lat":36.950139,"lon":-79.879478,"elevation":1219,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

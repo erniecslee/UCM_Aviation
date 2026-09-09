@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M69"]={"id":"M69","name":"BIRCH LAKE","lat":46.369522,"lon":-93.811025,"elevation":1278,"region":"K3","runways":[{"id":"RW13W","lat":46.3744,"lon":-93.819108,"length":5283,"course":129.2},{"id":"RW31W","lat":46.365203,"lon":-93.802939,"length":5283,"course":309.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70NJ"]={"id":"70NJ","name":"PARKER","lat":40.677044,"lon":-75.024617,"elevation":307,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

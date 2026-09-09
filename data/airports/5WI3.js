@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI3"]={"id":"5WI3","name":"DER SCHWARZWALD","lat":43.207772,"lon":-89.017053,"elevation":925,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

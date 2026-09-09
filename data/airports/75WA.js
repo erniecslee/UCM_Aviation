@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75WA"]={"id":"75WA","name":"PORT ELSNER","lat":45.802064,"lon":-121.479519,"elevation":610,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

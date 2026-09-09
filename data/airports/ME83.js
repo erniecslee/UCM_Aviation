@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME83"]={"id":"ME83","name":"PICKEREL POND","lat":43.701181,"lon":-70.777361,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

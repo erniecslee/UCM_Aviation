@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29ME"]={"id":"29ME","name":"TECONNET","lat":44.448,"lon":-69.530333,"elevation":194,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

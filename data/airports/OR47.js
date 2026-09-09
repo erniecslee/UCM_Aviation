@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR47"]={"id":"OR47","name":"STRAUCH FLD","lat":44.188333,"lon":-123.189444,"elevation":335,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

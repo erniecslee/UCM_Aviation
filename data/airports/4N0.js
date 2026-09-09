@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4N0"]={"id":"4N0","name":"NEWMANS","lat":42.288928,"lon":-85.750011,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

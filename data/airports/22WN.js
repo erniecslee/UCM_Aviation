@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22WN"]={"id":"22WN","name":"SOUTHWIND","lat":43.068603,"lon":-90.219483,"elevation":1030,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

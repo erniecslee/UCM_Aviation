@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID13"]={"id":"ID13","name":"SKY ISLAND RANCH","lat":47.322131,"lon":-116.639892,"elevation":2880,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

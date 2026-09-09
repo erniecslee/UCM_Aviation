@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MT4"]={"id":"0MT4","name":"KIMP","lat":46.278611,"lon":-114.141111,"elevation":3510,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

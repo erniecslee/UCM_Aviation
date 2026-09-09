@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1L9"]={"id":"1L9","name":"PAROWAN","lat":37.859614,"lon":-112.815906,"elevation":5927,"region":"K2","runways":[{"id":"RW04","lat":37.855522,"lon":-112.822858,"length":5001,"course":39.0},{"id":"RW22","lat":37.863706,"lon":-112.808953,"length":5001,"course":219.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS79"]={"id":"TS79","name":"FOURTH CREEK RANCH","lat":36.324061,"lon":-100.396608,"elevation":2702,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

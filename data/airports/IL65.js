@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL65"]={"id":"IL65","name":"M A M TRAIL","lat":41.005036,"lon":-90.708472,"elevation":605,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

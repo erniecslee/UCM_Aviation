@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV35"]={"id":"WV35","name":"POMEROY/MASON","lat":39.0223,"lon":-82.023475,"elevation":538,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71TS"]={"id":"71TS","name":"FAIRMOUNT","lat":31.218656,"lon":-93.701897,"elevation":211,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

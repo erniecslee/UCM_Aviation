@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL38"]={"id":"OL38","name":"BRATTON","lat":35.085592,"lon":-94.594925,"elevation":457,"region":"K4","runways":[{"id":"RW17","lat":35.087236,"lon":-94.595206,"length":1200,"course":170.4},{"id":"RW35","lat":35.083975,"lon":-94.594617,"length":1200,"course":350.4}],"procedures":{"D":{},"E":{},"F":{}}};

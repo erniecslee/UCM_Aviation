@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL5"]={"id":"5LL5","name":"GORDON BROWN","lat":40.701428,"lon":-89.884,"elevation":745,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

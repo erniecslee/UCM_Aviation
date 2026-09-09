@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN72"]={"id":"IN72","name":"MAYER","lat":40.785933,"lon":-85.2442,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

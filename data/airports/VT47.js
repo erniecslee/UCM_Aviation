@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT47"]={"id":"VT47","name":"MILLER FARM AIRFIELD","lat":42.778611,"lon":-72.527778,"elevation":285,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

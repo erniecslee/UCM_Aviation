@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG01"]={"id":"OG01","name":"DUNNING VINEYARDS","lat":44.5975,"lon":-123.233056,"elevation":240,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

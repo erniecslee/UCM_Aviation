@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97TS"]={"id":"97TS","name":"GDAP AIR RANCH","lat":30.480203,"lon":-95.539944,"elevation":300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

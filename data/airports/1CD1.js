@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CD1"]={"id":"1CD1","name":"REED INTL","lat":40.690278,"lon":-104.866667,"elevation":5350,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

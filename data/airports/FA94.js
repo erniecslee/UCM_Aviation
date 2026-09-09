@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA94"]={"id":"FA94","name":"ONEALS","lat":28.231111,"lon":-81.234444,"elevation":63,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

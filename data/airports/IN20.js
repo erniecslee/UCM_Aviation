@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN20"]={"id":"IN20","name":"JUNGCLAUS","lat":39.453933,"lon":-86.282278,"elevation":765,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

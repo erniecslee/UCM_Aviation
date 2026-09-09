@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IG3"]={"id":"3IG3","name":"TERRY'S","lat":41.170183,"lon":-85.421644,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

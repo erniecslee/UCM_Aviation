@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL46"]={"id":"LL46","name":"READ","lat":40.835311,"lon":-88.152825,"elevation":663,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

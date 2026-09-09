@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21IN"]={"id":"21IN","name":"GRAME","lat":38.119444,"lon":-86.765278,"elevation":420,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

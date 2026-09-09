@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08OH"]={"id":"08OH","name":"KENLEY","lat":41.291722,"lon":-80.563683,"elevation":1230,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

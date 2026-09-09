@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY58"]={"id":"WY58","name":"HILTY FLD","lat":42.072014,"lon":-104.986708,"elevation":4752,"region":"K1","runways":[{"id":"RW08","lat":42.072028,"lon":-104.990056,"length":1818,"course":82.6},{"id":"RW26","lat":42.072,"lon":-104.983361,"length":1818,"course":262.6}],"procedures":{"D":{},"E":{},"F":{}}};

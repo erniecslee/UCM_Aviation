@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN97"]={"id":"TN97","name":"TRIUNE AIRFIELD","lat":35.806944,"lon":-86.612222,"elevation":740,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

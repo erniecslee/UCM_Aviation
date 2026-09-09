@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS22"]={"id":"XS22","name":"LAME DONKEY","lat":33.798583,"lon":-98.400833,"elevation":935,"region":"K4","runways":[{"id":"RW15","lat":33.799889,"lon":-98.401953,"length":1170,"course":140.9},{"id":"RW33","lat":33.797278,"lon":-98.399711,"length":1170,"course":320.9}],"procedures":{"D":{},"E":{},"F":{}}};

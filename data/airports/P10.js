@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["P10"]={"id":"P10","name":"POLACCA","lat":35.791611,"lon":-110.423389,"elevation":5573,"region":"K2","runways":[{"id":"RW04","lat":35.788336,"lon":-110.429225,"length":4200,"course":42.6},{"id":"RW22","lat":35.794858,"lon":-110.417539,"length":4200,"course":222.6}],"procedures":{"D":{},"E":{},"F":{}}};

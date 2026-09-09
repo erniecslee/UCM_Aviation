@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24PS"]={"id":"24PS","name":"SPRING HILL","lat":41.347419,"lon":-75.415925,"elevation":1729,"region":"K6","runways":[{"id":"RW05","lat":41.345636,"lon":-75.417881,"length":2431,"course":51.4},{"id":"RW23","lat":41.349992,"lon":-75.413108,"length":2431,"course":231.4}],"procedures":{"D":{},"E":{},"F":{}}};

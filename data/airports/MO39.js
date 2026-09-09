@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO39"]={"id":"MO39","name":"BALDWIN","lat":39.111586,"lon":-91.041506,"elevation":511,"region":"K3","runways":[{"id":"RW14","lat":39.113856,"lon":-91.045269,"length":2700,"course":127.0},{"id":"RW32","lat":39.109317,"lon":-91.037744,"length":2700,"course":307.0}],"procedures":{"D":{},"E":{},"F":{}}};

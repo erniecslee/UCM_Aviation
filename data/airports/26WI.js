@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26WI"]={"id":"26WI","name":"KITTY-WOMPUS","lat":45.699125,"lon":-91.303492,"elevation":1336,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

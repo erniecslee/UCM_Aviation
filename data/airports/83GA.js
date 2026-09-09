@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83GA"]={"id":"83GA","name":"BROCK AIRPARK","lat":30.999722,"lon":-84.506111,"elevation":130,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

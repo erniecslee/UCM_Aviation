@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ00"]={"id":"NJ00","name":"RIDGEFIELD PARK","lat":40.845933,"lon":-74.02875,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

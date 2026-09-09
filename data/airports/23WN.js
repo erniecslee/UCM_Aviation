@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23WN"]={"id":"23WN","name":"WILLIE'S","lat":45.911056,"lon":-91.6285,"elevation":1110,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

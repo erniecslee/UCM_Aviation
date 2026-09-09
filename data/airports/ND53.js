@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND53"]={"id":"ND53","name":"PUEPPKE","lat":47.046389,"lon":-97.388056,"elevation":1099,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

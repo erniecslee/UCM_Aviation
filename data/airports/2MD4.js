@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MD4"]={"id":"2MD4","name":"ENNIS AERODROME","lat":38.394561,"lon":-75.557422,"elevation":44,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03IA"]={"id":"03IA","name":"FLATLANDER","lat":41.141411,"lon":-95.194381,"elevation":1081,"region":"K3","runways":[{"id":"RW17","lat":41.144158,"lon":-95.194417,"length":2000,"course":178.0},{"id":"RW35","lat":41.138669,"lon":-95.194353,"length":2000,"course":358.0}],"procedures":{"D":{},"E":{},"F":{}}};

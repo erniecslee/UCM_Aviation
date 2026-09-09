@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN13"]={"id":"MN13","name":"MOBERG AIR BASE","lat":47.496064,"lon":-94.952781,"elevation":1373,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

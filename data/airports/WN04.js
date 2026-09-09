@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN04"]={"id":"WN04","name":"ELK HEIGHTS","lat":48.002,"lon":-117.263333,"elevation":2050,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

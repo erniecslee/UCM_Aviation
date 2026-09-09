@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79AK"]={"id":"79AK","name":"HUTTUNEN STRIP","lat":61.481839,"lon":-149.744019,"elevation":254,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

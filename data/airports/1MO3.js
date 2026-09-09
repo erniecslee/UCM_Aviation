@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MO3"]={"id":"1MO3","name":"LAKE VIKING","lat":39.933339,"lon":-94.073836,"elevation":940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

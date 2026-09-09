@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK5"]={"id":"9AK5","name":"SKY HARBOR","lat":61.116481,"lon":-149.818769,"elevation":340,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

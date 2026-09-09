@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD33"]={"id":"FD33","name":"GREEN SWAMP AERODROME","lat":28.211756,"lon":-81.997917,"elevation":115,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

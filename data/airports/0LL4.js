@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LL4"]={"id":"0LL4","name":"FLAHERTY FLD","lat":41.4192,"lon":-89.123139,"elevation":664,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

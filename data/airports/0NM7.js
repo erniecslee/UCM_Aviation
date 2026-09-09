@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NM7"]={"id":"0NM7","name":"NEGRITO AIRSTRIP","lat":33.520894,"lon":-108.542836,"elevation":8143,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV02"]={"id":"NV02","name":"O'TOOLE RANCH","lat":39.066594,"lon":-117.421764,"elevation":6520,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

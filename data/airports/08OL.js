@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08OL"]={"id":"08OL","name":"BROKEN B","lat":35.408089,"lon":-98.605478,"elevation":1518,"region":"K4","runways":[{"id":"RW18","lat":35.4095,"lon":-98.605403,"length":1029,"course":178.8},{"id":"RW36","lat":35.406675,"lon":-98.605553,"length":1029,"course":358.8}],"procedures":{"D":{},"E":{},"F":{}}};

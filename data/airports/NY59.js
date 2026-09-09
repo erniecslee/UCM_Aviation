@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY59"]={"id":"NY59","name":"VALENTY MIEREK","lat":43.387292,"lon":-75.486289,"elevation":1220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

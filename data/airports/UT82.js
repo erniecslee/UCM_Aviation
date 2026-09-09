@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT82"]={"id":"UT82","name":"BERYL JUNCTION","lat":37.709972,"lon":-113.645797,"elevation":5181,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

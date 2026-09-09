@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI4"]={"id":"5WI4","name":"LARSON","lat":45.081375,"lon":-87.679272,"elevation":615,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

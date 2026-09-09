@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI09"]={"id":"WI09","name":"HEITMAN FLD","lat":42.977222,"lon":-88.475833,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

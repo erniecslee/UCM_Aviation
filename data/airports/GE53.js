@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE53"]={"id":"GE53","name":"CHIGGER HILL","lat":33.316667,"lon":-84.150278,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA07"]={"id":"XA07","name":"SPECTRE FLD","lat":33.275,"lon":-97.716667,"elevation":835,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

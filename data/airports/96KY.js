@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96KY"]={"id":"96KY","name":"WOOSLEY FLD","lat":37.552222,"lon":-87.271389,"elevation":465,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

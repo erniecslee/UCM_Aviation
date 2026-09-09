@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85XS"]={"id":"85XS","name":"SEVEN J STOCK FARM","lat":31.103611,"lon":-95.702811,"elevation":160,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

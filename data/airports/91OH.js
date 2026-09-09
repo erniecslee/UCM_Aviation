@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91OH"]={"id":"91OH","name":"STINE FLD","lat":40.733392,"lon":-81.892919,"elevation":1172,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

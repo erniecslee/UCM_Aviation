@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KTMT"]={"id":"KTMT","name":"AUSTIN","lat":39.467944,"lon":-117.197453,"elevation":5735,"region":"K2","runways":[{"id":"RW01","lat":39.460244,"lon":-117.201219,"length":5999,"course":9.0},{"id":"RW19","lat":39.475642,"lon":-117.193686,"length":5999,"course":189.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GE3"]={"id":"4GE3","name":"WHITEHALL","lat":32.499331,"lon":-83.183272,"elevation":350,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

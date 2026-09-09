@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA99"]={"id":"XA99","name":"FLAT BUSH","lat":33.134383,"lon":-97.60705,"elevation":862,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45OH"]={"id":"45OH","name":"BOOBER","lat":38.975994,"lon":-84.219511,"elevation":854,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

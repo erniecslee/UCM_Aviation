@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6ND9"]={"id":"6ND9","name":"SKINNINGSRUD","lat":48.392794,"lon":-101.76405,"elevation":2010,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

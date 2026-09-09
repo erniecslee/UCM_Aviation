@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC76"]={"id":"NC76","name":"RONDO","lat":35.221528,"lon":-82.203056,"elevation":1050,"region":"K7","runways":[{"id":"RW03","lat":35.22,"lon":-82.204167,"length":1295,"course":38.0},{"id":"RW21","lat":35.223056,"lon":-82.201944,"length":1295,"course":218.0}],"procedures":{"D":{},"E":{},"F":{}}};

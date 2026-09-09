@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ78"]={"id":"AZ78","name":"ARIZONA BAY","lat":33.011111,"lon":-112.281667,"elevation":1420,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

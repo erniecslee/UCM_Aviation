@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAGT"]={"id":"PAGT","name":"NIGHTMUTE","lat":60.469172,"lon":-164.704039,"elevation":7,"region":"PA","runways":[{"id":"RW03","lat":60.465831,"lon":-164.709764,"length":3200,"course":23.0},{"id":"RW21","lat":60.472514,"lon":-164.698311,"length":3200,"course":203.0}],"procedures":{"D":{},"E":{},"F":{}}};

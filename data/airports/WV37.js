@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV37"]={"id":"WV37","name":"NEW MARTINSVILLE","lat":39.635911,"lon":-80.870378,"elevation":602,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

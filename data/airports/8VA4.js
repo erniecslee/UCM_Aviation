@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8VA4"]={"id":"8VA4","name":"LOTUS INTL","lat":37.672922,"lon":-78.703347,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

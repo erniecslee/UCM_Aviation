@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL41"]={"id":"FL41","name":"OKEELANTA","lat":26.581181,"lon":-80.755894,"elevation":14,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

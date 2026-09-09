@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01MT"]={"id":"01MT","name":"CRYSTAL LAKES RESORT","lat":48.789133,"lon":-114.880436,"elevation":3141,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

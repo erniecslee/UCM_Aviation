@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MN4"]={"id":"3MN4","name":"ROLLING HILLS","lat":43.950844,"lon":-95.385328,"elevation":1477,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

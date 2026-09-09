@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA07"]={"id":"IA07","name":"LOKEN FARM","lat":43.451656,"lon":-93.318306,"elevation":1259,"region":"K3","runways":[{"id":"RW18","lat":43.455086,"lon":-93.318336,"length":2500,"course":179.8},{"id":"RW36","lat":43.448228,"lon":-93.318306,"length":2500,"course":359.8}],"procedures":{"D":{},"E":{},"F":{}}};

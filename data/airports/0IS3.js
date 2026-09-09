@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IS3"]={"id":"0IS3","name":"CADY AERIAL","lat":41.660492,"lon":-89.694197,"elevation":630,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

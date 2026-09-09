@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5W1"]={"id":"5W1","name":"WILSON CREEK","lat":47.418483,"lon":-119.109083,"elevation":1430,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41NK"]={"id":"41NK","name":"WINCHELL MOUNTAIN","lat":41.947778,"lon":-73.518056,"elevation":1141,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

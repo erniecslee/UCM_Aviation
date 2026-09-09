@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51G"]={"id":"51G","name":"ALKAY","lat":43.143089,"lon":-83.797219,"elevation":714,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

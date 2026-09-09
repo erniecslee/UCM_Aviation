@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CO3"]={"id":"2CO3","name":"JACKRABBIT STRIP","lat":40.374983,"lon":-104.87275,"elevation":5000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

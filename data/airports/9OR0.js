@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OR0"]={"id":"9OR0","name":"LAFFERTY FLD","lat":44.315125,"lon":-123.024811,"elevation":360,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

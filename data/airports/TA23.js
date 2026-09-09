@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA23"]={"id":"TA23","name":"MORRIS LAZY K RANCH","lat":31.261292,"lon":-96.216353,"elevation":360,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR04"]={"id":"NR04","name":"SOUTHERN SKIES","lat":35.960278,"lon":-81.173056,"elevation":1180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

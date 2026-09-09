@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TE3"]={"id":"3TE3","name":"NEVADA AIRPARK","lat":33.074008,"lon":-96.431825,"elevation":600,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

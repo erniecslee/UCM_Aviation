@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6A6"]={"id":"6A6","name":"KIMBALL MUNI","lat":43.755447,"lon":-98.978803,"elevation":1755,"region":"K3","runways":[{"id":"RW13","lat":43.758256,"lon":-98.981914,"length":2625,"course":133.2},{"id":"RW31","lat":43.752639,"lon":-98.975689,"length":2625,"course":313.2}],"procedures":{"D":{},"E":{},"F":{}}};

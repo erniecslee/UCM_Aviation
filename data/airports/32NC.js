@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32NC"]={"id":"32NC","name":"HALL FLD","lat":34.896389,"lon":-79.043056,"elevation":175,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54MU"]={"id":"54MU","name":"BROWN FLD","lat":40.300433,"lon":-95.112169,"elevation":1004,"region":"K3","runways":[{"id":"RW17","lat":40.303842,"lon":-95.112711,"length":2500,"course":171.8},{"id":"RW35","lat":40.297025,"lon":-95.111647,"length":2500,"course":351.8}],"procedures":{"D":{},"E":{},"F":{}}};

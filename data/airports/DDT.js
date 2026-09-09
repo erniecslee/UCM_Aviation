@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DDT"]={"id":"DDT","name":"DUFFYS TAVERN","lat":62.724611,"lon":-143.920514,"elevation":2420,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

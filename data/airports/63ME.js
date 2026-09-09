@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63ME"]={"id":"63ME","name":"MILO FLD","lat":45.239167,"lon":-68.961528,"elevation":293,"region":"K6","runways":[{"id":"RW10","lat":45.239722,"lon":-68.965,"length":1834,"course":118.0},{"id":"RW28","lat":45.238611,"lon":-68.958056,"length":1834,"course":298.0}],"procedures":{"D":{},"E":{},"F":{}}};

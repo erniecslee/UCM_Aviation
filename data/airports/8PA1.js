@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PA1"]={"id":"8PA1","name":"DEE JAY","lat":40.402472,"lon":-76.511628,"elevation":514,"region":"K6","runways":[{"id":"RW09","lat":40.401967,"lon":-76.514789,"length":1800,"course":89.2},{"id":"RW27","lat":40.402978,"lon":-76.508467,"length":1800,"course":269.2}],"procedures":{"D":{},"E":{},"F":{}}};

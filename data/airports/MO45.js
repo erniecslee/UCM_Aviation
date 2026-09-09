@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO45"]={"id":"MO45","name":"SKY-VU","lat":38.892222,"lon":-91.565997,"elevation":800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

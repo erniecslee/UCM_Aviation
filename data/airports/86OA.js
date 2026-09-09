@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86OA"]={"id":"86OA","name":"BORDNER","lat":41.335989,"lon":-83.723192,"elevation":690,"region":"K5","runways":[{"id":"RW10","lat":41.336078,"lon":-83.727967,"length":2623,"course":98.3},{"id":"RW28","lat":41.335897,"lon":-83.718417,"length":2623,"course":278.3}],"procedures":{"D":{},"E":{},"F":{}}};

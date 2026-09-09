@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46U"]={"id":"46U","name":"ALPINE","lat":43.181806,"lon":-111.0385,"elevation":5637,"region":"K1","runways":[{"id":"RW13","lat":43.188117,"lon":-111.045203,"length":5827,"course":131.0},{"id":"RW31","lat":43.1765,"lon":-111.032881,"length":5827,"course":311.0}],"procedures":{"D":{},"E":{},"F":{}}};

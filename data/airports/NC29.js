@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC29"]={"id":"NC29","name":"BRADLEY FLD","lat":35.620139,"lon":-80.597564,"elevation":795,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

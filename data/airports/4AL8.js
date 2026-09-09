@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AL8"]={"id":"4AL8","name":"MILTON","lat":34.490542,"lon":-86.673433,"elevation":639,"region":"K7","runways":[{"id":"RW13","lat":34.4926,"lon":-86.6762,"length":2242,"course":131.9},{"id":"RW31","lat":34.488483,"lon":-86.670667,"length":2242,"course":311.9}],"procedures":{"D":{},"E":{},"F":{}}};

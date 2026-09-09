@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD08"]={"id":"FD08","name":"ANTIQUERS AERODROME","lat":26.465353,"lon":-80.149767,"elevation":23,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

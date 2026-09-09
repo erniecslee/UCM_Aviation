@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FD2"]={"id":"9FD2","name":"BLACKWATER CREEK","lat":28.136958,"lon":-82.146475,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

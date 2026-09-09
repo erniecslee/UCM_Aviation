@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95OR"]={"id":"95OR","name":"FLOURNOY VALLEY","lat":43.207614,"lon":-123.532581,"elevation":790,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

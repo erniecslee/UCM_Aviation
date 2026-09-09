@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OH4"]={"id":"2OH4","name":"CEDAR CREEK","lat":40.624503,"lon":-82.63545,"elevation":1220,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

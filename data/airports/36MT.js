@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36MT"]={"id":"36MT","name":"16 RANCH","lat":46.798694,"lon":-108.809889,"elevation":3960,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

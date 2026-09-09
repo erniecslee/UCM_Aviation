@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA17"]={"id":"LA17","name":"KEYSTONE FARMS","lat":31.482183,"lon":-92.661375,"elevation":89,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

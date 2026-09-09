@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66VT"]={"id":"66VT","name":"THERRIAULT","lat":43.882833,"lon":-73.2865,"elevation":300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

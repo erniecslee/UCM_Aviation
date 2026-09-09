@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FL0"]={"id":"6FL0","name":"SEMINOLE LAKE","lat":28.405839,"lon":-81.837856,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

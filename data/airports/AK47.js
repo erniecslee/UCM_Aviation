@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK47"]={"id":"AK47","name":"SHAWN FLD","lat":61.585689,"lon":-149.56335,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

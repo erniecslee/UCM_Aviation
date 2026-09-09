@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME74"]={"id":"ME74","name":"MILLER'S FLD","lat":44.751389,"lon":-68.982778,"elevation":160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

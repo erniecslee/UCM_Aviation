@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TE1"]={"id":"7TE1","name":"DOUBLE D FARMS","lat":29.998972,"lon":-96.761139,"elevation":485,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

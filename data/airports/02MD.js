@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02MD"]={"id":"02MD","name":"GARNER FLD","lat":38.672544,"lon":-76.709739,"elevation":141,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

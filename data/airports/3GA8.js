@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA8"]={"id":"3GA8","name":"CAULEY'S AIRSTRIP","lat":32.329444,"lon":-82.635,"elevation":251,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

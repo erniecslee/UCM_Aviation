@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29NC"]={"id":"29NC","name":"LARRY F WARREN FLD","lat":36.090583,"lon":-79.170803,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

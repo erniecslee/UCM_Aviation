@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN68"]={"id":"PN68","name":"JACKSON","lat":40.896806,"lon":-80.367694,"elevation":930,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

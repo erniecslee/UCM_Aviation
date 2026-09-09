@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD03"]={"id":"CD03","name":"TINNES","lat":38.199033,"lon":-102.572833,"elevation":3850,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

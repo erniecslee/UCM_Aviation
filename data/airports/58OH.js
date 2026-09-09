@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58OH"]={"id":"58OH","name":"RATTLESNAKE ISLAND","lat":41.679217,"lon":-82.847133,"elevation":586,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

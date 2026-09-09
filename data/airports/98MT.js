@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98MT"]={"id":"98MT","name":"ROSEMONT","lat":46.442814,"lon":-114.003183,"elevation":4172,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

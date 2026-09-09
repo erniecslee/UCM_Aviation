@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86PN"]={"id":"86PN","name":"SEESHOLTZ","lat":41.044531,"lon":-76.355219,"elevation":730,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

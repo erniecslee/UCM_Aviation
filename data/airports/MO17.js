@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO17"]={"id":"MO17","name":"GARST","lat":40.480458,"lon":-95.648564,"elevation":907,"region":"K3","runways":[{"id":"RW18","lat":40.483394,"lon":-95.648556,"length":2140,"course":174.1},{"id":"RW36","lat":40.477519,"lon":-95.648569,"length":2140,"course":354.1}],"procedures":{"D":{},"E":{},"F":{}}};

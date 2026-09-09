@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TN9"]={"id":"6TN9","name":"DRIPPING SPRINGS FARM","lat":36.061389,"lon":-87.247222,"elevation":728,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA48"]={"id":"XA48","name":"DREAMLAND","lat":33.641511,"lon":-97.31565,"elevation":945,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

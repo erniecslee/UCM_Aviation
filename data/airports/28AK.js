@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28AK"]={"id":"28AK","name":"GATES RANCH","lat":61.808878,"lon":-147.859347,"elevation":1875,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

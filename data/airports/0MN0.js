@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MN0"]={"id":"0MN0","name":"WINNER'S LANDING","lat":44.796911,"lon":-92.9841,"elevation":690,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

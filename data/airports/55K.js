@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55K"]={"id":"55K","name":"OXFORD MUNI","lat":37.269108,"lon":-97.093356,"elevation":1194,"region":"K3","runways":[{"id":"RW17","lat":37.27375,"lon":-97.093447,"length":3380,"course":172.1},{"id":"RW35","lat":37.264467,"lon":-97.093261,"length":3380,"course":352.1}],"procedures":{"D":{},"E":{},"F":{}}};

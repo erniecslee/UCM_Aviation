@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT01"]={"id":"MT01","name":"OWEN BROS","lat":47.616692,"lon":-110.092533,"elevation":3106,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

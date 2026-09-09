@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC05"]={"id":"SC05","name":"FLYING TAILS","lat":33.306444,"lon":-79.948639,"elevation":62,"region":"K7","runways":[{"id":"RW09","lat":33.305722,"lon":-79.952167,"length":2219,"course":84.6},{"id":"RW27","lat":33.307167,"lon":-79.945111,"length":2219,"course":264.6}],"procedures":{"D":{},"E":{},"F":{}}};

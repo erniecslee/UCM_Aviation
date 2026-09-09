@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN67"]={"id":"SN67","name":"BUTTON","lat":38.383344,"lon":-98.750361,"elevation":1845,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK7"]={"id":"0AK7","name":"BRADLEY LAKE HYDROELECTRIC PRO","lat":59.776069,"lon":-150.958514,"elevation":18,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

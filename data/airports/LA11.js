@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA11"]={"id":"LA11","name":"THACKERS","lat":32.791417,"lon":-93.956542,"elevation":202,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

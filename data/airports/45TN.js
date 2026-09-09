@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45TN"]={"id":"45TN","name":"DARNELL'S LANDINGS","lat":36.506667,"lon":-82.711667,"elevation":1150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

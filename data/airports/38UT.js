@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38UT"]={"id":"38UT","name":"HOYTSVILLE","lat":40.877417,"lon":-111.375694,"elevation":5800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TA2"]={"id":"6TA2","name":"FLYING TIGER FLD","lat":33.372222,"lon":-96.362222,"elevation":685,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

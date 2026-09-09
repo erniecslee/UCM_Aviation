@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO33"]={"id":"CO33","name":"RIA","lat":38.839194,"lon":-104.134833,"elevation":6172,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

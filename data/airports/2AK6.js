@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK6"]={"id":"2AK6","name":"HOG RIVER","lat":66.176133,"lon":-155.684817,"elevation":534,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

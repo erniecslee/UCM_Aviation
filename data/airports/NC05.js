@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC05"]={"id":"NC05","name":"BRADFORD FLD","lat":35.40875,"lon":-80.794239,"elevation":649,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

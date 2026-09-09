@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS77"]={"id":"MS77","name":"CONNER FLD","lat":33.331786,"lon":-90.643147,"elevation":114,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

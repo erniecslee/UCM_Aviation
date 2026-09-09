@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00N"]={"id":"00N","name":"BUCKS","lat":39.473739,"lon":-75.184567,"elevation":108,"region":"K6","runways":[{"id":"RW18","lat":39.477006,"lon":-75.185356,"length":2420,"course":180.0},{"id":"RW36","lat":39.470472,"lon":-75.183781,"length":2420,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

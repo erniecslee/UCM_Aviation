@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78II"]={"id":"78II","name":"FOX STATION","lat":40.636153,"lon":-85.688036,"elevation":835,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

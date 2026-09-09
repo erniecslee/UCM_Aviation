@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20KY"]={"id":"20KY","name":"VERONA LANDING","lat":38.816944,"lon":-84.671111,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

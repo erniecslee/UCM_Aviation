@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53CO"]={"id":"53CO","name":"RONS FLD","lat":37.553069,"lon":-102.392133,"elevation":4096,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

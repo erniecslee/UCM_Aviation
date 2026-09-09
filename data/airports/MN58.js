@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN58"]={"id":"MN58","name":"SKY MEADOW","lat":44.697744,"lon":-92.864094,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A26"]={"id":"A26","name":"ADIN","lat":41.1865,"lon":-120.954389,"elevation":4234,"region":"K2","runways":[{"id":"RW09","lat":41.187886,"lon":-120.959233,"length":2850,"course":93.8},{"id":"RW27","lat":41.185394,"lon":-120.950531,"length":2850,"course":273.8}],"procedures":{"D":{},"E":{},"F":{}}};

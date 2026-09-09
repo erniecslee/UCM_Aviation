@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49G"]={"id":"49G","name":"WEND VALLEY","lat":42.57795,"lon":-84.909014,"elevation":859,"region":"K5","runways":[{"id":"RW18","lat":42.578783,"lon":-84.909019,"length":1800,"course":184.0},{"id":"RW36","lat":42.575492,"lon":-84.909003,"length":1800,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TX0"]={"id":"0TX0","name":"NASSAU BAY","lat":32.419583,"lon":-97.712806,"elevation":714,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

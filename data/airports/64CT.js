@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64CT"]={"id":"64CT","name":"WOODSTOCK","lat":41.921486,"lon":-71.95285,"elevation":465,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

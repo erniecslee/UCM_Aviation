@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAM"]={"id":"PAAM","name":"DRIFTWOOD BAY AIR FORCE STATIO","lat":53.971981,"lon":-166.857406,"elevation":24,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

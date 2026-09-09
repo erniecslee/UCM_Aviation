@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54IL"]={"id":"54IL","name":"ROTHROCK","lat":41.128644,"lon":-88.802017,"elevation":653,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WA9"]={"id":"4WA9","name":"PORT ORCHARD","lat":47.432317,"lon":-122.667914,"elevation":370,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

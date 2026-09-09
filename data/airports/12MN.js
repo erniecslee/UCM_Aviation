@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12MN"]={"id":"12MN","name":"LILY LAKE","lat":47.219744,"lon":-93.512675,"elevation":1284,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

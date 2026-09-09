@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN44"]={"id":"CN44","name":"FLYING BULL","lat":37.620472,"lon":-121.162972,"elevation":40,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

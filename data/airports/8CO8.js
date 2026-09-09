@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CO8"]={"id":"8CO8","name":"KOENIG","lat":40.108319,"lon":-102.728267,"elevation":4150,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

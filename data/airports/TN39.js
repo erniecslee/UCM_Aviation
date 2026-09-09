@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN39"]={"id":"TN39","name":"AMACHER STRIP","lat":35.305636,"lon":-86.236656,"elevation":1080,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

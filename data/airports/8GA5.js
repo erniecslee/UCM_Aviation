@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA5"]={"id":"8GA5","name":"SIKES FARM","lat":32.222778,"lon":-82.131389,"elevation":232,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TA4"]={"id":"4TA4","name":"PEA PATCH","lat":29.939386,"lon":-96.060467,"elevation":174,"region":"K4","runways":[{"id":"RW17","lat":29.942478,"lon":-96.060592,"length":2250,"course":172.0},{"id":"RW35","lat":29.936294,"lon":-96.060342,"length":2250,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89VA"]={"id":"89VA","name":"HIDDEN RIVER","lat":38.824694,"lon":-78.521806,"elevation":796,"region":"K6","runways":[{"id":"RW11","lat":38.82505,"lon":-78.524217,"length":1400,"course":109.0},{"id":"RW29","lat":38.824336,"lon":-78.519392,"length":1400,"course":289.0}],"procedures":{"D":{},"E":{},"F":{}}};

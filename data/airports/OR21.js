@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR21"]={"id":"OR21","name":"MILLER AIRSTRIP","lat":44.593178,"lon":-122.989536,"elevation":279,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

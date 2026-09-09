@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD57"]={"id":"MD57","name":"BEVERLY","lat":38.007067,"lon":-75.617428,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

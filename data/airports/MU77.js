@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU77"]={"id":"MU77","name":"AERO BRITTON","lat":39.129197,"lon":-92.730739,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

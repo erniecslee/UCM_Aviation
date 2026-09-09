@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["B10"]={"id":"B10","name":"BOWMAN FLD","lat":44.41,"lon":-70.146083,"elevation":324,"region":"K6","runways":[{"id":"RW02","lat":44.407019,"lon":-70.146692,"length":2201,"course":26.0},{"id":"RW20","lat":44.412994,"lon":-70.145486,"length":2201,"course":206.0}],"procedures":{"D":{},"E":{},"F":{}}};

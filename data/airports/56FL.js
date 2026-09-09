@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56FL"]={"id":"56FL","name":"BUCHANAN","lat":30.876153,"lon":-87.208106,"elevation":246,"region":"K7","runways":[{"id":"RW02","lat":30.872169,"lon":-87.208267,"length":2900,"course":5.5},{"id":"RW20","lat":30.880136,"lon":-87.207944,"length":2900,"course":185.5}],"procedures":{"D":{},"E":{},"F":{}}};

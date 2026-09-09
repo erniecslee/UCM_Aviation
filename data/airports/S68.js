@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S68"]={"id":"S68","name":"OROFINO MUNI","lat":46.492022,"lon":-116.2754,"elevation":1005,"region":"K1","runways":[{"id":"RW08","lat":46.493294,"lon":-116.279619,"length":2520,"course":95.6},{"id":"RW26","lat":46.490639,"lon":-116.270817,"length":2520,"course":275.6}],"procedures":{"D":{},"E":{},"F":{}}};

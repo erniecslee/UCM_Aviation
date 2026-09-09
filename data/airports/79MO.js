@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79MO"]={"id":"79MO","name":"FARIES FLD","lat":36.986667,"lon":-90.543333,"elevation":450,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

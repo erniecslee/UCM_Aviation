@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD35"]={"id":"SD35","name":"BRUCH AIRFIELD","lat":44.494167,"lon":-103.394444,"elevation":2980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

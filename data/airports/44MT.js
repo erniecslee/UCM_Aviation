@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44MT"]={"id":"44MT","name":"S&L EDWARDS","lat":45.640183,"lon":-109.31215,"elevation":3623,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

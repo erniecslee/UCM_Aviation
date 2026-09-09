@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN15"]={"id":"WN15","name":"BURNETT LANDING","lat":47.129681,"lon":-122.055972,"elevation":800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

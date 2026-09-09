@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN26"]={"id":"TN26","name":"TK FARM","lat":36.0575,"lon":-86.3955,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

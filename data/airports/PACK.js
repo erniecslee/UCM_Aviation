@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PACK"]={"id":"PACK","name":"CHEFORNAK","lat":60.136797,"lon":-164.27905,"elevation":54,"region":"PA","runways":[{"id":"RW16","lat":60.141208,"lon":-164.279514,"length":3230,"course":168.9},{"id":"RW34","lat":60.132383,"lon":-164.278583,"length":3230,"course":348.9}],"procedures":{"D":{},"E":{},"F":{}}};

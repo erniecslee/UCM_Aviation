@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG34"]={"id":"OG34","name":"MEYER RIVERSIDE AIRPARK","lat":45.399842,"lon":-122.828986,"elevation":252,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

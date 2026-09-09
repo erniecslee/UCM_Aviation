@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F57"]={"id":"F57","name":"JACK BROWNS","lat":28.0575,"lon":-81.762806,"elevation":140,"region":"K7","runways":[{"id":"RW01W","lat":28.052544,"lon":-81.763694,"length":3600,"course":11.1},{"id":"RW19W","lat":28.062514,"lon":-81.761886,"length":3600,"course":191.1}],"procedures":{"D":{},"E":{},"F":{}}};

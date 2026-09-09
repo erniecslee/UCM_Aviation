@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK4"]={"id":"2OK4","name":"RAGWING ACRES","lat":35.816764,"lon":-96.058606,"elevation":780,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

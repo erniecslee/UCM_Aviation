@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31WI"]={"id":"31WI","name":"OSLO CORNERS","lat":44.571008,"lon":-89.220253,"elevation":1002,"region":"K5","runways":[{"id":"RW09","lat":44.571022,"lon":-89.221625,"length":716,"course":94.1},{"id":"RW27","lat":44.570994,"lon":-89.218878,"length":716,"course":274.1}],"procedures":{"D":{},"E":{},"F":{}}};

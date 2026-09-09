@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K03"]={"id":"K03","name":"LONG LAKE SAGAMORE SPB & MARIN","lat":43.96895,"lon":-74.428772,"elevation":1629,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

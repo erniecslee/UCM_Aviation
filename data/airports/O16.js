@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O16"]={"id":"O16","name":"GARBERVILLE","lat":40.085439,"lon":-123.814147,"elevation":551,"region":"K2","runways":[{"id":"RW18","lat":40.089094,"lon":-123.8127,"length":2783,"course":179.9},{"id":"RW36","lat":40.081778,"lon":-123.815592,"length":2783,"course":359.9}],"procedures":{"D":{},"E":{},"F":{}}};

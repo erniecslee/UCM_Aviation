@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42C"]={"id":"42C","name":"WHITE CLOUD","lat":43.559847,"lon":-85.774153,"elevation":914,"region":"K5","runways":[{"id":"RW36","lat":43.555889,"lon":-85.773361,"length":2916,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

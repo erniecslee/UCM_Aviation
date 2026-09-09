@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FA1"]={"id":"4FA1","name":"ROCKIN G RANCH","lat":28.984006,"lon":-81.826475,"elevation":67,"region":"K7","runways":[{"id":"RW09","lat":28.983744,"lon":-81.832911,"length":4120,"course":94.0},{"id":"RW27","lat":28.984264,"lon":-81.82015,"length":4120,"course":274.0}],"procedures":{"D":{},"E":{},"F":{}}};

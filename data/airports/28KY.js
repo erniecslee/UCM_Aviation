@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28KY"]={"id":"28KY","name":"BRANDON AIRDROME","lat":36.575889,"lon":-88.313372,"elevation":525,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

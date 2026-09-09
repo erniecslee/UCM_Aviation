@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37WI"]={"id":"37WI","name":"DOCKEN FLD","lat":42.991108,"lon":-89.753456,"elevation":1230,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

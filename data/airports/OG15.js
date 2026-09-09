@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG15"]={"id":"OG15","name":"SAGE RANCH","lat":44.233167,"lon":-121.391139,"elevation":3170,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

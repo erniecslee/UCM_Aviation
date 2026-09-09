@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AR8"]={"id":"2AR8","name":"HICKMAN","lat":35.831106,"lon":-90.370414,"elevation":258,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

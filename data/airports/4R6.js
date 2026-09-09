@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4R6"]={"id":"4R6","name":"MILNOR MUNI","lat":46.258294,"lon":-97.437869,"elevation":1091,"region":"K3","runways":[{"id":"RW08","lat":46.260517,"lon":-97.445647,"length":2210,"course":83.0},{"id":"RW26","lat":46.260517,"lon":-97.436911,"length":2210,"course":263.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17II"]={"id":"17II","name":"DREESSEN FLD","lat":41.450044,"lon":-86.510292,"elevation":706,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

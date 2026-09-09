@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IA2"]={"id":"4IA2","name":"WALKER FLD","lat":41.586136,"lon":-91.220158,"elevation":715,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

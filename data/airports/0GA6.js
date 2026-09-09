@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GA6"]={"id":"0GA6","name":"SUNSET STRIP","lat":33.733447,"lon":-83.818792,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

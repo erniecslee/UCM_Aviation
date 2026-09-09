@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND22"]={"id":"ND22","name":"FISCHER","lat":47.683336,"lon":-101.600442,"elevation":2065,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

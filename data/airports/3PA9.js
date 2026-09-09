@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PA9"]={"id":"3PA9","name":"MOYER","lat":40.296772,"lon":-75.247953,"elevation":330,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

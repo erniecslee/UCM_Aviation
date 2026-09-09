@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ25"]={"id":"AZ25","name":"TRI-ROTOR AG SERVICES","lat":32.55705,"lon":-114.678947,"elevation":126,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

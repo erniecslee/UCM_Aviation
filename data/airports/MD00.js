@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD00"]={"id":"MD00","name":"FAIR'S","lat":38.046233,"lon":-75.553258,"elevation":22,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

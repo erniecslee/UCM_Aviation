@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2GA5"]={"id":"2GA5","name":"WINDRIFT AERODROME","lat":33.041794,"lon":-84.432144,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

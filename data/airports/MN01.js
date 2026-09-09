@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN01"]={"id":"MN01","name":"HAMMARS FARM","lat":47.283303,"lon":-96.617017,"elevation":886,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

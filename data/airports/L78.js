@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L78"]={"id":"L78","name":"JACUMBA","lat":32.615881,"lon":-116.165539,"elevation":2844,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

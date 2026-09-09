@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15MA"]={"id":"15MA","name":"CANAPITSIT","lat":41.422331,"lon":-70.909478,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

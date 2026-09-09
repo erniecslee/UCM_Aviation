@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38C"]={"id":"38C","name":"CAIN FLD","lat":43.598472,"lon":-85.492472,"elevation":897,"region":"K5","runways":[{"id":"RW18","lat":43.601897,"lon":-85.492486,"length":3472,"course":184.0},{"id":"RW36","lat":43.594767,"lon":-85.492456,"length":3472,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

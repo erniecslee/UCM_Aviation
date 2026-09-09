@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD93"]={"id":"FD93","name":"YELLOW RIVER AIRSTRIP","lat":30.685469,"lon":-86.747178,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

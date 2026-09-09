@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD47"]={"id":"MD47","name":"BARNES","lat":39.332883,"lon":-77.096925,"elevation":780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34WI"]={"id":"34WI","name":"THIESSEN FLD","lat":43.417764,"lon":-89.765403,"elevation":1200,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

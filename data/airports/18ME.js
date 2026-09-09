@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18ME"]={"id":"18ME","name":"RUBY","lat":43.893597,"lon":-69.495406,"elevation":216,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

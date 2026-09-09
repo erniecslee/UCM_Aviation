@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC93"]={"id":"NC93","name":"SOUTH RIVER","lat":35.777778,"lon":-80.501389,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL76"]={"id":"AL76","name":"MAYFIELD (PVT)","lat":32.848736,"lon":-86.869989,"elevation":495,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

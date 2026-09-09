@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SD6"]={"id":"1SD6","name":"BOGNER NO II","lat":43.110253,"lon":-103.230197,"elevation":3500,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

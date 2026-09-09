@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44TE"]={"id":"44TE","name":"SHIRLEY WILLIAMS","lat":30.683517,"lon":-98.416972,"elevation":880,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96KS"]={"id":"96KS","name":"PALMER FLD","lat":39.368514,"lon":-97.788056,"elevation":1404,"region":"K3","runways":[{"id":"RW18","lat":39.371944,"lon":-97.788056,"length":2500,"course":176.7},{"id":"RW36","lat":39.365083,"lon":-97.788056,"length":2500,"course":356.7}],"procedures":{"D":{},"E":{},"F":{}}};

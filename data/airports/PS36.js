@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS36"]={"id":"PS36","name":"SWANK","lat":40.546864,"lon":-79.336436,"elevation":1221,"region":"K6","runways":[{"id":"RW06","lat":40.545861,"lon":-79.338331,"length":1281,"course":64.8},{"id":"RW24","lat":40.547867,"lon":-79.334542,"length":1281,"course":244.8}],"procedures":{"D":{},"E":{},"F":{}}};

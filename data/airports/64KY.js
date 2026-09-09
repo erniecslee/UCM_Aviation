@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64KY"]={"id":"64KY","name":"COAL FLD","lat":38.012269,"lon":-84.346475,"elevation":984,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

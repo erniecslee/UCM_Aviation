@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97XS"]={"id":"97XS","name":"TILGHMAN","lat":33.432833,"lon":-96.479467,"elevation":741,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

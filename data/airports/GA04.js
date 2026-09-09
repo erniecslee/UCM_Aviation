@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA04"]={"id":"GA04","name":"MALLARDS LANDING","lat":33.365669,"lon":-84.165197,"elevation":837,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

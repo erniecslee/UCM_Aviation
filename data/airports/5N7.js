@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5N7"]={"id":"5N7","name":"HAT FLD","lat":43.097192,"lon":-86.094619,"elevation":625,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN35"]={"id":"MN35","name":"WILD RICE LAKE","lat":46.899939,"lon":-92.162133,"elevation":1380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

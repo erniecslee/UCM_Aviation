@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI6"]={"id":"9WI6","name":"KITTY HAWK ESTATES","lat":45.104136,"lon":-89.016778,"elevation":1500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

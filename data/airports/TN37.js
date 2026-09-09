@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN37"]={"id":"TN37","name":"ANDERSON","lat":35.404247,"lon":-89.022286,"elevation":392,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL78"]={"id":"LL78","name":"LZ FAIRWINDS","lat":42.311686,"lon":-89.150942,"elevation":752,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

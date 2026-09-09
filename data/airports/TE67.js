@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE67"]={"id":"TE67","name":"CIBOLO SEA-WILLO AIRPARK","lat":29.429122,"lon":-98.131672,"elevation":517,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

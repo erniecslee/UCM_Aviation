@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KGAG"]={"id":"KGAG","name":"GAGE","lat":36.295767,"lon":-99.776497,"elevation":2223,"region":"K4","runways":[{"id":"RW17","lat":36.302681,"lon":-99.776508,"length":5033,"course":172.0},{"id":"RW35","lat":36.28885,"lon":-99.776483,"length":5033,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

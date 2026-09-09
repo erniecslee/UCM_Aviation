@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97FA"]={"id":"97FA","name":"SAFAR","lat":29.596358,"lon":-81.642972,"elevation":0,"region":"K7","runways":[{"id":"RW12","lat":29.594047,"lon":-81.637261,"length":4000,"course":301.7},{"id":"RW30","lat":29.598669,"lon":-81.648683,"length":4000,"course":121.7}],"procedures":{"D":{},"E":{},"F":{}}};

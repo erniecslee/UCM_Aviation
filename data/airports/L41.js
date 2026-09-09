@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L41"]={"id":"L41","name":"MARBLE CANYON","lat":36.810806,"lon":-111.644444,"elevation":3603,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

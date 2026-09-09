@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX36"]={"id":"TX36","name":"BOYD","lat":32.060917,"lon":-97.588583,"elevation":755,"region":"K4","runways":[{"id":"RW12","lat":32.063389,"lon":-97.592653,"length":3100,"course":122.3},{"id":"RW30","lat":32.058458,"lon":-97.584486,"length":3100,"course":302.3}],"procedures":{"D":{},"E":{},"F":{}}};

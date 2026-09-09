@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD03"]={"id":"FD03","name":"FIVE OAKS ESTATE","lat":30.803,"lon":-86.436478,"elevation":200,"region":"K7","runways":[{"id":"RW07","lat":30.802397,"lon":-86.439256,"length":1800,"course":75.9},{"id":"RW25","lat":30.803603,"lon":-86.4337,"length":1800,"course":255.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN61"]={"id":"MN61","name":"JACKSON","lat":46.716889,"lon":-93.210222,"elevation":1224,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

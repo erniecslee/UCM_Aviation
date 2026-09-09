@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FD5"]={"id":"4FD5","name":"GRAND LAGOON","lat":30.134925,"lon":-85.734097,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

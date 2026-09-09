@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG54"]={"id":"OG54","name":"SHANIKO CATTLE","lat":44.960097,"lon":-120.884658,"elevation":3300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

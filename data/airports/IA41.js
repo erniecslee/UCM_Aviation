@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA41"]={"id":"IA41","name":"LAVERTY FLD","lat":41.415269,"lon":-93.561328,"elevation":950,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

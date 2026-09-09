@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23CD"]={"id":"23CD","name":"AVIATION ACRES","lat":39.29945,"lon":-102.321817,"elevation":4210,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

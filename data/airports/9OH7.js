@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OH7"]={"id":"9OH7","name":"LUTZ","lat":40.961719,"lon":-83.595208,"elevation":808,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

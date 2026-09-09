@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM78"]={"id":"NM78","name":"HACIENDA SUR LUNA","lat":31.877878,"lon":-107.645581,"elevation":4150,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

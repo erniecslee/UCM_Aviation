@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS88"]={"id":"MS88","name":"ORECK","lat":30.77755,"lon":-89.726122,"elevation":197,"region":"K7","runways":[{"id":"RW09","lat":30.777561,"lon":-89.730761,"length":2910,"course":87.2},{"id":"RW27","lat":30.777539,"lon":-89.721486,"length":2910,"course":267.2}],"procedures":{"D":{},"E":{},"F":{}}};

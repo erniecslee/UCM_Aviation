@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4SD4"]={"id":"4SD4","name":"DAN'S","lat":44.041667,"lon":-103.045833,"elevation":3166,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PASO"]={"id":"PASO","name":"SELDOVIA","lat":59.443906,"lon":-151.705042,"elevation":29,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

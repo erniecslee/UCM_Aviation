@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA63"]={"id":"FA63","name":"FOXRAVEN FLD","lat":28.518556,"lon":-82.276142,"elevation":82,"region":"K7","runways":[{"id":"RW09","lat":28.518556,"lon":-82.278056,"length":1230,"course":96.4},{"id":"RW27","lat":28.518556,"lon":-82.274225,"length":1230,"course":276.4}],"procedures":{"D":{},"E":{},"F":{}}};

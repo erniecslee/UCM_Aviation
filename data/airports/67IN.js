@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67IN"]={"id":"67IN","name":"RISING SUN","lat":38.947464,"lon":-84.850967,"elevation":463,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65J"]={"id":"65J","name":"WRENS MEML","lat":33.222778,"lon":-82.3845,"elevation":450,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

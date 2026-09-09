@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA51"]={"id":"TA51","name":"EAGLE","lat":32.680411,"lon":-97.937261,"elevation":885,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

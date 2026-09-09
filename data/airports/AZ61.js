@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ61"]={"id":"AZ61","name":"G M RANCH","lat":32.901717,"lon":-112.237922,"elevation":1616,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK97"]={"id":"AK97","name":"BOSWELL BAY","lat":60.423064,"lon":-146.145908,"elevation":230,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

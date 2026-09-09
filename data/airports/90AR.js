@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90AR"]={"id":"90AR","name":"ALOS FLD","lat":35.730889,"lon":-90.794886,"elevation":251,"region":"K4","runways":[{"id":"RW18","lat":35.734253,"lon":-90.794803,"length":2450,"course":182.5},{"id":"RW36","lat":35.727525,"lon":-90.794967,"length":2450,"course":2.5}],"procedures":{"D":{},"E":{},"F":{}}};

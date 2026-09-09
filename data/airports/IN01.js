@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN01"]={"id":"IN01","name":"KEPHART FLD","lat":39.486111,"lon":-86.148611,"elevation":815,"region":"K5","runways":[{"id":"RW18","lat":39.489542,"lon":-86.148611,"length":2500,"course":185.0},{"id":"RW36","lat":39.482681,"lon":-86.148611,"length":2500,"course":5.0}],"procedures":{"D":{},"E":{},"F":{}}};

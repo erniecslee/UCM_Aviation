@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN47"]={"id":"IN47","name":"POWELL","lat":40.204517,"lon":-86.055,"elevation":875,"region":"K5","runways":[{"id":"RW09","lat":40.204492,"lon":-86.059725,"length":2640,"course":94.7},{"id":"RW27","lat":40.204542,"lon":-86.050275,"length":2640,"course":274.7}],"procedures":{"D":{},"E":{},"F":{}}};

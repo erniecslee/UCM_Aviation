@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV12"]={"id":"WV12","name":"MALLORY","lat":38.335775,"lon":-81.740331,"elevation":885,"region":"K6","runways":[{"id":"RW16","lat":38.338111,"lon":-81.741806,"length":1900,"course":158.6},{"id":"RW34","lat":38.333439,"lon":-81.738856,"length":1900,"course":338.6}],"procedures":{"D":{},"E":{},"F":{}}};

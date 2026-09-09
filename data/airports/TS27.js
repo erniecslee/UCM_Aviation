@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS27"]={"id":"TS27","name":"RIVER FLD","lat":29.716194,"lon":-96.591356,"elevation":220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

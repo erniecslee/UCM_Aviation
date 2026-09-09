@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IS3"]={"id":"1IS3","name":"CRIBBET","lat":39.695581,"lon":-89.059003,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

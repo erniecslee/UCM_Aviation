@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PA3"]={"id":"8PA3","name":"DEER MEADOWS AIRSTRIP","lat":40.995919,"lon":-75.740469,"elevation":1210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

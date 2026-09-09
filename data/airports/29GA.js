@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29GA"]={"id":"29GA","name":"ROLLING MEADOWS AIRFIELD","lat":33.384283,"lon":-84.631944,"elevation":808,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

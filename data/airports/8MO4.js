@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MO4"]={"id":"8MO4","name":"MANS FLD","lat":37.396594,"lon":-90.468767,"elevation":510,"region":"K3","runways":[{"id":"RW02","lat":37.394492,"lon":-90.469781,"length":1640,"course":22.8},{"id":"RW20","lat":37.398694,"lon":-90.46775,"length":1640,"course":202.8}],"procedures":{"D":{},"E":{},"F":{}}};

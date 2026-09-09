@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE27"]={"id":"TE27","name":"HARRISON PILONCILLO RANCH","lat":28.254442,"lon":-99.599211,"elevation":520,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

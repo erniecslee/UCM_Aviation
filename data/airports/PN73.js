@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN73"]={"id":"PN73","name":"BEERS FARM","lat":40.230081,"lon":-77.920553,"elevation":630,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

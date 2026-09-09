@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL51"]={"id":"OL51","name":"RIVERCAMP","lat":35.110847,"lon":-99.430642,"elevation":1640,"region":"K4","runways":[{"id":"RW18","lat":35.113131,"lon":-99.430681,"length":1663,"course":175.0},{"id":"RW36","lat":35.108564,"lon":-99.430606,"length":1663,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

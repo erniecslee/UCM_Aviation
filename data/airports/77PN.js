@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77PN"]={"id":"77PN","name":"GILFERT","lat":40.783967,"lon":-77.20665,"elevation":630,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10XS"]={"id":"10XS","name":"FLYING S AIR RANCH","lat":31.779525,"lon":-98.909286,"elevation":1447,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

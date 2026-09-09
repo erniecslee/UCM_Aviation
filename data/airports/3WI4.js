@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI4"]={"id":"3WI4","name":"FLYING 'O'","lat":44.923581,"lon":-89.402339,"elevation":1320,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

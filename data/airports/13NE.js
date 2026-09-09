@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13NE"]={"id":"13NE","name":"HOCK","lat":40.316669,"lon":-100.808767,"elevation":2777,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

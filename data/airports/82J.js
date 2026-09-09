@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82J"]={"id":"82J","name":"ROSCOE FLD","lat":30.398278,"lon":-87.349006,"elevation":32,"region":"K7","runways":[{"id":"RW18","lat":30.401925,"lon":-87.348647,"length":3225,"course":183.9},{"id":"RW36","lat":30.393861,"lon":-87.349444,"length":3225,"course":3.9}],"procedures":{"D":{},"E":{},"F":{}}};

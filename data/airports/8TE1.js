@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TE1"]={"id":"8TE1","name":"RICHIE RICH","lat":32.748444,"lon":-96.043953,"elevation":497,"region":"K4","runways":[{"id":"RW04","lat":32.74625,"lon":-96.046336,"length":2172,"course":40.4},{"id":"RW22","lat":32.750653,"lon":-96.041564,"length":2172,"course":220.4}],"procedures":{"D":{},"E":{},"F":{}}};

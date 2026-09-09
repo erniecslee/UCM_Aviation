@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25FL"]={"id":"25FL","name":"CONNELLS WAHOO","lat":28.631944,"lon":-82.157778,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

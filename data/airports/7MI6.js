@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MI6"]={"id":"7MI6","name":"WIGHTMAN","lat":43.110306,"lon":-84.126361,"elevation":725,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

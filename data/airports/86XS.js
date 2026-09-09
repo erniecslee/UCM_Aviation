@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86XS"]={"id":"86XS","name":"GESIN RANCHES","lat":32.400122,"lon":-100.367047,"elevation":2200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

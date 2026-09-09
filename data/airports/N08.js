@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N08"]={"id":"N08","name":"FLANAGAN FLD","lat":35.556667,"lon":-77.560556,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

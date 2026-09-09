@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54W"]={"id":"54W","name":"ALBANY","lat":42.717386,"lon":-89.424183,"elevation":820,"region":"K5","runways":[{"id":"RW09","lat":42.717314,"lon":-89.4273,"length":1675,"course":88.0},{"id":"RW27","lat":42.717458,"lon":-89.421069,"length":1675,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

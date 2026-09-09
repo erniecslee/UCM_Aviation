@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OR2"]={"id":"6OR2","name":"CHENOWETH AIRPARK","lat":45.6107,"lon":-121.279089,"elevation":609,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

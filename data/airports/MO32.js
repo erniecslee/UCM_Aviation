@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO32"]={"id":"MO32","name":"TABLE ROCK","lat":36.529411,"lon":-93.676969,"elevation":1053,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

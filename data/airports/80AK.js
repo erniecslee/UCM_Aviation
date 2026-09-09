@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80AK"]={"id":"80AK","name":"MORVRO LAKE","lat":61.601969,"lon":-149.784181,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

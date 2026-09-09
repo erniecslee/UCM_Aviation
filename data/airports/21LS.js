@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21LS"]={"id":"21LS","name":"SOLITUDE AIRSTRIP","lat":30.870389,"lon":-91.431111,"elevation":181,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

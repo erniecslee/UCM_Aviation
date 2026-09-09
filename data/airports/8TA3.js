@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TA3"]={"id":"8TA3","name":"FLYING X RIVER RANCH","lat":30.516858,"lon":-98.174186,"elevation":820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

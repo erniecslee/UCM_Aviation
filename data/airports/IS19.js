@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS19"]={"id":"IS19","name":"CARLSON","lat":42.335278,"lon":-89.323611,"elevation":740,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

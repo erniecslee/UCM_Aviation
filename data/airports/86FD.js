@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86FD"]={"id":"86FD","name":"COUNTRY LANDINGS","lat":29.764722,"lon":-82.896389,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

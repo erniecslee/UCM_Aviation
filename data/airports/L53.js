@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L53"]={"id":"L53","name":"LODI AIRPARK","lat":38.084086,"lon":-121.316336,"elevation":25,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

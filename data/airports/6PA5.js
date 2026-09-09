@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6PA5"]={"id":"6PA5","name":"BOTSFORD AERODROME","lat":40.113422,"lon":-77.454153,"elevation":615,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

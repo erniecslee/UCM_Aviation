@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S20"]={"id":"S20","name":"GOLDENDALE","lat":45.832075,"lon":-120.845275,"elevation":1678,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

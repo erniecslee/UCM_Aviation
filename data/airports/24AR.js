@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24AR"]={"id":"24AR","name":"GRIFFIN AG","lat":34.198056,"lon":-90.952778,"elevation":160,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

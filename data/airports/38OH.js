@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38OH"]={"id":"38OH","name":"INDUSTRY AIR PARK","lat":39.844786,"lon":-82.579606,"elevation":877,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OG3"]={"id":"2OG3","name":"WILEY'S","lat":45.430953,"lon":-122.649539,"elevation":12,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15N"]={"id":"15N","name":"JENKINS","lat":39.117333,"lon":-75.584417,"elevation":53,"region":"K6","runways":[{"id":"RW12","lat":39.1185,"lon":-75.587675,"length":2035,"course":126.0},{"id":"RW30","lat":39.116144,"lon":-75.581169,"length":2035,"course":306.0}],"procedures":{"D":{},"E":{},"F":{}}};

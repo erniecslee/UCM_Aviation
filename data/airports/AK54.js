@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK54"]={"id":"AK54","name":"STRO'S","lat":61.593331,"lon":-149.326231,"elevation":340,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

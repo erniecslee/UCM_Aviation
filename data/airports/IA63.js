@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA63"]={"id":"IA63","name":"EDGREN","lat":41.258383,"lon":-92.551508,"elevation":840,"region":"K3","runways":[{"id":"RW18","lat":41.261481,"lon":-92.551506,"length":2260,"course":177.0},{"id":"RW36","lat":41.255283,"lon":-92.551508,"length":2260,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

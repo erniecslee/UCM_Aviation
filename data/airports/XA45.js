@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA45"]={"id":"XA45","name":"BOMA","lat":30.220889,"lon":-98.776967,"elevation":1571,"region":"K4","runways":[{"id":"RW17","lat":30.222239,"lon":-98.776961,"length":992,"course":176.5},{"id":"RW35","lat":30.219511,"lon":-98.776969,"length":992,"course":356.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31XS"]={"id":"31XS","name":"FLY-N-SKI","lat":33.183725,"lon":-96.270256,"elevation":638,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

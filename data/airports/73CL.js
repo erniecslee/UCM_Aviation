@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73CL"]={"id":"73CL","name":"JULIAN HINDS PUMP PLANT AIRSTR","lat":33.698908,"lon":-115.636933,"elevation":1335,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

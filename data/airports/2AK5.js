@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK5"]={"id":"2AK5","name":"JOHNSTONE POINT","lat":60.481675,"lon":-146.584253,"elevation":15,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

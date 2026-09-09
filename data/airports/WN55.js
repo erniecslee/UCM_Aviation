@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN55"]={"id":"WN55","name":"RANDLE-KIONA AIRPARK","lat":46.5115,"lon":-122.006206,"elevation":934,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

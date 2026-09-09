@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS07"]={"id":"XS07","name":"W D CORNELIUS RANCH","lat":28.950258,"lon":-96.059961,"elevation":47,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

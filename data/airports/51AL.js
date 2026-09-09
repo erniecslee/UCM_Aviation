@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51AL"]={"id":"51AL","name":"ARDMORE","lat":34.979075,"lon":-86.883286,"elevation":922,"region":"K7","runways":[{"id":"RW01","lat":34.975436,"lon":-86.884172,"length":2700,"course":11.0},{"id":"RW19","lat":34.982711,"lon":-86.882397,"length":2700,"course":191.0}],"procedures":{"D":{},"E":{},"F":{}}};

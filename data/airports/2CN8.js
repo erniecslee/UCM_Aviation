@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CN8"]={"id":"2CN8","name":"LAKE ARROWHEAD","lat":34.304167,"lon":-117.151389,"elevation":4610,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA63"]={"id":"LA63","name":"TRAVIS","lat":32.971667,"lon":-91.830833,"elevation":122,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

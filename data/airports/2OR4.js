@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OR4"]={"id":"2OR4","name":"HEAVENS GATE RANCH","lat":43.474839,"lon":-123.345636,"elevation":965,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

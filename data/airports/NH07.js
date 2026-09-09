@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH07"]={"id":"NH07","name":"COOPER FARM","lat":43.280361,"lon":-71.456611,"elevation":485,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

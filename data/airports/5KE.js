@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KE"]={"id":"5KE","name":"KETCHIKAN HARBOR","lat":55.344464,"lon":-131.663439,"elevation":0,"region":"PA","runways":[{"id":"E","lat":55.346986,"lon":-131.671019,"length":3893,"course":93.8},{"id":"W","lat":55.341686,"lon":-131.654792,"length":3893,"course":273.8}],"procedures":{"D":{},"E":{},"F":{}}};

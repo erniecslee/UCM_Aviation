@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ72"]={"id":"AZ72","name":"NORTHSTAR","lat":34.241056,"lon":-112.362778,"elevation":7190,"region":"K2","runways":[{"id":"RW03","lat":34.240417,"lon":-112.363361,"length":584,"course":27.2},{"id":"RW21","lat":34.241694,"lon":-112.362194,"length":584,"course":207.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59AZ"]={"id":"59AZ","name":"ROBIN","lat":34.744467,"lon":-112.445169,"elevation":4772,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

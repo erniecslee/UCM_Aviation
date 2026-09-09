@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA30"]={"id":"LA30","name":"PHOENIX","lat":30.248194,"lon":-92.241667,"elevation":31,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN56"]={"id":"TN56","name":"CAREY","lat":36.072289,"lon":-85.11385,"elevation":1960,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FD5"]={"id":"9FD5","name":"THOMPSON'S GOINBROKE AERO RANC","lat":29.386639,"lon":-82.142872,"elevation":85,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN55"]={"id":"PN55","name":"SKALA","lat":39.858408,"lon":-79.823383,"elevation":1270,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN12"]={"id":"CN12","name":"WILLIAMS","lat":39.163503,"lon":-122.131642,"elevation":68,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

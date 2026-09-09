@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KS3"]={"id":"3KS3","name":"ROGERS","lat":37.403156,"lon":-97.194278,"elevation":1211,"region":"K3","runways":[{"id":"RW17","lat":37.405764,"lon":-97.194394,"length":1900,"course":171.0},{"id":"RW35","lat":37.400547,"lon":-97.194161,"length":1900,"course":351.0}],"procedures":{"D":{},"E":{},"F":{}}};

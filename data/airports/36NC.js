@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36NC"]={"id":"36NC","name":"FLY SKY","lat":35.629167,"lon":-81.34375,"elevation":1025,"region":"K7","runways":[{"id":"RW12","lat":35.630556,"lon":-81.346667,"length":2007,"course":128.1},{"id":"RW30","lat":35.627778,"lon":-81.340833,"length":2007,"course":308.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48XA"]={"id":"48XA","name":"SPRING RANCH","lat":32.319358,"lon":-98.987936,"elevation":1652,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

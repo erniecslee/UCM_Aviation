@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FL"]={"id":"3FL","name":"ST CLOUD","lat":28.27435,"lon":-81.284994,"elevation":54,"region":"K7","runways":[{"id":"RW09W","lat":28.274339,"lon":-81.289656,"length":3000,"course":96.9},{"id":"RW27W","lat":28.274358,"lon":-81.280333,"length":3000,"course":276.9}],"procedures":{"D":{},"E":{},"F":{}}};

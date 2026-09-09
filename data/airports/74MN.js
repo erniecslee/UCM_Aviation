@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74MN"]={"id":"74MN","name":"HURLEY MEML SEAPORT","lat":43.566667,"lon":-95.440278,"elevation":1523,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

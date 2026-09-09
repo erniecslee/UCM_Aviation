@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME88"]={"id":"ME88","name":"MORRISON'S","lat":44.991744,"lon":-67.074425,"elevation":200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4CO7"]={"id":"4CO7","name":"AMBROSICH FLD","lat":39.217769,"lon":-104.680253,"elevation":7028,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

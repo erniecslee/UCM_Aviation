@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA9"]={"id":"3GA9","name":"VINTAGE FLD","lat":33.133456,"lon":-84.377422,"elevation":873,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

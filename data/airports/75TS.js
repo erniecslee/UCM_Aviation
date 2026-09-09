@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75TS"]={"id":"75TS","name":"VENUS","lat":32.416389,"lon":-97.091944,"elevation":665,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

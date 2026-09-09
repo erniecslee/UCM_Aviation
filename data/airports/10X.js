@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10X"]={"id":"10X","name":"OX RANCH","lat":29.461483,"lon":-100.114289,"elevation":1305,"region":"K4","runways":[{"id":"RW17","lat":29.469381,"lon":-100.114214,"length":5744,"course":176.0},{"id":"RW35","lat":29.453583,"lon":-100.114364,"length":5744,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

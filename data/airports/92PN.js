@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92PN"]={"id":"92PN","name":"BARTSCH","lat":41.068217,"lon":-80.294733,"elevation":1150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

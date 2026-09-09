@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28OR"]={"id":"28OR","name":"PARRETT MOUNTAIN","lat":45.312222,"lon":-122.901389,"elevation":790,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CM"]={"id":"6CM","name":"CHAPMAN MEML FLD","lat":40.29545,"lon":-82.729972,"elevation":1180,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

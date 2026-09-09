@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI09"]={"id":"MI09","name":"PRAIRIE RONDE","lat":42.12375,"lon":-85.710278,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12KS"]={"id":"12KS","name":"SOOTER","lat":37.937669,"lon":-97.493939,"elevation":1388,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

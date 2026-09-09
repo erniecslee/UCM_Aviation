@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6ND2"]={"id":"6ND2","name":"LARSON","lat":46.258856,"lon":-98.387878,"elevation":1442,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

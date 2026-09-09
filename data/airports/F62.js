@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F62"]={"id":"F62","name":"HAYFORK","lat":40.547,"lon":-123.179639,"elevation":2334,"region":"K2","runways":[{"id":"RW07","lat":40.546783,"lon":-123.187014,"length":4100,"course":70.0},{"id":"RW25","lat":40.547197,"lon":-123.172272,"length":4100,"course":250.0}],"procedures":{"D":{},"E":{},"F":{}}};

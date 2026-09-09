@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI25"]={"id":"MI25","name":"MYERS","lat":41.922267,"lon":-86.545578,"elevation":670,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

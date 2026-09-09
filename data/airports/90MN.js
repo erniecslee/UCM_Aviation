@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90MN"]={"id":"90MN","name":"BISHMAN","lat":45.677,"lon":-93.5395,"elevation":987,"region":"K3","runways":[{"id":"RW10","lat":45.6774,"lon":-93.5438,"length":2220,"course":97.6},{"id":"RW28","lat":45.6766,"lon":-93.5352,"length":2220,"course":277.6}],"procedures":{"D":{},"E":{},"F":{}}};

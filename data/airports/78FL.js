@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78FL"]={"id":"78FL","name":"POMONA LANDING","lat":29.502192,"lon":-81.578408,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D82"]={"id":"D82","name":"OVID","lat":42.654792,"lon":-76.796342,"elevation":1062,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

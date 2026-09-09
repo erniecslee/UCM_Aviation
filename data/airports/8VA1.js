@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8VA1"]={"id":"8VA1","name":"SLATE RIVER AIRPARK","lat":37.544436,"lon":-78.587078,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

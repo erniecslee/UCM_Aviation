@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07KS"]={"id":"07KS","name":"HEAPE FLD","lat":37.734183,"lon":-96.9367,"elevation":1321,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

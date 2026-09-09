@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LA4"]={"id":"2LA4","name":"BUNKIE FLYING SERVICE","lat":30.929081,"lon":-92.179292,"elevation":65,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

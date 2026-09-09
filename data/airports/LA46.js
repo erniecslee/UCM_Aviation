@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA46"]={"id":"LA46","name":"OMNI","lat":30.506467,"lon":-91.307486,"elevation":24,"region":"K4","runways":[{"id":"RW05","lat":30.503597,"lon":-91.311944,"length":3500,"course":49.0},{"id":"RW23","lat":30.509333,"lon":-91.303028,"length":3500,"course":229.0}],"procedures":{"D":{},"E":{},"F":{}}};

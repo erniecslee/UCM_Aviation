@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TA2"]={"id":"1TA2","name":"VIGO PARK","lat":34.650058,"lon":-101.50045,"elevation":3383,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

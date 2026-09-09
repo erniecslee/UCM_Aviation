@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN15"]={"id":"CN15","name":"VINEYARD OAKS FARM","lat":36.368164,"lon":-119.784994,"elevation":210,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

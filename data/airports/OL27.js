@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL27"]={"id":"OL27","name":"FAITH FLD","lat":34.031389,"lon":-97.009306,"elevation":791,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

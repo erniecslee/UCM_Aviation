@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56WA"]={"id":"56WA","name":"TACOMA","lat":47.283197,"lon":-122.473558,"elevation":0,"region":"K1","runways":[{"id":"RW14W","lat":47.286719,"lon":-122.479819,"length":4033,"course":114.7},{"id":"RW32W","lat":47.279675,"lon":-122.467297,"length":4033,"course":294.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN35"]={"id":"WN35","name":"MEADOWMIST","lat":48.908722,"lon":-122.564614,"elevation":55,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

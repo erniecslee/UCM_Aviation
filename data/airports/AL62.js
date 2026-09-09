@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL62"]={"id":"AL62","name":"STRIPLIN AIRFIELD","lat":31.082956,"lon":-85.683544,"elevation":255,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

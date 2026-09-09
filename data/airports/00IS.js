@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00IS"]={"id":"00IS","name":"HAYENGA'S CANT FIND FARMS","lat":40.025594,"lon":-89.122864,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49OR"]={"id":"49OR","name":"LAND'S INN RANCH","lat":44.593756,"lon":-119.56415,"elevation":3880,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66XA"]={"id":"66XA","name":"MATHEWS","lat":33.913092,"lon":-98.251672,"elevation":960,"region":"K4","runways":[{"id":"RW02","lat":33.909697,"lon":-98.253467,"length":2700,"course":20.4},{"id":"RW20","lat":33.916486,"lon":-98.249875,"length":2700,"course":200.4}],"procedures":{"D":{},"E":{},"F":{}}};

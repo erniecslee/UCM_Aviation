@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MU4"]={"id":"6MU4","name":"FLYING SHAMROCK","lat":39.037817,"lon":-91.725444,"elevation":810,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

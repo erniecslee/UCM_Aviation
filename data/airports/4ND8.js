@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4ND8"]={"id":"4ND8","name":"SANDEN","lat":46.354128,"lon":-97.117033,"elevation":1065,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

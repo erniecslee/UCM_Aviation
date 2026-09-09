@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73OR"]={"id":"73OR","name":"RIBBON RIDGE","lat":45.370394,"lon":-123.065106,"elevation":490,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

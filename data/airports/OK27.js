@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK27"]={"id":"OK27","name":"VENTURE AERODROME AIRPARK NR 2","lat":35.435647,"lon":-94.474939,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

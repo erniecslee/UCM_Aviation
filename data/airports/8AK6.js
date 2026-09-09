@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK6"]={"id":"8AK6","name":"LITTLE SUSITNA","lat":61.371944,"lon":-150.262225,"elevation":70,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

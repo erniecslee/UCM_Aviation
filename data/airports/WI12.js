@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI12"]={"id":"WI12","name":"WOOD TICK STRIP","lat":44.016817,"lon":-89.202517,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

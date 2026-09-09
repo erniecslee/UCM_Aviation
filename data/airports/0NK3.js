@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NK3"]={"id":"0NK3","name":"SEVEN GULLIES","lat":42.695897,"lon":-77.792222,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

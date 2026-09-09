@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79AZ"]={"id":"79AZ","name":"SENTIEL","lat":32.306267,"lon":-111.284053,"elevation":2110,"region":"K2","runways":[{"id":"RW02","lat":32.300764,"lon":-111.2847,"length":4025,"course":356.5},{"id":"RW20","lat":32.311767,"lon":-111.283403,"length":4025,"course":176.5}],"procedures":{"D":{},"E":{},"F":{}}};

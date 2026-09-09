@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42KS"]={"id":"42KS","name":"FARNEY FLD","lat":37.010692,"lon":-98.454528,"elevation":1349,"region":"K3","runways":[{"id":"RW18","lat":37.013903,"lon":-98.454547,"length":2339,"course":176.1},{"id":"RW36","lat":37.007478,"lon":-98.454508,"length":2339,"course":356.1}],"procedures":{"D":{},"E":{},"F":{}}};

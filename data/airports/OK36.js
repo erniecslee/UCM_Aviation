@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK36"]={"id":"OK36","name":"DUCKCREEK","lat":35.882083,"lon":-96.004861,"elevation":706,"region":"K4","runways":[{"id":"RW18","lat":35.885097,"lon":-96.004944,"length":2200,"course":176.8},{"id":"RW36","lat":35.879056,"lon":-96.004806,"length":2200,"course":356.8}],"procedures":{"D":{},"E":{},"F":{}}};

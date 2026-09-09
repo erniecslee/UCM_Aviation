@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR31"]={"id":"OR31","name":"SOHLER'S HOLLY HILL","lat":45.413389,"lon":-122.993917,"elevation":277,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

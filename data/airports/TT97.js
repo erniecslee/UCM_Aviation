@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT97"]={"id":"TT97","name":"SEAGRAVES","lat":32.954553,"lon":-102.5409,"elevation":3366,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

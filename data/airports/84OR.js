@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84OR"]={"id":"84OR","name":"B BAR RANCH","lat":42.247614,"lon":-123.569511,"elevation":1400,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

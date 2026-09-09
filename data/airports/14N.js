@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14N"]={"id":"14N","name":"BELTZVILLE","lat":40.844289,"lon":-75.635356,"elevation":899,"region":"K6","runways":[{"id":"RW08","lat":40.843531,"lon":-75.637478,"length":2018,"course":75.9},{"id":"RW26","lat":40.845192,"lon":-75.632803,"length":2018,"course":255.9}],"procedures":{"D":{},"E":{},"F":{}}};

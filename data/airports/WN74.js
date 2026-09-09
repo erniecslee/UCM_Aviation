@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN74"]={"id":"WN74","name":"BURNT RIDGE AIRSTRIP","lat":46.585383,"lon":-122.626225,"elevation":1070,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

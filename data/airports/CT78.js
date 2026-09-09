@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT78"]={"id":"CT78","name":"LORD CREEK","lat":41.351486,"lon":-72.355083,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

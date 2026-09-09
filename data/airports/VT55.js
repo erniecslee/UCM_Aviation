@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT55"]={"id":"VT55","name":"BRANDON","lat":43.901178,"lon":-72.582878,"elevation":710,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

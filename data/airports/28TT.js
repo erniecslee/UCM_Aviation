@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28TT"]={"id":"28TT","name":"LEFT WING LOW","lat":31.99585,"lon":-97.00215,"elevation":596,"region":"K4","runways":[{"id":"RW05","lat":31.9944,"lon":-97.005,"length":2058,"course":56.5},{"id":"RW23","lat":31.9973,"lon":-96.9993,"length":2058,"course":236.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40FL"]={"id":"40FL","name":"ADANA AIRFIELD","lat":26.952581,"lon":-81.870942,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

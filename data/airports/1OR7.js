@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OR7"]={"id":"1OR7","name":"SKYHILL","lat":45.2879,"lon":-122.456111,"elevation":735,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

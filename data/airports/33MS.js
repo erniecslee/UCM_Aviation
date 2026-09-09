@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33MS"]={"id":"33MS","name":"FREEDOM STRIP","lat":31.100556,"lon":-89.417778,"elevation":361,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

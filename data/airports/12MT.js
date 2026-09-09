@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12MT"]={"id":"12MT","name":"LINCOLNS FLD","lat":48.774167,"lon":-110.441611,"elevation":2931,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

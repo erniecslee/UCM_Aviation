@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OK5"]={"id":"3OK5","name":"BEARDEN PRIVATE AIRSTRIP","lat":34.728611,"lon":-97.605833,"elevation":1180,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

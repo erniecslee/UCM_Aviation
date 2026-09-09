@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO81"]={"id":"CO81","name":"FOUGHT'N'WON","lat":40.341111,"lon":-104.922778,"elevation":5000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

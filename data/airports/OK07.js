@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK07"]={"id":"OK07","name":"DJS","lat":34.518167,"lon":-98.325639,"elevation":1115,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

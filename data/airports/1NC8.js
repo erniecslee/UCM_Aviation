@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC8"]={"id":"1NC8","name":"LONESOME FLD","lat":35.515833,"lon":-80.258056,"elevation":665,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

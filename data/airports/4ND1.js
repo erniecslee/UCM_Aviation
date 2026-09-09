@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4ND1"]={"id":"4ND1","name":"KNUTSON","lat":47.792758,"lon":-97.153694,"elevation":880,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

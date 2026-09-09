@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS11"]={"id":"MS11","name":"MOHR FARM","lat":32.208483,"lon":-89.941747,"elevation":360,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

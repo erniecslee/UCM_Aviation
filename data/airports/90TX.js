@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90TX"]={"id":"90TX","name":"CALLAGHAN RANCH","lat":27.879444,"lon":-99.396667,"elevation":635,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

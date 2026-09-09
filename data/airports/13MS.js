@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13MS"]={"id":"13MS","name":"GREENER PASTURES AIRPARK","lat":30.633333,"lon":-89.663889,"elevation":180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

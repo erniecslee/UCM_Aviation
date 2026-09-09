@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58NC"]={"id":"58NC","name":"FOX HAVEN PLANTATION","lat":35.348389,"lon":-82.052556,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

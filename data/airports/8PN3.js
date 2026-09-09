@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PN3"]={"id":"8PN3","name":"MC CAULEY'S","lat":41.383333,"lon":-79.5,"elevation":1571,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

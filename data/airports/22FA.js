@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22FA"]={"id":"22FA","name":"HIDDEN RIVER","lat":27.303103,"lon":-82.272592,"elevation":47,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

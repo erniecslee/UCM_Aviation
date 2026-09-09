@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL73"]={"id":"IL73","name":"CLAIR RLA","lat":40.168092,"lon":-91.236183,"elevation":633,"region":"K5","runways":[{"id":"RW09","lat":40.167989,"lon":-91.239758,"length":2000,"course":89.3},{"id":"RW27","lat":40.168194,"lon":-91.232608,"length":2000,"course":269.3}],"procedures":{"D":{},"E":{},"F":{}}};

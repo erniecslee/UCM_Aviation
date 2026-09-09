@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL88"]={"id":"IL88","name":"EARL BARNICKEL","lat":41.675031,"lon":-89.116756,"elevation":929,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

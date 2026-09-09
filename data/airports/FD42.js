@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD42"]={"id":"FD42","name":"COOKSEY BROTHERS","lat":30.211614,"lon":-83.054578,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

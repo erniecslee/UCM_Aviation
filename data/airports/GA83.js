@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA83"]={"id":"GA83","name":"WINDY HILL","lat":33.546783,"lon":-83.805458,"elevation":740,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

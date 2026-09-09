@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65MO"]={"id":"65MO","name":"MALONE AIRFIELD","lat":36.732825,"lon":-89.582128,"elevation":300,"region":"K3","runways":[{"id":"RW18","lat":36.736753,"lon":-89.582228,"length":2860,"course":181.3},{"id":"RW36","lat":36.7289,"lon":-89.582064,"length":2860,"course":1.3}],"procedures":{"D":{},"E":{},"F":{}}};

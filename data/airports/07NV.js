@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07NV"]={"id":"07NV","name":"BORDER LINE FARM","lat":39.102222,"lon":-114.053333,"elevation":5120,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

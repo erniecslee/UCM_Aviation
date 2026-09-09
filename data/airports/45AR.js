@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45AR"]={"id":"45AR","name":"THUNDER RIDGE RANCH","lat":36.36725,"lon":-92.640222,"elevation":789,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

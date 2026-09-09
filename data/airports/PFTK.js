@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PFTK"]={"id":"PFTK","name":"TAKU LODGE","lat":58.489683,"lon":-133.943422,"elevation":0,"region":"PF","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

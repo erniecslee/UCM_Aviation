@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL38"]={"id":"IL38","name":"J MADDOCK","lat":41.766972,"lon":-88.532022,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

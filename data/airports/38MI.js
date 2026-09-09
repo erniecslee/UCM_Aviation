@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38MI"]={"id":"38MI","name":"CHICORA FLD","lat":42.466944,"lon":-85.979167,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

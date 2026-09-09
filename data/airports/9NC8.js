@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NC8"]={"id":"9NC8","name":"EAGLES LANDING","lat":35.686889,"lon":-79.218806,"elevation":430,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

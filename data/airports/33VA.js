@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33VA"]={"id":"33VA","name":"FOX FIRE","lat":36.784303,"lon":-79.049736,"elevation":535,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

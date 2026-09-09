@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO27"]={"id":"CO27","name":"TANNER FLD","lat":37.467769,"lon":-108.664542,"elevation":6640,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

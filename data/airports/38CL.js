@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38CL"]={"id":"38CL","name":"RIEGO FLIGHT STRIP","lat":38.754069,"lon":-121.563014,"elevation":21,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

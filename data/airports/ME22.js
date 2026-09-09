@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME22"]={"id":"ME22","name":"AVERY FLD","lat":45.671167,"lon":-69.806778,"elevation":1070,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

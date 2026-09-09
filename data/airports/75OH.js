@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75OH"]={"id":"75OH","name":"HICKERSON","lat":39.939264,"lon":-83.901275,"elevation":1057,"region":"K5","runways":[{"id":"RW10","lat":39.939489,"lon":-83.905461,"length":2500,"course":100.6},{"id":"RW28","lat":39.9391,"lon":-83.89825,"length":2500,"course":280.6}],"procedures":{"D":{},"E":{},"F":{}}};

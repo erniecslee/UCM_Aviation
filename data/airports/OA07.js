@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA07"]={"id":"OA07","name":"HEMLOCK FLD","lat":41.701389,"lon":-80.860278,"elevation":815,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI13"]={"id":"MI13","name":"MINIKEY","lat":43.161667,"lon":-85.061667,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

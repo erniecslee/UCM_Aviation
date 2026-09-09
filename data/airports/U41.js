@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U41"]={"id":"U41","name":"DUBOIS MUNI","lat":44.162361,"lon":-112.220667,"elevation":5123,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

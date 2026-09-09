@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK8"]={"id":"4AK8","name":"NAPAIMUTE PIONEER AIRFIELD","lat":61.536314,"lon":-158.738964,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL08"]={"id":"AL08","name":"PERDIDO WINDS AIRPARK","lat":30.425008,"lon":-87.536706,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

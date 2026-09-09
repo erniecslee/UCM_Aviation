@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC69"]={"id":"SC69","name":"SHILOH PLANTATION","lat":33.120556,"lon":-80.950833,"elevation":131,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

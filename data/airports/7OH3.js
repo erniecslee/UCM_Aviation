@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OH3"]={"id":"7OH3","name":"OBI ONE","lat":40.352839,"lon":-83.051019,"elevation":952,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

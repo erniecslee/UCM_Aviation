@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03OH"]={"id":"03OH","name":"GIBBS FLD","lat":41.418386,"lon":-83.017417,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI27"]={"id":"WI27","name":"SKYPORT","lat":44.920242,"lon":-91.9749,"elevation":878,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17FA"]={"id":"17FA","name":"COTTON STRIP","lat":26.7134,"lon":-81.535356,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66B"]={"id":"66B","name":"GILLESPIE FLD","lat":45.029622,"lon":-67.365967,"elevation":200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

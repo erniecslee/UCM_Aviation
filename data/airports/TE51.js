@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE51"]={"id":"TE51","name":"LACKORN","lat":29.539119,"lon":-97.835003,"elevation":420,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7B6"]={"id":"7B6","name":"SKYLARK AIRPARK","lat":41.928417,"lon":-72.576389,"elevation":120,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

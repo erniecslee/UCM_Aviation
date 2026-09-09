@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD93"]={"id":"SD93","name":"GARY MYERS","lat":44.868133,"lon":-99.609883,"elevation":1930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

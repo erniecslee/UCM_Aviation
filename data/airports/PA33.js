@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA33"]={"id":"PA33","name":"LARS/PRIVATE","lat":41.950075,"lon":-76.482997,"elevation":1300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

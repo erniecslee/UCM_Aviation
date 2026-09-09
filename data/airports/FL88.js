@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL88"]={"id":"FL88","name":"BOB PAUL","lat":26.683681,"lon":-81.4498,"elevation":28,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

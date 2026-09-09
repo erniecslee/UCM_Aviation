@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI8"]={"id":"7WI8","name":"CRISPY CEDARS","lat":44.780633,"lon":-87.602403,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

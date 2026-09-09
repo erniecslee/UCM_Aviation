@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CA2"]={"id":"2CA2","name":"CONES FLD","lat":34.162781,"lon":-116.048058,"elevation":1800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

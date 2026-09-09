@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MI3"]={"id":"2MI3","name":"SOMERS LANE","lat":43.143219,"lon":-84.606419,"elevation":669,"region":"K5","runways":[{"id":"RW09","lat":43.143294,"lon":-84.609892,"length":1854,"course":98.2},{"id":"RW27","lat":43.143144,"lon":-84.602947,"length":1854,"course":278.3}],"procedures":{"D":{},"E":{},"F":{}}};

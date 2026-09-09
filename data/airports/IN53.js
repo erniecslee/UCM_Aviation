@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN53"]={"id":"IN53","name":"MILLER","lat":39.291711,"lon":-86.823619,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

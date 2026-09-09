@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IS4"]={"id":"5IS4","name":"CORMAN ACRES","lat":39.766147,"lon":-88.779517,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

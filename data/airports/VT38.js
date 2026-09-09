@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT38"]={"id":"VT38","name":"GREENWOODS AIRFIELD","lat":45.009167,"lon":-73.246667,"elevation":179,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

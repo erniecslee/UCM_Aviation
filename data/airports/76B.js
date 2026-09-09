@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76B"]={"id":"76B","name":"LONG LAKE","lat":43.986917,"lon":-70.618472,"elevation":268,"region":"K6","runways":[{"id":"RW16W","lat":44.00115,"lon":-70.639061,"length":15000,"course":151.0},{"id":"RW34W","lat":43.972678,"lon":-70.597894,"length":15000,"course":331.0}],"procedures":{"D":{},"E":{},"F":{}}};

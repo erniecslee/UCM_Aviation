@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22OR"]={"id":"22OR","name":"IRON CROWN","lat":44.941789,"lon":-122.762589,"elevation":790,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

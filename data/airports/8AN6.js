@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AN6"]={"id":"8AN6","name":"ISAACSON","lat":47.659167,"lon":-117.681667,"elevation":2410,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

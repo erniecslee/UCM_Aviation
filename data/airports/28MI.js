@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28MI"]={"id":"28MI","name":"MILLER-HERROLD","lat":44.874444,"lon":-85.792586,"elevation":624,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

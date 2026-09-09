@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS75"]={"id":"XS75","name":"WEST RANCH","lat":30.456389,"lon":-98.489722,"elevation":1417,"region":"K4","runways":[{"id":"RW12","lat":30.461061,"lon":-98.4967,"length":5561,"course":124.0},{"id":"RW30","lat":30.451694,"lon":-98.482753,"length":5561,"course":304.0}],"procedures":{"D":{},"E":{},"F":{}}};

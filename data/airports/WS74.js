@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS74"]={"id":"WS74","name":"AL'S AIRWAY","lat":43.163053,"lon":-88.824547,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

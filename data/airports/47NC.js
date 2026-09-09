@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47NC"]={"id":"47NC","name":"WINDEMERE","lat":35.138056,"lon":-78.822778,"elevation":98,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

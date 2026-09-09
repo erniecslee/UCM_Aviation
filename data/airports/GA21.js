@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA21"]={"id":"GA21","name":"PATTERSON ISLAND","lat":31.461333,"lon":-81.338708,"elevation":10,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

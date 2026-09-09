@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66IN"]={"id":"66IN","name":"OAKES FLD","lat":39.7875,"lon":-85.636944,"elevation":935,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

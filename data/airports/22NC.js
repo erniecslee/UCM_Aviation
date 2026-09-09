@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22NC"]={"id":"22NC","name":"FLINT RIDGE","lat":35.821111,"lon":-79.468333,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

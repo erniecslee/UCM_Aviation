@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8K0"]={"id":"8K0","name":"BUCKLIN","lat":37.545694,"lon":-99.642167,"elevation":2418,"region":"K3","runways":[{"id":"RW18","lat":37.5492,"lon":-99.642125,"length":2560,"course":173.0},{"id":"RW36","lat":37.542167,"lon":-99.642203,"length":2560,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NK9"]={"id":"5NK9","name":"TREICHLER FARM","lat":42.761667,"lon":-78.496111,"elevation":1140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

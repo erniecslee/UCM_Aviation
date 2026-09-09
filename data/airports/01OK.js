@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01OK"]={"id":"01OK","name":"MERRILL RANCH","lat":35.895353,"lon":-96.026122,"elevation":706,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

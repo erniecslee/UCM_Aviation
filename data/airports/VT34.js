@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT34"]={"id":"VT34","name":"MAJOR W GUTH","lat":43.060081,"lon":-72.492033,"elevation":819,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS18"]={"id":"LS18","name":"AG AVIATION","lat":30.221042,"lon":-92.774867,"elevation":21,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

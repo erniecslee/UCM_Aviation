@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY13"]={"id":"WY13","name":"LITTLE BUFFALO RANCH","lat":43.786083,"lon":-105.664447,"elevation":4919,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

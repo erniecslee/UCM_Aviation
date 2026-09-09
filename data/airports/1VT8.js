@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1VT8"]={"id":"1VT8","name":"MORTIMER BROWN LANDING","lat":43.666111,"lon":-73.166111,"elevation":900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

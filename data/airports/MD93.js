@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD93"]={"id":"MD93","name":"HEXTON FARMS","lat":39.375111,"lon":-75.906608,"elevation":65,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CA4"]={"id":"2CA4","name":"BLACKINTON","lat":33.258925,"lon":-117.092253,"elevation":1156,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC11"]={"id":"NC11","name":"DECK AIRPARK","lat":35.741539,"lon":-78.924731,"elevation":338,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

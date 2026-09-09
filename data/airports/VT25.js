@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT25"]={"id":"VT25","name":"SKY ACRES","lat":44.416717,"lon":-73.166236,"elevation":330,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

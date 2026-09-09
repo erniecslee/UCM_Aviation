@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD10"]={"id":"FD10","name":"JUBILEE ACRES","lat":27.7897,"lon":-81.653167,"elevation":139,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

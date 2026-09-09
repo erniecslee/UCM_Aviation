@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XS0"]={"id":"5XS0","name":"TNT","lat":33.49665,"lon":-96.26475,"elevation":708,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

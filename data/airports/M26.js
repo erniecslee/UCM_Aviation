@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M26"]={"id":"M26","name":"DRUMMOND","lat":46.620764,"lon":-113.205067,"elevation":4245,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

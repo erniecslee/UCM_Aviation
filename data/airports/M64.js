@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M64"]={"id":"M64","name":"JENKINSON","lat":37.363911,"lon":-100.471261,"elevation":2737,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

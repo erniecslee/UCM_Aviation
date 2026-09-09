@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83OK"]={"id":"83OK","name":"SWEETBRIAR","lat":35.256761,"lon":-94.577997,"elevation":560,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

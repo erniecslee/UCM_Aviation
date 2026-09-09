@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC21"]={"id":"SC21","name":"MYRTLE BEACH HARDEE AIRPARK","lat":33.941839,"lon":-78.833081,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

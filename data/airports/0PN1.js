@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PN1"]={"id":"0PN1","name":"PETE'S WATER LANDING","lat":40.694189,"lon":-79.618064,"elevation":757,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

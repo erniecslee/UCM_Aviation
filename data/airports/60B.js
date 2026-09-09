@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60B"]={"id":"60B","name":"MOOSE RIVER","lat":45.633381,"lon":-70.266178,"elevation":1157,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

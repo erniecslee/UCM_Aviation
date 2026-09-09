@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OL2"]={"id":"2OL2","name":"MYERS FLD","lat":35.887833,"lon":-95.919639,"elevation":665,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

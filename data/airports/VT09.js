@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT09"]={"id":"VT09","name":"SPENCER","lat":44.113611,"lon":-73.290278,"elevation":310,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

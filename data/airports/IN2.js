@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN2"]={"id":"IN2","name":"SNOW LAKE","lat":41.729858,"lon":-85.032575,"elevation":965,"region":"K5","runways":[{"id":"RW16W","lat":41.73345,"lon":-85.034281,"length":2675,"course":166.9},{"id":"RW34W","lat":41.726492,"lon":-85.031056,"length":2675,"course":347.0}],"procedures":{"D":{},"E":{},"F":{}}};

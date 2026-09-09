@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6KS4"]={"id":"6KS4","name":"BUSSEN","lat":38.905106,"lon":-101.782972,"elevation":3475,"region":"K3","runways":[{"id":"RW14","lat":38.908292,"lon":-101.786317,"length":3003,"course":131.6},{"id":"RW32","lat":38.901917,"lon":-101.779625,"length":3003,"course":311.6}],"procedures":{"D":{},"E":{},"F":{}}};

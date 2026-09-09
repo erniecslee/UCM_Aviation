@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MD7"]={"id":"7MD7","name":"BOOMERS FLD","lat":38.0004,"lon":-75.582981,"elevation":22,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

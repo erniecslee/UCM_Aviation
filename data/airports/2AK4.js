@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK4"]={"id":"2AK4","name":"BOOTLEGGERS COVE","lat":59.47,"lon":-151.5125,"elevation":45,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

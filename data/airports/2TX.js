@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX"]={"id":"2TX","name":"SALADO","lat":30.920578,"lon":-97.540106,"elevation":689,"region":"K4","runways":[{"id":"RW02","lat":30.916033,"lon":-97.541903,"length":3494,"course":11.8},{"id":"RW20","lat":30.925122,"lon":-97.538308,"length":3494,"course":191.8}],"procedures":{"D":{},"E":{},"F":{}}};

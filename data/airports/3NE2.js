@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NE2"]={"id":"3NE2","name":"PHILLIPS PRIVATE","lat":42.327739,"lon":-103.193536,"elevation":4370,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

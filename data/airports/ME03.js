@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME03"]={"id":"ME03","name":"WEBBER JONES","lat":45.336161,"lon":-69.050875,"elevation":400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK34"]={"id":"OK34","name":"GUSTAFSON","lat":35.484261,"lon":-94.841892,"elevation":855,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

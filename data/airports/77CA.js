@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77CA"]={"id":"77CA","name":"DAULTON","lat":37.120781,"lon":-119.987939,"elevation":425,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

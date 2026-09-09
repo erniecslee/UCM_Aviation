@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD92"]={"id":"FD92","name":"SOUTHERLAND STRIP","lat":28.732772,"lon":-81.078672,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

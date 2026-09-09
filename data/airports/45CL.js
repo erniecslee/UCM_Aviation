@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45CL"]={"id":"45CL","name":"HELL'ER HIGH WATER","lat":40.143203,"lon":-123.398356,"elevation":2493,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

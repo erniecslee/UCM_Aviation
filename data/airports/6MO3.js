@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MO3"]={"id":"6MO3","name":"FLYING 'E'","lat":37.349167,"lon":-92.128333,"elevation":1510,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

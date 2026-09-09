@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN71"]={"id":"PN71","name":"JANSEN VINEYARDS","lat":40.650022,"lon":-77.0575,"elevation":860,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

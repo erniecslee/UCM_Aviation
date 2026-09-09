@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LS0"]={"id":"0LS0","name":"THERIOT FLD","lat":29.749722,"lon":-90.735833,"elevation":13,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

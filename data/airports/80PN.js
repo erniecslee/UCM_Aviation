@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80PN"]={"id":"80PN","name":"HANOVER AIRPARK INC","lat":40.535281,"lon":-80.444017,"elevation":1220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

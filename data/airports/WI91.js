@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI91"]={"id":"WI91","name":"LARSON","lat":44.202761,"lon":-88.639556,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

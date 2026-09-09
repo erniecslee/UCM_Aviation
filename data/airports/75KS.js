@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75KS"]={"id":"75KS","name":"7UP RANCH","lat":37.094403,"lon":-95.162761,"elevation":844,"region":"K3","runways":[{"id":"RW07","lat":37.093844,"lon":-95.165236,"length":1500,"course":72.8},{"id":"RW25","lat":37.094961,"lon":-95.160286,"length":1500,"course":252.8}],"procedures":{"D":{},"E":{},"F":{}}};

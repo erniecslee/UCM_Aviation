@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AR5"]={"id":"4AR5","name":"LAWRENCE FLD","lat":35.370833,"lon":-90.750556,"elevation":284,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

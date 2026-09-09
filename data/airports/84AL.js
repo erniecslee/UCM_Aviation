@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84AL"]={"id":"84AL","name":"BLESSINGS LANDING AIR RANCH","lat":31.302611,"lon":-85.523139,"elevation":420,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

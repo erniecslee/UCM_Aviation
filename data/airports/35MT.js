@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35MT"]={"id":"35MT","name":"HAYNES RANCH","lat":45.861833,"lon":-108.646833,"elevation":3620,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

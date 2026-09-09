@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Z5"]={"id":"2Z5","name":"CHENA RIVER","lat":64.8329,"lon":-147.848258,"elevation":440,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

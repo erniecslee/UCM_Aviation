@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FD6"]={"id":"7FD6","name":"LOXAHATCHEE","lat":26.620556,"lon":-80.308353,"elevation":14,"region":"K7","runways":[{"id":"RW12","lat":26.625081,"lon":-80.315978,"length":5970,"course":126.4},{"id":"RW30","lat":26.616028,"lon":-80.300725,"length":5970,"course":306.4}],"procedures":{"D":{},"E":{},"F":{}}};

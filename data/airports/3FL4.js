@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FL4"]={"id":"3FL4","name":"KEACHVILL","lat":29.513358,"lon":-81.591906,"elevation":38,"region":"K7","runways":[{"id":"RW01","lat":29.507447,"lon":-81.591983,"length":4300,"course":7.6},{"id":"RW19","lat":29.519269,"lon":-81.591828,"length":4300,"course":187.6}],"procedures":{"D":{},"E":{},"F":{}}};

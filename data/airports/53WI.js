@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53WI"]={"id":"53WI","name":"HEYOKA FLD","lat":44.742139,"lon":-91.585361,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

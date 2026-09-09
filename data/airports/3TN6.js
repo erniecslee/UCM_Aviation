@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TN6"]={"id":"3TN6","name":"WILSON FLD","lat":35.092558,"lon":-89.283753,"elevation":435,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

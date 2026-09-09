@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK69"]={"id":"AK69","name":"LONG LAKE","lat":61.729319,"lon":-150.097669,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

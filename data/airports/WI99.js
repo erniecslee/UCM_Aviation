@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI99"]={"id":"WI99","name":"TRU FLD","lat":42.885431,"lon":-89.121619,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

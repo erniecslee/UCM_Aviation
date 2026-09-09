@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FL0"]={"id":"9FL0","name":"SUWANNEE BELLE","lat":30.092447,"lon":-83.085411,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OH2"]={"id":"1OH2","name":"DOUGHERTY","lat":41.244,"lon":-82.866278,"elevation":807,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1S9"]={"id":"1S9","name":"CHEWELAH MUNI","lat":48.313958,"lon":-117.743425,"elevation":2084,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

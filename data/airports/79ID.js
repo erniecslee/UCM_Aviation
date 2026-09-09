@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79ID"]={"id":"79ID","name":"CLEAR CREEK INT","lat":46.048922,"lon":-115.869861,"elevation":1800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

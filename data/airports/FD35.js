@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD35"]={"id":"FD35","name":"REDHEAD","lat":30.490472,"lon":-85.839378,"elevation":102,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

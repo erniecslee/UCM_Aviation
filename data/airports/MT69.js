@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT69"]={"id":"MT69","name":"LITTLEBEAR","lat":47.727725,"lon":-115.464614,"elevation":2579,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA02"]={"id":"FA02","name":"BIG CYPRESS RANCH AIRFIELD","lat":26.309892,"lon":-81.2273,"elevation":19,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA10"]={"id":"XA10","name":"PONDEROSA FLD","lat":33.231917,"lon":-97.338769,"elevation":840,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

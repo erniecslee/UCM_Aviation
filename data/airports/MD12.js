@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD12"]={"id":"MD12","name":"BELL","lat":39.636389,"lon":-77.292778,"elevation":370,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

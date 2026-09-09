@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MI2"]={"id":"7MI2","name":"SOUTHWEST LAKES AIRPARK","lat":41.890833,"lon":-86.588361,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

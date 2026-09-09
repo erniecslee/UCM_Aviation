@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I01"]={"id":"I01","name":"DALLAS LAKE","lat":41.550158,"lon":-85.424183,"elevation":900,"region":"K5","runways":[{"id":"RW09W","lat":41.549975,"lon":-85.429064,"length":2675,"course":92.9},{"id":"RW27W","lat":41.550339,"lon":-85.419303,"length":2675,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

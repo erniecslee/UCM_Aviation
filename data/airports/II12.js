@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II12"]={"id":"II12","name":"DAGUE STRIP","lat":40.964486,"lon":-86.371947,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LA5"]={"id":"1LA5","name":"MORROW STRIP","lat":30.801292,"lon":-92.063167,"elevation":40,"region":"K4","runways":[{"id":"RW08","lat":30.801028,"lon":-92.065694,"length":1600,"course":80.1},{"id":"RW26","lat":30.801556,"lon":-92.060639,"length":1600,"course":260.1}],"procedures":{"D":{},"E":{},"F":{}}};

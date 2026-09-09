@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AL2"]={"id":"8AL2","name":"CHARLES C KILLOUGH FLD","lat":33.355425,"lon":-86.262136,"elevation":443,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1U1"]={"id":"1U1","name":"MOOSE CREEK /USFS/","lat":46.126319,"lon":-114.921703,"elevation":2454,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

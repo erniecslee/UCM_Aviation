@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV30"]={"id":"WV30","name":"RAINELLE","lat":37.948728,"lon":-80.716478,"elevation":3446,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

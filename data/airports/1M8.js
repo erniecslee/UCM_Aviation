@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1M8"]={"id":"1M8","name":"MYRICKS","lat":41.839056,"lon":-71.026472,"elevation":73,"region":"K6","runways":[{"id":"RW09","lat":41.838114,"lon":-71.030808,"length":2466,"course":90.0},{"id":"RW27","lat":41.839978,"lon":-71.022108,"length":2466,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

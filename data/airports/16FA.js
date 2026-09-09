@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16FA"]={"id":"16FA","name":"LITTLE DEER","lat":26.030925,"lon":-81.038681,"elevation":14,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

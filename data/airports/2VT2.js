@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VT2"]={"id":"2VT2","name":"NORTHERN LIGHTS","lat":44.872778,"lon":-73.281667,"elevation":95,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

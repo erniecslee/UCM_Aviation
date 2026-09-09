@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18MT"]={"id":"18MT","name":"FISH RANCH","lat":45.215961,"lon":-113.499275,"elevation":7200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CT5"]={"id":"5CT5","name":"THOMSON FLD","lat":41.632306,"lon":-73.216222,"elevation":820,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

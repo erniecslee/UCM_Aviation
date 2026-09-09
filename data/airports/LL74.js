@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL74"]={"id":"LL74","name":"MAPLE HURST FARMS","lat":42.008361,"lon":-89.048708,"elevation":823,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

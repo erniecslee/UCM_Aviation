@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27WI"]={"id":"27WI","name":"FOX RIVER","lat":42.750947,"lon":-88.250375,"elevation":822,"region":"K5","runways":[{"id":"RW18","lat":42.754378,"lon":-88.250661,"length":2506,"course":177.5},{"id":"RW36","lat":42.747514,"lon":-88.250089,"length":2506,"course":357.5}],"procedures":{"D":{},"E":{},"F":{}}};

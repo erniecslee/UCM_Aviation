@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OR8"]={"id":"0OR8","name":"SUTTON ON ROGUE","lat":42.484847,"lon":-122.866153,"elevation":1260,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AL8"]={"id":"3AL8","name":"FLINT RIVER RANCH","lat":34.619167,"lon":-86.466944,"elevation":590,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

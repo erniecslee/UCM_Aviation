@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA01"]={"id":"IA01","name":"RIDGE","lat":41.351381,"lon":-95.466392,"elevation":1300,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

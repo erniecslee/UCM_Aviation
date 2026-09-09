@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39Z"]={"id":"39Z","name":"FLYING-A-RANCH","lat":43.105114,"lon":-86.121269,"elevation":630,"region":"K5","runways":[{"id":"RW09","lat":43.105019,"lon":-86.123642,"length":1925,"course":92.7},{"id":"RW27","lat":43.105236,"lon":-86.117669,"length":1925,"course":272.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67NJ"]={"id":"67NJ","name":"MOUNT PLEASANT LANDING STRIP","lat":40.969819,"lon":-75.066842,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

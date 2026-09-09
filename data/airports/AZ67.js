@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ67"]={"id":"AZ67","name":"EL TIRO","lat":32.427014,"lon":-111.389556,"elevation":2100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

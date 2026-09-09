@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28AZ"]={"id":"28AZ","name":"SAMPLEYS","lat":33.922808,"lon":-113.181303,"elevation":2208,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

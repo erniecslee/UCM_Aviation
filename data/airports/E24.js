@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E24"]={"id":"E24","name":"WHITERIVER","lat":33.810608,"lon":-109.985744,"elevation":5153,"region":"K2","runways":[{"id":"RW01","lat":33.803036,"lon":-109.990936,"length":6350,"course":18.0},{"id":"RW19","lat":33.817583,"lon":-109.980958,"length":6350,"course":198.0}],"procedures":{"D":{},"E":{},"F":{}}};

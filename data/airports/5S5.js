@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5S5"]={"id":"5S5","name":"LAKE BILLY CHINOOK","lat":44.519286,"lon":-121.3206,"elevation":2695,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

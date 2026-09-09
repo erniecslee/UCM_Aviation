@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KMXF"]={"id":"KMXF","name":"MAXWELL AFB","lat":32.382944,"lon":-86.365778,"elevation":171,"region":"K7","runways":[{"id":"RW15","lat":32.391347,"lon":-86.3731,"length":8008,"course":150.0},{"id":"RW33","lat":32.372586,"lon":-86.359533,"length":8008,"course":330.0}],"procedures":{"D":{},"E":{},"F":{}}};

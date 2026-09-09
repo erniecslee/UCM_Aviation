@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TA"]={"id":"3TA","name":"STAFFORD MUNI","lat":37.958347,"lon":-98.650361,"elevation":1886,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

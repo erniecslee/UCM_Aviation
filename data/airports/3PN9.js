@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PN9"]={"id":"3PN9","name":"PHIL CAIN MEML FLD","lat":40.441775,"lon":-79.550078,"elevation":1210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

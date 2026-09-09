@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC06"]={"id":"SC06","name":"PLUFF MUD FLD","lat":32.632125,"lon":-80.092317,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

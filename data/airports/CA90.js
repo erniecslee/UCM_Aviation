@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA90"]={"id":"CA90","name":"CADIZ AIRSTRIP","lat":34.513889,"lon":-115.519444,"elevation":780,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

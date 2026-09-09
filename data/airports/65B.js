@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65B"]={"id":"65B","name":"LUBEC MUNI","lat":44.836556,"lon":-67.026972,"elevation":85,"region":"K6","runways":[{"id":"RW08","lat":44.834939,"lon":-67.030128,"length":2024,"course":74.3},{"id":"RW26","lat":44.838181,"lon":-67.023792,"length":2024,"course":254.3}],"procedures":{"D":{},"E":{},"F":{}}};

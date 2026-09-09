@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MN0"]={"id":"9MN0","name":"CAREY LAKE","lat":47.418264,"lon":-92.827686,"elevation":1351,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

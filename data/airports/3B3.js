@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3B3"]={"id":"3B3","name":"STERLING","lat":42.425903,"lon":-71.79285,"elevation":459,"region":"K6","runways":[{"id":"RW16","lat":42.428814,"lon":-71.796192,"length":3086,"course":154.6},{"id":"RW34","lat":42.423722,"lon":-71.790347,"length":3086,"course":334.6}],"procedures":{"D":{},"E":{},"F":{}}};

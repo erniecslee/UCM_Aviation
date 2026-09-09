@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37LA"]={"id":"37LA","name":"WAYNE BROWN","lat":31.727664,"lon":-91.5829,"elevation":59,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

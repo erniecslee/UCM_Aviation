@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN66"]={"id":"PN66","name":"DUNLEA AIRPARK","lat":40.425622,"lon":-79.36365,"elevation":1220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

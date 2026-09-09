@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16AR"]={"id":"16AR","name":"HEIFER CREEK RANCH","lat":35.301111,"lon":-92.573333,"elevation":730,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

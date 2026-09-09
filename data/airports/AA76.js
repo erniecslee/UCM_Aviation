@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA76"]={"id":"AA76","name":"TIMBER TRAILS","lat":64.769444,"lon":-147.329444,"elevation":480,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

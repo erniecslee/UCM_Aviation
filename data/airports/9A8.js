@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9A8"]={"id":"9A8","name":"UGASHIK","lat":57.523425,"lon":-157.395994,"elevation":44,"region":"PA","runways":[{"id":"RW06","lat":57.522508,"lon":-157.403694,"length":3100,"course":57.5},{"id":"RW24","lat":57.524342,"lon":-157.388294,"length":3100,"course":237.5}],"procedures":{"D":{},"E":{},"F":{}}};

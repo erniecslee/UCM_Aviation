@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T25"]={"id":"T25","name":"AERO ESTATES","lat":32.08175,"lon":-95.452503,"elevation":445,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

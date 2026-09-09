@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS54"]={"id":"LS54","name":"BRIAN'S","lat":30.694833,"lon":-91.192861,"elevation":65,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

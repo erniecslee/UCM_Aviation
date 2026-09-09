@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MA2"]={"id":"3MA2","name":"BAINES","lat":42.3162,"lon":-73.032047,"elevation":1160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

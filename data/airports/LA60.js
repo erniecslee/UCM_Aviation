@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA60"]={"id":"LA60","name":"LIVE OAK LANDING STRIP","lat":29.816875,"lon":-92.116792,"elevation":6,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

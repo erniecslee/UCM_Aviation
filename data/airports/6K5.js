@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6K5"]={"id":"6K5","name":"SISTERS EAGLE AIR","lat":44.304458,"lon":-121.539097,"elevation":3168,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

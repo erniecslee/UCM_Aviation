@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C57"]={"id":"C57","name":"MILLERS LANDING","lat":43.0957,"lon":-84.349644,"elevation":757,"region":"K5","runways":[{"id":"RW10","lat":43.0957,"lon":-84.353153,"length":1875,"course":96.7},{"id":"RW28","lat":43.0957,"lon":-84.346133,"length":1875,"course":276.7}],"procedures":{"D":{},"E":{},"F":{}}};

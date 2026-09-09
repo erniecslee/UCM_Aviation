@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TN1"]={"id":"0TN1","name":"TIMS FORD","lat":35.222306,"lon":-86.219989,"elevation":785,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

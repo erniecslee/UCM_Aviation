@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAXK"]={"id":"PAXK","name":"PAXSON","lat":63.024581,"lon":-145.50055,"elevation":2653,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

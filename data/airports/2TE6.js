@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE6"]={"id":"2TE6","name":"BURRIS RANCH","lat":28.887756,"lon":-98.050283,"elevation":448,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

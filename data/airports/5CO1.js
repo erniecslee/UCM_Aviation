@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CO1"]={"id":"5CO1","name":"SPRUCE POINT TREE FARM LLC","lat":38.833317,"lon":-107.85895,"elevation":6200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

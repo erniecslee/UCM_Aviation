@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MS7"]={"id":"7MS7","name":"FREEBIRD","lat":32.373825,"lon":-90.43695,"elevation":242,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

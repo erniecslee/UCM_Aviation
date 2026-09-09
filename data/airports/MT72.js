@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT72"]={"id":"MT72","name":"HEDDITCH","lat":46.346033,"lon":-114.176208,"elevation":3663,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

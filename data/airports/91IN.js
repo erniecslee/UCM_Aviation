@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91IN"]={"id":"91IN","name":"STRIETELMEIER FLYING FLD","lat":39.208056,"lon":-85.974722,"elevation":625,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

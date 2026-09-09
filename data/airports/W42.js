@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W42"]={"id":"W42","name":"FALLSTON","lat":39.501325,"lon":-76.411336,"elevation":460,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

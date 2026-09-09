@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS80"]={"id":"XS80","name":"SCOUT","lat":29.972556,"lon":-98.934639,"elevation":1497,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

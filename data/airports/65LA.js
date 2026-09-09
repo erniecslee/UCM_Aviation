@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65LA"]={"id":"65LA","name":"SOUTHERN SEAPLANE","lat":29.866039,"lon":-90.022292,"elevation":0,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI05"]={"id":"WI05","name":"STOCKTRADE","lat":44.808333,"lon":-91.684444,"elevation":882,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

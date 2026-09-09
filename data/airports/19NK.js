@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19NK"]={"id":"19NK","name":"RIVEREDGE AIRPARK","lat":43.243889,"lon":-76.152778,"elevation":378,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

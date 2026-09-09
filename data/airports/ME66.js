@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME66"]={"id":"ME66","name":"SCOTTOW BOG FLIGHTPARK","lat":43.612583,"lon":-70.357272,"elevation":30,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

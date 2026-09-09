@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD51"]={"id":"FD51","name":"SUMMERLAND KEY COVE","lat":24.658756,"lon":-81.441472,"elevation":4,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

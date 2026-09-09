@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OI8"]={"id":"5OI8","name":"MCKNIGHT","lat":40.193744,"lon":-82.656978,"elevation":1174,"region":"K5","runways":[{"id":"RW09","lat":40.193886,"lon":-82.659653,"length":1500,"course":101.5},{"id":"RW27","lat":40.1936,"lon":-82.654303,"length":1500,"course":281.5}],"procedures":{"D":{},"E":{},"F":{}}};

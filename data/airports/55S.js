@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55S"]={"id":"55S","name":"PACKWOOD","lat":46.603828,"lon":-121.678167,"elevation":1057,"region":"K1","runways":[{"id":"RW01","lat":46.600994,"lon":-121.680422,"length":2357,"course":9.0},{"id":"RW19","lat":46.606658,"lon":-121.675911,"length":2357,"course":189.0}],"procedures":{"D":{},"E":{},"F":{}}};

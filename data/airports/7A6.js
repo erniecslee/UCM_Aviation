@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7A6"]={"id":"7A6","name":"STEVENSON","lat":34.886278,"lon":-85.803289,"elevation":644,"region":"K7","runways":[{"id":"RW05","lat":34.882603,"lon":-85.808478,"length":4103,"course":50.0},{"id":"RW23","lat":34.88995,"lon":-85.7981,"length":4103,"course":230.0}],"procedures":{"D":{},"E":{},"F":{}}};

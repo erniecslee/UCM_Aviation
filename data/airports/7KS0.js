@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7KS0"]={"id":"7KS0","name":"FLYING T","lat":39.271389,"lon":-95.316917,"elevation":1160,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

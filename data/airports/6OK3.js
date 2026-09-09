@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OK3"]={"id":"6OK3","name":"JOHNSON FLD","lat":36.358947,"lon":-98.143872,"elevation":1300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

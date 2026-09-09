@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK56"]={"id":"OK56","name":"SOPWITH LDG","lat":35.07625,"lon":-97.346633,"elevation":1090,"region":"K4","runways":[{"id":"RW02","lat":35.073989,"lon":-97.347747,"length":1776,"course":19.1},{"id":"RW20","lat":35.078511,"lon":-97.345519,"length":1776,"course":199.1}],"procedures":{"D":{},"E":{},"F":{}}};

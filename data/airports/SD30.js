@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD30"]={"id":"SD30","name":"SELLE","lat":43.071906,"lon":-98.954981,"elevation":1988,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

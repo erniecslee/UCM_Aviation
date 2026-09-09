@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU73"]={"id":"MU73","name":"SPENCER FLD","lat":36.926394,"lon":-93.289389,"elevation":1322,"region":"K3","runways":[{"id":"RW09","lat":36.9264,"lon":-93.291442,"length":1200,"course":90.0},{"id":"RW27","lat":36.926389,"lon":-93.287336,"length":1200,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

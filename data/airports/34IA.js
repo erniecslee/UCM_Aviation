@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34IA"]={"id":"34IA","name":"BECK","lat":40.997269,"lon":-93.155644,"elevation":1023,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

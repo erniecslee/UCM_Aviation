@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02T"]={"id":"02T","name":"WISE RIVER","lat":45.770028,"lon":-112.980472,"elevation":5830,"region":"K1","runways":[{"id":"RW02","lat":45.765753,"lon":-112.985517,"length":4050,"course":23.0},{"id":"RW20","lat":45.774314,"lon":-112.975397,"length":4050,"course":203.0}],"procedures":{"D":{},"E":{},"F":{}}};

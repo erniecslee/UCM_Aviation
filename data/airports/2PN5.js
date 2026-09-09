@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PN5"]={"id":"2PN5","name":"BAKER-SELL","lat":40.248411,"lon":-78.360847,"elevation":1371,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9Z3"]={"id":"9Z3","name":"KODIAK/LILLY LAKE","lat":57.802583,"lon":-152.382731,"elevation":130,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

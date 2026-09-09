@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD28"]={"id":"MD28","name":"EWING","lat":38.809281,"lon":-75.992161,"elevation":50,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

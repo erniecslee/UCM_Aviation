@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19NC"]={"id":"19NC","name":"DOUBLE S","lat":36.064875,"lon":-77.923039,"elevation":195,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

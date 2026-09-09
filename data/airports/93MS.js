@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93MS"]={"id":"93MS","name":"SHELBY AIR SERVICE","lat":33.971611,"lon":-90.767972,"elevation":154,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

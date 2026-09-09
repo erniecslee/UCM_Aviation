@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69MY"]={"id":"69MY","name":"HALL","lat":44.661078,"lon":-93.100214,"elevation":875,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

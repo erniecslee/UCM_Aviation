@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E60"]={"id":"E60","name":"ELOY MUNI","lat":32.806722,"lon":-111.586628,"elevation":1511,"region":"K2","runways":[{"id":"RW02","lat":32.802481,"lon":-111.590508,"length":3901,"course":26.0},{"id":"RW20","lat":32.810964,"lon":-111.582744,"length":3901,"course":206.0}],"procedures":{"D":{},"E":{},"F":{}}};

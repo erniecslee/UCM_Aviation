@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI84"]={"id":"WI84","name":"JOHNSTOWN CENTER","lat":42.6889,"lon":-88.840386,"elevation":925,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

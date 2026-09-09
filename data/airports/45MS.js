@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45MS"]={"id":"45MS","name":"BOX FLD","lat":33.547164,"lon":-90.567094,"elevation":123,"region":"K7","runways":[{"id":"RW18","lat":33.55,"lon":-90.567083,"length":2065,"course":181.6},{"id":"RW36","lat":33.544325,"lon":-90.567108,"length":2065,"course":1.6}],"procedures":{"D":{},"E":{},"F":{}}};

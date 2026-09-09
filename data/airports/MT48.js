@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT48"]={"id":"MT48","name":"FLYING Y RANCH","lat":45.426569,"lon":-110.656039,"elevation":4857,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

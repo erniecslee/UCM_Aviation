@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59CN"]={"id":"59CN","name":"JAMES BROTHERS","lat":38.8349,"lon":-121.529681,"elevation":25,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

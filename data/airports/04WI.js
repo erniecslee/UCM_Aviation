@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04WI"]={"id":"04WI","name":"DUTCH GAP AIRSTRIP","lat":42.523353,"lon":-88.016747,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

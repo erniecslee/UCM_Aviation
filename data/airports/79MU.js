@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79MU"]={"id":"79MU","name":"DUNHAM","lat":39.330253,"lon":-94.557406,"elevation":1011,"region":"K3","runways":[{"id":"RW04","lat":39.328164,"lon":-94.559708,"length":2000,"course":35.6},{"id":"RW22","lat":39.332339,"lon":-94.555103,"length":2000,"course":215.6}],"procedures":{"D":{},"E":{},"F":{}}};

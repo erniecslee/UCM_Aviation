@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MN6"]={"id":"9MN6","name":"MERILL L HARRIS FLD","lat":44.643436,"lon":-93.699681,"elevation":800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

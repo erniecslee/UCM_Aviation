@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48TX"]={"id":"48TX","name":"TRI-COUNTY AERODROME","lat":33.451919,"lon":-96.377289,"elevation":790,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

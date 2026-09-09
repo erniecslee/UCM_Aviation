@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9U1"]={"id":"9U1","name":"WILSALL","lat":46.049547,"lon":-110.684956,"elevation":5140,"region":"K1","runways":[{"id":"RW01","lat":46.045311,"lon":-110.685486,"length":3100,"course":349.0},{"id":"RW19","lat":46.053781,"lon":-110.684422,"length":3100,"course":169.0}],"procedures":{"D":{},"E":{},"F":{}}};

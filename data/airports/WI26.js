@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI26"]={"id":"WI26","name":"FLYING FOX","lat":42.582628,"lon":-88.570922,"elevation":1013,"region":"K5","runways":[{"id":"RW09","lat":42.5826,"lon":-88.574717,"length":2044,"course":93.0},{"id":"RW27","lat":42.582622,"lon":-88.570253,"length":2044,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

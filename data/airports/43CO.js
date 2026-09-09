@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43CO"]={"id":"43CO","name":"BOEING FLD","lat":38.808508,"lon":-107.635219,"elevation":5784,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14LA"]={"id":"14LA","name":"SERENITY FLD","lat":30.615511,"lon":-90.536053,"elevation":76,"region":"K4","runways":[{"id":"RW18","lat":30.620456,"lon":-90.535931,"length":3600,"course":182.5},{"id":"RW36","lat":30.610564,"lon":-90.536172,"length":3600,"course":2.5}],"procedures":{"D":{},"E":{},"F":{}}};

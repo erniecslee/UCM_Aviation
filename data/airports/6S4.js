@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6S4"]={"id":"6S4","name":"DAVIS","lat":44.745889,"lon":-122.421389,"elevation":1028,"region":"K1","runways":[{"id":"RW07","lat":44.746036,"lon":-122.425106,"length":1940,"course":74.0},{"id":"RW25","lat":44.745744,"lon":-122.417647,"length":1940,"course":254.0}],"procedures":{"D":{},"E":{},"F":{}}};

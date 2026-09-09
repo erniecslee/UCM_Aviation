@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NE6"]={"id":"2NE6","name":"COPPERSMITH","lat":40.920831,"lon":-101.297383,"elevation":3240,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L85"]={"id":"L85","name":"MACKEYS LAKES","lat":60.533611,"lon":-150.995556,"elevation":175,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

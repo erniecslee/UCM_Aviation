@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN75"]={"id":"MN75","name":"KREZOWSKI","lat":46.758169,"lon":-93.282336,"elevation":1214,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

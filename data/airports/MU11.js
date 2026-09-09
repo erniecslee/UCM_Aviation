@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU11"]={"id":"MU11","name":"EAGLE'S LANDING","lat":38.220861,"lon":-93.015475,"elevation":822,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

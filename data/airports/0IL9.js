@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IL9"]={"id":"0IL9","name":"JACK W WATSON","lat":41.854753,"lon":-88.787308,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

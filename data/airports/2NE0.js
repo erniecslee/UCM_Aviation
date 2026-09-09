@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NE0"]={"id":"2NE0","name":"JOHNSON LAKE","lat":40.696672,"lon":-99.834286,"elevation":2625,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

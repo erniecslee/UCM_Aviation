@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70KS"]={"id":"70KS","name":"BANNON FLD","lat":37.581944,"lon":-96.945969,"elevation":1218,"region":"K3","runways":[{"id":"RW01","lat":37.579483,"lon":-96.946556,"length":1825,"course":8.1},{"id":"RW19","lat":37.584406,"lon":-96.945381,"length":1825,"course":188.1}],"procedures":{"D":{},"E":{},"F":{}}};

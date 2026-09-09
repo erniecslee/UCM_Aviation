@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AZ4"]={"id":"7AZ4","name":"RANCHO RELAXO","lat":31.938611,"lon":-109.588333,"elevation":4475,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

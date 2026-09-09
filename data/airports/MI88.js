@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI88"]={"id":"MI88","name":"BAKERS FLD","lat":42.73225,"lon":-85.905311,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

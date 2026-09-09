@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR08"]={"id":"AR08","name":"FLYING MACHINES AIRSTRIP","lat":36.315347,"lon":-93.666578,"elevation":1150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

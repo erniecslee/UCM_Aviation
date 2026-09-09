@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52NK"]={"id":"52NK","name":"COLLINS FLD","lat":43.224244,"lon":-75.675528,"elevation":381,"region":"K6","runways":[{"id":"RW08","lat":43.223656,"lon":-75.679406,"length":2112,"course":90.4},{"id":"RW26","lat":43.224833,"lon":-75.67165,"length":2112,"course":270.4}],"procedures":{"D":{},"E":{},"F":{}}};

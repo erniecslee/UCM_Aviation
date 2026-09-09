@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01FA"]={"id":"01FA","name":"RYBOLT RANCH","lat":28.589444,"lon":-81.144231,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY1"]={"id":"NY1","name":"KLINE KILL","lat":42.350086,"lon":-73.637064,"elevation":380,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

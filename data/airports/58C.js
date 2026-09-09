@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58C"]={"id":"58C","name":"JANA","lat":42.872403,"lon":-89.075564,"elevation":843,"region":"K5","runways":[{"id":"RW18","lat":42.874678,"lon":-89.075558,"length":2358,"course":180.0},{"id":"RW36","lat":42.869167,"lon":-89.075572,"length":2358,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

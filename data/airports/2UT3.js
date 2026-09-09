@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2UT3"]={"id":"2UT3","name":"FORT RANCH","lat":41.492167,"lon":-112.591167,"elevation":4440,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

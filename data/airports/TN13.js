@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN13"]={"id":"TN13","name":"OLD VALLEY","lat":36.328333,"lon":-83.825556,"elevation":1168,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

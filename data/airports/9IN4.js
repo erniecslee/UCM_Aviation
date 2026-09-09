@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IN4"]={"id":"9IN4","name":"BANDMILL FLD","lat":38.534167,"lon":-87.591944,"elevation":400,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

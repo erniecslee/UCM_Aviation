@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z33"]={"id":"Z33","name":"ALEKNAGIK","lat":59.273978,"lon":-158.623589,"elevation":7,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

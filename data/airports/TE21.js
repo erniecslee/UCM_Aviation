@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE21"]={"id":"TE21","name":"LOBO MOUNTAIN RANCH","lat":29.651336,"lon":-99.086425,"elevation":1540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

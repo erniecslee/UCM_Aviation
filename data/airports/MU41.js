@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU41"]={"id":"MU41","name":"INGRAM","lat":36.7952,"lon":-93.899517,"elevation":1482,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

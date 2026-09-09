@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9C0"]={"id":"9C0","name":"PENINSULA POINT PULLOUT","lat":55.38465,"lon":-131.738353,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

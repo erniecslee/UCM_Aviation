@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AN"]={"id":"2AN","name":"TISCHNER AIR","lat":64.254506,"lon":-149.192078,"elevation":647,"region":"PA","runways":[{"id":"RW02","lat":64.252908,"lon":-149.195128,"length":1520,"course":25.4},{"id":"RW20","lat":64.256106,"lon":-149.189,"length":1520,"course":205.4}],"procedures":{"D":{},"E":{},"F":{}}};

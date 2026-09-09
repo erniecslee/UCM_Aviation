@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AZ8"]={"id":"3AZ8","name":"HIGH MESA AIRPARK","lat":32.762289,"lon":-109.653411,"elevation":3080,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AZ8"]={"id":"4AZ8","name":"THE ULTRALIGHT STRIP","lat":32.294722,"lon":-111.344444,"elevation":2120,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

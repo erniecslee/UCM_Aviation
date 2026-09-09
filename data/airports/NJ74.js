@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ74"]={"id":"NJ74","name":"SALEM AIRFIELD","lat":39.562614,"lon":-75.449642,"elevation":15,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

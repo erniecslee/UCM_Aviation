@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5O1"]={"id":"5O1","name":"VICI MUNI","lat":36.141056,"lon":-99.303361,"elevation":2268,"region":"K4","runways":[{"id":"RW16","lat":36.144531,"lon":-99.304128,"length":2565,"course":162.0},{"id":"RW34","lat":36.137592,"lon":-99.302614,"length":2565,"course":342.0}],"procedures":{"D":{},"E":{},"F":{}}};

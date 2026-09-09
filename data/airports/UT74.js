@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT74"]={"id":"UT74","name":"FRY CANYON FLD","lat":37.648333,"lon":-110.166944,"elevation":5372,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

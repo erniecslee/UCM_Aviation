@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38MO"]={"id":"38MO","name":"BARBER","lat":39.255603,"lon":-90.855686,"elevation":480,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

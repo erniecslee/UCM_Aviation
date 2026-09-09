@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL11"]={"id":"FL11","name":"THRIFTS","lat":30.349403,"lon":-82.120947,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY01"]={"id":"WY01","name":"DILTS RANCH","lat":43.3958,"lon":-105.554714,"elevation":4800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

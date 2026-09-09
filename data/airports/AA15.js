@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA15"]={"id":"AA15","name":"SHANNONS POND","lat":59.058975,"lon":-158.577189,"elevation":80,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

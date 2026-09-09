@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CA6"]={"id":"0CA6","name":"EMORY RANCH","lat":32.749444,"lon":-116.016111,"elevation":480,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

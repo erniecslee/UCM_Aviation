@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06XA"]={"id":"06XA","name":"J & W WINDY HILL","lat":33.445983,"lon":-96.570797,"elevation":784,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

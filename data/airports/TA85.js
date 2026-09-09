@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA85"]={"id":"TA85","name":"CHIPS","lat":29.566358,"lon":-98.059989,"elevation":576,"region":"K4","runways":[{"id":"RW04","lat":29.564925,"lon":-98.061686,"length":1500,"course":42.7},{"id":"RW22","lat":29.567792,"lon":-98.058292,"length":1500,"course":222.7}],"procedures":{"D":{},"E":{},"F":{}}};

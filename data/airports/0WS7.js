@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WS7"]={"id":"0WS7","name":"ROCKDALE","lat":42.969917,"lon":-89.028861,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

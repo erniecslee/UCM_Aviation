@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS84"]={"id":"WS84","name":"CRAN BOG N","lat":44.273486,"lon":-90.481517,"elevation":991,"region":"K5","runways":[{"id":"RW09","lat":44.273339,"lon":-90.485711,"length":2200,"course":89.4},{"id":"RW27","lat":44.273636,"lon":-90.477322,"length":2200,"course":269.5}],"procedures":{"D":{},"E":{},"F":{}}};

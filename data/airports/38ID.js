@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38ID"]={"id":"38ID","name":"SKY RANCH NORTH","lat":43.509444,"lon":-116.667917,"elevation":2750,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

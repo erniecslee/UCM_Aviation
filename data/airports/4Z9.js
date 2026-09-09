@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4Z9"]={"id":"4Z9","name":"JAKOLOF BAY","lat":59.452161,"lon":-151.522381,"elevation":5,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

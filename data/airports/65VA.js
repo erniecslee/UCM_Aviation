@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65VA"]={"id":"65VA","name":"GRAYSON","lat":37.844667,"lon":-78.547,"elevation":445,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

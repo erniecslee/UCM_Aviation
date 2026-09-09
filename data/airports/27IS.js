@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27IS"]={"id":"27IS","name":"GELFIUS INTL","lat":38.148936,"lon":-88.670336,"elevation":530,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

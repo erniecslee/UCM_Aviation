@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09WI"]={"id":"09WI","name":"PARKWAY FARM STRIP","lat":44.003572,"lon":-91.307644,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

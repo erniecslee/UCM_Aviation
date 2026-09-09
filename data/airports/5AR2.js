@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AR2"]={"id":"5AR2","name":"TURRELL FLYING SERVICE","lat":35.375,"lon":-90.206389,"elevation":226,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

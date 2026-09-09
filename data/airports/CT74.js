@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT74"]={"id":"CT74","name":"WESTFORD AIRSTRIP","lat":41.950653,"lon":-72.181467,"elevation":900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

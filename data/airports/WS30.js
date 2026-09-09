@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS30"]={"id":"WS30","name":"HEXUM FLIGHT PARK","lat":45.189131,"lon":-92.548256,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

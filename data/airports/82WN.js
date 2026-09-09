@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82WN"]={"id":"82WN","name":"MAGEE CREEK AERODROME","lat":48.361483,"lon":-118.140944,"elevation":1945,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

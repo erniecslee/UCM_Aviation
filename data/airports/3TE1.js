@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TE1"]={"id":"3TE1","name":"GUM ISLAND","lat":29.951608,"lon":-94.904369,"elevation":53,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12WA"]={"id":"12WA","name":"FOWLERS NW 40","lat":47.520725,"lon":-117.462706,"elevation":2313,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

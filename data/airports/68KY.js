@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68KY"]={"id":"68KY","name":"DOUBLE C FLD","lat":36.741744,"lon":-88.386481,"elevation":538,"region":"K5","runways":[{"id":"RW08","lat":36.741092,"lon":-88.389969,"length":2100,"course":80.1},{"id":"RW26","lat":36.742397,"lon":-88.382989,"length":2100,"course":260.1}],"procedures":{"D":{},"E":{},"F":{}}};

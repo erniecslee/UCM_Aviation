@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59NC"]={"id":"59NC","name":"MCLEAN BROTHERS","lat":36.097358,"lon":-79.555303,"elevation":696,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

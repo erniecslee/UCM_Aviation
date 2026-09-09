@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W12"]={"id":"W12","name":"LOST RIVER","lat":48.649583,"lon":-120.502044,"elevation":2415,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

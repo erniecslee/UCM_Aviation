@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA81"]={"id":"LA81","name":"SONLEF AIR STRIP","lat":32.629847,"lon":-93.657628,"elevation":165,"region":"K4","runways":[{"id":"RW09","lat":32.629847,"lon":-93.657633,"length":2200,"course":87.3}],"procedures":{"D":{},"E":{},"F":{}}};

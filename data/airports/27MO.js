@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27MO"]={"id":"27MO","name":"ROUTE 66 AIRFIELD","lat":37.193889,"lon":-94.224167,"elevation":1055,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

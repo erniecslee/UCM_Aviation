@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78AA"]={"id":"78AA","name":"LAKEWOOD","lat":64.771761,"lon":-147.246692,"elevation":540,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

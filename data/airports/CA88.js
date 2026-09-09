@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA88"]={"id":"CA88","name":"SAN ARDO FLD","lat":36.026075,"lon":-120.907683,"elevation":441,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

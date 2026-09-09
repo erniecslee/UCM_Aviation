@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN23"]={"id":"CN23","name":"HARVARD","lat":34.96165,"lon":-116.675308,"elevation":1825,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

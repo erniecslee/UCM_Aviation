@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA68"]={"id":"GA68","name":"FLYING 'H' RANCH","lat":33.114847,"lon":-84.449092,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

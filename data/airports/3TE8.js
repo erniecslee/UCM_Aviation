@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TE8"]={"id":"3TE8","name":"C FULCHER RANCH","lat":29.319364,"lon":-103.583519,"elevation":2717,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

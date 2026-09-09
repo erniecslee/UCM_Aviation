@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TX7"]={"id":"3TX7","name":"FLYING P","lat":33.140833,"lon":-97.371111,"elevation":805,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

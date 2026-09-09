@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39IA"]={"id":"39IA","name":"HUSBAND FLD","lat":41.679431,"lon":-94.020231,"elevation":1010,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

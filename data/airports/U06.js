@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U06"]={"id":"U06","name":"COKEVILLE MUNI","lat":42.045772,"lon":-110.966019,"elevation":6270,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

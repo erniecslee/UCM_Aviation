@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CO4"]={"id":"5CO4","name":"SPICKARD FARM","lat":39.699983,"lon":-104.250514,"elevation":5320,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

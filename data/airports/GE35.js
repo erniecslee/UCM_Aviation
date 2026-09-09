@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE35"]={"id":"GE35","name":"SOUTHERN OAKS","lat":33.731389,"lon":-83.469722,"elevation":695,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

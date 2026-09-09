@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1S7"]={"id":"1S7","name":"SLATE CREEK","lat":45.671778,"lon":-116.305722,"elevation":1660,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

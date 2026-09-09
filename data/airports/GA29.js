@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA29"]={"id":"GA29","name":"WELLERS LANDING","lat":33.156233,"lon":-84.431036,"elevation":843,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

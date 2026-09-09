@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VI32"]={"id":"VI32","name":"CHRISTIANSTED HARBOR-SSB","lat":17.747194,"lon":-64.704864,"elevation":0,"region":"TI","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

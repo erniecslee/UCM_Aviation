@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN22"]={"id":"SN22","name":"HOELTING","lat":39.112217,"lon":-94.956153,"elevation":960,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

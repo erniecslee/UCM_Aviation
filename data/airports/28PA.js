@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28PA"]={"id":"28PA","name":"BOYER","lat":40.322061,"lon":-76.100622,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

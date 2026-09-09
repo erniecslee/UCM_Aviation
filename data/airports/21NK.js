@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21NK"]={"id":"21NK","name":"DON KICHOTE-QUIXOTE","lat":42.552778,"lon":-75.191111,"elevation":1750,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

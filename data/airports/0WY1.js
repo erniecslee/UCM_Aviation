@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WY1"]={"id":"0WY1","name":"DORSEY CREEK RANCH","lat":44.411111,"lon":-108.163333,"elevation":4017,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

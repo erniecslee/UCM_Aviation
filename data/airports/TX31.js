@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX31"]={"id":"TX31","name":"EDWARDS LUCIAN WELLS RANCH","lat":32.073736,"lon":-101.564292,"elevation":2505,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

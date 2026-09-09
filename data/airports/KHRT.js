@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KHRT"]={"id":"KHRT","name":"HURLBURT FLD","lat":30.428922,"lon":-86.688808,"elevation":36,"region":"K7","runways":[{"id":"RW18","lat":30.442083,"lon":-86.689872,"length":9600,"course":179.0},{"id":"RW36","lat":30.415753,"lon":-86.687731,"length":9600,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

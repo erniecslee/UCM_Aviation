@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WA0"]={"id":"3WA0","name":"TAYLOR","lat":46.8976,"lon":-122.669569,"elevation":470,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

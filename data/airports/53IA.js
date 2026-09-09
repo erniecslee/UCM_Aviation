@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53IA"]={"id":"53IA","name":"TAMA","lat":41.944992,"lon":-92.5793,"elevation":814,"region":"K3","runways":[{"id":"RW02","lat":41.941728,"lon":-92.580714,"length":2500,"course":15.0},{"id":"RW20","lat":41.948256,"lon":-92.577883,"length":2500,"course":195.0}],"procedures":{"D":{},"E":{},"F":{}}};

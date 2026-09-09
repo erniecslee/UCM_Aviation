@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33CT"]={"id":"33CT","name":"IRISH HILLS FARMS","lat":41.609444,"lon":-73.239722,"elevation":830,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

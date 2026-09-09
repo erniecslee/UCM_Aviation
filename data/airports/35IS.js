@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35IS"]={"id":"35IS","name":"ENOCH","lat":39.528369,"lon":-88.763961,"elevation":676,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

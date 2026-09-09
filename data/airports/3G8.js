@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3G8"]={"id":"3G8","name":"GEN-AIRPARK","lat":41.439778,"lon":-90.110056,"elevation":645,"region":"K5","runways":[{"id":"RW09","lat":41.43985,"lon":-90.114028,"length":2568,"course":90.6},{"id":"RW27","lat":41.439686,"lon":-90.106406,"length":2568,"course":270.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17IN"]={"id":"17IN","name":"PRUSS","lat":38.978392,"lon":-85.109678,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87OR"]={"id":"87OR","name":"MOONDANCE RANCH","lat":42.651811,"lon":-121.328892,"elevation":4980,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AL7"]={"id":"4AL7","name":"LEON'S LANDING","lat":34.744722,"lon":-85.689833,"elevation":1430,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

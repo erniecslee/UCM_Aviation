@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57S"]={"id":"57S","name":"TROY","lat":48.480219,"lon":-115.903506,"elevation":2017,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

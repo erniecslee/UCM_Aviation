@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49TE"]={"id":"49TE","name":"K STAR RANCH","lat":30.283528,"lon":-96.459611,"elevation":397,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

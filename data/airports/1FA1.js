@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1FA1"]={"id":"1FA1","name":"POST OAK RANCH","lat":28.854925,"lon":-82.5526,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

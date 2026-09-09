@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5M8"]={"id":"5M8","name":"GURDON LOWE FLD","lat":33.923778,"lon":-93.168139,"elevation":229,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

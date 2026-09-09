@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD61"]={"id":"SD61","name":"PLIHAL FARMS","lat":43.016664,"lon":-97.867014,"elevation":1435,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

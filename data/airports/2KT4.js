@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KT4"]={"id":"2KT4","name":"EUBANK FLD","lat":36.797028,"lon":-85.966944,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

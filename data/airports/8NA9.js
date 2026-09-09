@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NA9"]={"id":"8NA9","name":"HASHBARGER FARM AIRSTRIP","lat":47.328044,"lon":-97.678983,"elevation":1195,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS86"]={"id":"IS86","name":"HENDRIX","lat":41.0417,"lon":-88.191719,"elevation":656,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

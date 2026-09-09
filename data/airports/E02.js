@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E02"]={"id":"E02","name":"TIMBERON","lat":32.634069,"lon":-105.68745,"elevation":6963,"region":"K2","runways":[{"id":"RW13","lat":32.639414,"lon":-105.692186,"length":4860,"course":132.0},{"id":"RW31","lat":32.628728,"lon":-105.682714,"length":4860,"course":312.0}],"procedures":{"D":{},"E":{},"F":{}}};

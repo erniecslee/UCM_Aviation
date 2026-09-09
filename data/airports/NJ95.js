@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ95"]={"id":"NJ95","name":"HERR BROTHERS","lat":40.555658,"lon":-75.072394,"elevation":330,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

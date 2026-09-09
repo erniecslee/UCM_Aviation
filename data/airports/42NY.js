@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42NY"]={"id":"42NY","name":"WALTERS FLD","lat":42.669,"lon":-76.056167,"elevation":1560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

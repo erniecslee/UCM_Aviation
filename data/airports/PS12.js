@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS12"]={"id":"PS12","name":"GROVER","lat":40.916753,"lon":-75.866308,"elevation":1223,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

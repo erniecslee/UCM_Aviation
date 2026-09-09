@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62IL"]={"id":"62IL","name":"FERRIS FLD","lat":42.186133,"lon":-88.604258,"elevation":841,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

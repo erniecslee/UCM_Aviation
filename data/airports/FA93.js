@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA93"]={"id":"FA93","name":"DJ FARM","lat":30.456136,"lon":-83.144233,"elevation":85,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27MA"]={"id":"27MA","name":"WAMSETTO","lat":41.820556,"lon":-71.114722,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

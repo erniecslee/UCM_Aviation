@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO76"]={"id":"CO76","name":"EDEN RANCH","lat":38.836372,"lon":-107.865897,"elevation":6150,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

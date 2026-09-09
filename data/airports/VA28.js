@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA28"]={"id":"VA28","name":"LAYNE FARM AIRSTRIP","lat":37.121258,"lon":-78.643614,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

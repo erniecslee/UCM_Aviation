@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY29"]={"id":"WY29","name":"VOWERS RANCH","lat":41.622197,"lon":-104.785244,"elevation":5550,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

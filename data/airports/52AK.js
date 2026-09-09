@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52AK"]={"id":"52AK","name":"CRAG MOUNTAIN","lat":61.704031,"lon":-148.908789,"elevation":487,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

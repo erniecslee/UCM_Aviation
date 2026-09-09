@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN05"]={"id":"MN05","name":"JORDAN","lat":47.597175,"lon":-94.846936,"elevation":1344,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

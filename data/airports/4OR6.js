@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OR6"]={"id":"4OR6","name":"STARGAZER FLD","lat":45.449842,"lon":-122.254256,"elevation":510,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA74"]={"id":"PA74","name":"GUSLER","lat":40.465364,"lon":-76.839972,"elevation":700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

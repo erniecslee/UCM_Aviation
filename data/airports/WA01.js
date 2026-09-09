@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA01"]={"id":"WA01","name":"WIRKKALA","lat":46.356214,"lon":-123.814594,"elevation":35,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

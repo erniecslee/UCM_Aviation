@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02MI"]={"id":"02MI","name":"FAIRPLAINS AIRPARK","lat":43.157003,"lon":-85.148928,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

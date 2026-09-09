@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X61"]={"id":"X61","name":"BOB WHITE FLD","lat":28.735272,"lon":-81.629117,"elevation":78,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

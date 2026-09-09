@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR33"]={"id":"NR33","name":"WARF","lat":36.324,"lon":-79.709333,"elevation":820,"region":"K7","runways":[{"id":"RW17","lat":36.327486,"lon":-79.709822,"length":2550,"course":180.0},{"id":"RW35","lat":36.320522,"lon":-79.708858,"length":2550,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

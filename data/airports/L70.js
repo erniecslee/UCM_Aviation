@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L70"]={"id":"L70","name":"AGUA DULCE","lat":34.503514,"lon":-118.313158,"elevation":2633,"region":"K2","runways":[{"id":"RW04","lat":34.500344,"lon":-118.31825,"length":4205,"course":39.1},{"id":"RW22","lat":34.506436,"lon":-118.308461,"length":4205,"course":219.1}],"procedures":{"D":{},"E":{},"F":{}}};

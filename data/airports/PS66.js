@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS66"]={"id":"PS66","name":"PARKER-CRAMER","lat":41.211453,"lon":-79.360878,"elevation":1480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42TN"]={"id":"42TN","name":"OLIVER LANDING","lat":36.411944,"lon":-88.265556,"elevation":475,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

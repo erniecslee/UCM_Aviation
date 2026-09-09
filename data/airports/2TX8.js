@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX8"]={"id":"2TX8","name":"EAGLE'S LANDING","lat":33.308172,"lon":-97.379744,"elevation":930,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OI5"]={"id":"8OI5","name":"CLUM","lat":39.881733,"lon":-82.414597,"elevation":1115,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

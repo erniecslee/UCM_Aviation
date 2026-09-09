@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD48"]={"id":"CD48","name":"CUCHARA RANCH","lat":37.786389,"lon":-104.593667,"elevation":5827,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

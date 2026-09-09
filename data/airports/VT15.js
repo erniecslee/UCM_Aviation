@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT15"]={"id":"VT15","name":"SAVAGE ISLAND","lat":44.703933,"lon":-73.245964,"elevation":125,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

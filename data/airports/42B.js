@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42B"]={"id":"42B","name":"GOODSPEED","lat":41.445656,"lon":-72.455642,"elevation":9,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT53"]={"id":"VT53","name":"BAILEY","lat":44.117556,"lon":-73.378736,"elevation":140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

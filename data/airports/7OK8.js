@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OK8"]={"id":"7OK8","name":"JIM PETTIJOHN MEML","lat":34.66155,"lon":-98.102794,"elevation":1222,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

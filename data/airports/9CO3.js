@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO3"]={"id":"9CO3","name":"HUBBARD","lat":38.675,"lon":-108.988333,"elevation":4670,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

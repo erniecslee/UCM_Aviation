@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO93"]={"id":"CO93","name":"PERRY PARK","lat":39.249989,"lon":-104.890814,"elevation":6700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

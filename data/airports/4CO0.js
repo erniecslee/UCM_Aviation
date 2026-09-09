@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4CO0"]={"id":"4CO0","name":"GLEN-ASPEN","lat":39.388872,"lon":-107.16005,"elevation":6835,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

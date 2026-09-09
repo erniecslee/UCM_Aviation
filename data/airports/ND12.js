@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND12"]={"id":"ND12","name":"SNYDERS","lat":46.586528,"lon":-100.472222,"elevation":2017,"region":"K3","runways":[{"id":"RW15","lat":46.589722,"lon":-100.475,"length":2715,"course":143.9},{"id":"RW33","lat":46.583333,"lon":-100.469444,"length":2715,"course":323.9}],"procedures":{"D":{},"E":{},"F":{}}};

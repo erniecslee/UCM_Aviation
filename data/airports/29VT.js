@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29VT"]={"id":"29VT","name":"MIDDLE HERO","lat":44.756389,"lon":-73.266667,"elevation":95,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV29"]={"id":"WV29","name":"VALLEY POINT","lat":39.579806,"lon":-79.649772,"elevation":2000,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

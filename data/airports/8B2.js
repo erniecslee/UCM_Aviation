@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8B2"]={"id":"8B2","name":"TWIN MOUNTAIN","lat":44.264064,"lon":-71.54675,"elevation":1459,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

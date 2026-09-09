@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD73"]={"id":"SD73","name":"ERICKSON INTERGALACTIC","lat":43.584908,"lon":-96.517556,"elevation":1440,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

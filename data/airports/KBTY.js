@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KBTY"]={"id":"KBTY","name":"BEATTY","lat":36.861133,"lon":-116.7864,"elevation":3169,"region":"K2","runways":[{"id":"RW17","lat":36.868842,"lon":-116.786406,"length":5615,"course":168.0},{"id":"RW35","lat":36.853425,"lon":-116.786392,"length":5615,"course":348.0}],"procedures":{"D":{},"E":{},"F":{}}};

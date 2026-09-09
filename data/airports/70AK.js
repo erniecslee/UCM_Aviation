@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70AK"]={"id":"70AK","name":"BANGERTER FLD","lat":60.517778,"lon":-150.959722,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

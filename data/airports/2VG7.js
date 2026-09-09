@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VG7"]={"id":"2VG7","name":"SEVEN GABLES","lat":38.163889,"lon":-77.85,"elevation":411,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

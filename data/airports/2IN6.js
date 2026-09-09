@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IN6"]={"id":"2IN6","name":"GALLOWAY","lat":40.041944,"lon":-85.916944,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

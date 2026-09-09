@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22WY"]={"id":"22WY","name":"KISSACK/REYNOLDS","lat":44.338056,"lon":-105.162117,"elevation":4380,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

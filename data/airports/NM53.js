@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM53"]={"id":"NM53","name":"SAN MIGUEL RANCH","lat":35.512778,"lon":-104.581667,"elevation":6300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37CA"]={"id":"37CA","name":"BILLY JOE","lat":33.506972,"lon":-117.071417,"elevation":1350,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN46"]={"id":"PN46","name":"RIVER HILL AVIATION","lat":40.564444,"lon":-79.545833,"elevation":1250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

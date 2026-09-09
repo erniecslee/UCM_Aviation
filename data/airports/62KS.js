@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62KS"]={"id":"62KS","name":"DEXTER FLD","lat":38.358633,"lon":-96.490989,"elevation":1173,"region":"K3","runways":[{"id":"RW18","lat":38.362064,"lon":-96.491003,"length":2500,"course":177.4},{"id":"RW36","lat":38.3552,"lon":-96.490972,"length":2500,"course":357.4}],"procedures":{"D":{},"E":{},"F":{}}};

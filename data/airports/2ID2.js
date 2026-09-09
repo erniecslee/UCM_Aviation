@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ID2"]={"id":"2ID2","name":"LINDA'S ROOST","lat":43.954356,"lon":-113.647244,"elevation":6250,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

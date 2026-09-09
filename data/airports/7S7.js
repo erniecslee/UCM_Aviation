@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7S7"]={"id":"7S7","name":"VALIER","lat":48.30015,"lon":-112.251142,"elevation":3826,"region":"K1","runways":[{"id":"RW10","lat":48.301942,"lon":-112.256169,"length":2140,"course":108.0},{"id":"RW28","lat":48.298511,"lon":-112.249036,"length":2140,"course":288.0}],"procedures":{"D":{},"E":{},"F":{}}};

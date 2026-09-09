@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KAYX"]={"id":"KAYX","name":"ARNOLD AFB","lat":35.392467,"lon":-86.085778,"elevation":1065,"region":"K7","runways":[{"id":"RW03","lat":35.384969,"lon":-86.089961,"length":6000,"course":26.6},{"id":"RW21","lat":35.399961,"lon":-86.081592,"length":6000,"course":206.6}],"procedures":{"D":{},"E":{},"F":{}}};

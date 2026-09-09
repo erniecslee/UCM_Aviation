@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53NY"]={"id":"53NY","name":"SMITHS LAND BASE","lat":42.958397,"lon":-77.615833,"elevation":627,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

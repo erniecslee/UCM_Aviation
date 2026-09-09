@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FA3"]={"id":"4FA3","name":"TRANQUILITY BAY STRIP","lat":26.643406,"lon":-82.117869,"elevation":8,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

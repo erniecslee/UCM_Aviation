@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD71"]={"id":"FD71","name":"O'BRIEN AIRPARK EAST/WEST","lat":30.048333,"lon":-82.983889,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26GA"]={"id":"26GA","name":"LITTLE","lat":34.402608,"lon":-85.286744,"elevation":776,"region":"K7","runways":[{"id":"RW04","lat":34.401994,"lon":-85.287278,"length":550,"course":40.9},{"id":"RW22","lat":34.403219,"lon":-85.286211,"length":550,"course":220.9}],"procedures":{"D":{},"E":{},"F":{}}};

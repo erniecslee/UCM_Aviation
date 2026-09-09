@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD57"]={"id":"FD57","name":"BAGGETT","lat":27.469761,"lon":-80.416442,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

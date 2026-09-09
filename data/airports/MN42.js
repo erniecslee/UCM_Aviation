@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN42"]={"id":"MN42","name":"OAK LAKE AIR STRIP","lat":47.658572,"lon":-95.946144,"elevation":1204,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

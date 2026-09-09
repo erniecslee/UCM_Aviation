@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18NV"]={"id":"18NV","name":"EMPIRE","lat":40.578556,"lon":-119.351444,"elevation":3990,"region":"K2","runways":[{"id":"RW18","lat":40.583367,"lon":-119.348942,"length":3770,"course":185.0},{"id":"RW36","lat":40.573739,"lon":-119.353928,"length":3770,"course":5.0}],"procedures":{"D":{},"E":{},"F":{}}};

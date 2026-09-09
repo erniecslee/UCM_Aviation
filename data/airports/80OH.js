@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80OH"]={"id":"80OH","name":"GRIFFIN/SLOAS","lat":41.270308,"lon":-80.753225,"elevation":876,"region":"K5","runways":[{"id":"RW18","lat":41.273464,"lon":-80.753317,"length":2300,"course":186.0},{"id":"RW36","lat":41.267153,"lon":-80.753131,"length":2300,"course":6.0}],"procedures":{"D":{},"E":{},"F":{}}};

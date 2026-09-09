@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI95"]={"id":"WI95","name":"BINZEL","lat":42.577797,"lon":-88.01405,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

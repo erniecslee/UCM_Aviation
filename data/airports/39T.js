@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39T"]={"id":"39T","name":"TRIPP CREEK","lat":43.064753,"lon":-84.489153,"elevation":717,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

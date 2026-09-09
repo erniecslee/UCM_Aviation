@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC3"]={"id":"1NC3","name":"FLETCHER'S","lat":36.180714,"lon":-76.149094,"elevation":7,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

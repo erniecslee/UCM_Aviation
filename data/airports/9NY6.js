@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NY6"]={"id":"9NY6","name":"MASON AIRWAY","lat":42.324806,"lon":-74.986272,"elevation":2170,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

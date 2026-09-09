@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL55"]={"id":"IL55","name":"YOUNGLOVE/OTTERBACH","lat":41.535556,"lon":-88.998611,"elevation":694,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

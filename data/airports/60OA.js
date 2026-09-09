@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60OA"]={"id":"60OA","name":"FLEMMING FLD","lat":41.400886,"lon":-80.578578,"elevation":962,"region":"K5","runways":[{"id":"RW09","lat":41.400897,"lon":-80.583861,"length":2900,"course":99.2},{"id":"RW27","lat":41.400872,"lon":-80.573292,"length":2900,"course":279.2}],"procedures":{"D":{},"E":{},"F":{}}};

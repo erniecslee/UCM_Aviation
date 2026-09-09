@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS40"]={"id":"XS40","name":"JAY KAY RANCH","lat":28.805381,"lon":-99.006147,"elevation":667,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

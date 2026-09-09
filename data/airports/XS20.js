@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS20"]={"id":"XS20","name":"DOS ARROYOS RANCH","lat":30.154092,"lon":-99.297825,"elevation":2058,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

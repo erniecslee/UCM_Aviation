@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD04"]={"id":"FD04","name":"LEEWARD AIR RANCH","lat":29.092583,"lon":-82.032,"elevation":86,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

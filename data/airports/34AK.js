@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34AK"]={"id":"34AK","name":"CARDWELL STRIP","lat":61.625039,"lon":-149.288581,"elevation":425,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

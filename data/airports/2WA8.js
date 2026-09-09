@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WA8"]={"id":"2WA8","name":"KRAMER RANCH","lat":47.383694,"lon":-118.298033,"elevation":2181,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

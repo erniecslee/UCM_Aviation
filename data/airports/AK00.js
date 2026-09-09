@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK00"]={"id":"AK00","name":"ANCHOR RIVER AIRPARK","lat":59.783056,"lon":-151.853056,"elevation":120,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

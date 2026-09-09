@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS78"]={"id":"XS78","name":"SANTIAGO CATTLE COMPANY","lat":31.385417,"lon":-99.099833,"elevation":1387,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

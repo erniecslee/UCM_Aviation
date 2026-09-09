@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME68"]={"id":"ME68","name":"NEWPORT SKY PARK","lat":44.820067,"lon":-69.238381,"elevation":300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

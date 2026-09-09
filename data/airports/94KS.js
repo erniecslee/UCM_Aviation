@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94KS"]={"id":"94KS","name":"CLARK FLD","lat":37.974936,"lon":-98.965897,"elevation":2029,"region":"K3","runways":[{"id":"RW17","lat":37.978422,"lon":-98.965833,"length":2540,"course":176.8},{"id":"RW35","lat":37.971447,"lon":-98.965958,"length":2540,"course":356.8}],"procedures":{"D":{},"E":{},"F":{}}};

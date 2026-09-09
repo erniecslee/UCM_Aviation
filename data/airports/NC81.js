@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC81"]={"id":"NC81","name":"COX","lat":35.751817,"lon":-78.859731,"elevation":455,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

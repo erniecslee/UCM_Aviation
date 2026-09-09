@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X58"]={"id":"X58","name":"INDIANTOWN","lat":27.0375,"lon":-80.441,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

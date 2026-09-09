@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2U7"]={"id":"2U7","name":"STANLEY","lat":44.208556,"lon":-114.934528,"elevation":6403,"region":"K1","runways":[{"id":"RW17","lat":44.214314,"lon":-114.932819,"length":4300,"course":175.0},{"id":"RW35","lat":44.202778,"lon":-114.936261,"length":4300,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

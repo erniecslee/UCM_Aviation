@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NY1"]={"id":"6NY1","name":"OLD PORT ROYAL","lat":42.112853,"lon":-77.089414,"elevation":1700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

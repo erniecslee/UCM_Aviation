@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK8"]={"id":"6AK8","name":"TULAKES","lat":61.61815,"lon":-149.669189,"elevation":350,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

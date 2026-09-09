@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID56"]={"id":"ID56","name":"STAR 'S' RANCH","lat":43.981858,"lon":-114.043656,"elevation":6660,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

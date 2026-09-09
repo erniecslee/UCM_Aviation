@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OL5"]={"id":"5OL5","name":"WILLSEE","lat":35.002222,"lon":-97.190278,"elevation":1128,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

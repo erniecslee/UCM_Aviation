@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43LA"]={"id":"43LA","name":"WANT'S","lat":32.747644,"lon":-93.872222,"elevation":177,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OR3"]={"id":"8OR3","name":"RIVERVIEW RANCH","lat":42.933731,"lon":-123.121447,"elevation":840,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

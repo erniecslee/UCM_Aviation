@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16NE"]={"id":"16NE","name":"KORVER","lat":40.56,"lon":-96.491681,"elevation":1390,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

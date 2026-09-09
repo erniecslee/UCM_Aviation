@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50IN"]={"id":"50IN","name":"ROPKEY FLD","lat":40.058086,"lon":-86.795422,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

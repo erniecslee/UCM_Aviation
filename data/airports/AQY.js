@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AQY"]={"id":"AQY","name":"GIRDWOOD","lat":60.969022,"lon":-149.119347,"elevation":164,"region":"PA","runways":[{"id":"RW02","lat":60.966811,"lon":-149.123097,"length":2095,"course":15.0},{"id":"RW20","lat":60.971233,"lon":-149.115594,"length":2095,"course":195.0}],"procedures":{"D":{},"E":{},"F":{}}};

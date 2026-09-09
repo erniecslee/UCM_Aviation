@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T26"]={"id":"T26","name":"FLYING V RANCH","lat":29.108278,"lon":-96.398778,"elevation":60,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

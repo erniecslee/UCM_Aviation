@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS29"]={"id":"MS29","name":"PACE AIRSTRIP","lat":32.601944,"lon":-89.863889,"elevation":350,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97WA"]={"id":"97WA","name":"BASIN CITY AIRFIELD","lat":46.585694,"lon":-119.153903,"elevation":722,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

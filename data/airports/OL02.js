@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL02"]={"id":"OL02","name":"WEST BUTTERCREEK","lat":45.665278,"lon":-119.386111,"elevation":917,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

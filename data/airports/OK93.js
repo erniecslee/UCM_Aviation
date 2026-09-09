@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK93"]={"id":"OK93","name":"AIRMAN ACRES","lat":36.332944,"lon":-95.892208,"elevation":694,"region":"K4","runways":[{"id":"RW18","lat":36.3366,"lon":-95.892228,"length":2662,"course":173.8},{"id":"RW36","lat":36.329289,"lon":-95.892189,"length":2662,"course":353.8}],"procedures":{"D":{},"E":{},"F":{}}};

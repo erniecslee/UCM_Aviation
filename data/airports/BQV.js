@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["BQV"]={"id":"BQV","name":"BARTLETT COVE","lat":58.455208,"lon":-135.885169,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

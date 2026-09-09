@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OH9"]={"id":"3OH9","name":"MERTS FLD","lat":39.561658,"lon":-83.857694,"elevation":1010,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

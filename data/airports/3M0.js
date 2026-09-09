@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3M0"]={"id":"3M0","name":"GASTONS","lat":36.349056,"lon":-92.555806,"elevation":479,"region":"K4","runways":[{"id":"RW06","lat":36.347428,"lon":-92.560844,"length":3200,"course":64.0},{"id":"RW24","lat":36.350686,"lon":-92.55075,"length":3200,"course":244.0}],"procedures":{"D":{},"E":{},"F":{}}};

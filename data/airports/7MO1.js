@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MO1"]={"id":"7MO1","name":"WOOD ACRES","lat":39.4731,"lon":-91.709036,"elevation":726,"region":"K3","runways":[{"id":"RW18","lat":39.477489,"lon":-91.708808,"length":3200,"course":179.3},{"id":"RW36","lat":39.468711,"lon":-91.709261,"length":3200,"course":359.3}],"procedures":{"D":{},"E":{},"F":{}}};

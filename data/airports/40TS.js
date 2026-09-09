@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40TS"]={"id":"40TS","name":"DAWSON PRIVATE STRIP","lat":27.444844,"lon":-97.905942,"elevation":74,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

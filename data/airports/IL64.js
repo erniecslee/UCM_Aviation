@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL64"]={"id":"IL64","name":"MARTIN","lat":40.1806,"lon":-89.500103,"elevation":558,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

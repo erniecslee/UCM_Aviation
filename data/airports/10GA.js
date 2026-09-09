@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10GA"]={"id":"10GA","name":"BEAVERBROOK AERODROME","lat":33.325114,"lon":-84.298256,"elevation":910,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

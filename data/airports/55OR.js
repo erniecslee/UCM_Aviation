@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55OR"]={"id":"55OR","name":"MUDDY CREEK","lat":44.435956,"lon":-123.308433,"elevation":253,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

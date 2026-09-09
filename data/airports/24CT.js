@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24CT"]={"id":"24CT","name":"BEE FLD","lat":41.566886,"lon":-71.966883,"elevation":280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

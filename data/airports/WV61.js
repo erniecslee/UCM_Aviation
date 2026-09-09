@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV61"]={"id":"WV61","name":"HEAVENLY HILLS","lat":39.469542,"lon":-78.235561,"elevation":960,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

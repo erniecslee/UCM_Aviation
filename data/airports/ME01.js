@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME01"]={"id":"ME01","name":"CRESCENT LAKE","lat":43.957017,"lon":-70.462556,"elevation":278,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

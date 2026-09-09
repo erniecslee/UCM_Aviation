@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00CA"]={"id":"00CA","name":"GOLDSTONE /GTS/","lat":35.354972,"lon":-116.885208,"elevation":3038,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

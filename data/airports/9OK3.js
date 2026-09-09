@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OK3"]={"id":"9OK3","name":"FLYING EAGLE ESTATES","lat":36.7037,"lon":-95.840539,"elevation":690,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

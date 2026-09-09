@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KHLB"]={"id":"KHLB","name":"BATESVILLE","lat":39.343111,"lon":-85.258417,"elevation":975,"region":"K5","runways":[{"id":"RW18","lat":39.349658,"lon":-85.258444,"length":5933,"course":184.9},{"id":"RW36","lat":39.334961,"lon":-85.2584,"length":5933,"course":4.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD53"]={"id":"SD53","name":"HOWARD FLD","lat":42.906389,"lon":-96.810833,"elevation":1250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

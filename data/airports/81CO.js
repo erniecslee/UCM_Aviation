@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81CO"]={"id":"81CO","name":"MESA 1","lat":40.406111,"lon":-106.821389,"elevation":7000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

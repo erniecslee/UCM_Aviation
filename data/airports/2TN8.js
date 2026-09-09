@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TN8"]={"id":"2TN8","name":"SOGGY BOTTOM","lat":36.024722,"lon":-85.949167,"elevation":580,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

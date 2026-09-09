@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90ME"]={"id":"90ME","name":"ZINCK","lat":44.523056,"lon":-70.545556,"elevation":620,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

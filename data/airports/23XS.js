@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23XS"]={"id":"23XS","name":"SHORTHORN AUX LANDING STRIP","lat":31.3585,"lon":-97.671131,"elevation":720,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IN4"]={"id":"5IN4","name":"WYCKOFF AIRSTRIP","lat":41.483375,"lon":-86.950028,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN75"]={"id":"TN75","name":"JOPPA","lat":36.231325,"lon":-83.620739,"elevation":1001,"region":"K7","runways":[{"id":"RW05","lat":36.229164,"lon":-83.624033,"length":2500,"course":57.4},{"id":"RW23","lat":36.233483,"lon":-83.617442,"length":2500,"course":237.4}],"procedures":{"D":{},"E":{},"F":{}}};

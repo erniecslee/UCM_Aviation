@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07CL"]={"id":"07CL","name":"RICHVALE","lat":39.497664,"lon":-121.771364,"elevation":100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

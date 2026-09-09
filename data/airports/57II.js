@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57II"]={"id":"57II","name":"REIMER AERODROME","lat":39.964211,"lon":-86.567503,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

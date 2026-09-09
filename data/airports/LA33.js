@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA33"]={"id":"LA33","name":"CUBA FARM","lat":32.576531,"lon":-92.113744,"elevation":80,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

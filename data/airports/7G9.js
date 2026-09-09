@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7G9"]={"id":"7G9","name":"CANTON MUNI","lat":43.309,"lon":-96.571217,"elevation":1290,"region":"K3","runways":[{"id":"RW18","lat":43.313936,"lon":-96.571217,"length":3600,"course":174.0},{"id":"RW36","lat":43.304064,"lon":-96.571217,"length":3600,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U46"]={"id":"U46","name":"BIG SOUTHERN BUTTE","lat":43.432583,"lon":-113.055444,"elevation":5073,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

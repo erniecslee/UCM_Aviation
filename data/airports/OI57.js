@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI57"]={"id":"OI57","name":"MC KINNEY FLD","lat":38.927011,"lon":-83.988542,"elevation":970,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

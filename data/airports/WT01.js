@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT01"]={"id":"WT01","name":"HILLCREST FARMS","lat":46.949167,"lon":-120.481111,"elevation":1490,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

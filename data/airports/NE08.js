@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE08"]={"id":"NE08","name":"LARRABEE FARM","lat":40.547772,"lon":-101.978236,"elevation":3518,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

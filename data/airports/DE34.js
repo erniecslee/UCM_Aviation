@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE34"]={"id":"DE34","name":"TOWNSEND A","lat":39.414278,"lon":-75.662983,"elevation":65,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

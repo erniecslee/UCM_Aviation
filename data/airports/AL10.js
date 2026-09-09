@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL10"]={"id":"AL10","name":"FRERICHS","lat":34.6512,"lon":-86.416931,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FL1"]={"id":"4FL1","name":"ESCAPE RANCH","lat":27.862778,"lon":-80.958056,"elevation":71,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

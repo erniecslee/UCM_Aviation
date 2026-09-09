@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22TA"]={"id":"22TA","name":"PHARMNALL","lat":32.215381,"lon":-97.140217,"elevation":658,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

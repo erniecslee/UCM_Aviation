@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08LS"]={"id":"08LS","name":"AILERON","lat":30.409172,"lon":-92.0331,"elevation":58,"region":"K4","runways":[{"id":"RW01","lat":30.406494,"lon":-92.033814,"length":2000,"course":13.3},{"id":"RW19","lat":30.411853,"lon":-92.032386,"length":2000,"course":193.3}],"procedures":{"D":{},"E":{},"F":{}}};

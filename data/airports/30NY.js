@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30NY"]={"id":"30NY","name":"COYE FLD","lat":42.750064,"lon":-77.55805,"elevation":1610,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

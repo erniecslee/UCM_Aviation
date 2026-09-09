@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8ND0"]={"id":"8ND0","name":"AMBLE - TIGER NORTH FARMS","lat":48.901394,"lon":-99.016797,"elevation":1590,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

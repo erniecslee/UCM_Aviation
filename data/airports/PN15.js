@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN15"]={"id":"PN15","name":"GREELEY","lat":41.879167,"lon":-77.95,"elevation":2300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

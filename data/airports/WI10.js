@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI10"]={"id":"WI10","name":"CEDAR ISLAND","lat":46.449942,"lon":-91.616856,"elevation":1229,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

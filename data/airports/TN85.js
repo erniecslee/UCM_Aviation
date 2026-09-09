@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN85"]={"id":"TN85","name":"HOGUE","lat":35.631778,"lon":-85.391308,"elevation":1800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

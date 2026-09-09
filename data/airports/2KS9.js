@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KS9"]={"id":"2KS9","name":"STARSHIRE FARM","lat":38.900003,"lon":-95.583592,"elevation":990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

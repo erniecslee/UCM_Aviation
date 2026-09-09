@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48AK"]={"id":"48AK","name":"CASTLE MOUNTAIN AIRSTRIP","lat":61.793089,"lon":-148.492497,"elevation":1010,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

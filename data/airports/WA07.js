@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA07"]={"id":"WA07","name":"CROSS WINDS","lat":47.980994,"lon":-117.528853,"elevation":2150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

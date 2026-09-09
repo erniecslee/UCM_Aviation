@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH68"]={"id":"NH68","name":"MERRYMEETING LAKE","lat":43.479969,"lon":-71.170156,"elevation":647,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

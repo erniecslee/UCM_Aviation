@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47XS"]={"id":"47XS","name":"BARTOS FARM","lat":33.4725,"lon":-101.785278,"elevation":3153,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

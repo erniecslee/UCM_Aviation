@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27OK"]={"id":"27OK","name":"THOMAS LANDING","lat":36.742258,"lon":-96.963925,"elevation":1110,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

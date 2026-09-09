@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA44"]={"id":"GA44","name":"RICHARDS","lat":33.079289,"lon":-85.031606,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

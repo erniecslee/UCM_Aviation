@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL16"]={"id":"AL16","name":"TURKEY CREEK","lat":33.726769,"lon":-86.723603,"elevation":640,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

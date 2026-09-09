@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR2"]={"id":"3AR2","name":"RIDGEWAY FLD","lat":36.320067,"lon":-93.201567,"elevation":1400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05NE"]={"id":"05NE","name":"MC KAY","lat":41.722233,"lon":-98.308958,"elevation":2010,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S89"]={"id":"S89","name":"CRAIGMONT MUNI","lat":46.247722,"lon":-116.479361,"elevation":3805,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

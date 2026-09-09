@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA76"]={"id":"GA76","name":"BROKEN RANCH","lat":33.15485,"lon":-83.898794,"elevation":620,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KCR"]={"id":"KCR","name":"COLORADO CREEK","lat":63.567722,"lon":-155.989044,"elevation":860,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

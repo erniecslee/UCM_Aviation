@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70KY"]={"id":"70KY","name":"VINE GROVE","lat":37.8159,"lon":-85.964686,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

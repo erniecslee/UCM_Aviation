@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA76"]={"id":"IA76","name":"ELF RUN","lat":41.352361,"lon":-94.211667,"elevation":1227,"region":"K3","runways":[{"id":"RW16","lat":41.352778,"lon":-94.211944,"length":340,"course":152.5},{"id":"RW34","lat":41.351944,"lon":-94.211389,"length":340,"course":332.5}],"procedures":{"D":{},"E":{},"F":{}}};

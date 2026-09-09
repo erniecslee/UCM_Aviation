@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WI3"]={"id":"4WI3","name":"NORTHWOODS ROMEO","lat":45.538056,"lon":-92.023056,"elevation":1243,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

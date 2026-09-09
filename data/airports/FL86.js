@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL86"]={"id":"FL86","name":"WOODSTOCK","lat":26.582575,"lon":-82.098425,"elevation":5,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

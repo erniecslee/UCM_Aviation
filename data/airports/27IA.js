@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27IA"]={"id":"27IA","name":"OLDFIELD AERO","lat":40.751453,"lon":-92.030822,"elevation":750,"region":"K3","runways":[{"id":"RW08","lat":40.751133,"lon":-92.034044,"length":1800,"course":83.4},{"id":"RW26","lat":40.751769,"lon":-92.0276,"length":1800,"course":263.4}],"procedures":{"D":{},"E":{},"F":{}}};

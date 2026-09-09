@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE4"]={"id":"2TE4","name":"FRELS","lat":29.179189,"lon":-96.322736,"elevation":100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

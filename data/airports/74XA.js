@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74XA"]={"id":"74XA","name":"GUN BARREL CITY AIRPARK","lat":32.354722,"lon":-96.145556,"elevation":385,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

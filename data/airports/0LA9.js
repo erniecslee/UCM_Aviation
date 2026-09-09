@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LA9"]={"id":"0LA9","name":"REBEL FLD","lat":30.586297,"lon":-90.861486,"elevation":74,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

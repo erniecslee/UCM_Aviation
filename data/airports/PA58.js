@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA58"]={"id":"PA58","name":"ROCKTOP","lat":39.975,"lon":-77.557778,"elevation":770,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

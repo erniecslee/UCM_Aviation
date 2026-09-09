@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23W"]={"id":"23W","name":"CORNUCOPIA FLD","lat":46.866217,"lon":-91.083603,"elevation":757,"region":"K5","runways":[{"id":"RW05","lat":46.865497,"lon":-91.084933,"length":2120,"course":50.6},{"id":"RW23","lat":46.868022,"lon":-91.080281,"length":2120,"course":230.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY31"]={"id":"NY31","name":"RABBIT LANE","lat":43.223681,"lon":-76.368822,"elevation":405,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

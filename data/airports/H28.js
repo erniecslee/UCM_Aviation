@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H28"]={"id":"H28","name":"WHETSTONE INTL","lat":48.999989,"lon":-112.792581,"elevation":4336,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

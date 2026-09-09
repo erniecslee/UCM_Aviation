@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KT8"]={"id":"8KT8","name":"CHERRY HILL","lat":38.331917,"lon":-85.077972,"elevation":879,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52LA"]={"id":"52LA","name":"BRUCE BEARD","lat":30.048375,"lon":-93.10925,"elevation":13,"region":"K4","runways":[{"id":"RW09","lat":30.048361,"lon":-93.113389,"length":2620,"course":89.4}],"procedures":{"D":{},"E":{},"F":{}}};

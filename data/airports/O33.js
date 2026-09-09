@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O33"]={"id":"O33","name":"SAMOA FLD","lat":40.780861,"lon":-124.212278,"elevation":20,"region":"K2","runways":[{"id":"RW16","lat":40.784569,"lon":-124.212283,"length":2700,"course":163.0},{"id":"RW34","lat":40.777158,"lon":-124.212283,"length":2700,"course":343.0}],"procedures":{"D":{},"E":{},"F":{}}};

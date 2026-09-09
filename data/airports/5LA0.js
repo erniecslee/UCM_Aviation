@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LA0"]={"id":"5LA0","name":"JUNEAU","lat":32.590325,"lon":-93.827803,"elevation":200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KY0"]={"id":"0KY0","name":"OWEN AIR PARK","lat":38.622778,"lon":-84.778889,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

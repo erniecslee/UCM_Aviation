@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL77"]={"id":"CL77","name":"BONNY DOON","lat":37.070503,"lon":-122.127467,"elevation":2020,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

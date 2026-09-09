@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48P"]={"id":"48P","name":"ROCKY HILL","lat":41.148556,"lon":-75.275278,"elevation":1240,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI3"]={"id":"3WI3","name":"PLOVER RIVER AIRFIELD","lat":44.76525,"lon":-89.407339,"elevation":1185,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

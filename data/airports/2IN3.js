@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IN3"]={"id":"2IN3","name":"TATERTOWN","lat":41.084761,"lon":-86.924186,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

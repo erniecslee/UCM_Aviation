@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98TN"]={"id":"98TN","name":"LANDING AT RIVER'S EDGE","lat":36.1425,"lon":-83.604167,"elevation":1019,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35NR"]={"id":"35NR","name":"FRIENDSHIP FLD","lat":35.830544,"lon":-82.519311,"elevation":2356,"region":"K7","runways":[{"id":"RW05","lat":35.829092,"lon":-82.521336,"length":1600,"course":55.6},{"id":"RW23","lat":35.832,"lon":-82.517289,"length":1600,"course":235.6}],"procedures":{"D":{},"E":{},"F":{}}};

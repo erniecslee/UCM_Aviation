@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7GA7"]={"id":"7GA7","name":"BERRY HILL","lat":33.535556,"lon":-84.179056,"elevation":770,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

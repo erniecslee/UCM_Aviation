@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26OK"]={"id":"26OK","name":"PHEASANT WINGS","lat":34.952681,"lon":-96.612528,"elevation":987,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

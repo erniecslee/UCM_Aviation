@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI48"]={"id":"MI48","name":"HAM-A-LOT FLD","lat":41.833381,"lon":-83.683272,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

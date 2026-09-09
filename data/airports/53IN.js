@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53IN"]={"id":"53IN","name":"HARTMAN FARMS FLD","lat":40.521428,"lon":-86.214994,"elevation":818,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

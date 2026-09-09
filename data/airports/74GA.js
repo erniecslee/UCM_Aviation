@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74GA"]={"id":"74GA","name":"JOHNSON","lat":33.225722,"lon":-84.665889,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

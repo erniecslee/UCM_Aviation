@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WI2"]={"id":"1WI2","name":"MOVING CLOUD ISLAND","lat":46.029444,"lon":-89.686389,"elevation":1600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

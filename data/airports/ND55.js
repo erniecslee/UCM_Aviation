@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND55"]={"id":"ND55","name":"SPERR","lat":46.788111,"lon":-98.536967,"elevation":1465,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

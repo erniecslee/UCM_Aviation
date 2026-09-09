@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81W"]={"id":"81W","name":"FISHERMANS BAY","lat":48.516489,"lon":-122.917956,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

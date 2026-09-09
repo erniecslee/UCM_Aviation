@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94IL"]={"id":"94IL","name":"FURFARO RLA","lat":38.693,"lon":-89.781861,"elevation":500,"region":"K5","runways":[{"id":"RW03","lat":38.690583,"lon":-89.783306,"length":1944,"course":27.4},{"id":"RW21","lat":38.695417,"lon":-89.780417,"length":1944,"course":207.4}],"procedures":{"D":{},"E":{},"F":{}}};

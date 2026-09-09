@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD83"]={"id":"MD83","name":"TY-TI-TO","lat":38.520833,"lon":-77.068056,"elevation":170,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

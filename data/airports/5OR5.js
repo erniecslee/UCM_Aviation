@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OR5"]={"id":"5OR5","name":"JUNIPER AIR PARK","lat":44.034564,"lon":-121.118358,"elevation":3490,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MO3"]={"id":"0MO3","name":"VEACH FLD","lat":38.624925,"lon":-94.521658,"elevation":950,"region":"K3","runways":[{"id":"RW16","lat":38.6279,"lon":-94.522544,"length":2225,"course":165.7},{"id":"RW34","lat":38.62195,"lon":-94.520772,"length":2225,"course":345.8}],"procedures":{"D":{},"E":{},"F":{}}};

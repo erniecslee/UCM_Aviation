@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PATW"]={"id":"PATW","name":"CANTWELL","lat":63.391206,"lon":-148.955617,"elevation":2190,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

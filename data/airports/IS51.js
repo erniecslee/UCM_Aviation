@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS51"]={"id":"IS51","name":"SCHILSON FLD","lat":40.451433,"lon":-91.203756,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

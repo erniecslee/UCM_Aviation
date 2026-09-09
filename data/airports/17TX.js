@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17TX"]={"id":"17TX","name":"KIMZEY","lat":32.448744,"lon":-98.255044,"elevation":1100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

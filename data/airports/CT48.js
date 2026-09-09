@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT48"]={"id":"CT48","name":"WYCHWOOD FLD","lat":41.436767,"lon":-71.92535,"elevation":316,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

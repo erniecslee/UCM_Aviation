@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD74"]={"id":"SD74","name":"VANDER WAL","lat":45.99555,"lon":-100.376236,"elevation":1955,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

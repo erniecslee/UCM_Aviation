@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26IL"]={"id":"26IL","name":"STRAETER RLA","lat":38.741086,"lon":-89.567892,"elevation":522,"region":"K5","runways":[{"id":"RW09","lat":38.741119,"lon":-89.56965,"length":1004,"course":93.9},{"id":"RW27","lat":38.74105,"lon":-89.566133,"length":1004,"course":273.9}],"procedures":{"D":{},"E":{},"F":{}}};

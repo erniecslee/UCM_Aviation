@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6G6"]={"id":"6G6","name":"COVE VALLEY","lat":40.454517,"lon":-78.238067,"elevation":1156,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

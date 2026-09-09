@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA70"]={"id":"CA70","name":"SUN HILL RANCH","lat":34.758042,"lon":-117.496719,"elevation":2984,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

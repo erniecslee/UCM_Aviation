@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK67"]={"id":"OK67","name":"RAMSAK","lat":34.547094,"lon":-97.909617,"elevation":1228,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

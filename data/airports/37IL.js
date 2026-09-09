@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37IL"]={"id":"37IL","name":"MINDER","lat":40.133375,"lon":-89.325094,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

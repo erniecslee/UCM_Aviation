@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TA3"]={"id":"2TA3","name":"TRIANGLE RANCH PRIVATE","lat":31.718178,"lon":-104.597997,"elevation":4400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

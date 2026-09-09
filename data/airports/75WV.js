@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75WV"]={"id":"75WV","name":"NICHOLSON","lat":39.1659,"lon":-80.650806,"elevation":1008,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

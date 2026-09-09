@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83XA"]={"id":"83XA","name":"TR ZATO","lat":33.4625,"lon":-100.935139,"elevation":2408,"region":"K4","runways":[{"id":"RW02","lat":33.458611,"lon":-100.937222,"length":3102,"course":19.3},{"id":"RW20","lat":33.466389,"lon":-100.933056,"length":3102,"course":199.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA88"]={"id":"WA88","name":"HORSE FLY","lat":48.892889,"lon":-122.556836,"elevation":70,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

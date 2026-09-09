@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34CD"]={"id":"34CD","name":"ELK PARK RANCH","lat":40.262683,"lon":-105.448011,"elevation":7900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

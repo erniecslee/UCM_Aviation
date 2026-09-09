@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CA1"]={"id":"7CA1","name":"ABRAHAM RANCH","lat":34.414722,"lon":-116.622525,"elevation":2850,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

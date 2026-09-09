@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64TE"]={"id":"64TE","name":"APACHE SPRINGS","lat":30.159092,"lon":-99.337269,"elevation":2016,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

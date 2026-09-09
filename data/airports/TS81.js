@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS81"]={"id":"TS81","name":"FLANDERS FLD","lat":31.157444,"lon":-97.07525,"elevation":461,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

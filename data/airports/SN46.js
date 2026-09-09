@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN46"]={"id":"SN46","name":"TAYLOR","lat":37.871906,"lon":-97.072197,"elevation":1340,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

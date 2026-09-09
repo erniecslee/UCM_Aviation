@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95IL"]={"id":"95IL","name":"HENDERSON","lat":37.486161,"lon":-88.400042,"elevation":485,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

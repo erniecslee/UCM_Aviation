@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KS5"]={"id":"8KS5","name":"BLUE SKY","lat":37.316156,"lon":-95.280236,"elevation":897,"region":"K3","runways":[{"id":"RW06","lat":37.315081,"lon":-95.2834,"length":2000,"course":62.0},{"id":"RW24","lat":37.317231,"lon":-95.277069,"length":2000,"course":242.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O44"]={"id":"O44","name":"MC CASLIN","lat":35.092292,"lon":-97.336417,"elevation":1135,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

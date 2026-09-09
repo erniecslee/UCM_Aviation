@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WA2"]={"id":"1WA2","name":"PILOT'S PASTURES","lat":46.51925,"lon":-122.890083,"elevation":450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

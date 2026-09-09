@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53KS"]={"id":"53KS","name":"WEAVER RANCH","lat":38.110953,"lon":-97.429711,"elevation":1460,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

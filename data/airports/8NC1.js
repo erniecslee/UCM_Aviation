@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NC1"]={"id":"8NC1","name":"DEAN FLD","lat":35.376267,"lon":-79.240858,"elevation":480,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

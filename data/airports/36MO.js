@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36MO"]={"id":"36MO","name":"HARRISON PVT","lat":37.852864,"lon":-91.646839,"elevation":1056,"region":"K3","runways":[{"id":"RW09","lat":37.853461,"lon":-91.651981,"length":3000,"course":97.3},{"id":"RW27","lat":37.852267,"lon":-91.6417,"length":3000,"course":277.3}],"procedures":{"D":{},"E":{},"F":{}}};

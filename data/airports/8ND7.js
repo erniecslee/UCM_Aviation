@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8ND7"]={"id":"8ND7","name":"SPRAGUE","lat":47.120664,"lon":-98.657833,"elevation":1555,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

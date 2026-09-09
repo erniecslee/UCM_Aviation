@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31CD"]={"id":"31CD","name":"DIAMOND STAR RANCH","lat":37.86975,"lon":-104.789806,"elevation":6010,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

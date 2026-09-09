@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TA2"]={"id":"4TA2","name":"V-BAR","lat":31.74225,"lon":-97.319861,"elevation":565,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

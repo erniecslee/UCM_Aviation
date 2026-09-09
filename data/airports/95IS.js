@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95IS"]={"id":"95IS","name":"JAN KNIPE","lat":40.370556,"lon":-91.388889,"elevation":645,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

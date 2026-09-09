@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MU9"]={"id":"6MU9","name":"CRADDOCK FLD","lat":37.534767,"lon":-91.965158,"elevation":1199,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

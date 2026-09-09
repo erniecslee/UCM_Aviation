@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S84"]={"id":"S84","name":"COTTONWOOD MUNI","lat":46.038769,"lon":-116.331536,"elevation":3474,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

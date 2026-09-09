@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97KS"]={"id":"97KS","name":"WINGIT FLD","lat":37.675722,"lon":-96.885489,"elevation":1338,"region":"K3","runways":[{"id":"RW18","lat":37.678264,"lon":-96.8854,"length":1850,"course":179.0},{"id":"RW36","lat":37.673181,"lon":-96.885575,"length":1850,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

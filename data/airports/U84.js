@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U84"]={"id":"U84","name":"DONALD D COSKI MEML","lat":44.729061,"lon":-116.092628,"elevation":4860,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS17"]={"id":"WS17","name":"PIONEER","lat":43.989428,"lon":-88.578447,"elevation":826,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

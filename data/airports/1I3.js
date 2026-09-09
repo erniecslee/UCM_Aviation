@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1I3"]={"id":"1I3","name":"SHAWNEE FLD","lat":39.042722,"lon":-87.00275,"elevation":501,"region":"K5","runways":[{"id":"RW18","lat":39.045689,"lon":-87.002758,"length":2160,"course":181.0},{"id":"RW36","lat":39.039756,"lon":-87.002733,"length":2160,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

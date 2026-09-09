@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5I2"]={"id":"5I2","name":"FLORA MUNI","lat":40.539758,"lon":-86.548333,"elevation":710,"region":"K5","runways":[{"id":"RW09","lat":40.540314,"lon":-86.552531,"length":2143,"course":92.0},{"id":"RW27","lat":40.540314,"lon":-86.544686,"length":2143,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

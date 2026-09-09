@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II95"]={"id":"II95","name":"RUST'S LANDING","lat":41.364492,"lon":-86.063333,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

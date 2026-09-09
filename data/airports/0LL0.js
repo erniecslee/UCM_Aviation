@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LL0"]={"id":"0LL0","name":"KAUFIELD","lat":42.264722,"lon":-88.73,"elevation":783,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

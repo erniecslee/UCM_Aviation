@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK08"]={"id":"AK08","name":"THOMAS STRIP","lat":61.789919,"lon":-150.106039,"elevation":190,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

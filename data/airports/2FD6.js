@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FD6"]={"id":"2FD6","name":"TULLY RV AIRPARK","lat":28.889733,"lon":-80.867267,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

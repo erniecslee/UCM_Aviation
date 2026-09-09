@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA75"]={"id":"XA75","name":"DOUBLE A","lat":32.324,"lon":-97.099667,"elevation":635,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

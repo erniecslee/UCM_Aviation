@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09I"]={"id":"09I","name":"INTL FALLS","lat":48.605833,"lon":-93.370833,"elevation":1110,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

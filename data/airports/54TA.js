@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54TA"]={"id":"54TA","name":"GEORGE P SHANKS","lat":32.299722,"lon":-96.873333,"elevation":610,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

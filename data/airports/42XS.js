@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42XS"]={"id":"42XS","name":"TRIPLE B RANCH","lat":27.958819,"lon":-98.403764,"elevation":500,"region":"K4","runways":[{"id":"RW13","lat":27.963889,"lon":-98.409,"length":5000,"course":134.1},{"id":"RW31","lat":27.95375,"lon":-98.398528,"length":5000,"course":314.1}],"procedures":{"D":{},"E":{},"F":{}}};

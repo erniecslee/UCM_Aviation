@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99V"]={"id":"99V","name":"CRAWFORD","lat":38.704153,"lon":-107.643669,"elevation":6470,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

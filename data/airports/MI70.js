@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI70"]={"id":"MI70","name":"CARL'S","lat":42.071153,"lon":-83.883553,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

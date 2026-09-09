@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TN9"]={"id":"5TN9","name":"ONE GRAND FLD","lat":36.11395,"lon":-85.594978,"elevation":1000,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

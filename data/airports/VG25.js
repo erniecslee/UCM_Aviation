@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG25"]={"id":"VG25","name":"ROBINSON","lat":37.347883,"lon":-79.571139,"elevation":947,"region":"K6","runways":[{"id":"RW12","lat":37.349364,"lon":-79.575353,"length":2676,"course":122.8},{"id":"RW30","lat":37.346403,"lon":-79.566928,"length":2676,"course":302.9}],"procedures":{"D":{},"E":{},"F":{}}};

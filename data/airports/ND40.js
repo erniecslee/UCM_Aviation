@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND40"]={"id":"ND40","name":"RAU FLD","lat":46.812425,"lon":-99.242378,"elevation":1857,"region":"K3","runways":[{"id":"RW09","lat":46.812419,"lon":-99.247367,"length":2500,"course":81.9},{"id":"RW27","lat":46.812431,"lon":-99.237389,"length":2500,"course":261.9}],"procedures":{"D":{},"E":{},"F":{}}};

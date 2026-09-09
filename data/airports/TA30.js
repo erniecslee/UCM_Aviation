@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA30"]={"id":"TA30","name":"OLD FORKER","lat":29.318847,"lon":-95.085761,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

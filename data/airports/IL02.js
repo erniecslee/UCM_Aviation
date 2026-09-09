@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL02"]={"id":"IL02","name":"RAVENWOOD","lat":42.472242,"lon":-87.908408,"elevation":719,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

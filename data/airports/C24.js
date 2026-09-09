@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C24"]={"id":"C24","name":"MINERAL COUNTY MEML","lat":37.822167,"lon":-106.929889,"elevation":8680,"region":"K2","runways":[{"id":"RW25","lat":37.823297,"lon":-106.918058,"length":6880,"course":251.1}],"procedures":{"D":{},"E":{},"F":{}}};

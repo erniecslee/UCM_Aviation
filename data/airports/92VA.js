@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92VA"]={"id":"92VA","name":"NEW QUARTER FARM","lat":37.344722,"lon":-76.564444,"elevation":38,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

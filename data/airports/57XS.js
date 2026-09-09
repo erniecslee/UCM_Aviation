@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57XS"]={"id":"57XS","name":"MISSION MTN","lat":32.492022,"lon":-99.146178,"elevation":1443,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

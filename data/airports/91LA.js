@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91LA"]={"id":"91LA","name":"KOCH","lat":30.534644,"lon":-92.367353,"elevation":51,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

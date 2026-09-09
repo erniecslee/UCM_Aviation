@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02AK"]={"id":"02AK","name":"RUSTIC WILDERNESS","lat":61.876911,"lon":-150.097639,"elevation":190,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

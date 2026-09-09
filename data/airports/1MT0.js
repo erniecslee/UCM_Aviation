@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MT0"]={"id":"1MT0","name":"NINE QUARTER CIRCLE RANCH","lat":45.067428,"lon":-111.297178,"elevation":6974,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

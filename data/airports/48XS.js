@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48XS"]={"id":"48XS","name":"MARAVILLAS GAP RANCH","lat":29.926569,"lon":-103.2949,"elevation":3325,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

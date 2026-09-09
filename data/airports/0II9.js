@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0II9"]={"id":"0II9","name":"WINTERS","lat":39.534214,"lon":-86.577222,"elevation":755,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

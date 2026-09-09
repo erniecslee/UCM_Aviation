@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06NV"]={"id":"06NV","name":"SILVER CREEK","lat":39.098333,"lon":-114.150278,"elevation":5556,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

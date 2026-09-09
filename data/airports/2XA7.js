@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XA7"]={"id":"2XA7","name":"TAILWHEEL","lat":32.615,"lon":-94.765556,"elevation":360,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

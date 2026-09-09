@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96OR"]={"id":"96OR","name":"CABLE CREEK RANCH","lat":45.100556,"lon":-118.816944,"elevation":4060,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

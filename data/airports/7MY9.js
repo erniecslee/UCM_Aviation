@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MY9"]={"id":"7MY9","name":"PETES","lat":43.746717,"lon":-92.7245,"elevation":1337,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

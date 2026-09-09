@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WV8"]={"id":"8WV8","name":"TALBOTT FLD","lat":39.335667,"lon":-78.103633,"elevation":755,"region":"K6","runways":[{"id":"RW04","lat":39.333319,"lon":-78.105233,"length":2107,"course":38.3},{"id":"RW22","lat":39.338217,"lon":-78.101881,"length":2107,"course":218.3}],"procedures":{"D":{},"E":{},"F":{}}};

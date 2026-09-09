@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WY0"]={"id":"0WY0","name":"FREEDOM AIR RANCH","lat":43.039722,"lon":-111.038056,"elevation":5698,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

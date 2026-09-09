@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TA6"]={"id":"7TA6","name":"SKYVIEW RANCH","lat":30.382211,"lon":-99.619264,"elevation":2064,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

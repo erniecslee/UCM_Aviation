@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA46"]={"id":"WA46","name":"DAYBREAK","lat":45.830278,"lon":-122.6375,"elevation":25,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

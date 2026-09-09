@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IN9"]={"id":"8IN9","name":"MARCIDALE","lat":39.685556,"lon":-86.602222,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

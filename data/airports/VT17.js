@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT17"]={"id":"VT17","name":"SMITH","lat":43.368961,"lon":-72.674261,"elevation":1502,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

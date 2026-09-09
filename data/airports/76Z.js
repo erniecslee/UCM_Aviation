@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76Z"]={"id":"76Z","name":"NAKEEN","lat":58.927606,"lon":-157.047153,"elevation":50,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

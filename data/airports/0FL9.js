@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FL9"]={"id":"0FL9","name":"MC DANIEL RANCH INC","lat":26.393889,"lon":-81.023056,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

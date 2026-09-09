@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO65"]={"id":"MO65","name":"MISTY MEADOWS","lat":36.583397,"lon":-93.102956,"elevation":940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

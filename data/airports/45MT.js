@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45MT"]={"id":"45MT","name":"PESTER","lat":48.628333,"lon":-110.469667,"elevation":3055,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

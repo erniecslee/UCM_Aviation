@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NJ0"]={"id":"4NJ0","name":"WINDWARD FARMS","lat":40.449272,"lon":-75.017669,"elevation":425,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

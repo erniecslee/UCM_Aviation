@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FD5"]={"id":"8FD5","name":"LYKES BRIGHTON","lat":27.188936,"lon":-81.087011,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

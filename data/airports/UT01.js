@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT01"]={"id":"UT01","name":"MUSSELMAN AIRSTRIP","lat":41.51825,"lon":-111.802417,"elevation":5505,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

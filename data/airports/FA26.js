@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA26"]={"id":"FA26","name":"DOGWOOD FARM","lat":30.537222,"lon":-84.451944,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

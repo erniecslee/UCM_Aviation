@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5E9"]={"id":"5E9","name":"PACKER","lat":40.407978,"lon":-83.219361,"elevation":918,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT46"]={"id":"MT46","name":"M4 STRIP","lat":46.547292,"lon":-111.889722,"elevation":4164,"region":"K1","runways":[{"id":"RW10","lat":46.548028,"lon":-111.893139,"length":1800,"course":95.6},{"id":"RW28","lat":46.546556,"lon":-111.886306,"length":1800,"course":275.6}],"procedures":{"D":{},"E":{},"F":{}}};

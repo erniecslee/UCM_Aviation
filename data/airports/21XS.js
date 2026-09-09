@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21XS"]={"id":"21XS","name":"HOUSTON AIRPARK","lat":29.519678,"lon":-95.275214,"elevation":48,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

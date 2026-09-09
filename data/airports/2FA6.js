@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FA6"]={"id":"2FA6","name":"CENTRAL FLORIDA AIRPARK","lat":28.8111,"lon":-82.065364,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MS3"]={"id":"4MS3","name":"JETER FLD","lat":34.956028,"lon":-89.394028,"elevation":520,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

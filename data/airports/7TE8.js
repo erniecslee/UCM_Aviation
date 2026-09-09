@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TE8"]={"id":"7TE8","name":"EL QUINTO RANCH","lat":28.2095,"lon":-98.833733,"elevation":365,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

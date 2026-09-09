@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77MN"]={"id":"77MN","name":"KLAMAR FLD","lat":48.371356,"lon":-95.788058,"elevation":1160,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

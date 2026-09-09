@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73FD"]={"id":"73FD","name":"BROOKINS AIR STRIP","lat":29.510794,"lon":-82.860119,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AZ2"]={"id":"6AZ2","name":"WISKY RANCH/CHEVLON","lat":34.616806,"lon":-110.627961,"elevation":6172,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

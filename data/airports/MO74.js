@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO74"]={"id":"MO74","name":"CEDAR CREEK","lat":38.919133,"lon":-92.163428,"elevation":823,"region":"K3","runways":[{"id":"RW12","lat":38.92085,"lon":-92.167628,"length":2700,"course":114.6},{"id":"RW30","lat":38.917417,"lon":-92.159225,"length":2700,"course":294.6}],"procedures":{"D":{},"E":{},"F":{}}};

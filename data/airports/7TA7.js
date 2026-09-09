@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TA7"]={"id":"7TA7","name":"FLYING M RANCH","lat":31.839894,"lon":-94.961328,"elevation":310,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

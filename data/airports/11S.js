@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11S"]={"id":"11S","name":"SEKIU","lat":48.266117,"lon":-124.313964,"elevation":355,"region":"K1","runways":[{"id":"RW08","lat":48.266861,"lon":-124.320017,"length":2997,"course":79.4},{"id":"RW26","lat":48.265372,"lon":-124.307914,"length":2997,"course":259.4}],"procedures":{"D":{},"E":{},"F":{}}};

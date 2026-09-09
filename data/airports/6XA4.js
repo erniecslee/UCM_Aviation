@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6XA4"]={"id":"6XA4","name":"ZADOW AIR","lat":29.991817,"lon":-95.954517,"elevation":250,"region":"K4","runways":[{"id":"RW17","lat":29.996378,"lon":-95.954611,"length":3320,"course":176.9},{"id":"RW35","lat":29.987253,"lon":-95.954428,"length":3320,"course":356.9}],"procedures":{"D":{},"E":{},"F":{}}};

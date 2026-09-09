@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE44"]={"id":"NE44","name":"KOINZAN","lat":41.983342,"lon":-98.083678,"elevation":1919,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

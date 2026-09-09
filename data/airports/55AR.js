@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55AR"]={"id":"55AR","name":"SILVER WINGS FLD","lat":36.429722,"lon":-93.695556,"elevation":1571,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

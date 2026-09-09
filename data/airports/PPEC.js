@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PPEC"]={"id":"PPEC","name":"PELICAN","lat":57.955172,"lon":-136.236272,"elevation":0,"region":"PP","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

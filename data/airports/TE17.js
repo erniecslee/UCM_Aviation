@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE17"]={"id":"TE17","name":"HEATHROW","lat":31.439058,"lon":-97.146947,"elevation":525,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA96"]={"id":"VA96","name":"FABER","lat":37.825419,"lon":-78.731686,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

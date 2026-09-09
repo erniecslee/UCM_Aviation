@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02MS"]={"id":"02MS","name":"WATTS FLD","lat":34.100108,"lon":-90.846772,"elevation":153,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

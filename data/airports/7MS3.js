@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MS3"]={"id":"7MS3","name":"MAIDMENT FLD","lat":34.710889,"lon":-89.719194,"elevation":370,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

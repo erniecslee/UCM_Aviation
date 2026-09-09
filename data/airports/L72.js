@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L72"]={"id":"L72","name":"TRONA","lat":35.812667,"lon":-117.326917,"elevation":1718,"region":"K2","runways":[{"id":"RW17","lat":35.820675,"lon":-117.325375,"length":5910,"course":175.0},{"id":"RW35","lat":35.804639,"lon":-117.328458,"length":5910,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

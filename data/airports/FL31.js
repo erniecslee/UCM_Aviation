@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL31"]={"id":"FL31","name":"MJD","lat":25.554553,"lon":-80.553947,"elevation":6,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

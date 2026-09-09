@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ26"]={"id":"AZ26","name":"EVELYN FLD","lat":31.369167,"lon":-110.125,"elevation":4242,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

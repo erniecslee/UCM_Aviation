@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06AR"]={"id":"06AR","name":"CY BOND MEML","lat":35.544522,"lon":-92.184875,"elevation":499,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

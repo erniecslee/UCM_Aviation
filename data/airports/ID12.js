@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID12"]={"id":"ID12","name":"RUSSELL W ANDERSON STRIP","lat":43.184358,"lon":-112.466369,"elevation":4450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

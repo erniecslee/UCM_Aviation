@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FL0"]={"id":"8FL0","name":"HUTSON AIRFIELD","lat":29.728025,"lon":-81.439797,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

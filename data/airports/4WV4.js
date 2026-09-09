@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WV4"]={"id":"4WV4","name":"HEAVEN'S LANDING AIRSTRIP","lat":39.176342,"lon":-79.068144,"elevation":1220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

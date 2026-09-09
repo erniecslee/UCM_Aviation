@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14XS"]={"id":"14XS","name":"ISBELL RANCH","lat":30.808522,"lon":-97.273886,"elevation":430,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

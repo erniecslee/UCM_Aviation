@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IL2"]={"id":"4IL2","name":"WAYNE ZILLER JR","lat":40.808367,"lon":-88.541725,"elevation":661,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["HI01"]={"id":"HI01","name":"PRINCEVILLE","lat":22.209189,"lon":-159.445533,"elevation":344,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

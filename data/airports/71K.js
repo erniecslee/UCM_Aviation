@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71K"]={"id":"71K","name":"WESTPORT","lat":37.647694,"lon":-97.383694,"elevation":1290,"region":"K3","runways":[{"id":"RW17","lat":37.651158,"lon":-97.383764,"length":2520,"course":172.0},{"id":"RW35","lat":37.644236,"lon":-97.383614,"length":2520,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

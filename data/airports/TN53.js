@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN53"]={"id":"TN53","name":"PARR FLD","lat":36.555881,"lon":-87.448344,"elevation":590,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

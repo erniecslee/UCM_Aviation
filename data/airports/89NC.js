@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89NC"]={"id":"89NC","name":"STRICKLAND FLD","lat":34.266389,"lon":-79.023611,"elevation":98,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OI8"]={"id":"4OI8","name":"BROCKER FLD","lat":41.057836,"lon":-80.754522,"elevation":1170,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

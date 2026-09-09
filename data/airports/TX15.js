@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX15"]={"id":"TX15","name":"BEGGS RANCH/ALEDO/","lat":32.751517,"lon":-97.612803,"elevation":1060,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY76"]={"id":"MY76","name":"JOHNSON'S SEA LANDING","lat":47.856094,"lon":-92.391675,"elevation":1300,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

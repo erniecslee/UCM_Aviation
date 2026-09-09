@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KSUD"]={"id":"KSUD","name":"STROUD MUNI","lat":35.789583,"lon":-96.655667,"elevation":901,"region":"K4","runways":[{"id":"RW18","lat":35.794214,"lon":-96.656242,"length":3000,"course":174.0},{"id":"RW36","lat":35.785972,"lon":-96.656239,"length":3000,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KGFD"]={"id":"KGFD","name":"POPE FLD","lat":39.790322,"lon":-85.736089,"elevation":895,"region":"K5","runways":[{"id":"RW18","lat":39.794422,"lon":-85.735253,"length":2165,"course":182.0},{"id":"RW36","lat":39.788931,"lon":-85.735253,"length":2165,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

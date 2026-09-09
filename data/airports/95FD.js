@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95FD"]={"id":"95FD","name":"SOUTH POINT","lat":26.768333,"lon":-81.538889,"elevation":22,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

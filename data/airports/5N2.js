@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5N2"]={"id":"5N2","name":"PRENTICE","lat":45.538333,"lon":-90.276336,"elevation":1579,"region":"K5","runways":[{"id":"RW09","lat":45.538456,"lon":-90.281133,"length":3134,"course":92.1},{"id":"RW27","lat":45.538175,"lon":-90.270225,"length":3134,"course":272.1}],"procedures":{"D":{},"E":{},"F":{}}};

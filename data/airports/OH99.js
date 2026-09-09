@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH99"]={"id":"OH99","name":"STRABLE LANDING STRIP","lat":41.204517,"lon":-84.496158,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

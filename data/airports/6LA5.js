@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6LA5"]={"id":"6LA5","name":"CHURCH POINT FLYERS","lat":30.454775,"lon":-92.240575,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

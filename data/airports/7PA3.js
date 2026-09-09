@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7PA3"]={"id":"7PA3","name":"CHARLES G KALKO","lat":41.705644,"lon":-75.287953,"elevation":1400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

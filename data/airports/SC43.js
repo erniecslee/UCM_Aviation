@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC43"]={"id":"SC43","name":"MOORES FLD","lat":34.593725,"lon":-82.399011,"elevation":871,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

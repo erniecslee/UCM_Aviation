@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT08"]={"id":"MT08","name":"ZORTMAN","lat":47.908333,"lon":-108.500278,"elevation":3900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

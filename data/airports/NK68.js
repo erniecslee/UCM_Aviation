@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK68"]={"id":"NK68","name":"WHITE BIRCH","lat":42.051419,"lon":-75.3166,"elevation":1860,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

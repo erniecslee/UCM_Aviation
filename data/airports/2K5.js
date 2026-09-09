@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2K5"]={"id":"2K5","name":"TELIDA","lat":63.378986,"lon":-153.284217,"elevation":650,"region":"PA","runways":[{"id":"RW02","lat":63.377397,"lon":-153.288797,"length":1900,"course":28.0},{"id":"RW20","lat":63.380572,"lon":-153.279633,"length":1900,"course":208.0}],"procedures":{"D":{},"E":{},"F":{}}};

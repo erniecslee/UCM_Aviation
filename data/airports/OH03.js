@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH03"]={"id":"OH03","name":"WOODWORTH","lat":41.792272,"lon":-81.058153,"elevation":678,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

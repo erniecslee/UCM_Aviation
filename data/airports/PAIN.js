@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAIN"]={"id":"PAIN","name":"MC KINLEY NTL PARK","lat":63.732597,"lon":-148.910639,"elevation":1720,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IN3"]={"id":"6IN3","name":"WYANDOTTE","lat":40.349167,"lon":-86.763889,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

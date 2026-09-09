@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OK6"]={"id":"8OK6","name":"GRASS STRIP","lat":35.816944,"lon":-96.873056,"elevation":933,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

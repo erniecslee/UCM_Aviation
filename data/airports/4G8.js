@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4G8"]={"id":"4G8","name":"COLUMBIA","lat":41.318681,"lon":-81.960442,"elevation":811,"region":"K5","runways":[{"id":"RW18","lat":41.322181,"lon":-81.960342,"length":3152,"course":187.0},{"id":"RW36","lat":41.314928,"lon":-81.960547,"length":3152,"course":7.0}],"procedures":{"D":{},"E":{},"F":{}}};

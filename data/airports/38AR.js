@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38AR"]={"id":"38AR","name":"WILLIAMS FLD","lat":36.118828,"lon":-94.468214,"elevation":1150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

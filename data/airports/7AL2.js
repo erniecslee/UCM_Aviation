@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AL2"]={"id":"7AL2","name":"PETERSON FLD","lat":33.864822,"lon":-86.310836,"elevation":600,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

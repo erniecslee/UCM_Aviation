@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE97"]={"id":"TE97","name":"CAMERON RANCH","lat":30.187778,"lon":-98.958333,"elevation":1760,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

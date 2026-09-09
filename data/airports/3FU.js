@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FU"]={"id":"3FU","name":"FAULKTON MUNI","lat":45.030675,"lon":-99.112872,"elevation":1571,"region":"K3","runways":[{"id":"RW31","lat":45.027389,"lon":-99.108628,"length":3249,"course":310.0}],"procedures":{"D":{},"E":{},"F":{}}};

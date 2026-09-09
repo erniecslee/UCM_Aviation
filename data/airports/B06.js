@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["B06"]={"id":"B06","name":"BASIN HARBOR","lat":44.191667,"lon":-73.358694,"elevation":124,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

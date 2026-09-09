@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND75"]={"id":"ND75","name":"PETE'S TRACTOR SALVAGE","lat":47.719997,"lon":-100.269019,"elevation":1655,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

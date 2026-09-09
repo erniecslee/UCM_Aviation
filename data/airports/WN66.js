@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN66"]={"id":"WN66","name":"CRANBERRY INTL","lat":45.851342,"lon":-89.45125,"elevation":1605,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

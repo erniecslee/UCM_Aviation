@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52FL"]={"id":"52FL","name":"LAKE CLINCH AIRPARK","lat":27.751303,"lon":-81.55915,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

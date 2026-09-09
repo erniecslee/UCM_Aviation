@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WI5"]={"id":"0WI5","name":"DOG RUN","lat":44.649797,"lon":-91.66945,"elevation":909,"region":"K5","runways":[{"id":"RW13","lat":44.650253,"lon":-91.670183,"length":506,"course":132.4},{"id":"RW31","lat":44.649342,"lon":-91.668717,"length":506,"course":312.4}],"procedures":{"D":{},"E":{},"F":{}}};

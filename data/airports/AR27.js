@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR27"]={"id":"AR27","name":"LOLLARS CREEK FARM","lat":35.938967,"lon":-93.84575,"elevation":1430,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

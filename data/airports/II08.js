@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II08"]={"id":"II08","name":"RHEUDE","lat":40.660869,"lon":-87.439744,"elevation":745,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

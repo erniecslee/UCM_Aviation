@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK28"]={"id":"AK28","name":"CHENA MARINA","lat":64.814028,"lon":-147.918556,"elevation":427,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

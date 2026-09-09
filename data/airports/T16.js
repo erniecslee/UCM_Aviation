@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T16"]={"id":"T16","name":"RESERVE","lat":33.694339,"lon":-108.849975,"elevation":6365,"region":"K2","runways":[{"id":"RW07","lat":33.692592,"lon":-108.857583,"length":4800,"course":63.0},{"id":"RW25","lat":33.696086,"lon":-108.842367,"length":4800,"course":243.0}],"procedures":{"D":{},"E":{},"F":{}}};

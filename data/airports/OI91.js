@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI91"]={"id":"OI91","name":"HAMMOND","lat":39.779722,"lon":-83.909167,"elevation":990,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

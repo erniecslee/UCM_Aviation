@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3II8"]={"id":"3II8","name":"BIRKEY PRIVATE","lat":41.442269,"lon":-86.261117,"elevation":796,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

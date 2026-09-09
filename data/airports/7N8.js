@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7N8"]={"id":"7N8","name":"BUTTER VALLEY GOLF PORT","lat":40.397439,"lon":-75.563189,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

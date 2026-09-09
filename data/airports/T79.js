@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T79"]={"id":"T79","name":"SKYWAY MANOR","lat":29.555683,"lon":-95.327092,"elevation":55,"region":"K4","runways":[{"id":"RW17","lat":29.559153,"lon":-95.327156,"length":2525,"course":173.1},{"id":"RW35","lat":29.552211,"lon":-95.327025,"length":2525,"course":353.1}],"procedures":{"D":{},"E":{},"F":{}}};

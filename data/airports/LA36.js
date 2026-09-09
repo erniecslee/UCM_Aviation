@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA36"]={"id":"LA36","name":"WHITEHALL","lat":30.079806,"lon":-90.893275,"elevation":16,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

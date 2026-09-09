@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02AL"]={"id":"02AL","name":"BASS FLD","lat":30.371464,"lon":-87.764444,"elevation":61,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

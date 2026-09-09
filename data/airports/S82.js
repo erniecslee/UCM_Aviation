@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S82"]={"id":"S82","name":"KOOSKIA MUNI","lat":46.132672,"lon":-115.978753,"elevation":1263,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

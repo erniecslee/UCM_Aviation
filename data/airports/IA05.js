@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA05"]={"id":"IA05","name":"YAW-HOO FLD","lat":40.854197,"lon":-95.085928,"elevation":1248,"region":"K3","runways":[{"id":"RW09","lat":40.854175,"lon":-95.089992,"length":2250,"course":88.3},{"id":"RW27","lat":40.854208,"lon":-95.081861,"length":2250,"course":268.3}],"procedures":{"D":{},"E":{},"F":{}}};

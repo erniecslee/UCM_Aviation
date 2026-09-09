@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA19"]={"id":"OA19","name":"CLOVER FIELDS","lat":40.8901,"lon":-81.312136,"elevation":1144,"region":"K5","runways":[{"id":"RW03","lat":40.887958,"lon":-81.313758,"length":1800,"course":38.4},{"id":"RW21","lat":40.892242,"lon":-81.310514,"length":1800,"course":218.4}],"procedures":{"D":{},"E":{},"F":{}}};

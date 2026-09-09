@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90XA"]={"id":"90XA","name":"TG FARMS","lat":29.437778,"lon":-98.113056,"elevation":555,"region":"K4","runways":[{"id":"RW18","lat":29.44,"lon":-98.113056,"length":1616,"course":176.7},{"id":"RW36","lat":29.435556,"lon":-98.113056,"length":1616,"course":356.7}],"procedures":{"D":{},"E":{},"F":{}}};

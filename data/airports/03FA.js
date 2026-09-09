@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03FA"]={"id":"03FA","name":"LAKE PERSIMMON AIRSTRIP","lat":27.353097,"lon":-81.408128,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

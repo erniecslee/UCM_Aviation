@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY41"]={"id":"WY41","name":"5 SPRINGS","lat":44.774603,"lon":-108.168128,"elevation":3682,"region":"K1","runways":[{"id":"RW12","lat":44.776303,"lon":-108.172083,"length":2400,"course":111.4},{"id":"RW30","lat":44.7729,"lon":-108.164172,"length":2400,"course":291.4}],"procedures":{"D":{},"E":{},"F":{}}};

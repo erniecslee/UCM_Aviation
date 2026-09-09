@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OH1"]={"id":"1OH1","name":"OHIO AIR SPRAY","lat":40.301442,"lon":-83.97605,"elevation":1057,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

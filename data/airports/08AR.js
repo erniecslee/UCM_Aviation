@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08AR"]={"id":"08AR","name":"GARRISON","lat":33.723611,"lon":-94.145278,"elevation":329,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

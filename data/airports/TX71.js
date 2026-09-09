@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX71"]={"id":"TX71","name":"ROCK CREEK RANCH","lat":32.968639,"lon":-98.011889,"elevation":1130,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK27"]={"id":"NK27","name":"HEDGE HOP FLD","lat":42.48895,"lon":-78.634747,"elevation":1400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

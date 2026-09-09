@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE24"]={"id":"TE24","name":"HORSESHOE LAKE","lat":33.393169,"lon":-97.205292,"elevation":725,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

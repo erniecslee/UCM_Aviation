@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55OL"]={"id":"55OL","name":"HIGLEY FLD","lat":35.780431,"lon":-97.568392,"elevation":1080,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

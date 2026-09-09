@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TS7"]={"id":"8TS7","name":"WYATT 3-RIVERS","lat":32.244867,"lon":-97.726139,"elevation":615,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

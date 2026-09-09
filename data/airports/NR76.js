@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR76"]={"id":"NR76","name":"BARKER FLD","lat":35.230331,"lon":-78.707181,"elevation":105,"region":"K7","runways":[{"id":"RW12","lat":35.231069,"lon":-78.709161,"length":1300,"course":123.7},{"id":"RW30","lat":35.229592,"lon":-78.705197,"length":1300,"course":303.7}],"procedures":{"D":{},"E":{},"F":{}}};

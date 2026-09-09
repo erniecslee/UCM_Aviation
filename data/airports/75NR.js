@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75NR"]={"id":"75NR","name":"HAMPTONVILLE","lat":36.092014,"lon":-80.788975,"elevation":1028,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

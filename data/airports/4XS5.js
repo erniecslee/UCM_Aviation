@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4XS5"]={"id":"4XS5","name":"SCRAPPIN VALLEY","lat":31.121858,"lon":-93.802958,"elevation":350,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX52"]={"id":"TX52","name":"PARRISH AIRSTRIP","lat":31.7946,"lon":-97.773914,"elevation":917,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

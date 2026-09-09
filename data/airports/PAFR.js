@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAFR"]={"id":"PAFR","name":"BRYANT AAF","lat":61.2659,"lon":-149.653308,"elevation":387,"region":"PA","runways":[{"id":"RW18","lat":61.271381,"lon":-149.651019,"length":4088,"course":176.0},{"id":"RW36","lat":61.262214,"lon":-149.654844,"length":4088,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

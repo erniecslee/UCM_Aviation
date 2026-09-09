@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W52"]={"id":"W52","name":"GOHEEN","lat":45.826797,"lon":-122.576856,"elevation":292,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

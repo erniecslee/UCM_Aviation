@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6GE2"]={"id":"6GE2","name":"RAINBOW FLD","lat":32.832778,"lon":-84.537778,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

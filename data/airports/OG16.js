@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG16"]={"id":"OG16","name":"JIM'S AIRSTRIP","lat":44.382622,"lon":-123.21315,"elevation":275,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

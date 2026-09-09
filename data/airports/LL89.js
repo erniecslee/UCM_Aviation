@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL89"]={"id":"LL89","name":"BLACKHAWK FARMS RACEWAY LLC","lat":42.487236,"lon":-89.107889,"elevation":759,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

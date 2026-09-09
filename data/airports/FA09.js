@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA09"]={"id":"FA09","name":"RELUCTANT GREMLIN","lat":29.340806,"lon":-82.263708,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

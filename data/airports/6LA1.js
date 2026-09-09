@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6LA1"]={"id":"6LA1","name":"COTTONWOOD","lat":32.984014,"lon":-91.205944,"elevation":120,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

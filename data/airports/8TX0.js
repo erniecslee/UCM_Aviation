@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TX0"]={"id":"8TX0","name":"HUB FLD","lat":31.430653,"lon":-96.134619,"elevation":346,"region":"K4","runways":[{"id":"RW18","lat":31.436125,"lon":-96.134019,"length":5017,"course":183.0},{"id":"RW36","lat":31.423789,"lon":-96.135372,"length":5017,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

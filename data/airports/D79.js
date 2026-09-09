@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D79"]={"id":"D79","name":"DART","lat":42.268114,"lon":-79.481714,"elevation":1330,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

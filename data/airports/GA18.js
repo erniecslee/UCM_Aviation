@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA18"]={"id":"GA18","name":"BIG CREEK FLYING RANCH","lat":34.832869,"lon":-83.409606,"elevation":1650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

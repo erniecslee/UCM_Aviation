@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN3"]={"id":"IN3","name":"POSEY PATCH","lat":37.902592,"lon":-87.790436,"elevation":374,"region":"K5","runways":[{"id":"RW09","lat":37.902583,"lon":-87.791753,"length":1300,"course":90.0},{"id":"RW27","lat":37.902603,"lon":-87.788183,"length":1300,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

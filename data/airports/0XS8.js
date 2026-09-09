@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0XS8"]={"id":"0XS8","name":"DUNBAR RANCH","lat":29.076075,"lon":-100.375353,"elevation":958,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

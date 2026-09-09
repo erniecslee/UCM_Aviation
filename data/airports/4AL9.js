@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AL9"]={"id":"4AL9","name":"T W SPEAR MEML","lat":31.974722,"lon":-86.293889,"elevation":438,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

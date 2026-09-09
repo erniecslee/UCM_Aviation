@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47MN"]={"id":"47MN","name":"SONS PRIVATE-COMMERCIAL","lat":44.705325,"lon":-93.854372,"elevation":1000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

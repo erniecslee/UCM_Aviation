@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NY2"]={"id":"4NY2","name":"EDO","lat":40.783433,"lon":-73.866247,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

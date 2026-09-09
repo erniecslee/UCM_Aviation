@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39FD"]={"id":"39FD","name":"ANCIENT OAKS","lat":29.729392,"lon":-83.353472,"elevation":16,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

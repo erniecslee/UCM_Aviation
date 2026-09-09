@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND56"]={"id":"ND56","name":"RUSTAD","lat":47.689056,"lon":-101.879314,"elevation":2002,"region":"K3","runways":[{"id":"RW08","lat":47.689072,"lon":-101.885417,"length":3400,"course":83.8},{"id":"RW26","lat":47.689044,"lon":-101.87325,"length":3400,"course":263.9}],"procedures":{"D":{},"E":{},"F":{}}};

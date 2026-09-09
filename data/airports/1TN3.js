@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TN3"]={"id":"1TN3","name":"WAGNER FLD","lat":35.139667,"lon":-86.222167,"elevation":975,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

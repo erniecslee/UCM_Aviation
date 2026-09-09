@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TE7"]={"id":"6TE7","name":"MC NEILL RANCH","lat":34.837556,"lon":-101.578789,"elevation":3413,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

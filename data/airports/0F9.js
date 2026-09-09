@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0F9"]={"id":"0F9","name":"TISHOMINGO AIRPARK","lat":34.1985,"lon":-96.6745,"elevation":647,"region":"K4","runways":[{"id":"RW17","lat":34.202742,"lon":-96.674492,"length":3100,"course":174.0},{"id":"RW35","lat":34.194228,"lon":-96.6745,"length":3100,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

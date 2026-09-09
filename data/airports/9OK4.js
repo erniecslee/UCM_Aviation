@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OK4"]={"id":"9OK4","name":"TOMAHAWK","lat":34.115975,"lon":-96.311025,"elevation":718,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

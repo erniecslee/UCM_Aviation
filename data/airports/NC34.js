@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC34"]={"id":"NC34","name":"MILES","lat":35.978922,"lon":-79.126861,"elevation":580,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

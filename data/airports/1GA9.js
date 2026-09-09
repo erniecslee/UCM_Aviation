@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GA9"]={"id":"1GA9","name":"AERIE","lat":33.761506,"lon":-83.652672,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

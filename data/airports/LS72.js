@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS72"]={"id":"LS72","name":"AEROLITE AERO PARK","lat":30.202986,"lon":-92.812089,"elevation":13,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

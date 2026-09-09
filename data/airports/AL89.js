@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL89"]={"id":"AL89","name":"SOMMERSET STRIP","lat":32.718742,"lon":-85.366892,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

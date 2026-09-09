@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K94"]={"id":"K94","name":"RUSH COUNTY","lat":38.546819,"lon":-99.28975,"elevation":2076,"region":"K3","runways":[{"id":"RW17","lat":38.551219,"lon":-99.289836,"length":3200,"course":174.9},{"id":"RW35","lat":38.542433,"lon":-99.289661,"length":3200,"course":354.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19TN"]={"id":"19TN","name":"FERRARACCIO FLD","lat":36.499444,"lon":-87.190278,"elevation":620,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

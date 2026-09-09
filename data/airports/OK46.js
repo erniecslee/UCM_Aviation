@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK46"]={"id":"OK46","name":"MC CRAYS","lat":36.958914,"lon":-98.075342,"elevation":1260,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

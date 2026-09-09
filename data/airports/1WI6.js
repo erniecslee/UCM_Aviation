@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WI6"]={"id":"1WI6","name":"AERO ESTATES","lat":42.840294,"lon":-88.063975,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

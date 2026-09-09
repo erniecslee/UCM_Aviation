@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4K0"]={"id":"4K0","name":"PEDRO BAY","lat":59.796944,"lon":-154.129972,"elevation":84,"region":"PA","runways":[{"id":"RW09","lat":59.798403,"lon":-154.1376,"length":3002,"course":89.0},{"id":"RW27","lat":59.795506,"lon":-154.12235,"length":3002,"course":269.0}],"procedures":{"D":{},"E":{},"F":{}}};

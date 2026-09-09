@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL28"]={"id":"FL28","name":"STATE PRISON FLD","lat":30.055794,"lon":-82.172331,"elevation":123,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

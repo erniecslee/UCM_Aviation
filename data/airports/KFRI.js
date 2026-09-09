@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KFRI"]={"id":"KFRI","name":"MARSHALL AAF","lat":39.052639,"lon":-96.764508,"elevation":1066,"region":"K3","runways":[{"id":"RW04","lat":39.048681,"lon":-96.770575,"length":4503,"course":44.0},{"id":"RW22","lat":39.0566,"lon":-96.7584,"length":4503,"course":224.0}],"procedures":{"D":{},"E":{},"F":{}}};

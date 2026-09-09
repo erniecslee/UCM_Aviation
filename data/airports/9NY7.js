@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NY7"]={"id":"9NY7","name":"HINES FLD","lat":43.032853,"lon":-74.150964,"elevation":925,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32KS"]={"id":"32KS","name":"WILKENS","lat":38.593072,"lon":-100.613475,"elevation":2856,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

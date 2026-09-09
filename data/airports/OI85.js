@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI85"]={"id":"OI85","name":"BEAM FARMS","lat":39.501931,"lon":-83.711872,"elevation":1095,"region":"K5","runways":[{"id":"RW05","lat":39.498731,"lon":-83.716011,"length":3300,"course":51.8},{"id":"RW23","lat":39.505128,"lon":-83.707731,"length":3300,"course":231.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC44"]={"id":"SC44","name":"EL PORVENIR AIRPARK","lat":34.128764,"lon":-80.547303,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

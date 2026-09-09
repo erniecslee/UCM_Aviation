@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94E"]={"id":"94E","name":"WHISKEY CREEK","lat":32.762019,"lon":-108.208381,"elevation":6126,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

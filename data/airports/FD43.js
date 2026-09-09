@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD43"]={"id":"FD43","name":"SUMMER LAKES","lat":28.5275,"lon":-81.480833,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

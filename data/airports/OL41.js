@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL41"]={"id":"OL41","name":"LOBO FLD","lat":34.908092,"lon":-96.243619,"elevation":792,"region":"K4","runways":[{"id":"RW18","lat":34.910778,"lon":-96.243517,"length":1956,"course":179.6},{"id":"RW36","lat":34.905406,"lon":-96.243725,"length":1956,"course":359.6}],"procedures":{"D":{},"E":{},"F":{}}};

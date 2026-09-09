@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14XA"]={"id":"14XA","name":"FROG POND","lat":33.658019,"lon":-96.788158,"elevation":686,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

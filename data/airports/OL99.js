@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL99"]={"id":"OL99","name":"LOOKOUT","lat":59.701383,"lon":-151.498389,"elevation":1208,"region":"PA","runways":[{"id":"RW09","lat":59.701844,"lon":-151.501517,"length":1204,"course":92.8},{"id":"RW27","lat":59.700919,"lon":-151.495261,"length":1204,"course":272.8}],"procedures":{"D":{},"E":{},"F":{}}};

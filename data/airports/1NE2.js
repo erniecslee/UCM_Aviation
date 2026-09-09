@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NE2"]={"id":"1NE2","name":"WITTHUHN","lat":41.325006,"lon":-99.917067,"elevation":2700,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

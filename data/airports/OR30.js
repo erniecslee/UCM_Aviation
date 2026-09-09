@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR30"]={"id":"OR30","name":"D M STEVENSON RANCH","lat":44.003172,"lon":-121.271972,"elevation":3800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

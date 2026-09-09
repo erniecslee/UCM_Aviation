@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I08"]={"id":"I08","name":"CABIN CREEK USFS","lat":45.143525,"lon":-114.928989,"elevation":4289,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

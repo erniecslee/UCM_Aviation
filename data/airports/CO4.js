@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO4"]={"id":"CO4","name":"COLORADO SPRINGS EAST","lat":38.87425,"lon":-104.409844,"elevation":6145,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

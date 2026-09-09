@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK1"]={"id":"0AK1","name":"ANDERSON LAKE","lat":61.616881,"lon":-149.321539,"elevation":463,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

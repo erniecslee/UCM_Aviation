@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06OH"]={"id":"06OH","name":"HAL JOY AIRFIELD","lat":41.509775,"lon":-80.591186,"elevation":1160,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

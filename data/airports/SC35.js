@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC35"]={"id":"SC35","name":"EHRHARDT","lat":33.089606,"lon":-81.008158,"elevation":146,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

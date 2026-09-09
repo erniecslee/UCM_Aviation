@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AK5"]={"id":"7AK5","name":"DAHLER HOMESTEAD","lat":60.503597,"lon":-150.93555,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

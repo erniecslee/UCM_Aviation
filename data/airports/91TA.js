@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91TA"]={"id":"91TA","name":"RHINES ROOST","lat":32.445972,"lon":-95.918856,"elevation":540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

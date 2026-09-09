@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N16"]={"id":"N16","name":"CENTRE AIRPARK","lat":40.811731,"lon":-77.657219,"elevation":1307,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

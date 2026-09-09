@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SD7"]={"id":"2SD7","name":"DANGEL","lat":43.333317,"lon":-97.062831,"elevation":1284,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

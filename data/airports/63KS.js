@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63KS"]={"id":"63KS","name":"HEINEN","lat":39.779367,"lon":-96.004128,"elevation":1318,"region":"K3","runways":[{"id":"RW18","lat":39.782522,"lon":-96.004133,"length":2300,"course":177.8},{"id":"RW36","lat":39.776208,"lon":-96.004122,"length":2300,"course":357.8}],"procedures":{"D":{},"E":{},"F":{}}};

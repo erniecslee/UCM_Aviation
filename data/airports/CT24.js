@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT24"]={"id":"CT24","name":"NORTH CANAAN AVIATION FACILITI","lat":42.045369,"lon":-73.338728,"elevation":658,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

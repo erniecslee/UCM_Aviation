@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F30"]={"id":"F30","name":"SULPHUR MUNI","lat":34.527044,"lon":-96.990189,"elevation":1071,"region":"K4","runways":[{"id":"RW17","lat":34.531853,"lon":-96.990194,"length":3500,"course":172.9},{"id":"RW35","lat":34.522236,"lon":-96.990181,"length":3500,"course":352.9}],"procedures":{"D":{},"E":{},"F":{}}};

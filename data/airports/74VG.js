@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74VG"]={"id":"74VG","name":"TIDES INN","lat":37.658214,"lon":-76.436489,"elevation":0,"region":"K6","runways":[{"id":"RW03W","lat":37.6531,"lon":-76.439242,"length":4052,"course":34.0},{"id":"RW21W","lat":37.663331,"lon":-76.433736,"length":4052,"course":214.0}],"procedures":{"D":{},"E":{},"F":{}}};

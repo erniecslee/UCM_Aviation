@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13IN"]={"id":"13IN","name":"GAGE","lat":40.815325,"lon":-84.927744,"elevation":814,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

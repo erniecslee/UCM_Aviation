@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45S"]={"id":"45S","name":"SILVER LAKE F S STRIP","lat":43.110972,"lon":-121.094167,"elevation":4492,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

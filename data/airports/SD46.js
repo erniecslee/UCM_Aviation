@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD46"]={"id":"SD46","name":"JENSEN","lat":43.830297,"lon":-96.839778,"elevation":1520,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

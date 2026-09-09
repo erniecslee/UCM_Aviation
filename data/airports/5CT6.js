@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CT6"]={"id":"5CT6","name":"BUELL FARM","lat":41.919528,"lon":-72.118417,"elevation":670,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

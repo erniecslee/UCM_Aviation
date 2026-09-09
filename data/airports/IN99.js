@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN99"]={"id":"IN99","name":"DONICA FLD","lat":39.406714,"lon":-86.305547,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

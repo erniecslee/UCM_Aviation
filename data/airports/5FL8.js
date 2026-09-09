@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FL8"]={"id":"5FL8","name":"CHIPOLA AIRPARK","lat":30.888244,"lon":-85.167708,"elevation":125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

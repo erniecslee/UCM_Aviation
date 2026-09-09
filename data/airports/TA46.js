@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA46"]={"id":"TA46","name":"BAUM","lat":32.562636,"lon":-96.401094,"elevation":500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

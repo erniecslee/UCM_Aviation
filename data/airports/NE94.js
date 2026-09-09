@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE94"]={"id":"NE94","name":"FEIK FLD","lat":40.556781,"lon":-97.209544,"elevation":1567,"region":"K3","runways":[{"id":"RW09","lat":40.556772,"lon":-97.210981,"length":800,"course":87.0},{"id":"RW27","lat":40.556775,"lon":-97.2081,"length":800,"course":267.0}],"procedures":{"D":{},"E":{},"F":{}}};

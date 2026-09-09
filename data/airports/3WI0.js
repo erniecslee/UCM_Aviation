@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI0"]={"id":"3WI0","name":"CARNOT FLD","lat":44.642222,"lon":-87.419814,"elevation":655,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

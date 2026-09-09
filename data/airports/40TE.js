@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40TE"]={"id":"40TE","name":"SYBERT FARM","lat":30.788672,"lon":-97.655694,"elevation":837,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

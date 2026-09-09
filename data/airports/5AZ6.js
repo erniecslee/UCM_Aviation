@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AZ6"]={"id":"5AZ6","name":"MOTOWN","lat":32.925,"lon":-112.259444,"elevation":1600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

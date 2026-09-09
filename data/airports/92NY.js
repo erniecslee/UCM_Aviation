@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92NY"]={"id":"92NY","name":"BLOECHER FARM","lat":42.752006,"lon":-78.461408,"elevation":1430,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

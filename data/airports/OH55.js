@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH55"]={"id":"OH55","name":"ROD'S SOD","lat":39.392722,"lon":-81.67205,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

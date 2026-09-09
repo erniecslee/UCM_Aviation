@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY70"]={"id":"NY70","name":"SCOTT'S SKY RANCH","lat":42.648889,"lon":-77.920278,"elevation":1221,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI2"]={"id":"9WI2","name":"FLYING DOLLAR RANCH","lat":44.287494,"lon":-87.795925,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

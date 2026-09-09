@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01PA"]={"id":"01PA","name":"POWELL KAISER","lat":40.362486,"lon":-79.165481,"elevation":1500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

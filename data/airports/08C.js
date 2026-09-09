@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08C"]={"id":"08C","name":"RIVERVIEW","lat":42.936722,"lon":-85.805753,"elevation":603,"region":"K5","runways":[{"id":"RW14","lat":42.940789,"lon":-85.810547,"length":3920,"course":144.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK91"]={"id":"OK91","name":"MALCOM FARM","lat":34.643097,"lon":-98.044017,"elevation":1150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

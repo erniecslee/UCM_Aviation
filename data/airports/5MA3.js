@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MA3"]={"id":"5MA3","name":"PASPORT","lat":42.187594,"lon":-72.143133,"elevation":1010,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FD7"]={"id":"4FD7","name":"FLANDERS FLD","lat":28.206403,"lon":-81.827856,"elevation":131,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

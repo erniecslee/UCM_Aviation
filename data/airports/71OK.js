@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71OK"]={"id":"71OK","name":"NEUWIRTH AIRSTRIP","lat":34.576211,"lon":-98.483,"elevation":1185,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

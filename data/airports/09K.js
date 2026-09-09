@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09K"]={"id":"09K","name":"SARGENT MUNI","lat":41.634917,"lon":-99.342139,"elevation":2313,"region":"K3","runways":[{"id":"RW16","lat":41.638967,"lon":-99.343047,"length":3000,"course":163.0},{"id":"RW34","lat":41.630842,"lon":-99.341239,"length":3000,"course":343.0}],"procedures":{"D":{},"E":{},"F":{}}};

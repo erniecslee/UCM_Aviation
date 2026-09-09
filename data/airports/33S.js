@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33S"]={"id":"33S","name":"PRU FLD","lat":47.123453,"lon":-118.389328,"elevation":1801,"region":"K1","runways":[{"id":"RW01","lat":47.119292,"lon":-118.392547,"length":3433,"course":9.0},{"id":"RW19","lat":47.125628,"lon":-118.387647,"length":3433,"course":189.0}],"procedures":{"D":{},"E":{},"F":{}}};

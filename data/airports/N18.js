@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N18"]={"id":"N18","name":"TINAK","lat":7.133333,"lon":171.916667,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

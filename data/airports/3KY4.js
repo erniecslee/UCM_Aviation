@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KY4"]={"id":"3KY4","name":"CRAW DADDY LANDING","lat":38.672778,"lon":-85.182778,"elevation":460,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

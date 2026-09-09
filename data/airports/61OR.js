@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61OR"]={"id":"61OR","name":"THE CITADEL","lat":44.334839,"lon":-121.355319,"elevation":3077,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

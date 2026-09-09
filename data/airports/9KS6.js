@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9KS6"]={"id":"9KS6","name":"LUNDGREN ANGUS RANCH","lat":38.809375,"lon":-100.5707,"elevation":2600,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KY9"]={"id":"3KY9","name":"MILES FLD","lat":38.121983,"lon":-85.126372,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

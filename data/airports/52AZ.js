@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52AZ"]={"id":"52AZ","name":"X-1 RANCH UPPER HEADQUARTERS","lat":35.383333,"lon":-113.300761,"elevation":5585,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAKD"]={"id":"PAKD","name":"KODIAK MUNI","lat":57.805917,"lon":-152.373842,"elevation":139,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

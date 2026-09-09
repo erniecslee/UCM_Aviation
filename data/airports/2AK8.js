@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK8"]={"id":"2AK8","name":"ICY CAPE AFS","lat":70.292489,"lon":-161.903333,"elevation":48,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

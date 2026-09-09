@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN50"]={"id":"MN50","name":"ARTHUR FLD","lat":48.370244,"lon":-95.80695,"elevation":1150,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

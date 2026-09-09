@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA16"]={"id":"IA16","name":"PICAYUNE","lat":41.70835,"lon":-91.500169,"elevation":800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

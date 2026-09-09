@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA23"]={"id":"IA23","name":"GAA PRIVATE","lat":42.808878,"lon":-91.098183,"elevation":620,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

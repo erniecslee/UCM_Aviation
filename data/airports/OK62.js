@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK62"]={"id":"OK62","name":"STRADER RANCH","lat":34.248703,"lon":-97.209181,"elevation":850,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

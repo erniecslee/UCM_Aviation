@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59AS"]={"id":"59AS","name":"BECKER FLD","lat":45.850669,"lon":-122.544514,"elevation":1720,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

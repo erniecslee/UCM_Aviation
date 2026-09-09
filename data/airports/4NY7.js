@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NY7"]={"id":"4NY7","name":"SOUTH CAIRO","lat":42.329167,"lon":-73.960833,"elevation":400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

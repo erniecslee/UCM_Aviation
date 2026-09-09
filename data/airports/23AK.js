@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23AK"]={"id":"23AK","name":"YUKNIS","lat":61.594081,"lon":-149.310731,"elevation":340,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

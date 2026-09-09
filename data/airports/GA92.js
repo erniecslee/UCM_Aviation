@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA92"]={"id":"GA92","name":"BECK FLD","lat":33.519444,"lon":-84.514444,"elevation":990,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

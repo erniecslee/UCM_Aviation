@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y73"]={"id":"Y73","name":"STAMBAUGH","lat":46.078819,"lon":-88.6355,"elevation":1618,"region":"K5","runways":[{"id":"RW17","lat":46.081528,"lon":-88.636111,"length":2000,"course":173.1},{"id":"RW35","lat":46.076111,"lon":-88.634889,"length":2000,"course":353.1}],"procedures":{"D":{},"E":{},"F":{}}};

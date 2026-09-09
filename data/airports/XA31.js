@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA31"]={"id":"XA31","name":"LEWIS RANCH","lat":29.816886,"lon":-99.787839,"elevation":1730,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

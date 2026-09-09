@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16MI"]={"id":"16MI","name":"BARNSTORMERS 5","lat":42.889167,"lon":-83.866625,"elevation":823,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AR4"]={"id":"1AR4","name":"MCALISTER AIRPARK","lat":36.162222,"lon":-93.607222,"elevation":1300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

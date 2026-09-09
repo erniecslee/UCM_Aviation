@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC66"]={"id":"SC66","name":"FULTON FLD","lat":35.064958,"lon":-81.886528,"elevation":836,"region":"K7","runways":[{"id":"RW08","lat":35.063722,"lon":-81.889917,"length":2219,"course":73.5},{"id":"RW26","lat":35.066194,"lon":-81.883139,"length":2219,"course":253.5}],"procedures":{"D":{},"E":{},"F":{}}};

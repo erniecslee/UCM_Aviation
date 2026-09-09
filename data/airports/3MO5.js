@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MO5"]={"id":"3MO5","name":"NIMSICK","lat":37.128344,"lon":-94.216508,"elevation":1096,"region":"K3","runways":[{"id":"RW18","lat":37.131914,"lon":-94.216403,"length":2600,"course":177.4},{"id":"RW36","lat":37.124775,"lon":-94.216614,"length":2600,"course":357.4}],"procedures":{"D":{},"E":{},"F":{}}};

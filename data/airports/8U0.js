@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8U0"]={"id":"8U0","name":"RYEGATE","lat":46.290472,"lon":-109.247694,"elevation":3689,"region":"K1","runways":[{"id":"RW07","lat":46.290272,"lon":-109.254481,"length":3440,"course":73.0},{"id":"RW25","lat":46.290647,"lon":-109.240881,"length":3440,"course":253.0}],"procedures":{"D":{},"E":{},"F":{}}};

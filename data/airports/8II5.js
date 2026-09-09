@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8II5"]={"id":"8II5","name":"HOLT FLD","lat":40.899492,"lon":-84.999967,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

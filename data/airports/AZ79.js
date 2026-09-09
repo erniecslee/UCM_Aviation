@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ79"]={"id":"AZ79","name":"AIRSCREW PERFORMANCE FLIGHTPAR","lat":33.530042,"lon":-112.216542,"elevation":1112,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

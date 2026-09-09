@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73S"]={"id":"73S","name":"WILLARD FLD","lat":47.235533,"lon":-117.04375,"elevation":2520,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

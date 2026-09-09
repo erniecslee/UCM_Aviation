@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32CO"]={"id":"32CO","name":"BRAUN","lat":38.455278,"lon":-105.083875,"elevation":5543,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

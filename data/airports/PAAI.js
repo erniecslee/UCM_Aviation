@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAI"]={"id":"PAAI","name":"LEVELOCK","lat":59.127083,"lon":-156.859889,"elevation":56,"region":"PA","runways":[{"id":"RW01","lat":59.123031,"lon":-156.863722,"length":3284,"course":8.0},{"id":"RW19","lat":59.131108,"lon":-156.856067,"length":3284,"course":188.0}],"procedures":{"D":{},"E":{},"F":{}}};

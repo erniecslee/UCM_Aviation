@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54MO"]={"id":"54MO","name":"HERRMANN-FAULK AIRFIELD","lat":39.142617,"lon":-90.9588,"elevation":816,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

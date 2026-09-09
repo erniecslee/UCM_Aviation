@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA1"]={"id":"FA1","name":"TAVARES","lat":28.800556,"lon":-81.727778,"elevation":63,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

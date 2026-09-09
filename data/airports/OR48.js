@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR48"]={"id":"OR48","name":"PLACER","lat":42.627194,"lon":-123.322806,"elevation":1380,"region":"K1","runways":[{"id":"RW03","lat":42.625333,"lon":-123.325536,"length":2000,"course":33.3},{"id":"RW21","lat":42.629053,"lon":-123.320072,"length":2000,"course":213.3}],"procedures":{"D":{},"E":{},"F":{}}};

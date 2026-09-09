@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE20"]={"id":"NE20","name":"BERNADT","lat":40.186111,"lon":-96.211397,"elevation":1290,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

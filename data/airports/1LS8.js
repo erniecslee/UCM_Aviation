@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LS8"]={"id":"1LS8","name":"SUMMERELL","lat":31.682108,"lon":-91.498731,"elevation":64,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

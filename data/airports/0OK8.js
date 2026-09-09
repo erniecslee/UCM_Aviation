@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OK8"]={"id":"0OK8","name":"RAMEY 1","lat":34.614167,"lon":-98.023333,"elevation":1204,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

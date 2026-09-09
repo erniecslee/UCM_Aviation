@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91WA"]={"id":"91WA","name":"CHRISTENSEN BROS WAHLUKE STRIP","lat":46.708189,"lon":-119.80115,"elevation":840,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

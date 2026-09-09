@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44A"]={"id":"44A","name":"ROLLE AIRFIELD","lat":32.516306,"lon":-114.698389,"elevation":163,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

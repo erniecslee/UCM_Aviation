@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U54"]={"id":"U54","name":"BERNARD USFS","lat":44.979636,"lon":-114.734814,"elevation":3626,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

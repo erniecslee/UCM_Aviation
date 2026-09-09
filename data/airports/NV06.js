@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV06"]={"id":"NV06","name":"SOLDIER MEADOW NR 1","lat":41.382675,"lon":-119.169078,"elevation":4494,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

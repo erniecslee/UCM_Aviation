@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25TA"]={"id":"25TA","name":"FERRIS","lat":29.836614,"lon":-94.967428,"elevation":35,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

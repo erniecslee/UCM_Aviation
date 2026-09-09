@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA11"]={"id":"VA11","name":"WHITE OAK STAND","lat":36.807892,"lon":-81.701231,"elevation":2100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

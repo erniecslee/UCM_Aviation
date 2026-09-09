@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64ND"]={"id":"64ND","name":"Z P FLD","lat":46.850828,"lon":-101.075414,"elevation":1840,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

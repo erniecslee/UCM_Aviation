@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59TN"]={"id":"59TN","name":"WYNNBURG","lat":36.324933,"lon":-89.469972,"elevation":289,"region":"K7","runways":[{"id":"RW08","lat":36.324464,"lon":-89.473319,"length":2000,"course":82.6},{"id":"RW26","lat":36.325403,"lon":-89.466628,"length":2000,"course":262.6}],"procedures":{"D":{},"E":{},"F":{}}};

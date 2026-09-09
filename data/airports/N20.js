@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N20"]={"id":"N20","name":"INE","lat":7.016667,"lon":171.483333,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

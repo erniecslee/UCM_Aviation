@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD33"]={"id":"SD33","name":"SKY RANCH FOR BOYS","lat":45.499994,"lon":-104.000489,"elevation":3200,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

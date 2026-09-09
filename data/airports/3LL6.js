@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LL6"]={"id":"3LL6","name":"BICKEL","lat":38.335,"lon":-89.769722,"elevation":530,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

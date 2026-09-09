@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WI7"]={"id":"8WI7","name":"FLYING FLOATS BASE","lat":45.864622,"lon":-89.143983,"elevation":1628,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

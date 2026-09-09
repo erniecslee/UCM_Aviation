@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KBYS"]={"id":"KBYS","name":"BICYCLE LAKE AAF","lat":35.280531,"lon":-116.630031,"elevation":2350,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23KS"]={"id":"23KS","name":"KENTUCKY CREEK LANDING","lat":38.510683,"lon":-97.596833,"elevation":1428,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

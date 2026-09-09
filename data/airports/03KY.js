@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03KY"]={"id":"03KY","name":"FLYING H FARMS","lat":37.795903,"lon":-87.538789,"elevation":385,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

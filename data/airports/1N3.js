@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1N3"]={"id":"1N3","name":"ALBERT","lat":40.971689,"lon":-78.242981,"elevation":1784,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

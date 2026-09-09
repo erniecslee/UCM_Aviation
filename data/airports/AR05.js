@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR05"]={"id":"AR05","name":"JOHN HARRIS FLD","lat":35.215919,"lon":-93.3049,"elevation":1770,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

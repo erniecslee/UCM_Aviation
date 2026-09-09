@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA23"]={"id":"WA23","name":"PINE BLUFF","lat":48.021003,"lon":-117.738569,"elevation":2021,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

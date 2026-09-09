@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E75"]={"id":"E75","name":"PRESQUE ISLE","lat":42.170939,"lon":-80.111661,"elevation":571,"region":"K6","runways":[{"id":"RW06W","lat":42.169986,"lon":-80.11505,"length":2830,"course":74.7},{"id":"RW24W","lat":42.173231,"lon":-80.105564,"length":2830,"course":254.7}],"procedures":{"D":{},"E":{},"F":{}}};

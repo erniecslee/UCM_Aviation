@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13MT"]={"id":"13MT","name":"SORENSON","lat":48.520825,"lon":-110.113267,"elevation":2873,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

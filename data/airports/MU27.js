@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU27"]={"id":"MU27","name":"WOODFIELD AIRPARK INC","lat":37.468103,"lon":-93.929381,"elevation":1050,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

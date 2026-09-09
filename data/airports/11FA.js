@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11FA"]={"id":"11FA","name":"B & L FARMS","lat":25.583719,"lon":-80.499781,"elevation":9,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

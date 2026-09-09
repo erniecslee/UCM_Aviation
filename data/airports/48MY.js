@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48MY"]={"id":"48MY","name":"BOSCH FARM","lat":45.118669,"lon":-95.577797,"elevation":1035,"region":"K3","runways":[{"id":"RW09","lat":45.118678,"lon":-95.581283,"length":1800,"course":88.6},{"id":"RW27","lat":45.118661,"lon":-95.574308,"length":1800,"course":268.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24FL"]={"id":"24FL","name":"GARCON FLD","lat":30.49,"lon":-87.085833,"elevation":16,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7ND1"]={"id":"7ND1","name":"WOLBERG'S PRIVATE","lat":47.037339,"lon":-102.760947,"elevation":2620,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI29"]={"id":"MI29","name":"GOODING","lat":42.376425,"lon":-83.792719,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88IS"]={"id":"88IS","name":"BLICKHAN LNDG AREA","lat":40.008381,"lon":-91.382094,"elevation":635,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

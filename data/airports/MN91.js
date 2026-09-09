@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN91"]={"id":"MN91","name":"REYNOLDS FLD","lat":45.537464,"lon":-93.514125,"elevation":985,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

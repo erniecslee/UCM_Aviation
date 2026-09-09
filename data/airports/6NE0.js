@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NE0"]={"id":"6NE0","name":"VAN BOENING","lat":40.786947,"lon":-101.165711,"elevation":3102,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

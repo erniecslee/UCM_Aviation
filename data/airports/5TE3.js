@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TE3"]={"id":"5TE3","name":"ALEXANDER RANCH","lat":30.271869,"lon":-98.116958,"elevation":1250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

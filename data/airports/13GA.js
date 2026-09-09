@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13GA"]={"id":"13GA","name":"OAK RIDGE PLANTATION","lat":31.366572,"lon":-83.754897,"elevation":350,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13XA"]={"id":"13XA","name":"FLYING 5B RANCH","lat":31.952119,"lon":-97.835778,"elevation":1010,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

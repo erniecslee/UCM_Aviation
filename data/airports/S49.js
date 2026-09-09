@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S49"]={"id":"S49","name":"MILLER MEML AIRPARK","lat":43.963772,"lon":-117.259342,"elevation":2249,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

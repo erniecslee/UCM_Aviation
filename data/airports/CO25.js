@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO25"]={"id":"CO25","name":"METROGRO FARM","lat":39.496111,"lon":-103.723611,"elevation":5240,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

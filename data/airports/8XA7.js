@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8XA7"]={"id":"8XA7","name":"YACHT CLUB","lat":31.693653,"lon":-98.105875,"elevation":1210,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1V8"]={"id":"1V8","name":"LEACH","lat":37.784917,"lon":-106.046917,"elevation":7598,"region":"K2","runways":[{"id":"RW12","lat":37.791789,"lon":-106.055369,"length":7000,"course":123.7},{"id":"RW30","lat":37.778025,"lon":-106.038453,"length":7000,"course":303.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT44"]={"id":"TT44","name":"FLYING H FLD","lat":33.665147,"lon":-95.611258,"elevation":574,"region":"K4","runways":[{"id":"RW02","lat":33.661436,"lon":-95.6134,"length":3000,"course":24.0},{"id":"RW20","lat":33.668856,"lon":-95.609117,"length":3000,"course":204.0}],"procedures":{"D":{},"E":{},"F":{}}};

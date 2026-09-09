@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK3"]={"id":"8AK3","name":"ROLAND NORTON MEML AIRSTRIP","lat":66.766044,"lon":-160.152769,"elevation":360,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

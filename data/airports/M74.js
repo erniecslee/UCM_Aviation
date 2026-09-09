@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M74"]={"id":"M74","name":"BALD KNOB MUNI","lat":35.299472,"lon":-91.557694,"elevation":212,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

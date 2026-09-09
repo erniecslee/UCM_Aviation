@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3CO1"]={"id":"3CO1","name":"CRIDLER FLD","lat":38.848317,"lon":-107.833394,"elevation":6460,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

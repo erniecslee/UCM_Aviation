@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5PA1"]={"id":"5PA1","name":"BROADT PERSONAL USE","lat":40.997308,"lon":-76.383831,"elevation":920,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

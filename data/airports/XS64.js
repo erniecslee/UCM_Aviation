@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS64"]={"id":"XS64","name":"FARM SERVICES INC","lat":26.248961,"lon":-97.564986,"elevation":25,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY39"]={"id":"JY39","name":"RAINBOW'S END","lat":39.661111,"lon":-75.465278,"elevation":11,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

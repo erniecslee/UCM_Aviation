@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9G5"]={"id":"9G5","name":"ROYALTON","lat":43.182003,"lon":-78.557806,"elevation":628,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

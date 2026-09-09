@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8VA6"]={"id":"8VA6","name":"FLATWOODS","lat":37.738197,"lon":-78.962247,"elevation":840,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

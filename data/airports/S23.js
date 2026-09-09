@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S23"]={"id":"S23","name":"IONE MUNI","lat":48.708439,"lon":-117.413131,"elevation":2110,"region":"K1","runways":[{"id":"RW33","lat":48.703569,"lon":-117.411469,"length":3643,"course":327.3}],"procedures":{"D":{},"E":{},"F":{}}};

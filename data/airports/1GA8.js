@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GA8"]={"id":"1GA8","name":"SOUTH ONE TEN","lat":31.178531,"lon":-83.226542,"elevation":225,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

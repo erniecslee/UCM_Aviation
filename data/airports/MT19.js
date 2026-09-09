@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT19"]={"id":"MT19","name":"HOVERSLAND","lat":47.591047,"lon":-114.052331,"elevation":3330,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

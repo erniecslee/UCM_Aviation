@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WI7"]={"id":"1WI7","name":"BUZZARDS ROOST","lat":44.022203,"lon":-89.096506,"elevation":805,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

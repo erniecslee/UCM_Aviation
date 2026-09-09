@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TE0"]={"id":"0TE0","name":"ROBERTSON RANCH","lat":29.692992,"lon":-101.161772,"elevation":1663,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

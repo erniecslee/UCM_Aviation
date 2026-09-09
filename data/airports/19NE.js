@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19NE"]={"id":"19NE","name":"HOYT","lat":40.118767,"lon":-100.797156,"elevation":2700,"region":"K3","runways":[{"id":"RW17","lat":40.123361,"lon":-100.797172,"length":3348,"course":170.8},{"id":"RW35","lat":40.114169,"lon":-100.797136,"length":3348,"course":350.8}],"procedures":{"D":{},"E":{},"F":{}}};

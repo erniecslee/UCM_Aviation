@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NY0"]={"id":"0NY0","name":"BENNETTS","lat":43.700064,"lon":-73.982911,"elevation":1040,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

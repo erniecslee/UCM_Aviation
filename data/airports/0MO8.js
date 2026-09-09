@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MO8"]={"id":"0MO8","name":"SLOAN'S","lat":39.140606,"lon":-90.736792,"elevation":437,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

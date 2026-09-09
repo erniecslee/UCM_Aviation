@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK"]={"id":"3AK","name":"DRY BAY","lat":59.164333,"lon":-138.488806,"elevation":33,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

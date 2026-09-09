@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD15"]={"id":"CD15","name":"HIGH PLAINS AIRPORT","lat":39.296389,"lon":-104.125,"elevation":5870,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

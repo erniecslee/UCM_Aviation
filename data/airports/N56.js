@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N56"]={"id":"N56","name":"GREAT VALLEY","lat":42.203697,"lon":-78.649156,"elevation":1450,"region":"K6","runways":[{"id":"RW06","lat":42.200514,"lon":-78.653228,"length":3200,"course":53.6},{"id":"RW24","lat":42.206878,"lon":-78.645083,"length":3200,"course":233.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY64"]={"id":"NY64","name":"THE PINES","lat":43.10285,"lon":-74.155131,"elevation":850,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

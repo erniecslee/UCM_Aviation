@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82GA"]={"id":"82GA","name":"PACES SOUTH FARMS","lat":32.808769,"lon":-82.385267,"elevation":275,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

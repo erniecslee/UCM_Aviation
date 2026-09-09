@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI58"]={"id":"OI58","name":"LOCKERIDGE","lat":40.841725,"lon":-81.437894,"elevation":1090,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98MN"]={"id":"98MN","name":"UP YONDER","lat":47.296422,"lon":-94.884731,"elevation":1446,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

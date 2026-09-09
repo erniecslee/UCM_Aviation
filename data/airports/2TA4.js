@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TA4"]={"id":"2TA4","name":"MARIO'S FLYING PIZZA","lat":29.747733,"lon":-96.292742,"elevation":233,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA78"]={"id":"TA78","name":"PUTTY RANCH","lat":31.972369,"lon":-98.061425,"elevation":1143,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

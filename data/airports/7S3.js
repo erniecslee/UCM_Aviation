@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7S3"]={"id":"7S3","name":"STARK'S TWIN OAKS AIRPARK","lat":45.42845,"lon":-122.942158,"elevation":170,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

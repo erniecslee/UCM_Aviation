@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID32"]={"id":"ID32","name":"TUKA","lat":48.1055,"lon":-116.136833,"elevation":2086,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

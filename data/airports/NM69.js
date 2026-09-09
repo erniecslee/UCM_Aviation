@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM69"]={"id":"NM69","name":"CASAS ADOBES AIRPARK","lat":32.814164,"lon":-107.939997,"elevation":5800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69TA"]={"id":"69TA","name":"DEAN","lat":27.655031,"lon":-97.525272,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

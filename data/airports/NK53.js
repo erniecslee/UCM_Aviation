@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK53"]={"id":"NK53","name":"DODGE/COPPOLA/WHEELER","lat":42.205631,"lon":-76.770508,"elevation":1030,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

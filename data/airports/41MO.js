@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41MO"]={"id":"41MO","name":"SAWYER CREEK","lat":37.186944,"lon":-93.094167,"elevation":1240,"region":"K3","runways":[{"id":"RW11","lat":37.1875,"lon":-93.096667,"length":1512,"course":105.4},{"id":"RW29","lat":37.186389,"lon":-93.091667,"length":1512,"course":285.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT66"]={"id":"TT66","name":"ROWDY T RANCH","lat":32.108122,"lon":-96.808519,"elevation":538,"region":"K4","runways":[{"id":"RW02","lat":32.104778,"lon":-96.8106,"length":2750,"course":25.3},{"id":"RW20","lat":32.111458,"lon":-96.806439,"length":2750,"course":205.3}],"procedures":{"D":{},"E":{},"F":{}}};

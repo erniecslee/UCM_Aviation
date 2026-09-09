@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36S"]={"id":"36S","name":"HAPPY CAMP","lat":41.790681,"lon":-123.388944,"elevation":1209,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

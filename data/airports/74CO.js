@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74CO"]={"id":"74CO","name":"WESTBERG-ROSLING FARMS","lat":40.047206,"lon":-104.209397,"elevation":4857,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

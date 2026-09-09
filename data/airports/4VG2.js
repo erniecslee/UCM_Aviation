@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4VG2"]={"id":"4VG2","name":"COOL WATER","lat":37.858056,"lon":-77.547222,"elevation":250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN23"]={"id":"WN23","name":"GRAND VIEW INTL","lat":48.101758,"lon":-123.179622,"elevation":150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NC0"]={"id":"2NC0","name":"MOUNTAIN AIR","lat":35.868725,"lon":-82.341794,"elevation":4432,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

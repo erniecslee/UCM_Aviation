@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM14"]={"id":"NM14","name":"WEDDING CAKE RANCH","lat":36.979139,"lon":-103.1985,"elevation":4555,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

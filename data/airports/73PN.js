@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73PN"]={"id":"73PN","name":"FINKHAVEN","lat":41.368408,"lon":-77.071081,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

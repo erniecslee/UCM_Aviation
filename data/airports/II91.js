@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II91"]={"id":"II91","name":"DUNBAR FLD","lat":39.843933,"lon":-86.505275,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

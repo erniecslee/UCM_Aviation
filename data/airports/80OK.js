@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80OK"]={"id":"80OK","name":"BISON HILL","lat":35.158383,"lon":-97.548231,"elevation":1304,"region":"K4","runways":[{"id":"RW17","lat":35.161278,"lon":-97.548456,"length":2112,"course":173.3},{"id":"RW35","lat":35.155486,"lon":-97.548003,"length":2112,"course":353.3}],"procedures":{"D":{},"E":{},"F":{}}};

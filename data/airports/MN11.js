@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN11"]={"id":"MN11","name":"LORENZ","lat":45.299961,"lon":-95.545033,"elevation":1050,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

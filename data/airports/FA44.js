@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA44"]={"id":"FA44","name":"WILLIS","lat":26.548125,"lon":-80.214769,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

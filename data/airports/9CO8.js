@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO8"]={"id":"9CO8","name":"BIJOU BOTTOM STRIP","lat":39.2793,"lon":-104.34315,"elevation":6000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

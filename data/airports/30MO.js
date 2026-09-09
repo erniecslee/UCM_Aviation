@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30MO"]={"id":"30MO","name":"MATZIE","lat":37.645875,"lon":-92.494614,"elevation":1129,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

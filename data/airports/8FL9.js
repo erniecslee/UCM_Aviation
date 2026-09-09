@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FL9"]={"id":"8FL9","name":"GRISWOLD","lat":30.820225,"lon":-87.129672,"elevation":210,"region":"K7","runways":[{"id":"RW09","lat":30.820247,"lon":-87.134117,"length":2790,"course":93.8},{"id":"RW27","lat":30.820203,"lon":-87.125228,"length":2790,"course":273.8}],"procedures":{"D":{},"E":{},"F":{}}};

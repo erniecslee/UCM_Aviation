@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN21"]={"id":"WN21","name":"LAWSON AIRPARK","lat":48.081481,"lon":-123.397964,"elevation":650,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

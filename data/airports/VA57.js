@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA57"]={"id":"VA57","name":"POWHATAN","lat":38.248461,"lon":-77.219144,"elevation":60,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

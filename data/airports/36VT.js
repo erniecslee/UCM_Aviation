@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36VT"]={"id":"36VT","name":"NORTH HERO PASSAGE","lat":44.86,"lon":-73.2825,"elevation":95,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3I2"]={"id":"3I2","name":"MASON COUNTY","lat":38.914636,"lon":-82.098578,"elevation":643,"region":"K6","runways":[{"id":"RW07","lat":38.912303,"lon":-82.104942,"length":4000,"course":72.0},{"id":"RW25","lat":38.916967,"lon":-82.092217,"length":4000,"course":252.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT38"]={"id":"MT38","name":"SWANK","lat":48.403356,"lon":-105.156647,"elevation":2205,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS62"]={"id":"MS62","name":"FRISBEE LNDG","lat":32.628292,"lon":-90.865456,"elevation":96,"region":"K7","runways":[{"id":"RW17","lat":32.632958,"lon":-90.866447,"length":3450,"course":171.0},{"id":"RW35","lat":32.623625,"lon":-90.864464,"length":3450,"course":351.0}],"procedures":{"D":{},"E":{},"F":{}}};

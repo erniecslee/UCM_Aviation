@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77XA"]={"id":"77XA","name":"XL RANCH","lat":29.826003,"lon":-94.511022,"elevation":37,"region":"K4","runways":[{"id":"RW17","lat":29.830161,"lon":-94.511592,"length":3050,"course":172.0},{"id":"RW35","lat":29.821844,"lon":-94.510453,"length":3050,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

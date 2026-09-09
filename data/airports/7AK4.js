@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AK4"]={"id":"7AK4","name":"JACK FISH LANDING","lat":61.541481,"lon":-149.460681,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK29"]={"id":"OK29","name":"TRAVIS","lat":33.935933,"lon":-97.054456,"elevation":862,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

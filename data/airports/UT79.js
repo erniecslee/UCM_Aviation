@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT79"]={"id":"UT79","name":"SPLIT MOUNTAIN AIR","lat":40.415556,"lon":-109.343611,"elevation":4865,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

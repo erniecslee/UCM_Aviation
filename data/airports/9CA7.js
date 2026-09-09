@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CA7"]={"id":"9CA7","name":"HARRIS RIVER RANCH","lat":36.771861,"lon":-119.445161,"elevation":450,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

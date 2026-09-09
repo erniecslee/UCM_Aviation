@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OR8"]={"id":"6OR8","name":"KNOKEY FLD","lat":44.532319,"lon":-122.982869,"elevation":315,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

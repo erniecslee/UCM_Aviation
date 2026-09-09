@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN51"]={"id":"WN51","name":"BAYVIEW FARMS","lat":48.520939,"lon":-122.465167,"elevation":6,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

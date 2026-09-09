@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3G9"]={"id":"3G9","name":"BUTLER FARM SHOW","lat":40.852564,"lon":-79.974781,"elevation":1333,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

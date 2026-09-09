@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX70"]={"id":"TX70","name":"EBERLY RANCH","lat":30.051889,"lon":-96.218239,"elevation":280,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

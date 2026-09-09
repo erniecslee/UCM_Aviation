@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TN8"]={"id":"3TN8","name":"SEABROOK","lat":35.763967,"lon":-84.187414,"elevation":840,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

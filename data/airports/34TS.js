@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34TS"]={"id":"34TS","name":"CANYON LAKE","lat":29.915772,"lon":-98.247514,"elevation":940,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

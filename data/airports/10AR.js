@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10AR"]={"id":"10AR","name":"HICKORY RIDGE","lat":34.262861,"lon":-92.121611,"elevation":320,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

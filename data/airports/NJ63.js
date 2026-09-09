@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ63"]={"id":"NJ63","name":"EAGLES LAIR","lat":40.467881,"lon":-75.050447,"elevation":460,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

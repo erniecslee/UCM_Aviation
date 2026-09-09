@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL93"]={"id":"AL93","name":"BIG SKY","lat":34.885644,"lon":-86.709997,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

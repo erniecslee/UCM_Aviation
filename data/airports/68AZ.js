@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68AZ"]={"id":"68AZ","name":"MUSIC MOUNTAIN AIR RANCH","lat":35.475122,"lon":-113.769192,"elevation":3450,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

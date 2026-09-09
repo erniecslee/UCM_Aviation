@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67ND"]={"id":"67ND","name":"WALDIE FARMS","lat":46.543308,"lon":-98.382317,"elevation":1456,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

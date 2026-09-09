@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WA3"]={"id":"2WA3","name":"STUART ISLAND WEST","lat":48.684544,"lon":-123.209636,"elevation":200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

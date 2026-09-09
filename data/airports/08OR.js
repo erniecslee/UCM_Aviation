@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08OR"]={"id":"08OR","name":"SAXON SYCAN","lat":42.839311,"lon":-121.117217,"elevation":4990,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

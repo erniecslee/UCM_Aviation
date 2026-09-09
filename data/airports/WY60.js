@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY60"]={"id":"WY60","name":"HEINER","lat":42.861036,"lon":-110.897981,"elevation":6440,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

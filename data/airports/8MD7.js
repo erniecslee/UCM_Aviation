@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MD7"]={"id":"8MD7","name":"DEERFIELD","lat":38.238611,"lon":-76.659722,"elevation":25,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

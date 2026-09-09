@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5F5"]={"id":"5F5","name":"BLUEBIRD HILL","lat":32.3446,"lon":-93.799897,"elevation":180,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

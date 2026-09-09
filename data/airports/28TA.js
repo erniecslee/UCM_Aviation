@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28TA"]={"id":"28TA","name":"DUVAL COUNTY RANCH COMPANY","lat":27.833631,"lon":-98.716961,"elevation":665,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

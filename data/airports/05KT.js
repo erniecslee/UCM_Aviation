@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05KT"]={"id":"05KT","name":"HIGH POINT FARM","lat":38.188203,"lon":-84.927503,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

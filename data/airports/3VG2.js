@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VG2"]={"id":"3VG2","name":"MACHIPONGO INTL","lat":37.388333,"lon":-75.8925,"elevation":36,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

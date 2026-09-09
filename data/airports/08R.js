@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08R"]={"id":"08R","name":"RICHMOND","lat":41.4895,"lon":-71.620639,"elevation":130,"region":"K6","runways":[{"id":"RW11","lat":41.489914,"lon":-71.624486,"length":2129,"course":113.0},{"id":"RW29","lat":41.489144,"lon":-71.617261,"length":2129,"course":293.0}],"procedures":{"D":{},"E":{},"F":{}}};

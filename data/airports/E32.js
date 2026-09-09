@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E32"]={"id":"E32","name":"LINDRITH AIRPARK","lat":36.291406,"lon":-107.056156,"elevation":7202,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

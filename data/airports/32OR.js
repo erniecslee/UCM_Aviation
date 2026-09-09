@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32OR"]={"id":"32OR","name":"PINE HOLLOW","lat":45.254839,"lon":-121.293678,"elevation":1820,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

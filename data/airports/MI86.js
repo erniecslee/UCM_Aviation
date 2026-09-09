@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI86"]={"id":"MI86","name":"MIDGET","lat":43.3425,"lon":-86.186944,"elevation":669,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

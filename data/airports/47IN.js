@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47IN"]={"id":"47IN","name":"MANN","lat":38.988375,"lon":-87.518078,"elevation":428,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

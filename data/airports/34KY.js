@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34KY"]={"id":"34KY","name":"LONE PINE AERODROME","lat":36.911353,"lon":-86.78555,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

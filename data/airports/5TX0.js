@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TX0"]={"id":"5TX0","name":"HIDDEN VALLEY AIRPARK","lat":33.173453,"lon":-97.051397,"elevation":611,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

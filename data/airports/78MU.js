@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78MU"]={"id":"78MU","name":"STONY BRANCH","lat":37.296442,"lon":-94.195222,"elevation":1025,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

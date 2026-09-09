@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR43"]={"id":"AR43","name":"BRICKEY","lat":35.100086,"lon":-92.7835,"elevation":320,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

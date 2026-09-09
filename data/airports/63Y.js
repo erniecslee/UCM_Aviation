@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63Y"]={"id":"63Y","name":"TYLER MUNI","lat":44.288292,"lon":-96.150956,"elevation":1742,"region":"K3","runways":[{"id":"RW14","lat":44.291231,"lon":-96.153481,"length":2517,"course":146.2},{"id":"RW32","lat":44.28535,"lon":-96.148431,"length":2517,"course":326.2}],"procedures":{"D":{},"E":{},"F":{}}};

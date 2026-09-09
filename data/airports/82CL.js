@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82CL"]={"id":"82CL","name":"FORT BRAGG","lat":39.474333,"lon":-123.795569,"elevation":71,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

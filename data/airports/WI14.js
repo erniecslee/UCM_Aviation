@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI14"]={"id":"WI14","name":"BALDWIN","lat":44.966633,"lon":-92.387692,"elevation":1104,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

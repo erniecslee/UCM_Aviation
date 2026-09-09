@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT29"]={"id":"CT29","name":"VALLEY FARM","lat":42.013136,"lon":-72.472428,"elevation":221,"region":"K6","runways":[{"id":"RW17","lat":42.0157,"lon":-72.473361,"length":2538,"course":178.5},{"id":"RW35","lat":42.009769,"lon":-72.471228,"length":2538,"course":358.5}],"procedures":{"D":{},"E":{},"F":{}}};

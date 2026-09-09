@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59TX"]={"id":"59TX","name":"BENJAMIN FRANKLIN","lat":32.487222,"lon":-97.490278,"elevation":990,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

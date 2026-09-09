@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MT0"]={"id":"2MT0","name":"BATES AIRSTRIP","lat":48.3,"lon":-114.413611,"elevation":3110,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

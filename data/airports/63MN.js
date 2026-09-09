@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63MN"]={"id":"63MN","name":"WEIDEMAN INTL","lat":47.094375,"lon":-91.600175,"elevation":930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

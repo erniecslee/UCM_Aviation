@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD45"]={"id":"MD45","name":"HAMPTON","lat":38.230683,"lon":-76.62885,"elevation":18,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

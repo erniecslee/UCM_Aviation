@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH39"]={"id":"NH39","name":"FRANK D COMERFORD","lat":43.033414,"lon":-72.429811,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51WI"]={"id":"51WI","name":"GALLINGER","lat":44.062761,"lon":-88.557336,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

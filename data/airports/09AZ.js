@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09AZ"]={"id":"09AZ","name":"STRONGHOLD","lat":31.925333,"lon":-110.038167,"elevation":4970,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

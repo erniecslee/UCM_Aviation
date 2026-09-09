@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83MN"]={"id":"83MN","name":"LOON LAKE","lat":48.075833,"lon":-90.706442,"elevation":1765,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

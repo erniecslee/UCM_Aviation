@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15TA"]={"id":"15TA","name":"J R RANCH","lat":30.254361,"lon":-99.947017,"elevation":1125,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

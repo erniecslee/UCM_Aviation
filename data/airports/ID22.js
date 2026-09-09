@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID22"]={"id":"ID22","name":"TREEPORT","lat":47.977961,"lon":-116.792697,"elevation":2500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

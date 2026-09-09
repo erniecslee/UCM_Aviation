@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29IL"]={"id":"29IL","name":"JUDD FARMS","lat":41.129933,"lon":-89.107181,"elevation":671,"region":"K5","runways":[{"id":"RW18","lat":41.132278,"lon":-89.107222,"length":2467,"course":182.2},{"id":"RW36","lat":41.126547,"lon":-89.107125,"length":2467,"course":2.2}],"procedures":{"D":{},"E":{},"F":{}}};

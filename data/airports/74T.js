@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74T"]={"id":"74T","name":"HICKS","lat":33.183011,"lon":-97.254614,"elevation":725,"region":"K4","runways":[{"id":"RW17","lat":33.186261,"lon":-97.254583,"length":2364,"course":173.4},{"id":"RW35","lat":33.179761,"lon":-97.254642,"length":2364,"course":353.4}],"procedures":{"D":{},"E":{},"F":{}}};

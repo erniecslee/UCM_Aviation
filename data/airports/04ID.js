@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04ID"]={"id":"04ID","name":"LANHAM FLD","lat":43.877664,"lon":-116.537081,"elevation":2343,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

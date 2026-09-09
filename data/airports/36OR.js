@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36OR"]={"id":"36OR","name":"JASPER RIDGE AIRSTRIP","lat":44.003333,"lon":-122.88,"elevation":1125,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

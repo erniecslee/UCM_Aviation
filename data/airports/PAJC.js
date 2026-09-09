@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAJC"]={"id":"PAJC","name":"CHIGNIK","lat":56.311464,"lon":-158.373239,"elevation":18,"region":"PA","runways":[{"id":"RW02","lat":56.308528,"lon":-158.376858,"length":2600,"course":18.0},{"id":"RW20","lat":56.314397,"lon":-158.369617,"length":2600,"course":198.0}],"procedures":{"D":{},"E":{},"F":{}}};

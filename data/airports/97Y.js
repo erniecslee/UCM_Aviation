@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97Y"]={"id":"97Y","name":"GENOA MUNI","lat":41.404369,"lon":-97.709725,"elevation":1572,"region":"K3","runways":[{"id":"RW11","lat":41.406236,"lon":-97.713583,"length":2517,"course":115.7},{"id":"RW29","lat":41.4025,"lon":-97.705864,"length":2517,"course":295.7}],"procedures":{"D":{},"E":{},"F":{}}};

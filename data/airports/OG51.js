@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG51"]={"id":"OG51","name":"SIX SPRINGS RANCH","lat":44.483458,"lon":-120.915864,"elevation":3780,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

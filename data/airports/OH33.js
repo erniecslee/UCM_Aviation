@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH33"]={"id":"OH33","name":"GUSTAVUS","lat":41.442733,"lon":-80.69205,"elevation":1096,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

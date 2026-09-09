@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K31"]={"id":"K31","name":"SHARON","lat":42.778408,"lon":-74.577639,"elevation":1508,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

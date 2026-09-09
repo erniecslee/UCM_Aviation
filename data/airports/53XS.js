@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53XS"]={"id":"53XS","name":"KORNEGAY PRIVATE","lat":26.150278,"lon":-97.593333,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

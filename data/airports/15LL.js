@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15LL"]={"id":"15LL","name":"CLOVERLEAF RANCH","lat":41.2375,"lon":-89.536667,"elevation":807,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

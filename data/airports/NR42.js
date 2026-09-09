@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR42"]={"id":"NR42","name":"LAUGHING CROW AIRPARK","lat":35.452222,"lon":-81.459061,"elevation":962,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

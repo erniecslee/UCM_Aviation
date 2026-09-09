@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88VA"]={"id":"88VA","name":"BELMONT FARM","lat":38.374167,"lon":-77.991944,"elevation":305,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

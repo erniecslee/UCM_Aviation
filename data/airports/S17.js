@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S17"]={"id":"S17","name":"TWIN LAKES","lat":33.645692,"lon":-81.867056,"elevation":540,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

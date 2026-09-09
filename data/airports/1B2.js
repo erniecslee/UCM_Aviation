@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1B2"]={"id":"1B2","name":"KATAMA AIRPARK","lat":41.35845,"lon":-70.524469,"elevation":18,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AZ4"]={"id":"0AZ4","name":"FLYING BUCKET RANCH","lat":32.982269,"lon":-112.287092,"elevation":1505,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

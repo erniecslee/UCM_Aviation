@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD30"]={"id":"FD30","name":"SOUTHEASTERN","lat":27.411428,"lon":-80.526167,"elevation":23,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

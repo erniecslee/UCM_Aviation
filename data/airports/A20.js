@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A20"]={"id":"A20","name":"SUN VALLEY","lat":35.005639,"lon":-114.565028,"elevation":725,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

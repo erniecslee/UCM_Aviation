@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A57"]={"id":"A57","name":"ALSEK RIVER","lat":59.199133,"lon":-138.445878,"elevation":53,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

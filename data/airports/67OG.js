@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67OG"]={"id":"67OG","name":"GEORGE","lat":45.031389,"lon":-123.406111,"elevation":440,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

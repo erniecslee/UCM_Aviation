@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8XS3"]={"id":"8XS3","name":"J A KNOLLE","lat":27.993892,"lon":-97.820567,"elevation":41,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

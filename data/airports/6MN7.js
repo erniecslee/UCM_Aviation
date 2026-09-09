@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MN7"]={"id":"6MN7","name":"SODBUSTER STRIP","lat":44.401042,"lon":-92.6876,"elevation":1200,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

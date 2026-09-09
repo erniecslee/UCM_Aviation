@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4VA9"]={"id":"4VA9","name":"PLEASANTDALE FLD","lat":38.569011,"lon":-77.92055,"elevation":420,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

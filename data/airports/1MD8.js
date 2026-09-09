@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MD8"]={"id":"1MD8","name":"MAYBERRY RUN","lat":39.682878,"lon":-77.097206,"elevation":580,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

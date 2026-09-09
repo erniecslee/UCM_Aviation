@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09PA"]={"id":"09PA","name":"EAGLE FLD","lat":40.827003,"lon":-77.988061,"elevation":1780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

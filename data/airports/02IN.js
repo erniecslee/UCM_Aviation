@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02IN"]={"id":"02IN","name":"DIAMOND P FLD","lat":40.208889,"lon":-85.540833,"elevation":904,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S04"]={"id":"S04","name":"CONDON USFS","lat":47.538825,"lon":-113.720369,"elevation":3686,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

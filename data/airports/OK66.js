@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK66"]={"id":"OK66","name":"COTTONWOOD","lat":36.027375,"lon":-96.957464,"elevation":950,"region":"K4","runways":[{"id":"RW01","lat":36.02565,"lon":-96.957939,"length":1287,"course":9.9},{"id":"RW19","lat":36.029103,"lon":-96.956989,"length":1287,"course":189.9}],"procedures":{"D":{},"E":{},"F":{}}};

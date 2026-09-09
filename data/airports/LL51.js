@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL51"]={"id":"LL51","name":"RUFFATTO FLD","lat":41.604197,"lon":-88.273678,"elevation":663,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

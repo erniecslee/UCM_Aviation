@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2D1"]={"id":"2D1","name":"LEE FLD","lat":40.969969,"lon":-81.098667,"elevation":1062,"region":"K5","runways":[{"id":"RW09","lat":40.971853,"lon":-81.102447,"length":2088,"course":97.5},{"id":"RW27","lat":40.9718,"lon":-81.094883,"length":2088,"course":277.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F95"]={"id":"F95","name":"CALHOUN COUNTY","lat":30.487031,"lon":-85.113786,"elevation":121,"region":"K7","runways":[{"id":"RW18","lat":30.492158,"lon":-85.113794,"length":3729,"course":182.0},{"id":"RW36","lat":30.482261,"lon":-85.113778,"length":3729,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

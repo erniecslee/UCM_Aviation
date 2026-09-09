@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR88"]={"id":"OR88","name":"VALLEY VIEW","lat":45.307669,"lon":-122.318136,"elevation":719,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN86"]={"id":"MN86","name":"SKY MANOR AERO ESTATES","lat":47.045792,"lon":-95.122522,"elevation":1492,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

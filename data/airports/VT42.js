@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT42"]={"id":"VT42","name":"TWO TAILS","lat":44.512553,"lon":-72.607058,"elevation":754,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

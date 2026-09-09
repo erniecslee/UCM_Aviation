@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KT1"]={"id":"2KT1","name":"JDH","lat":38.588475,"lon":-83.900131,"elevation":852,"region":"K5","runways":[{"id":"RW03","lat":38.586381,"lon":-83.901569,"length":1733,"course":34.7},{"id":"RW21","lat":38.590569,"lon":-83.898692,"length":1733,"course":214.7}],"procedures":{"D":{},"E":{},"F":{}}};

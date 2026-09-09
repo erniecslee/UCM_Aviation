@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TA5"]={"id":"3TA5","name":"BLANCO LANDING","lat":30.122467,"lon":-98.374783,"elevation":1460,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

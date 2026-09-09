@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY73"]={"id":"JY73","name":"RED LION","lat":39.904153,"lon":-74.74955,"elevation":54,"region":"K6","runways":[{"id":"RW05","lat":39.901056,"lon":-74.752742,"length":2880,"course":48.0},{"id":"RW23","lat":39.907247,"lon":-74.746356,"length":2880,"course":228.0}],"procedures":{"D":{},"E":{},"F":{}}};

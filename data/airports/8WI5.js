@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WI5"]={"id":"8WI5","name":"WOLF RIVER LANDING STRIP","lat":44.515497,"lon":-88.541639,"elevation":670,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

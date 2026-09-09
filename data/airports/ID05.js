@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID05"]={"id":"ID05","name":"HACKNEY AIRPARK","lat":47.956847,"lon":-116.677419,"elevation":2445,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

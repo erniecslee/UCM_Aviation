@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI69"]={"id":"OI69","name":"BLACKACRE FARM","lat":41.778381,"lon":-81.167044,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IA4"]={"id":"0IA4","name":"SHARAR FLD","lat":41.027844,"lon":-91.063475,"elevation":700,"region":"K3","runways":[{"id":"RW09","lat":41.027889,"lon":-91.068911,"length":3000,"course":88.0},{"id":"RW27","lat":41.0278,"lon":-91.058036,"length":3000,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

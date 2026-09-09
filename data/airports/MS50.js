@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS50"]={"id":"MS50","name":"CLAY","lat":31.579336,"lon":-90.111197,"elevation":201,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

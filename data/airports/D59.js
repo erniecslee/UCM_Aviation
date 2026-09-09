@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D59"]={"id":"D59","name":"GOWANDA","lat":42.50395,"lon":-78.950589,"elevation":830,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

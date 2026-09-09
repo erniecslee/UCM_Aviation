@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT04"]={"id":"MT04","name":"OLFERT","lat":48.404189,"lon":-106.008903,"elevation":2750,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

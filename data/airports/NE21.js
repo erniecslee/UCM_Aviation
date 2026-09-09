@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE21"]={"id":"NE21","name":"CLYDE AIRFIELD","lat":40.292017,"lon":-99.593467,"elevation":2250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

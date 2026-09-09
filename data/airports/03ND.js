@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03ND"]={"id":"03ND","name":"OLAFSON BROTHERS","lat":48.626383,"lon":-97.828983,"elevation":1045,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

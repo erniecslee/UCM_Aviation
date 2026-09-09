@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57OI"]={"id":"57OI","name":"LOGAN'S CHANCE","lat":39.996728,"lon":-83.854653,"elevation":1100,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

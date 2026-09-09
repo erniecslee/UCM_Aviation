@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49ID"]={"id":"49ID","name":"R7 AERO","lat":43.958247,"lon":-116.939953,"elevation":2233,"region":"K1","runways":[{"id":"RW02","lat":43.956497,"lon":-116.940611,"length":1322,"course":2.3},{"id":"RW20","lat":43.96,"lon":-116.939294,"length":1322,"course":182.3}],"procedures":{"D":{},"E":{},"F":{}}};

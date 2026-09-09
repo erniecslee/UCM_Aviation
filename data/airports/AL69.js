@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL69"]={"id":"AL69","name":"VAUGHN","lat":30.508528,"lon":-87.491647,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

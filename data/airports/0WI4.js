@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WI4"]={"id":"0WI4","name":"SNOW CREST RANCH","lat":43.829422,"lon":-89.352619,"elevation":810,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

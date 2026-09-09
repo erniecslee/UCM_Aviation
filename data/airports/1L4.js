@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1L4"]={"id":"1L4","name":"KIDWELL","lat":35.305906,"lon":-114.882386,"elevation":2602,"region":"K2","runways":[{"id":"RW16","lat":35.311492,"lon":-114.883678,"length":4140,"course":155.3},{"id":"RW34","lat":35.300317,"lon":-114.881097,"length":4140,"course":335.3}],"procedures":{"D":{},"E":{},"F":{}}};

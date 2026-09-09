@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33AR"]={"id":"33AR","name":"SKYPOINT ESTATES","lat":35.602222,"lon":-92.1425,"elevation":547,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

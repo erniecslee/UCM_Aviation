@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS02"]={"id":"WS02","name":"POLISH PARADISE","lat":43.742478,"lon":-89.715958,"elevation":1030,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

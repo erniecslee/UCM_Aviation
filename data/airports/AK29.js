@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK29"]={"id":"AK29","name":"REIDS LANDING","lat":61.6126,"lon":-149.852281,"elevation":246,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

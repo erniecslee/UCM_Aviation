@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86LA"]={"id":"86LA","name":"SPRING","lat":30.973789,"lon":-90.665656,"elevation":400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

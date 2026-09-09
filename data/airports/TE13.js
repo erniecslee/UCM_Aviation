@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE13"]={"id":"TE13","name":"WEIBLEN","lat":29.400233,"lon":-98.887528,"elevation":830,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

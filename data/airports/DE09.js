@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE09"]={"id":"DE09","name":"JOHNSONS","lat":39.068169,"lon":-75.488533,"elevation":43,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

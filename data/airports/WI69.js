@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI69"]={"id":"WI69","name":"AIR TROY ESTATES","lat":42.800014,"lon":-88.333428,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

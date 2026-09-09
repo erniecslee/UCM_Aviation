@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U65"]={"id":"U65","name":"CAREY","lat":43.308806,"lon":-113.936028,"elevation":4789,"region":"K1","runways":[{"id":"RW08","lat":43.308822,"lon":-113.940997,"length":2650,"course":74.0},{"id":"RW26","lat":43.308781,"lon":-113.931039,"length":2650,"course":254.0}],"procedures":{"D":{},"E":{},"F":{}}};

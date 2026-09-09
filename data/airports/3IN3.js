@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IN3"]={"id":"3IN3","name":"TURNER FARMS","lat":39.37175,"lon":-87.171389,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

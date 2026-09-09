@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NK7"]={"id":"7NK7","name":"MORIN","lat":42.705278,"lon":-75.531944,"elevation":1068,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29KY"]={"id":"29KY","name":"SOCKS FLYERS","lat":38.883619,"lon":-84.257711,"elevation":625,"region":"K5","runways":[{"id":"RW17","lat":38.886089,"lon":-84.258692,"length":1882,"course":169.0},{"id":"RW35","lat":38.88115,"lon":-84.256731,"length":1882,"course":349.0}],"procedures":{"D":{},"E":{},"F":{}}};

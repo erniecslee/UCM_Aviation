@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21NH"]={"id":"21NH","name":"PROPWASH","lat":42.916944,"lon":-70.935278,"elevation":190,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

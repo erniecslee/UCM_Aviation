@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS21"]={"id":"TS21","name":"ROY RANCH","lat":33.084833,"lon":-101.114833,"elevation":2366,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

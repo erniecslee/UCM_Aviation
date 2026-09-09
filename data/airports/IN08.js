@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN08"]={"id":"IN08","name":"SHAKAMAK","lat":39.169486,"lon":-87.190292,"elevation":613,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

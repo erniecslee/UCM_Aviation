@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI65"]={"id":"WI65","name":"DANE","lat":43.222214,"lon":-89.468175,"elevation":1035,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

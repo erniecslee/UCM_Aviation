@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38IL"]={"id":"38IL","name":"HAMER RLA","lat":40.974358,"lon":-89.002794,"elevation":705,"region":"K5","runways":[{"id":"RW09","lat":40.974272,"lon":-89.007328,"length":2500,"course":91.5},{"id":"RW27","lat":40.974461,"lon":-88.998275,"length":2500,"course":271.5}],"procedures":{"D":{},"E":{},"F":{}}};

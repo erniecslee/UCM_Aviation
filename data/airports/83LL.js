@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83LL"]={"id":"83LL","name":"LINDAUER","lat":38.303611,"lon":-89.855103,"elevation":437,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

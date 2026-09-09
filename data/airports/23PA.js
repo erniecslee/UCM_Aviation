@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23PA"]={"id":"23PA","name":"CEDAR ACRES","lat":40.498403,"lon":-75.147322,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

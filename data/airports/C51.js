@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C51"]={"id":"C51","name":"KILI","lat":5.65,"lon":169.116667,"elevation":5,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

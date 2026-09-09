@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL54"]={"id":"IL54","name":"BURNS FLD","lat":39.121658,"lon":-89.937153,"elevation":657,"region":"K5","runways":[{"id":"RW10","lat":39.121878,"lon":-89.941711,"length":2592,"course":95.8},{"id":"RW28","lat":39.121436,"lon":-89.932592,"length":2592,"course":275.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46CN"]={"id":"46CN","name":"CRYSTAL","lat":34.484717,"lon":-117.826453,"elevation":3420,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

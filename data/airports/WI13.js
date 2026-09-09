@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI13"]={"id":"WI13","name":"JENNIE'S FLD","lat":44.254833,"lon":-89.8395,"elevation":993,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR3"]={"id":"7AR3","name":"RUNSICK FLYING SERVICE","lat":35.151111,"lon":-90.815556,"elevation":250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

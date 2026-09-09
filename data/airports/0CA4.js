@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CA4"]={"id":"0CA4","name":"SHEPHERD FARM","lat":34.622208,"lon":-120.065422,"elevation":660,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

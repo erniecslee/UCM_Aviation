@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WN5"]={"id":"4WN5","name":"DAVID RANDALL","lat":45.457025,"lon":-92.378306,"elevation":1155,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

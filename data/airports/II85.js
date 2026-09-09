@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II85"]={"id":"II85","name":"BLOMENBERG","lat":40.896158,"lon":-85.049136,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

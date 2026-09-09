@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NK6"]={"id":"3NK6","name":"TUSCARORA PLATEAU","lat":42.637008,"lon":-77.883892,"elevation":900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

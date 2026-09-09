@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CO2"]={"id":"7CO2","name":"RANGER RANCH","lat":38.416111,"lon":-107.904444,"elevation":6197,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

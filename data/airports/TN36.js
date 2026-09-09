@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN36"]={"id":"TN36","name":"FLYING I RANCH","lat":35.762022,"lon":-89.551186,"elevation":345,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

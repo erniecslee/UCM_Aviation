@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AL1"]={"id":"2AL1","name":"COLLIER AIRPARK","lat":30.424086,"lon":-87.777767,"elevation":74,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

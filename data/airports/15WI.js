@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15WI"]={"id":"15WI","name":"PETERSON FLD","lat":42.9275,"lon":-89.418175,"elevation":978,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

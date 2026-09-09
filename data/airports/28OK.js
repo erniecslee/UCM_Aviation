@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28OK"]={"id":"28OK","name":"PELLAR FARM","lat":35.502831,"lon":-98.040608,"elevation":1400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

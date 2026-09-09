@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LL5"]={"id":"1LL5","name":"JUSTISON","lat":39.242778,"lon":-89.550833,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

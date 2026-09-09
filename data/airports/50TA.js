@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50TA"]={"id":"50TA","name":"MOLTZ","lat":29.687725,"lon":-97.996117,"elevation":600,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

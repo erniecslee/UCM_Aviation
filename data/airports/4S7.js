@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4S7"]={"id":"4S7","name":"MALIN","lat":42.001139,"lon":-121.396361,"elevation":4053,"region":"K1","runways":[{"id":"RW14","lat":42.004694,"lon":-121.398281,"length":2800,"course":140.0},{"id":"RW32","lat":41.997558,"lon":-121.39445,"length":2800,"course":320.0}],"procedures":{"D":{},"E":{},"F":{}}};

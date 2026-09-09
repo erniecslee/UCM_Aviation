@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41PA"]={"id":"41PA","name":"DEITCH","lat":40.257867,"lon":-77.081367,"elevation":420,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OH8"]={"id":"0OH8","name":"FRY","lat":40.188383,"lon":-84.256056,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

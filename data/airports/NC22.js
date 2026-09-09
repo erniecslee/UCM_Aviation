@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC22"]={"id":"NC22","name":"CHARLES FLD","lat":35.227533,"lon":-78.555183,"elevation":185,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

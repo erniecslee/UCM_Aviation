@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96WA"]={"id":"96WA","name":"JIM & JULIE'S","lat":47.898056,"lon":-122.155556,"elevation":15,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

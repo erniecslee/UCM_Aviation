@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21TX"]={"id":"21TX","name":"AMBIA FARM","lat":33.577078,"lon":-95.656039,"elevation":572,"region":"K4","runways":[{"id":"RW02","lat":33.573892,"lon":-95.657575,"length":2500,"course":20.1},{"id":"RW20","lat":33.580264,"lon":-95.654503,"length":2500,"course":200.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23NH"]={"id":"23NH","name":"WINDSWEPT","lat":43.130278,"lon":-72.015,"elevation":1289,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

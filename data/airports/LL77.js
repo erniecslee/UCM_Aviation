@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL77"]={"id":"LL77","name":"HERRENS BESS HOLLOW AIRFIELD","lat":39.305,"lon":-90.699722,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

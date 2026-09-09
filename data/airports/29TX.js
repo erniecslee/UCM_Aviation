@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29TX"]={"id":"29TX","name":"LOCKETT","lat":34.094531,"lon":-99.365639,"elevation":1282,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

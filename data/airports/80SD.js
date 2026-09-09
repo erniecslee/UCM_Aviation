@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80SD"]={"id":"80SD","name":"COMSTOCK FLD","lat":45.772675,"lon":-98.352894,"elevation":1332,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

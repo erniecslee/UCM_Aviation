@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54AZ"]={"id":"54AZ","name":"SOMERTON","lat":32.603636,"lon":-114.667997,"elevation":177,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

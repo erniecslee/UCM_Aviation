@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD72"]={"id":"SD72","name":"VIG RANCH AIRFIELD","lat":44.859497,"lon":-102.576611,"elevation":2626,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

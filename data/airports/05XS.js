@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05XS"]={"id":"05XS","name":"JOHNSON MEML","lat":33.079222,"lon":-91.561553,"elevation":111,"region":"K4","runways":[{"id":"RW02","lat":33.076156,"lon":-91.562997,"length":2400,"course":18.6},{"id":"RW20","lat":33.082286,"lon":-91.560108,"length":2400,"course":198.6}],"procedures":{"D":{},"E":{},"F":{}}};

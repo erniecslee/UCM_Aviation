@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21AK"]={"id":"21AK","name":"MONTANA CREEK","lat":62.082611,"lon":-150.066931,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

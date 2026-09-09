@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16IL"]={"id":"16IL","name":"HAROLD BUNGER","lat":42.049831,"lon":-88.835028,"elevation":896,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85FA"]={"id":"85FA","name":"NORTH EXUMA","lat":29.0949,"lon":-81.2776,"elevation":62,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

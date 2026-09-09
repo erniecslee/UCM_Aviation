@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO66"]={"id":"CO66","name":"AJC","lat":40.370278,"lon":-104.635139,"elevation":4629,"region":"K2","runways":[{"id":"RW09","lat":40.370278,"lon":-104.639722,"length":2554,"course":82.6},{"id":"RW27","lat":40.370278,"lon":-104.630556,"length":2554,"course":262.6}],"procedures":{"D":{},"E":{},"F":{}}};

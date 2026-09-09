@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24NC"]={"id":"24NC","name":"MC GEE FLD","lat":35.127222,"lon":-80.475,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

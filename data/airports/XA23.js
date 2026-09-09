@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA23"]={"id":"XA23","name":"RICHARDSON FLD","lat":33.017778,"lon":-94.97,"elevation":415,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

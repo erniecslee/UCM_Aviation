@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4II0"]={"id":"4II0","name":"DE FORD","lat":40.609481,"lon":-86.738342,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

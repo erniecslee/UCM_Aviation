@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC4"]={"id":"1NC4","name":"BELL STRIP","lat":34.995436,"lon":-77.257733,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

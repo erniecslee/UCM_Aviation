@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6N6"]={"id":"6N6","name":"EVERS","lat":40.845933,"lon":-73.816244,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

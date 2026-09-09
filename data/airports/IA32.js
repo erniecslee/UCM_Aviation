@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA32"]={"id":"IA32","name":"KELLEY","lat":41.355817,"lon":-95.848236,"elevation":1196,"region":"K3","runways":[{"id":"RW17","lat":41.358119,"lon":-95.848739,"length":1700,"course":168.8},{"id":"RW35","lat":41.353514,"lon":-95.847736,"length":1700,"course":348.8}],"procedures":{"D":{},"E":{},"F":{}}};

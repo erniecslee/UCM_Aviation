@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U63"]={"id":"U63","name":"BRUCE MEADOWS","lat":44.415458,"lon":-115.316772,"elevation":6370,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

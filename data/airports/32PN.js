@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32PN"]={"id":"32PN","name":"BLACK ROCK","lat":40.733956,"lon":-80.275894,"elevation":1150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

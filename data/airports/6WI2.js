@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WI2"]={"id":"6WI2","name":"ST CROIX RIVIERA","lat":44.843856,"lon":-92.755758,"elevation":895,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

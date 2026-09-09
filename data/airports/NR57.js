@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR57"]={"id":"NR57","name":"HAWKS NEST","lat":35.702225,"lon":-78.165825,"elevation":233,"region":"K7","runways":[{"id":"RW18","lat":35.705658,"lon":-78.165678,"length":2500,"course":191.6},{"id":"RW36","lat":35.698794,"lon":-78.165975,"length":2500,"course":11.6}],"procedures":{"D":{},"E":{},"F":{}}};

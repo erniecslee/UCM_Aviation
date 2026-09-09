@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3W6"]={"id":"3W6","name":"BLADENBORO","lat":34.542861,"lon":-78.778167,"elevation":116,"region":"K7","runways":[{"id":"RW02","lat":34.53915,"lon":-78.779689,"length":2850,"course":26.0},{"id":"RW20","lat":34.546567,"lon":-78.776639,"length":2850,"course":206.0}],"procedures":{"D":{},"E":{},"F":{}}};

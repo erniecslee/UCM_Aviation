@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27OH"]={"id":"27OH","name":"SCHALLER","lat":40.946719,"lon":-83.679933,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

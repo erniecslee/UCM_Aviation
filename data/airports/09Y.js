@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09Y"]={"id":"09Y","name":"WIPLINE","lat":44.827556,"lon":-93.008722,"elevation":687,"region":"K3","runways":[{"id":"RW17W","lat":44.838231,"lon":-93.012231,"length":8000,"course":164.0},{"id":"RW35W","lat":44.816858,"lon":-93.005208,"length":8000,"course":344.0}],"procedures":{"D":{},"E":{},"F":{}}};

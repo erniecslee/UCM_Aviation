@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG44"]={"id":"OG44","name":"MISS KITTYS STRIP","lat":45.153389,"lon":-123.23725,"elevation":155,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

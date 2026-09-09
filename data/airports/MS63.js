@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS63"]={"id":"MS63","name":"RYE FLD","lat":34.054275,"lon":-88.371153,"elevation":330,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

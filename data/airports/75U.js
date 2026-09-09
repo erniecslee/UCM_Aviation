@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75U"]={"id":"75U","name":"HARRY S TRUMAN DAM & RESERVOIR","lat":38.216692,"lon":-93.416872,"elevation":706,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

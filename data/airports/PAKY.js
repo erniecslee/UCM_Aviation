@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAKY"]={"id":"PAKY","name":"KARLUK","lat":57.566056,"lon":-154.453806,"elevation":142,"region":"PA","runways":[{"id":"RW10","lat":57.5675,"lon":-154.45815,"length":2000,"course":100.7},{"id":"RW28","lat":57.564625,"lon":-154.449481,"length":2000,"course":280.7}],"procedures":{"D":{},"E":{},"F":{}}};

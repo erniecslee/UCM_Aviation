@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NY7"]={"id":"2NY7","name":"TOWNER FARM","lat":42.121464,"lon":-77.211364,"elevation":1248,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

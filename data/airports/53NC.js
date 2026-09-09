@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53NC"]={"id":"53NC","name":"MYNATT FLD","lat":34.378756,"lon":-79.079286,"elevation":95,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1E4"]={"id":"1E4","name":"PALO DURO","lat":35.143722,"lon":-101.839222,"elevation":3639,"region":"K4","runways":[{"id":"RW17","lat":35.148797,"lon":-101.839178,"length":3700,"course":172.0},{"id":"RW35","lat":35.138631,"lon":-101.839283,"length":3700,"course":351.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24ME"]={"id":"24ME","name":"SLIP KNOT LANDING","lat":43.822222,"lon":-70.442778,"elevation":310,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

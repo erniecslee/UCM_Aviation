@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79AR"]={"id":"79AR","name":"FRANKE FLD","lat":34.852867,"lon":-92.0482,"elevation":263,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

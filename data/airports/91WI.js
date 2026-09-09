@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91WI"]={"id":"91WI","name":"GOTTSCHALK FLD","lat":44.293853,"lon":-90.032075,"elevation":976,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

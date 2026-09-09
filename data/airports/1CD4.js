@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CD4"]={"id":"1CD4","name":"EAGLE SOARING","lat":40.509333,"lon":-106.943028,"elevation":6600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

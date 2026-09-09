@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86MT"]={"id":"86MT","name":"MOOSE CITY","lat":48.997778,"lon":-114.474722,"elevation":3980,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

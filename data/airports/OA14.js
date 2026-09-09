@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA14"]={"id":"OA14","name":"ROXFORD","lat":40.422222,"lon":-81.318056,"elevation":872,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

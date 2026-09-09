@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6KS7"]={"id":"6KS7","name":"BUG FLD","lat":37.8106,"lon":-97.797344,"elevation":1472,"region":"K3","runways":[{"id":"RW18","lat":37.814089,"lon":-97.797344,"length":2541,"course":176.8},{"id":"RW36","lat":37.807111,"lon":-97.797344,"length":2541,"course":356.8}],"procedures":{"D":{},"E":{},"F":{}}};

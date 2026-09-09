@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17KS"]={"id":"17KS","name":"TAMARACK LANDING","lat":38.845503,"lon":-97.504881,"elevation":1215,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

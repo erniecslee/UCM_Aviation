@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2B6"]={"id":"2B6","name":"HOLLISTER FLD","lat":39.437561,"lon":-83.708256,"elevation":1090,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

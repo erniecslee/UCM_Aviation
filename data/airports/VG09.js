@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG09"]={"id":"VG09","name":"STARBASE","lat":37.227778,"lon":-75.983333,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

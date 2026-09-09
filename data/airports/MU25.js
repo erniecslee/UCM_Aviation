@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU25"]={"id":"MU25","name":"PINEY BEND","lat":37.437822,"lon":-91.949322,"elevation":950,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

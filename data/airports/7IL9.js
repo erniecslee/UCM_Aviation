@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IL9"]={"id":"7IL9","name":"FRIENDS FLD","lat":41.481494,"lon":-88.705069,"elevation":621,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

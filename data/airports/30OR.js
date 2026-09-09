@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30OR"]={"id":"30OR","name":"BERO FLD","lat":45.802611,"lon":-123.280117,"elevation":700,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19KY"]={"id":"19KY","name":"CHARLIE BRAVOS","lat":38.706456,"lon":-84.599942,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

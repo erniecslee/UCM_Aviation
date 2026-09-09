@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IN2"]={"id":"8IN2","name":"ROBINSON FLD","lat":39.623333,"lon":-86.031389,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

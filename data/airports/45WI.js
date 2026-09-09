@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45WI"]={"id":"45WI","name":"WINDSONG FARM","lat":44.999964,"lon":-92.283522,"elevation":1250,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

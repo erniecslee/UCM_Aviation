@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05FL"]={"id":"05FL","name":"CHARLTON STRIP","lat":26.520222,"lon":-81.410222,"elevation":36,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

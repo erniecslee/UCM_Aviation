@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50XS"]={"id":"50XS","name":"HUGHES RANCH","lat":29.043297,"lon":-100.584528,"elevation":905,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

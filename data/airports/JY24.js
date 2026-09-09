@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY24"]={"id":"JY24","name":"WEISS FARM","lat":40.918117,"lon":-74.860625,"elevation":532,"region":"K6","runways":[{"id":"RW06","lat":40.916389,"lon":-74.863889,"length":2200,"course":68.1},{"id":"RW24","lat":40.919844,"lon":-74.857361,"length":2200,"course":248.1}],"procedures":{"D":{},"E":{},"F":{}}};

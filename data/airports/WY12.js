@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY12"]={"id":"WY12","name":"OHMAN RANCH","lat":43.926364,"lon":-105.653336,"elevation":4905,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA61"]={"id":"GA61","name":"KENLEY FLD","lat":33.269008,"lon":-84.497147,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

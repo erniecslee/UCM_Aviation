@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GA1"]={"id":"5GA1","name":"VANGUARD LANDING","lat":33.209167,"lon":-81.929167,"elevation":235,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

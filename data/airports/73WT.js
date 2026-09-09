@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73WT"]={"id":"73WT","name":"MC GREGOR","lat":46.717214,"lon":-118.097419,"elevation":1800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

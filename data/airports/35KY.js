@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35KY"]={"id":"35KY","name":"WELCOME FLD","lat":36.711153,"lon":-86.636108,"elevation":695,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

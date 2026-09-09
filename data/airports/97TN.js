@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97TN"]={"id":"97TN","name":"KITE FLD","lat":36.2775,"lon":-82.586667,"elevation":1450,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

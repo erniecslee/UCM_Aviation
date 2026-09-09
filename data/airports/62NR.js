@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62NR"]={"id":"62NR","name":"WEST","lat":35.429444,"lon":-80.450278,"elevation":700,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

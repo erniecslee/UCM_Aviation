@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN54"]={"id":"PN54","name":"AKM AIRFIELD","lat":41.837839,"lon":-76.745303,"elevation":1411,"region":"K6","runways":[{"id":"RW18","lat":41.840661,"lon":-76.746089,"length":2100,"course":180.2},{"id":"RW36","lat":41.835019,"lon":-76.744517,"length":2100,"course":0.2}],"procedures":{"D":{},"E":{},"F":{}}};

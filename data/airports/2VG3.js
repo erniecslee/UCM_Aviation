@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VG3"]={"id":"2VG3","name":"LINVILLE-EDOM","lat":38.548611,"lon":-78.871111,"elevation":1350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

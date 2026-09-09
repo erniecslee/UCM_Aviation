@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA78"]={"id":"WA78","name":"SKY RIVER RANCH","lat":45.627894,"lon":-122.184533,"elevation":1239,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

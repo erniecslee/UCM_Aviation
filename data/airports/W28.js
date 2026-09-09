@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W28"]={"id":"W28","name":"SEQUIM VALLEY","lat":48.097922,"lon":-123.187922,"elevation":151,"region":"K1","runways":[{"id":"RW09","lat":48.099344,"lon":-123.194778,"length":3508,"course":86.2},{"id":"RW27","lat":48.0965,"lon":-123.181064,"length":3508,"course":266.2}],"procedures":{"D":{},"E":{},"F":{}}};

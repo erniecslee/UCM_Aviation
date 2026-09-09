@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9ND2"]={"id":"9ND2","name":"LEWIS FLD","lat":47.358333,"lon":-97.795033,"elevation":1351,"region":"K3","runways":[{"id":"RW18","lat":47.361667,"lon":-97.795064,"length":2432,"course":176.3},{"id":"RW36","lat":47.355,"lon":-97.795,"length":2432,"course":356.3}],"procedures":{"D":{},"E":{},"F":{}}};

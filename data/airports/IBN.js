@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IBN"]={"id":"IBN","name":"DEVILS MOUNTAIN LODGE","lat":62.401847,"lon":-142.995469,"elevation":2880,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL68"]={"id":"OL68","name":"B&S RANCH","lat":35.866175,"lon":-96.366972,"elevation":930,"region":"K4","runways":[{"id":"RW09","lat":35.866242,"lon":-96.369164,"length":1300,"course":89.8},{"id":"RW27","lat":35.866111,"lon":-96.364781,"length":1300,"course":269.8}],"procedures":{"D":{},"E":{},"F":{}}};

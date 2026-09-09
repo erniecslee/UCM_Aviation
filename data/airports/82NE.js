@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82NE"]={"id":"82NE","name":"DRC","lat":41.925197,"lon":-101.185244,"elevation":3343,"region":"K3","runways":[{"id":"RW12","lat":41.929058,"lon":-101.191808,"length":4548,"course":122.7},{"id":"RW30","lat":41.921333,"lon":-101.178681,"length":4548,"course":302.7}],"procedures":{"D":{},"E":{},"F":{}}};

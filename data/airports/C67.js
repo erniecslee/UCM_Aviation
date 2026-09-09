@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C67"]={"id":"C67","name":"LAKE PLEASANT","lat":41.757,"lon":-85.091944,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

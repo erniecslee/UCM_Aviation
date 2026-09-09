@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10WY"]={"id":"10WY","name":"WILLOW CREEK RANCH","lat":43.423333,"lon":-106.823611,"elevation":5521,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66MI"]={"id":"66MI","name":"EAST LAKE","lat":42.228378,"lon":-85.484444,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

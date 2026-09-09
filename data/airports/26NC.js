@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26NC"]={"id":"26NC","name":"BOONVILLE","lat":36.222914,"lon":-80.715622,"elevation":1003,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

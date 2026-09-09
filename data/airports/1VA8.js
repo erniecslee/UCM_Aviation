@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1VA8"]={"id":"1VA8","name":"HAZELSWART","lat":36.861944,"lon":-78.411111,"elevation":485,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

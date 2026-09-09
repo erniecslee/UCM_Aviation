@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74ME"]={"id":"74ME","name":"LABRADOR LANDING","lat":44.065175,"lon":-69.533522,"elevation":54,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05CL"]={"id":"05CL","name":"POPE VALLEY","lat":38.610739,"lon":-122.391367,"elevation":618,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

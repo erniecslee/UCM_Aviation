@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63II"]={"id":"63II","name":"WOODS FLD","lat":39.50505,"lon":-86.030264,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KFCY"]={"id":"KFCY","name":"HUTFLY","lat":34.941997,"lon":-90.774967,"elevation":249,"region":"K4","runways":[{"id":"RW18","lat":34.946139,"lon":-90.774878,"length":3014,"course":180.0},{"id":"RW36","lat":34.937858,"lon":-90.775056,"length":3014,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

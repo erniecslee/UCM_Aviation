@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13KY"]={"id":"13KY","name":"MILES","lat":37.705603,"lon":-87.156108,"elevation":407,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

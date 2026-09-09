@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00VA"]={"id":"00VA","name":"VAUGHAN","lat":36.576,"lon":-78.999167,"elevation":551,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

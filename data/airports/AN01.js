@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AN01"]={"id":"AN01","name":"AV RANCH","lat":32.816667,"lon":-110.316667,"elevation":3500,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

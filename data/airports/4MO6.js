@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MO6"]={"id":"4MO6","name":"MARK TWAIN AIR PARK","lat":39.438936,"lon":-91.118194,"elevation":840,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

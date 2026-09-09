@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31KY"]={"id":"31KY","name":"WILD BLUE","lat":38.110556,"lon":-84.322222,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

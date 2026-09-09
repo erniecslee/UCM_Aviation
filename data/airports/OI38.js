@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI38"]={"id":"OI38","name":"HILLVIEW AIRSTRIP","lat":40.308667,"lon":-83.615208,"elevation":1400,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

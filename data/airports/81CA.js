@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81CA"]={"id":"81CA","name":"SKYDIVE SAN JOAQUIN VALLEY","lat":35.097778,"lon":-119.071111,"elevation":346,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

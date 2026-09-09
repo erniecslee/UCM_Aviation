@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TX5"]={"id":"1TX5","name":"LANEY FARM","lat":34.129242,"lon":-101.908789,"elevation":3483,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

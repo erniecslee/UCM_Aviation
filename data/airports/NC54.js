@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC54"]={"id":"NC54","name":"JACKSON PRIVATE","lat":34.877664,"lon":-76.356583,"elevation":10,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

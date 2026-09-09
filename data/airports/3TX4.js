@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TX4"]={"id":"3TX4","name":"WESTWIND HELICOPTERS","lat":29.327097,"lon":-95.059333,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

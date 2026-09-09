@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9XS1"]={"id":"9XS1","name":"THE LANDING","lat":31.835556,"lon":-96.952778,"elevation":570,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

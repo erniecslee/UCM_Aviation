@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66NC"]={"id":"66NC","name":"HOOD FLD","lat":35.174444,"lon":-77.483611,"elevation":59,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

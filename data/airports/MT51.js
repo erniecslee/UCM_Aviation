@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT51"]={"id":"MT51","name":"ZERBE","lat":48.276967,"lon":-105.961681,"elevation":2720,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

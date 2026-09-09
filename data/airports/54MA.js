@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54MA"]={"id":"54MA","name":"WOLF RIVER","lat":35.054025,"lon":-89.580028,"elevation":310,"region":"K7","runways":[{"id":"RW18","lat":35.058286,"lon":-89.579783,"length":3106,"course":180.7},{"id":"RW36","lat":35.049761,"lon":-89.580269,"length":3106,"course":0.7}],"procedures":{"D":{},"E":{},"F":{}}};

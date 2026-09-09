@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR12"]={"id":"AR12","name":"MC DONALD'S STRIP","lat":35.318986,"lon":-92.032389,"elevation":700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

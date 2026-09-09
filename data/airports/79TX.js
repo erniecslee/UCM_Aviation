@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79TX"]={"id":"79TX","name":"SPRING CREEK FLD","lat":31.90125,"lon":-97.854333,"elevation":1120,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

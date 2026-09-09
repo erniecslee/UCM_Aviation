@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02WN"]={"id":"02WN","name":"FOWLER FLD","lat":48.745833,"lon":-119.318611,"elevation":2150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

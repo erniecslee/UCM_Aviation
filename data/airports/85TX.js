@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85TX"]={"id":"85TX","name":"RUTHERFORD RANCH","lat":30.077711,"lon":-97.965564,"elevation":983,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

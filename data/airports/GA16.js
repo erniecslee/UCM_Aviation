@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA16"]={"id":"GA16","name":"TAYLOR FLD","lat":33.724286,"lon":-83.566833,"elevation":710,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

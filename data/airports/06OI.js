@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06OI"]={"id":"06OI","name":"GREEN ACRES","lat":39.734778,"lon":-84.382222,"elevation":915,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

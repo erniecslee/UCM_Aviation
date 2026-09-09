@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03TE"]={"id":"03TE","name":"BARRONENA RANCH","lat":27.491144,"lon":-98.669461,"elevation":600,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

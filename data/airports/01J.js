@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01J"]={"id":"01J","name":"HILLIARD AIRPARK","lat":30.685967,"lon":-81.906344,"elevation":59,"region":"K7","runways":[{"id":"RW18","lat":30.689817,"lon":-81.906428,"length":3600,"course":181.9},{"id":"RW36","lat":30.683028,"lon":-81.906281,"length":3600,"course":1.9}],"procedures":{"D":{},"E":{},"F":{}}};

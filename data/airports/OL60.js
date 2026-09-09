@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL60"]={"id":"OL60","name":"STOL IN","lat":36.136381,"lon":-95.676319,"elevation":628,"region":"K4","runways":[{"id":"RW17","lat":36.138442,"lon":-95.676675,"length":1516,"course":170.1},{"id":"RW35","lat":36.134317,"lon":-95.675961,"length":1516,"course":350.1}],"procedures":{"D":{},"E":{},"F":{}}};

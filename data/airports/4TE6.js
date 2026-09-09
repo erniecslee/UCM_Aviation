@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TE6"]={"id":"4TE6","name":"FRANCIS RANCH","lat":31.838817,"lon":-97.795164,"elevation":960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

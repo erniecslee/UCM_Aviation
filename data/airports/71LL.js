@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71LL"]={"id":"71LL","name":"RIVERODE FARMS","lat":40.842533,"lon":-88.559781,"elevation":651,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

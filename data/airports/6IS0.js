@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IS0"]={"id":"6IS0","name":"DAY AERO-PLACE","lat":40.095033,"lon":-88.128653,"elevation":690,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

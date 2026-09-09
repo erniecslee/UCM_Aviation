@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK14"]={"id":"AK14","name":"TURINSKY AIRSTRIP","lat":61.353333,"lon":-150.0825,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

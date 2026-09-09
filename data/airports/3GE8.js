@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GE8"]={"id":"3GE8","name":"PRATER RANCH","lat":33.843458,"lon":-82.479019,"elevation":460,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

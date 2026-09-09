@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TE6"]={"id":"9TE6","name":"ROCKY CREEK RANCH","lat":29.916892,"lon":-96.800256,"elevation":390,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18GA"]={"id":"18GA","name":"SLEEPY HOLLOW","lat":33.693175,"lon":-83.657672,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

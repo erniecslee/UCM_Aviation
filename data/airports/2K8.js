@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2K8"]={"id":"2K8","name":"ARGONIA MUNI","lat":37.275367,"lon":-97.75875,"elevation":1279,"region":"K3","runways":[{"id":"RW17","lat":37.279761,"lon":-97.75875,"length":3200,"course":173.0},{"id":"RW35","lat":37.270972,"lon":-97.75875,"length":3200,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

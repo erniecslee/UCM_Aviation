@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76KY"]={"id":"76KY","name":"BUZZARD'S ROOST","lat":38.014797,"lon":-84.841617,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H66"]={"id":"H66","name":"NOWATA MUNI","lat":36.720922,"lon":-95.625256,"elevation":679,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

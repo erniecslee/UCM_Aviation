@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66V"]={"id":"66V","name":"BLUFF","lat":37.255,"lon":-109.633028,"elevation":4476,"region":"K2","runways":[{"id":"RW03","lat":37.252106,"lon":-109.636692,"length":3000,"course":32.0},{"id":"RW21","lat":37.257889,"lon":-109.629347,"length":3000,"course":212.0}],"procedures":{"D":{},"E":{},"F":{}}};

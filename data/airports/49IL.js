@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49IL"]={"id":"49IL","name":"WALNUT CREEK","lat":41.593333,"lon":-88.691667,"elevation":666,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD19"]={"id":"MD19","name":"HYBARC FARM","lat":39.203167,"lon":-76.024944,"elevation":50,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

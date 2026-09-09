@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y65"]={"id":"Y65","name":"CAMPBELL-PRATT","lat":45.406172,"lon":-84.5984,"elevation":614,"region":"K5","runways":[{"id":"RW10","lat":45.406764,"lon":-84.604189,"length":3005,"course":105.2},{"id":"RW28","lat":45.405814,"lon":-84.594922,"length":3005,"course":285.2}],"procedures":{"D":{},"E":{},"F":{}}};

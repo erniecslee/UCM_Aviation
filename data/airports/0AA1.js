@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AA1"]={"id":"0AA1","name":"YAKATAGA","lat":60.08085,"lon":-142.495494,"elevation":16,"region":"PA","runways":[{"id":"RW08","lat":60.081942,"lon":-142.5072,"length":4350,"course":84.2},{"id":"RW26","lat":60.079756,"lon":-142.483789,"length":4350,"course":264.2}],"procedures":{"D":{},"E":{},"F":{}}};

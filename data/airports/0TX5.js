@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TX5"]={"id":"0TX5","name":"SHILOH","lat":33.024011,"lon":-97.119733,"elevation":635,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC75"]={"id":"NC75","name":"SCHNEIDER HAVEN AIRSTRIP","lat":35.898333,"lon":-80.720278,"elevation":865,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

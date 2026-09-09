@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96G"]={"id":"96G","name":"COWLEY FLD","lat":43.375722,"lon":-82.818833,"elevation":770,"region":"K5","runways":[{"id":"RW09","lat":43.375611,"lon":-82.823722,"length":2600,"course":95.0},{"id":"RW27","lat":43.375833,"lon":-82.813944,"length":2600,"course":275.0}],"procedures":{"D":{},"E":{},"F":{}}};

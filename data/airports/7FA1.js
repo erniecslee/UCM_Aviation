@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FA1"]={"id":"7FA1","name":"SUGAR LOAF SHORES","lat":24.648756,"lon":-81.579808,"elevation":4,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

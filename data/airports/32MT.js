@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32MT"]={"id":"32MT","name":"VBOB","lat":45.460325,"lon":-112.435125,"elevation":5025,"region":"K1","runways":[{"id":"RW18","lat":45.461667,"lon":-112.434722,"length":1000,"course":180.2},{"id":"RW36","lat":45.458983,"lon":-112.435528,"length":1000,"course":0.2}],"procedures":{"D":{},"E":{},"F":{}}};

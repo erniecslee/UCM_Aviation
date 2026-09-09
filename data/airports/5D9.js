@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5D9"]={"id":"5D9","name":"BANDIT FLD AIRDROME","lat":41.223944,"lon":-82.957692,"elevation":805,"region":"K5","runways":[{"id":"RW36","lat":41.220333,"lon":-82.957731,"length":2630,"course":6.0}],"procedures":{"D":{},"E":{},"F":{}}};

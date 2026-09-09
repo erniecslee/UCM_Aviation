@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10LA"]={"id":"10LA","name":"INDUSTRIAL HELICOPTERS INC","lat":30.247422,"lon":-92.095956,"elevation":35,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

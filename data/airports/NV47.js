@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV47"]={"id":"NV47","name":"NEW FARM","lat":41.1116,"lon":-117.5222,"elevation":4456,"region":"K2","runways":[{"id":"RW02","lat":41.106025,"lon":-117.524358,"length":4233,"course":3.8},{"id":"RW20","lat":41.117175,"lon":-117.520042,"length":4233,"course":183.8}],"procedures":{"D":{},"E":{},"F":{}}};

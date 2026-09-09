@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MT2"]={"id":"1MT2","name":"SKYRIDER","lat":45.943056,"lon":-108.549167,"elevation":3540,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

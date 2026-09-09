@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15MN"]={"id":"15MN","name":"TYLER FARMS","lat":45.262211,"lon":-94.510658,"elevation":1185,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

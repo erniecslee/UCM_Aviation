@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31II"]={"id":"31II","name":"HERBS FLD","lat":38.912086,"lon":-84.905197,"elevation":802,"region":"K5","runways":[{"id":"RW14","lat":38.915008,"lon":-84.908911,"length":3000,"course":141.0},{"id":"RW32","lat":38.909164,"lon":-84.901483,"length":3000,"course":321.0}],"procedures":{"D":{},"E":{},"F":{}}};

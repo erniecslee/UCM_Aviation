@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3N1"]={"id":"3N1","name":"MALOELAP","lat":8.708333,"lon":171.233333,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

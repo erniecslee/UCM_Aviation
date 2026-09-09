@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL50"]={"id":"FL50","name":"ROSSI FLD","lat":30.146622,"lon":-82.572344,"elevation":183,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

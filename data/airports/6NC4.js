@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC4"]={"id":"6NC4","name":"BROWN","lat":35.905689,"lon":-81.139525,"elevation":1170,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

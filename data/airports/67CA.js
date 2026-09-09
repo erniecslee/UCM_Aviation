@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67CA"]={"id":"67CA","name":"CHAPMAN FARMS","lat":37.072722,"lon":-120.378233,"elevation":175,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

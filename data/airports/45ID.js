@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45ID"]={"id":"45ID","name":"FOX CREEK","lat":48.33005,"lon":-116.828933,"elevation":2434,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5M4"]={"id":"5M4","name":"FORDYCE MUNI","lat":33.845792,"lon":-92.365528,"elevation":193,"region":"K4","runways":[{"id":"RW05","lat":33.842858,"lon":-92.369414,"length":3183,"course":44.0},{"id":"RW23","lat":33.848725,"lon":-92.361644,"length":3183,"course":224.0}],"procedures":{"D":{},"E":{},"F":{}}};

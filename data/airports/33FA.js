@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33FA"]={"id":"33FA","name":"RUSSAKIS RANCH","lat":27.598092,"lon":-80.845894,"elevation":67,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

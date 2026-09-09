@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK8"]={"id":"3AK8","name":"BOISSELLE'S STRIP","lat":61.662539,"lon":-149.3919,"elevation":400,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

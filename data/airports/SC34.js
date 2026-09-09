@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC34"]={"id":"SC34","name":"IVA FLD","lat":34.297053,"lon":-82.683744,"elevation":660,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

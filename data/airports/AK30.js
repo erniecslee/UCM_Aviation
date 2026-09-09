@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK30"]={"id":"AK30","name":"STRAWBERRY POINT","lat":60.391153,"lon":-146.097464,"elevation":50,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX45"]={"id":"TX45","name":"HAWKEYE HUNTING CLUB","lat":31.766828,"lon":-97.129447,"elevation":260,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IS8"]={"id":"6IS8","name":"TRISLER","lat":39.990156,"lon":-87.887486,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

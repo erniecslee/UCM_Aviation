@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS66"]={"id":"IS66","name":"RHEA","lat":40.592264,"lon":-91.201536,"elevation":684,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

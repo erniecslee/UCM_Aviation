@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CO5"]={"id":"1CO5","name":"MELON FLD","lat":38.015286,"lon":-103.699117,"elevation":4260,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

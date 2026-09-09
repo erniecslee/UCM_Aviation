@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99TA"]={"id":"99TA","name":"ECHTLE FLD","lat":29.383703,"lon":-98.893272,"elevation":816,"region":"K4","runways":[{"id":"RW09","lat":29.383714,"lon":-98.895164,"length":1205,"course":86.7},{"id":"RW27","lat":29.383689,"lon":-98.891381,"length":1205,"course":266.7}],"procedures":{"D":{},"E":{},"F":{}}};

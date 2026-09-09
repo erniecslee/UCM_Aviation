@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID10"]={"id":"ID10","name":"WEITZ","lat":43.594819,"lon":-116.832522,"elevation":2289,"region":"K1","runways":[{"id":"RW18","lat":43.594819,"lon":-116.832522,"length":1685,"course":57.8}],"procedures":{"D":{},"E":{},"F":{}}};

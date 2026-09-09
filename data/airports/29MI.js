@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29MI"]={"id":"29MI","name":"SAWYER FLD","lat":42.600036,"lon":-84.449975,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

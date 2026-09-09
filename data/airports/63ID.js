@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63ID"]={"id":"63ID","name":"HOSKINS FLD","lat":43.636833,"lon":-116.763056,"elevation":2525,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A27"]={"id":"A27","name":"SELDOVIA","lat":59.434106,"lon":-151.707661,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

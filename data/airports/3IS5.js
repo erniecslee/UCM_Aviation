@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IS5"]={"id":"3IS5","name":"HOLMES SOUTHEAST","lat":39.684494,"lon":-89.598708,"elevation":590,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN44"]={"id":"WN44","name":"PODEWELTZ","lat":45.239408,"lon":-89.569011,"elevation":1470,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

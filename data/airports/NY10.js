@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY10"]={"id":"NY10","name":"DUFLO","lat":43.842569,"lon":-75.430742,"elevation":789,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

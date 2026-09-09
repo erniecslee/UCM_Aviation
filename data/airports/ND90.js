@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND90"]={"id":"ND90","name":"DAHL PVT","lat":45.966631,"lon":-97.733711,"elevation":1285,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

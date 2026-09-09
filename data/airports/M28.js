@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M28"]={"id":"M28","name":"MID CONTINENT","lat":36.22425,"lon":-89.728833,"elevation":268,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

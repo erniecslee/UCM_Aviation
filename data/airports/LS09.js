@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS09"]={"id":"LS09","name":"A J PATROL","lat":30.142781,"lon":-92.333328,"elevation":16,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

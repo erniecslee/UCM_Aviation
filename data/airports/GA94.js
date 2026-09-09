@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA94"]={"id":"GA94","name":"MC LENDON","lat":33.491503,"lon":-84.489372,"elevation":900,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

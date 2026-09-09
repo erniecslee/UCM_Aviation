@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52CO"]={"id":"52CO","name":"MOUNTAIN VIEW RANCH","lat":39.109711,"lon":-104.653861,"elevation":7500,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

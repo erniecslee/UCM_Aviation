@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90FL"]={"id":"90FL","name":"PAXTON","lat":27.361153,"lon":-80.760892,"elevation":66,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

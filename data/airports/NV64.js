@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV64"]={"id":"NV64","name":"SWANSON RANCH 3","lat":40.00825,"lon":-117.39205,"elevation":4940,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

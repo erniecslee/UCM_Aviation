@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44T"]={"id":"44T","name":"HOSKINS FLD","lat":46.992389,"lon":-122.827833,"elevation":213,"region":"K1","runways":[{"id":"RW07","lat":46.99245,"lon":-122.831881,"length":2015,"course":71.0},{"id":"RW25","lat":46.99235,"lon":-122.823806,"length":2015,"course":251.0}],"procedures":{"D":{},"E":{},"F":{}}};

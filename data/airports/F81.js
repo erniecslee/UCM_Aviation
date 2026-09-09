@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F81"]={"id":"F81","name":"OKEMAH MUNI","lat":35.405269,"lon":-96.305539,"elevation":876,"region":"K4","runways":[{"id":"RW18","lat":35.409928,"lon":-96.305958,"length":3400,"course":170.0},{"id":"RW36","lat":35.400614,"lon":-96.305119,"length":3400,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

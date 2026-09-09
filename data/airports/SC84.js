@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC84"]={"id":"SC84","name":"SAND BURR","lat":33.846461,"lon":-81.381308,"elevation":499,"region":"K7","runways":[{"id":"RW17","lat":33.850483,"lon":-81.382836,"length":3072,"course":169.9},{"id":"RW35","lat":33.842436,"lon":-81.379778,"length":3072,"course":349.9}],"procedures":{"D":{},"E":{},"F":{}}};

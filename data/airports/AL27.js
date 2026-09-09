@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL27"]={"id":"AL27","name":"HEADQUARTERS","lat":34.105653,"lon":-85.565794,"elevation":610,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

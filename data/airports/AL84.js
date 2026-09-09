@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL84"]={"id":"AL84","name":"VELOX","lat":30.540567,"lon":-87.568917,"elevation":132,"region":"K7","runways":[{"id":"RW09","lat":30.540856,"lon":-87.573114,"length":2650,"course":93.5},{"id":"RW27","lat":30.540278,"lon":-87.564722,"length":2650,"course":273.6}],"procedures":{"D":{},"E":{},"F":{}}};

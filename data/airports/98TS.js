@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98TS"]={"id":"98TS","name":"CABRITO","lat":31.559303,"lon":-98.422467,"elevation":1679,"region":"K4","runways":[{"id":"RW02","lat":31.555667,"lon":-98.424528,"length":3000,"course":22.4},{"id":"RW20","lat":31.562597,"lon":-98.420597,"length":3000,"course":202.4}],"procedures":{"D":{},"E":{},"F":{}}};

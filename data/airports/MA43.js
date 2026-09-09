@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA43"]={"id":"MA43","name":"MOREHAVEN","lat":42.072317,"lon":-72.9001,"elevation":1120,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

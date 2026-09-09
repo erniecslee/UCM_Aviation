@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52XA"]={"id":"52XA","name":"KLINKERMAN","lat":34.048544,"lon":-98.426994,"elevation":1040,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

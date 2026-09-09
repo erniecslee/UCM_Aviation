@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MI6"]={"id":"2MI6","name":"THE FARM","lat":44.287431,"lon":-83.760914,"elevation":809,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

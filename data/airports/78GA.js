@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78GA"]={"id":"78GA","name":"C&R FARM","lat":33.504278,"lon":-85.017164,"elevation":1013,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

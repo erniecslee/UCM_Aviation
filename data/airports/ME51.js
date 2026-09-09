@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME51"]={"id":"ME51","name":"DOUGLASS","lat":43.737022,"lon":-70.610611,"elevation":270,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT24"]={"id":"UT24","name":"STRAWBERRY VALLEY ESTATES","lat":37.493314,"lon":-112.645492,"elevation":8141,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

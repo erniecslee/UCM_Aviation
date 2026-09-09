@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62IN"]={"id":"62IN","name":"FOWLER FLD /PVT/","lat":40.430872,"lon":-85.978319,"elevation":854,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

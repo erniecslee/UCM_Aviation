@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA22"]={"id":"WA22","name":"MIRTH","lat":47.938611,"lon":-122.608056,"elevation":190,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L33"]={"id":"L33","name":"TENSAS PARISH","lat":31.973219,"lon":-91.238733,"elevation":74,"region":"K4","runways":[{"id":"RW16","lat":31.977764,"lon":-91.240628,"length":3509,"course":156.4},{"id":"RW34","lat":31.968675,"lon":-91.236839,"length":3509,"course":336.4}],"procedures":{"D":{},"E":{},"F":{}}};

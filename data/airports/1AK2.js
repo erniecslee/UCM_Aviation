@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AK2"]={"id":"1AK2","name":"CROSSWIND LAKE","lat":62.400942,"lon":-146.013306,"elevation":2125,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

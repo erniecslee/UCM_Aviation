@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO56"]={"id":"CO56","name":"JJS","lat":39.96415,"lon":-104.463014,"elevation":5075,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

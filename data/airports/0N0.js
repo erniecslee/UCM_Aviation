@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0N0"]={"id":"0N0","name":"ROOSTERVILLE","lat":39.289833,"lon":-94.442444,"elevation":1004,"region":"K3","runways":[{"id":"RW18","lat":39.293622,"lon":-94.441889,"length":2780,"course":181.5},{"id":"RW36","lat":39.286039,"lon":-94.443008,"length":2780,"course":1.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68NE"]={"id":"68NE","name":"HALL-FELD","lat":40.991389,"lon":-96.619733,"elevation":1355,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

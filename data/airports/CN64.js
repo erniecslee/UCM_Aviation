@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN64"]={"id":"CN64","name":"DESERT CENTER","lat":33.747722,"lon":-115.32525,"elevation":559,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JB01"]={"id":"JB01","name":"CLEARWATER AERO ESTATES","lat":43.7572,"lon":-89.652625,"elevation":944,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

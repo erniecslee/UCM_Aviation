@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68FD"]={"id":"68FD","name":"MARAN","lat":30.522222,"lon":-85.376667,"elevation":225,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

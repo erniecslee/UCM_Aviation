@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO96"]={"id":"CO96","name":"REED HOLLOW RANCH","lat":39.371667,"lon":-104.743056,"elevation":6200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

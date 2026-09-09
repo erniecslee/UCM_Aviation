@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD1"]={"id":"4MD1","name":"BUNTING'S FLD","lat":38.368169,"lon":-75.230744,"elevation":5,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

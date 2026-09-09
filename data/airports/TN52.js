@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN52"]={"id":"TN52","name":"KING","lat":35.138139,"lon":-86.081094,"elevation":1050,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

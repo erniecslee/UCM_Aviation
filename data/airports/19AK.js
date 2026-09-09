@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19AK"]={"id":"19AK","name":"ICY BAY","lat":59.969019,"lon":-141.661769,"elevation":50,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

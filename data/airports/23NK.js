@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23NK"]={"id":"23NK","name":"LONG ACRE FARMS","lat":43.1125,"lon":-77.3125,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

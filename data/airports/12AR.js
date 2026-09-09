@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12AR"]={"id":"12AR","name":"GIBBONS","lat":34.515444,"lon":-90.973722,"elevation":178,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

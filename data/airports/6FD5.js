@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FD5"]={"id":"6FD5","name":"BLANKET BAY","lat":27.778639,"lon":-81.099789,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

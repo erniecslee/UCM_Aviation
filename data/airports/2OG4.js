@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OG4"]={"id":"2OG4","name":"EL RANCHO","lat":42.330278,"lon":-118.647222,"elevation":4130,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

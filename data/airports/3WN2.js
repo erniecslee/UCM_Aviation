@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN2"]={"id":"3WN2","name":"OLD DAIRY","lat":46.691606,"lon":-90.870739,"elevation":725,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W36"]={"id":"W36","name":"WILL ROGERS WILEY POST MEML","lat":47.500575,"lon":-122.218025,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

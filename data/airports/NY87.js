@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY87"]={"id":"NY87","name":"AMSTERDAM AIRFIELD","lat":42.962575,"lon":-74.253744,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

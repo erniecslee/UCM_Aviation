@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN98"]={"id":"SN98","name":"ANTON FLYING UV","lat":37.420831,"lon":-100.942108,"elevation":2954,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

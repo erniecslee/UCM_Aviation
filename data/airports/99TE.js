@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99TE"]={"id":"99TE","name":"PRITCHARD","lat":33.605833,"lon":-96.415556,"elevation":800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U70"]={"id":"U70","name":"CASCADE","lat":44.492333,"lon":-116.014778,"elevation":4748,"region":"K1","runways":[{"id":"RW12","lat":44.496456,"lon":-116.020658,"length":4300,"course":117.4},{"id":"RW30","lat":44.488197,"lon":-116.008889,"length":4300,"course":297.4}],"procedures":{"D":{},"E":{},"F":{}}};

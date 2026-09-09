@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69OR"]={"id":"69OR","name":"DICK FISHER","lat":45.412614,"lon":-123.136775,"elevation":300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

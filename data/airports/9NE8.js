@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NE8"]={"id":"9NE8","name":"BROSIUS FLD","lat":41.401667,"lon":-100.47875,"elevation":3010,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

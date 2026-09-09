@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04MA"]={"id":"04MA","name":"GODDARD","lat":42.809811,"lon":-71.139225,"elevation":200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

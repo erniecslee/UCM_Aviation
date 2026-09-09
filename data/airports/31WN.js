@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31WN"]={"id":"31WN","name":"BERLIN FLD LLC","lat":43.991647,"lon":-88.962614,"elevation":773,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

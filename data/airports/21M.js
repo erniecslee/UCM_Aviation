@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21M"]={"id":"21M","name":"CURRIER'S","lat":45.478306,"lon":-69.619306,"elevation":1029,"region":"K6","runways":[{"id":"RW18W","lat":45.492006,"lon":-69.619567,"length":10000,"course":197.0},{"id":"RW36W","lat":45.464575,"lon":-69.619072,"length":10000,"course":17.0}],"procedures":{"D":{},"E":{},"F":{}}};

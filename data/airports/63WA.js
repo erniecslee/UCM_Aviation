@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63WA"]={"id":"63WA","name":"BOYLE R & D","lat":47.833333,"lon":-117.273611,"elevation":2350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

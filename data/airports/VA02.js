@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA02"]={"id":"VA02","name":"PACE","lat":36.585417,"lon":-79.893928,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

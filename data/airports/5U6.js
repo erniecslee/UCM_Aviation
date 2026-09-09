@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5U6"]={"id":"5U6","name":"FAIRVIEW","lat":47.862528,"lon":-104.071417,"elevation":2152,"region":"K1","runways":[{"id":"RW08","lat":47.862839,"lon":-104.0775,"length":3000,"course":82.0},{"id":"RW26","lat":47.862206,"lon":-104.065311,"length":3000,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

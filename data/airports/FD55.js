@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD55"]={"id":"FD55","name":"RUTTEN AIRSTRIP","lat":30.679361,"lon":-84.369072,"elevation":260,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

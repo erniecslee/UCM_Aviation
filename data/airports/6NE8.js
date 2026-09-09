@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NE8"]={"id":"6NE8","name":"HOPPY'S","lat":40.086939,"lon":-101.568778,"elevation":3227,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

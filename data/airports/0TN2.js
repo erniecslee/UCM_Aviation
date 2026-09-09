@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TN2"]={"id":"0TN2","name":"VILLAGE","lat":35.655911,"lon":-84.185469,"elevation":920,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

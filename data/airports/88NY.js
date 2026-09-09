@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88NY"]={"id":"88NY","name":"ZELAZNY","lat":43.157836,"lon":-78.358356,"elevation":635,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

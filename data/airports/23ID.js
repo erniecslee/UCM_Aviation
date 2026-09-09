@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23ID"]={"id":"23ID","name":"SOUTHFORK","lat":43.648264,"lon":-114.904697,"elevation":5612,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12NY"]={"id":"12NY","name":"T & C ACRES","lat":42.883903,"lon":-74.931344,"elevation":1566,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

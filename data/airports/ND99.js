@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND99"]={"id":"ND99","name":"ELLIG FLD","lat":46.720242,"lon":-96.809528,"elevation":910,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

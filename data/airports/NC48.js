@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC48"]={"id":"NC48","name":"SAFE FLD","lat":34.750108,"lon":-78.061519,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

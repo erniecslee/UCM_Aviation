@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK0"]={"id":"0AK0","name":"SCOTTS","lat":64.3925,"lon":-146.862083,"elevation":800,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M99"]={"id":"M99","name":"SHADY LANE","lat":43.0612,"lon":-84.548389,"elevation":680,"region":"K5","runways":[{"id":"RW09","lat":43.06115,"lon":-84.552694,"length":2302,"course":95.7},{"id":"RW27","lat":43.06125,"lon":-84.544083,"length":2302,"course":275.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9F0"]={"id":"9F0","name":"DUBLIN MUNI","lat":32.0682,"lon":-98.325322,"elevation":1495,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

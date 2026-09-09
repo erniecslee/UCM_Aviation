@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80CA"]={"id":"80CA","name":"BACCHI VALLEY INDUSTRIES","lat":38.8174,"lon":-120.922439,"elevation":760,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

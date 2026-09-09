@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KBAB"]={"id":"KBAB","name":"BEALE AFB","lat":39.1361,"lon":-121.436586,"elevation":113,"region":"K2","runways":[{"id":"RW15","lat":39.151711,"lon":-121.44335,"length":12001,"course":145.0},{"id":"RW33","lat":39.120492,"lon":-121.429822,"length":12001,"course":325.0}],"procedures":{"D":{},"E":{},"F":{}}};

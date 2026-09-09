@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK5"]={"id":"8AK5","name":"FORT CROSBY","lat":62.513889,"lon":-150.265278,"elevation":650,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

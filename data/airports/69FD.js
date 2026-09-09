@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69FD"]={"id":"69FD","name":"UNICORN PLACE","lat":30.844722,"lon":-86.281389,"elevation":260,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04G"]={"id":"04G","name":"LANSDOWNE","lat":41.130472,"lon":-80.619583,"elevation":1044,"region":"K5","runways":[{"id":"RW02","lat":41.127219,"lon":-80.620778,"length":3073,"course":24.0},{"id":"RW20","lat":41.134539,"lon":-80.618089,"length":3073,"course":204.0}],"procedures":{"D":{},"E":{},"F":{}}};

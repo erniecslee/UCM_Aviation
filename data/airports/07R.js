@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07R"]={"id":"07R","name":"BISHOP-WINDHAM","lat":27.610167,"lon":-97.752528,"elevation":55,"region":"K4","runways":[{"id":"RW15","lat":27.614064,"lon":-97.754819,"length":3200,"course":145.0},{"id":"RW33","lat":27.606267,"lon":-97.750228,"length":3200,"course":325.0}],"procedures":{"D":{},"E":{},"F":{}}};

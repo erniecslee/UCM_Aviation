@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NY1"]={"id":"7NY1","name":"GAR FLD","lat":42.763408,"lon":-74.278464,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

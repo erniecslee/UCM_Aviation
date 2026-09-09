@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53NE"]={"id":"53NE","name":"STARNS BROTHERS","lat":41.081389,"lon":-96.403347,"elevation":1090,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VA1"]={"id":"2VA1","name":"JETT AIRPARK","lat":37.895964,"lon":-76.355225,"elevation":90,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

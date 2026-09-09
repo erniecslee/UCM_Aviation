@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA04"]={"id":"OA04","name":"RUTTER","lat":41.097553,"lon":-83.502706,"elevation":815,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

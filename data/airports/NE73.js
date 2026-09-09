@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE73"]={"id":"NE73","name":"CREEKVIEW","lat":42.184956,"lon":-98.4191,"elevation":1946,"region":"K3","runways":[{"id":"RW16","lat":42.188339,"lon":-98.420633,"length":2600,"course":157.7},{"id":"RW34","lat":42.181572,"lon":-98.417567,"length":2600,"course":337.7}],"procedures":{"D":{},"E":{},"F":{}}};

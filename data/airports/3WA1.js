@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WA1"]={"id":"3WA1","name":"JOHNSON'S LANDING","lat":47.603611,"lon":-120.670089,"elevation":1260,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

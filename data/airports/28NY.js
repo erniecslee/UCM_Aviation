@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28NY"]={"id":"28NY","name":"SPAULDING AERODROME","lat":42.308333,"lon":-79.225,"elevation":1607,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37IS"]={"id":"37IS","name":"HILBERT","lat":42.332222,"lon":-88.605556,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

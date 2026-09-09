@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31FA"]={"id":"31FA","name":"S & S AVION RANCH","lat":28.959167,"lon":-82.134167,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

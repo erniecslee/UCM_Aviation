@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02TS"]={"id":"02TS","name":"EL TESORO RANCH","lat":28.662642,"lon":-98.723094,"elevation":334,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

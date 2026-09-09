@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17S"]={"id":"17S","name":"CHEHALEM AIRPARK","lat":45.323728,"lon":-123.054269,"elevation":190,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

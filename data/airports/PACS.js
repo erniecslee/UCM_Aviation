@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PACS"]={"id":"PACS","name":"CAPE SARICHEF","lat":54.582431,"lon":-164.914481,"elevation":291,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

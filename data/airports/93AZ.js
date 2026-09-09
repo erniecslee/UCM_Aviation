@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93AZ"]={"id":"93AZ","name":"INDE MOTORSPORTS RANCH","lat":32.224653,"lon":-110.007819,"elevation":4463,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

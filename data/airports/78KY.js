@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78KY"]={"id":"78KY","name":"FLY ON INN","lat":37.716008,"lon":-83.840833,"elevation":1229,"region":"K5","runways":[{"id":"RW06","lat":37.714606,"lon":-83.843072,"length":1650,"course":58.1},{"id":"RW24","lat":37.717411,"lon":-83.838594,"length":1650,"course":238.1}],"procedures":{"D":{},"E":{},"F":{}}};

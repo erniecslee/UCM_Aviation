@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74CN"]={"id":"74CN","name":"CAMATTA RANCH AIRSTRIP","lat":35.476358,"lon":-120.309022,"elevation":1358,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76FD"]={"id":"76FD","name":"PEAVY FARMS","lat":30.670206,"lon":-84.4149,"elevation":270,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS65"]={"id":"MS65","name":"DELTA FLYING SERVICE INC","lat":34.940492,"lon":-90.201556,"elevation":210,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

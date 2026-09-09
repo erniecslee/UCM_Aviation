@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL54"]={"id":"FL54","name":"FLYING TIGER FLD","lat":29.935517,"lon":-82.410667,"elevation":115,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01CL"]={"id":"01CL","name":"SWANSBORO COUNTRY","lat":38.799903,"lon":-120.734375,"elevation":2594,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

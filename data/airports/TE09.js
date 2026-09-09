@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE09"]={"id":"TE09","name":"MINARD PEGASUS","lat":29.331906,"lon":-95.276042,"elevation":25,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

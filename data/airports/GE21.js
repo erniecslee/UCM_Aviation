@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE21"]={"id":"GE21","name":"ANDERSON","lat":31.019847,"lon":-84.395472,"elevation":138,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

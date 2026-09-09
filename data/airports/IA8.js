@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA8"]={"id":"IA8","name":"DYERSVILLE AREA","lat":42.496106,"lon":-91.179858,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

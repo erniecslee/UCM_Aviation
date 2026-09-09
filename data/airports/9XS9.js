@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9XS9"]={"id":"9XS9","name":"RANCHO VERDE","lat":30.275742,"lon":-96.441386,"elevation":275,"region":"K4","runways":[{"id":"RW15","lat":30.2775,"lon":-96.441986,"length":1334,"course":161.1},{"id":"RW33","lat":30.273983,"lon":-96.440783,"length":1334,"course":341.1}],"procedures":{"D":{},"E":{},"F":{}}};

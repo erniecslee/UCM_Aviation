@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD29"]={"id":"FD29","name":"FLYING DUTCHMAN RANCH","lat":29.130811,"lon":-82.119256,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

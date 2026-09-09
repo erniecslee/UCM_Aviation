@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0M8"]={"id":"0M8","name":"BYERLEY","lat":32.825881,"lon":-91.187664,"elevation":106,"region":"K4","runways":[{"id":"RW17","lat":32.829778,"lon":-91.188092,"length":3196,"course":172.0},{"id":"RW35","lat":32.822958,"lon":-91.187369,"length":3196,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

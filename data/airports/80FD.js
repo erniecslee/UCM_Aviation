@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80FD"]={"id":"80FD","name":"BRADY RANCH","lat":27.113383,"lon":-80.633389,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

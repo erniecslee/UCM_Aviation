@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Z9"]={"id":"1Z9","name":"ELLAMAR","lat":60.893908,"lon":-146.703692,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

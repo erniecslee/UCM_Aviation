@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA71"]={"id":"XA71","name":"NORTH CEDAR","lat":31.277333,"lon":-94.974,"elevation":250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9PN8"]={"id":"9PN8","name":"MALINCHAK PVT","lat":41.625081,"lon":-75.532964,"elevation":1700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

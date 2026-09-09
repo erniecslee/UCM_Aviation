@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80TN"]={"id":"80TN","name":"BIG T","lat":35.826667,"lon":-84.33,"elevation":900,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

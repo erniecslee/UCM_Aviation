@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45KS"]={"id":"45KS","name":"KOAFM","lat":37.525247,"lon":-95.374108,"elevation":1022,"region":"K3","runways":[{"id":"RW17","lat":37.528444,"lon":-95.374144,"length":2328,"course":178.2},{"id":"RW35","lat":37.522053,"lon":-95.374111,"length":2328,"course":358.2}],"procedures":{"D":{},"E":{},"F":{}}};

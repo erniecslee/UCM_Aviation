@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH60"]={"id":"NH60","name":"HUFF MEML","lat":42.959056,"lon":-71.653117,"elevation":840,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

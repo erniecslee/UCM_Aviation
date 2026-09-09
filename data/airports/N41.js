@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N41"]={"id":"N41","name":"MOUNT TOBE","lat":41.633431,"lon":-73.046775,"elevation":850,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

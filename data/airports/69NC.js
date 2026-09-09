@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69NC"]={"id":"69NC","name":"CLUTE'S HILLTOP","lat":35.4335,"lon":-81.84575,"elevation":1078,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

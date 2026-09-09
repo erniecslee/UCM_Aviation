@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12TS"]={"id":"12TS","name":"BLO","lat":32.908458,"lon":-97.977261,"elevation":1050,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS36"]={"id":"MS36","name":"SUPPLEJACK","lat":32.65,"lon":-89.970833,"elevation":340,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

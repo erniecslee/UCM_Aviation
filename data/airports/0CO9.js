@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CO9"]={"id":"0CO9","name":"VAN TREESE","lat":37.658333,"lon":-106.033914,"elevation":7613,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO73"]={"id":"MO73","name":"ROLLING SHOALS FARM","lat":36.987553,"lon":-90.55845,"elevation":450,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

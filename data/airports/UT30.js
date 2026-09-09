@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT30"]={"id":"UT30","name":"DEER SPRINGS RANCH","lat":37.342481,"lon":-112.223528,"elevation":6485,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

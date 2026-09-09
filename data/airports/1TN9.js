@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TN9"]={"id":"1TN9","name":"CRUMLEY FLD","lat":36.503817,"lon":-82.181789,"elevation":1565,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

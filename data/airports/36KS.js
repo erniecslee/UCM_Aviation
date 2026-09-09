@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36KS"]={"id":"36KS","name":"WHITE FARMS","lat":37.475372,"lon":-95.343644,"elevation":1003,"region":"K3","runways":[{"id":"RW01","lat":37.471722,"lon":-95.344369,"length":2690,"course":3.0},{"id":"RW19","lat":37.479019,"lon":-95.342919,"length":2690,"course":183.0}],"procedures":{"D":{},"E":{},"F":{}}};

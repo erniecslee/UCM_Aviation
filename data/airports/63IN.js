@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63IN"]={"id":"63IN","name":"LITTLE YORK","lat":38.695833,"lon":-85.919167,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

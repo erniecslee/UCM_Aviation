@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7VA5"]={"id":"7VA5","name":"LONG ISLAND","lat":37.104103,"lon":-79.091192,"elevation":636,"region":"K6","runways":[{"id":"RW03","lat":37.101789,"lon":-79.092283,"length":1800,"course":30.0},{"id":"RW21","lat":37.106414,"lon":-79.0901,"length":1800,"course":210.0}],"procedures":{"D":{},"E":{},"F":{}}};

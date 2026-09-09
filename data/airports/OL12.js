@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL12"]={"id":"OL12","name":"RED ROCK SOUTH","lat":36.421667,"lon":-97.161667,"elevation":966,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

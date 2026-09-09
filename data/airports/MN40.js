@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN40"]={"id":"MN40","name":"MEADOWVALE","lat":45.362464,"lon":-93.588572,"elevation":950,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

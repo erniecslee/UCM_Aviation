@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG24"]={"id":"VG24","name":"MAYERS","lat":37.781808,"lon":-77.493872,"elevation":215,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

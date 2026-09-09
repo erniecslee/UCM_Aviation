@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OI6"]={"id":"0OI6","name":"VICTOR'S LANDING","lat":41.838111,"lon":-80.643689,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

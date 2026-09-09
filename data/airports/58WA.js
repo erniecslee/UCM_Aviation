@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58WA"]={"id":"58WA","name":"DYE SEED RANCH INC","lat":46.507378,"lon":-117.449625,"elevation":2500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

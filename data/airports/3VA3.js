@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VA3"]={"id":"3VA3","name":"FLYING CIRCUS AERODROME","lat":38.550403,"lon":-77.715825,"elevation":315,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

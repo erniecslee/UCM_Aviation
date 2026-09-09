@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OK2"]={"id":"5OK2","name":"CHRISTOPHER M RIPPEE MEML","lat":34.776667,"lon":-96.245278,"elevation":820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

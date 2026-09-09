@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I44"]={"id":"I44","name":"DAHIO TROTWOOD","lat":39.765106,"lon":-84.342961,"elevation":925,"region":"K5","runways":[{"id":"RW04","lat":39.762189,"lon":-84.346461,"length":2900,"course":49.1},{"id":"RW22","lat":39.768022,"lon":-84.339461,"length":2900,"course":229.1}],"procedures":{"D":{},"E":{},"F":{}}};

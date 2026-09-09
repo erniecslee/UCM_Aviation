@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94MI"]={"id":"94MI","name":"RED AERO FLD","lat":42.387258,"lon":-85.735997,"elevation":810,"region":"K5","runways":[{"id":"RW18U","lat":42.389175,"lon":-85.736,"length":1400,"course":185.6},{"id":"RW36U","lat":42.385333,"lon":-85.736,"length":1400,"course":5.6}],"procedures":{"D":{},"E":{},"F":{}}};

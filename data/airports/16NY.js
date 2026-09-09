@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16NY"]={"id":"16NY","name":"PAPP AIRPARK","lat":43.25195,"lon":-73.563197,"elevation":206,"region":"K6","runways":[{"id":"RW18","lat":43.254481,"lon":-73.562978,"length":1850,"course":196.7},{"id":"RW36","lat":43.249417,"lon":-73.563414,"length":1850,"course":16.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN1"]={"id":"3WN1","name":"DIGGER DOUG","lat":42.870139,"lon":-89.900972,"elevation":1065,"region":"K5","runways":[{"id":"RW07","lat":42.868889,"lon":-89.905556,"length":2621,"course":72.3},{"id":"RW25","lat":42.871389,"lon":-89.896389,"length":2621,"course":252.3}],"procedures":{"D":{},"E":{},"F":{}}};

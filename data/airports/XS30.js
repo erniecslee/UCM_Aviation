@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS30"]={"id":"XS30","name":"BURRESS","lat":33.605108,"lon":-95.4819,"elevation":484,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS41"]={"id":"IS41","name":"VOGEN","lat":41.460864,"lon":-88.592017,"elevation":740,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

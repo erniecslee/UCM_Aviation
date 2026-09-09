@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX7"]={"id":"2TX7","name":"JW","lat":33.094567,"lon":-97.396131,"elevation":875,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

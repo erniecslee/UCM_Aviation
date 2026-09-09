@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD05"]={"id":"MD05","name":"FINAGIN AIRFIELD","lat":38.5075,"lon":-77.121617,"elevation":185,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

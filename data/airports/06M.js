@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06M"]={"id":"06M","name":"EUPORA","lat":33.534833,"lon":-89.313111,"elevation":450,"region":"K7","runways":[{"id":"RW14","lat":33.538389,"lon":-89.315619,"length":3000,"course":147.0},{"id":"RW32","lat":33.531297,"lon":-89.310592,"length":3000,"course":327.0}],"procedures":{"D":{},"E":{},"F":{}}};

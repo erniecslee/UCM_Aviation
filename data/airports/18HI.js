@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18HI"]={"id":"18HI","name":"BRANDT FLD","lat":21.137,"lon":-156.734444,"elevation":685,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

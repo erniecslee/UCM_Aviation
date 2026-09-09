@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS86"]={"id":"XS86","name":"T-RANCH","lat":29.266903,"lon":-98.925306,"elevation":880,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

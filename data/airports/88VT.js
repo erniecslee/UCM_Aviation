@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88VT"]={"id":"88VT","name":"HAWK'S NEST","lat":44.878333,"lon":-73.350278,"elevation":140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

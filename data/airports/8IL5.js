@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IL5"]={"id":"8IL5","name":"O'CONNOR FLD","lat":42.368056,"lon":-89.354167,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

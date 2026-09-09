@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7ME"]={"id":"7ME","name":"FORT KENT MUNI","lat":47.203453,"lon":-68.579422,"elevation":708,"region":"K6","runways":[{"id":"RW18","lat":47.206389,"lon":-68.579372,"length":2140,"course":196.4},{"id":"RW36","lat":47.200517,"lon":-68.579469,"length":2140,"course":16.4}],"procedures":{"D":{},"E":{},"F":{}}};

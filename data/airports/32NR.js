@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32NR"]={"id":"32NR","name":"SANDY CREEK","lat":35.618675,"lon":-80.713053,"elevation":791,"region":"K7","runways":[{"id":"RW03","lat":35.615981,"lon":-80.715167,"length":2450,"course":40.7},{"id":"RW21","lat":35.621372,"lon":-80.710939,"length":2450,"course":220.7}],"procedures":{"D":{},"E":{},"F":{}}};

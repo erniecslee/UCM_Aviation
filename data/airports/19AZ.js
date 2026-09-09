@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19AZ"]={"id":"19AZ","name":"MONTEZUMA","lat":34.605025,"lon":-111.865153,"elevation":3370,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72CL"]={"id":"72CL","name":"IRON MOUNTAIN PUMPING PLANT","lat":34.134178,"lon":-115.119144,"elevation":890,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

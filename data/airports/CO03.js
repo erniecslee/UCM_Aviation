@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO03"]={"id":"CO03","name":"ASPEN","lat":39.259986,"lon":-106.912264,"elevation":8440,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

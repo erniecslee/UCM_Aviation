@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34II"]={"id":"34II","name":"BURK PERSONAL USE","lat":40.0506,"lon":-85.602753,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

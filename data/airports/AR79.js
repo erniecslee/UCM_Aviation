@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR79"]={"id":"AR79","name":"FLYING G RANCH","lat":33.693164,"lon":-91.379564,"elevation":150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

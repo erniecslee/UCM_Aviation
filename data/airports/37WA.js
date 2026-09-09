@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37WA"]={"id":"37WA","name":"BAUMANN FARM INC","lat":46.831811,"lon":-118.461647,"elevation":1600,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

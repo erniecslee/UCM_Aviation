@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK2"]={"id":"3AK2","name":"NIKLASON LAKE ESTATES","lat":61.6275,"lon":-149.286731,"elevation":410,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

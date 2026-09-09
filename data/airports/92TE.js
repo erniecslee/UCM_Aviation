@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92TE"]={"id":"92TE","name":"CHANEY SAN FRANCISCO RANCH","lat":29.966856,"lon":-102.933775,"elevation":3250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

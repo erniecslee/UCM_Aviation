@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI5"]={"id":"9WI5","name":"TAMARACK","lat":42.828344,"lon":-88.574544,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MO7"]={"id":"1MO7","name":"HULVER RGNL","lat":38.980564,"lon":-93.660794,"elevation":803,"region":"K3","runways":[{"id":"RW09","lat":38.980644,"lon":-93.665339,"length":2583,"course":90.9},{"id":"RW27","lat":38.980483,"lon":-93.656253,"length":2583,"course":270.9}],"procedures":{"D":{},"E":{},"F":{}}};

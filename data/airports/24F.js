@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24F"]={"id":"24F","name":"CYPRESS RIVER","lat":32.744306,"lon":-94.304661,"elevation":222,"region":"K4","runways":[{"id":"RW05","lat":32.742008,"lon":-94.309097,"length":3200,"course":54.0},{"id":"RW23","lat":32.746606,"lon":-94.300225,"length":3200,"course":234.0}],"procedures":{"D":{},"E":{},"F":{}}};

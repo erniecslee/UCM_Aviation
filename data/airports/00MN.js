@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00MN"]={"id":"00MN","name":"BATTLE LAKE MUNI","lat":46.299961,"lon":-95.700325,"elevation":1365,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

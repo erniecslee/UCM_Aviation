@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO5"]={"id":"9CO5","name":"SCHERLER PRIVATE AIRSTRIP","lat":38.576678,"lon":-102.437133,"elevation":4126,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

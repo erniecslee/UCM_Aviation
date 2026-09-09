@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WA8"]={"id":"5WA8","name":"HOGAN'S CORNER","lat":47.042864,"lon":-124.145731,"elevation":50,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA89"]={"id":"LA89","name":"PIERCE FLD","lat":29.72425,"lon":-90.636594,"elevation":9,"region":"K4","runways":[{"id":"RW01","lat":29.718378,"lon":-90.638253,"length":4400,"course":15.1},{"id":"RW19","lat":29.730122,"lon":-90.634933,"length":4400,"course":195.1}],"procedures":{"D":{},"E":{},"F":{}}};

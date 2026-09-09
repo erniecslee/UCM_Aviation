@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WA4"]={"id":"3WA4","name":"WATSON","lat":46.716531,"lon":-118.617769,"elevation":1349,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22I"]={"id":"22I","name":"VINTON COUNTY","lat":39.327989,"lon":-82.441158,"elevation":954,"region":"K5","runways":[{"id":"RW09","lat":39.327403,"lon":-82.447297,"length":3500,"course":88.0},{"id":"RW27","lat":39.328575,"lon":-82.435017,"length":3500,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

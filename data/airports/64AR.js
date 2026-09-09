@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64AR"]={"id":"64AR","name":"SMITH FLD","lat":34.969786,"lon":-91.831144,"elevation":253,"region":"K4","runways":[{"id":"RW18","lat":34.973981,"lon":-91.831289,"length":3055,"course":179.1},{"id":"RW36","lat":34.965589,"lon":-91.831,"length":3055,"course":359.1}],"procedures":{"D":{},"E":{},"F":{}}};

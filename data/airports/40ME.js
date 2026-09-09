@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40ME"]={"id":"40ME","name":"TIB FLD","lat":44.105892,"lon":-70.955978,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

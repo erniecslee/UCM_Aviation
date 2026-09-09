@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96PA"]={"id":"96PA","name":"NILS","lat":41.170072,"lon":-77.494478,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

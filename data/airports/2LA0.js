@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LA0"]={"id":"2LA0","name":"CENTRAL INDUSTRIES","lat":29.789656,"lon":-92.156517,"elevation":2,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

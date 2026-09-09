@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA89"]={"id":"GA89","name":"DIAMOND S","lat":33.475833,"lon":-84.276944,"elevation":910,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

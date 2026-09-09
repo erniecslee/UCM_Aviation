@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["HI33"]={"id":"HI33","name":"HAIKU AIRSTRIP","lat":21.942422,"lon":-159.440261,"elevation":385,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

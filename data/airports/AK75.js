@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK75"]={"id":"AK75","name":"CANDLE 2","lat":65.907658,"lon":-161.926306,"elevation":15,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

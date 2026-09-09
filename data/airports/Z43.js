@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z43"]={"id":"Z43","name":"TAMGAS HARBOR","lat":55.067992,"lon":-131.556956,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

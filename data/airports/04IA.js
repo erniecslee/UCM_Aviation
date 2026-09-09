@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04IA"]={"id":"04IA","name":"MIDDLEKOOP","lat":41.08835,"lon":-92.054619,"elevation":801,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

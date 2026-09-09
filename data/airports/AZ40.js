@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ40"]={"id":"AZ40","name":"SHEEPY HOLLOW RANCH","lat":33.787417,"lon":-113.642417,"elevation":1930,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

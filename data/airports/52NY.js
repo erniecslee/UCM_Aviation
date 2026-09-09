@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52NY"]={"id":"52NY","name":"BEDSON'S LAND BASE","lat":42.930619,"lon":-77.644167,"elevation":804,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41XS"]={"id":"41XS","name":"MACHO GRANDE","lat":30.534522,"lon":-97.419814,"elevation":596,"region":"K4","runways":[{"id":"RW18","lat":30.537917,"lon":-97.419183,"length":2500,"course":183.1},{"id":"RW36","lat":30.531128,"lon":-97.420444,"length":2500,"course":3.1}],"procedures":{"D":{},"E":{},"F":{}}};

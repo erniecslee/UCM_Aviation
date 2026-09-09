@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17FD"]={"id":"17FD","name":"MORNINGWOOD","lat":29.431189,"lon":-81.520028,"elevation":40,"region":"K7","runways":[{"id":"RW07W","lat":29.42835,"lon":-81.525422,"length":4008,"course":66.0},{"id":"RW25W","lat":29.434025,"lon":-81.514631,"length":4008,"course":246.0}],"procedures":{"D":{},"E":{},"F":{}}};

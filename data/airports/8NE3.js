@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NE3"]={"id":"8NE3","name":"SMITH FLD","lat":40.481939,"lon":-101.812953,"elevation":3380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

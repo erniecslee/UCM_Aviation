@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KS9"]={"id":"5KS9","name":"NEY","lat":39.070714,"lon":-94.948097,"elevation":963,"region":"K3","runways":[{"id":"RW05U","lat":39.069339,"lon":-94.950064,"length":1500,"course":46.9},{"id":"RW23U","lat":39.072086,"lon":-94.946128,"length":1500,"course":226.9}],"procedures":{"D":{},"E":{},"F":{}}};

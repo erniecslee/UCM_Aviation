@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK4"]={"id":"9AK4","name":"ARCTIC ANGEL","lat":64.137361,"lon":-145.830389,"elevation":1009,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

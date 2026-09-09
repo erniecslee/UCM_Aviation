@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND25"]={"id":"ND25","name":"PROP WASH FLD","lat":48.06455,"lon":-102.909592,"elevation":2340,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

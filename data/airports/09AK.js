@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09AK"]={"id":"09AK","name":"WEST BEAVER","lat":61.589361,"lon":-149.847333,"elevation":228,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

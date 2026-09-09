@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FD6"]={"id":"3FD6","name":"TRADEWINDS AERODROME","lat":28.764158,"lon":-80.853942,"elevation":5,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

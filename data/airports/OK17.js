@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK17"]={"id":"OK17","name":"BASS AERO","lat":34.21825,"lon":-97.052567,"elevation":840,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

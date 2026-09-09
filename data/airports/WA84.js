@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA84"]={"id":"WA84","name":"AUBURN ACADEMY","lat":47.280656,"lon":-122.149561,"elevation":416,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

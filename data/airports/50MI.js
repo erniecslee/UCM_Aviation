@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50MI"]={"id":"50MI","name":"BURGESS LAKE","lat":43.157253,"lon":-85.294189,"elevation":799,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

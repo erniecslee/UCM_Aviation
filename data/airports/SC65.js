@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC65"]={"id":"SC65","name":"RAVEN'S RUN","lat":32.823786,"lon":-79.80675,"elevation":8,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X33"]={"id":"X33","name":"DONIPHAN MUNI","lat":36.693861,"lon":-90.784472,"elevation":635,"region":"K3","runways":[{"id":"RW25","lat":36.694892,"lon":-90.780297,"length":2560,"course":249.9}],"procedures":{"D":{},"E":{},"F":{}}};

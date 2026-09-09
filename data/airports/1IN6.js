@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IN6"]={"id":"1IN6","name":"COTTINGHAM","lat":40.401667,"lon":-87.220278,"elevation":685,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

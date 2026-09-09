@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0SD3"]={"id":"0SD3","name":"BLEDSOE RANCH","lat":45.269433,"lon":-103.217122,"elevation":2872,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

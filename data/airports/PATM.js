@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PATM"]={"id":"PATM","name":"TAYLOR MOUNTAIN","lat":60.867778,"lon":-157.391944,"elevation":1000,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

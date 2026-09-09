@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20IS"]={"id":"20IS","name":"MITEK","lat":42.497231,"lon":-89.791786,"elevation":777,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

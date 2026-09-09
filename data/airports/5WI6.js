@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI6"]={"id":"5WI6","name":"INDEPENDENCE","lat":44.366944,"lon":-91.395833,"elevation":804,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

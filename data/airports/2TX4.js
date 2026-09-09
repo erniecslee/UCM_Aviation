@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX4"]={"id":"2TX4","name":"LEWIS RANCH","lat":27.983619,"lon":-99.376703,"elevation":540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

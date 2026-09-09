@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO0"]={"id":"2MO0","name":"FLETCHER FLD","lat":38.786389,"lon":-93.867222,"elevation":805,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE71"]={"id":"TE71","name":"GHSA-WALLIS GLIDEPORT","lat":29.611111,"lon":-96.0279,"elevation":127,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

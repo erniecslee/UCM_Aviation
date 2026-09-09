@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA77"]={"id":"XA77","name":"BENNY WHITE FLYING","lat":32.748611,"lon":-101.779444,"elevation":2943,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

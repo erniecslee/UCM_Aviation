@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60MI"]={"id":"60MI","name":"MAYBEE","lat":42.041431,"lon":-83.566878,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

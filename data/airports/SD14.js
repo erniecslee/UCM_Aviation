@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD14"]={"id":"SD14","name":"VALBURG RANCH","lat":43.733325,"lon":-100.397633,"elevation":1688,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

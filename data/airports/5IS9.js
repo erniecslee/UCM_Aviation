@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IS9"]={"id":"5IS9","name":"MC PHERSON","lat":40.333786,"lon":-91.050322,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ANG"]={"id":"ANG","name":"ANGAUR AIRSTRIP","lat":6.9,"lon":134.15,"elevation":20,"region":"PT","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

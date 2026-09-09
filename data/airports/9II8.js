@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9II8"]={"id":"9II8","name":"FRANCIS","lat":39.086111,"lon":-85.371111,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

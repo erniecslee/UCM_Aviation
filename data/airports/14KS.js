@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14KS"]={"id":"14KS","name":"G & S SPACE PORT","lat":38.269189,"lon":-94.904825,"elevation":940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

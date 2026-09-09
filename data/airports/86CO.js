@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86CO"]={"id":"86CO","name":"LAZY W","lat":40.313583,"lon":-105.14525,"elevation":5200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

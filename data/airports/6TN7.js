@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TN7"]={"id":"6TN7","name":"ST SOMEWHERE","lat":35.023889,"lon":-89.205,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

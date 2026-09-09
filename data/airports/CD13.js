@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD13"]={"id":"CD13","name":"MORRIS","lat":39.835067,"lon":-103.735597,"elevation":4750,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2P7"]={"id":"2P7","name":"ALDERMAN","lat":40.056864,"lon":-80.963189,"elevation":1187,"region":"K5","runways":[{"id":"RW01","lat":40.052983,"lon":-80.963658,"length":2840,"course":13.0},{"id":"RW19","lat":40.060744,"lon":-80.962719,"length":2840,"course":193.0}],"procedures":{"D":{},"E":{},"F":{}}};

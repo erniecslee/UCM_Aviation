@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM12"]={"id":"NM12","name":"THURMOND","lat":31.917644,"lon":-108.780719,"elevation":4477,"region":"K2","runways":[{"id":"RW17","lat":31.921589,"lon":-108.7806,"length":2870,"course":171.5},{"id":"RW35","lat":31.913697,"lon":-108.780836,"length":2870,"course":351.5}],"procedures":{"D":{},"E":{},"F":{}}};

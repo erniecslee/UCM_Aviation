@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA88"]={"id":"FA88","name":"PITTMAN OAKS","lat":30.425042,"lon":-83.048469,"elevation":83,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

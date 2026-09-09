@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IL2"]={"id":"9IL2","name":"ROUTH","lat":40.065033,"lon":-88.026425,"elevation":668,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8U8"]={"id":"8U8","name":"TOWNSEND","lat":46.331233,"lon":-111.482586,"elevation":3897,"region":"K1","runways":[{"id":"RW17","lat":46.336711,"lon":-111.482872,"length":4000,"course":161.9},{"id":"RW35","lat":46.325753,"lon":-111.482292,"length":4000,"course":341.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71AR"]={"id":"71AR","name":"DIAMOND C","lat":36.282578,"lon":-94.473764,"elevation":1270,"region":"K4","runways":[{"id":"RW18","lat":36.2852,"lon":-94.473744,"length":1910,"course":179.2},{"id":"RW36","lat":36.279953,"lon":-94.473783,"length":1910,"course":359.2}],"procedures":{"D":{},"E":{},"F":{}}};

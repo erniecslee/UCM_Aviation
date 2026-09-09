@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK24"]={"id":"AK24","name":"HILLTOP","lat":61.417861,"lon":-149.439489,"elevation":420,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25IL"]={"id":"25IL","name":"HOLZWARTH FLYING SERVICE","lat":39.516447,"lon":-89.869675,"elevation":681,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

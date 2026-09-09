@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI82"]={"id":"OI82","name":"RUSS","lat":38.912158,"lon":-82.724889,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

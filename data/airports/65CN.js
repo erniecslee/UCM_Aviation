@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65CN"]={"id":"65CN","name":"BOTTIMORE RANCH","lat":38.304081,"lon":-121.251058,"elevation":70,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

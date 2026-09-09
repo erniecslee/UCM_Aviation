@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TS2"]={"id":"6TS2","name":"DAUENHAUER FLD","lat":33.015833,"lon":-97.635,"elevation":906,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OI3"]={"id":"8OI3","name":"ALLEN","lat":41.373389,"lon":-80.668967,"elevation":1105,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

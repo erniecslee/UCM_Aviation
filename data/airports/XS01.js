@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS01"]={"id":"XS01","name":"TSCHIRHART RANCH","lat":30.450192,"lon":-98.886156,"elevation":2060,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

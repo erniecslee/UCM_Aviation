@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KCZK"]={"id":"KCZK","name":"CASCADE LOCKS STATE","lat":45.676944,"lon":-121.878889,"elevation":151,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

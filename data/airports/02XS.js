@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02XS"]={"id":"02XS","name":"SEIDEL RANCH","lat":30.147714,"lon":-97.662781,"elevation":510,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

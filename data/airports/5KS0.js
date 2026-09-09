@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KS0"]={"id":"5KS0","name":"ANTHONY","lat":37.094467,"lon":-97.96145,"elevation":1250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

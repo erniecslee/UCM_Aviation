@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY17"]={"id":"NY17","name":"ADIRONDACK AIRPARK ESTATES","lat":44.609211,"lon":-73.857919,"elevation":1352,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

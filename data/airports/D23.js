@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D23"]={"id":"D23","name":"ARCADE TRI-COUNTY","lat":42.566728,"lon":-78.426131,"elevation":1745,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

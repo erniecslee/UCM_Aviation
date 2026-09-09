@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TX4"]={"id":"7TX4","name":"HILLCREST","lat":32.966792,"lon":-97.275294,"elevation":710,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

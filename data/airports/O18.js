@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O18"]={"id":"O18","name":"BUZZARDS ROOST","lat":36.143986,"lon":-95.41775,"elevation":661,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

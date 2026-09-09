@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3S5"]={"id":"3S5","name":"SCHIFFER ACRES","lat":43.036194,"lon":-84.434181,"elevation":741,"region":"K5","runways":[{"id":"RW08","lat":43.035,"lon":-84.439111,"length":2777,"course":78.4},{"id":"RW26","lat":43.0362,"lon":-84.434161,"length":2777,"course":258.4}],"procedures":{"D":{},"E":{},"F":{}}};

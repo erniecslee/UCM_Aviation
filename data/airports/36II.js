@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36II"]={"id":"36II","name":"NEWBY LANDING","lat":39.841156,"lon":-86.348606,"elevation":878,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

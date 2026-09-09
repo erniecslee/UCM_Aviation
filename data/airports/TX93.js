@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX93"]={"id":"TX93","name":"WRIGHT RANCH","lat":32.166811,"lon":-97.833642,"elevation":900,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TE4"]={"id":"0TE4","name":"HILLTOP LAKES","lat":31.080808,"lon":-96.214981,"elevation":502,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

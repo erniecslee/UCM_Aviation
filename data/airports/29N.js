@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29N"]={"id":"29N","name":"KROELINGER","lat":39.524006,"lon":-75.046342,"elevation":93,"region":"K6","runways":[{"id":"RW10","lat":39.524283,"lon":-75.050036,"length":2086,"course":106.0},{"id":"RW28","lat":39.523728,"lon":-75.042675,"length":2086,"course":286.0}],"procedures":{"D":{},"E":{},"F":{}}};

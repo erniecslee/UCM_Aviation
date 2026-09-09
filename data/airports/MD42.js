@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD42"]={"id":"MD42","name":"KEYMAR AIRPARK","lat":39.619544,"lon":-77.227483,"elevation":437,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

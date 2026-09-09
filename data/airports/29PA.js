@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29PA"]={"id":"29PA","name":"STATELINE","lat":40.536617,"lon":-80.5127,"elevation":1151,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

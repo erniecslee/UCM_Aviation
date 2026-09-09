@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA62"]={"id":"WA62","name":"PARADISE AIR RANCH","lat":47.470725,"lon":-117.419092,"elevation":2352,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

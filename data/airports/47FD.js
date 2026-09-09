@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47FD"]={"id":"47FD","name":"STRAYHORN RANCH","lat":26.66285,"lon":-81.770639,"elevation":20,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID40"]={"id":"ID40","name":"SUNRISE SKYPARK","lat":43.4178,"lon":-116.706183,"elevation":2240,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

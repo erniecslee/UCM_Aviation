@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D65"]={"id":"D65","name":"CORSICA MUNI","lat":43.433464,"lon":-98.398772,"elevation":1580,"region":"K3","runways":[{"id":"RW17","lat":43.438108,"lon":-98.399356,"length":3400,"course":167.8},{"id":"RW35","lat":43.428819,"lon":-98.398186,"length":3400,"course":347.8}],"procedures":{"D":{},"E":{},"F":{}}};

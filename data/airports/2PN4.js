@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PN4"]={"id":"2PN4","name":"QUEMAHENING FLIGHTPARK","lat":40.081833,"lon":-78.9455,"elevation":1997,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

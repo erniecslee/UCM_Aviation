@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6B4"]={"id":"6B4","name":"FRANKFORT-HIGHLAND","lat":43.016108,"lon":-75.169542,"elevation":1325,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

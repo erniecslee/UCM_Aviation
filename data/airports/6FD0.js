@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FD0"]={"id":"6FD0","name":"WINDY ACRES","lat":29.565794,"lon":-82.868733,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

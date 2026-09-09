@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IL0"]={"id":"7IL0","name":"MUSSMAN","lat":41.270867,"lon":-87.577814,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

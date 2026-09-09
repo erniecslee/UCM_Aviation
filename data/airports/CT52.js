@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT52"]={"id":"CT52","name":"FLYING RIDGE AIRSTRIP","lat":41.36815,"lon":-73.291228,"elevation":610,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

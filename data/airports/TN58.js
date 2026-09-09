@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN58"]={"id":"TN58","name":"PARSONS FLD","lat":35.391667,"lon":-89.656528,"elevation":325,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51KS"]={"id":"51KS","name":"BARNARD","lat":38.63695,"lon":-97.213633,"elevation":1420,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44XA"]={"id":"44XA","name":"HFS","lat":27.836944,"lon":-97.771806,"elevation":72,"region":"K4","runways":[{"id":"RW01","lat":27.8325,"lon":-97.772778,"length":3292,"course":7.9},{"id":"RW19","lat":27.841389,"lon":-97.770833,"length":3292,"course":187.9}],"procedures":{"D":{},"E":{},"F":{}}};

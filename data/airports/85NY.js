@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85NY"]={"id":"85NY","name":"HIGH ACRES","lat":42.578394,"lon":-78.520022,"elevation":1540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

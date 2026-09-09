@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1A2"]={"id":"1A2","name":"ARTHUR","lat":47.112636,"lon":-97.208147,"elevation":973,"region":"K3","runways":[{"id":"RW17","lat":47.116886,"lon":-97.208147,"length":3100,"course":174.0},{"id":"RW35","lat":47.108386,"lon":-97.208147,"length":3100,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

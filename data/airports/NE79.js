@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE79"]={"id":"NE79","name":"MUELLER FLD","lat":40.652778,"lon":-96.621128,"elevation":1405,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

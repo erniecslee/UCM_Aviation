@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC76"]={"id":"SC76","name":"UNITY AERODROME","lat":34.80265,"lon":-80.680067,"elevation":640,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

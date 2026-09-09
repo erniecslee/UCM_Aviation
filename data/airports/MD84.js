@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD84"]={"id":"MD84","name":"NYCE","lat":38.350917,"lon":-76.863375,"elevation":20,"region":"K6","runways":[{"id":"RW14","lat":38.352611,"lon":-76.86575,"length":1838,"course":142.9},{"id":"RW32","lat":38.349222,"lon":-76.861,"length":1838,"course":322.9}],"procedures":{"D":{},"E":{},"F":{}}};

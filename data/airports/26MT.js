@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26MT"]={"id":"26MT","name":"HUTCHINSON","lat":48.835633,"lon":-110.442017,"elevation":2900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02FA"]={"id":"02FA","name":"OSBORN AIRFIELD","lat":28.526667,"lon":-81.8748,"elevation":121,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

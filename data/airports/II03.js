@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II03"]={"id":"II03","name":"BUELL","lat":39.198611,"lon":-85.136389,"elevation":990,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

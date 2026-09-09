@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WI6"]={"id":"6WI6","name":"DREW 9","lat":45.743247,"lon":-91.652658,"elevation":1320,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

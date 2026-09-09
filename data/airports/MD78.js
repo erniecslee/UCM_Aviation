@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD78"]={"id":"MD78","name":"WOODBINE","lat":39.383436,"lon":-77.070258,"elevation":720,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

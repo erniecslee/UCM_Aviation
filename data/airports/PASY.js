@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PASY"]={"id":"PASY","name":"EARECKSON AS","lat":52.712258,"lon":174.113589,"elevation":98,"region":"PA","runways":[{"id":"RW10","lat":52.716433,"lon":174.0921,"length":10004,"course":106.7},{"id":"RW28","lat":52.708086,"lon":174.135075,"length":10004,"course":286.8}],"procedures":{"D":{},"E":{},"F":{}}};

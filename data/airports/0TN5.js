@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TN5"]={"id":"0TN5","name":"MC DONALD","lat":35.867361,"lon":-86.497778,"elevation":600,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

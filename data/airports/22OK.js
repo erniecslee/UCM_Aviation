@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22OK"]={"id":"22OK","name":"SMITH FLD","lat":34.315278,"lon":-97.175833,"elevation":860,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

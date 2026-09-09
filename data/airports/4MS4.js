@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MS4"]={"id":"4MS4","name":"SPEARMAN FLD","lat":34.157694,"lon":-88.760222,"elevation":270,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

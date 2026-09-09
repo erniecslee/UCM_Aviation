@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KHBE"]={"id":"KHBE","name":"HIMSEL AAF","lat":39.339264,"lon":-86.029778,"elevation":708,"region":"K5","runways":[{"id":"RW18","lat":39.342297,"lon":-86.029889,"length":4039,"course":180.2},{"id":"RW36","lat":39.333722,"lon":-86.029556,"length":4039,"course":0.2}],"procedures":{"D":{},"E":{},"F":{}}};

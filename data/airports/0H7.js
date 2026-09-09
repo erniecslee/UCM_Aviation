@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0H7"]={"id":"0H7","name":"KAHOKA MUNI","lat":40.421722,"lon":-91.706667,"elevation":700,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

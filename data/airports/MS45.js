@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS45"]={"id":"MS45","name":"BHLLC","lat":32.156264,"lon":-91.124553,"elevation":85,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

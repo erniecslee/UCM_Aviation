@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71XS"]={"id":"71XS","name":"COMANCHE HILLS RANCH","lat":31.166856,"lon":-98.245839,"elevation":1232,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

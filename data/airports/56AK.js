@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56AK"]={"id":"56AK","name":"HINKES","lat":62.545389,"lon":-154.002111,"elevation":1200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

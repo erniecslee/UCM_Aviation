@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH88"]={"id":"NH88","name":"COUNTRY CLUB AIR PARK","lat":43.067306,"lon":-71.611183,"elevation":780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

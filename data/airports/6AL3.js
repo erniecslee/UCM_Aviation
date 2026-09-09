@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AL3"]={"id":"6AL3","name":"LAY LANDING","lat":33.379133,"lon":-86.377228,"elevation":443,"region":"K7","runways":[{"id":"RW17","lat":33.382872,"lon":-86.377997,"length":2760,"course":174.4},{"id":"RW35","lat":33.375397,"lon":-86.376461,"length":2760,"course":354.4}],"procedures":{"D":{},"E":{},"F":{}}};

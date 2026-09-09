@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II21"]={"id":"II21","name":"ZOLLINGER STRIP","lat":41.475328,"lon":-85.694711,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

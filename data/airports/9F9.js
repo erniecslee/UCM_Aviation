@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9F9"]={"id":"9F9","name":"SYCAMORE STRIP","lat":32.627028,"lon":-97.354008,"elevation":762,"region":"K4","runways":[{"id":"RW17","lat":32.631667,"lon":-97.353847,"length":3375,"course":175.0}],"procedures":{"D":{},"E":{},"F":{}}};

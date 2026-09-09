@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49OH"]={"id":"49OH","name":"SKY RANCH","lat":39.935453,"lon":-83.2364,"elevation":920,"region":"K5","runways":[{"id":"RW06","lat":39.933156,"lon":-83.240839,"length":3000,"course":63.2},{"id":"RW24","lat":39.937747,"lon":-83.231958,"length":3000,"course":243.2}],"procedures":{"D":{},"E":{},"F":{}}};

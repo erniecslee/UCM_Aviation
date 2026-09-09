@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA7"]={"id":"4GA7","name":"KITCHENS FLD","lat":33.134564,"lon":-84.254089,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

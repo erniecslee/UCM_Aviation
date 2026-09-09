@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AS11"]={"id":"AS11","name":"ROHRSCHEIB","lat":34.447361,"lon":-90.8075,"elevation":170,"region":"K4","runways":[{"id":"RW11","lat":34.448611,"lon":-90.811667,"length":2672,"course":111.2},{"id":"RW29","lat":34.446111,"lon":-90.803333,"length":2672,"course":291.2}],"procedures":{"D":{},"E":{},"F":{}}};

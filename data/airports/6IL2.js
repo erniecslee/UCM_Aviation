@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IL2"]={"id":"6IL2","name":"PHYLLIS FLD","lat":42.221133,"lon":-88.417864,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

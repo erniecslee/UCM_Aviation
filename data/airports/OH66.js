@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH66"]={"id":"OH66","name":"OBANNON CREEK AERODROME","lat":39.239169,"lon":-84.174383,"elevation":835,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

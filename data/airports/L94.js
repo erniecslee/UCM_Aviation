@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L94"]={"id":"L94","name":"MOUNTAIN VALLEY","lat":35.101078,"lon":-118.423139,"elevation":4220,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

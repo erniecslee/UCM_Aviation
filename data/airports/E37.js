@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E37"]={"id":"E37","name":"FLYING J RANCH","lat":32.847844,"lon":-109.881747,"elevation":3114,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

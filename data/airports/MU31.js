@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU31"]={"id":"MU31","name":"SAUNDERS FLD","lat":39.793542,"lon":-94.436361,"elevation":1042,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

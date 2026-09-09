@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33KY"]={"id":"33KY","name":"BIGGER (STOL)","lat":37.612269,"lon":-87.056939,"elevation":406,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

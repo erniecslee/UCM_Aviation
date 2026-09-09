@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74MU"]={"id":"74MU","name":"KOALA-T FLD","lat":39.039892,"lon":-91.130447,"elevation":690,"region":"K3","runways":[{"id":"RW01","lat":39.037478,"lon":-91.131114,"length":1800,"course":10.2},{"id":"RW19","lat":39.042306,"lon":-91.129778,"length":1800,"course":190.2}],"procedures":{"D":{},"E":{},"F":{}}};

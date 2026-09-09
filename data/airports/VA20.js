@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA20"]={"id":"VA20","name":"PAINTER FLD","lat":37.567594,"lon":-75.793861,"elevation":40,"region":"K6","runways":[{"id":"RW03","lat":37.566336,"lon":-75.795197,"length":1200,"course":51.5},{"id":"RW21","lat":37.56885,"lon":-75.792522,"length":1200,"course":231.5}],"procedures":{"D":{},"E":{},"F":{}}};

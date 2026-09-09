@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA68"]={"id":"WA68","name":"SKY VALLEY AIRSTRIP","lat":48.076944,"lon":-122.840661,"elevation":140,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

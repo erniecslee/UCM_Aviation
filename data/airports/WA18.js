@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA18"]={"id":"WA18","name":"DECATUR /JONES/","lat":48.510103,"lon":-122.802956,"elevation":125,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

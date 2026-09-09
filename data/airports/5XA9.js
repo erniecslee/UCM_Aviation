@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XA9"]={"id":"5XA9","name":"VENABLE AIRPARK","lat":33.338294,"lon":-96.996544,"elevation":638,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

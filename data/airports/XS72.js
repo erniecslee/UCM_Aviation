@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS72"]={"id":"XS72","name":"F R DUKE FARM","lat":30.483539,"lon":-94.833542,"elevation":85,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

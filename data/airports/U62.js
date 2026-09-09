@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U62"]={"id":"U62","name":"MACKAY","lat":43.910008,"lon":-113.602367,"elevation":5892,"region":"K1","runways":[{"id":"RW12","lat":43.914183,"lon":-113.608367,"length":4389,"course":117.9},{"id":"RW30","lat":43.905833,"lon":-113.596367,"length":4389,"course":297.9}],"procedures":{"D":{},"E":{},"F":{}}};

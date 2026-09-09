@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC09"]={"id":"NC09","name":"STONERIVER","lat":35.884242,"lon":-80.772764,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

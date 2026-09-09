@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7I4"]={"id":"7I4","name":"ORLEANS","lat":38.658386,"lon":-86.443044,"elevation":655,"region":"K5","runways":[{"id":"RW06","lat":38.654775,"lon":-86.446653,"length":3456,"course":59.0},{"id":"RW24","lat":38.659803,"lon":-86.436389,"length":3456,"course":239.0}],"procedures":{"D":{},"E":{},"F":{}}};

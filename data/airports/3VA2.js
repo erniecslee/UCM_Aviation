@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VA2"]={"id":"3VA2","name":"AVIACRES","lat":38.624289,"lon":-77.786106,"elevation":435,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

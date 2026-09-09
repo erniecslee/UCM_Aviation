@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT14"]={"id":"CT14","name":"BANCROFT","lat":41.866764,"lon":-72.6162,"elevation":52,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76N"]={"id":"76N","name":"SKYHAVEN","lat":41.528164,"lon":-75.945881,"elevation":639,"region":"K6","runways":[{"id":"RW01","lat":41.525425,"lon":-75.945497,"length":2007,"course":6.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31AK"]={"id":"31AK","name":"DALRYMPLE'S","lat":64.832908,"lon":-147.424644,"elevation":450,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

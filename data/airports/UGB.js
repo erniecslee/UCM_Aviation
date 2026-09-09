@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UGB"]={"id":"UGB","name":"UGASHIK BAY","lat":57.425358,"lon":-157.739867,"elevation":132,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

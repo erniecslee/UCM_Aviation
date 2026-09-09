@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39OK"]={"id":"39OK","name":"PARADISE AIR HAVEN","lat":35.111483,"lon":-97.479253,"elevation":1205,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AR7"]={"id":"5AR7","name":"KELLER AIRFIELD","lat":35.686667,"lon":-90.793611,"elevation":249,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

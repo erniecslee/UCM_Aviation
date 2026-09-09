@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NE4"]={"id":"5NE4","name":"SNYDER RANCH","lat":41.572217,"lon":-101.172386,"elevation":3330,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

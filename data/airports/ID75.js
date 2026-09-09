@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID75"]={"id":"ID75","name":"RIVERLAKE","lat":48.126094,"lon":-116.165611,"elevation":2080,"region":"K1","runways":[{"id":"RW14","lat":48.129,"lon":-116.167667,"length":2346,"course":137.0},{"id":"RW32","lat":48.123189,"lon":-116.163556,"length":2346,"course":317.0}],"procedures":{"D":{},"E":{},"F":{}}};

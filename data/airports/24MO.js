@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24MO"]={"id":"24MO","name":"MISTWOOD","lat":38.1327,"lon":-92.830461,"elevation":875,"region":"K3","runways":[{"id":"RW07","lat":38.132431,"lon":-92.835369,"length":2830,"course":82.0},{"id":"RW25","lat":38.132969,"lon":-92.825556,"length":2830,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

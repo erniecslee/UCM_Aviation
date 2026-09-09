@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0P1"]={"id":"0P1","name":"VAN PAK","lat":39.831694,"lon":-99.568444,"elevation":2213,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

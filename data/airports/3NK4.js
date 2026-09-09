@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NK4"]={"id":"3NK4","name":"LASKA","lat":42.027836,"lon":-79.194214,"elevation":1480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

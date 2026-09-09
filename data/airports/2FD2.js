@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FD2"]={"id":"2FD2","name":"MARJORIE KENNAN RAWLINGS","lat":29.479444,"lon":-82.053347,"elevation":78,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

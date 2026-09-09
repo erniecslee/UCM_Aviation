@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KS8"]={"id":"4KS8","name":"BURSCH PRIVATE","lat":39.591108,"lon":-101.592669,"elevation":3650,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

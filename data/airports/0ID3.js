@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ID3"]={"id":"0ID3","name":"COYOTE RUN","lat":43.075783,"lon":-115.672883,"elevation":3150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XA1"]={"id":"3XA1","name":"HARDY FLD","lat":33.47395,"lon":-97.169267,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

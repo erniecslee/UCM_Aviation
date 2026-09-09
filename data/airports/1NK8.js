@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NK8"]={"id":"1NK8","name":"CHENANGO BRIDGE","lat":42.191742,"lon":-75.841306,"elevation":940,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

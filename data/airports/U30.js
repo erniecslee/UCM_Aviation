@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U30"]={"id":"U30","name":"TEMPLE BAR","lat":36.020444,"lon":-114.334917,"elevation":1549,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

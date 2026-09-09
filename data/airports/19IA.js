@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19IA"]={"id":"19IA","name":"ANCAM ANTIQUE AIRFIELD","lat":40.856844,"lon":-91.203758,"elevation":690,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

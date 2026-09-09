@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA47"]={"id":"PA47","name":"CLOUDBOUND","lat":39.780833,"lon":-77.278667,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

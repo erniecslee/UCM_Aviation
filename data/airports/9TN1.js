@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TN1"]={"id":"9TN1","name":"VERSAILLES AERODROME","lat":35.73,"lon":-86.537778,"elevation":855,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

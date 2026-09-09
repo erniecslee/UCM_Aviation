@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38MS"]={"id":"38MS","name":"YELLOW DOG","lat":33.231053,"lon":-90.566481,"elevation":114,"region":"K7","runways":[{"id":"RW12","lat":33.232792,"lon":-90.570381,"length":2700,"course":119.4},{"id":"RW30","lat":33.229314,"lon":-90.562583,"length":2700,"course":299.4}],"procedures":{"D":{},"E":{},"F":{}}};

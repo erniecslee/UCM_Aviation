@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OK1"]={"id":"0OK1","name":"MCKEY","lat":34.657025,"lon":-97.401692,"elevation":1056,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

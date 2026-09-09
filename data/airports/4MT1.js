@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MT1"]={"id":"4MT1","name":"KREIKEMEIER","lat":45.820689,"lon":-111.145181,"elevation":4360,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL39"]={"id":"LL39","name":"CURANDA","lat":41.2575,"lon":-88.477778,"elevation":620,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

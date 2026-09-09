@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID07"]={"id":"ID07","name":"NICHOLS RANCH","lat":47.678094,"lon":-117.024919,"elevation":2430,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

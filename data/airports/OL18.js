@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL18"]={"id":"OL18","name":"FLYING D","lat":35.789033,"lon":-98.596928,"elevation":1755,"region":"K4","runways":[{"id":"RW18","lat":35.793619,"lon":-98.596908,"length":3337,"course":176.5},{"id":"RW36","lat":35.784444,"lon":-98.596944,"length":3337,"course":356.5}],"procedures":{"D":{},"E":{},"F":{}}};

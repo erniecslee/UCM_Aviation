@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS55"]={"id":"TS55","name":"BAT CAVE FLD","lat":29.671892,"lon":-98.304458,"elevation":850,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

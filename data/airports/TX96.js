@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX96"]={"id":"TX96","name":"MAXWELL FLD","lat":33.399281,"lon":-97.256961,"elevation":825,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18ND"]={"id":"18ND","name":"BEARPAW","lat":46.779094,"lon":-100.514856,"elevation":1744,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

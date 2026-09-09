@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA83"]={"id":"WA83","name":"WESTSOUND/WSX","lat":48.617881,"lon":-122.952683,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

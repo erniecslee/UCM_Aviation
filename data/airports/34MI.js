@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34MI"]={"id":"34MI","name":"DE WITT PROPERTY","lat":43.100294,"lon":-86.223389,"elevation":605,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

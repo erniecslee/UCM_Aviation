@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA70"]={"id":"IA70","name":"FRIESENBORG & LARSON","lat":43.425789,"lon":-93.835781,"elevation":1220,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

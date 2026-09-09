@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CO6"]={"id":"7CO6","name":"VANTAGE VIEW","lat":38.760278,"lon":-104.101389,"elevation":5780,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

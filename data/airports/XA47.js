@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA47"]={"id":"XA47","name":"TICK HILL AIRFIELD","lat":31.309722,"lon":-97.484806,"elevation":645,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

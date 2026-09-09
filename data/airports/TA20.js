@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA20"]={"id":"TA20","name":"BFS WEST","lat":26.4795,"lon":-98.383019,"elevation":300,"region":"K4","runways":[{"id":"RW01","lat":26.476522,"lon":-98.383525,"length":2190,"course":5.3},{"id":"RW19","lat":26.482478,"lon":-98.382511,"length":2190,"course":185.3}],"procedures":{"D":{},"E":{},"F":{}}};

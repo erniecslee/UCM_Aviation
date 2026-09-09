@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3Z8"]={"id":"3Z8","name":"GOLDEN HORN LODGE","lat":59.747039,"lon":-158.874728,"elevation":91,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

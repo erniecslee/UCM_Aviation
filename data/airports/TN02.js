@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN02"]={"id":"TN02","name":"TELFORD OVERLOOK FERGUSON FLD","lat":36.208733,"lon":-82.539567,"elevation":1680,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

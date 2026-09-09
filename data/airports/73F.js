@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73F"]={"id":"73F","name":"WINGS FOR CHRIST INTL FLT ACAD","lat":31.623778,"lon":-97.022497,"elevation":455,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

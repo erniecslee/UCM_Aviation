@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS75"]={"id":"MS75","name":"LEWIS","lat":33.014014,"lon":-91.038994,"elevation":112,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

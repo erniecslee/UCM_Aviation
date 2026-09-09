@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI2"]={"id":"7WI2","name":"HIGGINS","lat":43.443042,"lon":-89.178169,"elevation":965,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

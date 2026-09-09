@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16OI"]={"id":"16OI","name":"TRUMP","lat":40.125278,"lon":-84.5825,"elevation":1038,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

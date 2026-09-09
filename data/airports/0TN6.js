@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TN6"]={"id":"0TN6","name":"RINER FARM","lat":36.183411,"lon":-84.099086,"elevation":1125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75MI"]={"id":"75MI","name":"NORTON FLD","lat":42.971389,"lon":-82.847778,"elevation":795,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

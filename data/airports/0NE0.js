@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NE0"]={"id":"0NE0","name":"MERRIHEW","lat":41.849983,"lon":-101.950461,"elevation":3815,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

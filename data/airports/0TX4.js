@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TX4"]={"id":"0TX4","name":"MILL IRON RANCH NORTH","lat":34.968056,"lon":-100.027222,"elevation":2037,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

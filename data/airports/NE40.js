@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE40"]={"id":"NE40","name":"DENTON AIRFIELD","lat":40.715836,"lon":-96.867803,"elevation":1270,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

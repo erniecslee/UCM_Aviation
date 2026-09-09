@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41ID"]={"id":"41ID","name":"BLACK'S AIRFIELD","lat":43.471383,"lon":-116.326417,"elevation":2788,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

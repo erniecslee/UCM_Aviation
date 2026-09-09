@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42IN"]={"id":"42IN","name":"GAERTE","lat":41.349314,"lon":-85.267656,"elevation":968,"region":"K5","runways":[{"id":"RW05","lat":41.347542,"lon":-85.269667,"length":1700,"course":46.3},{"id":"RW23","lat":41.351089,"lon":-85.265642,"length":1700,"course":226.3}],"procedures":{"D":{},"E":{},"F":{}}};

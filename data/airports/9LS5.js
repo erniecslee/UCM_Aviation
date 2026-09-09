@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9LS5"]={"id":"9LS5","name":"RED BEARD DUSTING SERVICE","lat":32.303889,"lon":-91.128611,"elevation":86,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

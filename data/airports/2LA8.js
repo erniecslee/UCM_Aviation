@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LA8"]={"id":"2LA8","name":"FOKKER FLD","lat":30.593175,"lon":-89.873478,"elevation":50,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

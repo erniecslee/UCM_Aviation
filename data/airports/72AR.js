@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72AR"]={"id":"72AR","name":"CADDO LNDG","lat":34.300258,"lon":-93.482481,"elevation":507,"region":"K4","runways":[{"id":"RW15","lat":34.302808,"lon":-93.484436,"length":2200,"course":147.0},{"id":"RW33","lat":34.297708,"lon":-93.480522,"length":2200,"course":327.0}],"procedures":{"D":{},"E":{},"F":{}}};

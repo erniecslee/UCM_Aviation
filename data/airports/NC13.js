@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC13"]={"id":"NC13","name":"YORKS FLD","lat":35.753772,"lon":-79.667825,"elevation":571,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

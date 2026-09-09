@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02D"]={"id":"02D","name":"WINONA LAKE","lat":41.223056,"lon":-85.830556,"elevation":812,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

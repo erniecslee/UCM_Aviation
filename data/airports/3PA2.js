@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PA2"]={"id":"3PA2","name":"PHILADELPHIA","lat":40.331228,"lon":-75.248125,"elevation":670,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

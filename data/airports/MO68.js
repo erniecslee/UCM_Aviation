@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO68"]={"id":"MO68","name":"EADS RIDGE","lat":37.405322,"lon":-93.099628,"elevation":1310,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

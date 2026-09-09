@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WA7"]={"id":"5WA7","name":"WILD HAIR","lat":45.716511,"lon":-120.984511,"elevation":1620,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA52"]={"id":"MA52","name":"SIDS","lat":42.438058,"lon":-71.470133,"elevation":220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

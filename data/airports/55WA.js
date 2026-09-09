@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55WA"]={"id":"55WA","name":"WILKINSON RANCH","lat":46.528056,"lon":-120.761389,"elevation":1670,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

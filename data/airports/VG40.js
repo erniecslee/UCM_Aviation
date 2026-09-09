@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG40"]={"id":"VG40","name":"WOODY FLD","lat":36.886914,"lon":-79.863958,"elevation":1157,"region":"K6","runways":[{"id":"RW16","lat":36.889417,"lon":-79.865364,"length":2000,"course":163.7},{"id":"RW34","lat":36.884411,"lon":-79.86255,"length":2000,"course":343.7}],"procedures":{"D":{},"E":{},"F":{}}};

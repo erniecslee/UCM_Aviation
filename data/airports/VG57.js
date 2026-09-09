@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG57"]={"id":"VG57","name":"MAPLES FLD","lat":38.605678,"lon":-77.584711,"elevation":225,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

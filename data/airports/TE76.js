@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE76"]={"id":"TE76","name":"VANCE FLD","lat":33.368453,"lon":-97.686256,"elevation":907,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

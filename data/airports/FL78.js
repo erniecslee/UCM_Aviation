@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL78"]={"id":"FL78","name":"LEWIS","lat":27.898636,"lon":-82.182589,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

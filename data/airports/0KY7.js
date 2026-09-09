@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KY7"]={"id":"0KY7","name":"CLINTON-HICKMAN COUNTY","lat":36.636111,"lon":-88.998611,"elevation":360,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

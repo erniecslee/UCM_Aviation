@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL36"]={"id":"IL36","name":"BOB WALBERG FLD","lat":42.320275,"lon":-88.762956,"elevation":843,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

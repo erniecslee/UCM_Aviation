@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LA8"]={"id":"4LA8","name":"OVERTON","lat":30.707683,"lon":-90.874267,"elevation":110,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

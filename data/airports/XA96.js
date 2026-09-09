@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA96"]={"id":"XA96","name":"EN GEDI RANCH","lat":35.6625,"lon":-100.323889,"elevation":2800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

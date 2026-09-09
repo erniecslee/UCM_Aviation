@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64MN"]={"id":"64MN","name":"BABY LAKE","lat":46.967706,"lon":-94.361947,"elevation":1394,"region":"K3","runways":[{"id":"RW02W","lat":46.958828,"lon":-94.3664,"length":6848,"course":18.3},{"id":"RW20W","lat":46.976586,"lon":-94.357494,"length":6848,"course":198.4}],"procedures":{"D":{},"E":{},"F":{}}};

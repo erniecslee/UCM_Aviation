@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77MT"]={"id":"77MT","name":"FERGUSON","lat":45.824736,"lon":-108.416569,"elevation":3071,"region":"K1","runways":[{"id":"RW01","lat":45.8225,"lon":-108.417261,"length":1668,"course":2.2},{"id":"RW19","lat":45.826969,"lon":-108.415881,"length":1668,"course":182.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CA5"]={"id":"6CA5","name":"VALLEY VISTA","lat":34.337225,"lon":-116.579744,"elevation":3370,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

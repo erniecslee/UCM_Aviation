@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA74"]={"id":"GA74","name":"TAKLE FLD","lat":33.041794,"lon":-84.412422,"elevation":850,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1U9"]={"id":"1U9","name":"PINE","lat":43.46625,"lon":-115.310028,"elevation":4232,"region":"K1","runways":[{"id":"RW16","lat":43.469397,"lon":-115.310308,"length":2300,"course":159.0},{"id":"RW34","lat":43.4631,"lon":-115.309764,"length":2300,"course":339.0}],"procedures":{"D":{},"E":{},"F":{}}};

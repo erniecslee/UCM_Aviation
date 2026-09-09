@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD44"]={"id":"FD44","name":"EAGLES NEST AERODROME","lat":29.426944,"lon":-81.604167,"elevation":63,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

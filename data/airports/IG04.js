@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IG04"]={"id":"IG04","name":"LITZINGER","lat":39.046425,"lon":-85.156197,"elevation":970,"region":"K5","runways":[{"id":"RW09","lat":39.046389,"lon":-85.158056,"length":1057,"course":92.5},{"id":"RW27","lat":39.046464,"lon":-85.154333,"length":1057,"course":272.5}],"procedures":{"D":{},"E":{},"F":{}}};

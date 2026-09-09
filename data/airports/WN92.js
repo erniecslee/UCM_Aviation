@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN92"]={"id":"WN92","name":"SKY MEADOWS AIRPARK","lat":47.608508,"lon":-117.180758,"elevation":2350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

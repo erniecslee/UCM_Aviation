@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD14"]={"id":"FD14","name":"PANIOLA AIR RANCH","lat":29.37525,"lon":-82.058147,"elevation":140,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

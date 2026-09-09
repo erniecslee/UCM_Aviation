@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX35"]={"id":"TX35","name":"MOLAIR","lat":33.456581,"lon":-94.849317,"elevation":342,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

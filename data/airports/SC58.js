@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC58"]={"id":"SC58","name":"JA FLD","lat":34.744306,"lon":-80.388889,"elevation":570,"region":"K7","runways":[{"id":"RW07","lat":34.743056,"lon":-80.392222,"length":2200,"course":73.8},{"id":"RW25","lat":34.745556,"lon":-80.385556,"length":2200,"course":253.8}],"procedures":{"D":{},"E":{},"F":{}}};

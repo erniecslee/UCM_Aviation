@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2N6"]={"id":"2N6","name":"REDWING","lat":40.027083,"lon":-74.690889,"elevation":78,"region":"K6","runways":[{"id":"RW11","lat":40.027419,"lon":-74.693703,"length":1590,"course":111.0},{"id":"RW29","lat":40.026772,"lon":-74.688086,"length":1590,"course":291.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL05"]={"id":"OL05","name":"SKYDIVE OREGON","lat":45.146233,"lon":-122.617589,"elevation":360,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

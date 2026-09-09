@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56MN"]={"id":"56MN","name":"LOTHERT'S FARM STRIP","lat":44.645517,"lon":-94.961386,"elevation":1015,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA39"]={"id":"CA39","name":"BELOS CAVALOS","lat":38.434633,"lon":-122.563594,"elevation":450,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME09"]={"id":"ME09","name":"PANTHER POND","lat":43.930075,"lon":-70.453111,"elevation":277,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

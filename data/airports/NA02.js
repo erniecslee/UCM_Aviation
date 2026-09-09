@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA02"]={"id":"NA02","name":"SAURE","lat":47.704978,"lon":-97.054806,"elevation":870,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

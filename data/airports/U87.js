@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U87"]={"id":"U87","name":"SMILEY CREEK","lat":43.912139,"lon":-114.796056,"elevation":7206,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

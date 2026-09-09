@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53KT"]={"id":"53KT","name":"LIBERTY-CASEY COUNTY","lat":37.308556,"lon":-85.059111,"elevation":1040,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

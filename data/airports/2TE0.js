@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE0"]={"id":"2TE0","name":"EAGLE AIR PARK","lat":28.982194,"lon":-95.579669,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

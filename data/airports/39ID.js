@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39ID"]={"id":"39ID","name":"GETAWAY FLD","lat":46.69535,"lon":-116.606303,"elevation":2718,"region":"K1","runways":[{"id":"RW09","lat":46.695483,"lon":-116.607483,"length":600,"course":86.0},{"id":"RW27","lat":46.695214,"lon":-116.605125,"length":600,"course":266.0}],"procedures":{"D":{},"E":{},"F":{}}};

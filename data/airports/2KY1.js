@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KY1"]={"id":"2KY1","name":"KITTY HAWK FARM","lat":37.619167,"lon":-84.381389,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

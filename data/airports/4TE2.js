@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TE2"]={"id":"4TE2","name":"LEWIS PRIVATE","lat":29.544117,"lon":-100.673144,"elevation":1379,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PS3"]={"id":"2PS3","name":"MATHNA","lat":40.016761,"lon":-77.041367,"elevation":490,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

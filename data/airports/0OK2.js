@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OK2"]={"id":"0OK2","name":"VISKUP FAMILY FLD","lat":36.610556,"lon":-96.098056,"elevation":1000,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

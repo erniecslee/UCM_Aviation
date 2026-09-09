@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10WI"]={"id":"10WI","name":"BUDS LANDING","lat":45.115814,"lon":-88.189547,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

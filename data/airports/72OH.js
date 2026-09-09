@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72OH"]={"id":"72OH","name":"NO FLY ZONE","lat":40.035333,"lon":-84.077344,"elevation":1006,"region":"K5","runways":[{"id":"RW10","lat":40.035444,"lon":-84.078944,"length":900,"course":101.6},{"id":"RW28","lat":40.035225,"lon":-84.075742,"length":900,"course":281.6}],"procedures":{"D":{},"E":{},"F":{}}};

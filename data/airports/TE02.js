@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE02"]={"id":"TE02","name":"RIVET RANCH","lat":31.988564,"lon":-98.223067,"elevation":1400,"region":"K4","runways":[{"id":"RW14","lat":31.991131,"lon":-98.225136,"length":2264,"course":142.1},{"id":"RW32","lat":31.986,"lon":-98.221,"length":2264,"course":322.1}],"procedures":{"D":{},"E":{},"F":{}}};

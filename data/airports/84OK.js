@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84OK"]={"id":"84OK","name":"PETTIJOHN ACRES LANDING","lat":34.664608,"lon":-98.077317,"elevation":1270,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26AZ"]={"id":"26AZ","name":"FLYING DARES RANCH","lat":34.011972,"lon":-113.202969,"elevation":2192,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

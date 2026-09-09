@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN9"]={"id":"3WN9","name":"BRION MEML","lat":44.556883,"lon":-91.366936,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

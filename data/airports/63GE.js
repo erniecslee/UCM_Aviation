@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63GE"]={"id":"63GE","name":"WESTBROOK","lat":32.047358,"lon":-84.740064,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

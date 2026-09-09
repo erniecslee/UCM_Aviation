@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NM9"]={"id":"2NM9","name":"HIGH DESERT RANCH","lat":34.199167,"lon":-105.164167,"elevation":5575,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

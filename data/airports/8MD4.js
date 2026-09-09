@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MD4"]={"id":"8MD4","name":"SPIERING","lat":38.980556,"lon":-75.777778,"elevation":55,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

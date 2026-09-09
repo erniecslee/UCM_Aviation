@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR40"]={"id":"OR40","name":"DIETZ AIRPARK","lat":45.255678,"lon":-122.650925,"elevation":180,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

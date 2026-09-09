@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55TE"]={"id":"55TE","name":"MATT DOYLE AIRPARK","lat":29.418272,"lon":-94.904467,"elevation":7,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

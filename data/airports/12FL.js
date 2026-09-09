@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12FL"]={"id":"12FL","name":"TIMBERLACHEN","lat":28.592778,"lon":-81.403889,"elevation":89,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

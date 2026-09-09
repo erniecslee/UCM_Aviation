@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CD4"]={"id":"2CD4","name":"WEST DIVIDE","lat":39.430556,"lon":-107.623056,"elevation":6352,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD28"]={"id":"CD28","name":"TALL TIMBER","lat":39.643883,"lon":-105.267633,"elevation":7360,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

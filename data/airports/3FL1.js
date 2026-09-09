@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FL1"]={"id":"3FL1","name":"TWO J'S FLYING RANCH","lat":28.4525,"lon":-82.207778,"elevation":60,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS43"]={"id":"WS43","name":"BIRCH CREEK","lat":44.355547,"lon":-88.058433,"elevation":813,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

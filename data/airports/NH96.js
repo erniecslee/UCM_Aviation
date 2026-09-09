@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH96"]={"id":"NH96","name":"WENTWORTH AERODROME","lat":43.873444,"lon":-71.904722,"elevation":610,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD21"]={"id":"SD21","name":"HAYES EMERGENCY AIRSTRIP","lat":44.370814,"lon":-101.008753,"elevation":1986,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK1"]={"id":"AK1","name":"BUTTE MUNI","lat":61.530317,"lon":-149.017636,"elevation":64,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4ME0"]={"id":"4ME0","name":"BRANDY POND","lat":43.953894,"lon":-70.587483,"elevation":268,"region":"K6","runways":[{"id":"RW17W","lat":43.963494,"lon":-70.590714,"length":7200,"course":180.7},{"id":"RW35W","lat":43.944297,"lon":-70.584253,"length":7200,"course":0.7}],"procedures":{"D":{},"E":{},"F":{}}};

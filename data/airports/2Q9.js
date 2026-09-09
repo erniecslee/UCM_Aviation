@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Q9"]={"id":"2Q9","name":"DYER","lat":37.609653,"lon":-118.006489,"elevation":4899,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL96"]={"id":"IL96","name":"DREIER RLA","lat":39.905856,"lon":-91.313831,"elevation":662,"region":"K5","runways":[{"id":"RW18","lat":39.908531,"lon":-91.313803,"length":2450,"course":181.8},{"id":"RW36","lat":39.902492,"lon":-91.313864,"length":2450,"course":1.8}],"procedures":{"D":{},"E":{},"F":{}}};

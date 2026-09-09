@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NA4"]={"id":"7NA4","name":"INGEBRETSON AIRSPRAY","lat":47.517208,"lon":-97.333703,"elevation":982,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

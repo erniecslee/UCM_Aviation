@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CL7"]={"id":"9CL7","name":"OLD AERODROME","lat":39.324892,"lon":-121.359406,"elevation":700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

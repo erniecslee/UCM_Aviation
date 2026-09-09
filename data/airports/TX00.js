@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX00"]={"id":"TX00","name":"ABILENE EXEC AIRPARK","lat":32.448889,"lon":-99.62,"elevation":1822,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

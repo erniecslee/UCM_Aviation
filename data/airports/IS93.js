@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS93"]={"id":"IS93","name":"SUE ROCK INTL","lat":42.442514,"lon":-89.499283,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OK8"]={"id":"5OK8","name":"PERKINS","lat":35.7298,"lon":-98.6587,"elevation":1700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18MO"]={"id":"18MO","name":"GIMLIN","lat":36.963558,"lon":-93.172153,"elevation":1376,"region":"K3","runways":[{"id":"RW18","lat":36.967681,"lon":-93.171933,"length":3005,"course":178.4},{"id":"RW36","lat":36.959433,"lon":-93.172372,"length":3005,"course":358.4}],"procedures":{"D":{},"E":{},"F":{}}};

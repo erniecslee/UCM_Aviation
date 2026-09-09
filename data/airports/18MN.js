@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18MN"]={"id":"18MN","name":"HINES FARM","lat":46.237189,"lon":-94.593069,"elevation":1283,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

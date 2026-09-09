@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89OR"]={"id":"89OR","name":"MUCKY FLAT","lat":42.597903,"lon":-122.712539,"elevation":2000,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74OK"]={"id":"74OK","name":"PEGASUS AIRPARK","lat":35.947725,"lon":-97.489286,"elevation":1155,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

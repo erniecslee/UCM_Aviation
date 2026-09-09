@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS06"]={"id":"WS06","name":"SPRINGSTEAD","lat":45.987725,"lon":-90.163494,"elevation":1600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

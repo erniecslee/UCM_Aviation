@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5BL"]={"id":"5BL","name":"HOMER-BELUGA LAKE","lat":59.641556,"lon":-151.521128,"elevation":25,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

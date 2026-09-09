@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IN5"]={"id":"3IN5","name":"PIPPENGER","lat":41.316944,"lon":-85.371389,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MN3"]={"id":"9MN3","name":"BARNESVILLE MUNI","lat":46.665239,"lon":-96.441181,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

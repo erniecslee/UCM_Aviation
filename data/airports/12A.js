@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12A"]={"id":"12A","name":"ARKAVALLEY","lat":35.177531,"lon":-92.335067,"elevation":329,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

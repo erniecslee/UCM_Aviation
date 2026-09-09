@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK3"]={"id":"2OK3","name":"ROCK RIDGE","lat":35.098056,"lon":-97.7425,"elevation":1290,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

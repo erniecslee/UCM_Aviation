@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91LS"]={"id":"91LS","name":"DUCLOS","lat":38.208889,"lon":-90.037222,"elevation":520,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

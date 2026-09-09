@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV46"]={"id":"WV46","name":"WELLSBURG","lat":40.267847,"lon":-80.617297,"elevation":644,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

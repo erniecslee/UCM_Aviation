@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3SD2"]={"id":"3SD2","name":"KAUER PRIVATE","lat":44.109106,"lon":-102.957514,"elevation":3000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

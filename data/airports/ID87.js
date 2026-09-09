@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID87"]={"id":"ID87","name":"RAINBOW RANCH","lat":43.406861,"lon":-111.974414,"elevation":4750,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

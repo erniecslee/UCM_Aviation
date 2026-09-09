@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PS2"]={"id":"3PS2","name":"POBO FLD","lat":39.978194,"lon":-78.540833,"elevation":1530,"region":"K6","runways":[{"id":"RW04","lat":39.975833,"lon":-78.542778,"length":2036,"course":42.4},{"id":"RW22","lat":39.980556,"lon":-78.538889,"length":2036,"course":222.4}],"procedures":{"D":{},"E":{},"F":{}}};

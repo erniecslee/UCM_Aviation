@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42ME"]={"id":"42ME","name":"WATERS WORLD","lat":44.537456,"lon":-69.8995,"elevation":238,"region":"K6","runways":[{"id":"RW02W","lat":44.533269,"lon":-69.899975,"length":3062,"course":19.4},{"id":"RW20W","lat":44.541642,"lon":-69.899025,"length":3062,"course":199.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR8"]={"id":"OR8","name":"DUG BAR USFS","lat":45.805833,"lon":-116.688689,"elevation":1022,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

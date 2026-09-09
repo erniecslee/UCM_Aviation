@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN39"]={"id":"IN39","name":"BLACKHAWK","lat":41.141667,"lon":-87.394167,"elevation":653,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

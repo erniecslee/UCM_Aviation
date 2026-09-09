@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41TN"]={"id":"41TN","name":"STONEWALL AIRPARK","lat":35.900833,"lon":-86.207222,"elevation":760,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

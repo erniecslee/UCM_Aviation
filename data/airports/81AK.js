@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81AK"]={"id":"81AK","name":"MC KINLEY COUNTRY","lat":62.567692,"lon":-150.236022,"elevation":600,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

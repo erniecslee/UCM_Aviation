@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OR6"]={"id":"2OR6","name":"LOCKHART","lat":44.181272,"lon":-118.214928,"elevation":4615,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

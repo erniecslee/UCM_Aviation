@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65CL"]={"id":"65CL","name":"AL DIVINE","lat":36.514394,"lon":-119.764028,"elevation":252,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48LA"]={"id":"48LA","name":"COUNTRYSIDE","lat":30.274875,"lon":-92.580636,"elevation":24,"region":"K4","runways":[{"id":"RW11","lat":30.275483,"lon":-92.582489,"length":1251,"course":110.7},{"id":"RW29","lat":30.274267,"lon":-92.578783,"length":1251,"course":290.7}],"procedures":{"D":{},"E":{},"F":{}}};

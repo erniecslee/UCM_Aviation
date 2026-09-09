@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN4"]={"id":"3WN4","name":"MARKS PARK & AIRFIELD","lat":44.306944,"lon":-88.771111,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN31"]={"id":"WN31","name":"SLINKARD AIRFIELD","lat":46.603194,"lon":-119.062786,"elevation":890,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

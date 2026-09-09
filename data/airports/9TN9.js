@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TN9"]={"id":"9TN9","name":"TOY BOX","lat":36.019444,"lon":-86.288056,"elevation":630,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

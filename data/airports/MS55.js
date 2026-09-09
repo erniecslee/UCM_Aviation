@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS55"]={"id":"MS55","name":"SCHLOSS ADLERS","lat":34.810931,"lon":-89.578414,"elevation":478,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

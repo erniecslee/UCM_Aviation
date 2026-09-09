@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG19"]={"id":"OG19","name":"BOMBAY FARMS","lat":44.650117,"lon":-121.238378,"elevation":2385,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

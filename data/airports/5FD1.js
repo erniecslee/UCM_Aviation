@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FD1"]={"id":"5FD1","name":"RON WOOD","lat":30.432139,"lon":-85.288811,"elevation":140,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

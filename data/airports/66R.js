@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66R"]={"id":"66R","name":"ROBERT R WELLS JR","lat":29.641511,"lon":-96.515956,"elevation":242,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

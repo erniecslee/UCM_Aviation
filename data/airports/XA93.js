@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA93"]={"id":"XA93","name":"TORTUGA RANCH","lat":28.619322,"lon":-99.654364,"elevation":550,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

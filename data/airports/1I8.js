@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1I8"]={"id":"1I8","name":"CONVERSE","lat":40.573203,"lon":-85.899597,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

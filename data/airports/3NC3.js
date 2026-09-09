@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NC3"]={"id":"3NC3","name":"TUCKER FLD","lat":35.246944,"lon":-80.4075,"elevation":645,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

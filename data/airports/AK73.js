@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK73"]={"id":"AK73","name":"MCGAHAN INDUSTRIAL AIRPARK","lat":60.725275,"lon":-151.302236,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

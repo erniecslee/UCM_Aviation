@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57LS"]={"id":"57LS","name":"PRAIRIE CREEK","lat":31.208889,"lon":-93.276111,"elevation":245,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

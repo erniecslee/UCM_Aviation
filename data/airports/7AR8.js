@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR8"]={"id":"7AR8","name":"SHILOH","lat":34.665086,"lon":-91.17665,"elevation":180,"region":"K4","runways":[{"id":"RW18","lat":34.669353,"lon":-91.176489,"length":3108,"course":182.9},{"id":"RW36","lat":34.660817,"lon":-91.176811,"length":3108,"course":2.9}],"procedures":{"D":{},"E":{},"F":{}}};

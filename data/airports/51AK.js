@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51AK"]={"id":"51AK","name":"BIRCH CREEK LANDING","lat":62.242289,"lon":-150.065814,"elevation":400,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

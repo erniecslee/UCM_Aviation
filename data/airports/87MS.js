@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87MS"]={"id":"87MS","name":"MALONEY","lat":34.176828,"lon":-88.688536,"elevation":270,"region":"K7","runways":[{"id":"RW11","lat":34.178664,"lon":-88.693214,"length":3130,"course":118.1},{"id":"RW29","lat":34.174989,"lon":-88.683858,"length":3130,"course":298.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11AK"]={"id":"11AK","name":"ROCKING T RANCH","lat":63.999606,"lon":-145.502317,"elevation":1190,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

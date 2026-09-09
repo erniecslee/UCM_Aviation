@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA16"]={"id":"WA16","name":"BANAS FLD","lat":46.799722,"lon":-123.541111,"elevation":180,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

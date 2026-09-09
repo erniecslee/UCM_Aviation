@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85NC"]={"id":"85NC","name":"REAGANS ROOST","lat":35.429194,"lon":-83.166783,"elevation":2080,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

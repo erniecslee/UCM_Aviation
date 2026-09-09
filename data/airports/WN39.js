@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN39"]={"id":"WN39","name":"KNUTSON FLD","lat":43.481928,"lon":-89.320117,"elevation":875,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

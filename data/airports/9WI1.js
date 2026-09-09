@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI1"]={"id":"9WI1","name":"BLACK OTTER","lat":44.329444,"lon":-88.623611,"elevation":805,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

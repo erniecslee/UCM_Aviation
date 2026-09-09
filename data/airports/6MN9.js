@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MN9"]={"id":"6MN9","name":"BENSON","lat":45.116633,"lon":-92.99605,"elevation":942,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

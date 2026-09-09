@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT39"]={"id":"CT39","name":"MAPLEWOOD FARM","lat":41.468431,"lon":-72.708428,"elevation":280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

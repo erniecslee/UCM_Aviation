@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG49"]={"id":"OG49","name":"COUNTRY TWILIGHT","lat":44.421944,"lon":-123.258889,"elevation":300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

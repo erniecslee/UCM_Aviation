@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK45"]={"id":"AK45","name":"GREBE LAKE","lat":61.559375,"lon":-149.624289,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

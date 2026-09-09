@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13TS"]={"id":"13TS","name":"VAN ES RANCH","lat":27.455308,"lon":-98.926414,"elevation":830,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

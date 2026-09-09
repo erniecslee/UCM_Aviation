@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO01"]={"id":"MO01","name":"CUINCHE","lat":37.250767,"lon":-93.106906,"elevation":1481,"region":"K3","runways":[{"id":"RW18","lat":37.254144,"lon":-93.106864,"length":2460,"course":176.6},{"id":"RW36","lat":37.247386,"lon":-93.106947,"length":2460,"course":356.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2S5"]={"id":"2S5","name":"WATERVILLE","lat":47.656006,"lon":-120.056464,"elevation":2645,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

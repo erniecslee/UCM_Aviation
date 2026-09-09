@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GE7"]={"id":"0GE7","name":"CARPENTER","lat":33.520278,"lon":-82.3725,"elevation":450,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

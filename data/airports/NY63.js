@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY63"]={"id":"NY63","name":"ARCHDALE MEADOWS","lat":43.053333,"lon":-73.478333,"elevation":584,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

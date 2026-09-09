@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL81"]={"id":"FL81","name":"TRIPLE B AIRPARK","lat":30.781853,"lon":-86.467172,"elevation":210,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA86"]={"id":"OA86","name":"SILENT P","lat":39.907356,"lon":-83.360314,"elevation":970,"region":"K5","runways":[{"id":"RW07","lat":39.906022,"lon":-83.364225,"length":2400,"course":73.1},{"id":"RW25","lat":39.908689,"lon":-83.356403,"length":2400,"course":253.1}],"procedures":{"D":{},"E":{},"F":{}}};

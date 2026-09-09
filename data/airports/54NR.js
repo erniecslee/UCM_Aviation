@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54NR"]={"id":"54NR","name":"BETHANY","lat":36.312908,"lon":-79.828539,"elevation":903,"region":"K7","runways":[{"id":"RW18","lat":36.315375,"lon":-79.828775,"length":1800,"course":184.4},{"id":"RW36","lat":36.310444,"lon":-79.828306,"length":1800,"course":4.4}],"procedures":{"D":{},"E":{},"F":{}}};

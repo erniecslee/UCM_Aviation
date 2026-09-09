@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06VA"]={"id":"06VA","name":"MOUNT HOREB FLD","lat":38.249019,"lon":-78.855303,"elevation":1160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

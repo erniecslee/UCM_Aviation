@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99MS"]={"id":"99MS","name":"PARADISE","lat":32.712408,"lon":-90.294872,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

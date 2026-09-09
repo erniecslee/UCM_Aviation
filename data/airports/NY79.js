@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY79"]={"id":"NY79","name":"KEYSA","lat":42.596728,"lon":-78.340294,"elevation":1620,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

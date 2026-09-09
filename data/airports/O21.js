@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O21"]={"id":"O21","name":"HOOPA","lat":41.041472,"lon":-123.667806,"elevation":356,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

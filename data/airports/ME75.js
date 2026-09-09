@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME75"]={"id":"ME75","name":"MARGERISON-KINCER","lat":43.953967,"lon":-70.141442,"elevation":220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

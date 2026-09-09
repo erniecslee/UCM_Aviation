@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT75"]={"id":"UT75","name":"MINERAL CANYON STRIP","lat":38.533333,"lon":-109.983333,"elevation":3900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

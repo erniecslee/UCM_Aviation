@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40PN"]={"id":"40PN","name":"EAGLES MERE FLD","lat":41.391156,"lon":-76.611403,"elevation":1900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

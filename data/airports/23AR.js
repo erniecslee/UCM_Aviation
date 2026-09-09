@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23AR"]={"id":"23AR","name":"CLASSIC AIRSTRIP","lat":35.825889,"lon":-90.547194,"elevation":260,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

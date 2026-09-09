@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WA6"]={"id":"6WA6","name":"CARR","lat":46.278469,"lon":-118.956114,"elevation":625,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

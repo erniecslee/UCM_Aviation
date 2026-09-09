@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA05"]={"id":"CA05","name":"MACHADO DUSTERS","lat":36.160228,"lon":-119.813464,"elevation":192,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

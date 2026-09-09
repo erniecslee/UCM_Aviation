@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52IN"]={"id":"52IN","name":"STREBIG","lat":41.695506,"lon":-85.046542,"elevation":975,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

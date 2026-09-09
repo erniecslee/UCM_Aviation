@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR46"]={"id":"OR46","name":"AJAX","lat":45.383183,"lon":-120.467825,"elevation":2165,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

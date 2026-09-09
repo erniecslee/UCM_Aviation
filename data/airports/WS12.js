@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS12"]={"id":"WS12","name":"ELERT","lat":43.264436,"lon":-89.323172,"elevation":972,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

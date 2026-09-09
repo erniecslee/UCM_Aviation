@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR1"]={"id":"7AR1","name":"WARDS","lat":33.050067,"lon":-91.340731,"elevation":113,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

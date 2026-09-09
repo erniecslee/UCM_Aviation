@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65TE"]={"id":"65TE","name":"WINDWOOD FARM","lat":33.568167,"lon":-96.397167,"elevation":778,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

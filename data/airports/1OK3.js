@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OK3"]={"id":"1OK3","name":"WOLFE FLD","lat":34.576078,"lon":-97.814144,"elevation":1194,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

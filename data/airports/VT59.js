@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT59"]={"id":"VT59","name":"ARDELL FLYING FLD","lat":43.277778,"lon":-72.910833,"elevation":1919,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

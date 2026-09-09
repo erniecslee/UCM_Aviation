@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18PN"]={"id":"18PN","name":"SPUD VIEW","lat":40.065367,"lon":-77.692769,"elevation":733,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

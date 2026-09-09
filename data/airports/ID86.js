@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID86"]={"id":"ID86","name":"DEADWOOD DAM AIRSTRIP","lat":44.297778,"lon":-115.641389,"elevation":5489,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

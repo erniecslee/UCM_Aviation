@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78MN"]={"id":"78MN","name":"HAGENS","lat":48.378856,"lon":-95.811672,"elevation":1155,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD88"]={"id":"MD88","name":"LINKS","lat":39.680017,"lon":-76.452769,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

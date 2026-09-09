@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TN4"]={"id":"9TN4","name":"FOREMAN FLD","lat":36.457667,"lon":-86.946,"elevation":705,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

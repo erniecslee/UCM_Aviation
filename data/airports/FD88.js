@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD88"]={"id":"FD88","name":"AERO ACRES","lat":27.341986,"lon":-80.522,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

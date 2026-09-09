@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L51"]={"id":"L51","name":"HELLER FARM","lat":47.726333,"lon":-108.875042,"elevation":2304,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

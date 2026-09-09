@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23NR"]={"id":"23NR","name":"WHITFIELD'S EAST","lat":35.560556,"lon":-76.234722,"elevation":1,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

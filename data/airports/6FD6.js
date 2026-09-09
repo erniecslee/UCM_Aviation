@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FD6"]={"id":"6FD6","name":"HILSON FLD","lat":28.904989,"lon":-81.433122,"elevation":167,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86ME"]={"id":"86ME","name":"CATHANCE LANDING","lat":44.006528,"lon":-69.895222,"elevation":0,"region":"K6","runways":[{"id":"RW02W","lat":44.0,"lon":-69.897083,"length":2592,"course":21.8},{"id":"RW20W","lat":44.007056,"lon":-69.895861,"length":2592,"course":201.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43TN"]={"id":"43TN","name":"ROSEANNE","lat":35.618056,"lon":-86.0025,"elevation":1050,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

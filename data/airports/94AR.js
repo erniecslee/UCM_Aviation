@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94AR"]={"id":"94AR","name":"GALLOWAY FARMS","lat":35.156383,"lon":-91.331881,"elevation":195,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WA5"]={"id":"6WA5","name":"WILDING FARM","lat":48.575614,"lon":-122.943617,"elevation":60,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

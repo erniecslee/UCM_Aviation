@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LL0"]={"id":"4LL0","name":"RANKEN","lat":41.836069,"lon":-89.093419,"elevation":785,"region":"K5","runways":[{"id":"N","lat":41.839361,"lon":-89.093364,"length":2400,"course":181.0},{"id":"S","lat":41.832778,"lon":-89.093475,"length":2400,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

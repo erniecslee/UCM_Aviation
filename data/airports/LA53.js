@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA53"]={"id":"LA53","name":"TENSAS FLYING SERVICE","lat":31.9775,"lon":-91.263889,"elevation":96,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

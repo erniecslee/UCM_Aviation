@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN78"]={"id":"SN78","name":"ALBRIGHT","lat":38.698153,"lon":-94.719392,"elevation":1045,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

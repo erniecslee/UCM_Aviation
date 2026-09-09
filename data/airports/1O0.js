@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1O0"]={"id":"1O0","name":"LAKE WOAHINK","lat":43.904167,"lon":-124.114722,"elevation":39,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

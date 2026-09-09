@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1A1"]={"id":"1A1","name":"GREEN ACRES","lat":42.149444,"lon":-73.750472,"elevation":297,"region":"K6","runways":[{"id":"RW03","lat":42.146408,"lon":-73.751456,"length":2275,"course":27.0},{"id":"RW21","lat":42.152483,"lon":-73.749511,"length":2275,"course":207.0}],"procedures":{"D":{},"E":{},"F":{}}};

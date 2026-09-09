@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN29"]={"id":"MN29","name":"MATHIEU LANDING","lat":47.394072,"lon":-92.488153,"elevation":1342,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

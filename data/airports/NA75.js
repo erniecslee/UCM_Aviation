@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA75"]={"id":"NA75","name":"LILL STRIP","lat":47.676389,"lon":-99.3904,"elevation":1560,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

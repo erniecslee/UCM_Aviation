@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA13"]={"id":"VA13","name":"BREEZY KNOLL","lat":37.265422,"lon":-79.042797,"elevation":785,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

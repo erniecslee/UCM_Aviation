@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KSEQ"]={"id":"KSEQ","name":"RANDOLPH AFB AUX","lat":29.565786,"lon":-97.908336,"elevation":525,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

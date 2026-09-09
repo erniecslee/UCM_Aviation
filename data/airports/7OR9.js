@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OR9"]={"id":"7OR9","name":"PARSON LANDING","lat":45.324289,"lon":-122.472033,"elevation":640,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

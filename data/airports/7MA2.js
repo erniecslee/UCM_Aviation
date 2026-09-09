@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MA2"]={"id":"7MA2","name":"CRAIG COVE","lat":41.780556,"lon":-70.947222,"elevation":53,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

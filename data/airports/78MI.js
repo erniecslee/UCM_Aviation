@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78MI"]={"id":"78MI","name":"CARLS","lat":42.0406,"lon":-83.303542,"elevation":598,"region":"K5","runways":[{"id":"RW18","lat":42.043731,"lon":-83.303539,"length":2285,"course":185.0},{"id":"RW36","lat":42.037461,"lon":-83.303539,"length":2285,"course":5.0}],"procedures":{"D":{},"E":{},"F":{}}};

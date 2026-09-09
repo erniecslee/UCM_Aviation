@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22XS"]={"id":"22XS","name":"LONGHORN AUX LANDING STRIP","lat":31.371,"lon":-97.666964,"elevation":720,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

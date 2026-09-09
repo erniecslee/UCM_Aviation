@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IA6"]={"id":"6IA6","name":"WELLS FLD","lat":40.756833,"lon":-93.401503,"elevation":1092,"region":"K3","runways":[{"id":"RW01","lat":40.753564,"lon":-93.402056,"length":2400,"course":7.2},{"id":"RW19","lat":40.7601,"lon":-93.400933,"length":2400,"course":187.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK1"]={"id":"4AK1","name":"INIGOK","lat":70.003831,"lon":-153.077569,"elevation":191,"region":"PA","runways":[{"id":"RW02","lat":69.998881,"lon":-153.091322,"length":5000,"course":23.5},{"id":"RW20","lat":70.008781,"lon":-153.063814,"length":5000,"course":203.6}],"procedures":{"D":{},"E":{},"F":{}}};

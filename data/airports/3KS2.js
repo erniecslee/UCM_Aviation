@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KS2"]={"id":"3KS2","name":"MUNSON FLD","lat":37.060469,"lon":-96.998711,"elevation":1166,"region":"K3","runways":[{"id":"RW18","lat":37.063283,"lon":-96.998794,"length":2051,"course":175.9},{"id":"RW36","lat":37.057656,"lon":-96.998628,"length":2051,"course":355.9}],"procedures":{"D":{},"E":{},"F":{}}};

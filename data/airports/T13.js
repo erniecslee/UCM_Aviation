@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T13"]={"id":"T13","name":"DALLAS SOUTH PORT","lat":32.477383,"lon":-96.685417,"elevation":474,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23FL"]={"id":"23FL","name":"GYRO TOWN USA","lat":27.684444,"lon":-82.244167,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

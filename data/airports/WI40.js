@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI40"]={"id":"WI40","name":"SPIEGEL FLD","lat":42.913333,"lon":-89.352342,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NC8"]={"id":"8NC8","name":"LAKE RIDGE AERO PARK","lat":36.060144,"lon":-78.783339,"elevation":309,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WA0"]={"id":"4WA0","name":"B & G FARMS","lat":46.928056,"lon":-119.739167,"elevation":1175,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

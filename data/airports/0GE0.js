@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GE0"]={"id":"0GE0","name":"PINEWOOD","lat":33.78205,"lon":-84.800772,"elevation":1085,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

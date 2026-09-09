@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WI7"]={"id":"0WI7","name":"WITH WINGS AND A HALO","lat":44.133597,"lon":-88.499278,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

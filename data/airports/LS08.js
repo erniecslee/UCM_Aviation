@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS08"]={"id":"LS08","name":"MARMANDE","lat":29.467914,"lon":-90.757,"elevation":8,"region":"K4","runways":[{"id":"RW16","lat":29.472547,"lon":-90.758428,"length":3491,"course":166.0},{"id":"RW34","lat":29.463278,"lon":-90.755569,"length":3491,"course":346.0}],"procedures":{"D":{},"E":{},"F":{}}};

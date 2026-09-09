@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WN0"]={"id":"0WN0","name":"RUCILLA'S ROOST","lat":48.137294,"lon":-123.112719,"elevation":15,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

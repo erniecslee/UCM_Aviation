@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA62"]={"id":"FA62","name":"SANTA FE RIVER RANCH","lat":29.916908,"lon":-82.483172,"elevation":145,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

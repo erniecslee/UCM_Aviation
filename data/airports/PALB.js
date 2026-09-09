@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PALB"]={"id":"PALB","name":"LARSEN BAY","lat":57.535083,"lon":-153.976667,"elevation":87,"region":"PA","runways":[{"id":"RW04","lat":57.533047,"lon":-153.982392,"length":2690,"course":35.6},{"id":"RW22","lat":57.537103,"lon":-153.970969,"length":2690,"course":215.6}],"procedures":{"D":{},"E":{},"F":{}}};

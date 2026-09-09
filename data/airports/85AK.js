@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85AK"]={"id":"85AK","name":"MARION","lat":61.509167,"lon":-149.908611,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

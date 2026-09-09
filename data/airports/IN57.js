@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN57"]={"id":"IN57","name":"SHURE","lat":39.261428,"lon":-87.420853,"elevation":550,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

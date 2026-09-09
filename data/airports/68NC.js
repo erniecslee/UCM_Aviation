@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68NC"]={"id":"68NC","name":"WINSTEAD '76'","lat":36.399583,"lon":-79.128069,"elevation":615,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

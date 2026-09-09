@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NJ2"]={"id":"5NJ2","name":"HERR MOUNTAIN","lat":40.591769,"lon":-74.841275,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

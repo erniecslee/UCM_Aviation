@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27TX"]={"id":"27TX","name":"SANDS HILL","lat":30.119444,"lon":-96.712222,"elevation":403,"region":"K4","runways":[{"id":"RW13","lat":30.120556,"lon":-96.713611,"length":1194,"course":130.1},{"id":"RW31","lat":30.118333,"lon":-96.710833,"length":1194,"course":310.1}],"procedures":{"D":{},"E":{},"F":{}}};

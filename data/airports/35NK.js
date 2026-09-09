@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35NK"]={"id":"35NK","name":"AIRBORNE ACRES","lat":43.370883,"lon":-78.414417,"elevation":295,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

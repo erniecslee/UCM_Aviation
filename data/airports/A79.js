@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A79"]={"id":"A79","name":"CHIGNIK LAKE","lat":56.255458,"lon":-158.777833,"elevation":50,"region":"PA","runways":[{"id":"RW08","lat":56.256178,"lon":-158.784594,"length":2800,"course":82.0},{"id":"RW26","lat":56.254736,"lon":-158.771069,"length":2800,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

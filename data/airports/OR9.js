@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR9"]={"id":"OR9","name":"LORD FLAT USFS","lat":45.666461,"lon":-116.618358,"elevation":5594,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

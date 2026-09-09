@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL99"]={"id":"FL99","name":"FLYING-H","lat":28.876097,"lon":-81.888969,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

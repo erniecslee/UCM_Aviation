@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18JY"]={"id":"18JY","name":"SKAMOKAWA EAST VALLEY","lat":46.284722,"lon":-123.442778,"elevation":19,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

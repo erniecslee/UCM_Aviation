@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL99"]={"id":"AL99","name":"ELKWOOD AIRPARK","lat":34.980733,"lon":-86.684006,"elevation":890,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

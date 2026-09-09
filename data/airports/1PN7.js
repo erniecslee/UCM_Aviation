@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1PN7"]={"id":"1PN7","name":"LEUKHARDT'S LANDING","lat":40.184158,"lon":-79.52785,"elevation":1150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24AZ"]={"id":"24AZ","name":"PLEASANT VALLEY AIRSTRIP","lat":34.158097,"lon":-110.935403,"elevation":5688,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

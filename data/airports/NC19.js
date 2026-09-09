@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC19"]={"id":"NC19","name":"PROPST","lat":35.391808,"lon":-80.575622,"elevation":621,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

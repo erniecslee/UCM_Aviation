@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M44"]={"id":"M44","name":"HOUSTON MUNI","lat":33.886494,"lon":-89.022975,"elevation":337,"region":"K7","runways":[{"id":"RW03","lat":33.881233,"lon":-89.026542,"length":4400,"course":27.0},{"id":"RW21","lat":33.891756,"lon":-89.019406,"length":4400,"course":207.0}],"procedures":{"D":{},"E":{},"F":{}}};

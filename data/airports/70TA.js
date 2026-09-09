@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70TA"]={"id":"70TA","name":"ZOCH","lat":31.193503,"lon":-95.893731,"elevation":301,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

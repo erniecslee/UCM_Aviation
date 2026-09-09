@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71LA"]={"id":"71LA","name":"LOST AIRFIELD","lat":30.421206,"lon":-92.2342,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

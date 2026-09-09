@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FL2"]={"id":"0FL2","name":"ALLIGATOR DRINK","lat":28.787769,"lon":-81.164228,"elevation":19,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M06"]={"id":"M06","name":"HAVRE DE GRACE","lat":39.541503,"lon":-76.069672,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

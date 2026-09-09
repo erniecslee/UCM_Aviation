@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC98"]={"id":"SC98","name":"MOUNT HOLLY","lat":33.054333,"lon":-80.083417,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

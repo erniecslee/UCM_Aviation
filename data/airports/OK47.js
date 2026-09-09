@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK47"]={"id":"OK47","name":"MILLER BROTHERS","lat":36.941692,"lon":-98.017006,"elevation":1250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR06"]={"id":"AR06","name":"CANTRELL FARMS","lat":35.2325,"lon":-92.343333,"elevation":325,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

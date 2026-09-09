@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA57"]={"id":"LA57","name":"KINDER AG SERVICE","lat":30.399092,"lon":-92.409022,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

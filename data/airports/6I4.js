@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6I4"]={"id":"6I4","name":"BOONE COUNTY","lat":40.007264,"lon":-86.440556,"elevation":959,"region":"K5","runways":[{"id":"RW18","lat":40.013811,"lon":-86.440414,"length":3600,"course":182.0},{"id":"RW36","lat":40.003931,"lon":-86.440414,"length":3600,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

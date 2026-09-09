@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56FD"]={"id":"56FD","name":"NORTH AMERICAN FARMS","lat":30.964631,"lon":-85.069372,"elevation":130,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

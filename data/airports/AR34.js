@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR34"]={"id":"AR34","name":"PINE VILLAGE","lat":34.982033,"lon":-92.445158,"elevation":610,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL0"]={"id":"5LL0","name":"BECKERMAN FLD","lat":38.408381,"lon":-87.837531,"elevation":424,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

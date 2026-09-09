@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK52"]={"id":"AK52","name":"MOEN'S RANCH","lat":64.888889,"lon":-147.535594,"elevation":582,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNGS"]={"id":"KNGS","name":"SANTA ROSA NOLF","lat":30.609875,"lon":-86.939522,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

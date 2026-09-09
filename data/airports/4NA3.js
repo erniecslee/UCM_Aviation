@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NA3"]={"id":"4NA3","name":"PETERSON AIRSTRIP","lat":48.857242,"lon":-101.302103,"elevation":1545,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

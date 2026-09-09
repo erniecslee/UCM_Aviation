@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45OI"]={"id":"45OI","name":"PLANE COUNTRY","lat":40.561175,"lon":-81.545675,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

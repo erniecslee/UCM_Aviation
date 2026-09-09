@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28AL"]={"id":"28AL","name":"FOSHEE","lat":32.433222,"lon":-86.374592,"elevation":143,"region":"K7","runways":[{"id":"RW08","lat":32.43275,"lon":-86.376958,"length":1500,"course":81.0},{"id":"RW26","lat":32.433694,"lon":-86.372222,"length":1500,"course":261.0}],"procedures":{"D":{},"E":{},"F":{}}};

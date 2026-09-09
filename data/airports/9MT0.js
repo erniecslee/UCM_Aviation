@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MT0"]={"id":"9MT0","name":"PALE MORNING DUN RANCH","lat":45.402919,"lon":-107.774214,"elevation":3126,"region":"K1","runways":[{"id":"RW25","lat":45.403003,"lon":-107.7673,"length":3550,"course":259.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK4"]={"id":"3AK4","name":"JOHNSON","lat":60.632489,"lon":-151.340014,"elevation":102,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

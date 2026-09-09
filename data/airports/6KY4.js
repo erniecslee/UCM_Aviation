@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6KY4"]={"id":"6KY4","name":"ADAIR","lat":36.753333,"lon":-85.953889,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

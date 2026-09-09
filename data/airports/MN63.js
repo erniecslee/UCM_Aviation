@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN63"]={"id":"MN63","name":"STOCKER","lat":44.683297,"lon":-93.636903,"elevation":855,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

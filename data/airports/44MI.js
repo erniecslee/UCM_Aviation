@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44MI"]={"id":"44MI","name":"AIRBATCO FLD","lat":42.773644,"lon":-84.899994,"elevation":852,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

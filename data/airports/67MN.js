@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67MN"]={"id":"67MN","name":"PAGEL'S FLD","lat":45.201908,"lon":-94.801114,"elevation":1170,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

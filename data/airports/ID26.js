@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID26"]={"id":"ID26","name":"P AND R FLD","lat":43.232631,"lon":-115.939672,"elevation":3125,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

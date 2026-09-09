@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AR1"]={"id":"4AR1","name":"SHURLEY FLD","lat":35.041267,"lon":-92.101017,"elevation":430,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

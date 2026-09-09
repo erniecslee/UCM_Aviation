@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL41"]={"id":"AL41","name":"FREEDOM FLD","lat":31.116011,"lon":-85.625489,"elevation":285,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

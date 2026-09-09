@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17OR"]={"id":"17OR","name":"GLIDE AERO","lat":43.264167,"lon":-123.110278,"elevation":980,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

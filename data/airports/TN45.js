@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN45"]={"id":"TN45","name":"MAGIC VALLEY","lat":35.451067,"lon":-85.314181,"elevation":780,"region":"K7","runways":[{"id":"RW09","lat":35.450983,"lon":-85.315189,"length":603,"course":89.4},{"id":"RW27","lat":35.45115,"lon":-85.313175,"length":603,"course":269.4}],"procedures":{"D":{},"E":{},"F":{}}};

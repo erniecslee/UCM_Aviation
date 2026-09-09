@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL07"]={"id":"FL07","name":"WINGS N SUNSETS","lat":30.250225,"lon":-82.924019,"elevation":130,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

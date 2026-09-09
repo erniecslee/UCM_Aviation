@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA18"]={"id":"FA18","name":"DEVILS GARDEN STRIP","lat":26.444167,"lon":-81.020278,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

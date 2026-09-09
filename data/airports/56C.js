@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56C"]={"id":"56C","name":"BOULDER CANYON","lat":43.075681,"lon":-85.268525,"elevation":823,"region":"K5","runways":[{"id":"RW07","lat":43.075475,"lon":-85.269219,"length":2200,"course":74.1},{"id":"RW25","lat":43.076194,"lon":-85.266789,"length":2200,"course":254.1}],"procedures":{"D":{},"E":{},"F":{}}};

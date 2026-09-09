@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17MT"]={"id":"17MT","name":"LAKESHORE HERITAGE AIRPARK","lat":48.107056,"lon":-114.17725,"elevation":2900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

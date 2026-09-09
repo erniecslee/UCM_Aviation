@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY34"]={"id":"WY34","name":"BRIDGER CREEK","lat":43.340514,"lon":-107.687025,"elevation":5350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

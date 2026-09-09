@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO26"]={"id":"CO26","name":"KUTCHER AIRFIELD","lat":40.519206,"lon":-104.458294,"elevation":4770,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

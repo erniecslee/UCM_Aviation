@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR41"]={"id":"OR41","name":"WORKMAN AIRPARK","lat":45.207622,"lon":-122.669258,"elevation":210,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

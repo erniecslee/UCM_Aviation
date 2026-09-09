@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61AZ"]={"id":"61AZ","name":"WHITE MOUNTAIN","lat":34.369722,"lon":-109.697222,"elevation":6546,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

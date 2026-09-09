@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA25"]={"id":"LA25","name":"CENTRAL FARMERS COOP","lat":30.697419,"lon":-92.414022,"elevation":68,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

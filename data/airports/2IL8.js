@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IL8"]={"id":"2IL8","name":"MCCUNE RLA","lat":41.439858,"lon":-89.815611,"elevation":636,"region":"K5","runways":[{"id":"RW12","lat":41.440933,"lon":-89.818156,"length":1600,"course":121.9},{"id":"RW30","lat":41.438781,"lon":-89.813069,"length":1600,"course":301.9}],"procedures":{"D":{},"E":{},"F":{}}};

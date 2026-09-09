@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FD2"]={"id":"6FD2","name":"BIG OAKS RANCH","lat":28.666942,"lon":-81.084506,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

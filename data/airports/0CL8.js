@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CL8"]={"id":"0CL8","name":"TERA","lat":35.591347,"lon":-117.633672,"elevation":2510,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

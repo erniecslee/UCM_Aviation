@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K07"]={"id":"K07","name":"ROLLA DOWNTOWN","lat":37.935653,"lon":-91.813547,"elevation":987,"region":"K3","runways":[{"id":"RW09","lat":37.935897,"lon":-91.818781,"length":3028,"course":88.0},{"id":"RW27","lat":37.935494,"lon":-91.809839,"length":3028,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

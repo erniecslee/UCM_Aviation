@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62OH"]={"id":"62OH","name":"WILLARD FLD","lat":39.695833,"lon":-82.467428,"elevation":824,"region":"K5","runways":[{"id":"RW01","lat":39.691169,"lon":-82.467689,"length":3400,"course":9.0},{"id":"RW19","lat":39.700494,"lon":-82.467167,"length":3400,"course":189.0}],"procedures":{"D":{},"E":{},"F":{}}};

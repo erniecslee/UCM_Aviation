@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K67"]={"id":"K67","name":"OSWEGO MUNI","lat":37.159389,"lon":-95.0415,"elevation":832,"region":"K3","runways":[{"id":"RW17","lat":37.162814,"lon":-95.0415,"length":2500,"course":175.0},{"id":"RW35","lat":37.155947,"lon":-95.0415,"length":2500,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

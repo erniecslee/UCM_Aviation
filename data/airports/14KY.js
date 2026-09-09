@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14KY"]={"id":"14KY","name":"BLUE HAVEN FARM","lat":38.173686,"lon":-84.368269,"elevation":985,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

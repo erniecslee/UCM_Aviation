@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA13"]={"id":"WA13","name":"SEAPLANE LANDING AREA","lat":48.208333,"lon":-120.591667,"elevation":1100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

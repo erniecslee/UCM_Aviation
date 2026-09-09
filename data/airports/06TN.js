@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06TN"]={"id":"06TN","name":"HUNTER","lat":35.697292,"lon":-86.956947,"elevation":640,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

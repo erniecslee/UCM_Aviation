@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76XA"]={"id":"76XA","name":"HIGH LONESOME","lat":29.912306,"lon":-97.373306,"elevation":582,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

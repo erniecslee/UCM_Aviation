@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID65"]={"id":"ID65","name":"DRIFTWOOD AIR RANCH","lat":47.581017,"lon":-116.77185,"elevation":2775,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

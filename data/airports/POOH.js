@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["POOH"]={"id":"POOH","name":"HOONAH","lat":58.112158,"lon":-135.451806,"elevation":0,"region":"PO","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

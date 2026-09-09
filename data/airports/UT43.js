@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT43"]={"id":"UT43","name":"CITABRIAIR","lat":37.636089,"lon":-113.246619,"elevation":5600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

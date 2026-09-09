@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O39"]={"id":"O39","name":"RAVENDALE","lat":40.803703,"lon":-120.366208,"elevation":5306,"region":"K2","runways":[{"id":"RW17","lat":40.807272,"lon":-120.365908,"length":2607,"course":166.7},{"id":"RW35","lat":40.801211,"lon":-120.366417,"length":2607,"course":346.7}],"procedures":{"D":{},"E":{},"F":{}}};

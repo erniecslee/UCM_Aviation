@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T03"]={"id":"T03","name":"TUBA CITY","lat":36.092639,"lon":-111.383083,"elevation":4513,"region":"K2","runways":[{"id":"RW15","lat":36.100969,"lon":-111.385569,"length":6230,"course":153.0},{"id":"RW33","lat":36.084336,"lon":-111.380589,"length":6230,"course":333.0}],"procedures":{"D":{},"E":{},"F":{}}};

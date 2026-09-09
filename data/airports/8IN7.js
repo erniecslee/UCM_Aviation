@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IN7"]={"id":"8IN7","name":"BRUSH CREEK","lat":39.045278,"lon":-85.515278,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

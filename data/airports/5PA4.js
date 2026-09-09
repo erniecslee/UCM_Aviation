@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5PA4"]={"id":"5PA4","name":"NESSPOR","lat":40.189814,"lon":-75.615031,"elevation":315,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WN8"]={"id":"8WN8","name":"MAVE'S LAKEVIEW ROAD","lat":45.235125,"lon":-87.067528,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

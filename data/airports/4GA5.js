@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA5"]={"id":"4GA5","name":"PETERSON FLD","lat":32.088661,"lon":-84.372511,"elevation":526,"region":"K7","runways":[{"id":"RW18","lat":32.093133,"lon":-84.372411,"length":3255,"course":183.0},{"id":"RW36","lat":32.084189,"lon":-84.372608,"length":3255,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

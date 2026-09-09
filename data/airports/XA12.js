@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA12"]={"id":"XA12","name":"MCFARLIN RANCH","lat":30.694722,"lon":-98.032778,"elevation":1200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

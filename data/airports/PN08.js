@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN08"]={"id":"PN08","name":"DAVIS","lat":40.734619,"lon":-79.159897,"elevation":1373,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

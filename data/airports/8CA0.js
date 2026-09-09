@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CA0"]={"id":"8CA0","name":"OSBORNE","lat":34.583883,"lon":-117.266711,"elevation":2900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

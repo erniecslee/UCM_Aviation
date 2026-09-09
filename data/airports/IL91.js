@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL91"]={"id":"IL91","name":"SACKMAN FLD","lat":38.452306,"lon":-90.236056,"elevation":420,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

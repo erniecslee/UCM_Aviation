@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MFN"]={"id":"MFN","name":"MINUTEMAN LAKE","lat":61.721311,"lon":-150.046869,"elevation":295,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

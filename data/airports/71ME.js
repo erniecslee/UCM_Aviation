@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71ME"]={"id":"71ME","name":"TWIN EAGLES","lat":43.966944,"lon":-70.601111,"elevation":280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI51"]={"id":"WI51","name":"DEL MONTE","lat":43.321378,"lon":-89.32095,"elevation":1064,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

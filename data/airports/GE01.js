@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE01"]={"id":"GE01","name":"CHRISTIANS FOLLY","lat":30.930544,"lon":-83.079344,"elevation":208,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

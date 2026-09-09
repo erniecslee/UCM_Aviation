@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OR5"]={"id":"8OR5","name":"PILOT BUTTE","lat":44.047339,"lon":-121.275586,"elevation":3675,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

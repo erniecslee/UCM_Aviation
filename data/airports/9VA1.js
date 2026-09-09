@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9VA1"]={"id":"9VA1","name":"HOLLY POINT","lat":37.405417,"lon":-76.388278,"elevation":12,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

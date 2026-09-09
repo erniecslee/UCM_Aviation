@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["RK1"]={"id":"RK1","name":"KAVIK STRIP","lat":69.676778,"lon":-146.900047,"elevation":668,"region":"PA","runways":[{"id":"RW08","lat":69.678361,"lon":-146.921189,"length":5500,"course":87.3},{"id":"RW26","lat":69.675192,"lon":-146.878903,"length":5500,"course":267.4}],"procedures":{"D":{},"E":{},"F":{}}};

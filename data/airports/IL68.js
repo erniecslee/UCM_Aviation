@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL68"]={"id":"IL68","name":"NETTLE CREEK LANDINGS","lat":41.432067,"lon":-88.522472,"elevation":608,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

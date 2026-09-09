@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA72"]={"id":"GA72","name":"PRATERMILL FLIGHT PARK","lat":34.881667,"lon":-84.889722,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

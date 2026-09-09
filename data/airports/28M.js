@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28M"]={"id":"28M","name":"CRANLAND","lat":42.025139,"lon":-70.838111,"elevation":71,"region":"K6","runways":[{"id":"RW18","lat":42.027464,"lon":-70.838983,"length":1760,"course":180.2},{"id":"RW36","lat":42.022817,"lon":-70.837219,"length":1760,"course":0.2}],"procedures":{"D":{},"E":{},"F":{}}};

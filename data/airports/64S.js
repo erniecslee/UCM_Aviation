@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64S"]={"id":"64S","name":"PROSPECT STATE","lat":42.7426,"lon":-122.488892,"elevation":2578,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

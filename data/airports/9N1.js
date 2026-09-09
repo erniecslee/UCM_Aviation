@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9N1"]={"id":"9N1","name":"VANSANT","lat":40.484269,"lon":-75.099617,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

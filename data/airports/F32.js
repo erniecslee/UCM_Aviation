@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F32"]={"id":"F32","name":"HEALDTON MUNI","lat":34.254894,"lon":-97.472928,"elevation":956,"region":"K4","runways":[{"id":"RW17","lat":34.259044,"lon":-97.472944,"length":3020,"course":172.8},{"id":"RW35","lat":34.250744,"lon":-97.472911,"length":3020,"course":352.8}],"procedures":{"D":{},"E":{},"F":{}}};

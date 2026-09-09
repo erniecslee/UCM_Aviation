@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00AK"]={"id":"00AK","name":"LOWELL FLD","lat":59.948889,"lon":-151.692222,"elevation":252,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

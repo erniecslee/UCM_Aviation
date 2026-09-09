@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87VA"]={"id":"87VA","name":"COTTONWOOD FARM","lat":38.081111,"lon":-78.695556,"elevation":690,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

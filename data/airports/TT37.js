@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT37"]={"id":"TT37","name":"DRAGON LADY","lat":32.851275,"lon":-94.210647,"elevation":260,"region":"K4","runways":[{"id":"RW18","lat":32.853889,"lon":-94.210556,"length":1903,"course":180.7},{"id":"RW36","lat":32.848661,"lon":-94.210739,"length":1903,"course":0.7}],"procedures":{"D":{},"E":{},"F":{}}};

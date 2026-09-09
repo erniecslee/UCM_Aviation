@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA75"]={"id":"LA75","name":"GLENN'S STRIP","lat":30.205278,"lon":-92.214444,"elevation":29,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51WA"]={"id":"51WA","name":"EVERGREEN SKY RANCH","lat":47.268156,"lon":-122.067892,"elevation":580,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

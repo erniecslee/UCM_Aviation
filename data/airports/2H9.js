@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2H9"]={"id":"2H9","name":"ROLETTE","lat":48.666864,"lon":-99.853161,"elevation":1623,"region":"K3","runways":[{"id":"RW15","lat":48.671222,"lon":-99.855639,"length":3400,"course":150.0},{"id":"RW33","lat":48.662503,"lon":-99.850683,"length":3400,"course":330.0}],"procedures":{"D":{},"E":{},"F":{}}};

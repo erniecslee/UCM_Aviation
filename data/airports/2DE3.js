@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2DE3"]={"id":"2DE3","name":"HRUPSA","lat":39.003056,"lon":-75.6825,"elevation":55,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

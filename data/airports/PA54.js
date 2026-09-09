@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA54"]={"id":"PA54","name":"KELLACHOWS","lat":41.522308,"lon":-75.396014,"elevation":1430,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

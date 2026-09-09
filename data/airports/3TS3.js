@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TS3"]={"id":"3TS3","name":"J-D RANCH","lat":29.374681,"lon":-95.290492,"elevation":34,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

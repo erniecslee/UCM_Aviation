@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OH1"]={"id":"4OH1","name":"SKY HAVEN","lat":41.716994,"lon":-81.106764,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

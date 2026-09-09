@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42FL"]={"id":"42FL","name":"PLANTATION KEY","lat":24.971242,"lon":-80.595617,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

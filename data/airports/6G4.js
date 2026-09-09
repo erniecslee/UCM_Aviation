@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6G4"]={"id":"6G4","name":"WYNKOOP","lat":40.365061,"lon":-82.495719,"elevation":1041,"region":"K5","runways":[{"id":"RW06","lat":40.362867,"lon":-82.501222,"length":3460,"course":70.1},{"id":"RW24","lat":40.367253,"lon":-82.490208,"length":3460,"course":250.1}],"procedures":{"D":{},"E":{},"F":{}}};

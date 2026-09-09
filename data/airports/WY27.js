@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY27"]={"id":"WY27","name":"WAGONHOUND","lat":42.586667,"lon":-105.538333,"elevation":5470,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

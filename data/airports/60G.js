@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60G"]={"id":"60G","name":"SKYWAY ESTATES","lat":42.583808,"lon":-84.651481,"elevation":931,"region":"K5","runways":[{"id":"RW08","lat":42.583597,"lon":-84.653844,"length":2653,"course":88.0},{"id":"RW26","lat":42.584114,"lon":-84.648067,"length":2653,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6GA1"]={"id":"6GA1","name":"FAGUNDES FLD","lat":33.199011,"lon":-84.583817,"elevation":864,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

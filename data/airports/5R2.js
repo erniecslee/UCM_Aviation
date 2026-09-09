@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5R2"]={"id":"5R2","name":"OCEAN SPRINGS","lat":30.389444,"lon":-88.753444,"elevation":20,"region":"K7","runways":[{"id":"RW18","lat":30.394486,"lon":-88.753572,"length":3500,"course":177.0},{"id":"RW36","lat":30.384867,"lon":-88.75335,"length":3500,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

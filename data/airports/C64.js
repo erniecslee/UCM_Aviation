@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C64"]={"id":"C64","name":"CAYUSE CREEK USFS","lat":46.666583,"lon":-115.073181,"elevation":3505,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

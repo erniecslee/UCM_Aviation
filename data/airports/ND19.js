@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND19"]={"id":"ND19","name":"STOKKA","lat":47.433611,"lon":-98.417778,"elevation":1450,"region":"K3","runways":[{"id":"RW18","lat":47.439167,"lon":-98.417778,"length":4053,"course":176.2},{"id":"RW36","lat":47.428056,"lon":-98.417778,"length":4053,"course":356.2}],"procedures":{"D":{},"E":{},"F":{}}};

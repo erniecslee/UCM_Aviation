@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN30"]={"id":"IN30","name":"HULL","lat":38.402458,"lon":-87.599186,"elevation":423,"region":"K5","runways":[{"id":"RW18","lat":38.406194,"lon":-87.599047,"length":2722,"course":181.7},{"id":"RW36","lat":38.398722,"lon":-87.599322,"length":2722,"course":1.7}],"procedures":{"D":{},"E":{},"F":{}}};

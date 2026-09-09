@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO39"]={"id":"CO39","name":"FLYING G AIR RANCH","lat":39.228864,"lon":-104.470975,"elevation":6911,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

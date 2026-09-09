@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FL9"]={"id":"6FL9","name":"SAW WHET FARMS","lat":29.689958,"lon":-82.871233,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

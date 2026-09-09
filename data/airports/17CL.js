@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17CL"]={"id":"17CL","name":"LAS TRANCAS","lat":37.088003,"lon":-122.273583,"elevation":125,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

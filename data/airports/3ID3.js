@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3ID3"]={"id":"3ID3","name":"ESTES","lat":46.778153,"lon":-117.025436,"elevation":2687,"region":"K1","runways":[{"id":"RW10","lat":46.779089,"lon":-117.028256,"length":1569,"course":102.3},{"id":"RW28","lat":46.777217,"lon":-117.022617,"length":1569,"course":282.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23MT"]={"id":"23MT","name":"WATERFALL","lat":45.657233,"lon":-111.040333,"elevation":4950,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

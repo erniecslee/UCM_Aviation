@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05OK"]={"id":"05OK","name":"MUNCY","lat":35.471364,"lon":-98.541708,"elevation":1680,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

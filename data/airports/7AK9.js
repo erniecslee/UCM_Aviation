@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AK9"]={"id":"7AK9","name":"VINDUSKA","lat":61.646831,"lon":-149.048539,"elevation":700,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

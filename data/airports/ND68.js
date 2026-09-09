@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND68"]={"id":"ND68","name":"VINING","lat":46.955808,"lon":-97.3012,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

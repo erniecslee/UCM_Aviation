@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MI7"]={"id":"8MI7","name":"BASS LAKE","lat":46.161906,"lon":-86.484319,"elevation":805,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55I"]={"id":"55I","name":"SLATE RUN","lat":38.777522,"lon":-81.310319,"elevation":1001,"region":"K6","runways":[{"id":"RW16","lat":38.779678,"lon":-81.311606,"length":1730,"course":161.0},{"id":"RW34","lat":38.775367,"lon":-81.309033,"length":1730,"course":341.0}],"procedures":{"D":{},"E":{},"F":{}}};

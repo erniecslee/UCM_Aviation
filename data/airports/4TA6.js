@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TA6"]={"id":"4TA6","name":"COMANCHE CAVES RANCH","lat":30.023253,"lon":-99.382964,"elevation":2075,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

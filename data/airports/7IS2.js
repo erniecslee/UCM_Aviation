@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IS2"]={"id":"7IS2","name":"AERO ESTATES","lat":38.524494,"lon":-90.056944,"elevation":565,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

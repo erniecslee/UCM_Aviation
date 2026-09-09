@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8W3"]={"id":"8W3","name":"MANSFIELD","lat":47.809386,"lon":-119.636931,"elevation":2272,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

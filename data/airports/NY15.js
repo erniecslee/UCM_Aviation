@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY15"]={"id":"NY15","name":"LAKEVILLE","lat":42.826453,"lon":-77.714444,"elevation":935,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

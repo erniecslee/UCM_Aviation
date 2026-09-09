@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19WA"]={"id":"19WA","name":"KEY WAY","lat":45.719561,"lon":-121.886192,"elevation":972,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

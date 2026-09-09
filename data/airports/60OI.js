@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60OI"]={"id":"60OI","name":"ZORN ACRES","lat":41.356717,"lon":-82.6249,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

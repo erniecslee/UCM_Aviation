@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN93"]={"id":"IN93","name":"HUSTONS","lat":41.711992,"lon":-86.432792,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

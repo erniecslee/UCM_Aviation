@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8ND4"]={"id":"8ND4","name":"HEYDE","lat":48.073594,"lon":-97.186189,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

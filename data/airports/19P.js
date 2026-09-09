@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19P"]={"id":"19P","name":"PORT PROTECTION","lat":56.328806,"lon":-133.610083,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS16"]={"id":"XS16","name":"FLYING K RANCH","lat":30.068494,"lon":-96.811869,"elevation":442,"region":"K4","runways":[{"id":"RW01","lat":30.065094,"lon":-96.812739,"length":2535,"course":9.9},{"id":"RW19","lat":30.071897,"lon":-96.811,"length":2535,"course":189.9}],"procedures":{"D":{},"E":{},"F":{}}};

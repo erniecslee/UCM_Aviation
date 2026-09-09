@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z58"]={"id":"Z58","name":"HANGAR LAKE","lat":60.804486,"lon":-161.720694,"elevation":23,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

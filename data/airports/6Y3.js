@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6Y3"]={"id":"6Y3","name":"NORTH FOX ISLAND","lat":45.482097,"lon":-85.780833,"elevation":639,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S36"]={"id":"S36","name":"CREST AIRFIELD","lat":47.337097,"lon":-122.103536,"elevation":472,"region":"K1","runways":[{"id":"RW16","lat":47.341547,"lon":-122.104575,"length":3288,"course":151.0}],"procedures":{"D":{},"E":{},"F":{}}};

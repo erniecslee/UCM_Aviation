@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0II7"]={"id":"0II7","name":"FROST FLD","lat":39.795597,"lon":-85.786089,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

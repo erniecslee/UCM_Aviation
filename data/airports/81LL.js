@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81LL"]={"id":"81LL","name":"OTTERBACH FARM","lat":41.5692,"lon":-89.173697,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

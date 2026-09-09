@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88OR"]={"id":"88OR","name":"TALLMAN","lat":44.568333,"lon":-122.971389,"elevation":303,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

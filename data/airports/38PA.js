@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38PA"]={"id":"38PA","name":"AEREQUUS","lat":40.390489,"lon":-75.015083,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

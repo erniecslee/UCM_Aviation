@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IL8"]={"id":"4IL8","name":"RENDLEMAN","lat":37.756319,"lon":-89.383306,"elevation":500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

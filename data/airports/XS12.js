@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS12"]={"id":"XS12","name":"LIBERTY HILL AIR RANCH","lat":30.678128,"lon":-98.01735,"elevation":1161,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

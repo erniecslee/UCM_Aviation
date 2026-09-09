@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA51"]={"id":"FA51","name":"SKY MANOR AIRPARK","lat":26.738956,"lon":-81.506189,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

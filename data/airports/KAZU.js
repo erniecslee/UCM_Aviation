@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KAZU"]={"id":"KAZU","name":"ARROWHEAD ASSAULT STRIP","lat":35.275092,"lon":-94.225208,"elevation":785,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

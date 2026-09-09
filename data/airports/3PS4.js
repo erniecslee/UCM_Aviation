@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PS4"]={"id":"3PS4","name":"MOUNTAIN HIDE-AWAY","lat":40.436567,"lon":-77.901283,"elevation":1604,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

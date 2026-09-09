@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z48"]={"id":"Z48","name":"BEAR CREEK 3","lat":63.571608,"lon":-156.14405,"elevation":740,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

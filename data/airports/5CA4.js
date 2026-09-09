@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CA4"]={"id":"5CA4","name":"LUDLOW","lat":34.728769,"lon":-116.158675,"elevation":1700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

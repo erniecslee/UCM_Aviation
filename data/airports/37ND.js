@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37ND"]={"id":"37ND","name":"SUNSET STRIP","lat":47.231956,"lon":-102.509072,"elevation":2360,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

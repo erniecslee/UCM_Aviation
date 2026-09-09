@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA17"]={"id":"VA17","name":"MULBERRY RUN","lat":39.035942,"lon":-78.392228,"elevation":820,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

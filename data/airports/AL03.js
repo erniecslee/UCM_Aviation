@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL03"]={"id":"AL03","name":"STRICKLAND/SMALLEY FLD","lat":32.8475,"lon":-87.713889,"elevation":369,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OR3"]={"id":"4OR3","name":"LAMBERT FLD","lat":44.7304,"lon":-123.075928,"elevation":195,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

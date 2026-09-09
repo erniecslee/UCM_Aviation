@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK03"]={"id":"OK03","name":"ELGIN'S STONY FLD","lat":34.778503,"lon":-98.273144,"elevation":1275,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6SD4"]={"id":"6SD4","name":"XPOINT","lat":43.1672,"lon":-103.90975,"elevation":3901,"region":"K3","runways":[{"id":"RW12","lat":43.170339,"lon":-103.914631,"length":3468,"course":124.1},{"id":"RW30","lat":43.164058,"lon":-103.904869,"length":3468,"course":304.1}],"procedures":{"D":{},"E":{},"F":{}}};

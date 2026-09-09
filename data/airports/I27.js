@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I27"]={"id":"I27","name":"ELKADER","lat":42.84725,"lon":-91.382167,"elevation":932,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

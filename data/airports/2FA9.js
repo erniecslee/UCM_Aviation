@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FA9"]={"id":"2FA9","name":"MOUNT OLIVE FARM","lat":30.336389,"lon":-83.783611,"elevation":73,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

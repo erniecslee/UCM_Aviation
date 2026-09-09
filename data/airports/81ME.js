@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81ME"]={"id":"81ME","name":"FRENCH FLD","lat":44.619892,"lon":-68.594611,"elevation":338,"region":"K6","runways":[{"id":"RW15","lat":44.621961,"lon":-68.595975,"length":1668,"course":170.0},{"id":"RW33","lat":44.617822,"lon":-68.593247,"length":1668,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

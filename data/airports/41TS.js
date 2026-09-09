@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41TS"]={"id":"41TS","name":"FLYING T RANCH","lat":33.378444,"lon":-96.448319,"elevation":705,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA17"]={"id":"XA17","name":"CHUCKSTER","lat":33.321667,"lon":-95.5636,"elevation":475,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

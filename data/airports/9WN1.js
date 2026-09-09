@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WN1"]={"id":"9WN1","name":"COURTNEY PLUMMER","lat":44.106928,"lon":-88.684,"elevation":758,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

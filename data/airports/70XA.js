@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70XA"]={"id":"70XA","name":"LOONEY AIRSTRIP","lat":33.392714,"lon":-94.441422,"elevation":315,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

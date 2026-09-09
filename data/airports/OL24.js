@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL24"]={"id":"OL24","name":"RONKA RHEY","lat":35.736161,"lon":-97.189083,"elevation":981,"region":"K4","runways":[{"id":"RW01","lat":35.733486,"lon":-97.189861,"length":2000,"course":10.5},{"id":"RW19","lat":35.738833,"lon":-97.188306,"length":2000,"course":190.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TA3"]={"id":"7TA3","name":"QUARTERWAY","lat":34.180906,"lon":-101.8374,"elevation":3470,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

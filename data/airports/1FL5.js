@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1FL5"]={"id":"1FL5","name":"WEST BAY CREEK","lat":30.302142,"lon":-85.864378,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

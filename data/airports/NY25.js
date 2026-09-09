@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY25"]={"id":"NY25","name":"CAMILLUS","lat":43.085278,"lon":-76.292722,"elevation":405,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

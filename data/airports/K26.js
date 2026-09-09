@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K26"]={"id":"K26","name":"CARROLLTON MEML","lat":39.312167,"lon":-93.506556,"elevation":670,"region":"K3","runways":[{"id":"RW18","lat":39.315747,"lon":-93.5065,"length":2600,"course":177.0},{"id":"RW36","lat":39.308608,"lon":-93.506597,"length":2600,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

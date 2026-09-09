@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG56"]={"id":"VG56","name":"MIDWAY","lat":37.808333,"lon":-75.602778,"elevation":50,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

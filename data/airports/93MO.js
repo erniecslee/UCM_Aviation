@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93MO"]={"id":"93MO","name":"CARR CREEK","lat":37.203281,"lon":-91.123314,"elevation":835,"region":"K3","runways":[{"id":"RW12","lat":37.206481,"lon":-91.129922,"length":4500,"course":122.5},{"id":"RW30","lat":37.200081,"lon":-91.116703,"length":4500,"course":302.5}],"procedures":{"D":{},"E":{},"F":{}}};

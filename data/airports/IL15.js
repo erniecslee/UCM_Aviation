@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL15"]={"id":"IL15","name":"RUNYAN AVIATION","lat":40.569444,"lon":-90.548742,"elevation":660,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

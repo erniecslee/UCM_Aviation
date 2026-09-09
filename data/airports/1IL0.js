@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IL0"]={"id":"1IL0","name":"BARNSTORM FLD","lat":40.775,"lon":-89.001111,"elevation":731,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

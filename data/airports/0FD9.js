@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FD9"]={"id":"0FD9","name":"JOY FARMS","lat":30.652136,"lon":-86.109383,"elevation":290,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

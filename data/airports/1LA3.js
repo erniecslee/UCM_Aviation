@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LA3"]={"id":"1LA3","name":"GOOSE ISLAND","lat":30.030764,"lon":-92.833481,"elevation":4,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

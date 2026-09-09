@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07I"]={"id":"07I","name":"LAKE MONROE","lat":39.061333,"lon":-86.446083,"elevation":538,"region":"K5","runways":[{"id":"NE","lat":39.076997,"lon":-86.428925,"length":15000,"course":223.0},{"id":"SW","lat":39.045678,"lon":-86.463244,"length":15000,"course":43.0}],"procedures":{"D":{},"E":{},"F":{}}};

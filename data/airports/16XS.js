@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16XS"]={"id":"16XS","name":"OUTLAW FLYERS","lat":30.404367,"lon":-95.35985,"elevation":270,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

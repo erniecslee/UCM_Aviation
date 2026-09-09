@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32TE"]={"id":"32TE","name":"M-4","lat":30.403611,"lon":-95.438889,"elevation":230,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

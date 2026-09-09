@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS27"]={"id":"XS27","name":"FARM AIR SERVICE","lat":30.037714,"lon":-94.396022,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

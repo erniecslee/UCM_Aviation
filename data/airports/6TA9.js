@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TA9"]={"id":"6TA9","name":"ANDERSON RANCH","lat":28.612903,"lon":-99.180392,"elevation":510,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

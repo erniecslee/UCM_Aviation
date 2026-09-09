@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL48"]={"id":"FL48","name":"SIERRA AIRPARK","lat":28.882222,"lon":-82.429722,"elevation":115,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

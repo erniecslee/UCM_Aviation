@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND10"]={"id":"ND10","name":"KADRMAS","lat":46.991308,"lon":-102.795222,"elevation":2532,"region":"K3","runways":[{"id":"RW15","lat":46.993564,"lon":-102.797089,"length":1891,"course":143.7},{"id":"RW33","lat":46.98905,"lon":-102.793356,"length":1891,"course":323.7}],"procedures":{"D":{},"E":{},"F":{}}};

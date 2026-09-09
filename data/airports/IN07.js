@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN07"]={"id":"IN07","name":"TWIN LAKES","lat":38.518522,"lon":-85.587583,"elevation":663,"region":"K5","runways":[{"id":"RW06","lat":38.51715,"lon":-85.589903,"length":1662,"course":58.3},{"id":"RW24","lat":38.519894,"lon":-85.585264,"length":1662,"course":238.3}],"procedures":{"D":{},"E":{},"F":{}}};

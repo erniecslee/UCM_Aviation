@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IL9"]={"id":"1IL9","name":"HOLLAND FLD","lat":40.300556,"lon":-89.124444,"elevation":715,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

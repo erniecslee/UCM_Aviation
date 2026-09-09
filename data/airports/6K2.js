@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6K2"]={"id":"6K2","name":"SHELBY COUNTY","lat":39.812567,"lon":-92.050217,"elevation":760,"region":"K3","runways":[{"id":"RW17","lat":39.815714,"lon":-92.050553,"length":2300,"course":172.3},{"id":"RW35","lat":39.809422,"lon":-92.049881,"length":2300,"course":352.3}],"procedures":{"D":{},"E":{},"F":{}}};

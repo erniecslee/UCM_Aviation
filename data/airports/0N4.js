@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0N4"]={"id":"0N4","name":"CHANDELLE","lat":39.202306,"lon":-75.485417,"elevation":22,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

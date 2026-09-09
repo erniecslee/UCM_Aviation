@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19LL"]={"id":"19LL","name":"NEINER","lat":41.256978,"lon":-87.919492,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

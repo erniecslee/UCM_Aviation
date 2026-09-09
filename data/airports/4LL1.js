@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LL1"]={"id":"4LL1","name":"STATON","lat":41.854197,"lon":-89.087594,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

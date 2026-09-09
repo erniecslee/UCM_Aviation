@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA87"]={"id":"MA87","name":"CAPE AIR SEAPLANES ON BOSTON H","lat":42.3525,"lon":-71.025833,"elevation":0,"region":"K6","runways":[{"id":"RW14W","lat":42.3525,"lon":-71.025833,"length":2500,"course":116.9}],"procedures":{"D":{},"E":{},"F":{}}};

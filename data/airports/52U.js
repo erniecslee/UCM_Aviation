@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52U"]={"id":"52U","name":"WEATHERBY USFS","lat":43.825139,"lon":-115.331361,"elevation":4503,"region":"K1","runways":[{"id":"RW03","lat":43.8233,"lon":-115.334653,"length":2200,"course":35.0},{"id":"RW21","lat":43.827,"lon":-115.328064,"length":2200,"course":215.0}],"procedures":{"D":{},"E":{},"F":{}}};

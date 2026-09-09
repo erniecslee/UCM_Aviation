@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13AZ"]={"id":"13AZ","name":"WALTENBERRY FLD","lat":33.535,"lon":-112.853472,"elevation":1213,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33KS"]={"id":"33KS","name":"BUENA TERRA","lat":39.153056,"lon":-95.609425,"elevation":950,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

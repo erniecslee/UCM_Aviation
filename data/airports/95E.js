@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95E"]={"id":"95E","name":"STALLION AAF","lat":33.814431,"lon":-106.645336,"elevation":4925,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

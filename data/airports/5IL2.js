@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IL2"]={"id":"5IL2","name":"PANTHER FLD","lat":38.0646,"lon":-89.387436,"elevation":440,"region":"K5","runways":[{"id":"RW18","lat":38.067344,"lon":-89.387369,"length":2000,"course":181.0},{"id":"RW36","lat":38.061853,"lon":-89.3875,"length":2000,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II06"]={"id":"II06","name":"FERRELL","lat":39.970047,"lon":-85.470808,"elevation":1070,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

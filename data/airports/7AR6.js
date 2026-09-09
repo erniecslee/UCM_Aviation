@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR6"]={"id":"7AR6","name":"RBC","lat":35.795794,"lon":-90.802375,"elevation":261,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GA0"]={"id":"0GA0","name":"HALLS FLYING RANCH","lat":33.356225,"lon":-84.367147,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

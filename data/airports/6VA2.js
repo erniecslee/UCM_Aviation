@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6VA2"]={"id":"6VA2","name":"LOURY LESTER AIRPARK","lat":36.741803,"lon":-79.847817,"elevation":1030,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

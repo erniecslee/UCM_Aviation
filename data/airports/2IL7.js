@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IL7"]={"id":"2IL7","name":"BEN EMGE","lat":38.515178,"lon":-90.027208,"elevation":551,"region":"K5","runways":[{"id":"RW09","lat":38.5152,"lon":-90.031572,"length":2500,"course":88.3},{"id":"RW27","lat":38.515164,"lon":-90.024239,"length":2500,"course":268.4}],"procedures":{"D":{},"E":{},"F":{}}};

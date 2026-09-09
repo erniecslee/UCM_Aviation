@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MN6"]={"id":"8MN6","name":"MINSKE FLD","lat":45.5836,"lon":-93.741275,"elevation":1006,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

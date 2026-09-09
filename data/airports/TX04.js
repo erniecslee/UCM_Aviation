@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX04"]={"id":"TX04","name":"LUCKY STAR RANCH","lat":30.291194,"lon":-96.526861,"elevation":285,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

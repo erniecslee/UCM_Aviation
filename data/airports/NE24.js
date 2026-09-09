@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE24"]={"id":"NE24","name":"BRESETTE","lat":41.096814,"lon":-96.284072,"elevation":1072,"region":"K3","runways":[{"id":"RW18","lat":41.097642,"lon":-96.284072,"length":600,"course":177.8},{"id":"RW36","lat":41.095992,"lon":-96.284072,"length":600,"course":357.8}],"procedures":{"D":{},"E":{},"F":{}}};

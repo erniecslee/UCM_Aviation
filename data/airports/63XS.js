@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63XS"]={"id":"63XS","name":"BYRAM RANCH","lat":30.224092,"lon":-98.288628,"elevation":1120,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

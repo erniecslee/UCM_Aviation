@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WI5"]={"id":"1WI5","name":"BEAVER DAM LAKE","lat":43.514989,"lon":-88.952611,"elevation":871,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

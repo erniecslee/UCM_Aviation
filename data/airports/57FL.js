@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57FL"]={"id":"57FL","name":"LAKE KEYSTONE","lat":28.135944,"lon":-82.593975,"elevation":42,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

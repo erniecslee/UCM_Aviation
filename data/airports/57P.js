@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57P"]={"id":"57P","name":"CLEAR LAKE","lat":41.735611,"lon":-84.837222,"elevation":1037,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

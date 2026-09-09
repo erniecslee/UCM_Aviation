@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT57"]={"id":"VT57","name":"MALLETTS HEAD","lat":44.560603,"lon":-73.240406,"elevation":95,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

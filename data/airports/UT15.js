@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT15"]={"id":"UT15","name":"FLYING CAL UTE RANCHEROS","lat":37.928586,"lon":-112.768833,"elevation":5764,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

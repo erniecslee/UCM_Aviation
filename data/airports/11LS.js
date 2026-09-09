@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11LS"]={"id":"11LS","name":"JASMINE HILL","lat":30.976022,"lon":-92.569028,"elevation":120,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

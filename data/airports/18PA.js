@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18PA"]={"id":"18PA","name":"SLACK","lat":40.293628,"lon":-75.06475,"elevation":275,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

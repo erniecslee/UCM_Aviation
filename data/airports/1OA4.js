@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OA4"]={"id":"1OA4","name":"KEPES FLYING FLD","lat":39.923639,"lon":-83.661667,"elevation":1080,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

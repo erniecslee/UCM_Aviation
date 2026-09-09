@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43AR"]={"id":"43AR","name":"HAIGWOOD LANDING STRIP","lat":35.611389,"lon":-91.241389,"elevation":230,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

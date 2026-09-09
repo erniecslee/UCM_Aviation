@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SC7"]={"id":"2SC7","name":"LAUREL HILL FARMS","lat":33.051667,"lon":-79.541389,"elevation":8,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

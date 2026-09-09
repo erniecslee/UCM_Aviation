@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06I"]={"id":"06I","name":"PATOKA RESERVOIR LANDING AREA","lat":38.433389,"lon":-86.691103,"elevation":536,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

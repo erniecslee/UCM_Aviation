@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WI3"]={"id":"8WI3","name":"RUNWAY LEASING INC NR 2","lat":44.420803,"lon":-89.555397,"elevation":1070,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

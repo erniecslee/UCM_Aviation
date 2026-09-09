@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AK9"]={"id":"5AK9","name":"GRANDVIEW SUBDIVISION","lat":61.548519,"lon":-149.190311,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

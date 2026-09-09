@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S95"]={"id":"S95","name":"MARTIN FLD","lat":46.046939,"lon":-118.417178,"elevation":750,"region":"K1","runways":[{"id":"RW05","lat":46.044744,"lon":-118.424006,"length":3819,"course":46.0},{"id":"RW23","lat":46.049133,"lon":-118.41035,"length":3819,"course":226.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MT9"]={"id":"1MT9","name":"WILCOX","lat":45.789167,"lon":-108.684444,"elevation":3390,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

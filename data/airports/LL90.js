@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL90"]={"id":"LL90","name":"MC CURDY STRIP","lat":42.44585,"lon":-88.900106,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

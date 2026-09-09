@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K59"]={"id":"K59","name":"AMELIA EARHART","lat":39.570525,"lon":-95.180331,"elevation":1073,"region":"K3","runways":[{"id":"RW16","lat":39.574622,"lon":-95.180928,"length":3000,"course":171.0},{"id":"RW34","lat":39.566986,"lon":-95.1798,"length":3000,"course":351.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE78"]={"id":"NE78","name":"KOHLES","lat":42.074722,"lon":-97.319028,"elevation":1686,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE17"]={"id":"DE17","name":"SUGAR HILL","lat":38.777892,"lon":-75.583258,"elevation":45,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FA9"]={"id":"8FA9","name":"SEASHELL","lat":30.057717,"lon":-84.293694,"elevation":0,"region":"K7","runways":[{"id":"RW07W","lat":30.057547,"lon":-84.294458,"length":504,"course":80.0},{"id":"RW25W","lat":30.057914,"lon":-84.292922,"length":504,"course":260.0}],"procedures":{"D":{},"E":{},"F":{}}};

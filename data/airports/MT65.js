@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT65"]={"id":"MT65","name":"SMITHFIELD","lat":47.116944,"lon":-109.376389,"elevation":4370,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

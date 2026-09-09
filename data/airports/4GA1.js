@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA1"]={"id":"4GA1","name":"THACKER FLD","lat":33.044847,"lon":-84.398256,"elevation":920,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

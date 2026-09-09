@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNRA"]={"id":"KNRA","name":"COUPEVILLE NOLF","lat":48.183333,"lon":-122.633333,"elevation":199,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

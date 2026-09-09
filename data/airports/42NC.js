@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42NC"]={"id":"42NC","name":"SPRING PATHS","lat":35.957778,"lon":-78.170556,"elevation":290,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

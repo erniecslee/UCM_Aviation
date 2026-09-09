@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2S9"]={"id":"2S9","name":"WILLAPA HARBOR","lat":46.697619,"lon":-123.823383,"elevation":13,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

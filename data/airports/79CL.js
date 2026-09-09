@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79CL"]={"id":"79CL","name":"MILHOUS RANCH","lat":39.324892,"lon":-121.076064,"elevation":2625,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

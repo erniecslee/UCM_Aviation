@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC40"]={"id":"NC40","name":"HOLEMAN FLD","lat":36.499722,"lon":-79.118611,"elevation":578,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

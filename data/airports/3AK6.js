@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK6"]={"id":"3AK6","name":"B & B BOYS RANCH","lat":61.59295,"lon":-149.268939,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

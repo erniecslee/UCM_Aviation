@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69CL"]={"id":"69CL","name":"MEDLOCK FLD","lat":38.615461,"lon":-121.747461,"elevation":48,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

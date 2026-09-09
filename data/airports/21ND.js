@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21ND"]={"id":"21ND","name":"ROSENAU","lat":48.582283,"lon":-100.854847,"elevation":1450,"region":"K3","runways":[{"id":"RW08","lat":48.582289,"lon":-100.860011,"length":2500,"course":80.0},{"id":"RW26","lat":48.582275,"lon":-100.849686,"length":2500,"course":260.0}],"procedures":{"D":{},"E":{},"F":{}}};

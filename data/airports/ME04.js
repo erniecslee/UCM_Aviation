@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME04"]={"id":"ME04","name":"ILCO LANDING AREA","lat":46.609475,"lon":-69.530611,"elevation":1031,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

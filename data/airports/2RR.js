@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2RR"]={"id":"2RR","name":"RIVER RANCH RESORT","lat":27.779333,"lon":-81.203917,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

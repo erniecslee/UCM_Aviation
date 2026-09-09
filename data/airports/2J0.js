@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2J0"]={"id":"2J0","name":"WAKULLA COUNTY","lat":29.989456,"lon":-84.395392,"elevation":11,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

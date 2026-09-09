@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA71"]={"id":"PA71","name":"DWIGHT'S DELIGHT","lat":41.520908,"lon":-76.462167,"elevation":1717,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

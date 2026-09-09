@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1FL0"]={"id":"1FL0","name":"LONDONO'S LANDING","lat":28.103628,"lon":-81.805911,"elevation":147,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

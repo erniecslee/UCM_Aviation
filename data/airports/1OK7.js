@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OK7"]={"id":"1OK7","name":"GRIMES","lat":34.800075,"lon":-97.48225,"elevation":1035,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

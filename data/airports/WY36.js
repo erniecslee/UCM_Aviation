@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY36"]={"id":"WY36","name":"BAKERS FLD","lat":44.790231,"lon":-108.734297,"elevation":4350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MD0"]={"id":"3MD0","name":"BURHANS MEML","lat":39.348158,"lon":-77.336094,"elevation":490,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

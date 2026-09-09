@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA81"]={"id":"GA81","name":"BIG DOG - CAMERON FLD","lat":32.547778,"lon":-83.826944,"elevation":380,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

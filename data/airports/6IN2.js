@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IN2"]={"id":"6IN2","name":"WHELEN","lat":39.493611,"lon":-85.648611,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

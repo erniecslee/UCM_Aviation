@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92XS"]={"id":"92XS","name":"T R FUNK INC","lat":26.478956,"lon":-97.687214,"elevation":24,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

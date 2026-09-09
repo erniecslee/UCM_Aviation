@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC50"]={"id":"NC50","name":"SKYLAND","lat":36.460125,"lon":-81.361486,"elevation":2860,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

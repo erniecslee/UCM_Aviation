@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1U0"]={"id":"1U0","name":"BEAR TRAP","lat":42.975333,"lon":-113.35075,"elevation":4716,"region":"K1","runways":[{"id":"RW06","lat":42.974269,"lon":-113.354694,"length":2250,"course":54.0},{"id":"RW24","lat":42.976381,"lon":-113.346789,"length":2250,"course":234.0}],"procedures":{"D":{},"E":{},"F":{}}};

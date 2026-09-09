@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66TX"]={"id":"66TX","name":"LOMA DE COMETA","lat":28.676617,"lon":-100.023939,"elevation":615,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

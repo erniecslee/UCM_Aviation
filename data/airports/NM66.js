@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM66"]={"id":"NM66","name":"POCO LOCO","lat":34.415183,"lon":-108.077,"elevation":7420,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

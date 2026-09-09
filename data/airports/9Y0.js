@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9Y0"]={"id":"9Y0","name":"BOWSTRING","lat":47.558244,"lon":-93.870064,"elevation":1372,"region":"K3","runways":[{"id":"RW07","lat":47.557661,"lon":-93.875189,"length":2565,"course":78.0},{"id":"RW25","lat":47.5588,"lon":-93.864939,"length":2565,"course":258.0}],"procedures":{"D":{},"E":{},"F":{}}};

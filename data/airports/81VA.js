@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81VA"]={"id":"81VA","name":"FERGUSON","lat":37.118056,"lon":-79.788611,"elevation":1050,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

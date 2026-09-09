@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58AZ"]={"id":"58AZ","name":"CHAPMAN RANCH AIRSTRIP","lat":34.093611,"lon":-110.932778,"elevation":5115,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

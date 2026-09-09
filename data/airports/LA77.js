@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA77"]={"id":"LA77","name":"TEBOW","lat":30.963247,"lon":-92.174569,"elevation":60,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

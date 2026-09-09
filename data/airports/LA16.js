@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA16"]={"id":"LA16","name":"CASTILLE FLD","lat":30.246031,"lon":-91.866781,"elevation":25,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

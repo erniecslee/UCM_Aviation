@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT37"]={"id":"MT37","name":"SANDERS","lat":48.124678,"lon":-114.240403,"elevation":2910,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

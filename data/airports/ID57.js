@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID57"]={"id":"ID57","name":"RED BIRD","lat":46.223167,"lon":-116.869958,"elevation":2996,"region":"K1","runways":[{"id":"RW17","lat":46.2252,"lon":-116.869961,"length":1484,"course":166.5},{"id":"RW35","lat":46.221131,"lon":-116.869953,"length":1484,"course":346.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12Y"]={"id":"12Y","name":"LE SUEUR MUNI","lat":44.440889,"lon":-93.915847,"elevation":868,"region":"K3","runways":[{"id":"RW13","lat":44.4438,"lon":-93.919903,"length":3000,"course":131.0},{"id":"RW31","lat":44.437975,"lon":-93.911792,"length":3000,"course":311.0}],"procedures":{"D":{},"E":{},"F":{}}};

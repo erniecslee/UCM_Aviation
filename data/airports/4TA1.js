@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TA1"]={"id":"4TA1","name":"WARSCHUN RANCH","lat":33.302894,"lon":-97.1114,"elevation":600,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

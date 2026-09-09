@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR02"]={"id":"NR02","name":"JORDAN FLD","lat":35.237778,"lon":-79.995556,"elevation":600,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2O6"]={"id":"2O6","name":"CHOWCHILLA","lat":37.113278,"lon":-120.247,"elevation":243,"region":"K2","runways":[{"id":"RW12","lat":37.116444,"lon":-120.250942,"length":3253,"course":119.0},{"id":"RW30","lat":37.110133,"lon":-120.243044,"length":3253,"course":299.0}],"procedures":{"D":{},"E":{},"F":{}}};

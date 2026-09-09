@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W37"]={"id":"W37","name":"AMERICAN LAKE","lat":47.141486,"lon":-122.560958,"elevation":235,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

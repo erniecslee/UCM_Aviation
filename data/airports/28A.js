@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28A"]={"id":"28A","name":"GOOSE CREEK","lat":35.120981,"lon":-80.587289,"elevation":565,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

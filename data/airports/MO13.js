@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO13"]={"id":"MO13","name":"B AND S FARMS AIRFIELD","lat":36.640433,"lon":-94.489347,"elevation":1143,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

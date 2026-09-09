@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C44"]={"id":"C44","name":"TOUTANT","lat":41.955694,"lon":-72.054361,"elevation":770,"region":"K6","runways":[{"id":"RW17","lat":41.9578,"lon":-72.055944,"length":1756,"course":165.3},{"id":"RW35","lat":41.953611,"lon":-72.05275,"length":1756,"course":345.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN66"]={"id":"MN66","name":"INGLESIDE","lat":45.063139,"lon":-93.652333,"elevation":1021,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

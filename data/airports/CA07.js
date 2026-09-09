@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA07"]={"id":"CA07","name":"SCHEIDEL RANCH","lat":38.840178,"lon":-121.561625,"elevation":28,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

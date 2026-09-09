@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83FD"]={"id":"83FD","name":"LAKE MONTAZA","lat":27.580278,"lon":-80.815278,"elevation":52,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

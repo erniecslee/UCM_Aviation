@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE88"]={"id":"TE88","name":"BB AIRPARK","lat":29.356942,"lon":-95.459403,"elevation":50,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

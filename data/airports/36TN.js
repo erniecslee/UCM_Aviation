@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36TN"]={"id":"36TN","name":"RUCKMAN FLD","lat":36.477,"lon":-87.139833,"elevation":660,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

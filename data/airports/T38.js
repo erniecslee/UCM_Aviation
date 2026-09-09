@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T38"]={"id":"T38","name":"BAR V K","lat":33.37625,"lon":-97.243472,"elevation":765,"region":"K4","runways":[{"id":"RW18","lat":33.379711,"lon":-97.243333,"length":2900,"course":174.9},{"id":"RW36","lat":33.372819,"lon":-97.243597,"length":2900,"course":354.9}],"procedures":{"D":{},"E":{},"F":{}}};

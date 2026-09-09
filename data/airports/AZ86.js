@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ86"]={"id":"AZ86","name":"A C GOODWIN MEML FLD","lat":34.685194,"lon":-112.29025,"elevation":4948,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI5"]={"id":"5WI5","name":"HAYMEADOW","lat":45.274964,"lon":-89.491789,"elevation":1500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26AS"]={"id":"26AS","name":"MARVELL WEST","lat":34.5602,"lon":-90.932567,"elevation":193,"region":"K4","runways":[{"id":"RW10","lat":34.560556,"lon":-90.936786,"length":2553,"course":97.1},{"id":"RW28","lat":34.559842,"lon":-90.92835,"length":2553,"course":277.1}],"procedures":{"D":{},"E":{},"F":{}}};

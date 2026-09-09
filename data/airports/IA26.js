@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA26"]={"id":"IA26","name":"DAVIS","lat":42.499836,"lon":-95.067092,"elevation":1309,"region":"K3","runways":[{"id":"RW18","lat":42.503128,"lon":-95.067092,"length":2400,"course":178.7},{"id":"RW36","lat":42.496544,"lon":-95.067092,"length":2400,"course":358.7}],"procedures":{"D":{},"E":{},"F":{}}};

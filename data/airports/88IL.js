@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88IL"]={"id":"88IL","name":"GAITROS STOL","lat":39.942278,"lon":-88.733278,"elevation":683,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

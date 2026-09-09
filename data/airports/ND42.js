@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND42"]={"id":"ND42","name":"WARREN PIETSCH","lat":48.103056,"lon":-101.078472,"elevation":1550,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

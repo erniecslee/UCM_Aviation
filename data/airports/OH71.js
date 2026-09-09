@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH71"]={"id":"OH71","name":"TROY SKYPARK","lat":39.990592,"lon":-84.270739,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

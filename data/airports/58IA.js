@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58IA"]={"id":"58IA","name":"DIEWOLD","lat":40.873983,"lon":-91.1633,"elevation":700,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K83"]={"id":"K83","name":"SABETHA MUNI","lat":39.905444,"lon":-95.776694,"elevation":1328,"region":"K3","runways":[{"id":"RW01","lat":39.901336,"lon":-95.77875,"length":3208,"course":15.0},{"id":"RW19","lat":39.909556,"lon":-95.774647,"length":3208,"course":195.0}],"procedures":{"D":{},"E":{},"F":{}}};

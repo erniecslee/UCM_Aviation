@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9XS6"]={"id":"9XS6","name":"SUDAN","lat":34.053142,"lon":-102.522139,"elevation":3769,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

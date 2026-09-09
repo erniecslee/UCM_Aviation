@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR14"]={"id":"OR14","name":"JUNTURA","lat":43.741547,"lon":-118.063514,"elevation":3034,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

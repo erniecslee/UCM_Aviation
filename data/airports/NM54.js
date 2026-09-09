@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM54"]={"id":"NM54","name":"RAINY MESA AIRSTRIP","lat":33.552244,"lon":-108.633122,"elevation":7450,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

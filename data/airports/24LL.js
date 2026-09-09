@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24LL"]={"id":"24LL","name":"LAMBERT","lat":38.086161,"lon":-89.458981,"elevation":510,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VA6"]={"id":"2VA6","name":"NIMCOCK","lat":37.623753,"lon":-76.601064,"elevation":85,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

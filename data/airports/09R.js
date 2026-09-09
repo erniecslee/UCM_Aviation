@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09R"]={"id":"09R","name":"TYLER COUNTY","lat":30.7752,"lon":-94.458533,"elevation":388,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

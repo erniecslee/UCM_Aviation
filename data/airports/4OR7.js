@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OR7"]={"id":"4OR7","name":"LUSARDI FLD","lat":44.985397,"lon":-122.946206,"elevation":205,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

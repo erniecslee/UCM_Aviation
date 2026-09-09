@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2C5"]={"id":"2C5","name":"ALMENA","lat":42.252986,"lon":-85.851656,"elevation":748,"region":"K5","runways":[{"id":"RW09","lat":42.252992,"lon":-85.854175,"length":3300,"course":93.3},{"id":"RW27","lat":42.252983,"lon":-85.849867,"length":3300,"course":273.3}],"procedures":{"D":{},"E":{},"F":{}}};

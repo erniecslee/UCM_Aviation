@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MN9"]={"id":"5MN9","name":"CHANLIN FLD","lat":48.423583,"lon":-96.128908,"elevation":1147,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

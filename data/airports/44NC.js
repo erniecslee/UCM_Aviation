@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44NC"]={"id":"44NC","name":"BROADWAY AIRFIELD","lat":35.543333,"lon":-80.651944,"elevation":828,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

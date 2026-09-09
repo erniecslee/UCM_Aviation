@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08MT"]={"id":"08MT","name":"MATOVICH","lat":47.063864,"lon":-108.817369,"elevation":3450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

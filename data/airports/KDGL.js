@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KDGL"]={"id":"KDGL","name":"DOUGLAS MUNI","lat":31.342603,"lon":-109.506456,"elevation":4173,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

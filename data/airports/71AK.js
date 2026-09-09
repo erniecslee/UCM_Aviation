@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71AK"]={"id":"71AK","name":"BLUFF PARK FARM","lat":61.527639,"lon":-149.496311,"elevation":110,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

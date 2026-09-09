@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME62"]={"id":"ME62","name":"THOMPSON MEML FLD","lat":44.809386,"lon":-69.470389,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

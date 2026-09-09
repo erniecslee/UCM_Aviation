@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA30"]={"id":"WA30","name":"LACROSSE MUNI","lat":46.790989,"lon":-117.921331,"elevation":1491,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

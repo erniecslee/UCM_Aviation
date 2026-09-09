@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F47"]={"id":"F47","name":"ST GEORGE ISLAND","lat":29.644583,"lon":-84.9156,"elevation":3,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

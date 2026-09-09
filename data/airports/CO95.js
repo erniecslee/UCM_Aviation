@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO95"]={"id":"CO95","name":"TRUE GRIT SOUTH","lat":38.052769,"lon":-107.979511,"elevation":9580,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93CO"]={"id":"93CO","name":"ANTELOPE AIRPARK","lat":39.024747,"lon":-105.614381,"elevation":8700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

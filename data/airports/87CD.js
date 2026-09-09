@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87CD"]={"id":"87CD","name":"THE FLYING Z","lat":37.99,"lon":-104.761111,"elevation":5440,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

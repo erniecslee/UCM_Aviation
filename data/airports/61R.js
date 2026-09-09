@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61R"]={"id":"61R","name":"NEWTON MUNI","lat":30.884056,"lon":-93.742472,"elevation":322,"region":"K4","runways":[{"id":"RW14","lat":30.888556,"lon":-93.746136,"length":4000,"course":140.0},{"id":"RW32","lat":30.879544,"lon":-93.738822,"length":4000,"course":320.0}],"procedures":{"D":{},"E":{},"F":{}}};

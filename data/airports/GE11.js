@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE11"]={"id":"GE11","name":"HOGJOWL","lat":34.605833,"lon":-85.461944,"elevation":1790,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

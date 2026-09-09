@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99CO"]={"id":"99CO","name":"ROCK CREEK","lat":38.136389,"lon":-104.814722,"elevation":5660,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

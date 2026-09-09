@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PA2"]={"id":"0PA2","name":"HAUNSTEIN","lat":40.316753,"lon":-77.124703,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

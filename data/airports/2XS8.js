@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XS8"]={"id":"2XS8","name":"BENSON AIRSTRIP","lat":29.226997,"lon":-99.826947,"elevation":929,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

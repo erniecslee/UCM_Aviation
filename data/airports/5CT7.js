@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CT7"]={"id":"5CT7","name":"MILE CREEK","lat":41.302333,"lon":-72.296194,"elevation":30,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

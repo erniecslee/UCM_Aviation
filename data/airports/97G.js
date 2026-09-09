@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97G"]={"id":"97G","name":"GLOWACKI","lat":43.000033,"lon":-84.595819,"elevation":775,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA6"]={"id":"4GA6","name":"CHATTAHOOCHEE AIR PARK","lat":33.662053,"lon":-84.680489,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

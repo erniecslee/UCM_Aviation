@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MD6"]={"id":"2MD6","name":"CHERRY FLD","lat":38.144017,"lon":-76.472175,"elevation":8,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

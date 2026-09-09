@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56OK"]={"id":"56OK","name":"WINDING CREEK","lat":35.803608,"lon":-97.579878,"elevation":1050,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

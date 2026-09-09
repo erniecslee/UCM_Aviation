@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PA8"]={"id":"2PA8","name":"SHULLS","lat":40.300086,"lon":-77.299706,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

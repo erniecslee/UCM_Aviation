@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IL7"]={"id":"0IL7","name":"DAVIS RLA","lat":39.782917,"lon":-88.546708,"elevation":682,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

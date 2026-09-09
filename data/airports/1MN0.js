@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MN0"]={"id":"1MN0","name":"WETHERBEE FARM","lat":46.043569,"lon":-96.546181,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

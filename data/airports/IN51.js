@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN51"]={"id":"IN51","name":"WINDY KNOLL","lat":40.140731,"lon":-86.151817,"elevation":915,"region":"K5","runways":[{"id":"RW09","lat":40.140778,"lon":-86.156464,"length":2600,"course":92.8},{"id":"RW27","lat":40.140683,"lon":-86.147167,"length":2600,"course":272.8}],"procedures":{"D":{},"E":{},"F":{}}};

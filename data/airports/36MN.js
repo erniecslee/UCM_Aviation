@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36MN"]={"id":"36MN","name":"BACKSTROM","lat":44.583056,"lon":-92.943889,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

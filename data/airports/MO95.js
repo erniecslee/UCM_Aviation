@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO95"]={"id":"MO95","name":"COOSE FLD","lat":37.39395,"lon":-93.959969,"elevation":1082,"region":"K3","runways":[{"id":"RW03","lat":37.391867,"lon":-93.961661,"length":1805,"course":32.3},{"id":"RW21","lat":37.396031,"lon":-93.958275,"length":1805,"course":212.3}],"procedures":{"D":{},"E":{},"F":{}}};

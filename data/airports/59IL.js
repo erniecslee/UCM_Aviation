@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59IL"]={"id":"59IL","name":"RUDER","lat":41.926031,"lon":-88.646794,"elevation":852,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

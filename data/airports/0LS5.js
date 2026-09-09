@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LS5"]={"id":"0LS5","name":"STAFFORD","lat":30.304167,"lon":-92.1325,"elevation":60,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

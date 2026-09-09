@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA49"]={"id":"NA49","name":"PAUL AIRSTRIP","lat":48.417775,"lon":-100.054581,"elevation":1530,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

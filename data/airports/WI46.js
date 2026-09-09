@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI46"]={"id":"WI46","name":"FUN-AIR","lat":43.882764,"lon":-88.539917,"elevation":830,"region":"K5","runways":[{"id":"RW09","lat":43.882833,"lon":-88.542583,"length":1407,"course":94.1},{"id":"RW27","lat":43.882694,"lon":-88.53725,"length":1407,"course":274.1}],"procedures":{"D":{},"E":{},"F":{}}};

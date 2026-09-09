@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0R6"]={"id":"0R6","name":"HAMPTON MUNI","lat":33.522611,"lon":-92.460278,"elevation":178,"region":"K4","runways":[{"id":"RW02","lat":33.517022,"lon":-92.462725,"length":4326,"course":16.1},{"id":"RW20","lat":33.528183,"lon":-92.457842,"length":4326,"course":196.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY66"]={"id":"MY66","name":"NORTH STAR RANCH","lat":46.070517,"lon":-93.8472,"elevation":1330,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39FA"]={"id":"39FA","name":"SANDERS RANCH","lat":29.662467,"lon":-82.009264,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

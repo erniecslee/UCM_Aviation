@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53T"]={"id":"53T","name":"CANNON FLD","lat":29.215503,"lon":-98.549625,"elevation":610,"region":"K4","runways":[{"id":"RW17","lat":29.219142,"lon":-98.550375,"length":2790,"course":162.8},{"id":"RW35","lat":29.211783,"lon":-98.548858,"length":2790,"course":342.8}],"procedures":{"D":{},"E":{},"F":{}}};

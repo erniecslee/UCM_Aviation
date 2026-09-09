@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA55"]={"id":"TA55","name":"DEL VALLE","lat":30.167714,"lon":-97.592778,"elevation":460,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

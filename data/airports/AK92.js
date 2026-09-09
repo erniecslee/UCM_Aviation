@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK92"]={"id":"AK92","name":"MARTIN","lat":61.637428,"lon":-149.028656,"elevation":783,"region":"PA","runways":[{"id":"RW18","lat":61.6382,"lon":-149.028067,"length":600,"course":185.5},{"id":"RW36","lat":61.636656,"lon":-149.029244,"length":600,"course":5.5}],"procedures":{"D":{},"E":{},"F":{}}};

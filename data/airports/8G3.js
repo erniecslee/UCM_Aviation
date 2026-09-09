@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8G3"]={"id":"8G3","name":"GIERMEK EXEC","lat":42.067611,"lon":-78.405528,"elevation":1420,"region":"K6","runways":[{"id":"RW10","lat":42.068128,"lon":-78.411294,"length":3150,"course":107.0},{"id":"RW28","lat":42.067108,"lon":-78.399772,"length":3150,"course":287.0}],"procedures":{"D":{},"E":{},"F":{}}};

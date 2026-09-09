@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN09"]={"id":"TN09","name":"BEARHAWKS DEN","lat":36.2544,"lon":-85.969525,"elevation":612,"region":"K7","runways":[{"id":"RW17","lat":36.255961,"lon":-85.969906,"length":1159,"course":173.5},{"id":"RW35","lat":36.252842,"lon":-85.969136,"length":1159,"course":353.5}],"procedures":{"D":{},"E":{},"F":{}}};

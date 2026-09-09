@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS39"]={"id":"PS39","name":"DOWNES","lat":40.628333,"lon":-78.960278,"elevation":1590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

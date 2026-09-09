@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA17"]={"id":"TA17","name":"LIVE OAK RANCH","lat":30.185,"lon":-96.445556,"elevation":387,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22CL"]={"id":"22CL","name":"DOUBLE TREE FARM","lat":39.299892,"lon":-121.359406,"elevation":550,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

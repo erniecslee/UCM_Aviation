@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["BYA"]={"id":"BYA","name":"BOUNDARY","lat":64.078303,"lon":-141.113375,"elevation":2940,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

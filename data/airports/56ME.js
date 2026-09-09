@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56ME"]={"id":"56ME","name":"RUSSELL FLD","lat":46.626742,"lon":-67.844306,"elevation":748,"region":"K6","runways":[{"id":"RW16","lat":46.629481,"lon":-67.846139,"length":2200,"course":171.1},{"id":"RW34","lat":46.624003,"lon":-67.842469,"length":2200,"course":351.1}],"procedures":{"D":{},"E":{},"F":{}}};

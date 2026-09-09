@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AR1"]={"id":"2AR1","name":"ETNA","lat":35.369847,"lon":-93.843061,"elevation":536,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

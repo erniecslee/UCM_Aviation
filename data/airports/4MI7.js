@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MI7"]={"id":"4MI7","name":"WITBECK AERODRONE","lat":43.813358,"lon":-84.821686,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

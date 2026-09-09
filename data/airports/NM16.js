@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM16"]={"id":"NM16","name":"SACATON","lat":33.182528,"lon":-108.683203,"elevation":6210,"region":"K2","runways":[{"id":"RW08","lat":33.181239,"lon":-108.689539,"length":3989,"course":67.9},{"id":"RW26","lat":33.183817,"lon":-108.676867,"length":3989,"course":247.9}],"procedures":{"D":{},"E":{},"F":{}}};

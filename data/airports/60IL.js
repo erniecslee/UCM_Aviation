@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60IL"]={"id":"60IL","name":"BEULAH LAND FARM","lat":40.839722,"lon":-90.805278,"elevation":723,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

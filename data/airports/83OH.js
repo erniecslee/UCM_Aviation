@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83OH"]={"id":"83OH","name":"ADAMS STRIP","lat":40.062272,"lon":-84.379392,"elevation":973,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

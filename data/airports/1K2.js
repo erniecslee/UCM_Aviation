@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1K2"]={"id":"1K2","name":"LINDSAY MUNI","lat":34.849453,"lon":-97.585292,"elevation":968,"region":"K4","runways":[{"id":"RW01","lat":34.845458,"lon":-97.586597,"length":3010,"course":8.0},{"id":"RW19","lat":34.853444,"lon":-97.583986,"length":3010,"course":188.0}],"procedures":{"D":{},"E":{},"F":{}}};

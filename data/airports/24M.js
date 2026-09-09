@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24M"]={"id":"24M","name":"WILDERNESS AIRPARK","lat":43.244747,"lon":-85.711708,"elevation":785,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

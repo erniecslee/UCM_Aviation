@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO2"]={"id":"9CO2","name":"VAN SLYKE FLD","lat":39.696097,"lon":-104.475797,"elevation":5400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14AK"]={"id":"14AK","name":"FOUR CORNERS","lat":61.602467,"lon":-149.248,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OA4"]={"id":"2OA4","name":"VICTORY FLD","lat":39.9318,"lon":-83.9075,"elevation":1055,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

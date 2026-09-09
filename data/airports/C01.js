@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C01"]={"id":"C01","name":"SOUTHERN CROSS","lat":39.655556,"lon":-75.014444,"elevation":145,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

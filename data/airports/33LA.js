@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33LA"]={"id":"33LA","name":"SKY RANCH","lat":30.069647,"lon":-91.986231,"elevation":25,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

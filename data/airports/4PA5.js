@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PA5"]={"id":"4PA5","name":"PONDEROSA","lat":41.308403,"lon":-77.524703,"elevation":1820,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

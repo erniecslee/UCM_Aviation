@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67MU"]={"id":"67MU","name":"AIR COVER","lat":39.454169,"lon":-91.395919,"elevation":744,"region":"K3","runways":[{"id":"RW10","lat":39.454511,"lon":-91.4007,"length":2710,"course":96.5},{"id":"RW28","lat":39.453825,"lon":-91.391139,"length":2710,"course":276.5}],"procedures":{"D":{},"E":{},"F":{}}};

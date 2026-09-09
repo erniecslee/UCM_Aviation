@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD89"]={"id":"FD89","name":"COLLIER/PINE BARREN AIRPARK","lat":30.827131,"lon":-87.358311,"elevation":220,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC3"]={"id":"4NC3","name":"WINDSOR FARMS","lat":35.227514,"lon":-78.817261,"elevation":180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

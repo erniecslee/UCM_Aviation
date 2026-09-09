@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8Y5"]={"id":"8Y5","name":"CLARISSA MUNI","lat":46.113019,"lon":-94.906689,"elevation":1308,"region":"K3","runways":[{"id":"RW10","lat":46.11385,"lon":-94.911675,"length":2600,"course":100.0},{"id":"RW28","lat":46.112183,"lon":-94.901703,"length":2600,"course":280.0}],"procedures":{"D":{},"E":{},"F":{}}};

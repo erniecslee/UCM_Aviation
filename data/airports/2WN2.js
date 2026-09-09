@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WN2"]={"id":"2WN2","name":"SILVER LAKE","lat":45.584444,"lon":-91.925833,"elevation":1248,"region":"K5","runways":[{"id":"RW18W","lat":45.59075,"lon":-91.9205,"length":5000,"course":181.2},{"id":"RW36W","lat":45.577039,"lon":-91.9205,"length":5000,"course":1.2}],"procedures":{"D":{},"E":{},"F":{}}};

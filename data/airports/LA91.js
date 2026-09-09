@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA91"]={"id":"LA91","name":"GARY LANDING STRIP","lat":30.221311,"lon":-91.83345,"elevation":21,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

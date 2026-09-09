@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NJ3"]={"id":"2NJ3","name":"WEIDEL/PVT/","lat":40.340383,"lon":-74.854331,"elevation":301,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

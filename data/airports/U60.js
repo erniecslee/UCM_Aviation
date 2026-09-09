@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U60"]={"id":"U60","name":"BIG CREEK","lat":45.133244,"lon":-115.321778,"elevation":5743,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

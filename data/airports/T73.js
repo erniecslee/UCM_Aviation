@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T73"]={"id":"T73","name":"KIRK AIR BASE","lat":34.674317,"lon":-80.682292,"elevation":578,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

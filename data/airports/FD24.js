@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD24"]={"id":"FD24","name":"SOUTHERN FRUIT GROVES","lat":27.221158,"lon":-80.520611,"elevation":26,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

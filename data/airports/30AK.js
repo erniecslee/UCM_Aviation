@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30AK"]={"id":"30AK","name":"DOYLE ESTATES","lat":60.502758,"lon":-151.260003,"elevation":50,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16ND"]={"id":"16ND","name":"KALBERER","lat":46.696775,"lon":-100.596789,"elevation":1828,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

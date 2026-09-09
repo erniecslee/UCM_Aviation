@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MI3"]={"id":"1MI3","name":"BLACK RIVER RANCH","lat":45.195844,"lon":-84.321681,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

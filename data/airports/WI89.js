@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI89"]={"id":"WI89","name":"LAKE GENEVA AIRE ESTATES","lat":42.572239,"lon":-88.367317,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

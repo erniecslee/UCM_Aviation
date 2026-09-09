@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN72"]={"id":"PN72","name":"ROCKY HOLLOW FLD","lat":40.569167,"lon":-78.8825,"elevation":1806,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

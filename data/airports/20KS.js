@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20KS"]={"id":"20KS","name":"ISAACSON","lat":39.700917,"lon":-97.721258,"elevation":1533,"region":"K3","runways":[{"id":"RW03","lat":39.699678,"lon":-97.722039,"length":1000,"course":22.8},{"id":"RW21","lat":39.702144,"lon":-97.720483,"length":1000,"course":202.8}],"procedures":{"D":{},"E":{},"F":{}}};

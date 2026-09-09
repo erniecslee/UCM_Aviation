@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38TN"]={"id":"38TN","name":"SUGAR GROVE","lat":36.625278,"lon":-86.273333,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA51"]={"id":"PA51","name":"BOWTIE","lat":39.90845,"lon":-77.205217,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE84"]={"id":"TE84","name":"MOCKINGBIRD HILL","lat":31.465164,"lon":-97.475292,"elevation":810,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

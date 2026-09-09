@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MO5"]={"id":"4MO5","name":"JJ GYRO PARK","lat":38.380081,"lon":-91.345681,"elevation":779,"region":"K3","runways":[{"id":"RW07","lat":38.379464,"lon":-91.347625,"length":1200,"course":69.3},{"id":"RW25","lat":38.380697,"lon":-91.343736,"length":1200,"course":249.3}],"procedures":{"D":{},"E":{},"F":{}}};

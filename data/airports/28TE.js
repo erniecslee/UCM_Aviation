@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28TE"]={"id":"28TE","name":"MIDLAKE","lat":29.268294,"lon":-98.336958,"elevation":535,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52Z"]={"id":"52Z","name":"SUMMIT LAKE","lat":60.641081,"lon":-149.497133,"elevation":1300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI79"]={"id":"MI79","name":"JCM","lat":45.188822,"lon":-84.776347,"elevation":1044,"region":"K5","runways":[{"id":"RW16W","lat":45.193311,"lon":-84.779997,"length":3776,"course":156.8},{"id":"RW34W","lat":45.184333,"lon":-84.772697,"length":3776,"course":336.9}],"procedures":{"D":{},"E":{},"F":{}}};

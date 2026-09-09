@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F86"]={"id":"F86","name":"CALDWELL PARISH","lat":32.122167,"lon":-92.0545,"elevation":67,"region":"K4","runways":[{"id":"RW01","lat":32.117458,"lon":-92.055736,"length":3501,"course":9.0},{"id":"RW19","lat":32.126853,"lon":-92.053278,"length":3501,"course":189.0}],"procedures":{"D":{},"E":{},"F":{}}};

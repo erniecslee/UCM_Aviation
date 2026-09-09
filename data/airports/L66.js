@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L66"]={"id":"L66","name":"POLLOCK MUNI","lat":31.477472,"lon":-92.461167,"elevation":203,"region":"K4","runways":[{"id":"RW18","lat":31.483667,"lon":-92.461175,"length":4499,"course":176.0},{"id":"RW36","lat":31.4713,"lon":-92.461175,"length":4499,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

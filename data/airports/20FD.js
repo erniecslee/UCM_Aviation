@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20FD"]={"id":"20FD","name":"PRATT","lat":30.425486,"lon":-83.575986,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

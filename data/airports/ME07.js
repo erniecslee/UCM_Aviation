@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME07"]={"id":"ME07","name":"ACADIAN","lat":44.39805,"lon":-68.219583,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

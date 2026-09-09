@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46OK"]={"id":"46OK","name":"RICKER RANCH","lat":35.475144,"lon":-98.451628,"elevation":1665,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

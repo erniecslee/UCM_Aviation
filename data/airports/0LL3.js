@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LL3"]={"id":"0LL3","name":"KOENIG","lat":39.052392,"lon":-90.347622,"elevation":609,"region":"K5","runways":[{"id":"RW06","lat":39.050625,"lon":-90.351803,"length":3000,"course":59.6},{"id":"RW24","lat":39.053739,"lon":-90.344433,"length":3000,"course":239.6}],"procedures":{"D":{},"E":{},"F":{}}};

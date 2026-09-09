@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN24"]={"id":"MN24","name":"SURFSIDE","lat":45.161717,"lon":-93.120833,"elevation":890,"region":"K3","runways":[{"id":"RW04","lat":45.159683,"lon":-93.123133,"length":1900,"course":36.0},{"id":"RW22","lat":45.16375,"lon":-93.118533,"length":1900,"course":216.0}],"procedures":{"D":{},"E":{},"F":{}}};

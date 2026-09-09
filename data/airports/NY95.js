@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY95"]={"id":"NY95","name":"CREEKSIDE","lat":42.915297,"lon":-77.384864,"elevation":798,"region":"K6","runways":[{"id":"RW11","lat":42.915908,"lon":-77.389344,"length":2441,"course":112.0},{"id":"RW29","lat":42.914686,"lon":-77.380383,"length":2441,"course":292.0}],"procedures":{"D":{},"E":{},"F":{}}};

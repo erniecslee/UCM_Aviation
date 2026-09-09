@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FA5"]={"id":"0FA5","name":"BRILEY FARM","lat":28.572778,"lon":-81.628611,"elevation":66,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

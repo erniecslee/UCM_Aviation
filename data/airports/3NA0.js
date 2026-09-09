@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NA0"]={"id":"3NA0","name":"ERICKSON","lat":47.416653,"lon":-97.511481,"elevation":1095,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

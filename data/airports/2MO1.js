@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO1"]={"id":"2MO1","name":"BIRD FLD","lat":37.320047,"lon":-93.419917,"elevation":1250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

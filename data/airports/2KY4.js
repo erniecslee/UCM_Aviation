@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KY4"]={"id":"2KY4","name":"OZ","lat":37.655,"lon":-85.813611,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

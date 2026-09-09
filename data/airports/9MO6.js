@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MO6"]={"id":"9MO6","name":"IVY BEND","lat":38.193083,"lon":-92.992417,"elevation":690,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

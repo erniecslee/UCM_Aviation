@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82AR"]={"id":"82AR","name":"BARTON","lat":34.537136,"lon":-90.759414,"elevation":176,"region":"K4","runways":[{"id":"RW18","lat":34.541075,"lon":-90.759453,"length":2867,"course":180.9},{"id":"RW36","lat":34.533197,"lon":-90.759375,"length":2867,"course":0.9}],"procedures":{"D":{},"E":{},"F":{}}};

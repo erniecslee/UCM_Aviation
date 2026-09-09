@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL60"]={"id":"IL60","name":"IDLAS","lat":42.131414,"lon":-88.699814,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

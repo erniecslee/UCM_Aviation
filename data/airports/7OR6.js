@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OR6"]={"id":"7OR6","name":"GREEN ACRES AIR PARK","lat":45.636783,"lon":-121.591186,"elevation":800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

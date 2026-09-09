@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL80"]={"id":"IL80","name":"FLYING ILLINI","lat":40.108167,"lon":-88.683131,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0E8"]={"id":"0E8","name":"CROWNPOINT","lat":35.717658,"lon":-108.201597,"elevation":6696,"region":"K2","runways":[{"id":"RW18","lat":35.725428,"lon":-108.199281,"length":5820,"course":182.0},{"id":"RW36","lat":35.709892,"lon":-108.203914,"length":5820,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

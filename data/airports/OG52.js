@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG52"]={"id":"OG52","name":"JPM","lat":44.839222,"lon":-123.258933,"elevation":260,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

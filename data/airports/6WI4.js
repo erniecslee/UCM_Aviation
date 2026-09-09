@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WI4"]={"id":"6WI4","name":"SAXON","lat":46.515503,"lon":-90.431569,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ME7"]={"id":"0ME7","name":"SEBAGO LAKE BASIN","lat":43.839717,"lon":-70.462017,"elevation":266,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

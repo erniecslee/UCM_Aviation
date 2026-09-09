@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66KY"]={"id":"66KY","name":"MC GREW","lat":37.507556,"lon":-86.205528,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

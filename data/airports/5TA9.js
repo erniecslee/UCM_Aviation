@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TA9"]={"id":"5TA9","name":"SEAGOVILLE","lat":32.609167,"lon":-96.526111,"elevation":415,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

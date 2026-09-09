@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN87"]={"id":"WN87","name":"BRYAN","lat":47.208572,"lon":-122.092614,"elevation":630,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

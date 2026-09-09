@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7PA1"]={"id":"7PA1","name":"WARREN AIRPARK","lat":41.865892,"lon":-79.206158,"elevation":1790,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C82"]={"id":"C82","name":"BRESSON","lat":41.762531,"lon":-89.101481,"elevation":769,"region":"K5","runways":[{"id":"RW18","lat":41.766492,"lon":-89.101761,"length":2590,"course":180.0},{"id":"RW36","lat":41.759392,"lon":-89.101758,"length":2590,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

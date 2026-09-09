@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD94"]={"id":"SD94","name":"LUNDIN","lat":44.993019,"lon":-96.476997,"elevation":1186,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

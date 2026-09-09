@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3O4"]={"id":"3O4","name":"SAYRE MUNI","lat":35.167708,"lon":-99.657806,"elevation":1937,"region":"K4","runways":[{"id":"RW17","lat":35.173583,"lon":-99.657758,"length":4276,"course":172.0},{"id":"RW35","lat":35.161836,"lon":-99.657856,"length":4276,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

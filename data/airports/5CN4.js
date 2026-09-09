@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CN4"]={"id":"5CN4","name":"VOSBURGH AIRFIELD","lat":34.923633,"lon":-119.5715,"elevation":2200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA32"]={"id":"CA32","name":"SAN JOAQUIN","lat":36.583283,"lon":-120.250989,"elevation":165,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

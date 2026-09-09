@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O86"]={"id":"O86","name":"TRINITY CENTER","lat":40.98275,"lon":-122.693722,"elevation":2390,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

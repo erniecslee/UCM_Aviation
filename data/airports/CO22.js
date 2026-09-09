@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO22"]={"id":"CO22","name":"HILDEBRANDT","lat":39.279167,"lon":-102.475,"elevation":4300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96VE"]={"id":"96VE","name":"BEITER","lat":46.906667,"lon":-120.433611,"elevation":1910,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

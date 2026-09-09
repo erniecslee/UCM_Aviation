@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA92"]={"id":"LA92","name":"BRIGGS AIRFIELD","lat":30.389453,"lon":-92.147383,"elevation":48,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

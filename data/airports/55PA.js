@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55PA"]={"id":"55PA","name":"SENCY","lat":40.895642,"lon":-75.944092,"elevation":1350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

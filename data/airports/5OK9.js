@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OK9"]={"id":"5OK9","name":"HSH AIRSTRIP","lat":35.721944,"lon":-97.204722,"elevation":1020,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

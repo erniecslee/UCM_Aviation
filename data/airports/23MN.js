@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23MN"]={"id":"23MN","name":"HIGH GROVE","lat":43.641075,"lon":-92.022103,"elevation":1240,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

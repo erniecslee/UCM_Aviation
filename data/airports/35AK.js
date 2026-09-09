@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35AK"]={"id":"35AK","name":"POKER BLUFF","lat":61.640656,"lon":-150.516147,"elevation":109,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

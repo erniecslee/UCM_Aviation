@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK43"]={"id":"NK43","name":"JERRY PHIBBS","lat":42.758411,"lon":-73.924569,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

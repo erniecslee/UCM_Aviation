@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TE0"]={"id":"1TE0","name":"LOCKER BROTHERS","lat":34.269522,"lon":-102.717161,"elevation":3802,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

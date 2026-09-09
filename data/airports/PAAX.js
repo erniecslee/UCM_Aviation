@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAX"]={"id":"PAAX","name":"CHITINA","lat":61.583203,"lon":-144.429803,"elevation":556,"region":"PA","runways":[{"id":"RW13","lat":61.586864,"lon":-144.432619,"length":2850,"course":133.0},{"id":"RW31","lat":61.579542,"lon":-144.426986,"length":2850,"course":313.0}],"procedures":{"D":{},"E":{},"F":{}}};

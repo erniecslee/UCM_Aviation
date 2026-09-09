@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS69"]={"id":"WS69","name":"LOG CABIN","lat":44.574964,"lon":-91.5471,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

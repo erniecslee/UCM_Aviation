@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28WI"]={"id":"28WI","name":"RUTHERFORD","lat":44.604133,"lon":-92.046561,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

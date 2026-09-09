@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO80"]={"id":"CO80","name":"FOWLER","lat":38.072506,"lon":-104.045794,"elevation":4428,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

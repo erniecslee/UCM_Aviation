@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31VA"]={"id":"31VA","name":"ABERDEEN FLD","lat":37.023758,"lon":-76.588564,"elevation":33,"region":"K6","runways":[{"id":"RW02","lat":37.012261,"lon":-76.591092,"length":5921,"course":21.6},{"id":"RW20","lat":37.028133,"lon":-76.586675,"length":5921,"course":201.6}],"procedures":{"D":{},"E":{},"F":{}}};

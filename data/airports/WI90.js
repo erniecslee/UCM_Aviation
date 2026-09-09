@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI90"]={"id":"WI90","name":"MAVERICK FLD","lat":45.654367,"lon":-87.955158,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

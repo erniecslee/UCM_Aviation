@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK09"]={"id":"AK09","name":"WINGSONG ESTATES","lat":64.049606,"lon":-145.502325,"elevation":1100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

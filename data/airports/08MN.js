@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08MN"]={"id":"08MN","name":"CHRISTENSON POINT","lat":47.669375,"lon":-93.054444,"elevation":1372,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

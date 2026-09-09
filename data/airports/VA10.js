@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA10"]={"id":"VA10","name":"CATAWBA VALLEY","lat":37.2841,"lon":-80.300933,"elevation":1720,"region":"K6","runways":[{"id":"RW05","lat":37.28235,"lon":-80.302997,"length":1751,"course":50.3},{"id":"RW23","lat":37.285847,"lon":-80.298869,"length":1751,"course":230.3}],"procedures":{"D":{},"E":{},"F":{}}};

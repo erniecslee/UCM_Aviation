@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN46"]={"id":"IN46","name":"BUTLER FLD","lat":39.738931,"lon":-87.219458,"elevation":687,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

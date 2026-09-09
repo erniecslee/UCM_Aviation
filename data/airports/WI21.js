@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI21"]={"id":"WI21","name":"CRANE FLD","lat":44.909683,"lon":-91.241819,"elevation":936,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

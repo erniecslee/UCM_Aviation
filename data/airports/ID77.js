@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID77"]={"id":"ID77","name":"CUDDY MEADOWS","lat":44.705278,"lon":-116.806944,"elevation":4580,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

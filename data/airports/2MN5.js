@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MN5"]={"id":"2MN5","name":"EMMA'S BAY","lat":46.631942,"lon":-94.200922,"elevation":1206,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90IL"]={"id":"90IL","name":"MIG RLA","lat":41.2864,"lon":-89.235519,"elevation":651,"region":"K5","runways":[{"id":"RW09","lat":41.286342,"lon":-89.239742,"length":2600,"course":91.8},{"id":"RW27","lat":41.286442,"lon":-89.232611,"length":2600,"course":271.8}],"procedures":{"D":{},"E":{},"F":{}}};

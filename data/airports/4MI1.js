@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MI1"]={"id":"4MI1","name":"AIR RAHE","lat":41.830603,"lon":-83.687439,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

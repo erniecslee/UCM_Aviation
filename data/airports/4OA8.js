@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OA8"]={"id":"4OA8","name":"BOWMAN","lat":40.108611,"lon":-84.299722,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

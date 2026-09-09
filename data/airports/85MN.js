@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85MN"]={"id":"85MN","name":"SPARKYS","lat":44.965281,"lon":-95.829142,"elevation":1005,"region":"K3","runways":[{"id":"RW09","lat":44.965264,"lon":-95.832581,"length":1781,"course":87.8},{"id":"RW27","lat":44.965294,"lon":-95.8257,"length":1781,"course":267.8}],"procedures":{"D":{},"E":{},"F":{}}};

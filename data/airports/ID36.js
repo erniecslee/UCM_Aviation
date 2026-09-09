@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID36"]={"id":"ID36","name":"KING MOUNTAIN GLIDER PARK","lat":43.763056,"lon":-113.343889,"elevation":5500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

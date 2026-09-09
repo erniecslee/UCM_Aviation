@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6GE4"]={"id":"6GE4","name":"M K FLD","lat":33.168694,"lon":-84.830361,"elevation":866,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

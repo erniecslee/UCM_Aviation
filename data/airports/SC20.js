@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC20"]={"id":"SC20","name":"HARMAN","lat":33.484306,"lon":-81.825944,"elevation":458,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA12"]={"id":"MA12","name":"MIDDLE POND","lat":41.669,"lon":-70.417528,"elevation":44,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

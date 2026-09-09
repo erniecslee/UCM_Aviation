@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE57"]={"id":"TE57","name":"HAASS FLD","lat":29.444803,"lon":-99.122797,"elevation":945,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

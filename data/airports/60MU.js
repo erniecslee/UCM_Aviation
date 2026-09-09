@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60MU"]={"id":"60MU","name":"LUCKY WEASEL","lat":37.259167,"lon":-94.414267,"elevation":904,"region":"K3","runways":[{"id":"RW05","lat":37.258428,"lon":-94.416486,"length":1400,"course":66.4},{"id":"RW23","lat":37.259906,"lon":-94.412044,"length":1400,"course":246.4}],"procedures":{"D":{},"E":{},"F":{}}};

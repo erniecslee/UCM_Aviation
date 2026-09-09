@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY33"]={"id":"NY33","name":"HIDDEN HILLS RANCH","lat":43.109333,"lon":-77.239178,"elevation":516,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

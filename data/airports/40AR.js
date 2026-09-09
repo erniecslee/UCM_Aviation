@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40AR"]={"id":"40AR","name":"LOST BRIDGE VILLAGE","lat":36.392717,"lon":-93.912619,"elevation":1440,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

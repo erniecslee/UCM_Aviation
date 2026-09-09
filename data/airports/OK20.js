@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK20"]={"id":"OK20","name":"SAGEEYAH AIRFIELD","lat":36.383403,"lon":-95.6495,"elevation":640,"region":"K4","runways":[{"id":"RW18","lat":36.386833,"lon":-95.6495,"length":2500,"course":174.0},{"id":"RW36","lat":36.379972,"lon":-95.6495,"length":2500,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

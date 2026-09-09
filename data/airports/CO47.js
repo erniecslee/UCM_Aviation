@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO47"]={"id":"CO47","name":"GOLDYS FLD","lat":39.599983,"lon":-106.974211,"elevation":6720,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

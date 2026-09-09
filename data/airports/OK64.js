@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK64"]={"id":"OK64","name":"GREEN VALLEY FARMS","lat":34.976389,"lon":-97.336944,"elevation":1018,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

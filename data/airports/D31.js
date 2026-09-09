@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D31"]={"id":"D31","name":"LEEDS MUNI","lat":48.285008,"lon":-99.402197,"elevation":1508,"region":"K3","runways":[{"id":"RW09","lat":48.285772,"lon":-99.40825,"length":3000,"course":91.7},{"id":"RW27","lat":48.284242,"lon":-99.396144,"length":3000,"course":271.7}],"procedures":{"D":{},"E":{},"F":{}}};

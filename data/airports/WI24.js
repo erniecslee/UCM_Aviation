@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI24"]={"id":"WI24","name":"CARDINAL RIDGE","lat":42.881111,"lon":-89.752222,"elevation":1080,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

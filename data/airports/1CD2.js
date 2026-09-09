@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CD2"]={"id":"1CD2","name":"RECK AIRSTRIP","lat":40.167222,"lon":-104.792778,"elevation":4925,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

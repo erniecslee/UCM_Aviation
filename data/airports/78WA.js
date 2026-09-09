@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78WA"]={"id":"78WA","name":"CENTER ISLAND","lat":48.4901,"lon":-122.832122,"elevation":115,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

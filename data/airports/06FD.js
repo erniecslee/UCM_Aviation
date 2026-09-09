@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06FD"]={"id":"06FD","name":"GRASS ROOTS AIRPARK","lat":28.641667,"lon":-81.885,"elevation":105,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

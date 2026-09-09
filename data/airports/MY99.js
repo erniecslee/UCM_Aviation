@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY99"]={"id":"MY99","name":"JOHNSTON","lat":46.857458,"lon":-96.2352,"elevation":1360,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89OK"]={"id":"89OK","name":"NEVERSWEAT TOO","lat":35.44315,"lon":-94.89745,"elevation":565,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

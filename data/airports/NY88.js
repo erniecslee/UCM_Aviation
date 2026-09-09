@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY88"]={"id":"NY88","name":"HICKORY ACRES","lat":42.883406,"lon":-74.691256,"elevation":970,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

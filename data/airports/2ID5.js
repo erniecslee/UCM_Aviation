@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ID5"]={"id":"2ID5","name":"SPLAN","lat":44.807467,"lon":-116.049483,"elevation":4987,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR85"]={"id":"OR85","name":"HIDEAWAY","lat":44.275103,"lon":-120.735342,"elevation":3675,"region":"K1","runways":[{"id":"RW09","lat":44.276253,"lon":-120.738167,"length":1701,"course":105.7},{"id":"RW27","lat":44.27395,"lon":-120.732517,"length":1701,"course":285.7}],"procedures":{"D":{},"E":{},"F":{}}};

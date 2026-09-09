@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA30"]={"id":"GA30","name":"ROCKIN R","lat":34.675917,"lon":-83.424281,"elevation":1545,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28MO"]={"id":"28MO","name":"PASLEY","lat":37.973919,"lon":-93.818825,"elevation":790,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

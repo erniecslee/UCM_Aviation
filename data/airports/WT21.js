@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT21"]={"id":"WT21","name":"RADIAL FLYER","lat":47.894536,"lon":-117.439808,"elevation":2060,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

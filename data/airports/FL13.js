@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL13"]={"id":"FL13","name":"SPENCER'S AIRPARK","lat":30.068572,"lon":-81.960658,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

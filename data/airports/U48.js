@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U48"]={"id":"U48","name":"COXS WELL","lat":43.21775,"lon":-113.227556,"elevation":5048,"region":"K1","runways":[{"id":"RW07","lat":43.217347,"lon":-113.2326,"length":2700,"course":67.0},{"id":"RW25","lat":43.218158,"lon":-113.222531,"length":2700,"course":247.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6A7"]={"id":"6A7","name":"BROCKER LAKE","lat":61.481839,"lon":-149.773244,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

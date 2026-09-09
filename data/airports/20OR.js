@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20OR"]={"id":"20OR","name":"WARNER'S","lat":45.325,"lon":-122.424167,"elevation":325,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

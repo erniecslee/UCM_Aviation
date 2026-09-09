@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS96"]={"id":"WS96","name":"HUGHES","lat":42.620839,"lon":-89.767344,"elevation":1010,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

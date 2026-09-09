@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57MD"]={"id":"57MD","name":"ST MICHAELS","lat":38.790247,"lon":-76.205725,"elevation":0,"region":"K6","runways":[{"id":"RW18W","lat":38.797483,"lon":-76.207525,"length":5370,"course":180.1},{"id":"RW36W","lat":38.783011,"lon":-76.203922,"length":5370,"course":0.1}],"procedures":{"D":{},"E":{},"F":{}}};

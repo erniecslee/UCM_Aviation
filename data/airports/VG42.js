@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG42"]={"id":"VG42","name":"HENSHAW","lat":37.252361,"lon":-77.152667,"elevation":85,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

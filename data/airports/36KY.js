@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36KY"]={"id":"36KY","name":"ARNOLDS","lat":37.655622,"lon":-85.153847,"elevation":843,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

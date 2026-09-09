@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43AK"]={"id":"43AK","name":"KALMBACH","lat":61.600761,"lon":-149.579169,"elevation":445,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

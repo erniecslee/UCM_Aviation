@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT32"]={"id":"TT32","name":"KUDLACEK FLD","lat":33.011917,"lon":-96.410472,"elevation":524,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

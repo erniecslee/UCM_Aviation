@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CO8"]={"id":"1CO8","name":"EVERITT","lat":39.527564,"lon":-104.656536,"elevation":6295,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

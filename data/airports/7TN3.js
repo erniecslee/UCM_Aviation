@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TN3"]={"id":"7TN3","name":"STONES RIVER","lat":35.970833,"lon":-86.393056,"elevation":537,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

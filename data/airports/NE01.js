@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE01"]={"id":"NE01","name":"SCHUTTE","lat":40.194736,"lon":-98.351997,"elevation":1876,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7KS2"]={"id":"7KS2","name":"CLOUD","lat":38.850003,"lon":-95.467478,"elevation":1020,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

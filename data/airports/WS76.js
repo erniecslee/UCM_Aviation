@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS76"]={"id":"WS76","name":"BLACK DOG FARM","lat":44.470675,"lon":-88.824547,"elevation":898,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

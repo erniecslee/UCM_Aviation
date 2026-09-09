@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD37"]={"id":"FD37","name":"GENTRY","lat":28.137239,"lon":-81.263403,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

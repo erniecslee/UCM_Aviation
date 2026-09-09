@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MU9"]={"id":"0MU9","name":"RPM","lat":37.337789,"lon":-93.164078,"elevation":1282,"region":"K3","runways":[{"id":"RW09","lat":37.337797,"lon":-93.16575,"length":970,"course":90.0},{"id":"RW27","lat":37.337792,"lon":-93.162411,"length":970,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

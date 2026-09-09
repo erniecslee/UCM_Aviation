@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL62"]={"id":"FL62","name":"BRADSHAW TREE FARM","lat":28.948597,"lon":-81.413122,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

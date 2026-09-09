@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TN4"]={"id":"2TN4","name":"SHOEMAKER-SHELBY FOREST","lat":35.318056,"lon":-90.035278,"elevation":335,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

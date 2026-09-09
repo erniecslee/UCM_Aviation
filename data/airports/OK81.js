@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK81"]={"id":"OK81","name":"BROWN AIRSTRIP","lat":34.684142,"lon":-97.866694,"elevation":1330,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

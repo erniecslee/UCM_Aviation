@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX6"]={"id":"2TX6","name":"EVERITT","lat":33.68175,"lon":-101.668497,"elevation":3200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

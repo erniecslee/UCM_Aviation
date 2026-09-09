@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04UT"]={"id":"04UT","name":"NAVAJO MOUNTAIN","lat":37.008331,"lon":-110.795136,"elevation":6160,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

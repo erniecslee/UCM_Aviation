@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9II4"]={"id":"9II4","name":"CRUZAN FLD","lat":40.1725,"lon":-85.944722,"elevation":845,"region":"K5","runways":[{"id":"RW09","lat":40.1725,"lon":-85.944722,"length":3300,"course":95.5}],"procedures":{"D":{},"E":{},"F":{}}};

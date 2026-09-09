@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10AK"]={"id":"10AK","name":"HUNT STRIP","lat":61.591881,"lon":-149.677911,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

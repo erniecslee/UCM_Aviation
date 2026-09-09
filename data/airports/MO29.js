@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO29"]={"id":"MO29","name":"INTER-STATE","lat":38.771856,"lon":-94.3337,"elevation":965,"region":"K3","runways":[{"id":"RW18","lat":38.774461,"lon":-94.333469,"length":1900,"course":179.0}],"procedures":{"D":{},"E":{},"F":{}}};

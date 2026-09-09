@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78FD"]={"id":"78FD","name":"MAC'S FLD","lat":25.546497,"lon":-80.465611,"elevation":16,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

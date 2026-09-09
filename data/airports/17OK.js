@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17OK"]={"id":"17OK","name":"GOOD LIFE RANCH","lat":35.100344,"lon":-97.786225,"elevation":1240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN23"]={"id":"TN23","name":"TITAN FLD","lat":36.494444,"lon":-87.321944,"elevation":385,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

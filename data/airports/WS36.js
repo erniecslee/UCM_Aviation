@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS36"]={"id":"WS36","name":"SWAN FLD","lat":44.271361,"lon":-89.437064,"elevation":1140,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

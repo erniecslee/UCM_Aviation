@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KS8"]={"id":"3KS8","name":"REED-WILSONTON","lat":37.25615,"lon":-95.33405,"elevation":925,"region":"K3","runways":[{"id":"RW04","lat":37.254125,"lon":-95.337083,"length":2300,"course":45.2},{"id":"RW22","lat":37.258172,"lon":-95.331014,"length":2300,"course":225.2}],"procedures":{"D":{},"E":{},"F":{}}};

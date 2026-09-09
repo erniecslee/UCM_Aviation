@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PALT"]={"id":"PALT","name":"TULUKSAK","lat":61.087728,"lon":-160.923353,"elevation":36,"region":"PA","runways":[{"id":"RW15","lat":61.091975,"lon":-160.926514,"length":3300,"course":141.2},{"id":"RW33","lat":61.083483,"lon":-160.920194,"length":3300,"course":321.2}],"procedures":{"D":{},"E":{},"F":{}}};

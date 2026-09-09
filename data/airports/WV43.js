@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV43"]={"id":"WV43","name":"WARWOOD - MARTINS FERRY","lat":40.093128,"lon":-80.717858,"elevation":623,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

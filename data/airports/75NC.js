@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75NC"]={"id":"75NC","name":"MEYLOR LANDING","lat":36.22125,"lon":-80.033333,"elevation":880,"region":"K7","runways":[{"id":"RW13","lat":36.222222,"lon":-80.035,"length":1212,"course":134.3},{"id":"RW31","lat":36.220278,"lon":-80.031667,"length":1212,"course":314.4}],"procedures":{"D":{},"E":{},"F":{}}};

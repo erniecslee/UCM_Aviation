@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR65"]={"id":"OR65","name":"EAGLE NEST RANCH","lat":45.354844,"lon":-122.345919,"elevation":425,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

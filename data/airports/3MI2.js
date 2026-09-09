@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MI2"]={"id":"3MI2","name":"SOUTH FOX ISLAND","lat":45.399161,"lon":-85.830081,"elevation":616,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

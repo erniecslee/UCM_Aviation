@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11WA"]={"id":"11WA","name":"HOMEPORT","lat":47.523889,"lon":-117.469444,"elevation":2320,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE86"]={"id":"TE86","name":"HERITAGE AIRFIELD","lat":29.444444,"lon":-98.112778,"elevation":555,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

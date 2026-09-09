@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II09"]={"id":"II09","name":"PATRUM FLD","lat":39.573658,"lon":-86.618058,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

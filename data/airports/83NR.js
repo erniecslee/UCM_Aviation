@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83NR"]={"id":"83NR","name":"WOOTENS","lat":35.711206,"lon":-80.969611,"elevation":944,"region":"K7","runways":[{"id":"RW09","lat":35.711303,"lon":-80.973011,"length":2020,"course":100.0},{"id":"RW27","lat":35.711111,"lon":-80.966211,"length":2020,"course":280.0}],"procedures":{"D":{},"E":{},"F":{}}};

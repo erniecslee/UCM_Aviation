@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA08"]={"id":"WA08","name":"ZWAINZ FARMS","lat":47.713439,"lon":-117.919989,"elevation":2795,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL53"]={"id":"IL53","name":"DURIN","lat":41.785831,"lon":-89.030097,"elevation":824,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K22"]={"id":"K22","name":"MILLS FLD","lat":37.993772,"lon":-97.926533,"elevation":1536,"region":"K3","runways":[{"id":"RW18","lat":37.997069,"lon":-97.926519,"length":2400,"course":173.2},{"id":"RW36","lat":37.990478,"lon":-97.926547,"length":2400,"course":353.2}],"procedures":{"D":{},"E":{},"F":{}}};

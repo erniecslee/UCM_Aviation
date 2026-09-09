@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KS4"]={"id":"5KS4","name":"GOANS FLD","lat":37.807278,"lon":-94.740903,"elevation":840,"region":"K3","runways":[{"id":"RW17","lat":37.808597,"lon":-94.741392,"length":1000,"course":162.0},{"id":"RW35","lat":37.805967,"lon":-94.740392,"length":1000,"course":342.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28TX"]={"id":"28TX","name":"LEHMAN","lat":34.085919,"lon":-99.455086,"elevation":1275,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

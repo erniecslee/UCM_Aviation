@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11NY"]={"id":"11NY","name":"JOHNSON LANDING STRIP","lat":41.819189,"lon":-73.643225,"elevation":900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

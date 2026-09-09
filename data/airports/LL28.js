@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL28"]={"id":"LL28","name":"SD AERO","lat":42.432778,"lon":-88.717222,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

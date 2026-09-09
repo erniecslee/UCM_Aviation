@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LL4"]={"id":"4LL4","name":"ENJOY FLD","lat":40.975833,"lon":-87.998611,"elevation":685,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00AL"]={"id":"00AL","name":"EPPS AIRPARK","lat":34.864811,"lon":-86.770278,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

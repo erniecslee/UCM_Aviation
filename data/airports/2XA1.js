@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XA1"]={"id":"2XA1","name":"GREAT HORIZON RANCH","lat":28.1402,"lon":-98.935997,"elevation":317,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37OR"]={"id":"37OR","name":"VEY SHEEP RANCH","lat":45.093186,"lon":-118.398839,"elevation":4158,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

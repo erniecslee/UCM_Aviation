@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05AR"]={"id":"05AR","name":"OZARK SKIES AIRPARK","lat":36.000633,"lon":-93.57025,"elevation":1900,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

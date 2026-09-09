@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA04"]={"id":"LA04","name":"BAILEY AIR","lat":31.944456,"lon":-91.805014,"elevation":64,"region":"K4","runways":[{"id":"RW08","lat":31.944042,"lon":-91.809386,"length":2730,"course":84.2},{"id":"RW26","lat":31.944869,"lon":-91.800639,"length":2730,"course":264.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TE8"]={"id":"1TE8","name":"KAHUNA BAY","lat":33.549,"lon":-96.557694,"elevation":702,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

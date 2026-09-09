@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA21"]={"id":"NA21","name":"THOMPSON PRIVATE","lat":46.228294,"lon":-97.2362,"elevation":1075,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

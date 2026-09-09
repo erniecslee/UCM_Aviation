@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX56"]={"id":"TX56","name":"DOUGLASS RANCH","lat":27.7155,"lon":-98.702533,"elevation":680,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

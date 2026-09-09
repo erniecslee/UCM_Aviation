@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94MD"]={"id":"94MD","name":"CONQUEST FLD","lat":39.088267,"lon":-76.130533,"elevation":16,"region":"K6","runways":[{"id":"RW10","lat":39.088328,"lon":-76.134942,"length":2500,"course":102.2},{"id":"RW28","lat":39.088206,"lon":-76.126139,"length":2500,"course":282.2}],"procedures":{"D":{},"E":{},"F":{}}};

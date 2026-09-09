@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74S"]={"id":"74S","name":"ANACORTES","lat":48.498508,"lon":-122.662469,"elevation":246,"region":"K1","runways":[{"id":"RW18","lat":48.5024,"lon":-122.660336,"length":3018,"course":179.0},{"id":"RW36","lat":48.494628,"lon":-122.6646,"length":3018,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

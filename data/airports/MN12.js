@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN12"]={"id":"MN12","name":"ROBCO","lat":47.198889,"lon":-94.752222,"elevation":1380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

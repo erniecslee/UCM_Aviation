@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KY1"]={"id":"4KY1","name":"CREEK SIDE LANDING","lat":36.894369,"lon":-85.775519,"elevation":727,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

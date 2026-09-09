@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS00"]={"id":"IS00","name":"JAY SCHERTZ FARM","lat":40.841703,"lon":-89.274531,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

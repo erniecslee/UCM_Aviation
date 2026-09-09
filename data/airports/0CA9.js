@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CA9"]={"id":"0CA9","name":"BLECH RANCH","lat":35.594969,"lon":-120.338767,"elevation":1140,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

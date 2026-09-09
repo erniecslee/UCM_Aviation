@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19XS"]={"id":"19XS","name":"DRAGGINTAIL ACRES","lat":32.297194,"lon":-97.086892,"elevation":585,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

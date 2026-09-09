@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OH5"]={"id":"7OH5","name":"MAHONING COUNTY JOINT VOCATION","lat":41.034225,"lon":-80.781747,"elevation":1130,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

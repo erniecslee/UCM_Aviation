@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83IL"]={"id":"83IL","name":"OLTMAN-SHUCK","lat":40.892811,"lon":-89.103969,"elevation":736,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

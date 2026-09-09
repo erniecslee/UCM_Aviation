@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA14"]={"id":"GA14","name":"PINEBLOOM PLANTATION","lat":31.402956,"lon":-84.322686,"elevation":170,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

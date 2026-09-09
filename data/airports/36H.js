@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36H"]={"id":"36H","name":"SQUAW HARBOR","lat":55.233339,"lon":-160.552028,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

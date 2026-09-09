@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD70"]={"id":"MD70","name":"FLYING ACRES","lat":39.181222,"lon":-75.908828,"elevation":70,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

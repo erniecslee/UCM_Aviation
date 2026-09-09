@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08OK"]={"id":"08OK","name":"PARKS","lat":34.931486,"lon":-95.258303,"elevation":635,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

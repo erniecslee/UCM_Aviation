@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT8"]={"id":"VT8","name":"SHELBURNE","lat":44.360303,"lon":-73.226394,"elevation":325,"region":"K6","runways":[{"id":"RW01","lat":44.356139,"lon":-73.225436,"length":3077,"course":6.0},{"id":"RW19","lat":44.364467,"lon":-73.227353,"length":3077,"course":186.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34FL"]={"id":"34FL","name":"BNCFL","lat":29.580858,"lon":-81.591686,"elevation":12,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

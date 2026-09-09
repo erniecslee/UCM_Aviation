@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK43"]={"id":"OK43","name":"LOGSDON RANCH","lat":36.530589,"lon":-98.63675,"elevation":1475,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

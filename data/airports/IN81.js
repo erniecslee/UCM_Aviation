@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN81"]={"id":"IN81","name":"SMALL FLD","lat":39.751944,"lon":-85.5575,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

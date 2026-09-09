@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT19"]={"id":"CT19","name":"LAURIE FLD","lat":41.968153,"lon":-72.539808,"elevation":129,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD55"]={"id":"MD55","name":"HOLLY SPRINGS FARM","lat":38.397625,"lon":-77.186089,"elevation":90,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

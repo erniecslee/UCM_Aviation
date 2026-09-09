@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49XA"]={"id":"49XA","name":"OMNI RANCH","lat":26.444628,"lon":-98.096628,"elevation":56,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

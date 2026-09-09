@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6XS7"]={"id":"6XS7","name":"EUGENE'S DREAM","lat":33.045278,"lon":-97.674806,"elevation":905,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85NE"]={"id":"85NE","name":"MEYERS FREEDOM FLIGHT HARDY","lat":40.020847,"lon":-97.941986,"elevation":1624,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

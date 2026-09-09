@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV66"]={"id":"WV66","name":"GLENDALE FOKKER FLD","lat":39.948686,"lon":-80.759531,"elevation":648,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

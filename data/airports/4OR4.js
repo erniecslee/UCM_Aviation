@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OR4"]={"id":"4OR4","name":"SCHROCK","lat":44.443611,"lon":-123.238333,"elevation":245,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70T"]={"id":"70T","name":"FAIRVIEW","lat":33.094444,"lon":-97.427222,"elevation":915,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

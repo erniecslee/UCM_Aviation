@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS05"]={"id":"PS05","name":"G & N","lat":41.875333,"lon":-80.374789,"elevation":985,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

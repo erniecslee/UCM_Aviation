@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY76"]={"id":"NY76","name":"NEVERLAND","lat":42.314967,"lon":-78.899208,"elevation":1959,"region":"K6","runways":[{"id":"RW11","lat":42.315283,"lon":-78.902322,"length":1700,"course":108.0},{"id":"RW29","lat":42.31465,"lon":-78.896094,"length":1700,"course":288.0}],"procedures":{"D":{},"E":{},"F":{}}};

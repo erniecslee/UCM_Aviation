@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC56"]={"id":"SC56","name":"THOMASON AIRFIELD","lat":34.363458,"lon":-81.993161,"elevation":642,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VA2"]={"id":"2VA2","name":"MELVILLE AIRSTRIP","lat":37.145981,"lon":-76.789958,"elevation":90,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

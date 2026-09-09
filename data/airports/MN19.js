@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN19"]={"id":"MN19","name":"BRANDT","lat":45.047322,"lon":-93.836356,"elevation":930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

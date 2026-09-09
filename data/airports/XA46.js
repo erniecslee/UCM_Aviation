@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA46"]={"id":"XA46","name":"CREEKSIDE AIR PARK","lat":32.693636,"lon":-95.454361,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

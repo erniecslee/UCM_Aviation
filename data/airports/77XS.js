@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77XS"]={"id":"77XS","name":"GARRETT RANCH","lat":29.291844,"lon":-95.359292,"elevation":30,"region":"K4","runways":[{"id":"RW06","lat":29.289906,"lon":-95.363444,"length":3000,"course":56.0},{"id":"RW24","lat":29.293783,"lon":-95.355136,"length":3000,"course":236.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK1"]={"id":"6AK1","name":"PLATINUM MINE","lat":58.911717,"lon":-161.713892,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

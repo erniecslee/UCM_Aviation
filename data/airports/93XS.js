@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93XS"]={"id":"93XS","name":"UNDERLINE OK","lat":32.929097,"lon":-97.713928,"elevation":1116,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

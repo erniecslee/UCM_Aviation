@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA41"]={"id":"LA41","name":"DUPUIS","lat":30.310681,"lon":-91.939928,"elevation":25,"region":"K4","runways":[{"id":"RW12","lat":30.312672,"lon":-91.943536,"length":2700,"course":122.9},{"id":"RW30","lat":30.308689,"lon":-91.936317,"length":2700,"course":302.9}],"procedures":{"D":{},"E":{},"F":{}}};

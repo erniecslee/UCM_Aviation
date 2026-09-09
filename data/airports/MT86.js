@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT86"]={"id":"MT86","name":"BAR E","lat":47.162778,"lon":-112.115972,"elevation":4090,"region":"K1","runways":[{"id":"RW04","lat":47.158611,"lon":-112.123889,"length":4975,"course":37.3},{"id":"RW22","lat":47.166944,"lon":-112.108056,"length":4975,"course":217.3}],"procedures":{"D":{},"E":{},"F":{}}};

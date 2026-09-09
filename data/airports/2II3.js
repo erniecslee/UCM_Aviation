@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2II3"]={"id":"2II3","name":"STOTTLEMYER","lat":40.226667,"lon":-85.816389,"elevation":865,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

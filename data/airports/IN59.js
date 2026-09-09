@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN59"]={"id":"IN59","name":"JERRY W HUMPHREY","lat":37.945044,"lon":-87.424453,"elevation":342,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

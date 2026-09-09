@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3G5"]={"id":"3G5","name":"DAWSON AAF","lat":39.450092,"lon":-79.666444,"elevation":1265,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

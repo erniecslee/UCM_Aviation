@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH84"]={"id":"NH84","name":"NORTHWOOD","lat":43.207589,"lon":-71.221156,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

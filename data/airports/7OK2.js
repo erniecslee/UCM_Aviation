@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OK2"]={"id":"7OK2","name":"SCOTT","lat":34.976444,"lon":-99.499811,"elevation":1650,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

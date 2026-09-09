@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI72"]={"id":"WI72","name":"VALHALLA","lat":42.761347,"lon":-88.042328,"elevation":800,"region":"K5","runways":[{"id":"RW09","lat":42.761722,"lon":-88.047028,"length":2540,"course":97.0},{"id":"RW27","lat":42.760972,"lon":-88.037625,"length":2540,"course":277.0}],"procedures":{"D":{},"E":{},"F":{}}};

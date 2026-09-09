@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AA1"]={"id":"9AA1","name":"ELK RANCH","lat":61.682031,"lon":-149.290736,"elevation":800,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

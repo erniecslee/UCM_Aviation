@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV19"]={"id":"WV19","name":"MOORE FLD","lat":39.444814,"lon":-79.689222,"elevation":1860,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

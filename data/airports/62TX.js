@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62TX"]={"id":"62TX","name":"LOS CERRITO","lat":29.487667,"lon":-100.014972,"elevation":1265,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

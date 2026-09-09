@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT44"]={"id":"WT44","name":"MICHAIR","lat":46.177347,"lon":-123.383456,"elevation":7,"region":"K1","runways":[{"id":"RW07","lat":46.177378,"lon":-123.387389,"length":1993,"course":75.6},{"id":"RW25","lat":46.177342,"lon":-123.379522,"length":1993,"course":255.6}],"procedures":{"D":{},"E":{},"F":{}}};

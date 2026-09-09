@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70S"]={"id":"70S","name":"MEAD FLYING SERVICE","lat":47.787186,"lon":-117.358183,"elevation":1905,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FL9"]={"id":"4FL9","name":"GORE","lat":28.14335,"lon":-81.647019,"elevation":135,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK94"]={"id":"OK94","name":"SANDRIDGE AIRPARK INC","lat":36.354578,"lon":-95.803222,"elevation":690,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17NK"]={"id":"17NK","name":"RE-DUN FLD","lat":42.456944,"lon":-76.950833,"elevation":1351,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43PA"]={"id":"43PA","name":"KOLB","lat":40.159997,"lon":-75.545672,"elevation":290,"region":"K6","runways":[{"id":"RW09","lat":40.160739,"lon":-75.550372,"length":2683,"course":112.6},{"id":"RW27","lat":40.159256,"lon":-75.540969,"length":2683,"course":292.6}],"procedures":{"D":{},"E":{},"F":{}}};

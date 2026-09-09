@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50MT"]={"id":"50MT","name":"FLY WM","lat":45.628611,"lon":-108.828333,"elevation":3332,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

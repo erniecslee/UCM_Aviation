@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CL6"]={"id":"8CL6","name":"MOLLER","lat":39.2885,"lon":-122.189144,"elevation":85,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

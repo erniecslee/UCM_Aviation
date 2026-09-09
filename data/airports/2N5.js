@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2N5"]={"id":"2N5","name":"KAMPEL","lat":40.049511,"lon":-76.97715,"elevation":611,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

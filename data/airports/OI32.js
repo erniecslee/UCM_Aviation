@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI32"]={"id":"OI32","name":"STONEY'S","lat":41.168111,"lon":-81.287883,"elevation":1105,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

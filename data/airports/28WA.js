@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28WA"]={"id":"28WA","name":"ROBERT L DELANOY","lat":45.730394,"lon":-122.734544,"elevation":30,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

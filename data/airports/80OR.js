@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80OR"]={"id":"80OR","name":"WILDERNESS","lat":42.364319,"lon":-120.965817,"elevation":4540,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

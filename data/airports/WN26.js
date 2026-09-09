@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN26"]={"id":"WN26","name":"SCHOEPFLIN","lat":46.884969,"lon":-117.076872,"elevation":2607,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

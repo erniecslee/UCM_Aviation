@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["B18"]={"id":"B18","name":"ALTON BAY SPB & ICE RWY","lat":43.477583,"lon":-71.237,"elevation":504,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

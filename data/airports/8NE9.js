@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NE9"]={"id":"8NE9","name":"C A M P","lat":41.390292,"lon":-97.964503,"elevation":1675,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

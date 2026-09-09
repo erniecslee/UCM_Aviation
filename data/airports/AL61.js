@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL61"]={"id":"AL61","name":"ELK HAVEN","lat":34.8281,"lon":-87.215825,"elevation":705,"region":"K7","runways":[{"id":"RW01","lat":34.825519,"lon":-87.216311,"length":1900,"course":12.6},{"id":"RW19","lat":34.830678,"lon":-87.215339,"length":1900,"course":192.6}],"procedures":{"D":{},"E":{},"F":{}}};

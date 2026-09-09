@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92TA"]={"id":"92TA","name":"DRENNAN FARM","lat":26.121186,"lon":-97.428039,"elevation":27,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

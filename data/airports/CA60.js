@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA60"]={"id":"CA60","name":"DEER CREEK RANCH","lat":39.949881,"lon":-121.996928,"elevation":280,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

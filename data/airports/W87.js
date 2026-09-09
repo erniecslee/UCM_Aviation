@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W87"]={"id":"W87","name":"BUZZWICK","lat":42.017878,"lon":-83.372161,"elevation":609,"region":"K5","runways":[{"id":"RW01","lat":42.014344,"lon":-83.372078,"length":2575,"course":6.3},{"id":"RW19","lat":42.019217,"lon":-83.372192,"length":2575,"course":186.3}],"procedures":{"D":{},"E":{},"F":{}}};

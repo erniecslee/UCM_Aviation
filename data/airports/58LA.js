@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58LA"]={"id":"58LA","name":"SYDAL ACRES","lat":30.919625,"lon":-91.166775,"elevation":200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

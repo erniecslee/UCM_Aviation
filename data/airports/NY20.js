@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY20"]={"id":"NY20","name":"NELLIS FLD","lat":42.962725,"lon":-74.682061,"elevation":700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

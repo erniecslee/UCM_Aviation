@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4CA7"]={"id":"4CA7","name":"JOHNSEN","lat":39.670717,"lon":-121.885811,"elevation":190,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

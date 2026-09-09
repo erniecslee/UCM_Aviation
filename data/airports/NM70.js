@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM70"]={"id":"NM70","name":"RODEO","lat":31.95,"lon":-109.041667,"elevation":4157,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

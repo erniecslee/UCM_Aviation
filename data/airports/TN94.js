@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN94"]={"id":"TN94","name":"ROBERTSON FARM","lat":36.001111,"lon":-84.074444,"elevation":1020,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

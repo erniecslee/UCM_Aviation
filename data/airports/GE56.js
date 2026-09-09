@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE56"]={"id":"GE56","name":"SMITH FLD","lat":33.676014,"lon":-83.261242,"elevation":511,"region":"K7","runways":[{"id":"RW03","lat":33.672753,"lon":-83.262964,"length":2594,"course":30.1},{"id":"RW21","lat":33.679275,"lon":-83.259522,"length":2594,"course":210.1}],"procedures":{"D":{},"E":{},"F":{}}};

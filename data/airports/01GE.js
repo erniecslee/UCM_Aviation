@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01GE"]={"id":"01GE","name":"THE FARM","lat":32.675153,"lon":-82.770994,"elevation":369,"region":"K7","runways":[{"id":"RW10","lat":32.675361,"lon":-82.775147,"length":2560,"course":99.9},{"id":"RW28","lat":32.674942,"lon":-82.766844,"length":2560,"course":279.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNEN"]={"id":"KNEN","name":"WHITEHOUSE NOLF","lat":30.349494,"lon":-81.866989,"elevation":97,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

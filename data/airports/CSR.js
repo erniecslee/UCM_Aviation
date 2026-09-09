@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CSR"]={"id":"CSR","name":"CAMPBELL AIRSTRIP","lat":61.1587,"lon":-149.780611,"elevation":286,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

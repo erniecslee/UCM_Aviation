@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12SC"]={"id":"12SC","name":"OVER THE HILL","lat":34.141389,"lon":-80.746667,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

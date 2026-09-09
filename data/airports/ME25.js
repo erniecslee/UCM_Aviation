@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME25"]={"id":"ME25","name":"SUNRISE FARMS","lat":47.16615,"lon":-68.391986,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

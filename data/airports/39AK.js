@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39AK"]={"id":"39AK","name":"KROENKE STRIP","lat":61.586028,"lon":-149.235981,"elevation":340,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

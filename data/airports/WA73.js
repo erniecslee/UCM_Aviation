@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA73"]={"id":"WA73","name":"SMITH","lat":48.525,"lon":-117.853333,"elevation":2240,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

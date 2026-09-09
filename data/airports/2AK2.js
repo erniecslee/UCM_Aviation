@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK2"]={"id":"2AK2","name":"CLEAR CREEK","lat":64.453458,"lon":-147.563492,"elevation":660,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

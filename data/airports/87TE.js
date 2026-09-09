@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87TE"]={"id":"87TE","name":"MOSPINO","lat":29.451908,"lon":-95.865508,"elevation":100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

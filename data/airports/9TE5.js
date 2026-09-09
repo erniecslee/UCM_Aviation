@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TE5"]={"id":"9TE5","name":"KALT RANCH","lat":28.154456,"lon":-96.976933,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y46"]={"id":"Y46","name":"BEDFORD MUNI","lat":40.637767,"lon":-94.729414,"elevation":1201,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

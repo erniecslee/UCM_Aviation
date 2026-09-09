@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA81"]={"id":"TA81","name":"MORNING STAR RANCH","lat":29.793822,"lon":-100.879264,"elevation":1500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71MO"]={"id":"71MO","name":"FAMULINER FARMS","lat":39.291967,"lon":-93.384097,"elevation":655,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

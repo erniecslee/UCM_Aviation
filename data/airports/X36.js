@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X36"]={"id":"X36","name":"BUCHAN","lat":26.990081,"lon":-82.374017,"elevation":15,"region":"K7","runways":[{"id":"RW12","lat":26.991747,"lon":-82.377019,"length":2040,"course":123.8},{"id":"RW30","lat":26.987689,"lon":-82.3697,"length":2040,"course":303.8}],"procedures":{"D":{},"E":{},"F":{}}};

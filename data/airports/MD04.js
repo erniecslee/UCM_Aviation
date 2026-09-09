@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD04"]={"id":"MD04","name":"ROSSNECK","lat":38.568889,"lon":-76.235833,"elevation":5,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE10"]={"id":"TE10","name":"PIERCE","lat":33.815378,"lon":-98.2281,"elevation":885,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

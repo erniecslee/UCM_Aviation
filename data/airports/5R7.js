@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5R7"]={"id":"5R7","name":"ROY E RAY","lat":30.45525,"lon":-88.211194,"elevation":87,"region":"K7","runways":[{"id":"RW18","lat":30.457997,"lon":-88.211239,"length":2000,"course":177.0},{"id":"RW36","lat":30.452497,"lon":-88.211125,"length":2000,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

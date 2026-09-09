@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07VA"]={"id":"07VA","name":"ALPHA HOTEL","lat":36.821889,"lon":-78.766861,"elevation":440,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

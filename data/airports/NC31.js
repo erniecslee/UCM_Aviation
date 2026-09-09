@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC31"]={"id":"NC31","name":"QUIET ACRES","lat":35.764858,"lon":-80.024208,"elevation":740,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

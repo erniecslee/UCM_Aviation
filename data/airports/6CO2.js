@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CO2"]={"id":"6CO2","name":"MESAWOOD","lat":38.961111,"lon":-107.957778,"elevation":7200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

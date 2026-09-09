@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN77"]={"id":"MN77","name":"JERGER'S FLD","lat":46.923575,"lon":-96.715633,"elevation":900,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

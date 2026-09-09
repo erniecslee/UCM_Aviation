@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75TA"]={"id":"75TA","name":"COLEMAN CATTLE COMPANY NR 1","lat":32.534508,"lon":-101.725433,"elevation":2820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

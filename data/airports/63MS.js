@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63MS"]={"id":"63MS","name":"INMON FLD","lat":34.338933,"lon":-89.002406,"elevation":370,"region":"K7","runways":[{"id":"RW07","lat":34.338053,"lon":-89.005939,"length":2228,"course":75.9},{"id":"RW25","lat":34.339814,"lon":-88.998872,"length":2228,"course":255.9}],"procedures":{"D":{},"E":{},"F":{}}};

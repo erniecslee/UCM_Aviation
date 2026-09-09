@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD70"]={"id":"FD70","name":"RIVER ACRES","lat":27.325322,"lon":-81.028675,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

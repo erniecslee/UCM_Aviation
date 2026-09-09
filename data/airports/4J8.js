@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4J8"]={"id":"4J8","name":"TREUTLEN COUNTY","lat":32.387389,"lon":-82.563389,"elevation":345,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

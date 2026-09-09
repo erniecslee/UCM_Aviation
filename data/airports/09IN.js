@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09IN"]={"id":"09IN","name":"GORDON","lat":41.120881,"lon":-85.424978,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

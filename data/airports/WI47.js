@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI47"]={"id":"WI47","name":"TIMBERLINE","lat":44.433311,"lon":-89.150111,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

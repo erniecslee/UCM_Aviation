@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12OR"]={"id":"12OR","name":"SKINNER RANCH","lat":42.951267,"lon":-117.282092,"elevation":4273,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

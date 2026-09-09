@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38IN"]={"id":"38IN","name":"FULLER FLD","lat":39.901986,"lon":-86.36305,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LC0"]={"id":"LC0","name":"LEFT COULEE","lat":47.885278,"lon":-109.022778,"elevation":3150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

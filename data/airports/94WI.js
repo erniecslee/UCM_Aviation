@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94WI"]={"id":"94WI","name":"THE FARM","lat":44.4825,"lon":-91.6225,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

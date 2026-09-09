@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M35"]={"id":"M35","name":"LINDEY'S LANDING WEST","lat":47.174381,"lon":-113.480078,"elevation":3993,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

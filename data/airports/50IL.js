@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50IL"]={"id":"50IL","name":"MIDLAND","lat":42.488906,"lon":-88.174253,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

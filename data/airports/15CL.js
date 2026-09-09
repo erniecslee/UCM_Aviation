@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15CL"]={"id":"15CL","name":"HUNT FARMS","lat":37.342719,"lon":-120.403522,"elevation":223,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

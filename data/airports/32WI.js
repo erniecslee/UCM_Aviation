@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32WI"]={"id":"32WI","name":"DALONIA","lat":44.316369,"lon":-88.700942,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

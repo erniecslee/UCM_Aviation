@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58KS"]={"id":"58KS","name":"BURGER'S VALLEY","lat":38.918328,"lon":-97.707922,"elevation":1325,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

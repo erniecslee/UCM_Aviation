@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NE1"]={"id":"0NE1","name":"RUNNER LANDING AREA","lat":42.407211,"lon":-101.931564,"elevation":3760,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

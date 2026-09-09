@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY18"]={"id":"NY18","name":"NENO","lat":42.448683,"lon":-76.616892,"elevation":1283,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT01"]={"id":"CT01","name":"WHELAN FARMS","lat":41.666208,"lon":-73.189003,"elevation":1020,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

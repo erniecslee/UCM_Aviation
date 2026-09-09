@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ65"]={"id":"NJ65","name":"JOHN E ROGERS","lat":40.853433,"lon":-74.929614,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY57"]={"id":"MY57","name":"FEDOR","lat":45.763297,"lon":-94.457503,"elevation":1175,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

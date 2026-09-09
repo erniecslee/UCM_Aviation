@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60OK"]={"id":"60OK","name":"LAWLES","lat":35.502414,"lon":-98.509242,"elevation":1606,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

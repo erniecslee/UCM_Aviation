@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK25"]={"id":"OK25","name":"CHEROKEE RANCH","lat":35.813333,"lon":-95.753333,"elevation":710,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

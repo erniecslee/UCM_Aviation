@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91AK"]={"id":"91AK","name":"KUCERA","lat":61.576389,"lon":-149.943333,"elevation":175,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

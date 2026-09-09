@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50FL"]={"id":"50FL","name":"ZOLTAK LANDING","lat":30.853333,"lon":-87.239444,"elevation":245,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

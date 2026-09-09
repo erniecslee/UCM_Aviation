@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U98"]={"id":"U98","name":"IDAHO CITY USFS","lat":43.820728,"lon":-115.850942,"elevation":3920,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

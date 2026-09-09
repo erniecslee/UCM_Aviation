@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK93"]={"id":"AK93","name":"GROUSE RIDGE","lat":61.655181,"lon":-149.273489,"elevation":535,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

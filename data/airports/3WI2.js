@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI2"]={"id":"3WI2","name":"TESMER","lat":43.152775,"lon":-88.984553,"elevation":925,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

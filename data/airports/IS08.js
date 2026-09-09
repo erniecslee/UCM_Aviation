@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS08"]={"id":"IS08","name":"CURLESS","lat":40.262822,"lon":-90.236789,"elevation":620,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

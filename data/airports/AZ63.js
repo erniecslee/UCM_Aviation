@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ63"]={"id":"AZ63","name":"TWIN HAWKS AIRPARK","lat":32.527778,"lon":-111.195833,"elevation":2290,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

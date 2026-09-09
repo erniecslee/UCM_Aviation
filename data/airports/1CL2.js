@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CL2"]={"id":"1CL2","name":"ANCIENT VALLEY/PONTIOUS","lat":34.942475,"lon":-118.169797,"elevation":2610,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

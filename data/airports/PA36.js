@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA36"]={"id":"PA36","name":"STEFANIK","lat":40.452881,"lon":-75.203786,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

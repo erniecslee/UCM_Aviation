@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H63"]={"id":"H63","name":"HARLAN COUNTY LAKE","lat":40.058878,"lon":-99.281922,"elevation":1946,"region":"K3","runways":[{"id":"E","lat":40.058906,"lon":-99.292642,"length":6000,"course":82.0},{"id":"W","lat":40.058847,"lon":-99.271203,"length":6000,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

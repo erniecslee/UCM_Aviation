@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI05"]={"id":"MI05","name":"CROMPTONS STRIP","lat":43.166692,"lon":-83.787461,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

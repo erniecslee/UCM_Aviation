@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY97"]={"id":"MY97","name":"NIELSEN'S","lat":44.598019,"lon":-93.126881,"elevation":990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

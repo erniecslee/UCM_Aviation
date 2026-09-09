@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57FA"]={"id":"57FA","name":"LAKE X","lat":28.208625,"lon":-81.119231,"elevation":72,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

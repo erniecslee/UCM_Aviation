@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CL9"]={"id":"7CL9","name":"PERRYMAN","lat":38.696292,"lon":-120.731322,"elevation":2600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

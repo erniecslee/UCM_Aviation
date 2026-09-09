@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23KY"]={"id":"23KY","name":"BARNES FARM","lat":37.230833,"lon":-88.318611,"elevation":500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

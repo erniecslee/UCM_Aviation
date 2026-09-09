@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT03"]={"id":"MT03","name":"LAKESIDE","lat":47.993408,"lon":-114.224306,"elevation":3440,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

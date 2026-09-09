@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KL"]={"id":"2KL","name":"SUNRISE BEACH","lat":30.599222,"lon":-98.409222,"elevation":854,"region":"K4","runways":[{"id":"RW12","lat":30.601522,"lon":-98.412481,"length":2649,"course":122.0},{"id":"RW30","lat":30.596917,"lon":-98.405953,"length":2649,"course":302.0}],"procedures":{"D":{},"E":{},"F":{}}};

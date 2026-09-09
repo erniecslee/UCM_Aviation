@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O24"]={"id":"O24","name":"LEE VINING","lat":37.957739,"lon":-119.105811,"elevation":6802,"region":"K2","runways":[{"id":"RW15","lat":37.962861,"lon":-119.1079,"length":3920,"course":147.0},{"id":"RW33","lat":37.952617,"lon":-119.103722,"length":3920,"course":327.0}],"procedures":{"D":{},"E":{},"F":{}}};

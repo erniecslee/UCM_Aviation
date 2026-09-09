@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O09"]={"id":"O09","name":"ROUND VALLEY","lat":39.7905,"lon":-123.266333,"elevation":1434,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MN4"]={"id":"1MN4","name":"WILDHURST PINES","lat":44.917519,"lon":-93.608203,"elevation":928,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

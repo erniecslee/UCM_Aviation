@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY56"]={"id":"MY56","name":"ROBERTSON FLD","lat":47.252436,"lon":-92.859361,"elevation":1290,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

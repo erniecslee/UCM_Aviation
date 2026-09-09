@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD65"]={"id":"SD65","name":"WHIPPLE RANCH","lat":45.437739,"lon":-96.9998,"elevation":1462,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

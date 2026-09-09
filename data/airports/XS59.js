@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS59"]={"id":"XS59","name":"MELLON RANCH","lat":28.280839,"lon":-97.211381,"elevation":38,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

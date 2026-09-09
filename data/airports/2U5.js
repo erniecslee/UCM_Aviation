@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2U5"]={"id":"2U5","name":"SHEARER /USFS/","lat":45.9895,"lon":-114.841278,"elevation":2634,"region":"K1","runways":[{"id":"RW18","lat":45.992064,"lon":-114.8399,"length":2000,"course":183.0},{"id":"RW36","lat":45.986928,"lon":-114.842658,"length":2000,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

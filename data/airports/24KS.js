@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24KS"]={"id":"24KS","name":"WEISS ACRES","lat":37.524328,"lon":-97.603186,"elevation":1302,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

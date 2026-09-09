@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6Y8"]={"id":"6Y8","name":"WELKE","lat":45.721292,"lon":-85.519725,"elevation":664,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OK8"]={"id":"9OK8","name":"WOODS ACRES","lat":36.075608,"lon":-97.906167,"elevation":1150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44MU"]={"id":"44MU","name":"LYNCH FLD","lat":36.908056,"lon":-94.31,"elevation":1170,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

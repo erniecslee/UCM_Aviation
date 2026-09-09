@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR77"]={"id":"NR77","name":"JOHNSON FLD","lat":35.486111,"lon":-78.850278,"elevation":265,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

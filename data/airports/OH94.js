@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH94"]={"id":"OH94","name":"LA RUE","lat":40.021792,"lon":-81.482378,"elevation":1010,"region":"K5","runways":[{"id":"RW10","lat":40.022111,"lon":-81.484531,"length":1229,"course":109.1},{"id":"RW28","lat":40.021472,"lon":-81.480222,"length":1229,"course":289.1}],"procedures":{"D":{},"E":{},"F":{}}};

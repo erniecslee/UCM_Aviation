@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK74"]={"id":"NK74","name":"MATCH MATE","lat":42.744514,"lon":-76.663558,"elevation":840,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

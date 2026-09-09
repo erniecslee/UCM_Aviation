@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6ND3"]={"id":"6ND3","name":"LISBURG","lat":47.069694,"lon":-96.940639,"elevation":885,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

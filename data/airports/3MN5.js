@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MN5"]={"id":"3MN5","name":"SUNNYSIDE","lat":46.971711,"lon":-94.568386,"elevation":1380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

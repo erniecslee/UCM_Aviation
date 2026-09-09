@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV40"]={"id":"WV40","name":"ST MARY'S","lat":39.413686,"lon":-81.199836,"elevation":587,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

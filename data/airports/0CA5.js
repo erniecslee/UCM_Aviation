@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CA5"]={"id":"0CA5","name":"HOFFMAN","lat":33.143097,"lon":-116.7453,"elevation":3100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

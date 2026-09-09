@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA44"]={"id":"TA44","name":"PUESTA DEL SOL","lat":27.0756,"lon":-98.601686,"elevation":448,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TA4"]={"id":"3TA4","name":"TIN TOP RANCH","lat":31.485833,"lon":-98.976111,"elevation":1300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

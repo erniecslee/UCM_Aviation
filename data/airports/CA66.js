@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA66"]={"id":"CA66","name":"MONTEREY BAY ACADEMY","lat":36.906064,"lon":-121.843008,"elevation":70,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

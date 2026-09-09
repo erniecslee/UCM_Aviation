@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ43"]={"id":"AZ43","name":"HIDDEN VALLEY","lat":33.054167,"lon":-112.173611,"elevation":1245,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

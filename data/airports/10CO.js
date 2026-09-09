@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10CO"]={"id":"10CO","name":"MACK MESA","lat":39.268111,"lon":-108.864028,"elevation":4724,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

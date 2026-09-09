@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN6"]={"id":"4TN6","name":"HOLDER FLD","lat":36.247183,"lon":-85.511583,"elevation":1110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88ND"]={"id":"88ND","name":"GOODMAN STRIP","lat":48.708883,"lon":-97.993989,"elevation":1560,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MS5"]={"id":"4MS5","name":"BIRD NEST","lat":31.001428,"lon":-88.516975,"elevation":311,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48PS"]={"id":"48PS","name":"BLUE HAVEN","lat":40.027919,"lon":-78.094336,"elevation":1141,"region":"K6","runways":[{"id":"RW04","lat":40.026472,"lon":-78.095356,"length":1200,"course":38.7},{"id":"RW22","lat":40.029369,"lon":-78.093317,"length":1200,"course":218.7}],"procedures":{"D":{},"E":{},"F":{}}};

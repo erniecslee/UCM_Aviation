@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN01"]={"id":"PN01","name":"CEDAR RUN","lat":40.588122,"lon":-79.905886,"elevation":1180,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

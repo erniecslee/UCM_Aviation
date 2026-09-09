@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68NK"]={"id":"68NK","name":"THIBERT FLD","lat":44.567383,"lon":-75.638333,"elevation":345,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

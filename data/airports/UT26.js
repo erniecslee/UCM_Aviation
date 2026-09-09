@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT26"]={"id":"UT26","name":"BRYCE WOODLAND ESTATES LANDING","lat":37.584425,"lon":-112.392428,"elevation":7600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

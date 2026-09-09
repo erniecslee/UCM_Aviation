@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC84"]={"id":"NC84","name":"ELLIS","lat":36.042561,"lon":-77.377219,"elevation":91,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

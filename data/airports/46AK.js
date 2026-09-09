@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46AK"]={"id":"46AK","name":"BEAR COVE FARM","lat":59.738289,"lon":-151.029894,"elevation":115,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

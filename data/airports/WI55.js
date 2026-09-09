@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI55"]={"id":"WI55","name":"BROKEN PROP","lat":43.986092,"lon":-88.98345,"elevation":767,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

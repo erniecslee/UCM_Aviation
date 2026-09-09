@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WN0"]={"id":"1WN0","name":"SCHMIDT RANCH","lat":48.933381,"lon":-117.749808,"elevation":1335,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

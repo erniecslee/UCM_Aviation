@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL04"]={"id":"FL04","name":"PATE LAKE","lat":30.691317,"lon":-85.755122,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

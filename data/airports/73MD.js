@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73MD"]={"id":"73MD","name":"SWAN CREEK","lat":39.175278,"lon":-76.2425,"elevation":26,"region":"K6","runways":[{"id":"RW18","lat":39.178056,"lon":-76.2425,"length":2024,"course":191.2},{"id":"RW36","lat":39.1725,"lon":-76.2425,"length":2024,"course":11.2}],"procedures":{"D":{},"E":{},"F":{}}};

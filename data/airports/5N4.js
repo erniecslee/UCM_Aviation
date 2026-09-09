@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5N4"]={"id":"5N4","name":"SKY HAVEN","lat":46.626861,"lon":-97.620233,"elevation":1151,"region":"K3","runways":[{"id":"RW12","lat":46.628864,"lon":-97.625772,"length":2855,"course":118.9},{"id":"RW30","lat":46.624278,"lon":-97.616561,"length":2855,"course":298.9}],"procedures":{"D":{},"E":{},"F":{}}};

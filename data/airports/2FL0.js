@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FL0"]={"id":"2FL0","name":"CRYSTAL VILLAGE","lat":30.456861,"lon":-85.686039,"elevation":113,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

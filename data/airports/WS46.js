@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS46"]={"id":"WS46","name":"J & L AVIATION","lat":43.830956,"lon":-88.888722,"elevation":975,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

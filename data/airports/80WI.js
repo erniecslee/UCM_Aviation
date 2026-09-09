@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80WI"]={"id":"80WI","name":"SPRING CREEK","lat":44.023036,"lon":-89.13845,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

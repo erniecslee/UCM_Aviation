@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK"]={"id":"4AK","name":"LIVENGOOD CAMP","lat":65.467269,"lon":-148.653747,"elevation":428,"region":"PA","runways":[{"id":"RW15","lat":65.471336,"lon":-148.655,"length":3000,"course":145.7},{"id":"RW33","lat":65.4632,"lon":-148.652494,"length":3000,"course":325.7}],"procedures":{"D":{},"E":{},"F":{}}};

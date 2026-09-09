@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3CO4"]={"id":"3CO4","name":"TERCIO RANCH AIRSTRIP","lat":37.070853,"lon":-105.018611,"elevation":7957,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

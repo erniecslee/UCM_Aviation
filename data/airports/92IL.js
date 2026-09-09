@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92IL"]={"id":"92IL","name":"YORK RLA","lat":42.477133,"lon":-88.703839,"elevation":992,"region":"K5","runways":[{"id":"RW18","lat":42.480289,"lon":-88.703886,"length":2300,"course":182.8},{"id":"RW36","lat":42.473978,"lon":-88.703792,"length":2300,"course":2.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25GA"]={"id":"25GA","name":"JJ'S RANCH","lat":33.659553,"lon":-84.662989,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

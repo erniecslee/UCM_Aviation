@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS90"]={"id":"XS90","name":"FENTRESS AIRPARK","lat":29.768281,"lon":-97.775278,"elevation":460,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

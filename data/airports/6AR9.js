@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AR9"]={"id":"6AR9","name":"PINE MOUNTAIN AIRPARK","lat":36.415278,"lon":-92.694444,"elevation":880,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

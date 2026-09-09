@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE82"]={"id":"NE82","name":"NOLTE FARMS","lat":40.932767,"lon":-95.999947,"elevation":1240,"region":"K3","runways":[{"id":"RW01","lat":40.929508,"lon":-96.001361,"length":2500,"course":13.0},{"id":"RW19","lat":40.936025,"lon":-95.998531,"length":2500,"course":193.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37V"]={"id":"37V","name":"ARAPAHOE MUNI","lat":40.341583,"lon":-99.907806,"elevation":2273,"region":"K3","runways":[{"id":"RW15","lat":40.345536,"lon":-99.90935,"length":3000,"course":155.0},{"id":"RW33","lat":40.337644,"lon":-99.906261,"length":3000,"course":335.0}],"procedures":{"D":{},"E":{},"F":{}}};

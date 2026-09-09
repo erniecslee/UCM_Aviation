@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX62"]={"id":"TX62","name":"RHODES RANCH","lat":32.633469,"lon":-95.439122,"elevation":405,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

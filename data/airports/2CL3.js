@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CL3"]={"id":"2CL3","name":"LONGBELL RANCH","lat":41.642089,"lon":-121.890281,"elevation":4607,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

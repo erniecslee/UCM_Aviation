@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MN3"]={"id":"0MN3","name":"LOWER HAY LAKE","lat":46.677778,"lon":-94.2925,"elevation":1230,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

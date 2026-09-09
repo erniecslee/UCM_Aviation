@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59AK"]={"id":"59AK","name":"PENDEROSA","lat":61.631781,"lon":-149.340611,"elevation":520,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS66"]={"id":"XS66","name":"RABB DUSTING INC","lat":27.803914,"lon":-97.743608,"elevation":83,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

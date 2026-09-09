@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17WI"]={"id":"17WI","name":"HA-RAIL","lat":43.036114,"lon":-88.893164,"elevation":885,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03FL"]={"id":"03FL","name":"GREENS FARM FLD","lat":26.705478,"lon":-82.052369,"elevation":15,"region":"K7","runways":[{"id":"RW14","lat":26.7061,"lon":-82.052981,"length":903,"course":144.8},{"id":"RW32","lat":26.704703,"lon":-82.051606,"length":903,"course":324.8}],"procedures":{"D":{},"E":{},"F":{}}};

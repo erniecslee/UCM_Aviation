@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3W3"]={"id":"3W3","name":"KENTMORR AIRPARK","lat":38.918111,"lon":-76.358833,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

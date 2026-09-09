@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL81"]={"id":"IL81","name":"BERNS","lat":40.936144,"lon":-88.041711,"elevation":658,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

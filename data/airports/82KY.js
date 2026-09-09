@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82KY"]={"id":"82KY","name":"WOODLEDGE FARM","lat":38.283403,"lon":-85.481903,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

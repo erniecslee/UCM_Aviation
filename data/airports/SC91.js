@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC91"]={"id":"SC91","name":"BELLS BRANCH","lat":33.306547,"lon":-80.84815,"elevation":95,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

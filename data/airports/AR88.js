@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR88"]={"id":"AR88","name":"POE'S","lat":35.054808,"lon":-92.354042,"elevation":295,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

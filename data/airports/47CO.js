@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47CO"]={"id":"47CO","name":"MILE HI","lat":40.899983,"lon":-104.833858,"elevation":5270,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

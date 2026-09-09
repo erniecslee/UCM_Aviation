@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO07"]={"id":"MO07","name":"ADVENTURES ALOFT","lat":38.872544,"lon":-91.300156,"elevation":871,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

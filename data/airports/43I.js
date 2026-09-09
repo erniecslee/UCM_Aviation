@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43I"]={"id":"43I","name":"MISSISSINEWA RESERVOIR LANDING","lat":40.703653,"lon":-85.932489,"elevation":737,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

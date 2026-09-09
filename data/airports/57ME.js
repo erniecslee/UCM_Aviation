@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57ME"]={"id":"57ME","name":"DYER'S LANDING","lat":43.917778,"lon":-70.854444,"elevation":441,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

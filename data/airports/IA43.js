@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA43"]={"id":"IA43","name":"STAGECOACH","lat":41.6052,"lon":-94.616178,"elevation":1395,"region":"K3","runways":[{"id":"RW04","lat":41.603278,"lon":-94.617928,"length":1700,"course":33.4},{"id":"RW22","lat":41.607125,"lon":-94.614422,"length":1700,"course":213.4}],"procedures":{"D":{},"E":{},"F":{}}};

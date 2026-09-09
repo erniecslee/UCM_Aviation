@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV14"]={"id":"NV14","name":"JUNIPER","lat":41.355478,"lon":-114.230019,"elevation":5400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57NC"]={"id":"57NC","name":"SOSSAMON FLD","lat":35.426483,"lon":-83.458214,"elevation":1940,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

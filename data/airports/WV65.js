@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV65"]={"id":"WV65","name":"CARR","lat":39.449253,"lon":-80.011389,"elevation":1640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

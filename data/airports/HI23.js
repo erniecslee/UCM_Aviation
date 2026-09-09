@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["HI23"]={"id":"HI23","name":"MOUNTAIN VIEW AIRSTRIP","lat":19.547525,"lon":-155.108339,"elevation":1500,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT43"]={"id":"MT43","name":"KLIES AIR STRIP","lat":46.346319,"lon":-112.343628,"elevation":6300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

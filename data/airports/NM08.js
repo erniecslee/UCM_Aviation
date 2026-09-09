@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM08"]={"id":"NM08","name":"SOLO RANCH","lat":32.262589,"lon":-107.403908,"elevation":4200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

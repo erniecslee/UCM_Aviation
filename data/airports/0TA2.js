@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TA2"]={"id":"0TA2","name":"SMITH FARMS","lat":34.216739,"lon":-101.925458,"elevation":3487,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

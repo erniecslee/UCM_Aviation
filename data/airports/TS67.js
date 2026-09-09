@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS67"]={"id":"TS67","name":"KITTY HAWK FLYING FLD","lat":29.625228,"lon":-98.278067,"elevation":860,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

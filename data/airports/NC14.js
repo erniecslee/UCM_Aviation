@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC14"]={"id":"NC14","name":"BOONE INC","lat":36.196794,"lon":-81.63955,"elevation":3120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

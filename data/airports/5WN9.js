@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WN9"]={"id":"5WN9","name":"OTTMAN LANDING","lat":44.594411,"lon":-92.258511,"elevation":1150,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

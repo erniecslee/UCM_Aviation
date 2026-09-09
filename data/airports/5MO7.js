@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MO7"]={"id":"5MO7","name":"PILOTS POINT","lat":36.595811,"lon":-93.629758,"elevation":1020,"region":"K3","runways":[{"id":"RW05","lat":36.593756,"lon":-93.632767,"length":2315,"course":49.1},{"id":"RW23","lat":36.597881,"lon":-93.62675,"length":2315,"course":229.1}],"procedures":{"D":{},"E":{},"F":{}}};

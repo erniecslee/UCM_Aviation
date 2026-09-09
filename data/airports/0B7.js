@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0B7"]={"id":"0B7","name":"WARREN-SUGARBUSH","lat":44.117389,"lon":-72.827,"elevation":1470,"region":"K6","runways":[{"id":"RW04","lat":44.114364,"lon":-72.829517,"length":2575,"course":47.0},{"id":"RW22","lat":44.120419,"lon":-72.824461,"length":2575,"course":227.0}],"procedures":{"D":{},"E":{},"F":{}}};

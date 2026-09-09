@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR50"]={"id":"OR50","name":"LEHMAN FLD","lat":45.485675,"lon":-122.233978,"elevation":1003,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

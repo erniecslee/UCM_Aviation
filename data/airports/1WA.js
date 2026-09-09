@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WA"]={"id":"1WA","name":"SCOTT","lat":48.972144,"lon":-119.439333,"elevation":915,"region":"K1","runways":[{"id":"RW15W","lat":48.985278,"lon":-119.445278,"length":10000,"course":148.8},{"id":"RW33W","lat":48.959011,"lon":-119.433389,"length":10000,"course":328.8}],"procedures":{"D":{},"E":{},"F":{}}};

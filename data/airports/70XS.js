@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70XS"]={"id":"70XS","name":"RESTORATION RANCH","lat":29.993269,"lon":-98.043342,"elevation":840,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

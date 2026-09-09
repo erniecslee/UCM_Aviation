@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE85"]={"id":"TE85","name":"MARMACK","lat":30.342386,"lon":-95.661678,"elevation":295,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

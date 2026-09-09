@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FL7"]={"id":"7FL7","name":"LAZY S FARM","lat":29.875928,"lon":-82.641483,"elevation":89,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

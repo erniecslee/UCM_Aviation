@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9K6"]={"id":"9K6","name":"PATTY FLD","lat":37.800444,"lon":-96.799028,"elevation":1385,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

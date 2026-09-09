@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77AR"]={"id":"77AR","name":"BENOIT AIRFIELD","lat":34.5975,"lon":-92.936944,"elevation":490,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

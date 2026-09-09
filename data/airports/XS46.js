@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS46"]={"id":"XS46","name":"GRITZ FLD","lat":28.630675,"lon":-97.385894,"elevation":182,"region":"K4","runways":[{"id":"RW18","lat":28.6352,"lon":-97.385939,"length":3291,"course":176.6},{"id":"RW36","lat":28.62615,"lon":-97.38585,"length":3291,"course":356.6}],"procedures":{"D":{},"E":{},"F":{}}};

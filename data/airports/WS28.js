@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS28"]={"id":"WS28","name":"COLEMAN","lat":43.553594,"lon":-89.389842,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24R"]={"id":"24R","name":"DILLEY AIRPARK","lat":28.6855,"lon":-99.189083,"elevation":542,"region":"K4","runways":[{"id":"RW12","lat":28.688483,"lon":-99.193183,"length":3400,"course":121.0},{"id":"RW30","lat":28.682542,"lon":-99.184994,"length":3400,"course":301.0}],"procedures":{"D":{},"E":{},"F":{}}};

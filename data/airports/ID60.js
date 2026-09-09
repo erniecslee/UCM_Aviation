@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID60"]={"id":"ID60","name":"FOUNTAINS","lat":46.713219,"lon":-116.997108,"elevation":2550,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

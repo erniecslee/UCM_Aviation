@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD78"]={"id":"FD78","name":"KENNEDY","lat":28.603053,"lon":-81.849522,"elevation":94,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

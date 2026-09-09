@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM56"]={"id":"NM56","name":"MYSTIC BLUFFS","lat":35.165311,"lon":-108.458961,"elevation":6980,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

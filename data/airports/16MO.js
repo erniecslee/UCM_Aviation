@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16MO"]={"id":"16MO","name":"FINDLEY FLD","lat":38.405606,"lon":-91.157369,"elevation":755,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

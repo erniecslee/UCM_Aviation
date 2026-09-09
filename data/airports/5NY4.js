@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NY4"]={"id":"5NY4","name":"STANWIX HEIGHTS","lat":43.157569,"lon":-75.430728,"elevation":610,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

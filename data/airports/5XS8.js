@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XS8"]={"id":"5XS8","name":"L DAVIS RANCH","lat":29.503703,"lon":-100.295664,"elevation":1390,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

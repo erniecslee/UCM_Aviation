@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II54"]={"id":"II54","name":"GILTNER","lat":38.815892,"lon":-85.44635,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34ID"]={"id":"34ID","name":"FREEMAN CREEK","lat":46.570333,"lon":-116.343611,"elevation":3100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

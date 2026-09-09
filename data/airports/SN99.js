@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN99"]={"id":"SN99","name":"LAFLIN RANCH","lat":39.399997,"lon":-96.616953,"elevation":1190,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KQA"]={"id":"KQA","name":"AKUTAN","lat":54.1339,"lon":-165.778383,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

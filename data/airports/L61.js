@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L61"]={"id":"L61","name":"SHOSHONE","lat":35.968611,"lon":-116.269278,"elevation":1568,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

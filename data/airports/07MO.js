@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07MO"]={"id":"07MO","name":"LAKE SEXTON","lat":38.650014,"lon":-93.616881,"elevation":880,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

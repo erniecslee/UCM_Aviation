@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08B"]={"id":"08B","name":"MERRYMEETING FLD","lat":44.0,"lon":-69.887139,"elevation":61,"region":"K6","runways":[{"id":"RW14","lat":44.000939,"lon":-69.888742,"length":1935,"course":146.8},{"id":"RW32","lat":43.998592,"lon":-69.8847,"length":1935,"course":326.8}],"procedures":{"D":{},"E":{},"F":{}}};

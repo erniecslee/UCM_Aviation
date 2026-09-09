@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AS04"]={"id":"AS04","name":"HUBBARDS","lat":34.566206,"lon":-90.998872,"elevation":183,"region":"K4","runways":[{"id":"RW18","lat":34.567297,"lon":-90.998864,"length":794,"course":181.5},{"id":"RW36","lat":34.565114,"lon":-90.998878,"length":794,"course":1.5}],"procedures":{"D":{},"E":{},"F":{}}};

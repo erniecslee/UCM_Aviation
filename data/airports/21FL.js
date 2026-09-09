@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21FL"]={"id":"21FL","name":"KINGS FLD","lat":28.508611,"lon":-81.800278,"elevation":98,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

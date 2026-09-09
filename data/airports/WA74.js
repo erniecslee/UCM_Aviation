@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA74"]={"id":"WA74","name":"QUINCY FLYING SERVICE","lat":47.226667,"lon":-119.909444,"elevation":1276,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

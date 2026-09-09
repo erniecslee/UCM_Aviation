@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49FD"]={"id":"49FD","name":"WATSON FARM","lat":30.611944,"lon":-84.641667,"elevation":275,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

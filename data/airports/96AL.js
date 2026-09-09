@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96AL"]={"id":"96AL","name":"BENT OAK","lat":30.827683,"lon":-87.889178,"elevation":87,"region":"K7","runways":[{"id":"RW18","lat":30.8296,"lon":-87.889403,"length":1400,"course":177.2},{"id":"RW36","lat":30.825769,"lon":-87.88895,"length":1400,"course":357.2}],"procedures":{"D":{},"E":{},"F":{}}};

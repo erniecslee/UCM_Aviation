@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2GE8"]={"id":"2GE8","name":"ANDY FIELDS","lat":33.464167,"lon":-84.663333,"elevation":980,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

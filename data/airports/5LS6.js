@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LS6"]={"id":"5LS6","name":"ARKLA FLYERS INC","lat":32.765136,"lon":-91.796236,"elevation":90,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

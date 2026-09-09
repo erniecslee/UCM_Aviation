@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA58"]={"id":"VA58","name":"RIVER BEND","lat":38.906111,"lon":-78.444444,"elevation":606,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

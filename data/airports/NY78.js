@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY78"]={"id":"NY78","name":"NAKED ACRES","lat":42.986528,"lon":-77.650833,"elevation":686,"region":"K6","runways":[{"id":"RW04","lat":42.984722,"lon":-77.651944,"length":1444,"course":35.3},{"id":"RW22","lat":42.988333,"lon":-77.649722,"length":1444,"course":215.3}],"procedures":{"D":{},"E":{},"F":{}}};

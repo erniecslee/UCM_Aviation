@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK77"]={"id":"OK77","name":"MOUND VALLEY FARM","lat":35.415878,"lon":-98.542486,"elevation":1628,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51FD"]={"id":"51FD","name":"TEX MERRITT PRIVATE AIRSTRIP","lat":28.667772,"lon":-81.918136,"elevation":95,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

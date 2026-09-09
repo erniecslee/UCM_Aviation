@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WI0"]={"id":"6WI0","name":"CUB ACRES","lat":45.180836,"lon":-91.988197,"elevation":1005,"region":"K5","runways":[{"id":"RW18","lat":45.18495,"lon":-91.988239,"length":3000,"course":177.6},{"id":"RW36","lat":45.176722,"lon":-91.988156,"length":3000,"course":357.6}],"procedures":{"D":{},"E":{},"F":{}}};

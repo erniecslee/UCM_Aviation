@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS62"]={"id":"WS62","name":"SUGAR RIDGE","lat":42.963608,"lon":-89.580956,"elevation":1080,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

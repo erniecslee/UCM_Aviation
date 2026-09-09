@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD14"]={"id":"MD14","name":"ROBINSON","lat":38.524289,"lon":-76.683572,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NC2"]={"id":"7NC2","name":"PINE ISLAND","lat":36.253494,"lon":-75.788525,"elevation":16,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

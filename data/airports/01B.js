@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01B"]={"id":"01B","name":"TIPPECANOE","lat":41.333056,"lon":-85.7675,"elevation":836,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

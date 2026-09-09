@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89TA"]={"id":"89TA","name":"SOARING CLUB OF HOUSTON","lat":30.192714,"lon":-95.963289,"elevation":308,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

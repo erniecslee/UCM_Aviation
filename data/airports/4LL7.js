@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LL7"]={"id":"4LL7","name":"WILLADAE FARMS","lat":42.000028,"lon":-88.666753,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

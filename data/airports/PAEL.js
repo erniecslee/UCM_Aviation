@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAEL"]={"id":"PAEL","name":"ELFIN COVE","lat":58.195183,"lon":-136.347392,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

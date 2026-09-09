@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI03"]={"id":"MI03","name":"GENTNER STRIP","lat":43.703561,"lon":-82.710081,"elevation":747,"region":"K5","runways":[{"id":"RW01","lat":43.701783,"lon":-82.709983,"length":1297,"course":5.7},{"id":"RW19","lat":43.705339,"lon":-82.710178,"length":1297,"course":185.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60LA"]={"id":"60LA","name":"HANNAH PLANTATION","lat":32.339156,"lon":-90.976878,"elevation":90,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

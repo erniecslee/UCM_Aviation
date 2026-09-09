@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA12"]={"id":"WA12","name":"ACME FLD","lat":48.709558,"lon":-122.177658,"elevation":301,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

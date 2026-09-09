@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97OR"]={"id":"97OR","name":"HI COUNTRY NO 2","lat":44.435158,"lon":-118.662447,"elevation":3840,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

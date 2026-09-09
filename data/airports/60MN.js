@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60MN"]={"id":"60MN","name":"FUHR FLYING SVC","lat":44.468014,"lon":-95.283614,"elevation":1070,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

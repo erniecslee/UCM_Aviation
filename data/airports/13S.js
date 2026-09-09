@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13S"]={"id":"13S","name":"LAKE LOUISE","lat":62.282856,"lon":-146.518867,"elevation":2362,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

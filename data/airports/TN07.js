@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN07"]={"id":"TN07","name":"HAWK HAVEN AIRFIELD","lat":35.687222,"lon":-86.606389,"elevation":775,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

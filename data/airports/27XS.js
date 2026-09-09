@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27XS"]={"id":"27XS","name":"SPORT FLYERS","lat":29.838125,"lon":-95.949972,"elevation":180,"region":"K4","runways":[{"id":"RW17","lat":29.84375,"lon":-95.95,"length":4091,"course":176.0},{"id":"RW35","lat":29.8325,"lon":-95.949944,"length":4091,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

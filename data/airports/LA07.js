@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA07"]={"id":"LA07","name":"PRICE","lat":30.5175,"lon":-90.008333,"elevation":50,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

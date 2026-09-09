@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA73"]={"id":"NA73","name":"WELSTAD FARMS AIRSTRIP","lat":48.563908,"lon":-101.000431,"elevation":1480,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

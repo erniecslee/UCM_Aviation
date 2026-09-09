@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO8"]={"id":"2MO8","name":"BOB WHITE","lat":37.872606,"lon":-93.990992,"elevation":882,"region":"K3","runways":[{"id":"RW09","lat":37.87265,"lon":-93.993289,"length":1326,"course":90.7},{"id":"RW27","lat":37.872558,"lon":-93.988697,"length":1326,"course":270.7}],"procedures":{"D":{},"E":{},"F":{}}};

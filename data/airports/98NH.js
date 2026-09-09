@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98NH"]={"id":"98NH","name":"BERRY POND","lat":43.759164,"lon":-71.393967,"elevation":562,"region":"K6","runways":[{"id":"RW02W","lat":43.757583,"lon":-71.393861,"length":2602,"course":14.4},{"id":"RW20W","lat":43.764722,"lon":-71.393806,"length":2602,"course":194.4}],"procedures":{"D":{},"E":{},"F":{}}};

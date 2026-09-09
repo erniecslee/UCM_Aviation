@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0U3"]={"id":"0U3","name":"MAHONEY CREEK USFS","lat":44.744583,"lon":-114.921389,"elevation":4618,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

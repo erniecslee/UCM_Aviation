@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35CN"]={"id":"35CN","name":"CAT AG AIR","lat":37.336711,"lon":-121.028089,"elevation":95,"region":"K2","runways":[{"id":"RW15","lat":37.340103,"lon":-121.02935,"length":2577,"course":150.9},{"id":"RW33","lat":37.333319,"lon":-121.026828,"length":2577,"course":331.0}],"procedures":{"D":{},"E":{},"F":{}}};

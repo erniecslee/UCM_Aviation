@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT84"]={"id":"MT84","name":"CANDYLANDS","lat":47.793367,"lon":-114.306592,"elevation":3020,"region":"K1","runways":[{"id":"RW01","lat":47.792092,"lon":-114.3066,"length":930,"course":347.5},{"id":"RW19","lat":47.794642,"lon":-114.306583,"length":930,"course":167.5}],"procedures":{"D":{},"E":{},"F":{}}};

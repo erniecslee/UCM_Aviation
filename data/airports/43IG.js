@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43IG"]={"id":"43IG","name":"GRAYLAND INTERGALACTIC","lat":46.801528,"lon":-124.072944,"elevation":280,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

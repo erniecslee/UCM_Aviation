@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9GA8"]={"id":"9GA8","name":"CHINABERRY RANCH","lat":32.693611,"lon":-82.898889,"elevation":295,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

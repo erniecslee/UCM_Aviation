@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OH3"]={"id":"1OH3","name":"MATHER FLD","lat":41.405564,"lon":-82.762303,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

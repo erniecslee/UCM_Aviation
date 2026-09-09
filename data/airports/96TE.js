@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96TE"]={"id":"96TE","name":"BODINE","lat":31.903028,"lon":-100.871611,"elevation":2623,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

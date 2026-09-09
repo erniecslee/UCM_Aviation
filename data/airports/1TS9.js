@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TS9"]={"id":"1TS9","name":"INDIANHEAD RANCH","lat":29.675319,"lon":-100.897194,"elevation":1545,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

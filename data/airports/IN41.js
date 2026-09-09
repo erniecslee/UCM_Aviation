@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN41"]={"id":"IN41","name":"FLYING U RANCH","lat":41.452742,"lon":-86.791061,"elevation":740,"region":"K5","runways":[{"id":"RW18","lat":41.4565,"lon":-86.791189,"length":2740,"course":180.5},{"id":"RW36","lat":41.450686,"lon":-86.790983,"length":2740,"course":0.5}],"procedures":{"D":{},"E":{},"F":{}}};

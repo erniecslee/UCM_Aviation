@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE26"]={"id":"TE26","name":"ARROW 'S' RANCH","lat":28.777911,"lon":-98.343714,"elevation":275,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

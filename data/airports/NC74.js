@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC74"]={"id":"NC74","name":"CAUSEY","lat":35.911786,"lon":-79.617644,"elevation":723,"region":"K7","runways":[{"id":"RW02","lat":35.906775,"lon":-79.619447,"length":3800,"course":24.0},{"id":"RW20","lat":35.916794,"lon":-79.615844,"length":3800,"course":204.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN34"]={"id":"SN34","name":"RUCKER","lat":37.575017,"lon":-97.491992,"elevation":1300,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC2"]={"id":"6NC2","name":"WILHELM","lat":35.51125,"lon":-80.558119,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92XA"]={"id":"92XA","name":"MORGENROTH","lat":28.718825,"lon":-96.925983,"elevation":73,"region":"K4","runways":[{"id":"RW14","lat":28.722003,"lon":-96.928544,"length":2835,"course":142.0},{"id":"RW32","lat":28.715647,"lon":-96.923422,"length":2835,"course":322.0}],"procedures":{"D":{},"E":{},"F":{}}};

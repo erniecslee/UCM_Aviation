@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OK6"]={"id":"0OK6","name":"ELLIS/HARVEY","lat":35.801717,"lon":-97.38615,"elevation":1220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

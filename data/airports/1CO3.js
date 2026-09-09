@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1CO3"]={"id":"1CO3","name":"BELLMORE FARMS","lat":40.704147,"lon":-104.797747,"elevation":5225,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR32"]={"id":"OR32","name":"HOOKS STRIP","lat":43.592222,"lon":-118.773056,"elevation":4133,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

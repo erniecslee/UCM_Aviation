@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD48"]={"id":"MD48","name":"LONG GREEN VALLEY AIRSTRIP","lat":39.473439,"lon":-76.500242,"elevation":325,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

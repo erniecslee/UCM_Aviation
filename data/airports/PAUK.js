@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAUK"]={"id":"PAUK","name":"ALAKANUK","lat":62.683056,"lon":-164.722194,"elevation":22,"region":"PA","runways":[{"id":"RW16","lat":62.688519,"lon":-164.722133,"length":4000,"course":163.3},{"id":"RW34","lat":62.677581,"lon":-164.722272,"length":4000,"course":343.3}],"procedures":{"D":{},"E":{},"F":{}}};

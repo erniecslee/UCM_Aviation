@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58MU"]={"id":"58MU","name":"ARKMO","lat":36.500597,"lon":-94.290808,"elevation":987,"region":"K3","runways":[{"id":"RW01","lat":36.497989,"lon":-94.291567,"length":1950,"course":12.3},{"id":"RW19","lat":36.503203,"lon":-94.29005,"length":1950,"course":192.3}],"procedures":{"D":{},"E":{},"F":{}}};

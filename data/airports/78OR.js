@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78OR"]={"id":"78OR","name":"CROWLEY RANCH AIRSTRIP","lat":43.307936,"lon":-117.894344,"elevation":4128,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS36"]={"id":"TS36","name":"SILVER WINGS","lat":30.219556,"lon":-99.140833,"elevation":2110,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

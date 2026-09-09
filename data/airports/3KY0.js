@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KY0"]={"id":"3KY0","name":"RENICK FLD","lat":38.052222,"lon":-84.219167,"elevation":951,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18MI"]={"id":"18MI","name":"R & R RANCH","lat":42.202069,"lon":-84.939356,"elevation":989,"region":"K5","runways":[{"id":"RW10","lat":42.202075,"lon":-84.943158,"length":2061,"course":96.3},{"id":"RW28","lat":42.202067,"lon":-84.935553,"length":2061,"course":276.3}],"procedures":{"D":{},"E":{},"F":{}}};

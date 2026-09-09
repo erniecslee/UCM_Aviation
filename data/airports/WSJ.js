@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WSJ"]={"id":"WSJ","name":"SAN JUAN /UGANIK/","lat":57.730375,"lon":-153.320597,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

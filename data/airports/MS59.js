@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS59"]={"id":"MS59","name":"VALLEY OF THE MOON","lat":31.997,"lon":-90.842167,"elevation":125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

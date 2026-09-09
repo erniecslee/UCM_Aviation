@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["R33"]={"id":"R33","name":"WAKONDA BEACH STATE","lat":44.384564,"lon":-124.085119,"elevation":41,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

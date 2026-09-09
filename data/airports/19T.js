@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19T"]={"id":"19T","name":"TAN TAR A RESORT","lat":38.133367,"lon":-92.733519,"elevation":659,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

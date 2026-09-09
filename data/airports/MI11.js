@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI11"]={"id":"MI11","name":"CRIPPEN FLD","lat":42.534203,"lon":-84.801375,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

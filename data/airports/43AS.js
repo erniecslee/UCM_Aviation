@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43AS"]={"id":"43AS","name":"GRIFFIN","lat":34.448611,"lon":-90.661806,"elevation":176,"region":"K4","runways":[{"id":"RW17","lat":34.452222,"lon":-90.6625,"length":2662,"course":172.3},{"id":"RW35","lat":34.445,"lon":-90.661111,"length":2662,"course":352.3}],"procedures":{"D":{},"E":{},"F":{}}};

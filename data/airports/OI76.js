@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI76"]={"id":"OI76","name":"BIEBER'S","lat":40.984444,"lon":-80.691111,"elevation":1020,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

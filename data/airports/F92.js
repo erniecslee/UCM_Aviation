@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F92"]={"id":"F92","name":"KINGFISHER","lat":35.876672,"lon":-97.952939,"elevation":1072,"region":"K4","runways":[{"id":"RW18","lat":35.880517,"lon":-97.952956,"length":2800,"course":173.0},{"id":"RW36","lat":35.872825,"lon":-97.952919,"length":2800,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK10"]={"id":"AK10","name":"AK-10 AIRSTRIP","lat":61.717222,"lon":-150.109444,"elevation":210,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

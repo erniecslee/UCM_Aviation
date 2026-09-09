@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KA"]={"id":"8KA","name":"TATITNA","lat":62.293286,"lon":-153.361953,"elevation":1490,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

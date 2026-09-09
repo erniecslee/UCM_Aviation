@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15MT"]={"id":"15MT","name":"SAUBAK","lat":48.500417,"lon":-105.909722,"elevation":2701,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

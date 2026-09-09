@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NY1"]={"id":"5NY1","name":"STONEWALL PASTURES","lat":42.399803,"lon":-74.906269,"elevation":2380,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

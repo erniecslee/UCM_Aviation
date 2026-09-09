@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS39"]={"id":"MS39","name":"SMITH COUNTY","lat":31.820994,"lon":-89.4584,"elevation":332,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

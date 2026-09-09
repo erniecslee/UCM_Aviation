@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA83"]={"id":"LA83","name":"MC CUTCHEON FLD","lat":30.896014,"lon":-91.045939,"elevation":272,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

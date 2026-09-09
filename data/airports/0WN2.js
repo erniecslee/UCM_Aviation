@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WN2"]={"id":"0WN2","name":"COOPERS LANDING","lat":46.127778,"lon":-119.015,"elevation":435,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

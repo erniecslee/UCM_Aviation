@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85GA"]={"id":"85GA","name":"AIKEN FLD","lat":34.172328,"lon":-83.731006,"elevation":1020,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

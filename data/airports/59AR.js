@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59AR"]={"id":"59AR","name":"HODGES","lat":35.882086,"lon":-90.612506,"elevation":271,"region":"K4","runways":[{"id":"RW09","lat":35.882242,"lon":-90.616217,"length":2200,"course":94.5},{"id":"RW27","lat":35.881928,"lon":-90.608797,"length":2200,"course":274.6}],"procedures":{"D":{},"E":{},"F":{}}};

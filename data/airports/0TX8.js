@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TX8"]={"id":"0TX8","name":"LZ MUSTANG","lat":31.252425,"lon":-96.634836,"elevation":475,"region":"K4","runways":[{"id":"RW17","lat":31.255572,"lon":-96.635128,"length":2297,"course":172.9},{"id":"RW35","lat":31.249278,"lon":-96.634544,"length":2297,"course":352.9}],"procedures":{"D":{},"E":{},"F":{}}};

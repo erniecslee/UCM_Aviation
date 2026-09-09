@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GE3"]={"id":"1GE3","name":"ANSWERED PRAYER","lat":33.253889,"lon":-85.170278,"elevation":890,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

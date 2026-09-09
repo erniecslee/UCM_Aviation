@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II93"]={"id":"II93","name":"BRONSON","lat":39.484156,"lon":-86.229211,"elevation":792,"region":"K5","runways":[{"id":"RW09","lat":39.484111,"lon":-86.234875,"length":3197,"course":92.4},{"id":"RW27","lat":39.4842,"lon":-86.223547,"length":3197,"course":272.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85B"]={"id":"85B","name":"SHIN POND","lat":46.093306,"lon":-68.56425,"elevation":778,"region":"K6","runways":[{"id":"RW02W","lat":46.085475,"lon":-68.567886,"length":6000,"course":38.0},{"id":"RW20W","lat":46.101133,"lon":-68.5606,"length":6000,"course":218.0}],"procedures":{"D":{},"E":{},"F":{}}};

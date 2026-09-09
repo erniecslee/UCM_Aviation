@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH96"]={"id":"OH96","name":"NEALS","lat":39.033611,"lon":-83.886111,"elevation":953,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

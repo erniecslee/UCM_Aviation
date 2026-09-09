@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6F1"]={"id":"6F1","name":"TALIHINA MUNI","lat":34.707772,"lon":-95.073786,"elevation":687,"region":"K4","runways":[{"id":"RW01","lat":34.703472,"lon":-95.075528,"length":3300,"course":14.0},{"id":"RW19","lat":34.712069,"lon":-95.072044,"length":3300,"course":194.0}],"procedures":{"D":{},"E":{},"F":{}}};

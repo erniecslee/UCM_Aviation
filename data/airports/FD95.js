@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD95"]={"id":"FD95","name":"WHITE FLD","lat":29.974944,"lon":-82.925028,"elevation":43,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

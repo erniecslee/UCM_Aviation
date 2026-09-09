@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6KY6"]={"id":"6KY6","name":"JEFFRIES FARM","lat":38.359969,"lon":-85.363658,"elevation":803,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

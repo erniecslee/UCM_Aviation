@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88TT"]={"id":"88TT","name":"SHADY LANE RANCH","lat":33.351189,"lon":-97.001128,"elevation":650,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

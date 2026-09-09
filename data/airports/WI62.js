@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI62"]={"id":"WI62","name":"SSS AERODROME","lat":43.26945,"lon":-87.998144,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

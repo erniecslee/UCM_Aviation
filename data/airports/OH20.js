@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH20"]={"id":"OH20","name":"FLYERS PARK","lat":40.154067,"lon":-82.306908,"elevation":865,"region":"K5","runways":[{"id":"RW17","lat":40.157356,"lon":-82.307158,"length":2400,"course":184.3},{"id":"RW35","lat":40.150778,"lon":-82.306656,"length":2400,"course":4.3}],"procedures":{"D":{},"E":{},"F":{}}};

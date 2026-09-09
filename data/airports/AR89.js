@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR89"]={"id":"AR89","name":"LANDERS LOOP","lat":35.400083,"lon":-93.066006,"elevation":730,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

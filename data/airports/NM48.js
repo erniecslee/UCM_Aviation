@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM48"]={"id":"NM48","name":"ESENADA","lat":36.730569,"lon":-106.495033,"elevation":7640,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

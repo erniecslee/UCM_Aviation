@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD80"]={"id":"MD80","name":"BARREN CREEK FLD","lat":38.455383,"lon":-75.797167,"elevation":21,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

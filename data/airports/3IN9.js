@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IN9"]={"id":"3IN9","name":"CULLEY ACRES","lat":38.029319,"lon":-87.985475,"elevation":462,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

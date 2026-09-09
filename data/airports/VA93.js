@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA93"]={"id":"VA93","name":"AYERS","lat":38.905111,"lon":-78.654739,"elevation":1340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19MN"]={"id":"19MN","name":"GRESETH","lat":45.174764,"lon":-93.765092,"elevation":970,"region":"K3","runways":[{"id":"RW06","lat":45.177111,"lon":-93.761319,"length":1177,"course":59.3},{"id":"RW24","lat":45.17875,"lon":-93.757389,"length":1177,"course":239.3}],"procedures":{"D":{},"E":{},"F":{}}};

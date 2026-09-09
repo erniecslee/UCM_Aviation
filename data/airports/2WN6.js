@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WN6"]={"id":"2WN6","name":"CUNNINGHAM","lat":44.529683,"lon":-90.4193,"elevation":1089,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

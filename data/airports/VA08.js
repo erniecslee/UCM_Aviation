@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA08"]={"id":"VA08","name":"LONGBRANCH","lat":37.717081,"lon":-76.358836,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

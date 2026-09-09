@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO4"]={"id":"2MO4","name":"BRECKENRIDGE","lat":38.114444,"lon":-94.176667,"elevation":805,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

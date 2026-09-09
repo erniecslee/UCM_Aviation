@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53II"]={"id":"53II","name":"STEINMAN","lat":41.073106,"lon":-84.840797,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

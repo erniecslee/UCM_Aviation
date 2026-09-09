@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25VG"]={"id":"25VG","name":"CT FIELDS","lat":36.6356,"lon":-80.9139,"elevation":2350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

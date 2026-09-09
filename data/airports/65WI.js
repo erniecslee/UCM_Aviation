@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65WI"]={"id":"65WI","name":"STOL","lat":44.688725,"lon":-92.685689,"elevation":980,"region":"K5","runways":[{"id":"RW09","lat":44.688694,"lon":-92.6877,"length":1047,"course":89.4},{"id":"RW27","lat":44.688756,"lon":-92.683675,"length":1047,"course":269.4}],"procedures":{"D":{},"E":{},"F":{}}};

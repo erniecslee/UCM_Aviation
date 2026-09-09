@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT97"]={"id":"UT97","name":"HAPPY CANYON","lat":38.157222,"lon":-110.292222,"elevation":4934,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

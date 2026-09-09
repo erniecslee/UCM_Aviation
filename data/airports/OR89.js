@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR89"]={"id":"OR89","name":"KINZUA","lat":44.999856,"lon":-120.052519,"elevation":3966,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

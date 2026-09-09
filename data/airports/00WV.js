@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00WV"]={"id":"00WV","name":"LAZY J AERODROME","lat":38.828889,"lon":-79.866111,"elevation":2060,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

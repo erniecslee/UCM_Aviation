@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34CN"]={"id":"34CN","name":"BONANZA HILLS","lat":37.523547,"lon":-120.397692,"elevation":295,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

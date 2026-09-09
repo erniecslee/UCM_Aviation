@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11TN"]={"id":"11TN","name":"DENNEY","lat":35.595861,"lon":-85.718853,"elevation":898,"region":"K7","runways":[{"id":"RW02","lat":35.594314,"lon":-85.719547,"length":1200,"course":24.8},{"id":"RW20","lat":35.597414,"lon":-85.718175,"length":1200,"course":204.8}],"procedures":{"D":{},"E":{},"F":{}}};

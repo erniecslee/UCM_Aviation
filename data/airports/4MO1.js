@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MO1"]={"id":"4MO1","name":"WEHRMAN","lat":39.012639,"lon":-91.419472,"elevation":778,"region":"K3","runways":[{"id":"RW03","lat":39.009769,"lon":-91.421444,"length":2360,"course":25.0},{"id":"RW21","lat":39.015483,"lon":-91.417522,"length":2360,"course":205.0}],"procedures":{"D":{},"E":{},"F":{}}};

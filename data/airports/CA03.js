@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA03"]={"id":"CA03","name":"FLYING M","lat":37.349942,"lon":-120.294072,"elevation":280,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6X8"]={"id":"6X8","name":"VULTURES ROW","lat":33.34,"lon":-97.103056,"elevation":710,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

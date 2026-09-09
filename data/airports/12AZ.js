@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12AZ"]={"id":"12AZ","name":"RANTA STRIP","lat":33.853922,"lon":-112.653231,"elevation":1840,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

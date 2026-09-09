@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WN3"]={"id":"2WN3","name":"CURNS","lat":44.357872,"lon":-88.761383,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

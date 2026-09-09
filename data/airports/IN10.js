@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN10"]={"id":"IN10","name":"PLUMMER","lat":40.975875,"lon":-86.420003,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA90"]={"id":"WA90","name":"FLOATHAVEN AIRSTRIP","lat":48.733167,"lon":-122.351275,"elevation":325,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

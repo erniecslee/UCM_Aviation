@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TA4"]={"id":"0TA4","name":"ERCO FLD","lat":32.497917,"lon":-96.270533,"elevation":395,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

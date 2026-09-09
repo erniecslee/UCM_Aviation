@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN11"]={"id":"PN11","name":"RENO","lat":40.889783,"lon":-80.486456,"elevation":1160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51MO"]={"id":"51MO","name":"PLATTSBURG AIRPARK","lat":39.594583,"lon":-94.461417,"elevation":1020,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

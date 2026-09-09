@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07TE"]={"id":"07TE","name":"PEAK 7 RANCH","lat":33.544075,"lon":-97.031586,"elevation":727,"region":"K4","runways":[{"id":"RW05","lat":33.543133,"lon":-97.033108,"length":1153,"course":50.8},{"id":"RW23","lat":33.545019,"lon":-97.030067,"length":1153,"course":230.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS26"]={"id":"IS26","name":"NIKLAUS","lat":40.183367,"lon":-88.615344,"elevation":725,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

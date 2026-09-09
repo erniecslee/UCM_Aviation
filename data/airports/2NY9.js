@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NY9"]={"id":"2NY9","name":"KAYUTAH LAKE/JAMES & HELENE D","lat":42.370072,"lon":-76.72245,"elevation":1385,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

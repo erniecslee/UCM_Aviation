@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L26"]={"id":"L26","name":"HESPERIA","lat":34.376944,"lon":-117.316056,"elevation":3390,"region":"K2","runways":[{"id":"RW03","lat":34.372717,"lon":-117.320061,"length":3910,"course":24.2}],"procedures":{"D":{},"E":{},"F":{}}};

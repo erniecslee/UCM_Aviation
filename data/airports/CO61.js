@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO61"]={"id":"CO61","name":"AK SU","lat":38.557514,"lon":-105.552975,"elevation":8440,"region":"K2","runways":[{"id":"RW18","lat":38.558569,"lon":-105.552808,"length":775,"course":179.4},{"id":"RW36","lat":38.556458,"lon":-105.553142,"length":775,"course":359.4}],"procedures":{"D":{},"E":{},"F":{}}};

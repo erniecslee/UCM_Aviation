@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56LA"]={"id":"56LA","name":"OLD HICKORY RANCH","lat":32.345156,"lon":-93.818236,"elevation":180,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

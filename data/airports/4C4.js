@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4C4"]={"id":"4C4","name":"GIFFORD FLD","lat":44.887525,"lon":-71.507725,"elevation":1017,"region":"K6","runways":[{"id":"RW04","lat":44.885569,"lon":-71.508867,"length":2423,"course":39.9},{"id":"RW22","lat":44.890603,"lon":-71.505897,"length":2423,"course":219.9}],"procedures":{"D":{},"E":{},"F":{}}};

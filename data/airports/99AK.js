@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99AK"]={"id":"99AK","name":"MOORE CREEK","lat":62.599042,"lon":-157.151806,"elevation":980,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

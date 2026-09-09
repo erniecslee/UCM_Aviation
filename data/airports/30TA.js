@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30TA"]={"id":"30TA","name":"TRI-MODAL AIR PARK","lat":30.591861,"lon":-97.722508,"elevation":812,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

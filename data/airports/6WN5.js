@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WN5"]={"id":"6WN5","name":"AIRWOLFE","lat":44.499831,"lon":-92.198842,"elevation":1130,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

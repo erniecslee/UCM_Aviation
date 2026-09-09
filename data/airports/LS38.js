@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS38"]={"id":"LS38","name":"RICHARD'S","lat":30.013056,"lon":-91.869167,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

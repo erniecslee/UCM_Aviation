@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F15"]={"id":"F15","name":"HALIFAX RIVER","lat":29.241828,"lon":-81.032331,"elevation":5,"region":"K7","runways":[{"id":"RW16W","lat":29.245756,"lon":-81.035119,"length":2500,"course":164.6}],"procedures":{"D":{},"E":{},"F":{}}};

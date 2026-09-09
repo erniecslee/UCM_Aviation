@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47TS"]={"id":"47TS","name":"HENSARLING","lat":31.047964,"lon":-95.917731,"elevation":315,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

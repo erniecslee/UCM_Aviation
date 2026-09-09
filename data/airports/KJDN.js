@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KJDN"]={"id":"KJDN","name":"JORDAN","lat":47.32875,"lon":-106.952694,"elevation":2667,"region":"K1","runways":[{"id":"RW11","lat":47.331269,"lon":-106.960525,"length":4300,"course":101.0},{"id":"RW29","lat":47.326228,"lon":-106.94485,"length":4300,"course":281.0}],"procedures":{"D":{},"E":{},"F":{}}};

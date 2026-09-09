@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WSM"]={"id":"WSM","name":"WISEMAN","lat":67.405108,"lon":-150.120878,"elevation":1195,"region":"PA","runways":[{"id":"RW02","lat":67.404178,"lon":-150.123486,"length":2000,"course":19.0},{"id":"RW20","lat":67.406967,"lon":-150.115661,"length":2000,"course":199.0}],"procedures":{"D":{},"E":{},"F":{}}};

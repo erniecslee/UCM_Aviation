@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH60"]={"id":"OH60","name":"GERKER AIRFIELD","lat":40.953661,"lon":-84.273558,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

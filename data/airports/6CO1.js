@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CO1"]={"id":"6CO1","name":"BURNHAM FLD","lat":40.781372,"lon":-104.917472,"elevation":5615,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

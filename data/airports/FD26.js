@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD26"]={"id":"FD26","name":"KIRKLAND","lat":30.98185,"lon":-85.492433,"elevation":180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

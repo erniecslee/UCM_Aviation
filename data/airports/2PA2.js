@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PA2"]={"id":"2PA2","name":"HILLVIEW","lat":40.5986,"lon":-76.13695,"elevation":780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

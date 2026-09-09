@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO97"]={"id":"CO97","name":"COMANCHE SPRINGS RANCH","lat":39.720814,"lon":-104.323056,"elevation":5435,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

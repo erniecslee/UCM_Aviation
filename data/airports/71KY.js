@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71KY"]={"id":"71KY","name":"SUNRISE ACRES","lat":39.034781,"lon":-84.872728,"elevation":465,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

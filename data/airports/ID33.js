@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID33"]={"id":"ID33","name":"STOCKING MEADOWS","lat":46.936017,"lon":-115.864875,"elevation":3850,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

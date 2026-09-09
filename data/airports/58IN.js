@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58IN"]={"id":"58IN","name":"HILLTOP","lat":41.258383,"lon":-84.863853,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

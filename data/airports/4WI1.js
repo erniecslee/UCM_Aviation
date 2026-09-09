@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WI1"]={"id":"4WI1","name":"BANCROFT EAST","lat":43.483319,"lon":-89.183447,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA88"]={"id":"MA88","name":"ALBERT FARMS","lat":42.390086,"lon":-72.930931,"elevation":1425,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

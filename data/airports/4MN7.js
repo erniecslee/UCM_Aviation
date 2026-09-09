@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MN7"]={"id":"4MN7","name":"ADAMS","lat":46.973611,"lon":-94.033889,"elevation":1306,"region":"K3","runways":[{"id":"RW14W","lat":46.9775,"lon":-94.038333,"length":3535,"course":137.9},{"id":"RW32W","lat":46.970278,"lon":-94.028889,"length":3535,"course":317.9}],"procedures":{"D":{},"E":{},"F":{}}};

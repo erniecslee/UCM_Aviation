@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AZ5"]={"id":"8AZ5","name":"LIZZY LIZARD","lat":31.897944,"lon":-109.056917,"elevation":4200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IN1"]={"id":"1IN1","name":"SHEARER","lat":39.488381,"lon":-86.653058,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

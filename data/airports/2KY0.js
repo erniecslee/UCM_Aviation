@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KY0"]={"id":"2KY0","name":"SKYFALL","lat":36.6775,"lon":-86.12875,"elevation":853,"region":"K5","runways":[{"id":"RW05","lat":36.676111,"lon":-86.130278,"length":1351,"course":46.2},{"id":"RW23","lat":36.678889,"lon":-86.127222,"length":1351,"course":226.2}],"procedures":{"D":{},"E":{},"F":{}}};

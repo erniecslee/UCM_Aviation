@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FD4"]={"id":"0FD4","name":"YODER FLD","lat":30.607486,"lon":-85.025292,"elevation":138,"region":"K7","runways":[{"id":"RW09","lat":30.607694,"lon":-85.029,"length":2338,"course":98.6},{"id":"RW27","lat":30.607278,"lon":-85.021583,"length":2338,"course":278.6}],"procedures":{"D":{},"E":{},"F":{}}};

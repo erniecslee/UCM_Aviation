@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS47"]={"id":"XS47","name":"ALDERMAN FARM","lat":29.000247,"lon":-98.571131,"elevation":447,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

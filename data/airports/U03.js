@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U03"]={"id":"U03","name":"BUHL MUNI","lat":42.597389,"lon":-114.800639,"elevation":3663,"region":"K1","runways":[{"id":"RW09","lat":42.599103,"lon":-114.807486,"length":3898,"course":93.0},{"id":"RW27","lat":42.595697,"lon":-114.793767,"length":3898,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

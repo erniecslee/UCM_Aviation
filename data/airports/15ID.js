@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15ID"]={"id":"15ID","name":"SCANLON","lat":47.68555,"lon":-117.038,"elevation":2000,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

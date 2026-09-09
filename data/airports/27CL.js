@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27CL"]={"id":"27CL","name":"SOPWITH FARM","lat":38.747125,"lon":-121.572736,"elevation":20,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

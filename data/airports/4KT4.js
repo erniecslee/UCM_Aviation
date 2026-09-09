@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KT4"]={"id":"4KT4","name":"STEELE'S BOTTOM","lat":38.826483,"lon":-84.816956,"elevation":495,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

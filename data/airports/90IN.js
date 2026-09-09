@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90IN"]={"id":"90IN","name":"MC DANIEL'S FLD","lat":39.408936,"lon":-86.444161,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

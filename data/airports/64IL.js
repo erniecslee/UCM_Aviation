@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64IL"]={"id":"64IL","name":"WALPOLE","lat":42.241689,"lon":-88.666761,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

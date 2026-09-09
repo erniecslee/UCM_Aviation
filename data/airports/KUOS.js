@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KUOS"]={"id":"KUOS","name":"FRANKLIN COUNTY","lat":35.205147,"lon":-85.898147,"elevation":1953,"region":"K7","runways":[{"id":"RW25","lat":35.207111,"lon":-85.893172,"length":3700,"course":93.2}],"procedures":{"D":{},"E":{},"F":{}}};

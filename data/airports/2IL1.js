@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IL1"]={"id":"2IL1","name":"MC CARTNEY","lat":42.413903,"lon":-89.329281,"elevation":908,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

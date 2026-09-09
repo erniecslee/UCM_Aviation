@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR37"]={"id":"NR37","name":"SUTER FLD","lat":35.057222,"lon":-77.461944,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

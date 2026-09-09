@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16J"]={"id":"16J","name":"DAWSON MUNI","lat":31.743289,"lon":-84.419292,"elevation":332,"region":"K7","runways":[{"id":"RW14","lat":31.747419,"lon":-84.424692,"length":4507,"course":134.0},{"id":"RW32","lat":31.739156,"lon":-84.413892,"length":4507,"course":314.0}],"procedures":{"D":{},"E":{},"F":{}}};

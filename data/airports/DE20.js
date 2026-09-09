@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE20"]={"id":"DE20","name":"SPIRIT AIRPARK","lat":39.373611,"lon":-75.745833,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

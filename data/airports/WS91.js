@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS91"]={"id":"WS91","name":"SKY HOLLOW","lat":43.208639,"lon":-90.66375,"elevation":707,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

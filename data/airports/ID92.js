@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID92"]={"id":"ID92","name":"FOSTER FLD - DZONE SKYDIVING","lat":43.728772,"lon":-116.522908,"elevation":2650,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

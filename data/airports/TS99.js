@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS99"]={"id":"TS99","name":"HOGG FLD","lat":31.350489,"lon":-95.159883,"elevation":332,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

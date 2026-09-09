@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L09"]={"id":"L09","name":"STOVEPIPE WELLS","lat":36.603833,"lon":-117.159222,"elevation":25,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

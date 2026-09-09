@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N72"]={"id":"N72","name":"WARWICK MUNI","lat":41.287594,"lon":-74.287094,"elevation":540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX0"]={"id":"2TX0","name":"BLUE SKY AIRFIELD","lat":35.0645,"lon":-101.849356,"elevation":3615,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

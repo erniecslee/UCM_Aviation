@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31MT"]={"id":"31MT","name":"REVERSE 5 BAR M","lat":47.23645,"lon":-111.302317,"elevation":4260,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

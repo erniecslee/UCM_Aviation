@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VA5"]={"id":"2VA5","name":"ROSEGILL FARM AIRSTRIP","lat":37.630694,"lon":-76.564953,"elevation":32,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

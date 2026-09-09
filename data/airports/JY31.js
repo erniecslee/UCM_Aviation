@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY31"]={"id":"JY31","name":"WIDE SKY AIRPARK","lat":39.446781,"lon":-75.313247,"elevation":100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

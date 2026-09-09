@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NJ8"]={"id":"9NJ8","name":"HIGH MEADOW FARMS","lat":40.895931,"lon":-74.999617,"elevation":630,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

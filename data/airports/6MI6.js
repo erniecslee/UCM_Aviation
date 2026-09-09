@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MI6"]={"id":"6MI6","name":"LANDING STRIP DE REY REY","lat":41.852822,"lon":-86.436128,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

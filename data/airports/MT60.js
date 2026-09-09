@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT60"]={"id":"MT60","name":"LANGTON AIRSTRIP","lat":48.814417,"lon":-114.354031,"elevation":3900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

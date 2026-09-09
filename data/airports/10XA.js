@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10XA"]={"id":"10XA","name":"STERLING","lat":28.679947,"lon":-96.660897,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

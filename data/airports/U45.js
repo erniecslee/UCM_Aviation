@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U45"]={"id":"U45","name":"GRAHAM USFS","lat":43.955178,"lon":-115.272592,"elevation":5726,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

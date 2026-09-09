@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D29"]={"id":"D29","name":"DRAYTON MUNI","lat":48.618514,"lon":-97.175897,"elevation":798,"region":"K3","runways":[{"id":"RW17","lat":48.622072,"lon":-97.175867,"length":2596,"course":173.3}],"procedures":{"D":{},"E":{},"F":{}}};

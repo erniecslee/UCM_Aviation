@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA74"]={"id":"FA74","name":"ROMOR RANCH","lat":25.980928,"lon":-81.056736,"elevation":12,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

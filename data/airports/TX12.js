@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX12"]={"id":"TX12","name":"BUCKLE L RANCH EAST","lat":34.278939,"lon":-100.092853,"elevation":1710,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

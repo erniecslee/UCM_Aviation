@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN36"]={"id":"IN36","name":"PLUGGER","lat":38.035556,"lon":-87.724111,"elevation":426,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

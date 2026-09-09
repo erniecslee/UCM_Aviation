@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73G"]={"id":"73G","name":"CHERRY FLD","lat":43.072614,"lon":-86.029636,"elevation":629,"region":"K5","runways":[{"id":"RW06","lat":43.071539,"lon":-86.032025,"length":1499,"course":63.9},{"id":"RW24","lat":43.073692,"lon":-86.027247,"length":1499,"course":243.9}],"procedures":{"D":{},"E":{},"F":{}}};

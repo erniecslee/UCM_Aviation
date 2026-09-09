@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MS5"]={"id":"3MS5","name":"MITCHELLS","lat":33.301833,"lon":-89.814333,"elevation":323,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA92"]={"id":"VA92","name":"PEACE AND PLENTY FARM","lat":37.723889,"lon":-75.786111,"elevation":8,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

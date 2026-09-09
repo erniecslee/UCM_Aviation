@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M61"]={"id":"M61","name":"EDWARD F JOHNSON","lat":46.345219,"lon":-87.788469,"elevation":1446,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

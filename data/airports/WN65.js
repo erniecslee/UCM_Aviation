@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN65"]={"id":"WN65","name":"MY","lat":46.972597,"lon":-123.476828,"elevation":80,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

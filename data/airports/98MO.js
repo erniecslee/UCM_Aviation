@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98MO"]={"id":"98MO","name":"WOODLIFF AIRPARK","lat":38.786161,"lon":-90.942361,"elevation":750,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

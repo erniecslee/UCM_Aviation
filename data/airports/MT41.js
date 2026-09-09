@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT41"]={"id":"MT41","name":"JEFCO SKYPARK","lat":45.878261,"lon":-112.117217,"elevation":4510,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

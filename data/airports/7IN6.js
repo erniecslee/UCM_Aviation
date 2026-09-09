@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IN6"]={"id":"7IN6","name":"MYERS FARM","lat":38.581944,"lon":-86.253611,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

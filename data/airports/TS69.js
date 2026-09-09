@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS69"]={"id":"TS69","name":"BARRONENA EAST","lat":27.485033,"lon":-98.661961,"elevation":576,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

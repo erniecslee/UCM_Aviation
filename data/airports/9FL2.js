@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FL2"]={"id":"9FL2","name":"SARANAC FARM","lat":30.6525,"lon":-84.474722,"elevation":230,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

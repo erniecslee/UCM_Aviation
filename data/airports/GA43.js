@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA43"]={"id":"GA43","name":"BRIGGS FLD","lat":32.321389,"lon":-81.426667,"elevation":78,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

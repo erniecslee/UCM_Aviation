@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK70"]={"id":"OK70","name":"NILES CANYON RANCH","lat":35.430572,"lon":-98.257681,"elevation":1611,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AL5"]={"id":"4AL5","name":"J5 MIKE","lat":34.666347,"lon":-86.222286,"elevation":680,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

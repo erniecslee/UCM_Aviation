@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK24"]={"id":"OK24","name":"COLBY FLD","lat":34.206506,"lon":-97.231189,"elevation":923,"region":"K4","runways":[{"id":"RW01","lat":34.203922,"lon":-97.231631,"length":1900,"course":5.3},{"id":"RW19","lat":34.209092,"lon":-97.230747,"length":1900,"course":185.3}],"procedures":{"D":{},"E":{},"F":{}}};

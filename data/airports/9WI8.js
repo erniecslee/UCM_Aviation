@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI8"]={"id":"9WI8","name":"FLETCHER","lat":42.693906,"lon":-88.379261,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

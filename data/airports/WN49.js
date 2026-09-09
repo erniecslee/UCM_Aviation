@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN49"]={"id":"WN49","name":"BLUE HERON FLD","lat":48.121758,"lon":-123.087956,"elevation":20,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

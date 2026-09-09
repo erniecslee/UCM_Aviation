@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN7"]={"id":"8TN7","name":"SHORT CREEK","lat":36.400833,"lon":-87.991667,"elevation":390,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

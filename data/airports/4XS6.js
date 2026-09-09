@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4XS6"]={"id":"4XS6","name":"H YOUNG RANCH","lat":30.391861,"lon":-98.661422,"elevation":1700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

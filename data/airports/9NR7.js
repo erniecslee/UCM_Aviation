@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NR7"]={"id":"9NR7","name":"TRIPLE F AIRPARK","lat":35.018333,"lon":-78.565833,"elevation":148,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

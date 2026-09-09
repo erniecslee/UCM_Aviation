@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0C1"]={"id":"0C1","name":"TRIPLE R","lat":39.48775,"lon":-94.781139,"elevation":1007,"region":"K3","runways":[{"id":"RW02","lat":39.484661,"lon":-94.782486,"length":2375,"course":14.0},{"id":"RW20","lat":39.490833,"lon":-94.779767,"length":2375,"course":194.0}],"procedures":{"D":{},"E":{},"F":{}}};

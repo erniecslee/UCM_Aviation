@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA74"]={"id":"MA74","name":"LARSON'S","lat":42.691478,"lon":-71.418119,"elevation":90,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

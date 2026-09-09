@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O42"]={"id":"O42","name":"WOODLAKE","lat":36.398778,"lon":-119.106806,"elevation":425,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

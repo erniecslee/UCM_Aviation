@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH01"]={"id":"NH01","name":"BELLAMY RIVER","lat":43.141792,"lon":-70.846261,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

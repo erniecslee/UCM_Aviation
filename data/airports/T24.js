@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T24"]={"id":"T24","name":"PINELAND MUNI","lat":31.233522,"lon":-93.981856,"elevation":260,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31XA"]={"id":"31XA","name":"INDIAN FALLS RANCH","lat":30.885083,"lon":-98.595589,"elevation":1493,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

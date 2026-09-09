@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9K0"]={"id":"9K0","name":"COTTONWOOD FALLS","lat":38.358625,"lon":-96.554453,"elevation":1273,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

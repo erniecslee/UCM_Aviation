@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98LS"]={"id":"98LS","name":"TIETJES","lat":30.434578,"lon":-92.721583,"elevation":44,"region":"K4","runways":[{"id":"RW18","lat":30.438014,"lon":-92.721528,"length":2501,"course":180.7},{"id":"RW36","lat":30.431139,"lon":-92.721639,"length":2501,"course":0.7}],"procedures":{"D":{},"E":{},"F":{}}};

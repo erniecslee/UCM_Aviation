@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID94"]={"id":"ID94","name":"WHITE PINE FLATS RANCH LLC","lat":46.776667,"lon":-116.691389,"elevation":2860,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN05"]={"id":"IN05","name":"STEVENS FARMS","lat":39.660556,"lon":-85.548333,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

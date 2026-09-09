@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87MO"]={"id":"87MO","name":"RICHTERS","lat":38.696122,"lon":-94.258003,"elevation":915,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

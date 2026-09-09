@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA54"]={"id":"LA54","name":"GILLIAM","lat":32.837642,"lon":-93.837678,"elevation":194,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV07"]={"id":"NV07","name":"RANCH IRENE","lat":40.885519,"lon":-114.981403,"elevation":5665,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

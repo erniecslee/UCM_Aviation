@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23AZ"]={"id":"23AZ","name":"MORETON AIRPARK","lat":34.019472,"lon":-112.825736,"elevation":2455,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

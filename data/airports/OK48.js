@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK48"]={"id":"OK48","name":"HIGGS","lat":33.925964,"lon":-97.29635,"elevation":690,"region":"K4","runways":[{"id":"RW18","lat":33.931931,"lon":-97.295183,"length":4400,"course":182.0},{"id":"RW36","lat":33.919997,"lon":-97.297514,"length":4400,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

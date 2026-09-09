@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W55"]={"id":"W55","name":"KENMORE AIR","lat":47.628986,"lon":-122.338739,"elevation":14,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IN0"]={"id":"2IN0","name":"SKIP'S PLACE","lat":40.836944,"lon":-85.171111,"elevation":858,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN07"]={"id":"WN07","name":"DECATUR SHORES","lat":48.499833,"lon":-122.813778,"elevation":38,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

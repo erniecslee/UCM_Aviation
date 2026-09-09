@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58J"]={"id":"58J","name":"HUGGINS MEML","lat":34.135575,"lon":-79.921411,"elevation":143,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

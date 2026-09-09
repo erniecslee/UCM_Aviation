@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV09"]={"id":"WV09","name":"MIKE FERRELL FLD","lat":37.558725,"lon":-81.350658,"elevation":2220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

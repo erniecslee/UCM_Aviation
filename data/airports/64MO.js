@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64MO"]={"id":"64MO","name":"BOOZE ISLAND","lat":39.665272,"lon":-95.013303,"elevation":794,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

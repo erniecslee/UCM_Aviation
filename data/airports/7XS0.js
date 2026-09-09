@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7XS0"]={"id":"7XS0","name":"POLLY RANCH","lat":29.504722,"lon":-95.175311,"elevation":22,"region":"K4","runways":[{"id":"RW11","lat":29.506692,"lon":-95.179578,"length":3070,"course":111.8},{"id":"RW29","lat":29.502753,"lon":-95.171042,"length":3070,"course":291.8}],"procedures":{"D":{},"E":{},"F":{}}};

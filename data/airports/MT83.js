@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT83"]={"id":"MT83","name":"TEN MILE","lat":46.5716,"lon":-112.180839,"elevation":4294,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

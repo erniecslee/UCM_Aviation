@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NV1"]={"id":"1NV1","name":"FALLON SOUTHWEST AIRPARK","lat":39.415278,"lon":-118.836667,"elevation":3950,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

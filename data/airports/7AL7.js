@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AL7"]={"id":"7AL7","name":"PRATT LANDING","lat":31.0645,"lon":-85.439389,"elevation":184,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7T0"]={"id":"7T0","name":"FREEDOM FLD","lat":33.593611,"lon":-97.218889,"elevation":885,"region":"K4","runways":[{"id":"RW17","lat":33.596919,"lon":-97.218783,"length":2400,"course":174.0},{"id":"RW35","lat":33.590325,"lon":-97.218972,"length":2400,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

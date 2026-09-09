@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CO6"]={"id":"5CO6","name":"LA GARITA CREEK RANCH","lat":37.811553,"lon":-106.315272,"elevation":8050,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

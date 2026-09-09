@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64V"]={"id":"64V","name":"WALLACE MUNI","lat":40.832225,"lon":-101.164044,"elevation":3101,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

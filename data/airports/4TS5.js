@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TS5"]={"id":"4TS5","name":"GOEBEL FLD","lat":30.221917,"lon":-99.4984,"elevation":2189,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

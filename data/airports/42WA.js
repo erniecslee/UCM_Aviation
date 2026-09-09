@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42WA"]={"id":"42WA","name":"SHEFFELS RANCH","lat":47.817181,"lon":-118.801397,"elevation":2222,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

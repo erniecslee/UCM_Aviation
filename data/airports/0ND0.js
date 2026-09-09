@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ND0"]={"id":"0ND0","name":"GILBERTSON FLD","lat":47.929172,"lon":-99.400411,"elevation":1550,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

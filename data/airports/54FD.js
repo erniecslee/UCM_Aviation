@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54FD"]={"id":"54FD","name":"LM-ETS","lat":28.3675,"lon":-81.076111,"elevation":11,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AL6"]={"id":"2AL6","name":"DALE O GALER AERODROME","lat":30.491981,"lon":-88.197308,"elevation":40,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

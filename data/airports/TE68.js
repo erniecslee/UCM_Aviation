@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE68"]={"id":"TE68","name":"NUGGS FLYING M","lat":33.744117,"lon":-96.659883,"elevation":725,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL92"]={"id":"AL92","name":"HAWK FLD","lat":33.307333,"lon":-86.403589,"elevation":420,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

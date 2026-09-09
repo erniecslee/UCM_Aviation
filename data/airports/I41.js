@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I41"]={"id":"I41","name":"ROBERT NEWLON FLD","lat":38.457028,"lon":-82.313761,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

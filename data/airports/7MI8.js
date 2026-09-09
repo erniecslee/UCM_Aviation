@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MI8"]={"id":"7MI8","name":"LETTS FLD","lat":43.339167,"lon":-83.476111,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TN0"]={"id":"3TN0","name":"INDIAN SPRINGS","lat":36.535,"lon":-82.423889,"elevation":1550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

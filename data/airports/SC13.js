@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC13"]={"id":"SC13","name":"DARDEN","lat":33.840706,"lon":-81.183708,"elevation":450,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

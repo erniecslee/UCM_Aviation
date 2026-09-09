@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63OH"]={"id":"63OH","name":"WHITE'S","lat":39.702839,"lon":-83.093889,"elevation":815,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

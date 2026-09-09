@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36NE"]={"id":"36NE","name":"FREVERT AIRSTRIP","lat":42.514169,"lon":-97.580897,"elevation":1800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

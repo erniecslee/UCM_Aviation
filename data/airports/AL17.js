@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL17"]={"id":"AL17","name":"LAZY EIGHT AIRPARK LLC","lat":33.234003,"lon":-86.513036,"elevation":450,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86KS"]={"id":"86KS","name":"COBERLY","lat":38.786889,"lon":-100.419844,"elevation":2540,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

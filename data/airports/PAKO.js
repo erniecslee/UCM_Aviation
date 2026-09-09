@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAKO"]={"id":"PAKO","name":"NIKOLSKI AS","lat":52.941556,"lon":-168.849028,"elevation":77,"region":"PA","runways":[{"id":"RW08","lat":52.941594,"lon":-168.857,"length":3512,"course":80.0},{"id":"RW26","lat":52.941528,"lon":-168.841078,"length":3512,"course":260.0}],"procedures":{"D":{},"E":{},"F":{}}};

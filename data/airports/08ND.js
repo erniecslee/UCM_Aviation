@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08ND"]={"id":"08ND","name":"BRECHT STRIP","lat":47.323064,"lon":-102.097672,"elevation":1990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

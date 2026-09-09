@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OK9"]={"id":"1OK9","name":"HANKINS","lat":33.9751,"lon":-97.089178,"elevation":843,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

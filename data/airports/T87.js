@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T87"]={"id":"T87","name":"FLYING C","lat":33.342222,"lon":-97.27,"elevation":775,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

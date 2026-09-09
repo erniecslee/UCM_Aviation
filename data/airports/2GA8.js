@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2GA8"]={"id":"2GA8","name":"SHANNON FLIGHT STRIP","lat":34.349814,"lon":-85.076892,"elevation":677,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

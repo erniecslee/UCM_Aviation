@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FA3"]={"id":"7FA3","name":"FLYING L","lat":26.798056,"lon":-81.525417,"elevation":40,"region":"K7","runways":[{"id":"RW10","lat":26.798056,"lon":-81.532778,"length":4803,"course":96.7},{"id":"RW28","lat":26.798056,"lon":-81.518056,"length":4803,"course":276.7}],"procedures":{"D":{},"E":{},"F":{}}};

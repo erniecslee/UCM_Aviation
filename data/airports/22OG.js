@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22OG"]={"id":"22OG","name":"WITHROTOR","lat":42.275436,"lon":-120.393569,"elevation":4920,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

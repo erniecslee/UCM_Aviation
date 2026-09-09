@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IN6"]={"id":"6IN6","name":"PEGASUS FARMS AIRFIELD","lat":39.548889,"lon":-86.476667,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

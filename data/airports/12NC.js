@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12NC"]={"id":"12NC","name":"ATLANTIC FLD MCOLF","lat":34.883333,"lon":-76.35,"elevation":20,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

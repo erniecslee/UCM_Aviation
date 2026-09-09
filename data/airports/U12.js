@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U12"]={"id":"U12","name":"STANFORD FLD","lat":43.950167,"lon":-111.684694,"elevation":4966,"region":"K1","runways":[{"id":"RW04","lat":43.946006,"lon":-111.691,"length":4500,"course":31.6},{"id":"RW22","lat":43.954328,"lon":-111.678375,"length":4500,"course":211.6}],"procedures":{"D":{},"E":{},"F":{}}};

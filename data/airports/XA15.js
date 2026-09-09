@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA15"]={"id":"XA15","name":"HOLICK","lat":31.426944,"lon":-96.979722,"elevation":425,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49XS"]={"id":"49XS","name":"MCCASLAND RANCH","lat":31.448333,"lon":-98.321111,"elevation":1370,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

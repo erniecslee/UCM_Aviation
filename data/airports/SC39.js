@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC39"]={"id":"SC39","name":"GREEN POND","lat":34.816667,"lon":-82.083333,"elevation":788,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

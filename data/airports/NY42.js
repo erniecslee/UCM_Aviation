@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY42"]={"id":"NY42","name":"PARADISE","lat":43.220067,"lon":-76.68995,"elevation":420,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

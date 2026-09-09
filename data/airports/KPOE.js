@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KPOE"]={"id":"KPOE","name":"MAKS AAF","lat":31.044783,"lon":-93.191642,"elevation":330,"region":"K4","runways":[{"id":"RW16","lat":31.0496,"lon":-93.193633,"length":4107,"course":158.0},{"id":"RW34","lat":31.039461,"lon":-93.189444,"length":4107,"course":338.0}],"procedures":{"D":{},"E":{},"F":{}}};

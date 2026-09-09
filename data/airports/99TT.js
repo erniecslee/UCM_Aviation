@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99TT"]={"id":"99TT","name":"STAR K RANCH","lat":26.8037,"lon":-98.602608,"elevation":455,"region":"K4","runways":[{"id":"RW14","lat":26.806714,"lon":-98.604981,"length":2682,"course":141.3},{"id":"RW32","lat":26.800686,"lon":-98.600239,"length":2682,"course":321.3}],"procedures":{"D":{},"E":{},"F":{}}};

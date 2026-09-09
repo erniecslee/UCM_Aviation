@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN74"]={"id":"MN74","name":"B & D FLYERS INTL","lat":43.830514,"lon":-93.840506,"elevation":1055,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN05"]={"id":"SN05","name":"HALSTEAD","lat":38.0314,"lon":-97.509208,"elevation":1412,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

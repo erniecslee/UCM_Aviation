@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25AK"]={"id":"25AK","name":"HONEYBEE LAKE AERO PARK","lat":61.712239,"lon":-150.063331,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

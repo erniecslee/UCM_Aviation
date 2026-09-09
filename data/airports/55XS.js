@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55XS"]={"id":"55XS","name":"FRONTIER","lat":29.16635,"lon":-100.418411,"elevation":1001,"region":"K4","runways":[{"id":"RW01","lat":29.160806,"lon":-100.420819,"length":4316,"course":12.9},{"id":"RW19","lat":29.171097,"lon":-100.41635,"length":4316,"course":192.9}],"procedures":{"D":{},"E":{},"F":{}}};

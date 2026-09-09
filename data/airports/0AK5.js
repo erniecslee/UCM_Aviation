@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK5"]={"id":"0AK5","name":"YOUNG CREEK","lat":61.356514,"lon":-142.733444,"elevation":1580,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

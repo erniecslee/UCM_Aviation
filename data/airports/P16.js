@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["P16"]={"id":"P16","name":"PALMYRA (COOPER)","lat":5.883333,"lon":-162.066667,"elevation":5,"region":"PM","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

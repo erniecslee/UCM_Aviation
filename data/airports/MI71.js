@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI71"]={"id":"MI71","name":"SILVER LAKE","lat":43.64445,"lon":-86.452856,"elevation":772,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

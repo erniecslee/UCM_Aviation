@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OH4"]={"id":"6OH4","name":"ARING FLD","lat":41.358386,"lon":-83.558264,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

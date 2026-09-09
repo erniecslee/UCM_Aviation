@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29MT"]={"id":"29MT","name":"CRAIK","lat":47.738889,"lon":-115.502778,"elevation":2500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WN9"]={"id":"4WN9","name":"DIGGER DOUGS","lat":42.5975,"lon":-88.146389,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

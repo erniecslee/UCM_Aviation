@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA90"]={"id":"GA90","name":"WALKER FLD","lat":33.452058,"lon":-84.409369,"elevation":875,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

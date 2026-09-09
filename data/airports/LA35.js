@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA35"]={"id":"LA35","name":"SUMMERVILLE","lat":31.161794,"lon":-92.421675,"elevation":77,"region":"K4","runways":[{"id":"RW11","lat":31.163142,"lon":-92.425347,"length":2500,"course":113.2},{"id":"RW29","lat":31.160444,"lon":-92.418,"length":2500,"course":293.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KPOB"]={"id":"KPOB","name":"POPE AAF","lat":35.170889,"lon":-79.014497,"elevation":218,"region":"K7","runways":[{"id":"RW05","lat":35.163167,"lon":-79.022803,"length":7501,"course":48.0},{"id":"RW23","lat":35.178611,"lon":-79.006189,"length":7501,"course":228.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC41"]={"id":"SC41","name":"PALMETTO AIR PLANTATION","lat":33.666111,"lon":-80.243889,"elevation":140,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

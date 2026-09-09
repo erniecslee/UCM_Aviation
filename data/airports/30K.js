@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30K"]={"id":"30K","name":"INGALLS MUNI","lat":37.906861,"lon":-100.531417,"elevation":2814,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

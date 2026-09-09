@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MN0"]={"id":"3MN0","name":"SHADDUCK","lat":45.292222,"lon":-94.094722,"elevation":991,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

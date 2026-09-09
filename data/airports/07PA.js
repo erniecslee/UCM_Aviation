@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07PA"]={"id":"07PA","name":"DREAM AIR","lat":41.853081,"lon":-80.4072,"elevation":870,"region":"K6","runways":[{"id":"RW01","lat":41.850931,"lon":-80.407161,"length":1565,"course":8.5},{"id":"RW19","lat":41.855228,"lon":-80.407236,"length":1565,"course":188.5}],"procedures":{"D":{},"E":{},"F":{}}};

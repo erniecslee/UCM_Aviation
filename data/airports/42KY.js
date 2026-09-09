@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42KY"]={"id":"42KY","name":"PIRATES COVE","lat":36.778375,"lon":-88.221628,"elevation":380,"region":"K5","runways":[{"id":"RW18","lat":36.781886,"lon":-88.221542,"length":2544,"course":180.1},{"id":"RW36","lat":36.7749,"lon":-88.221711,"length":2544,"course":0.1}],"procedures":{"D":{},"E":{},"F":{}}};

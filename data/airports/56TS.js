@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56TS"]={"id":"56TS","name":"ELGIN INTRACONTINENTAL","lat":30.337708,"lon":-97.350272,"elevation":558,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

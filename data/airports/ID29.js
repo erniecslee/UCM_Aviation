@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID29"]={"id":"ID29","name":"BIG ISLAND","lat":46.697406,"lon":-115.983756,"elevation":2249,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

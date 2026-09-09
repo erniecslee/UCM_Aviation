@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MT9"]={"id":"3MT9","name":"WILLOW","lat":46.471564,"lon":-113.492461,"elevation":5536,"region":"K1","runways":[{"id":"RW16","lat":46.472853,"lon":-113.492839,"length":960,"course":156.3},{"id":"RW34","lat":46.470272,"lon":-113.492083,"length":960,"course":336.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21UT"]={"id":"21UT","name":"GLASTAR","lat":40.440869,"lon":-112.367228,"elevation":5081,"region":"K2","runways":[{"id":"RW17","lat":40.442803,"lon":-112.367319,"length":1410,"course":167.0},{"id":"RW35","lat":40.438936,"lon":-112.367133,"length":1410,"course":347.1}],"procedures":{"D":{},"E":{},"F":{}}};

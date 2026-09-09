@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA61"]={"id":"PA61","name":"KUNDA","lat":40.165039,"lon":-75.451897,"elevation":252,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

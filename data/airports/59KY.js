@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59KY"]={"id":"59KY","name":"SAMUELS SPRINGS","lat":37.897839,"lon":-85.555233,"elevation":690,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

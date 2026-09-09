@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90CA"]={"id":"90CA","name":"FOWLER'S","lat":38.003533,"lon":-121.118556,"elevation":77,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

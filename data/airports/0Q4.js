@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0Q4"]={"id":"0Q4","name":"SELMA","lat":36.581,"lon":-119.656978,"elevation":305,"region":"K2","runways":[{"id":"RW10","lat":36.582464,"lon":-119.660267,"length":2206,"course":103.9},{"id":"RW28","lat":36.579536,"lon":-119.653689,"length":2206,"course":283.9}],"procedures":{"D":{},"E":{},"F":{}}};

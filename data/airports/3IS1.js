@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IS1"]={"id":"3IS1","name":"MC COY","lat":39.700042,"lon":-89.208969,"elevation":615,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

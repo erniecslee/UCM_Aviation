@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MN3"]={"id":"7MN3","name":"CALDBECK FLD","lat":43.705242,"lon":-92.460728,"elevation":1340,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

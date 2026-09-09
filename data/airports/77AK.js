@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77AK"]={"id":"77AK","name":"TIDEWATER","lat":61.502669,"lon":-149.595656,"elevation":80,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MT5"]={"id":"0MT5","name":"COTTONWOOD","lat":45.634167,"lon":-108.848889,"elevation":3350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TA8"]={"id":"5TA8","name":"DEER MEADOW RANCH","lat":32.013333,"lon":-95.928333,"elevation":520,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

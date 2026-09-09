@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS33"]={"id":"IS33","name":"WILLHOIT","lat":39.045603,"lon":-89.840653,"elevation":614,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

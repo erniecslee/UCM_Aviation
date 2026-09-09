@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR44"]={"id":"AR44","name":"FLYING W","lat":33.512625,"lon":-94.013522,"elevation":265,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

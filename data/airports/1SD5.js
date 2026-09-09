@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SD5"]={"id":"1SD5","name":"DRAKE FARM","lat":43.768608,"lon":-98.798703,"elevation":1659,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

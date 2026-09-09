@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA53"]={"id":"GA53","name":"ROLLINS","lat":33.815106,"lon":-84.371869,"elevation":810,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

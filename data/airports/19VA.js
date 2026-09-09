@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19VA"]={"id":"19VA","name":"FLYING W","lat":36.889722,"lon":-82.297778,"elevation":1760,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

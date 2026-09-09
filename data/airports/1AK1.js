@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AK1"]={"id":"1AK1","name":"CREVICE CREEK","lat":67.372872,"lon":-152.016078,"elevation":840,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

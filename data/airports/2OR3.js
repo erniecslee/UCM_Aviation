@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OR3"]={"id":"2OR3","name":"DAVIDSON FLD","lat":44.794564,"lon":-123.097597,"elevation":188,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

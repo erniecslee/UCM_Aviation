@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TA3"]={"id":"4TA3","name":"COSTELLO ISLAND, INC","lat":32.898733,"lon":-98.460053,"elevation":1020,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

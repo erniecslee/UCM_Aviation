@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA59"]={"id":"WA59","name":"RAKE'S GLEN","lat":48.1255,"lon":-123.150833,"elevation":64,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

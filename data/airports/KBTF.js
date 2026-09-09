@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KBTF"]={"id":"KBTF","name":"SKYPARK","lat":40.86815,"lon":-111.9275,"elevation":4237,"region":"K2","runways":[{"id":"RW17","lat":40.873442,"lon":-111.927525,"length":4634,"course":164.8},{"id":"RW35","lat":40.862864,"lon":-111.927475,"length":4634,"course":344.8}],"procedures":{"D":{},"E":{},"F":{}}};

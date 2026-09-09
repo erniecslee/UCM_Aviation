@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XS1"]={"id":"2XS1","name":"HARRIS RANCH","lat":30.218878,"lon":-98.302742,"elevation":1188,"region":"K4","runways":[{"id":"RW18","lat":30.223519,"lon":-98.302114,"length":4600,"course":180.7},{"id":"RW36","lat":30.213142,"lon":-98.303514,"length":4600,"course":0.7}],"procedures":{"D":{},"E":{},"F":{}}};

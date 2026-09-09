@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PADG"]={"id":"PADG","name":"RED DOG","lat":68.032111,"lon":-162.899194,"elevation":969,"region":"PA","runways":[{"id":"RW03","lat":68.026175,"lon":-162.912978,"length":6312,"course":31.0},{"id":"RW21","lat":68.038028,"lon":-162.885389,"length":6312,"course":211.0}],"procedures":{"D":{},"E":{},"F":{}}};

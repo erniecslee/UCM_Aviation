@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NA4"]={"id":"9NA4","name":"BODMER","lat":48.666133,"lon":-101.890719,"elevation":1885,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

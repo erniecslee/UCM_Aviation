@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OR8"]={"id":"5OR8","name":"HATCH","lat":44.773178,"lon":-122.850089,"elevation":380,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

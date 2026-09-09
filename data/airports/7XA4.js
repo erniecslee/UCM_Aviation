@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7XA4"]={"id":"7XA4","name":"BUCKSHOT RANCH","lat":31.161306,"lon":-97.302417,"elevation":721,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

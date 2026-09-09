@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS53"]={"id":"XS53","name":"PEASTER 01","lat":32.850489,"lon":-97.862247,"elevation":1247,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

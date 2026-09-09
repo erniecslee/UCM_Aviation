@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61NJ"]={"id":"61NJ","name":"THOMAS BROWNE AIRPARK","lat":39.691503,"lon":-75.143233,"elevation":145,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

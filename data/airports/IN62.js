@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN62"]={"id":"IN62","name":"TROPRIA","lat":41.244769,"lon":-85.297475,"elevation":905,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

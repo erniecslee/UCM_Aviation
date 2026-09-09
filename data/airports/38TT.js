@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38TT"]={"id":"38TT","name":"OLYMPUS","lat":33.167819,"lon":-95.980372,"elevation":613,"region":"K4","runways":[{"id":"RW18","lat":33.171528,"lon":-95.980328,"length":2700,"course":178.5},{"id":"RW36","lat":33.164111,"lon":-95.980417,"length":2700,"course":358.5}],"procedures":{"D":{},"E":{},"F":{}}};

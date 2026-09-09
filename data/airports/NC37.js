@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC37"]={"id":"NC37","name":"MOUNTAIN VIEW AERODROME","lat":36.340136,"lon":-79.841147,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

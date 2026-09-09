@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92IN"]={"id":"92IN","name":"H R WEISSER","lat":41.425033,"lon":-85.847622,"elevation":836,"region":"K5","runways":[{"id":"RW18","lat":41.427394,"lon":-85.847669,"length":1720,"course":182.1},{"id":"RW36","lat":41.422672,"lon":-85.847575,"length":1720,"course":2.1}],"procedures":{"D":{},"E":{},"F":{}}};

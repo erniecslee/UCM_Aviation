@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR08"]={"id":"OR08","name":"BARTON LAKE RANCH","lat":43.128767,"lon":-118.676589,"elevation":4159,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

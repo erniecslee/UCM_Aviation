@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25MN"]={"id":"25MN","name":"SHIRT LAKE","lat":46.430556,"lon":-93.833056,"elevation":1272,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

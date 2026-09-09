@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA16"]={"id":"XA16","name":"TIGHTWAAD AIR RANCH","lat":33.494167,"lon":-97.465556,"elevation":875,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52TN"]={"id":"52TN","name":"DISNEY FARM STOL","lat":35.6073,"lon":-86.250036,"elevation":947,"region":"K7","runways":[{"id":"RW01","lat":35.606772,"lon":-86.250153,"length":390,"course":14.8},{"id":"RW19","lat":35.607825,"lon":-86.249919,"length":390,"course":194.8}],"procedures":{"D":{},"E":{},"F":{}}};

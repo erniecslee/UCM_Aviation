@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NR2"]={"id":"2NR2","name":"ELKINS FLD","lat":34.457778,"lon":-78.618333,"elevation":93,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

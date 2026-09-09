@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID25"]={"id":"ID25","name":"OLMSTEAD SKY RANCH","lat":48.350758,"lon":-116.554083,"elevation":2140,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

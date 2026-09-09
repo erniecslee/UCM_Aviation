@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT77"]={"id":"WT77","name":"ROCKY BAY","lat":47.355222,"lon":-122.790278,"elevation":80,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

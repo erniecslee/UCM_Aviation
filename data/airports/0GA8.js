@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GA8"]={"id":"0GA8","name":"PASO FINO FARM","lat":30.887142,"lon":-83.415992,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

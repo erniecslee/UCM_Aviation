@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IL0"]={"id":"9IL0","name":"VILLIGER","lat":41.094481,"lon":-89.3862,"elevation":500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49NY"]={"id":"49NY","name":"WESTMORELAND","lat":41.055672,"lon":-72.360486,"elevation":22,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

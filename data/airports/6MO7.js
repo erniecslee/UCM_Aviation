@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MO7"]={"id":"6MO7","name":"RIVERSIDE LANDINGS","lat":37.029219,"lon":-93.166847,"elevation":1280,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

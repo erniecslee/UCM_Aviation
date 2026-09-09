@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I99"]={"id":"I99","name":"ALEXANDRIA","lat":40.232514,"lon":-85.637531,"elevation":900,"region":"K5","runways":[{"id":"RW09","lat":40.232558,"lon":-85.641467,"length":2591,"course":91.0},{"id":"RW27","lat":40.23245,"lon":-85.633875,"length":2591,"course":271.0}],"procedures":{"D":{},"E":{},"F":{}}};

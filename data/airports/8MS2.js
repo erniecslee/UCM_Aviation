@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MS2"]={"id":"8MS2","name":"GODSPEED AIRPARK","lat":34.233889,"lon":-88.507222,"elevation":350,"region":"K7","runways":[{"id":"RW09","lat":34.233889,"lon":-88.507222,"length":3900,"course":93.6}],"procedures":{"D":{},"E":{},"F":{}}};

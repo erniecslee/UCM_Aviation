@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39PN"]={"id":"39PN","name":"NELSON'S RUN","lat":41.215892,"lon":-80.197561,"elevation":1305,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD63"]={"id":"FD63","name":"SQUIRES AVIATION RANCH","lat":30.512778,"lon":-83.198333,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

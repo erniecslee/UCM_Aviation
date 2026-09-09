@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84Y"]={"id":"84Y","name":"BLOOMFIELD MUNI","lat":42.579725,"lon":-97.673675,"elevation":1673,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00WN"]={"id":"00WN","name":"HAWKS RUN","lat":46.25,"lon":-117.249,"elevation":2900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

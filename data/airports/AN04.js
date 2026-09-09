@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AN04"]={"id":"AN04","name":"DORCOL","lat":61.704286,"lon":-149.21895,"elevation":891,"region":"PA","runways":[{"id":"RW08","lat":61.7043,"lon":-149.221511,"length":889,"course":76.3},{"id":"RW26","lat":61.704269,"lon":-149.216389,"length":889,"course":256.3}],"procedures":{"D":{},"E":{},"F":{}}};

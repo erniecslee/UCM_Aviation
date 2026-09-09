@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR78"]={"id":"OR78","name":"DANIELS FLD LLC","lat":44.270556,"lon":-123.061944,"elevation":320,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

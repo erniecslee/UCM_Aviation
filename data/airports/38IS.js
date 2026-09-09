@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38IS"]={"id":"38IS","name":"WINCHESTER","lat":40.581986,"lon":-91.358486,"elevation":685,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

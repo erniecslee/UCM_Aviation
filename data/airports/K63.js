@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K63"]={"id":"K63","name":"COUNCIL GROVE MUNI","lat":38.676472,"lon":-96.57275,"elevation":1409,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

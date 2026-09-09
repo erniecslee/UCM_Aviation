@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80MO"]={"id":"80MO","name":"SEIFERD FLD","lat":37.276475,"lon":-94.351792,"elevation":942,"region":"K3","runways":[{"id":"RW11","lat":37.278197,"lon":-94.356092,"length":2800,"course":115.6},{"id":"RW29","lat":37.274753,"lon":-94.347489,"length":2800,"course":295.6}],"procedures":{"D":{},"E":{},"F":{}}};

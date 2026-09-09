@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73CO"]={"id":"73CO","name":"FLYING D RANCH","lat":37.755617,"lon":-104.646781,"elevation":6000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

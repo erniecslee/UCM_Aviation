@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WV5"]={"id":"2WV5","name":"WILLOW BEND","lat":37.545833,"lon":-80.533889,"elevation":2150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

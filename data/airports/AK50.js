@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK50"]={"id":"AK50","name":"SKY RANCH AT PIONEER PEAK","lat":61.554633,"lon":-149.141514,"elevation":120,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

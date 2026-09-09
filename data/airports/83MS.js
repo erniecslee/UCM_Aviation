@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83MS"]={"id":"83MS","name":"JOLLEY FLD","lat":32.436386,"lon":-89.766731,"elevation":390,"region":"K7","runways":[{"id":"RW18","lat":32.439958,"lon":-89.766792,"length":2600,"course":181.0},{"id":"RW36","lat":32.432817,"lon":-89.766667,"length":2600,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

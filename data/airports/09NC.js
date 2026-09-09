@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09NC"]={"id":"09NC","name":"WILLIAM IRVING LEWIS","lat":35.329325,"lon":-79.030025,"elevation":310,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

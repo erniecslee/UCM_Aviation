@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15AK"]={"id":"15AK","name":"GOLDEN NORTH AIRFIELD","lat":63.37065,"lon":-148.850336,"elevation":2250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

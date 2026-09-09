@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65WA"]={"id":"65WA","name":"WISSLER'S","lat":46.840378,"lon":-122.916244,"elevation":255,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IL9"]={"id":"2IL9","name":"MEADOW CREEK","lat":41.433342,"lon":-87.781353,"elevation":780,"region":"K5","runways":[{"id":"RW04","lat":41.429739,"lon":-87.785286,"length":3400,"course":43.0},{"id":"RW22","lat":41.436944,"lon":-87.777419,"length":3400,"course":223.0}],"procedures":{"D":{},"E":{},"F":{}}};

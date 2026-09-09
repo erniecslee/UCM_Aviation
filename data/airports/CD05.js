@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD05"]={"id":"CD05","name":"SHKYVIEW","lat":37.755583,"lon":-105.157908,"elevation":7064,"region":"K2","runways":[{"id":"RW06","lat":37.754767,"lon":-105.159994,"length":1345,"course":56.4},{"id":"RW24","lat":37.7564,"lon":-105.155822,"length":1345,"course":236.4}],"procedures":{"D":{},"E":{},"F":{}}};

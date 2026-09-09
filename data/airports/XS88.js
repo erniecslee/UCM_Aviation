@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS88"]={"id":"XS88","name":"PARSON FLD","lat":33.857383,"lon":-95.704794,"elevation":475,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2F0"]={"id":"2F0","name":"IRAAN MUNI","lat":30.906222,"lon":-101.889806,"elevation":2200,"region":"K4","runways":[{"id":"RW07","lat":30.905536,"lon":-101.894117,"length":2755,"course":70.0},{"id":"RW25","lat":30.906939,"lon":-101.885483,"length":2755,"course":250.0}],"procedures":{"D":{},"E":{},"F":{}}};

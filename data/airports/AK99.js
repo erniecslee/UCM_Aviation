@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK99"]={"id":"AK99","name":"GRAND HOME","lat":61.446667,"lon":-149.761111,"elevation":85,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

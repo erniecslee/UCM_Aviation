@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T19"]={"id":"T19","name":"DUVAL-FREER","lat":27.888694,"lon":-98.599958,"elevation":564,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94WA"]={"id":"94WA","name":"WISHKAH RIVER RANCH","lat":47.084814,"lon":-123.773778,"elevation":36,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AR0"]={"id":"6AR0","name":"CYPRESS CREEK AIRPARK","lat":35.060556,"lon":-92.116111,"elevation":270,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

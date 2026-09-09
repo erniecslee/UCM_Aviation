@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY01"]={"id":"MY01","name":"ROAN","lat":48.145808,"lon":-96.752564,"elevation":860,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

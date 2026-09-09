@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR95"]={"id":"OR95","name":"VINEYARD","lat":45.049839,"lon":-123.234547,"elevation":190,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

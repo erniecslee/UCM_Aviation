@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OK5"]={"id":"0OK5","name":"CHAPPELL","lat":35.888936,"lon":-97.400317,"elevation":1070,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

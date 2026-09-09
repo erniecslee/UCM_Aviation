@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87KS"]={"id":"87KS","name":"HAYLAND","lat":38.831067,"lon":-98.616389,"elevation":1732,"region":"K3","runways":[{"id":"RW18","lat":38.834361,"lon":-98.616389,"length":2400,"course":176.2},{"id":"RW36","lat":38.827772,"lon":-98.616389,"length":2400,"course":356.2}],"procedures":{"D":{},"E":{},"F":{}}};

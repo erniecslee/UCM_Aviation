@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MN6"]={"id":"6MN6","name":"GOOSE LAKE","lat":44.887519,"lon":-93.842058,"elevation":967,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

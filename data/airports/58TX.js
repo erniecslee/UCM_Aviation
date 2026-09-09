@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58TX"]={"id":"58TX","name":"TAILSPIN ESTATES","lat":32.651264,"lon":-97.934147,"elevation":830,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

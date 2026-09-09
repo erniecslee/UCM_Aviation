@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX9"]={"id":"2TX9","name":"BUZZARD CREEK AIRSTRIP","lat":31.327814,"lon":-98.804769,"elevation":1309,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

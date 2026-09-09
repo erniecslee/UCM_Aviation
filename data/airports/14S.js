@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14S"]={"id":"14S","name":"WESTPORT","lat":46.89695,"lon":-124.100744,"elevation":14,"region":"K1","runways":[{"id":"RW12","lat":46.899264,"lon":-124.103925,"length":2318,"course":117.0},{"id":"RW30","lat":46.894639,"lon":-124.097567,"length":2318,"course":297.0}],"procedures":{"D":{},"E":{},"F":{}}};

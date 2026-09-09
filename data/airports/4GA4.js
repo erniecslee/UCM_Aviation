@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA4"]={"id":"4GA4","name":"R M HARRIS","lat":34.846747,"lon":-84.754661,"elevation":770,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

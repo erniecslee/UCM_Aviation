@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23NJ"]={"id":"23NJ","name":"ALLIANCE","lat":39.504722,"lon":-75.093056,"elevation":110,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

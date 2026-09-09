@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18Y"]={"id":"18Y","name":"MILACA MUNI","lat":45.772464,"lon":-93.632183,"elevation":1100,"region":"K3","runways":[{"id":"RW16","lat":45.775967,"lon":-93.634356,"length":2900,"course":159.0},{"id":"RW34","lat":45.768403,"lon":-93.630844,"length":2900,"course":339.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0C8"]={"id":"0C8","name":"CUSHING FLD LTD","lat":41.519475,"lon":-88.605628,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

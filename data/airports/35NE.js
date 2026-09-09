@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35NE"]={"id":"35NE","name":"SHELBURNES","lat":41.049994,"lon":-101.804619,"elevation":3475,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

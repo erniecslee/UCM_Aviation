@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM30"]={"id":"NM30","name":"PORCUPINE RIDGE","lat":34.513056,"lon":-108.036111,"elevation":7540,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC72"]={"id":"NC72","name":"HINTON FLD","lat":35.451025,"lon":-78.159428,"elevation":152,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

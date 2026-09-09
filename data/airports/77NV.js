@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77NV"]={"id":"77NV","name":"FLYING EAGLE","lat":39.846667,"lon":-119.686667,"elevation":4220,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

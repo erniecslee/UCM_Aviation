@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA85"]={"id":"IA85","name":"TUINSTRA AIRFIELD","lat":41.435131,"lon":-93.540492,"elevation":900,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

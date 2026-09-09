@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT71"]={"id":"MT71","name":"EDSALL FLD","lat":45.724097,"lon":-111.043003,"elevation":4659,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

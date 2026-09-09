@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN08"]={"id":"WN08","name":"KENDALL AIRSTRIP","lat":48.914844,"lon":-122.112928,"elevation":548,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

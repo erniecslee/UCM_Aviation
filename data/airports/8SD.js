@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8SD"]={"id":"8SD","name":"BOWDLE MUNI","lat":45.439561,"lon":-99.675211,"elevation":1963,"region":"K3","runways":[{"id":"RW13","lat":45.443492,"lon":-99.67945,"length":3600,"course":135.0},{"id":"RW31","lat":45.435631,"lon":-99.670969,"length":3600,"course":315.0}],"procedures":{"D":{},"E":{},"F":{}}};

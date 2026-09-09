@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT60"]={"id":"VT60","name":"HULETT LANDING STRIP","lat":43.330072,"lon":-73.242606,"elevation":720,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

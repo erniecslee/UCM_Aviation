@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN09"]={"id":"WN09","name":"BUCKY'S AIRPARK","lat":44.164444,"lon":-89.508056,"elevation":1145,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

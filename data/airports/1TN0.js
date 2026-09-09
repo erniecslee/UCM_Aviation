@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TN0"]={"id":"1TN0","name":"CEDAR CREST FLD","lat":36.246686,"lon":-86.303333,"elevation":540,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

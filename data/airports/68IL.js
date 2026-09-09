@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68IL"]={"id":"68IL","name":"STICHNOTH","lat":40.613611,"lon":-87.562222,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

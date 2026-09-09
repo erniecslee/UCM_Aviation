@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D11"]={"id":"D11","name":"OJIBWA AIRPARK","lat":43.72065,"lon":-85.002244,"elevation":959,"region":"K5","runways":[{"id":"RW05","lat":43.7193,"lon":-85.004628,"length":3600,"course":57.0},{"id":"RW23","lat":43.723011,"lon":-84.998067,"length":3600,"course":237.0}],"procedures":{"D":{},"E":{},"F":{}}};

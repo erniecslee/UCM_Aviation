@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT54"]={"id":"MT54","name":"WEAVER","lat":48.24385,"lon":-114.244294,"elevation":2929,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

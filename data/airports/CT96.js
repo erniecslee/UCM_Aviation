@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT96"]={"id":"CT96","name":"GREEN ACRES","lat":41.708431,"lon":-72.971217,"elevation":950,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

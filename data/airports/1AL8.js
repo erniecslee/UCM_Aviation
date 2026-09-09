@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AL8"]={"id":"1AL8","name":"MOORE FLD","lat":33.610931,"lon":-86.474906,"elevation":730,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

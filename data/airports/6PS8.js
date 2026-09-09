@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6PS8"]={"id":"6PS8","name":"TYLER","lat":41.816719,"lon":-75.698783,"elevation":1401,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

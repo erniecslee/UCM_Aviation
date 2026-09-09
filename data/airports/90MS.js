@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90MS"]={"id":"90MS","name":"STEELE FARMS","lat":33.143333,"lon":-91.06,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

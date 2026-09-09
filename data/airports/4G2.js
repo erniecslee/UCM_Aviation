@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4G2"]={"id":"4G2","name":"HAMBURG","lat":42.700892,"lon":-78.914758,"elevation":751,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

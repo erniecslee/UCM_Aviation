@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD83"]={"id":"SD83","name":"LEE","lat":44.215556,"lon":-97.6075,"elevation":1555,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

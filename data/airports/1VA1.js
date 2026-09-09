@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1VA1"]={"id":"1VA1","name":"MICRO","lat":36.736133,"lon":-80.445408,"elevation":2964,"region":"K6","runways":[{"id":"RW08","lat":36.733967,"lon":-80.453539,"length":5020,"course":78.0},{"id":"RW26","lat":36.738297,"lon":-80.437275,"length":5020,"course":258.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NE9"]={"id":"4NE9","name":"HOLZFASTER'S","lat":40.999161,"lon":-101.446556,"elevation":3305,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

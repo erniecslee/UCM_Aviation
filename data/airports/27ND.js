@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27ND"]={"id":"27ND","name":"OVERLAND-LOHSE FLD","lat":48.578631,"lon":-103.465978,"elevation":2124,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

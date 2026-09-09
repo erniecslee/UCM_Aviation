@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN1"]={"id":"8TN1","name":"PARKER","lat":35.196389,"lon":-89.626944,"elevation":375,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

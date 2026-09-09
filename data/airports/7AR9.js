@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR9"]={"id":"7AR9","name":"CULLEN","lat":35.956381,"lon":-90.812983,"elevation":255,"region":"K4","runways":[{"id":"RW18","lat":35.959894,"lon":-90.812953,"length":2558,"course":181.8},{"id":"RW36","lat":35.952867,"lon":-90.813014,"length":2558,"course":1.8}],"procedures":{"D":{},"E":{},"F":{}}};

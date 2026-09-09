@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NY0"]={"id":"4NY0","name":"MOUNTAIN VIEW AIRPARK","lat":44.668933,"lon":-73.546247,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

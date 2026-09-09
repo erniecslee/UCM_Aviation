@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA06"]={"id":"CA06","name":"BATES FLD","lat":41.417764,"lon":-120.569228,"elevation":4400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK83"]={"id":"AK83","name":"GANNON'S LANDING","lat":61.62725,"lon":-149.609331,"elevation":380,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

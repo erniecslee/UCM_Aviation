@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WN5"]={"id":"9WN5","name":"LODI LAKELAND","lat":43.333322,"lon":-89.520953,"elevation":844,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

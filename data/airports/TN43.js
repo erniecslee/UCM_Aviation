@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN43"]={"id":"TN43","name":"ISLE-A-PORT","lat":35.095925,"lon":-90.113981,"elevation":215,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

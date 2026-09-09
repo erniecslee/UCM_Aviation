@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN08"]={"id":"SN08","name":"FISHER","lat":37.991678,"lon":-97.656433,"elevation":1430,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NJ2"]={"id":"7NJ2","name":"STOE CREEK FARM","lat":39.481333,"lon":-75.405333,"elevation":15,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD8"]={"id":"4MD8","name":"IJAMSVILLE","lat":39.358575,"lon":-77.339467,"elevation":490,"region":"K6","runways":[{"id":"RW13","lat":39.360528,"lon":-77.343128,"length":2513,"course":134.5},{"id":"RW31","lat":39.356619,"lon":-77.335806,"length":2513,"course":314.5}],"procedures":{"D":{},"E":{},"F":{}}};

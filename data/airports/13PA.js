@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13PA"]={"id":"13PA","name":"RIGRTONA","lat":41.682392,"lon":-79.452953,"elevation":1703,"region":"K6","runways":[{"id":"RW10","lat":41.682497,"lon":-79.457025,"length":2225,"course":102.0},{"id":"RW28","lat":41.682339,"lon":-79.450911,"length":2225,"course":282.0}],"procedures":{"D":{},"E":{},"F":{}}};

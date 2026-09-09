@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70LL"]={"id":"70LL","name":"ADAMS NUMBER 1","lat":40.9417,"lon":-88.750067,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

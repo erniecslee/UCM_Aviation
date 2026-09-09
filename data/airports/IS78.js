@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS78"]={"id":"IS78","name":"EARLY - MERKEL FLD","lat":42.366264,"lon":-89.235092,"elevation":794,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

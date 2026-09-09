@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS87"]={"id":"WS87","name":"PORT FLD","lat":48.331869,"lon":-120.058253,"elevation":1650,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

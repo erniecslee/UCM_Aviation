@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MTF"]={"id":"MTF","name":"METRO FLD","lat":64.806789,"lon":-147.762422,"elevation":432,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KSVN"]={"id":"KSVN","name":"HUNTER AAF","lat":32.010019,"lon":-81.145989,"elevation":41,"region":"K7","runways":[{"id":"RW10","lat":32.010617,"lon":-81.164322,"length":11375,"course":96.0},{"id":"RW28","lat":32.009425,"lon":-81.127653,"length":11375,"course":276.0}],"procedures":{"D":{},"E":{},"F":{}}};

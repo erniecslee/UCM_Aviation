@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93M"]={"id":"93M","name":"RUETER AIRFIELD","lat":39.849072,"lon":-91.594814,"elevation":657,"region":"K3","runways":[{"id":"RW18","lat":39.852575,"lon":-91.594747,"length":2551,"course":182.0},{"id":"RW36","lat":39.845572,"lon":-91.594883,"length":2551,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

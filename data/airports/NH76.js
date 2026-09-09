@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH76"]={"id":"NH76","name":"MASON AIRFIELD","lat":42.728975,"lon":-71.784239,"elevation":740,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

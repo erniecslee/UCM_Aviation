@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C11"]={"id":"C11","name":"AMANA","lat":41.793583,"lon":-91.864772,"elevation":712,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

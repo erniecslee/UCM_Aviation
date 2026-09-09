@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20XS"]={"id":"20XS","name":"KLUTTS FLD","lat":32.835283,"lon":-96.378731,"elevation":495,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

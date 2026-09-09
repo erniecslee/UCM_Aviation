@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE58"]={"id":"TE58","name":"TRML D RANCH","lat":28.445133,"lon":-98.039403,"elevation":260,"region":"K4","runways":[{"id":"RW18","lat":28.448667,"lon":-98.038778,"length":2600,"course":185.6},{"id":"RW36","lat":28.441597,"lon":-98.040028,"length":2600,"course":5.6}],"procedures":{"D":{},"E":{},"F":{}}};

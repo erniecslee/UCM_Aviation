@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85XA"]={"id":"85XA","name":"WINDMILLCREEK","lat":33.30955,"lon":-97.311161,"elevation":800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

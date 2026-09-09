@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5BK"]={"id":"5BK","name":"BLACK RAPIDS","lat":63.535147,"lon":-145.860886,"elevation":2125,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

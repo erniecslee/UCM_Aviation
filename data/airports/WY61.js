@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY61"]={"id":"WY61","name":"ROCK & A HARD PLACE RANCH","lat":41.284722,"lon":-105.51125,"elevation":7566,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

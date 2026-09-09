@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35C"]={"id":"35C","name":"WELLS","lat":43.128633,"lon":-85.505186,"elevation":890,"region":"K5","runways":[{"id":"RW18","lat":43.1311,"lon":-85.505244,"length":2200,"course":183.0},{"id":"RW36","lat":43.126714,"lon":-85.505139,"length":2200,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

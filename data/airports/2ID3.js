@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ID3"]={"id":"2ID3","name":"JOSEPHINE RANCH","lat":42.751833,"lon":-116.677333,"elevation":5100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

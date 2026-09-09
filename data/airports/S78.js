@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S78"]={"id":"S78","name":"EMMETT MUNI","lat":43.85265,"lon":-116.539069,"elevation":2354,"region":"K1","runways":[{"id":"RW10","lat":43.854683,"lon":-116.544672,"length":3307,"course":99.0},{"id":"RW28","lat":43.850617,"lon":-116.533467,"length":3307,"course":279.0}],"procedures":{"D":{},"E":{},"F":{}}};

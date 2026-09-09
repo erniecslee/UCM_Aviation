@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD61"]={"id":"FD61","name":"RED BARN ACRES","lat":30.176614,"lon":-82.997908,"elevation":104,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

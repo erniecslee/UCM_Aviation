@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05WN"]={"id":"05WN","name":"FLAT CREEK FLD","lat":48.702222,"lon":-118.0475,"elevation":1570,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

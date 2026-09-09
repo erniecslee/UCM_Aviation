@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY02"]={"id":"MY02","name":"DEMMERS FLD","lat":44.632239,"lon":-93.540361,"elevation":900,"region":"K3","runways":[{"id":"RW06","lat":44.631567,"lon":-93.542333,"length":1138,"course":64.4},{"id":"RW24","lat":44.632908,"lon":-93.538386,"length":1138,"course":244.4}],"procedures":{"D":{},"E":{},"F":{}}};

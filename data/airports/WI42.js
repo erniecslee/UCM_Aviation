@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI42"]={"id":"WI42","name":"PINE GROVE","lat":45.657178,"lon":-89.529858,"elevation":1630,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

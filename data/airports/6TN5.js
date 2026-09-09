@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TN5"]={"id":"6TN5","name":"LEVAIRPORT","lat":35.248078,"lon":-86.831067,"elevation":730,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

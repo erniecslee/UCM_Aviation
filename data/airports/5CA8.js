@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CA8"]={"id":"5CA8","name":"HOWARD /PRIVATE/","lat":38.256306,"lon":-120.931606,"elevation":480,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

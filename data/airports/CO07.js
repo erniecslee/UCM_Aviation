@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO07"]={"id":"CO07","name":"ATHANASIOU VALLEY","lat":39.854153,"lon":-105.471383,"elevation":8900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNDY"]={"id":"KNDY","name":"DAHLGREN NSF","lat":38.332878,"lon":-77.037011,"elevation":18,"region":"K6","runways":[{"id":"RW16","lat":38.337764,"lon":-77.040869,"length":4191,"course":157.0},{"id":"RW34","lat":38.327994,"lon":-77.03315,"length":4191,"course":337.0}],"procedures":{"D":{},"E":{},"F":{}}};

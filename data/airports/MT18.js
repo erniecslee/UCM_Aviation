@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT18"]={"id":"MT18","name":"TORRES","lat":48.28995,"lon":-114.182867,"elevation":3078,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

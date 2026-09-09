@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76WA"]={"id":"76WA","name":"LUCKIE FARMS","lat":48.005097,"lon":-122.133744,"elevation":10,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

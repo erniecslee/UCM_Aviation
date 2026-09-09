@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93OK"]={"id":"93OK","name":"JANTZEN","lat":35.934544,"lon":-95.591367,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

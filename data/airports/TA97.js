@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA97"]={"id":"TA97","name":"WHITE WING RANCH","lat":29.637458,"lon":-95.968844,"elevation":125,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

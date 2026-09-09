@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR11"]={"id":"AR11","name":"OZARK AERODROME","lat":36.288889,"lon":-94.090278,"elevation":1270,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53IL"]={"id":"53IL","name":"STEIL","lat":41.231389,"lon":-89.452222,"elevation":648,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

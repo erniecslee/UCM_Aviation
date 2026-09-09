@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39G"]={"id":"39G","name":"AVOCA","lat":43.030478,"lon":-82.669464,"elevation":726,"region":"K5","runways":[{"id":"RW09","lat":43.030414,"lon":-82.671172,"length":2105,"course":94.9}],"procedures":{"D":{},"E":{},"F":{}}};

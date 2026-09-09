@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43TX"]={"id":"43TX","name":"MID-VALLEY DUSTERS INC","lat":26.153131,"lon":-98.135008,"elevation":91,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

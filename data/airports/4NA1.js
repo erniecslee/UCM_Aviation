@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NA1"]={"id":"4NA1","name":"RING ROCK RANCH","lat":48.242778,"lon":-103.686389,"elevation":2256,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

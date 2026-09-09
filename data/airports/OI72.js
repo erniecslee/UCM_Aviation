@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI72"]={"id":"OI72","name":"MARVIN THIEL FLD","lat":41.522222,"lon":-84.720833,"elevation":859,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

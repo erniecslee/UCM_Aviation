@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T58"]={"id":"T58","name":"IRONHEAD","lat":33.331783,"lon":-97.230294,"elevation":715,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

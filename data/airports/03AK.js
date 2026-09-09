@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03AK"]={"id":"03AK","name":"JOE CLOUDS","lat":60.727222,"lon":-151.132778,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

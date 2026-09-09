@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA72"]={"id":"XA72","name":"STOCKER","lat":33.276944,"lon":-97.289444,"elevation":770,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

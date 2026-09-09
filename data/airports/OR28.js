@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR28"]={"id":"OR28","name":"HARVEY'S ACRES","lat":45.441506,"lon":-122.892878,"elevation":250,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

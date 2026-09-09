@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA90"]={"id":"LA90","name":"LEBLANC","lat":30.294597,"lon":-92.425972,"elevation":26,"region":"K4","runways":[{"id":"RW09","lat":30.294656,"lon":-92.429453,"length":2197,"course":91.2},{"id":"RW27","lat":30.294539,"lon":-92.422492,"length":2197,"course":271.2}],"procedures":{"D":{},"E":{},"F":{}}};

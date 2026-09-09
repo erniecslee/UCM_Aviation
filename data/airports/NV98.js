@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV98"]={"id":"NV98","name":"CAAS","lat":36.150278,"lon":-115.899722,"elevation":2800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

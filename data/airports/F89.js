@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F89"]={"id":"F89","name":"WINNSBORO MUNI","lat":32.153028,"lon":-91.698583,"elevation":78,"region":"K4","runways":[{"id":"RW18","lat":32.157156,"lon":-91.698542,"length":3001,"course":176.0},{"id":"RW36","lat":32.148908,"lon":-91.698603,"length":3001,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

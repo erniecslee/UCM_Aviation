@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X09"]={"id":"X09","name":"COVEY TRAILS","lat":29.690083,"lon":-95.840475,"elevation":130,"region":"K4","runways":[{"id":"RW17","lat":29.693822,"lon":-95.840625,"length":3352,"course":172.0},{"id":"RW35","lat":29.686164,"lon":-95.840317,"length":3352,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

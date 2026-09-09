@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02CO"]={"id":"02CO","name":"MC CULLOUGH","lat":37.643336,"lon":-106.046969,"elevation":7615,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

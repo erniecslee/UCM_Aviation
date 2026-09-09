@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79TS"]={"id":"79TS","name":"TALLOWS FLD","lat":33.304281,"lon":-96.747217,"elevation":729,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

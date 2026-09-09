@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY30"]={"id":"WY30","name":"KINKY CREEK DIVIDE","lat":43.3755,"lon":-110.109894,"elevation":8803,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

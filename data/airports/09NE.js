@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09NE"]={"id":"09NE","name":"SUMMER HILL FARM","lat":41.333331,"lon":-96.193631,"elevation":1272,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

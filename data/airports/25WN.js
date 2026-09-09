@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25WN"]={"id":"25WN","name":"LITTLE PLUM CREEK","lat":44.528717,"lon":-92.120342,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

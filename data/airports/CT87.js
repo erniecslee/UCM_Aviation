@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT87"]={"id":"CT87","name":"BOOTLEGGER'S","lat":41.998431,"lon":-72.605922,"elevation":35,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

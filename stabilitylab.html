@@ -1,0 +1,1131 @@
+<title>Atmospheric Stability Lab</title>
+<meta name="description" content="Drag a multi-layer environmental profile, hold the button to lift an air parcel, and watch clouds form, cap, or dissipate in real time.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg:#f2f5fb;
+    --panel:#ffffff;
+    --panel-alt:#eef2fa;
+    --grid:#d7e0ee;
+    --border:#c9d4e6;
+    --text:#16202f;
+    --text-muted:#5b6a85;
+    --accent-warm:#d9631f;
+    --accent-warm-soft:#f7ddc4;
+    --accent-cool:#1f7f96;
+    --accent-cool-soft:#cdeaf1;
+    --accent-neutral:#7c879c;
+    --sky-top:#bcd7f2;
+    --sky-bottom:#eef4fb;
+    --ground:#5f7256;
+    --ground-dark:#4a5a43;
+    --cloud:#eef1f7;
+    --cloud-shadow:#8fa0ba;
+    --fog:#e7edf6;
+    --sky-1:#3f7fc4; --sky-2:#6fa3d8; --sky-3:#a9c9e8; --sky-4:#e7f0f9;
+    --sun-core:#fff4d6;
+    --cloud-hi:#ffffff;
+    --ridge-far:#a3b7cc; --ridge-mid:#70876a; --ground-hi:#71895d; --ground-lo:#3f5536;
+    --shadow: 0 1px 2px rgba(20,30,50,.06), 0 8px 24px -12px rgba(20,30,50,.18);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0a0f1c;
+      --panel:#121a2c;
+      --panel-alt:#16203a;
+      --grid:#243052;
+      --border:#2b3856;
+      --text:#eef2f8;
+      --text-muted:#8b9ab8;
+      --accent-warm:#ff8a3d;
+      --accent-warm-soft:#432a16;
+      --accent-cool:#5ec8d8;
+      --accent-cool-soft:#123240;
+      --accent-neutral:#7280a0;
+      --sky-top:#111c34;
+      --sky-bottom:#22335a;
+      --ground:#26331f;
+      --ground-dark:#1a2415;
+      --cloud:#7c8aa8;
+      --cloud-shadow:#232c46;
+      --fog:#2a3350;
+      --sky-1:#050b18; --sky-2:#0e1c38; --sky-3:#213a5e; --sky-4:#3d5a82;
+      --sun-core:#ffd9a0;
+      --cloud-hi:#f5deb8;
+      --ridge-far:#28344c; --ridge-mid:#1c2a20; --ground-hi:#26331c; --ground-lo:#141d10;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 12px 30px -14px rgba(0,0,0,.6);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0a0f1c;
+    --panel:#121a2c;
+    --panel-alt:#16203a;
+    --grid:#243052;
+    --border:#2b3856;
+    --text:#eef2f8;
+    --text-muted:#8b9ab8;
+    --accent-warm:#ff8a3d;
+    --accent-warm-soft:#432a16;
+    --accent-cool:#5ec8d8;
+    --accent-cool-soft:#123240;
+    --accent-neutral:#7280a0;
+    --sky-top:#111c34;
+    --sky-bottom:#22335a;
+    --ground:#26331f;
+    --ground-dark:#1a2415;
+    --cloud:#c9d3e6;
+    --cloud-shadow:#0a1220;
+    --fog:#2a3350;
+    --sky-1:#050b18; --sky-2:#0e1c38; --sky-3:#213a5e; --sky-4:#3d5a82;
+    --sun-core:#ffd9a0;
+    --cloud-hi:#f5deb8;
+    --ridge-far:#28344c; --ridge-mid:#1c2a20; --ground-hi:#26331c; --ground-lo:#141d10;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 12px 30px -14px rgba(0,0,0,.6);
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:"Space Grotesk",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .mono{font-family:"JetBrains Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums;}
+
+  .app{max-width:1180px; margin:0 auto; padding:28px 22px 60px;}
+
+  .masthead{
+    display:flex; align-items:flex-end; justify-content:space-between; gap:24px;
+    padding-bottom:18px; margin-bottom:22px;
+    border-bottom:1px solid var(--border);
+  }
+  .eyebrow{
+    display:inline-block; font-weight:600;
+    font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent-warm);
+    margin-bottom:8px;
+  }
+  h1{
+    font-size:clamp(22px,3.2vw,30px); margin:0 0 8px; font-weight:700; letter-spacing:-.01em;
+    text-wrap:balance;
+  }
+  .subtitle{margin:0; color:var(--text-muted); font-size:13.5px; max-width:58ch; line-height:1.6;}
+  .source-tag{
+    flex:none; text-align:right; font-size:11px; color:var(--text-muted); line-height:1.7;
+    padding:8px 12px; border:1px solid var(--border); border-radius:8px; background:var(--panel-alt);
+  }
+  .source-tag b{display:block; color:var(--text); font-size:12px;}
+
+  .layout{display:grid; grid-template-columns:308px 1fr; gap:20px;}
+  @media (max-width:920px){ .layout{grid-template-columns:1fr;} }
+
+  .console{display:flex; flex-direction:column; gap:14px;}
+  .console-block{
+    background:var(--panel); border:1px solid var(--border); border-radius:14px;
+    padding:16px 16px 18px; box-shadow:var(--shadow);
+  }
+  .console-block h2{
+    margin:0 0 12px; font-size:12px; font-weight:600; letter-spacing:.06em; text-transform:uppercase;
+    color:var(--text-muted); display:flex; justify-content:space-between; align-items:baseline;
+  }
+  .console-block h2 .custom-tag{
+    font-size:10px; font-weight:700; letter-spacing:.02em; color:var(--accent-warm);
+    text-transform:none; font-family:"JetBrains Mono",monospace;
+  }
+
+  .preset-grid{display:grid; grid-template-columns:1fr 1fr; gap:6px; margin-bottom:14px;}
+  .preset-btn{
+    font-family:inherit; font-size:12px; font-weight:500; color:var(--text);
+    background:var(--panel-alt); border:1px solid var(--border); border-radius:8px;
+    padding:8px 6px; cursor:pointer; line-height:1.35; text-align:center;
+    transition:background .15s, border-color .15s, color .15s;
+  }
+  .preset-btn:hover{border-color:var(--accent-warm);}
+  .preset-btn.active{
+    background:var(--accent-warm); border-color:var(--accent-warm); color:#fff;
+  }
+  .preset-btn small{display:block; font-family:"JetBrains Mono",monospace; opacity:.75; font-size:9.5px; margin-top:4px; text-transform:uppercase; letter-spacing:.02em;}
+  .preset-btn .pb-title{display:block; font-size:13px; font-weight:600;}
+  .preset-btn .pb-val{display:block; font-family:"JetBrains Mono",monospace; font-size:11px; font-weight:700; color:var(--accent-warm); margin-top:3px;}
+  .preset-btn.active .pb-val{color:#fff;}
+  .preset-btn.scenario{background:var(--accent-cool-soft); border-color:var(--accent-cool);}
+  .preset-btn.scenario .pb-val{color:var(--accent-cool);}
+  .preset-btn.scenario.active{background:var(--accent-cool); border-color:var(--accent-cool);}
+  .preset-btn.scenario.active .pb-val{color:#fff;}
+
+  .slider-row{margin-bottom:14px;}
+  .slider-row:last-child{margin-bottom:2px;}
+  .slider-row label{
+    display:flex; justify-content:space-between; align-items:baseline;
+    font-size:12.5px; color:var(--text); margin-bottom:6px; font-weight:500;
+  }
+  .slider-row label .unit{font-size:10.5px; color:var(--text-muted); font-weight:400;}
+  .slider-row output{
+    font-family:"JetBrains Mono",monospace; font-size:12.5px; color:var(--accent-warm); font-weight:700;
+  }
+  input[type=range]{
+    -webkit-appearance:none; width:100%; height:5px; border-radius:3px;
+    background:var(--grid); outline:none; margin:0;
+  }
+  input[type=range]::-webkit-slider-thumb{
+    -webkit-appearance:none; width:16px; height:16px; border-radius:50%;
+    background:var(--accent-warm); border:2px solid var(--panel); box-shadow:0 0 0 1px var(--border);
+    cursor:pointer; margin-top:0;
+  }
+  input[type=range]::-moz-range-thumb{
+    width:16px; height:16px; border-radius:50%; background:var(--accent-warm);
+    border:2px solid var(--panel); box-shadow:0 0 0 1px var(--border); cursor:pointer;
+  }
+  .tick-row{position:relative; height:14px; margin-top:2px;}
+  .tick-row span{
+    position:absolute; transform:translateX(-50%); font-size:9px; color:var(--text-muted);
+    font-family:"JetBrains Mono",monospace; white-space:nowrap;
+  }
+  .tick-row i{
+    position:absolute; top:-16px; width:1px; height:6px; background:var(--border);
+  }
+
+  .lift-btn{
+    width:100%; padding:16px 10px; border-radius:12px; border:1px solid var(--accent-warm);
+    background:var(--accent-warm-soft); color:var(--accent-warm); font-weight:700; font-size:13.5px;
+    cursor:pointer; user-select:none; -webkit-user-select:none;
+    touch-action:none; transition:transform .08s, background .15s;
+    margin-bottom:8px;
+  }
+  .lift-btn .lift-sub{display:block; font-size:10px; letter-spacing:.03em; font-weight:500; margin-top:3px; opacity:.8; text-transform:none;}
+  .lift-btn.pressed{background:var(--accent-warm); color:#fff; transform:scale(.98);}
+  .reset-btn{
+    width:100%; padding:10px; border-radius:10px; border:1px solid var(--border);
+    background:var(--panel-alt); color:var(--text-muted); font-family:inherit; font-size:12.5px;
+    font-weight:500; cursor:pointer;
+  }
+  .reset-btn:hover{color:var(--text); border-color:var(--accent-cool);}
+
+  .explain-block h2{
+    text-transform:none; letter-spacing:0;
+    font-size:15px; color:var(--text); margin-bottom:8px; font-weight:700; display:block;
+  }
+  .explain-block h2 .sub{display:block; font-size:10px;
+    letter-spacing:.04em; color:var(--text-muted); font-weight:600; margin-top:3px; font-family:"JetBrains Mono",monospace;}
+  #explainText{margin:0; font-size:12.5px; line-height:1.75; color:var(--text-muted); font-family:system-ui,sans-serif;}
+  #explainText b{color:var(--text); font-weight:600;}
+
+  .stage{display:flex; flex-direction:column; gap:16px;}
+  .panel-row{display:grid; grid-template-columns:1fr 1fr; gap:16px;}
+  @media (max-width:680px){ .panel-row{grid-template-columns:1fr;} }
+  .panel{
+    background:var(--panel); border:1px solid var(--border); border-radius:14px;
+    padding:14px 14px 10px; box-shadow:var(--shadow);
+  }
+  .panel h3{
+    margin:0 0 8px; font-size:12px; font-weight:600; color:var(--text-muted);
+    letter-spacing:.03em;
+    display:flex; justify-content:space-between; align-items:baseline;
+  }
+  .panel h3 .panel-hint{font-size:10px; font-weight:400; opacity:.8;}
+  .panel svg{display:block; width:100%; height:auto;}
+  .drag-hint{margin:6px 0 0; font-size:10px; color:var(--text-muted); font-family:system-ui,sans-serif;}
+  .drag-hint b{color:var(--accent-cool); font-weight:600;}
+  .legend{display:flex; gap:14px; flex-wrap:wrap; margin-top:4px; padding-top:8px; border-top:1px dashed var(--border);}
+  .legend span{font-size:10.5px; color:var(--text-muted); display:flex; align-items:center; gap:5px; font-family:system-ui,sans-serif;}
+  .legend i{width:14px; height:0; border-top:2px solid; display:inline-block;}
+  .legend i.dashed{border-top-style:dashed;}
+  .legend i.dotted{border-top-style:dotted; border-top-width:3px;}
+
+  .readout-strip{
+    display:grid; grid-template-columns:repeat(6,1fr); gap:1px;
+    background:var(--border); border:1px solid var(--border); border-radius:14px; overflow:hidden;
+    box-shadow:var(--shadow);
+  }
+  @media (max-width:820px){ .readout-strip{grid-template-columns:repeat(3,1fr);} }
+  @media (max-width:420px){ .readout-strip{grid-template-columns:repeat(2,1fr);} }
+  .readout{background:var(--panel); padding:11px 12px;}
+  .readout .k{font-size:9.5px; color:var(--text-muted); text-transform:uppercase; letter-spacing:.05em;}
+  .readout .v{font-family:"JetBrains Mono",monospace; font-size:18px; font-weight:700; margin-top:3px; color:var(--text);}
+  .readout .v .u{font-size:11px; color:var(--text-muted); font-weight:400; margin-left:2px;}
+
+  .status-row{display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:2px;}
+  .pill{
+    display:inline-flex; align-items:center; gap:6px; padding:6px 12px; border-radius:999px;
+    font-size:12px; font-weight:700; border:1px solid transparent;
+  }
+  .pill .dot{width:7px; height:7px; border-radius:50%; background:currentColor;}
+  .pill.stable{background:var(--accent-cool-soft); color:var(--accent-cool);}
+  .pill.unstable{background:var(--accent-warm-soft); color:var(--accent-warm);}
+  .pill.neutral{background:var(--panel-alt); color:var(--accent-neutral); border-color:var(--border);}
+  .pill.cloud{background:var(--panel-alt); color:var(--text); border-color:var(--border);}
+
+  footer{margin-top:22px; font-size:11px; color:var(--text-muted); text-align:center; font-family:system-ui,sans-serif;}
+
+  .env-handle{cursor:ew-resize; touch-action:none;}
+</style>
+
+<div class="app">
+  <header class="masthead">
+    <div>
+      <span class="eyebrow">Aviation Weather · Stability Lab</span>
+      <h1>Atmospheric Stability Lab</h1>
+      <p class="subtitle">Shape a multi-layer environment — by preset or by dragging the sounding directly — then hold the button to lift an air parcel and watch it rise, stall, or punch through a cap.</p>
+    </div>
+    <div class="source-tag">
+      <b>Source</b>
+      FAA-H-8083-28B<br>Ch.12 Vertical Motion &amp; Clouds<br>Ch.13 Atmospheric Stability
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="console">
+      <section class="console-block">
+        <h2><span>Environmental Lapse Rate</span><span class="custom-tag" id="customTag" hidden>✎ custom</span></h2>
+        <div class="preset-grid" id="presetGrid">
+          <button class="preset-btn" data-g="-1.0"><span class="pb-title">Inversion</span><span class="pb-val">−1.0 °C/kft</span><small>Absolute Stable</small></button>
+          <button class="preset-btn" data-g="0.0"><span class="pb-title">Isothermal</span><span class="pb-val">0.0 °C/kft</span><small>Absolute Stable</small></button>
+          <button class="preset-btn" data-g="2.5"><span class="pb-title">Conditional</span><span class="pb-val">2.5 °C/kft</span><small>Instability</small></button>
+          <button class="preset-btn" data-g="3.0"><span class="pb-title">Neutral</span><span class="pb-val">3.0 °C/kft</span><small>Γ = DALR</small></button>
+          <button class="preset-btn" data-g="3.8"><span class="pb-title">Superadiabatic</span><span class="pb-val">3.8 °C/kft</span><small>Absolute Unstable</small></button>
+          <button class="preset-btn" data-g="1.2"><span class="pb-title">Weakly Stable</span><span class="pb-val">1.2 °C/kft</span><small>Absolute Stable</small></button>
+          <button class="preset-btn scenario" data-scenario="night"><span class="pb-title">Night Clear Sky</span><span class="pb-val">Layered</span><small>Radiation Inversion</small></button>
+          <button class="preset-btn scenario" data-scenario="capped"><span class="pb-title">Capped Convection</span><span class="pb-val">Layered</span><small>Unstable + Lid Aloft</small></button>
+        </div>
+        <div class="slider-row">
+          <label>Quick-Set Γ <output id="gammaVal">3.0</output><span class="unit">°C / 1,000 ft</span></label>
+          <input type="range" id="gammaSlider" min="-1.5" max="4.0" step="0.1" value="3.0">
+          <div class="tick-row" id="gammaTicks"></div>
+        </div>
+      </section>
+
+      <section class="console-block">
+        <h2><span>Surface Conditions</span></h2>
+        <div class="slider-row">
+          <label>Surface Temperature T₀ <output id="t0Val">18.0</output><span class="unit">°C</span></label>
+          <input type="range" id="t0Slider" min="-5" max="35" step="0.5" value="18">
+        </div>
+        <div class="slider-row">
+          <label>Dewpoint Depression T−Td <output id="spreadVal">5.0</output><span class="unit">°C</span></label>
+          <input type="range" id="spreadSlider" min="1" max="24" step="0.5" value="5">
+        </div>
+      </section>
+
+      <section class="console-block action-block">
+        <h2><span>Lift the Parcel</span></h2>
+        <button class="lift-btn" id="liftBtn">▲ HOLD TO LIFT PARCEL<span class="lift-sub">Release to let buoyancy take over</span></button>
+        <button class="reset-btn" id="resetBtn">↺ Reset</button>
+      </section>
+
+      <section class="console-block explain-block">
+        <h2 id="stabilityTitle">Neutral Stability<span class="sub" id="stabilitySub">Γ = 3.0 °C/1,000 ft</span></h2>
+        <p id="explainText">Adjust the parameters on the left, then hold “Lift the Parcel” to start the experiment.</p>
+      </section>
+    </aside>
+
+    <section class="stage">
+      <div class="panel-row">
+        <div class="panel">
+          <h3>Sounding <span class="panel-hint">Temperature vs. Altitude</span></h3>
+          <svg id="soundingSvg" viewBox="0 0 320 460" preserveAspectRatio="xMidYMid meet"></svg>
+          <p class="drag-hint"><b>↔ Drag the dots</b> on the environmental line to build your own multi-layer profile — try adding a stable cap aloft.</p>
+          <div class="legend">
+            <span><i class="dashed" style="border-color:var(--accent-cool)"></i>Environmental Temp</span>
+            <span><i style="border-color:var(--accent-warm)"></i>Parcel Temp</span>
+            <span><i class="dotted" style="border-color:var(--accent-warm)"></i>Parcel Dewpoint</span>
+          </div>
+        </div>
+        <div class="panel">
+          <h3>Sky Cross-Section</h3>
+          <svg id="skySvg" viewBox="0 0 320 460" preserveAspectRatio="xMidYMid meet"></svg>
+          <div class="legend">
+            <span id="cloudLegend"><i style="border-color:var(--text-muted)"></i>Cloud —</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="status-row">
+        <span class="pill" id="stabilityPill"><span class="dot"></span><span id="pillText">—</span></span>
+        <span class="pill cloud"><span class="dot"></span><span id="cloudPillText">Clear Sky</span></span>
+      </div>
+
+      <div class="readout-strip">
+        <div class="readout"><div class="k">Altitude</div><div class="v mono"><span id="roAlt">0</span><span class="u">ft</span></div></div>
+        <div class="readout"><div class="k">Parcel T</div><div class="v mono"><span id="roT">18.0</span><span class="u">°C</span></div></div>
+        <div class="readout"><div class="k">Parcel Td</div><div class="v mono"><span id="roTd">13.0</span><span class="u">°C</span></div></div>
+        <div class="readout"><div class="k">Env. Temp</div><div class="v mono"><span id="roEnv">18.0</span><span class="u">°C</span></div></div>
+        <div class="readout"><div class="k">Rel. Humidity</div><div class="v mono"><span id="roRH">67</span><span class="u">%</span></div></div>
+        <div class="readout"><div class="k">LCL (Cloud Base)</div><div class="v mono"><span id="roLCL">2,000</span><span class="u">ft</span></div></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>Instructional model, not a precision forecasting tool. Altitude scale simplified to 0–15,000 ft for classroom demonstration.<br>© 2026 Lee, C.S. All rights reserved.</footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  var ALT_MAX = 15000;
+  var DALR = 3.0, MALR = 2.0, TD_LAPSE = 0.5;
+  var ENV_Z = [0, 1500, 6000, 15000];      // fixed breakpoint altitudes for the piecewise environment
+  var XMIN = -30, XMAX = 45;               // fixed temperature-axis domain (°C)
+  var PAD_L = 44, PLOT_W = 262;            // sounding chart plot-area geometry (px, in the 320x460 viewBox)
+
+  var SCENARIOS = {
+    // radiation inversion: calm clear night, surface strongly capped, whole column stable
+    night:  { T0: 6.0,  spread: 1.0, envT: [6.0, 13.0, 9.0, 0.0] },
+    // sunny surface heating capped by a mid-level lid — parcel rises freely, then stalls at the cap
+    capped: { T0: 24.0, spread: 3.0, envT: [24.0, 18.6, 11.8, -15.2] }
+  };
+
+  var state = {
+    T0: 18.0, spread: 5.0,
+    envT: [18.0, 13.5, 0.0, -27.0],  // temperature at each ENV_Z breakpoint (piecewise-linear environment)
+    z: 0, v: 0, lifting: false, maxAlt: 0,
+    customized: false
+  };
+
+  var els = {
+    gammaSlider: document.getElementById('gammaSlider'),
+    gammaVal: document.getElementById('gammaVal'),
+    t0Slider: document.getElementById('t0Slider'),
+    spreadSlider: document.getElementById('spreadSlider'),
+    t0Val: document.getElementById('t0Val'),
+    spreadVal: document.getElementById('spreadVal'),
+    liftBtn: document.getElementById('liftBtn'),
+    resetBtn: document.getElementById('resetBtn'),
+    stabilityTitle: document.getElementById('stabilityTitle'),
+    stabilitySub: document.getElementById('stabilitySub'),
+    explainText: document.getElementById('explainText'),
+    stabilityPill: document.getElementById('stabilityPill'),
+    pillText: document.getElementById('pillText'),
+    cloudPillText: document.getElementById('cloudPillText'),
+    cloudLegend: document.getElementById('cloudLegend'),
+    customTag: document.getElementById('customTag'),
+    roAlt: document.getElementById('roAlt'),
+    roT: document.getElementById('roT'),
+    roTd: document.getElementById('roTd'),
+    roEnv: document.getElementById('roEnv'),
+    roRH: document.getElementById('roRH'),
+    roLCL: document.getElementById('roLCL'),
+    soundingSvg: document.getElementById('soundingSvg'),
+    skySvg: document.getElementById('skySvg'),
+    presetGrid: document.getElementById('presetGrid'),
+    gammaTicks: document.getElementById('gammaTicks')
+  };
+
+  var NS = "http://www.w3.org/2000/svg";
+  function el(tag, attrs){
+    var e = document.createElementNS(NS, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    return e;
+  }
+
+  // ---------- physics helpers ----------
+  function Td0(){ return state.T0 - state.spread; }
+  function zLCL(){ return Math.max(0, state.spread / (DALR - TD_LAPSE) * 1000); }
+
+  function envTemp(zft){
+    if (zft <= ENV_Z[0]) return state.envT[0];
+    for (var i=0;i<ENV_Z.length-1;i++){
+      if (zft <= ENV_Z[i+1] || i === ENV_Z.length-2){
+        var f = (zft - ENV_Z[i]) / (ENV_Z[i+1] - ENV_Z[i]);
+        return state.envT[i] + f*(state.envT[i+1]-state.envT[i]);
+      }
+    }
+    return state.envT[state.envT.length-1];
+  }
+  function parcelTemp(zft){
+    var lcl = zLCL();
+    if (zft <= lcl) return state.T0 - DALR*(zft/1000);
+    var tAtLcl = state.T0 - DALR*(lcl/1000);
+    return tAtLcl - MALR*((zft-lcl)/1000);
+  }
+  function parcelDew(zft){
+    var lcl = zLCL();
+    if (zft <= lcl) return Td0() - TD_LAPSE*(zft/1000);
+    return parcelTemp(zft);
+  }
+  function classifyGamma(g){
+    if (g > DALR + 0.05) return 'unstable';
+    if (Math.abs(g - DALR) <= 0.05) return 'neutral';
+    if (g > MALR) return 'conditional';
+    return 'stable';
+  }
+  function localLayer(z){
+    for (var i=0;i<ENV_Z.length-1;i++){
+      if (z <= ENV_Z[i+1] || i === ENV_Z.length-2){
+        var g = (state.envT[i]-state.envT[i+1]) / ((ENV_Z[i+1]-ENV_Z[i])/1000);
+        return { i:i, zLo:ENV_Z[i], zHi:ENV_Z[i+1], gamma:g, cat:classifyGamma(g) };
+      }
+    }
+  }
+  // scan for Level of Free Convection (first altitude the parcel becomes buoyant)
+  // and Equilibrium Level (first altitude above the LFC where it loses buoyancy again — the "cap")
+  function scanBuoyancy(){
+    var STEP = 75, lfc = null, el2 = null, wasBuoyant = false;
+    for (var z=0; z<=ALT_MAX; z+=STEP){
+      var diff = parcelTemp(z) - envTemp(z);
+      var buoy = diff > 0.05;
+      if (buoy && lfc === null){ lfc = z; wasBuoyant = true; }
+      else if (!buoy && lfc !== null && wasBuoyant && el2 === null){ el2 = z; wasBuoyant = false; }
+    }
+    return { lfc: lfc, el: el2 };
+  }
+  function relHumidity(t, td){
+    function es(T){ return 6.112*Math.exp(17.62*T/(243.12+T)); }
+    var rh = 100 * es(td) / es(t);
+    return Math.max(0, Math.min(100, rh));
+  }
+  function setUniformGamma(g){
+    for (var i=0;i<ENV_Z.length;i++) state.envT[i] = state.T0 - g*ENV_Z[i]/1000;
+  }
+
+  // ---------- derived per-run values ----------
+  var derived = {};
+  function recompute(){
+    state.envT[0] = state.T0;
+    derived.lcl = zLCL();
+    var scan = scanBuoyancy();
+    derived.lfc = scan.lfc;
+    derived.el = scan.el;
+    lastNarrativeKey = null;
+    buildStaticSvg();
+    updateNarrative();
+    syncPresetActive();
+  }
+
+  // ---------- dynamic narrative: driven by the parcel's CURRENT altitude, updated every frame (throttled) ----------
+  var lastNarrativeKey = null;
+  var CAT_NAME = { stable:'Absolute Stability', conditional:'Conditional Instability', neutral:'Neutral Stability', unstable:'Absolute Instability' };
+  var PILL_NAME = { stable:'Stable', conditional:'Conditional', neutral:'Neutral', unstable:'Unstable' };
+
+  function updateNarrative(){
+    var z = state.z;
+    var layer = localLayer(z);
+    var tp = parcelTemp(z), te = envTemp(z);
+    var sign = tp > te + 0.05 ? 'buoy' : (tp < te - 0.05 ? 'sink' : 'neu');
+    var elKey = derived.el != null ? Math.round(derived.el/50) : 'x';
+    var lfcKey = derived.lfc != null ? Math.round(derived.lfc/50) : 'x';
+    var key = layer.i + '_' + sign + '_' + elKey + '_' + lfcKey;
+    if (key === lastNarrativeKey) return;
+    lastNarrativeKey = key;
+
+    els.stabilityTitle.firstChild.textContent = CAT_NAME[layer.cat] + ' ';
+    els.stabilitySub.textContent = 'Layer ' + layer.zLo.toLocaleString() + '–' + layer.zHi.toLocaleString() + ' ft · Γ = ' + layer.gamma.toFixed(1) + ' °C/1,000 ft';
+
+    var pillClass = layer.cat === 'stable' ? 'stable' : (layer.cat === 'unstable' || layer.cat === 'conditional' ? 'unstable' : 'neutral');
+    els.stabilityPill.className = 'pill ' + pillClass;
+    els.pillText.textContent = PILL_NAME[layer.cat];
+
+    var diff = Math.abs(tp-te).toFixed(1);
+    var line;
+    if (sign === 'buoy'){
+      line = 'The parcel is <b>' + diff + '°C warmer</b> than this layer — it keeps accelerating upward on its own.';
+    } else if (sign === 'sink'){
+      line = 'The parcel is <b>' + diff + '°C colder</b> than this layer — it is losing lift and will sink back.';
+    } else {
+      line = 'The parcel matches the surrounding temperature here — no net buoyant force either way.';
+    }
+
+    if (derived.el != null){
+      if (z < derived.el - 5){
+        line += ' A capping layer sits at ≈<b>' + Math.round(derived.el).toLocaleString() + ' ft</b> — a parcel that reaches it loses buoyancy and stops climbing, just like a real inversion capping convection.';
+      } else {
+        line += ' The parcel has reached the capping layer at ≈' + Math.round(derived.el).toLocaleString() + ' ft — vertical growth is arrested here.';
+      }
+    } else if (layer.cat === 'stable' && derived.lfc == null){
+      line += ' Lifting it past the LCL can only build a thin stratus layer, or fog if the LCL is low — release the button and it sinks straight back.';
+    }
+    els.explainText.innerHTML = line;
+  }
+
+  // ---------- preset & slider wiring ----------
+  var presetBtns = Array.prototype.slice.call(els.presetGrid.querySelectorAll('.preset-btn'));
+  function isUniform(g){
+    for (var i=0;i<ENV_Z.length;i++){
+      if (Math.abs(state.envT[i] - (state.T0 - g*ENV_Z[i]/1000)) > 0.06) return false;
+    }
+    return true;
+  }
+  function isScenario(name){
+    var sc = SCENARIOS[name];
+    if (Math.abs(state.T0-sc.T0) > 0.05 || Math.abs(state.spread-sc.spread) > 0.05) return false;
+    for (var i=0;i<ENV_Z.length;i++){ if (Math.abs(state.envT[i]-sc.envT[i]) > 0.15) return false; }
+    return true;
+  }
+  function syncPresetActive(){
+    presetBtns.forEach(function(b){
+      var match = false;
+      if (!state.customized){
+        if (b.dataset.g !== undefined) match = isUniform(parseFloat(b.dataset.g));
+        else if (b.dataset.scenario) match = isScenario(b.dataset.scenario);
+      }
+      b.classList.toggle('active', match);
+    });
+    els.customTag.hidden = !state.customized;
+  }
+  presetBtns.forEach(function(b){
+    b.addEventListener('click', function(){
+      if (b.dataset.g !== undefined){
+        var g = parseFloat(b.dataset.g);
+        setUniformGamma(g);
+        els.gammaSlider.value = g;
+      } else if (b.dataset.scenario){
+        var sc = SCENARIOS[b.dataset.scenario];
+        state.T0 = sc.T0; state.spread = sc.spread;
+        state.envT = sc.envT.slice();
+        els.t0Slider.value = sc.T0; els.t0Val.textContent = sc.T0.toFixed(1);
+        els.spreadSlider.value = sc.spread; els.spreadVal.textContent = sc.spread.toFixed(1);
+      }
+      state.customized = false;
+      resetParcel();
+      recompute();
+    });
+  });
+
+  els.gammaSlider.addEventListener('input', function(){
+    els.gammaVal.textContent = parseFloat(els.gammaSlider.value).toFixed(1);
+    setUniformGamma(parseFloat(els.gammaSlider.value));
+    state.customized = false;
+    resetParcel(); recompute();
+  });
+  els.t0Slider.addEventListener('input', function(){
+    var newT0 = parseFloat(els.t0Slider.value);
+    var delta = newT0 - state.T0;
+    state.T0 = newT0;
+    for (var i=0;i<state.envT.length;i++) state.envT[i] += delta;
+    els.t0Val.textContent = state.T0.toFixed(1);
+    resetParcel(); recompute();
+  });
+  els.spreadSlider.addEventListener('input', function(){
+    state.spread = parseFloat(els.spreadSlider.value);
+    els.spreadVal.textContent = state.spread.toFixed(1);
+    resetParcel(); recompute();
+  });
+
+  // build gamma tick markers (DALR / MALR reference lines)
+  (function buildTicks(){
+    var min = parseFloat(els.gammaSlider.min), max = parseFloat(els.gammaSlider.max);
+    [[MALR,'MALR 2.0'], [DALR,'DALR 3.0']].forEach(function(pair){
+      var pct = (pair[0]-min)/(max-min)*100;
+      var tick = document.createElement('i'); tick.style.left = pct+'%';
+      var label = document.createElement('span'); label.style.left = pct+'%'; label.textContent = pair[1];
+      els.gammaTicks.appendChild(tick); els.gammaTicks.appendChild(label);
+    });
+  })();
+
+  // ---------- lift button (pointer) ----------
+  function setLifting(v){
+    state.lifting = v;
+    els.liftBtn.classList.toggle('pressed', v);
+  }
+  els.liftBtn.addEventListener('pointerdown', function(e){ e.preventDefault(); setLifting(true); els.liftBtn.setPointerCapture(e.pointerId); });
+  ['pointerup','pointercancel','pointerleave'].forEach(function(ev){
+    els.liftBtn.addEventListener(ev, function(){ setLifting(false); });
+  });
+  els.liftBtn.addEventListener('keydown', function(e){ if (e.code==='Space'||e.code==='Enter'){ e.preventDefault(); setLifting(true);} });
+  els.liftBtn.addEventListener('keyup', function(e){ if (e.code==='Space'||e.code==='Enter'){ setLifting(false);} });
+
+  els.resetBtn.addEventListener('click', function(){ resetParcel(); render(); });
+  function resetParcel(){ state.z = 0; state.v = 0; state.maxAlt = 0; trailPts.length = 0; lastNarrativeKey = null; }
+
+  // ---------- SVG: static layers rebuilt on settings change; env-related layers also updated live while dragging ----------
+  var soundingLayers = {};
+  var skyLayers = {};
+
+  function mapZ(z){ return 14 + 412 * (1 - Math.min(z,ALT_MAX)/ALT_MAX); }
+  function mapT(t){ return PAD_L + PLOT_W * ((t - XMIN)/(XMAX - XMIN)); }
+  function invMapT(x){ return XMIN + (x-PAD_L)/PLOT_W*(XMAX-XMIN); }
+
+  function buildStaticSvg(){
+    buildSounding();
+    buildSky();
+  }
+
+  function clearSvg(svg){ while(svg.firstChild) svg.removeChild(svg.firstChild); }
+
+  function svgPointFromEvent(svg, e){
+    var pt = svg.createSVGPoint();
+    pt.x = e.clientX; pt.y = e.clientY;
+    var ctm = svg.getScreenCTM();
+    if (!ctm) return {x:0,y:0};
+    var loc = pt.matrixTransform(ctm.inverse());
+    return {x:loc.x, y:loc.y};
+  }
+
+  function buildSounding(){
+    var svg = els.soundingSvg;
+    clearSvg(svg);
+
+    // background
+    svg.appendChild(el('rect', {x:0,y:0,width:320,height:460, fill:'var(--panel-alt)', rx:8}));
+
+    // gridlines: altitude
+    var altTicks = [0,3000,6000,9000,12000,15000];
+    altTicks.forEach(function(a){
+      var y = mapZ(a);
+      svg.appendChild(el('line', {x1:44,y1:y,x2:306,y2:y, stroke:'var(--grid)', 'stroke-width':1}));
+      var t = el('text', {x:40,y:y+3, 'text-anchor':'end', fill:'var(--text-muted)', 'font-size':8.5, 'font-family':'JetBrains Mono, monospace'});
+      t.textContent = a.toLocaleString();
+      svg.appendChild(t);
+    });
+    var ftLabel = el('text', {x:6, y:12, fill:'var(--text-muted)', 'font-size':8});
+    ftLabel.textContent = 'ft';
+    svg.appendChild(ftLabel);
+
+    // gridlines: temperature
+    for (var tt=XMIN; tt<=XMAX; tt+=15){
+      var x = mapT(tt);
+      svg.appendChild(el('line', {x1:x,y1:14,x2:x,y2:426, stroke:'var(--grid)', 'stroke-width':1}));
+      var tl = el('text', {x:x,y:440, 'text-anchor':'middle', fill:'var(--text-muted)', 'font-size':8.5, 'font-family':'JetBrains Mono, monospace'});
+      tl.textContent = tt;
+      svg.appendChild(tl);
+    }
+    var cLabel = el('text', {x:175,y:452, 'text-anchor':'middle', fill:'var(--text-muted)', 'font-size':8});
+    cLabel.textContent = 'Temperature (°C)';
+    svg.appendChild(cLabel);
+
+    // frame + clip (so extreme profiles clip gracefully instead of overflowing)
+    var clip = el('clipPath', {id:'plotClip'});
+    clip.appendChild(el('rect', {x:44,y:14,width:262,height:412}));
+    svg.appendChild(clip);
+    svg.appendChild(el('rect', {x:44,y:14,width:262,height:412, fill:'none', stroke:'var(--border)', 'stroke-width':1}));
+
+    var plotGroup = el('g', {'clip-path':'url(#plotClip)'});
+    svg.appendChild(plotGroup);
+
+    // LCL line
+    var lcl = derived.lcl;
+    if (lcl <= ALT_MAX){
+      var ly = mapZ(lcl);
+      svg.appendChild(el('line', {x1:44,y1:ly,x2:306,y2:ly, stroke:'var(--accent-neutral)', 'stroke-width':1, 'stroke-dasharray':'2 3'}));
+      var lt = el('text', {x:300,y:ly-4, 'text-anchor':'end', fill:'var(--accent-neutral)', 'font-size':8.5,'font-weight':700});
+      lt.textContent = 'LCL ' + Math.round(lcl).toLocaleString() + ' ft';
+      svg.appendChild(lt);
+    }
+
+    // env line + draggable breakpoint handles
+    soundingLayers.envPath = el('path', {d:'', stroke:'var(--accent-cool)', 'stroke-width':2, fill:'none', 'stroke-dasharray':'6 4'});
+    plotGroup.appendChild(soundingLayers.envPath);
+
+    soundingLayers.handles = {};
+    soundingLayers.handleLabels = {};
+    for (var hi=1; hi<ENV_Z.length; hi++){
+      (function(idx){
+        var label = el('text', {x:0,y:0, 'text-anchor':'middle', fill:'var(--accent-cool)', 'font-size':8.5, 'font-weight':700, 'font-family':'JetBrains Mono, monospace'});
+        svg.appendChild(label);
+        var handle = el('circle', {r:8, fill:'var(--panel)', stroke:'var(--accent-cool)', 'stroke-width':2.5, class:'env-handle'});
+        svg.appendChild(handle);
+        soundingLayers.handles[idx] = handle;
+        soundingLayers.handleLabels[idx] = label;
+
+        handle.addEventListener('pointerdown', function(e){
+          e.preventDefault();
+          handle.setPointerCapture(e.pointerId);
+          function onMove(ev){
+            var p = svgPointFromEvent(svg, ev);
+            var t = invMapT(p.x);
+            t = Math.max(XMIN+1, Math.min(XMAX-1, t));
+            state.envT[idx] = t;
+            state.customized = true;
+            updateEnvVisuals();
+          }
+          function onUp(){
+            handle.removeEventListener('pointermove', onMove);
+            handle.removeEventListener('pointerup', onUp);
+            handle.removeEventListener('pointercancel', onUp);
+            syncPresetActive();
+          }
+          handle.addEventListener('pointermove', onMove);
+          handle.addEventListener('pointerup', onUp);
+          handle.addEventListener('pointercancel', onUp);
+        });
+      })(hi);
+    }
+
+    // LFC / EL markers (redrawn inside updateEnvVisuals)
+    soundingLayers.lfcElGroup = el('g', {});
+    plotGroup.appendChild(soundingLayers.lfcElGroup);
+
+    // dynamic parcel groups (populated every frame)
+    soundingLayers.parcelPath = el('path', {d:'', stroke:'var(--accent-warm)', 'stroke-width':2.5, fill:'none'});
+    soundingLayers.dewPath = el('path', {d:'', stroke:'var(--accent-warm)', 'stroke-width':1.8, fill:'none', 'stroke-dasharray':'1 3'});
+    plotGroup.appendChild(soundingLayers.dewPath);
+    plotGroup.appendChild(soundingLayers.parcelPath);
+    soundingLayers.marker = el('circle', {r:4.5, fill:'var(--accent-warm)', stroke:'var(--panel)', 'stroke-width':1.5});
+    svg.appendChild(soundingLayers.marker);
+
+    updateEnvVisuals();
+  }
+
+  function updateEnvVisuals(){
+    var scan = scanBuoyancy();
+    derived.lfc = scan.lfc;
+    derived.el = scan.el;
+
+    var pts = ENV_Z.map(function(z,i){ return mapT(state.envT[i])+','+mapZ(z); });
+    soundingLayers.envPath.setAttribute('d', 'M ' + pts.join(' L '));
+
+    for (var i=1;i<ENV_Z.length;i++){
+      var hx = Math.max(44, Math.min(306, mapT(state.envT[i])));
+      var hy = mapZ(ENV_Z[i]);
+      soundingLayers.handles[i].setAttribute('cx', hx);
+      soundingLayers.handles[i].setAttribute('cy', hy);
+      soundingLayers.handleLabels[i].setAttribute('x', hx);
+      soundingLayers.handleLabels[i].setAttribute('y', hy - 12);
+      soundingLayers.handleLabels[i].textContent = state.envT[i].toFixed(1) + '°C';
+    }
+
+    var g = soundingLayers.lfcElGroup;
+    while (g.firstChild) g.removeChild(g.firstChild);
+    if (derived.lfc != null && derived.lfc > derived.lcl + 50 && derived.lfc <= ALT_MAX){
+      var fy = mapZ(derived.lfc);
+      g.appendChild(el('line', {x1:44,y1:fy,x2:306,y2:fy, stroke:'var(--accent-warm)', 'stroke-width':1, 'stroke-dasharray':'2 3'}));
+      var ft2 = el('text', {x:300,y:fy-4, 'text-anchor':'end', fill:'var(--accent-warm)', 'font-size':8.5,'font-weight':700});
+      ft2.textContent = 'LFC ' + Math.round(derived.lfc).toLocaleString() + ' ft';
+      g.appendChild(ft2);
+    }
+    if (derived.el != null && derived.el <= ALT_MAX){
+      var ey = mapZ(derived.el);
+      g.appendChild(el('line', {x1:44,y1:ey,x2:306,y2:ey, stroke:'var(--accent-cool)', 'stroke-width':1.6, 'stroke-dasharray':'5 2'}));
+      var et = el('text', {x:48,y:ey-4, 'text-anchor':'start', fill:'var(--accent-cool)', 'font-size':8.5,'font-weight':700});
+      et.textContent = 'EL (cap) ' + Math.round(derived.el).toLocaleString() + ' ft';
+      g.appendChild(et);
+    }
+  }
+
+  function seeded(n){ var x = Math.sin(n*99991)*43758.5453; return x-Math.floor(x); }
+
+  function buildSky(){
+    var svg = els.skySvg;
+    clearSvg(svg);
+    var defs = el('defs', {});
+
+    // atmospheric sky gradient (zenith -> hazy horizon)
+    var skyGrad = el('linearGradient', {id:'skyGrad', x1:0,y1:0,x2:0,y2:1});
+    [[0,'var(--sky-1)'],[38,'var(--sky-2)'],[70,'var(--sky-3)'],[100,'var(--sky-4)']].forEach(function(s){
+      skyGrad.appendChild(el('stop', {offset:s[0]+'%', 'stop-color':s[1]}));
+    });
+    defs.appendChild(skyGrad);
+
+    // sun / light source glow
+    var sunGrad = el('radialGradient', {id:'sunGlow', cx:'50%', cy:'50%', r:'50%'});
+    sunGrad.appendChild(el('stop', {offset:'0%', 'stop-color':'var(--sun-core)', 'stop-opacity':.95}));
+    sunGrad.appendChild(el('stop', {offset:'45%', 'stop-color':'var(--sun-core)', 'stop-opacity':.3}));
+    sunGrad.appendChild(el('stop', {offset:'100%', 'stop-color':'var(--sun-core)', 'stop-opacity':0}));
+    defs.appendChild(sunGrad);
+
+    // volumetric cloud shading, lit from upper-left
+    var cloudGrad = el('radialGradient', {id:'cloudShade', cx:'32%', cy:'26%', r:'80%'});
+    cloudGrad.appendChild(el('stop', {offset:'0%', 'stop-color':'var(--cloud-hi)'}));
+    cloudGrad.appendChild(el('stop', {offset:'58%', 'stop-color':'var(--cloud)'}));
+    cloudGrad.appendChild(el('stop', {offset:'100%', 'stop-color':'var(--cloud-shadow)'}));
+    defs.appendChild(cloudGrad);
+
+    // ground gradient, lit from above
+    var groundGrad = el('linearGradient', {id:'groundGrad', x1:0,y1:0,x2:0,y2:1});
+    groundGrad.appendChild(el('stop', {offset:'0%', 'stop-color':'var(--ground-hi)'}));
+    groundGrad.appendChild(el('stop', {offset:'100%', 'stop-color':'var(--ground-lo)'}));
+    defs.appendChild(groundGrad);
+
+    // parcel sphere gradients (specular highlight over each accent state)
+    [['sphereWarm','var(--accent-warm)'],['sphereCool','var(--accent-cool)'],['sphereNeutral','var(--accent-neutral)']].forEach(function(p){
+      var g2 = el('radialGradient', {id:p[0], cx:'32%', cy:'28%', r:'75%'});
+      g2.appendChild(el('stop', {offset:'0%', 'stop-color':'#fffdf5'}));
+      g2.appendChild(el('stop', {offset:'38%', 'stop-color':p[1]}));
+      g2.appendChild(el('stop', {offset:'100%', 'stop-color':p[1]}));
+      defs.appendChild(g2);
+    });
+
+    // organic cloud silhouette (fractal displacement, breaks up the ellipse outline)
+    var fuzz = el('filter', {id:'cloudFuzz', x:'-50%', y:'-50%', width:'200%', height:'200%'});
+    fuzz.appendChild(el('feTurbulence', {type:'fractalNoise', baseFrequency:'0.85', numOctaves:2, seed:7, result:'n'}));
+    fuzz.appendChild(el('feDisplacementMap', {in:'SourceGraphic', in2:'n', scale:8, xChannelSelector:'R', yChannelSelector:'G'}));
+    fuzz.appendChild(el('feGaussianBlur', {stdDeviation:0.5}));
+    defs.appendChild(fuzz);
+
+    // soft blur for atmospheric depth (distant ridge, heat shimmer)
+    var haze = el('filter', {id:'hazeBlur', x:'-30%', y:'-30%', width:'160%', height:'160%'});
+    haze.appendChild(el('feGaussianBlur', {stdDeviation:1.8}));
+    defs.appendChild(haze);
+
+    // fog fade
+    var fogGrad = el('linearGradient', {id:'fogGrad', x1:0,y1:0,x2:0,y2:1});
+    fogGrad.appendChild(el('stop', {offset:'0%', 'stop-color':'var(--fog)', 'stop-opacity':0}));
+    fogGrad.appendChild(el('stop', {offset:'55%', 'stop-color':'var(--fog)', 'stop-opacity':.85}));
+    fogGrad.appendChild(el('stop', {offset:'100%', 'stop-color':'var(--fog)', 'stop-opacity':.95}));
+    defs.appendChild(fogGrad);
+
+    svg.appendChild(defs);
+
+    var clip = el('clipPath', {id:'frameClip'});
+    clip.appendChild(el('rect', {x:0,y:0,width:320,height:460, rx:8}));
+    svg.appendChild(clip);
+
+    var scene = el('g', {'clip-path':'url(#frameClip)'});
+    svg.appendChild(scene);
+
+    scene.appendChild(el('rect', {x:0,y:0,width:320,height:460, fill:'url(#skyGrad)'}));
+
+    // sun
+    scene.appendChild(el('circle', {cx:246, cy:64, r:76, fill:'url(#sunGlow)'}));
+    scene.appendChild(el('circle', {cx:246, cy:64, r:11, fill:'var(--sun-core)'}));
+
+    // altitude reference lines (very faint)
+    [3000,6000,9000,12000].forEach(function(a){
+      var y = mapZ(a);
+      scene.appendChild(el('line', {x1:0,y1:y,x2:320,y2:y, stroke:'var(--text-muted)', 'stroke-width':.5, opacity:.12}));
+    });
+
+    // LCL marker line
+    if (derived.lcl <= ALT_MAX){
+      var ly = mapZ(derived.lcl);
+      scene.appendChild(el('line', {x1:0,y1:ly,x2:320,y2:ly, stroke:'var(--accent-neutral)', 'stroke-width':1, 'stroke-dasharray':'3 4', opacity:.55}));
+    }
+
+    var groundY = mapZ(0);
+
+    // distant hazy ridge (aerial perspective: blurred + cool-toned)
+    scene.appendChild(el('path', {
+      d:'M0 '+(groundY-30)+' Q 60 '+(groundY-58)+' 140 '+(groundY-40)+' T 320 '+(groundY-52)+' L 320 460 L 0 460 Z',
+      fill:'var(--ridge-far)', filter:'url(#hazeBlur)', opacity:.75
+    }));
+    // mid ridge
+    scene.appendChild(el('path', {
+      d:'M0 '+groundY+' Q 70 '+(groundY-26)+' 150 '+(groundY-8)+' T 320 '+(groundY-18)+' L 320 460 L 0 460 Z',
+      fill:'var(--ridge-mid)'
+    }));
+    // near ground, gradient-shaded
+    var nearPath = 'M0 '+(groundY+6)+' Q 90 '+(groundY-16)+' 200 '+(groundY+2)+' T 320 '+(groundY-6)+' L 320 460 L 0 460 Z';
+    scene.appendChild(el('path', {d:nearPath, fill:'url(#groundGrad)'}));
+
+    // scattered trees along the near ridge for scale/texture
+    for (var ti=0; ti<9; ti++){
+      var tx = 6 + ti*36 + seeded(ti)*18;
+      var tBaseY = groundY + 8 - seeded(ti+50)*14;
+      if (tx > 300) continue;
+      var th = 9 + seeded(ti+9)*6;
+      scene.appendChild(el('polygon', {points:(tx-4)+','+tBaseY+' '+(tx+4)+','+tBaseY+' '+tx+','+(tBaseY-th), fill:'var(--ground-lo)', opacity:.85}));
+    }
+
+    // fog layer (hidden unless active) — soft gradient veil, not a flat block
+    skyLayers.fog = el('rect', {x:0, y:mapZ(900), width:320, height:460-mapZ(900), fill:'url(#fogGrad)', opacity:0});
+    scene.appendChild(skyLayers.fog);
+
+    // cloud group
+    skyLayers.cloud = el('g', {id:'cloudGroup'});
+    scene.appendChild(skyLayers.cloud);
+
+    // rising thermal trail (heat-shimmer)
+    skyLayers.trail = el('path', {d:'', stroke:'var(--accent-warm)', 'stroke-width':3, fill:'none', opacity:.28, 'stroke-linecap':'round', filter:'url(#hazeBlur)'});
+    scene.appendChild(skyLayers.trail);
+
+    // parcel marker (glowing sphere with specular highlight)
+    skyLayers.parcel = el('g', {});
+    var glow = el('circle', {r:15, fill:'var(--accent-warm)', opacity:.22});
+    var core = el('circle', {r:7.5, fill:'url(#sphereWarm)', stroke:'rgba(0,0,0,.15)', 'stroke-width':.75});
+    skyLayers.parcel.appendChild(glow);
+    skyLayers.parcel.appendChild(core);
+    skyLayers.parcelGlow = glow; skyLayers.parcelCore = core;
+    scene.appendChild(skyLayers.parcel);
+
+    // ground label
+    var gl = el('text', {x:8, y:groundY+18, fill:'rgba(255,255,255,.75)', 'font-size':8});
+    gl.textContent = 'SFC';
+    scene.appendChild(gl);
+  }
+
+  // ---------- cloud classification & rendering ----------
+  function cloudType(){
+    var lcl = derived.lcl;
+    if (state.maxAlt < lcl - 5) return 'none';
+    var pastLfc = derived.lfc != null && state.maxAlt >= derived.lfc - 5;
+    if (!pastLfc){
+      return lcl < 600 ? 'fog' : 'stratus';
+    }
+    if (derived.el != null && state.maxAlt >= derived.el - 50){
+      return 'capped';
+    }
+    var depth = state.maxAlt - lcl;
+    if (depth < 1200) return 'cumulus';
+    if (depth < 4000) return 'towering';
+    return 'cb';
+  }
+
+  var cloudLabelMap = {
+    none: 'Clear Sky', fog: 'Fog', stratus: 'Stratus',
+    cumulus: 'Cumulus', towering: 'Towering Cumulus', cb: 'Cumulonimbus', capped: 'Cumulus (Capped)'
+  };
+
+  function renderCloud(type){
+    var g = skyLayers.cloud;
+    while (g.firstChild) g.removeChild(g.firstChild);
+    skyLayers.fog.setAttribute('opacity', type === 'fog' ? .65 : 0);
+
+    if (type === 'none') return;
+
+    var lcl = derived.lcl;
+    var baseY = mapZ(Math.min(lcl, ALT_MAX));
+
+    if (type === 'fog'){
+      drawFlatDeck(g, mapZ(600), 0.7);
+      return;
+    }
+    if (type === 'stratus'){
+      drawFlatDeck(g, baseY, 0.9);
+      return;
+    }
+
+    // cumuliform growth — built from overlapping rounded clusters (not a single-file bead string),
+    // so it reads as one fluffy cauliflower mass: wide, bumpy, flat-based, tapering as it rises
+    var growthTop = type === 'capped' ? Math.min(state.maxAlt, derived.el) : state.maxAlt;
+    var topY = mapZ(Math.min(growthTop, ALT_MAX));
+    var depthPx = Math.max(baseY - topY, 6);
+    var cx = 160;
+
+    var baseWidth = Math.max(50, Math.min(40 + depthPx*0.55, 140));
+    var numClusters = Math.min(6, Math.max(1, Math.round(depthPx/40)+1));
+
+    // ground-contact shadow (cloud blocking the sun)
+    g.appendChild(el('ellipse', {cx:cx+8, cy:baseY+3, rx:baseWidth*0.55, ry:7, fill:'var(--ridge-mid)', opacity:.3}));
+
+    for (var c=0;c<numClusters;c++){
+      var cf = numClusters===1 ? 0 : c/(numClusters-1);
+      var clusterY = baseY - cf*depthPx*0.85;
+      var taper = 1 - cf*0.32;
+      var clusterW = baseWidth * taper * (0.82 + seeded(c*31+1)*0.32);
+      var clusterCx = cx + (seeded(c*17+2)-0.5)*baseWidth*0.22;
+      var puffN = 6 + Math.floor(seeded(c*41+3)*3);
+      for (var i=0;i<puffN;i++){
+        var ox = (seeded(c*53+i*9+1)-0.5)*clusterW*0.95;
+        var oy = (seeded(c*53+i*9+2)-0.5)*clusterW*0.32;
+        var pr = clusterW*(0.24+seeded(c*53+i*9+3)*0.16);
+        g.appendChild(el('ellipse', {
+          cx:clusterCx+ox, cy:clusterY+oy-pr*0.12, rx:pr, ry:pr*0.85,
+          fill:'url(#cloudShade)', filter:'url(#cloudFuzz)', opacity:.96
+        }));
+      }
+    }
+    // bright rim lobes on top, catching the light
+    var topClusterY = baseY - depthPx*0.85;
+    var rimN = numClusters===1 ? 3 : 6;
+    for (var j=0;j<rimN;j++){
+      var jx = cx + (seeded(j*13+4)-0.5)*baseWidth*0.75;
+      var jy = topClusterY - seeded(j*19+11)*baseWidth*0.16 - baseWidth*0.08;
+      var jr = baseWidth*(0.15+seeded(j*17+5)*0.1);
+      g.appendChild(el('ellipse', {cx:jx, cy:jy, rx:jr, ry:jr*0.8, fill:'var(--cloud-hi)', filter:'url(#cloudFuzz)', opacity:.55}));
+    }
+
+    if (type === 'cb'){
+      // anvil: wispy, ice-crystal spread near the simulated ceiling
+      g.appendChild(el('ellipse', {cx:cx-6, cy:topY, rx:baseWidth*1.2, ry:11, fill:'url(#cloudShade)', filter:'url(#hazeBlur)', opacity:.8}));
+      g.appendChild(el('ellipse', {cx:cx+28, cy:topY+4, rx:baseWidth*0.6, ry:7, fill:'var(--cloud-hi)', filter:'url(#hazeBlur)', opacity:.6}));
+    }
+    if (type === 'capped'){
+      // spreads sideways where it hits the cap — fused, flattened clusters, not a floating disc
+      for (var k=0;k<6;k++){
+        var kx = cx + (seeded(k*23+9)-0.5)*baseWidth*1.7;
+        var ky = topY + (seeded(k*29+3)-0.5)*8;
+        var kr = baseWidth*(0.22+seeded(k*31+7)*0.12);
+        g.appendChild(el('ellipse', {cx:kx, cy:ky, rx:kr*1.3, ry:kr*0.55, fill:'url(#cloudShade)', filter:'url(#cloudFuzz)', opacity:.93}));
+      }
+    }
+  }
+
+  function drawFlatDeck(g, y, opacity){
+    for (var i=0;i<4;i++){
+      var w = 270 - i*10;
+      g.appendChild(el('ellipse', {
+        cx:160+((i%2)?12:-12), cy:y-i*2.2, rx:w*0.5, ry:10-i,
+        fill:'url(#cloudShade)', filter:'url(#cloudFuzz)', opacity:opacity*(0.92-i*0.1)
+      }));
+    }
+  }
+
+  // ---------- animation loop ----------
+  var trailPts = [];
+  var last = performance.now();
+  function tick(now){
+    var dt = Math.min((now-last)/1000, 0.05);
+    last = now;
+
+    if (state.lifting){
+      var target = 170; // ft/s manual lift speed
+      state.v += (target - state.v) * Math.min(dt*7, 1);
+    } else {
+      var buoy = (parcelTemp(state.z) - envTemp(state.z)) * 2.6; // ft/s^2 per °C, tuned for feel
+      var drag = 0.08;
+      var accel = buoy - drag*state.v;
+      state.v += accel*dt;
+    }
+    state.z += state.v*dt;
+    if (state.z < 0){ state.z = 0; state.v = 0; }
+    if (state.z > ALT_MAX){ state.z = ALT_MAX; state.v = Math.min(state.v,0); }
+    if (state.z > state.maxAlt) state.maxAlt = state.z;
+
+    render();
+    requestAnimationFrame(tick);
+  }
+
+  function render(){
+    var z = state.z;
+    var tp = parcelTemp(z), td = parcelDew(z), te = envTemp(z);
+
+    // sounding: parcel path + dew path (from 0 to z)
+    var N = 24;
+    var pPts=[], dPts=[];
+    for (var i=0;i<=N;i++){
+      var zz = z*i/N;
+      pPts.push(mapT(parcelTemp(zz))+','+mapZ(zz));
+      dPts.push(mapT(parcelDew(zz))+','+mapZ(zz));
+    }
+    soundingLayers.parcelPath.setAttribute('d', 'M '+pPts.join(' L '));
+    soundingLayers.dewPath.setAttribute('d', 'M '+dPts.join(' L '));
+    soundingLayers.marker.setAttribute('cx', mapT(tp));
+    soundingLayers.marker.setAttribute('cy', mapZ(z));
+
+    // sky: parcel position + trail
+    var sway = Math.sin(performance.now()/900)*6;
+    var px = 160+sway, py = mapZ(z);
+    skyLayers.parcel.setAttribute('transform', 'translate('+px+','+py+')');
+    var buoyant = tp > te + 0.05;
+    var coolMode = tp < te - 0.05;
+    var col = buoyant ? 'var(--accent-warm)' : (coolMode ? 'var(--accent-cool)' : 'var(--accent-neutral)');
+    var sphereId = buoyant ? 'sphereWarm' : (coolMode ? 'sphereCool' : 'sphereNeutral');
+    skyLayers.parcelCore.setAttribute('fill', 'url(#'+sphereId+')');
+    skyLayers.parcelGlow.setAttribute('fill', col);
+    skyLayers.trail.setAttribute('stroke', col);
+
+    trailPts.push([px,py]);
+    if (trailPts.length>40) trailPts.shift();
+    if (trailPts.length>1){
+      skyLayers.trail.setAttribute('d','M '+trailPts.map(function(p){return p[0]+','+p[1];}).join(' L '));
+    } else {
+      skyLayers.trail.setAttribute('d','');
+    }
+
+    var ctype = cloudType();
+    renderCloud(ctype);
+    els.cloudPillText.textContent = cloudLabelMap[ctype];
+    els.cloudLegend.innerHTML = '<i style="border-color:var(--text-muted)"></i>Cloud: ' + cloudLabelMap[ctype];
+
+    updateNarrative();
+
+    // readouts
+    els.roAlt.textContent = Math.round(z).toLocaleString();
+    els.roT.textContent = tp.toFixed(1);
+    els.roTd.textContent = td.toFixed(1);
+    els.roEnv.textContent = te.toFixed(1);
+    els.roRH.textContent = Math.round(relHumidity(tp,td));
+    els.roLCL.textContent = Math.round(derived.lcl).toLocaleString();
+  }
+
+  // ---------- init ----------
+  els.t0Val.textContent = state.T0.toFixed(1);
+  els.spreadVal.textContent = state.spread.toFixed(1);
+  setUniformGamma(3.0);
+  recompute();
+  requestAnimationFrame(function(t){ last=t; requestAnimationFrame(tick); });
+})();
+</script>

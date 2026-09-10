@@ -199,6 +199,9 @@
     color:var(--text);
   }
   .course-link-wrap{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
     max-height:0;
     opacity:0;
     transform:translateY(-4px);
@@ -208,7 +211,7 @@
   }
   .course-card:hover .course-link-wrap,
   .course-card:focus-within .course-link-wrap{
-    max-height:60px;
+    max-height:120px;
     opacity:1;
     transform:translateY(0);
     margin-top:12px;
@@ -292,8 +295,9 @@
         <h3 class="course-name">Aviation Weather</h3>
         <div class="course-link-wrap">
           <a class="course-link" href="https://aviation.erniecslee.com/AVIA2350/stabilitylab.html" target="_blank" rel="noopener">Atmospheric Stability Lab →</a>
+          <a class="course-link" href="https://aviation.erniecslee.com/AVIA2350/vertical_air_motion_lab.html" target="_blank" rel="noopener">Vertical Air Motion Lab →</a>
         </div>
-        <p class="course-hint">Hover to open tool</p>
+        <p class="course-hint">Hover to open tools</p>
       </div>
 
       <div class="course-card" tabindex="0">

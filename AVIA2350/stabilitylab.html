@@ -382,7 +382,7 @@
     T0: 18.0, spread: 5.0,
     envT: [18.0, 13.5, 0.0, -27.0],  // temperature at each ENV_Z breakpoint (piecewise-linear environment)
     z: 0, v: 0, lifting: false, maxAlt: 0,
-    customized: false
+    customized: false, isNight: false
   };
 
   var els = {
@@ -571,12 +571,14 @@
         var g = parseFloat(b.dataset.g);
         setUniformGamma(g);
         els.gammaSlider.value = g;
+        state.isNight = false;
       } else if (b.dataset.scenario){
         var sc = SCENARIOS[b.dataset.scenario];
         state.T0 = sc.T0; state.spread = sc.spread;
         state.envT = sc.envT.slice();
         els.t0Slider.value = sc.T0; els.t0Val.textContent = sc.T0.toFixed(1);
         els.spreadSlider.value = sc.spread; els.spreadVal.textContent = sc.spread.toFixed(1);
+        state.isNight = (b.dataset.scenario === 'night');
       }
       state.customized = false;
       resetParcel();
@@ -588,6 +590,7 @@
     els.gammaVal.textContent = parseFloat(els.gammaSlider.value).toFixed(1);
     setUniformGamma(parseFloat(els.gammaSlider.value));
     state.customized = false;
+    state.isNight = false;
     resetParcel(); recompute();
   });
   els.t0Slider.addEventListener('input', function(){
@@ -801,19 +804,25 @@
     var svg = els.skySvg;
     clearSvg(svg);
     var defs = el('defs', {});
+    var night = state.isNight;
 
-    // atmospheric sky gradient (zenith -> hazy horizon)
+    // atmospheric sky gradient (zenith -> hazy horizon) — a fixed dark palette for night,
+    // independent of the page's own light/dark UI theme, so the scene reads as nighttime either way
     var skyGrad = el('linearGradient', {id:'skyGrad', x1:0,y1:0,x2:0,y2:1});
-    [[0,'var(--sky-1)'],[38,'var(--sky-2)'],[70,'var(--sky-3)'],[100,'var(--sky-4)']].forEach(function(s){
+    var skyStops = night
+      ? [[0,'#03050d'],[40,'#060d20'],[75,'#0d1a34'],[100,'#1c2c45']]
+      : [[0,'var(--sky-1)'],[38,'var(--sky-2)'],[70,'var(--sky-3)'],[100,'var(--sky-4)']];
+    skyStops.forEach(function(s){
       skyGrad.appendChild(el('stop', {offset:s[0]+'%', 'stop-color':s[1]}));
     });
     defs.appendChild(skyGrad);
 
-    // sun / light source glow
+    // sun (day) or moon (night) — same gradient id, different tuning
+    var sunColor = night ? '#eef3fa' : 'var(--sun-core)';
     var sunGrad = el('radialGradient', {id:'sunGlow', cx:'50%', cy:'50%', r:'50%'});
-    sunGrad.appendChild(el('stop', {offset:'0%', 'stop-color':'var(--sun-core)', 'stop-opacity':.95}));
-    sunGrad.appendChild(el('stop', {offset:'45%', 'stop-color':'var(--sun-core)', 'stop-opacity':.3}));
-    sunGrad.appendChild(el('stop', {offset:'100%', 'stop-color':'var(--sun-core)', 'stop-opacity':0}));
+    sunGrad.appendChild(el('stop', {offset:'0%', 'stop-color':sunColor, 'stop-opacity':.95}));
+    sunGrad.appendChild(el('stop', {offset:'45%', 'stop-color':sunColor, 'stop-opacity': night?.16:.3}));
+    sunGrad.appendChild(el('stop', {offset:'100%', 'stop-color':sunColor, 'stop-opacity':0}));
     defs.appendChild(sunGrad);
 
     // volumetric cloud shading, lit from upper-left
@@ -824,9 +833,14 @@
     defs.appendChild(cloudGrad);
 
     // ground gradient, lit from above
+    var groundHi = night ? '#172212' : 'var(--ground-hi)';
+    var groundLo = night ? '#050904' : 'var(--ground-lo)';
+    var ridgeFar = night ? '#0b1424' : 'var(--ridge-far)';
+    var ridgeMid = night ? '#091008' : 'var(--ridge-mid)';
+    skyLayers.ridgeMidColor = ridgeMid;
     var groundGrad = el('linearGradient', {id:'groundGrad', x1:0,y1:0,x2:0,y2:1});
-    groundGrad.appendChild(el('stop', {offset:'0%', 'stop-color':'var(--ground-hi)'}));
-    groundGrad.appendChild(el('stop', {offset:'100%', 'stop-color':'var(--ground-lo)'}));
+    groundGrad.appendChild(el('stop', {offset:'0%', 'stop-color':groundHi}));
+    groundGrad.appendChild(el('stop', {offset:'100%', 'stop-color':groundLo}));
     defs.appendChild(groundGrad);
 
     // parcel sphere gradients (specular highlight over each accent state)
@@ -868,9 +882,24 @@
 
     scene.appendChild(el('rect', {x:0,y:0,width:320,height:460, fill:'url(#skyGrad)'}));
 
-    // sun
-    scene.appendChild(el('circle', {cx:246, cy:64, r:76, fill:'url(#sunGlow)'}));
-    scene.appendChild(el('circle', {cx:246, cy:64, r:11, fill:'var(--sun-core)'}));
+    // stars (night only)
+    if (night){
+      for (var si=0; si<50; si++){
+        var sx = seeded(si*7+1)*320;
+        var sy = seeded(si*7+2) * 300;
+        var sr = 0.4 + seeded(si*7+3)*0.8;
+        var sOp = 0.35 + seeded(si*7+4)*0.6;
+        scene.appendChild(el('circle', {cx:sx, cy:sy, r:sr, fill:'#ffffff', opacity:sOp}));
+      }
+    }
+
+    // sun (day) or moon (night)
+    scene.appendChild(el('circle', {cx:246, cy:64, r: night?52:76, fill:'url(#sunGlow)'}));
+    scene.appendChild(el('circle', {cx:246, cy:64, r: night?9:11, fill: night?'#eef3fa':'var(--sun-core)'}));
+    if (night){
+      // faint crescent shading so it reads as a moon, not a flat disc
+      scene.appendChild(el('circle', {cx:249, cy:62, r:8, fill:'#0d1a34', opacity:.4}));
+    }
 
     // altitude reference lines (very faint)
     [3000,6000,9000,12000].forEach(function(a){
@@ -889,12 +918,12 @@
     // distant hazy ridge (aerial perspective: blurred + cool-toned)
     scene.appendChild(el('path', {
       d:'M0 '+(groundY-30)+' Q 60 '+(groundY-58)+' 140 '+(groundY-40)+' T 320 '+(groundY-52)+' L 320 460 L 0 460 Z',
-      fill:'var(--ridge-far)', filter:'url(#hazeBlur)', opacity:.75
+      fill:ridgeFar, filter:'url(#hazeBlur)', opacity:.75
     }));
     // mid ridge
     scene.appendChild(el('path', {
       d:'M0 '+groundY+' Q 70 '+(groundY-26)+' 150 '+(groundY-8)+' T 320 '+(groundY-18)+' L 320 460 L 0 460 Z',
-      fill:'var(--ridge-mid)'
+      fill:ridgeMid
     }));
     // near ground, gradient-shaded
     var nearPath = 'M0 '+(groundY+6)+' Q 90 '+(groundY-16)+' 200 '+(groundY+2)+' T 320 '+(groundY-6)+' L 320 460 L 0 460 Z';
@@ -906,7 +935,7 @@
       var tBaseY = groundY + 8 - seeded(ti+50)*14;
       if (tx > 300) continue;
       var th = 9 + seeded(ti+9)*6;
-      scene.appendChild(el('polygon', {points:(tx-4)+','+tBaseY+' '+(tx+4)+','+tBaseY+' '+tx+','+(tBaseY-th), fill:'var(--ground-lo)', opacity:.85}));
+      scene.appendChild(el('polygon', {points:(tx-4)+','+tBaseY+' '+(tx+4)+','+tBaseY+' '+tx+','+(tBaseY-th), fill:groundLo, opacity:.85}));
     }
 
     // fog layer (hidden unless active) — soft gradient veil, not a flat block
@@ -987,8 +1016,8 @@
     var baseWidth = Math.max(50, Math.min(40 + depthPx*0.55, 140));
     var numClusters = Math.min(6, Math.max(1, Math.round(depthPx/40)+1));
 
-    // ground-contact shadow (cloud blocking the sun)
-    g.appendChild(el('ellipse', {cx:cx+8, cy:baseY+3, rx:baseWidth*0.55, ry:7, fill:'var(--ridge-mid)', opacity:.3}));
+    // ground-contact shadow (cloud blocking the sun/moon)
+    g.appendChild(el('ellipse', {cx:cx+8, cy:baseY+3, rx:baseWidth*0.55, ry:7, fill:skyLayers.ridgeMidColor || 'var(--ridge-mid)', opacity:.3}));
 
     for (var c=0;c<numClusters;c++){
       var cf = numClusters===1 ? 0 : c/(numClusters-1);

@@ -1,0 +1,526 @@
+<title>Vertical Air Motion Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700;900&family=IBM+Plex+Mono:wght@500;600;700&display=swap">
+<style>
+  :root{
+    --void:#05070a;
+    --bezel-a:#141a22;
+    --bezel-b:#0a0e14;
+    --screen:#0b0f14;
+    --hairline:rgba(210,225,240,0.14);
+    --hairline-soft:rgba(210,225,240,0.07);
+    --text-hi:#eaf2f8;
+    --text-mid:#93a5b8;
+    --text-dim:#5c6b7c;
+    --cyan:#3fd0ff;
+    --amber:#ffb020;
+    --green:#39e29d;
+    --sky-a:#0f2f52;
+    --sky-b:#194a78;
+    --ground:#5a4326;
+    --ground-hi:#7a5d34;
+    --focus:#3fd0ff;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--void);
+    color:var(--text-hi);
+    font-family:'Titillium Web',-apple-system,'Segoe UI',sans-serif;
+    padding-inline:16px;
+    padding-block:28px;
+    display:flex;
+    justify-content:center;
+  }
+  h1,h2,h3{text-wrap:balance;}
+  button{font-family:inherit;}
+  :focus-visible{outline:2px solid var(--focus);outline-offset:2px;}
+
+  .rig{width:100%;max-width:640px;}
+
+  .bezel{
+    background:linear-gradient(180deg,var(--bezel-a),var(--bezel-b));
+    border:1px solid rgba(255,255,255,0.09);
+    border-radius:10px;
+    padding:18px;
+    box-shadow:0 30px 60px -30px rgba(0,0,0,0.7), inset 0 1px 0 rgba(255,255,255,0.04);
+  }
+
+  .panel-strip{
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+    padding:2px 4px 16px;
+    border-bottom:1px solid var(--hairline-soft);
+    margin-bottom:14px;
+  }
+  .callsign{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:.14em;
+    color:var(--cyan);
+    text-transform:uppercase;
+  }
+  .panel-strip h1{margin:0;font-size:clamp(22px,5vw,28px);font-weight:900;letter-spacing:.01em;}
+  .panel-strip .sub{margin:2px 0 0;font-size:13.5px;line-height:1.5;color:var(--text-mid);max-width:54ch;}
+
+  .display{
+    background:var(--screen);
+    border:1px solid var(--hairline);
+    border-radius:6px;
+    padding:14px;
+    box-shadow:inset 0 0 0 1px rgba(0,0,0,0.5), inset 0 20px 40px -30px rgba(0,0,0,0.8);
+  }
+
+  /* ---------- PFD (air column) ---------- */
+  .pfd{
+    position:relative;
+    height:260px;
+    border-radius:4px;
+    overflow:hidden;
+    background:linear-gradient(180deg,var(--sky-a) 0%, var(--sky-b) 78%, var(--ground) 88%, var(--ground-hi) 100%);
+    border:1px solid var(--hairline-soft);
+  }
+  .alt-axis{position:absolute;left:10px;top:46px;bottom:12%;width:1px;background:rgba(234,242,248,0.35);}
+  .alt-axis::before{
+    content:"";position:absolute;top:-1px;left:50%;transform:translateX(-50%);
+    border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:7px solid rgba(234,242,248,0.6);
+  }
+  .alt-label{position:absolute;left:22px;top:46px;font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.14em;color:rgba(234,242,248,0.55);writing-mode:vertical-rl;}
+  .pfd-tag{position:absolute;left:26px;font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.08em;color:rgba(234,242,248,0.5);}
+  .pfd-tag.aloft{top:46px;}
+  .pfd-tag.surface{bottom:10%;}
+
+  .column{
+    position:absolute;left:50%;width:108px;transform:translateX(-50%);
+    background:linear-gradient(180deg, rgba(63,208,255,0.16), rgba(63,208,255,0.05));
+    border:1.5px solid var(--cyan);border-radius:3px;
+    box-shadow:0 0 18px -4px rgba(63,208,255,0.5);
+  }
+  .marker{position:absolute;left:50%;width:10px;height:10px;border-radius:50%;transform:translate(-50%,-50%);border:2px solid var(--void);}
+  .marker.top{background:var(--amber);}
+  .marker.bot{background:var(--green);}
+  .readout{position:absolute;font-family:'IBM Plex Mono',monospace;font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap;transform:translateY(-50%);}
+  .readout.top{color:var(--amber);left:calc(50% + 62px);}
+  .readout.bot{color:var(--green);left:calc(50% + 62px);}
+  .trail{position:absolute;width:2px;}
+  .trail.top-trail{left:calc(50% - 74px);background:rgba(255,176,32,0.4);}
+  .trail.bot-trail{left:calc(50% - 66px);background:rgba(57,226,157,0.4);}
+  .stability-flag{
+    position:absolute;left:14px;top:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:700;
+    letter-spacing:.08em;padding:5px 9px;border-radius:3px;border:1px solid currentColor;
+  }
+
+  /* ---------- ΔT gauge (thermometer-style, exaggerated 0-15 scale) ---------- */
+  .dt-gauge{
+    position:absolute;right:6px;top:10%;bottom:14%;width:30px;
+    display:flex;flex-direction:column;align-items:center;
+  }
+  .dt-cap{font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:.1em;color:rgba(234,242,248,0.55);margin-bottom:4px;}
+  .dt-track{
+    position:relative;width:16px;flex:1;border-radius:4px;
+    background:rgba(5,8,10,0.55);border:1px solid rgba(234,242,248,0.3);
+    overflow:visible;
+  }
+  .dt-fill{
+    position:absolute;left:1px;right:1px;bottom:1px;border-radius:3px;
+    background:var(--amber);
+    height:80%;
+  }
+  .dt-tick{position:absolute;left:-4px;right:-4px;height:0;border-top:1px solid rgba(234,242,248,0.18);}
+  .dt-threshold{
+    position:absolute;left:-6px;right:-6px;height:0;bottom:70%;
+    border-top:2px dashed rgba(234,242,248,0.55);
+  }
+  .dt-start-mark{
+    position:absolute;left:-6px;right:-6px;height:0;bottom:80%;
+    border-top:2px dashed #eaf2f8;display:none;
+  }
+  .dt-value{
+    margin-top:5px;font-family:'IBM Plex Mono',monospace;font-size:13px;font-weight:700;
+    font-variant-numeric:tabular-nums;color:var(--amber);text-align:center;
+  }
+  .dt-value-sub{
+    margin-top:1px;font-family:'IBM Plex Mono',monospace;font-size:8.5px;
+    letter-spacing:.04em;color:rgba(234,242,248,0.42);text-align:center;white-space:nowrap;
+  }
+
+  /* ---------- rate chart ---------- */
+  .chartfig{margin:14px 0 0;}
+  .chart-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px;}
+  .chart-head h2{margin:0;font-size:12px;letter-spacing:.08em;color:var(--text-mid);font-weight:600;text-transform:uppercase;}
+  .legend{display:flex;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--text-mid);}
+  .legend span{display:inline-flex;align-items:center;gap:5px;}
+  .legend i{width:9px;height:9px;border-radius:50%;display:inline-block;}
+  .legend i.top{background:var(--amber);}
+  .legend i.bot{background:var(--green);}
+  .chartbox{background:#0d1218;border:1px solid var(--hairline);border-radius:4px;padding:6px 4px 2px;}
+  svg#chart{display:block;width:100%;height:auto;}
+  .chart-caption{margin:6px 2px 0;font-size:11px;color:var(--text-dim);line-height:1.5;}
+
+  .tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:12px;}
+  .tile{background:#0d1218;border:1px solid var(--hairline);border-radius:4px;padding:8px 6px;text-align:center;}
+  .tile .lbl{display:block;font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:.1em;color:var(--text-dim);margin-bottom:4px;}
+  .tile .val{display:block;font-family:'IBM Plex Mono',monospace;font-size:16px;font-weight:600;font-variant-numeric:tabular-nums;}
+  .tile.top .val{color:var(--amber);}
+  .tile.bot .val{color:var(--green);}
+  .tile.dt .val{color:var(--text-hi);}
+  .tile.status .val{font-size:11.5px;}
+
+  .airctrls{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;}
+  .runbtn{
+    flex:1 1 150px;background:linear-gradient(180deg, rgba(63,208,255,0.14), rgba(63,208,255,0.04));
+    border:1px solid var(--cyan);color:var(--cyan);border-radius:4px;padding:10px 8px;
+    font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.06em;cursor:pointer;
+    transition:filter .15s, opacity .15s;
+  }
+  .runbtn:hover{filter:brightness(1.2);}
+  .runbtn:disabled{opacity:.4;cursor:default;filter:none;}
+  .runbtn.ghost{flex:0 0 96px;border-color:var(--hairline);color:var(--text-mid);background:none;}
+
+  .scratchpad{
+    margin-top:12px;background:#050809;border:1px solid var(--hairline);border-radius:4px;padding:10px 12px;
+    font-family:'IBM Plex Mono',monospace;font-size:12px;line-height:1.5;color:var(--text-hi);min-height:2.8em;
+  }
+  footer.legend-note{margin-top:12px;font-size:11px;color:var(--text-dim);line-height:1.6;padding:0 2px;}
+
+  [hidden]{display:none!important;}
+  @media (prefers-reduced-motion: reduce){ .runbtn{transition:none;} }
+  @media (max-width:420px){
+    .tiles{grid-template-columns:repeat(2,1fr);}
+    .readout.top,.readout.bot{font-size:11.5px;}
+  }
+</style>
+
+<div class="rig">
+  <div class="bezel">
+    <div class="panel-strip">
+      <div class="callsign">AVIA 2350</div>
+      <h1>Vertical Air Motion Lab</h1>
+      <p class="sub">Why a sinking layer of air settles down, and a rising one stirs up. Run it slowly and watch the top and bottom warm — or cool — at two different rates, and watch the ΔT gauge on the right fall or climb.</p>
+    </div>
+
+    <div class="display">
+      <div class="pfd" id="pfd">
+        <div class="alt-axis"></div>
+        <div class="alt-label">ALTITUDE</div>
+        <div class="pfd-tag aloft">ALOFT</div>
+        <div class="pfd-tag surface">SURFACE</div>
+        <div class="trail top-trail" id="topTrail"></div>
+        <div class="trail bot-trail" id="botTrail"></div>
+        <div class="column" id="column"></div>
+        <div class="marker top" id="topMarker"></div>
+        <div class="marker bot" id="botMarker"></div>
+        <div class="readout top" id="topReadout">-39°C</div>
+        <div class="readout bot" id="botReadout">-27°C</div>
+        <div class="stability-flag" id="stabFlag" style="color:var(--amber)">LESS STABLE</div>
+
+        <div class="dt-gauge">
+          <div class="dt-cap">ΔT</div>
+          <div class="dt-track">
+            <div class="dt-tick" style="bottom:33.3%"></div>
+            <div class="dt-tick" style="bottom:66.6%"></div>
+            <div class="dt-threshold" title="Stability threshold"></div>
+            <div class="dt-start-mark" id="dtStartMark"></div>
+            <div class="dt-fill" id="dtFill"></div>
+          </div>
+          <div class="dt-value" id="dtValueNow">12°</div>
+          <div class="dt-value-sub" id="dtValueStart"></div>
+        </div>
+      </div>
+
+      <figure class="chartfig">
+        <div class="chart-head">
+          <h2>Temperature vs. time elapsed</h2>
+          <div class="legend">
+            <span><i class="top"></i>Top of layer</span>
+            <span><i class="bot"></i>Base of layer</span>
+          </div>
+        </div>
+        <div class="chartbox">
+          <svg id="chart" viewBox="0 0 560 190" role="img" aria-label="Line chart of the top and bottom temperature of the air layer over the course of the run, showing the two lines sloping at different rates and the gap between them changing">
+            <line x1="40" y1="14" x2="544" y2="14" stroke="rgba(234,242,248,0.10)"/>
+            <line x1="40" y1="60.15" x2="544" y2="60.15" stroke="rgba(234,242,248,0.10)"/>
+            <line x1="40" y1="106.31" x2="544" y2="106.31" stroke="rgba(234,242,248,0.10)"/>
+            <line x1="40" y1="152.46" x2="544" y2="152.46" stroke="rgba(234,242,248,0.10)"/>
+            <text x="34" y="17" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="9" fill="rgba(234,242,248,0.4)">20°</text>
+            <text x="34" y="63.15" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="9" fill="rgba(234,242,248,0.4)">0°</text>
+            <text x="34" y="109.31" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="9" fill="rgba(234,242,248,0.4)">-20°</text>
+            <text x="34" y="155.46" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="9" fill="rgba(234,242,248,0.4)">-40°</text>
+            <line x1="40" y1="14" x2="40" y2="164" stroke="rgba(234,242,248,0.18)"/>
+            <line x1="40" y1="164" x2="544" y2="164" stroke="rgba(234,242,248,0.18)"/>
+            <text x="40" y="180" font-family="IBM Plex Mono, monospace" font-size="9" letter-spacing="0.08em" fill="rgba(234,242,248,0.4)">START</text>
+            <text x="544" y="180" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="9" letter-spacing="0.08em" fill="rgba(234,242,248,0.4)">END</text>
+
+            <line id="startBracket" x1="40" y1="0" x2="40" y2="0" stroke="rgba(234,242,248,0.5)" stroke-width="1.5" stroke-dasharray="2 3"/>
+            <text id="startBracketLabel" font-family="IBM Plex Mono, monospace" font-size="10" font-weight="600" fill="rgba(234,242,248,0.7)"></text>
+
+            <polyline id="topLine" fill="none" stroke="#ffb020" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points=""/>
+            <polyline id="botLine" fill="none" stroke="#39e29d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points=""/>
+
+            <line id="liveBracket" x1="0" y1="0" x2="0" y2="0" stroke="#3fd0ff" stroke-width="1.5" stroke-dasharray="2 3"/>
+            <text id="liveBracketLabel" font-family="IBM Plex Mono, monospace" font-size="10" font-weight="700" fill="#3fd0ff"></text>
+
+            <circle id="topDot" r="4" fill="#ffb020" visibility="hidden"/>
+            <circle id="botDot" r="4" fill="#39e29d" visibility="hidden"/>
+          </svg>
+        </div>
+        <figcaption class="chart-caption" id="chartCaption">Press a RUN button — the amber line traces the top of the layer, the green line traces the base. Their slopes are the two warming/cooling rates.</figcaption>
+      </figure>
+
+      <div class="tiles">
+        <div class="tile top"><span class="lbl">TOP T</span><span class="val" id="tileTop">-39°C</span></div>
+        <div class="tile bot"><span class="lbl">BASE T</span><span class="val" id="tileBot">-27°C</span></div>
+        <div class="tile dt"><span class="lbl">ΔT (LAPSE)</span><span class="val" id="tileDt">12°C</span></div>
+        <div class="tile status"><span class="lbl">STATE</span><span class="val" id="tileStatus">LESS STABLE</span></div>
+      </div>
+
+      <div class="airctrls">
+        <button class="runbtn" id="btnSink">▼ RUN SUBSIDENCE (sinking)</button>
+        <button class="runbtn" id="btnRise">▲ RUN ASCENT (rising)</button>
+        <button class="runbtn ghost" id="btnReset">↺ RESET</button>
+      </div>
+    </div>
+
+    <div class="scratchpad" id="caption" aria-live="polite">STANDBY — select RUN SUBSIDENCE or RUN ASCENT.</div>
+
+    <footer class="legend-note">Amber = top of the layer · Green = base of the layer. The dashed white bracket on the chart marks the starting gap; the cyan bracket tracks the live gap as the run plays.</footer>
+  </div>
+</div>
+
+<script>
+(function(){
+  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var RUN_MS = 7000; // slow enough to watch the two slopes diverge
+
+  function lerp(a,b,t){ return a + (b-a)*t; }
+
+  // Linear timing on purpose: the whole point is that top and bottom warm/cool
+  // at two different *constant* rates, so the time axis must not distort those
+  // slopes with easing.
+  function animate(duration, onUpdate, onDone){
+    if(reduceMotion){ onUpdate(1); if(onDone) onDone(); return; }
+    var start = null;
+    function step(ts){
+      if(start===null) start = ts;
+      var t = Math.min(1, (ts-start)/duration);
+      onUpdate(t);
+      if(t < 1){ requestAnimationFrame(step); } else if(onDone){ onDone(); }
+    }
+    requestAnimationFrame(step);
+  }
+
+  // rt = 0 -> aloft / stretched / less stable.  rt = 1 -> surface / compressed / more stable.
+  var TOP_Y = [15, 74];
+  var BOT_Y = [50, 90];
+  var TOP_T = [-39, 6];
+  var BOT_T = [-27, 15];
+
+  var column = document.getElementById('column');
+  var topMarker = document.getElementById('topMarker');
+  var botMarker = document.getElementById('botMarker');
+  var topReadout = document.getElementById('topReadout');
+  var botReadout = document.getElementById('botReadout');
+  var topTrail = document.getElementById('topTrail');
+  var botTrail = document.getElementById('botTrail');
+  var stabFlag = document.getElementById('stabFlag');
+  var dtFill = document.getElementById('dtFill');
+  var dtStartMark = document.getElementById('dtStartMark');
+  var dtValueNow = document.getElementById('dtValueNow');
+  var dtValueStart = document.getElementById('dtValueStart');
+  var DT_MAX = 15; // gauge devotes its whole scale to 0-15C, so a 12->9 change reads as a big fill drop
+  var tileTop = document.getElementById('tileTop');
+  var tileBot = document.getElementById('tileBot');
+  var tileDt = document.getElementById('tileDt');
+  var tileStatus = document.getElementById('tileStatus');
+  var caption = document.getElementById('caption');
+  var chartCaption = document.getElementById('chartCaption');
+
+  // chart geometry
+  var PLOT_X0 = 40, PLOT_X1 = 544, PLOT_Y0 = 14, PLOT_Y1 = 164;
+  var T_MIN = -45, T_MAX = 20;
+  function xAt(t){ return PLOT_X0 + t*(PLOT_X1-PLOT_X0); }
+  function yAt(temp){ return PLOT_Y0 + (T_MAX-temp)/(T_MAX-T_MIN)*(PLOT_Y1-PLOT_Y0); }
+
+  var topLine = document.getElementById('topLine');
+  var botLine = document.getElementById('botLine');
+  var topDot = document.getElementById('topDot');
+  var botDot = document.getElementById('botDot');
+  var startBracket = document.getElementById('startBracket');
+  var startBracketLabel = document.getElementById('startBracketLabel');
+  var liveBracket = document.getElementById('liveBracket');
+  var liveBracketLabel = document.getElementById('liveBracketLabel');
+
+  var topPoints, botPoints;
+
+  function tempsAt(rt){
+    var topTemp = lerp(TOP_T[0], TOP_T[1], rt);
+    var botTemp = lerp(BOT_T[0], BOT_T[1], rt);
+    return { top: topTemp, bot: botTemp, dt: botTemp - topTemp };
+  }
+
+  function paintPFD(rt, refRt){
+    var topY = lerp(TOP_Y[0], TOP_Y[1], rt);
+    var botY = lerp(BOT_Y[0], BOT_Y[1], rt);
+    var temps = tempsAt(rt);
+    var topTemp = Math.round(temps.top), botTemp = Math.round(temps.bot);
+
+    column.style.top = topY + '%';
+    column.style.height = (botY - topY) + '%';
+    topMarker.style.top = topY + '%';
+    botMarker.style.top = botY + '%';
+    topReadout.style.top = topY + '%';
+    botReadout.style.top = botY + '%';
+    topReadout.textContent = topTemp + '°C';
+    botReadout.textContent = botTemp + '°C';
+
+    var refTopY = lerp(TOP_Y[0], TOP_Y[1], refRt);
+    var refBotY = lerp(BOT_Y[0], BOT_Y[1], refRt);
+    topTrail.style.top = Math.min(refTopY,topY) + '%';
+    topTrail.style.height = Math.abs(topY-refTopY) + '%';
+    botTrail.style.top = Math.min(refBotY,botY) + '%';
+    botTrail.style.height = Math.abs(botY-refBotY) + '%';
+
+    var dtRounded = Math.round(temps.dt);
+    tileTop.textContent = topTemp + '°C';
+    tileBot.textContent = botTemp + '°C';
+    tileDt.textContent = dtRounded + '°C';
+    // Use the exact (unrounded) ΔT for the stability call, not the rounded
+    // top/bottom difference — independently rounding each temperature can
+    // make that difference wobble by ±1 near the threshold and flicker the label.
+    var stable = temps.dt <= 10.5;
+    var label = stable ? 'MORE STABLE' : 'LESS STABLE';
+    var color = stable ? 'var(--green)' : 'var(--amber)';
+    stabFlag.textContent = label; stabFlag.style.color = color;
+    tileStatus.textContent = label; tileStatus.style.color = color;
+
+    var dtExact = temps.dt;
+    var fillPct = Math.max(0, Math.min(100, (dtExact/DT_MAX)*100));
+    dtFill.style.height = fillPct + '%';
+    dtFill.style.background = color;
+    dtValueNow.textContent = dtRounded + '°';
+    dtValueNow.style.color = color;
+  }
+
+  function idleState(){
+    paintPFD(0,0);
+    topPoints = []; botPoints = [];
+    topLine.setAttribute('points','');
+    botLine.setAttribute('points','');
+    topDot.setAttribute('visibility','hidden');
+    botDot.setAttribute('visibility','hidden');
+    startBracket.setAttribute('x1',0); startBracket.setAttribute('x2',0);
+    startBracket.setAttribute('y1',0); startBracket.setAttribute('y2',0);
+    startBracketLabel.textContent='';
+    liveBracket.setAttribute('x1',0); liveBracket.setAttribute('x2',0);
+    liveBracket.setAttribute('y1',0); liveBracket.setAttribute('y2',0);
+    liveBracketLabel.textContent='';
+    dtStartMark.style.display = 'none';
+    dtValueStart.textContent = '';
+    chartCaption.textContent = 'Press a RUN button — the amber line traces the top of the layer, the green line traces the base. Their slopes are the two warming/cooling rates.';
+    caption.textContent = 'STANDBY — select RUN SUBSIDENCE or RUN ASCENT.';
+  }
+
+  function drawStartBracket(rt0){
+    var temps = tempsAt(rt0);
+    var y1 = yAt(temps.top), y2 = yAt(temps.bot);
+    startBracket.setAttribute('x1', PLOT_X0); startBracket.setAttribute('x2', PLOT_X0);
+    startBracket.setAttribute('y1', y1); startBracket.setAttribute('y2', y2);
+    startBracketLabel.setAttribute('x', PLOT_X0+6);
+    startBracketLabel.setAttribute('y', (y1+y2)/2 + 3);
+    var dtStart = Math.round(temps.dt);
+    startBracketLabel.textContent = 'start ' + dtStart + '°';
+
+    var fillPct = Math.max(0, Math.min(100, (temps.dt/DT_MAX)*100));
+    dtStartMark.style.bottom = fillPct + '%';
+    dtStartMark.style.display = 'block';
+    dtValueStart.textContent = 'was ' + dtStart + '°';
+  }
+
+  function drawFrame(t, rt, refRt){
+    paintPFD(rt, refRt);
+    var temps = tempsAt(rt);
+    var x = xAt(t), yTop = yAt(temps.top), yBot = yAt(temps.bot);
+
+    topPoints.push(x+','+yTop);
+    botPoints.push(x+','+yBot);
+    topLine.setAttribute('points', topPoints.join(' '));
+    botLine.setAttribute('points', botPoints.join(' '));
+    topDot.setAttribute('visibility','visible');
+    botDot.setAttribute('visibility','visible');
+    topDot.setAttribute('cx', x); topDot.setAttribute('cy', yTop);
+    botDot.setAttribute('cx', x); botDot.setAttribute('cy', yBot);
+
+    liveBracket.setAttribute('x1', x); liveBracket.setAttribute('x2', x);
+    liveBracket.setAttribute('y1', yTop); liveBracket.setAttribute('y2', yBot);
+    var labelX = Math.min(x+8, PLOT_X1-40);
+    liveBracketLabel.setAttribute('x', labelX);
+    liveBracketLabel.setAttribute('y', (yTop+yBot)/2 + 3);
+    liveBracketLabel.textContent = 'now ' + Math.round(temps.dt) + '°';
+  }
+
+  var sinkCaptions = [
+    [0.0,  'Aloft: top -39°C, base -27°C. ΔT = 12°C — LESS STABLE. Both ends are about to warm as the layer sinks.'],
+    [0.25, 'Sinking. Watch the two lines climb — the base is closer to the surface, so it slows first and its line bends flatter.'],
+    [0.55, "The top hasn't reached the surface yet, so its line keeps climbing steeply — it's warming faster than the base."],
+    [0.85, 'The amber line is closing in on the green one: the gap on the chart is visibly narrowing.'],
+    [0.98, 'Compressed: ΔT fell from 12°C to 9°C — the top warmed faster, so the gap narrowed. MORE STABLE.']
+  ];
+  var riseCaptions = [
+    [0.0,  'Near the surface: top 6°C, base 15°C. ΔT = 9°C — MORE STABLE. Both ends are about to cool as the layer rises.'],
+    [0.25, "Rising. The base is still close to the ground and slow to get moving — its line falls gently."],
+    [0.55, 'The top is already clear of the surface and stretching upward — its line falls much more steeply: it is cooling faster.'],
+    [0.85, 'The amber line is pulling away from the green one: the gap on the chart is visibly widening.'],
+    [0.98, 'Stretched: ΔT rose from 9°C to 12°C — the top cooled faster, so the gap widened. LESS STABLE.']
+  ];
+  function pickCaption(list, t){
+    var text = list[0][1];
+    for(var i=0;i<list.length;i++){ if(t >= list[i][0]) text = list[i][1]; }
+    return text;
+  }
+
+  var btnSink = document.getElementById('btnSink');
+  var btnRise = document.getElementById('btnRise');
+  var btnReset = document.getElementById('btnReset');
+
+  function lockButtons(lock){ btnSink.disabled = lock; btnRise.disabled = lock; }
+
+  btnSink.addEventListener('click', function(){
+    lockButtons(true);
+    topPoints = []; botPoints = [];
+    drawStartBracket(0);
+    caption.textContent = 'RUNNING SUBSIDENCE — layer descending.';
+    animate(RUN_MS, function(t){
+      drawFrame(t, t, 0);
+      caption.textContent = pickCaption(sinkCaptions, t);
+    }, function(){
+      lockButtons(false);
+      chartCaption.textContent = 'Two lines, two slopes: amber (top) rose faster than green (base), so the vertical gap between them shrank from 12° to 9°.';
+      caption.textContent = pickCaption(sinkCaptions, 1);
+    });
+  });
+
+  btnRise.addEventListener('click', function(){
+    lockButtons(true);
+    topPoints = []; botPoints = [];
+    drawStartBracket(1);
+    caption.textContent = 'RUNNING ASCENT — layer climbing.';
+    animate(RUN_MS, function(t){
+      var rt = 1 - t;
+      drawFrame(t, rt, 1);
+      caption.textContent = pickCaption(riseCaptions, t);
+    }, function(){
+      lockButtons(false);
+      chartCaption.textContent = 'Two lines, two slopes: amber (top) fell faster than green (base), so the vertical gap between them grew from 9° to 12°.';
+      caption.textContent = pickCaption(riseCaptions, 1);
+    });
+  });
+
+  btnReset.addEventListener('click', idleState);
+
+  idleState();
+
+  function boot(){}
+  if(window.claude && window.claude.hot && window.claude.hot.ready){ window.claude.hot.ready(boot); } else { boot(); }
+})();
+</script>

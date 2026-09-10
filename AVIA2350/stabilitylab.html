@@ -496,9 +496,16 @@
   }
 
   // ---------- dynamic narrative: driven by the parcel's CURRENT altitude, updated every frame (throttled) ----------
+  // The headline (title/pill) always reflects the parcel's ACTUAL buoyancy right now, never the
+  // environment's own classification alone — a locally "unstable" layer can still have a parcel
+  // sinking through it if that parcel arrived cold from a stabler layer below, and a "neutral" (Γ=DALR)
+  // layer is genuinely unstable for an already-saturated parcel. Keeping two separate labels for
+  // "what the parcel is doing" vs. "what this layer's own Γ implies" avoids the two contradicting.
   var lastNarrativeKey = null;
   var CAT_NAME = { stable:'Absolute Stability', conditional:'Conditional Instability', neutral:'Neutral Stability', unstable:'Absolute Instability' };
-  var PILL_NAME = { stable:'Stable', conditional:'Conditional', neutral:'Neutral', unstable:'Unstable' };
+  var SIGN_TITLE = { buoy:'Rising Freely', sink:'Sinking Back', neu:'Neutral Balance' };
+  var SIGN_PILL  = { buoy:'Rising', sink:'Sinking', neu:'Balanced' };
+  var SIGN_PILL_CLASS = { buoy:'unstable', sink:'stable', neu:'neutral' };
 
   function updateNarrative(){
     var z = state.z;
@@ -511,12 +518,11 @@
     if (key === lastNarrativeKey) return;
     lastNarrativeKey = key;
 
-    els.stabilityTitle.firstChild.textContent = CAT_NAME[layer.cat] + ' ';
-    els.stabilitySub.textContent = 'Layer ' + layer.zLo.toLocaleString() + '–' + layer.zHi.toLocaleString() + ' ft · Γ = ' + layer.gamma.toFixed(1) + ' °C/1,000 ft';
+    els.stabilityTitle.firstChild.textContent = SIGN_TITLE[sign] + ' ';
+    els.stabilitySub.textContent = 'Layer ' + layer.zLo.toLocaleString() + '–' + layer.zHi.toLocaleString() + ' ft · Γ = ' + layer.gamma.toFixed(1) + ' °C/1,000 ft · environment: ' + CAT_NAME[layer.cat];
 
-    var pillClass = layer.cat === 'stable' ? 'stable' : (layer.cat === 'unstable' || layer.cat === 'conditional' ? 'unstable' : 'neutral');
-    els.stabilityPill.className = 'pill ' + pillClass;
-    els.pillText.textContent = PILL_NAME[layer.cat];
+    els.stabilityPill.className = 'pill ' + SIGN_PILL_CLASS[sign];
+    els.pillText.textContent = SIGN_PILL[sign];
 
     var diff = Math.abs(tp-te).toFixed(1);
     var line;
@@ -641,6 +647,19 @@
   function mapT(t){ return PAD_L + PLOT_W * ((t - XMIN)/(XMAX - XMIN)); }
   function invMapT(x){ return XMIN + (x-PAD_L)/PLOT_W*(XMAX-XMIN); }
 
+  // the three breakpoint handles sit at fixed altitudes, so their label rows never move —
+  // reference-line labels (LCL/LFC/EL) dodge these rows (and each other) instead of overlapping them
+  function handleLabelRows(){ return [ mapZ(ENV_Z[1]) - 12, mapZ(ENV_Z[2]) - 12, mapZ(ENV_Z[3]) + 14 ]; }
+  function pickLabelY(lineY, baseOffset, avoidYs){
+    var y = lineY + baseOffset;
+    for (var t=0; t<4; t++){
+      var collided = avoidYs.some(function(a){ return a != null && Math.abs(y-a) < 11; });
+      if (!collided) break;
+      y += (baseOffset < 0 ? -14 : 14);
+    }
+    return y;
+  }
+
   function buildStaticSvg(){
     buildSounding();
     buildSky();
@@ -700,10 +719,13 @@
 
     // LCL line
     var lcl = derived.lcl;
+    soundingLayers.lclLabelY = null;
     if (lcl <= ALT_MAX){
       var ly = mapZ(lcl);
+      var lyLabel = pickLabelY(ly, -4, handleLabelRows());
+      soundingLayers.lclLabelY = lyLabel;
       svg.appendChild(el('line', {x1:44,y1:ly,x2:306,y2:ly, stroke:'var(--accent-neutral)', 'stroke-width':1, 'stroke-dasharray':'2 3'}));
-      var lt = el('text', {x:300,y:ly-4, 'text-anchor':'end', fill:'var(--accent-neutral)', 'font-size':8.5,'font-weight':700});
+      var lt = el('text', {x:300,y:lyLabel, 'text-anchor':'end', fill:'var(--accent-neutral)', 'font-size':8.5,'font-weight':700});
       lt.textContent = 'LCL ' + Math.round(lcl).toLocaleString() + ' ft';
       svg.appendChild(lt);
     }
@@ -773,26 +795,34 @@
     for (var i=1;i<ENV_Z.length;i++){
       var hx = Math.max(44, Math.min(306, mapT(state.envT[i])));
       var hy = mapZ(ENV_Z[i]);
+      var isTopHandle = (i === ENV_Z.length-1);
       soundingLayers.handles[i].setAttribute('cx', hx);
       soundingLayers.handles[i].setAttribute('cy', hy);
       soundingLayers.handleLabels[i].setAttribute('x', hx);
-      soundingLayers.handleLabels[i].setAttribute('y', hy - 12);
+      // the top breakpoint sits right at the plot's top edge — its label goes below, not above, or it clips
+      soundingLayers.handleLabels[i].setAttribute('y', isTopHandle ? hy + 14 : hy - 12);
       soundingLayers.handleLabels[i].textContent = state.envT[i].toFixed(1) + '°C';
     }
 
     var g = soundingLayers.lfcElGroup;
     while (g.firstChild) g.removeChild(g.firstChild);
+    var rows = handleLabelRows();
     if (derived.lfc != null && derived.lfc > derived.lcl + 50 && derived.lfc <= ALT_MAX){
       var fy = mapZ(derived.lfc);
+      var fyLabel = pickLabelY(fy, -4, rows.concat([soundingLayers.lclLabelY]));
+      soundingLayers.lfcLabelY = fyLabel;
       g.appendChild(el('line', {x1:44,y1:fy,x2:306,y2:fy, stroke:'var(--accent-warm)', 'stroke-width':1, 'stroke-dasharray':'2 3'}));
-      var ft2 = el('text', {x:300,y:fy-4, 'text-anchor':'end', fill:'var(--accent-warm)', 'font-size':8.5,'font-weight':700});
+      var ft2 = el('text', {x:300,y:fyLabel, 'text-anchor':'end', fill:'var(--accent-warm)', 'font-size':8.5,'font-weight':700});
       ft2.textContent = 'LFC ' + Math.round(derived.lfc).toLocaleString() + ' ft';
       g.appendChild(ft2);
+    } else {
+      soundingLayers.lfcLabelY = null;
     }
     if (derived.el != null && derived.el <= ALT_MAX){
       var ey = mapZ(derived.el);
+      var eyLabel = pickLabelY(ey, -4, rows.concat([soundingLayers.lclLabelY, soundingLayers.lfcLabelY]));
       g.appendChild(el('line', {x1:44,y1:ey,x2:306,y2:ey, stroke:'var(--accent-cool)', 'stroke-width':1.6, 'stroke-dasharray':'5 2'}));
-      var et = el('text', {x:48,y:ey-4, 'text-anchor':'start', fill:'var(--accent-cool)', 'font-size':8.5,'font-weight':700});
+      var et = el('text', {x:48,y:eyLabel, 'text-anchor':'start', fill:'var(--accent-cool)', 'font-size':8.5,'font-weight':700});
       et.textContent = 'EL (cap) ' + Math.round(derived.el).toLocaleString() + ' ft';
       g.appendChild(et);
     }

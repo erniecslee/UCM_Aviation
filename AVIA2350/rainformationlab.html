@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rain Formation Lab</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root{
+    --bg:#eef3f8;
+    --bg-panel:#ffffff;
+    --chamber-top:#3d5468;
+    --chamber-bot:#7c93a6;
+    --ink:#1b2733;
+    --ink-soft:#51606d;
+    --ink-faint:#8496a3;
+    --border:#d2dde6;
+    --accent-warm:#bd7326;
+    --accent-warm-soft:rgba(189,115,38,0.13);
+    --accent-ice:#256e8c;
+    --accent-ice-soft:rgba(37,110,140,0.13);
+    --water-fill:#7fb2d6;
+    --water-stroke:#3d7ba3;
+    --ice-fill:#eaf6fb;
+    --ice-stroke:#2a95b8;
+    --shadow:0 1px 2px rgba(27,39,51,0.06), 0 8px 24px -12px rgba(27,39,51,0.18);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0f161f;
+      --bg-panel:#161f2a;
+      --chamber-top:#1c2733;
+      --chamber-bot:#38495a;
+      --ink:#e8eef4;
+      --ink-soft:#a9bac7;
+      --ink-faint:#71879a;
+      --border:#283542;
+      --accent-warm:#e0a355;
+      --accent-warm-soft:rgba(224,163,85,0.16);
+      --accent-ice:#5db8dc;
+      --accent-ice-soft:rgba(93,184,220,0.16);
+      --water-fill:#4a7699;
+      --water-stroke:#8fc3e6;
+      --ice-fill:#26333f;
+      --ice-stroke:#6fd0ee;
+      --shadow:0 1px 2px rgba(0,0,0,0.3), 0 8px 28px -12px rgba(0,0,0,0.55);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0f161f;
+    --bg-panel:#161f2a;
+    --chamber-top:#1c2733;
+    --chamber-bot:#38495a;
+    --ink:#e8eef4;
+    --ink-soft:#a9bac7;
+    --ink-faint:#71879a;
+    --border:#283542;
+    --accent-warm:#e0a355;
+    --accent-warm-soft:rgba(224,163,85,0.16);
+    --accent-ice:#5db8dc;
+    --accent-ice-soft:rgba(93,184,220,0.16);
+    --water-fill:#4a7699;
+    --water-stroke:#8fc3e6;
+    --ice-fill:#26333f;
+    --ice-stroke:#6fd0ee;
+    --shadow:0 1px 2px rgba(0,0,0,0.3), 0 8px 28px -12px rgba(0,0,0,0.55);
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{
+    max-width:1120px;
+    margin:0 auto;
+    padding:2.75rem 1.5rem 3rem;
+    display:flex;
+    flex-direction:column;
+    gap:1.75rem;
+  }
+
+  .site-header{max-width:62ch;}
+  .eyebrow{
+    font-family:"IBM Plex Mono", ui-monospace, monospace;
+    font-size:0.72rem;
+    letter-spacing:0.09em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    margin:0 0 0.6rem;
+  }
+  h1{
+    font-family:"Fraunces", Georgia, serif;
+    font-optical-sizing:auto;
+    font-weight:560;
+    font-size:clamp(2rem, 4vw, 2.7rem);
+    line-height:1.05;
+    letter-spacing:-0.01em;
+    margin:0 0 0.65rem;
+    text-wrap:balance;
+  }
+  .dek{
+    font-size:1.02rem;
+    line-height:1.55;
+    color:var(--ink-soft);
+    margin:0;
+    text-wrap:pretty;
+  }
+
+  .mode-tabs{
+    display:flex;
+    gap:0.6rem;
+    border-bottom:1px solid var(--border);
+    padding-bottom:0;
+  }
+  .tab{
+    font-family:"Source Sans 3", sans-serif;
+    font-size:0.95rem;
+    font-weight:600;
+    color:var(--ink-soft);
+    background:transparent;
+    border:none;
+    border-bottom:2.5px solid transparent;
+    padding:0.7rem 0.35rem 0.8rem;
+    cursor:pointer;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:0.15rem;
+    transition:color 0.15s ease, border-color 0.15s ease;
+  }
+  .tab span{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.68rem;
+    font-weight:400;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+  }
+  .tab:hover{color:var(--ink);}
+  .tab.active[data-mode="coalescence"]{color:var(--accent-warm); border-bottom-color:var(--accent-warm);}
+  .tab.active[data-mode="bergeron"]{color:var(--accent-ice); border-bottom-color:var(--accent-ice);}
+  .tab:focus-visible{outline:2px solid var(--accent-ice); outline-offset:3px;}
+
+  .stage{
+    display:grid;
+    grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);
+    gap:1.5rem;
+    align-items:start;
+  }
+  @media (max-width:820px){
+    .stage{grid-template-columns:1fr;}
+  }
+
+  .chamber-panel{
+    background:var(--bg-panel);
+    border:1px solid var(--border);
+    border-radius:14px;
+    box-shadow:var(--shadow);
+    padding:1.1rem 1.1rem 1.2rem;
+    display:flex;
+    flex-direction:column;
+    gap:0.9rem;
+  }
+  .chamber-head{
+    display:flex;
+    justify-content:space-between;
+    gap:1rem;
+  }
+  .readouts{display:flex; gap:1.5rem; flex-wrap:wrap;}
+  .readout{display:flex; flex-direction:column; gap:0.15rem;}
+  .readout .label{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.66rem;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+  }
+  .readout .value{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:1.08rem;
+    font-weight:500;
+    font-variant-numeric:tabular-nums;
+    color:var(--ink);
+  }
+
+  .chamber-wrap{
+    position:relative;
+    width:100%;
+    aspect-ratio:3/4;
+    border-radius:9px;
+    overflow:hidden;
+    border:1px solid var(--border);
+  }
+  #chamber{display:block; width:100%; height:100%;}
+
+  .chamber-controls{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:0.75rem;
+    flex-wrap:wrap;
+  }
+  .btn{
+    font-family:"Source Sans 3", sans-serif;
+    font-size:0.88rem;
+    font-weight:600;
+    color:var(--ink);
+    background:var(--bg-panel);
+    border:1px solid var(--border);
+    border-radius:7px;
+    padding:0.48rem 0.9rem;
+    cursor:pointer;
+    transition:background 0.15s ease, border-color 0.15s ease;
+  }
+  .btn:hover{border-color:var(--ink-faint);}
+  .btn:focus-visible{outline:2px solid var(--accent-ice); outline-offset:2px;}
+  .btn.primary{
+    background:var(--accent-warm);
+    border-color:var(--accent-warm);
+    color:#fff;
+  }
+  [data-mode-active="bergeron"] .btn.primary{
+    background:var(--accent-ice);
+    border-color:var(--accent-ice);
+  }
+  .speed-slider-group{
+    display:flex;
+    align-items:center;
+    gap:0.6rem;
+    flex:1;
+    min-width:180px;
+  }
+  .speed-slider-label{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.72rem;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    flex:none;
+  }
+  .speed-value{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.82rem;
+    font-weight:500;
+    font-variant-numeric:tabular-nums;
+    color:var(--ink);
+    flex:none;
+    min-width:3.6em;
+    text-align:right;
+  }
+  #speed-slider{
+    flex:1;
+    min-width:90px;
+    -webkit-appearance:none;
+    appearance:none;
+    height:4px;
+    border-radius:2px;
+    background:var(--border);
+    outline:none;
+  }
+  #speed-slider::-webkit-slider-thumb{
+    -webkit-appearance:none;
+    appearance:none;
+    width:16px;
+    height:16px;
+    border-radius:50%;
+    background:var(--accent-warm);
+    border:2px solid var(--bg-panel);
+    box-shadow:0 0 0 1px var(--border);
+    cursor:pointer;
+  }
+  #speed-slider::-moz-range-thumb{
+    width:14px;
+    height:14px;
+    border-radius:50%;
+    background:var(--accent-warm);
+    border:2px solid var(--bg-panel);
+    box-shadow:0 0 0 1px var(--border);
+    cursor:pointer;
+  }
+  [data-mode-active="bergeron"] #speed-slider::-webkit-slider-thumb{background:var(--accent-ice);}
+  [data-mode-active="bergeron"] #speed-slider::-moz-range-thumb{background:var(--accent-ice);}
+  #speed-slider:focus-visible{outline:2px solid var(--accent-ice); outline-offset:3px;}
+
+  .explainer-panel{
+    display:flex;
+    flex-direction:column;
+    gap:1.1rem;
+  }
+  .card{
+    background:var(--bg-panel);
+    border:1px solid var(--border);
+    border-radius:14px;
+    box-shadow:var(--shadow);
+    padding:1.1rem 1.2rem;
+  }
+  .card h2{
+    font-family:"Fraunces", serif;
+    font-weight:560;
+    font-size:1.05rem;
+    margin:0 0 0.85rem;
+  }
+  .phase-list{
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:flex;
+    flex-direction:column;
+    gap:0.15rem;
+  }
+  .phase-list li{
+    display:flex;
+    gap:0.7rem;
+    padding:0.55rem 0.4rem;
+    border-radius:8px;
+    border-left:2.5px solid transparent;
+    color:var(--ink-faint);
+    font-size:0.92rem;
+    line-height:1.45;
+    transition:color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+  }
+  .phase-list li .num{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.78rem;
+    font-weight:500;
+    flex:none;
+    padding-top:0.1rem;
+  }
+  .phase-list li.active{
+    color:var(--ink);
+    background:var(--accent-warm-soft);
+    border-left-color:var(--accent-warm);
+  }
+  [data-mode-active="bergeron"] .phase-list li.active{
+    background:var(--accent-ice-soft);
+    border-left-color:var(--accent-ice);
+  }
+
+  .chart-card svg{width:100%; height:auto; display:block;}
+  .chart-caption{
+    font-size:0.82rem;
+    color:var(--ink-soft);
+    margin:0.7rem 0 0;
+    line-height:1.5;
+  }
+  .chart-caption strong{color:var(--ink);}
+
+  .site-footer{
+    border-top:1px solid var(--border);
+    padding-top:1rem;
+    font-size:0.78rem;
+    color:var(--ink-faint);
+    font-family:"IBM Plex Mono", monospace;
+  }
+
+  [hidden]{display:none !important;}
+</style>
+</head>
+<body>
+
+<div class="page" data-mode-active="coalescence">
+
+  <header class="site-header">
+    <p class="eyebrow">UCM AVIA 2350 &middot; Cloud Microphysics</p>
+    <h1>Rain Formation Lab</h1>
+    <p class="dek">Every raindrop grows by one of two mechanisms. In warm clouds, big drops simply catch smaller ones as they fall. In cold, mixed-phase clouds, ice crystals steal water vapor from their supercooled neighbors. Press play and watch each pathway build a drop from scratch.</p>
+  </header>
+
+  <nav class="mode-tabs" role="tablist">
+    <button class="tab active" data-mode="coalescence" role="tab" aria-selected="true">
+      Collision&ndash;Coalescence
+      <span>warm cloud &middot; T &gt; 0&deg;C</span>
+    </button>
+    <button class="tab" data-mode="bergeron" role="tab" aria-selected="false">
+      Bergeron&ndash;Findeisen
+      <span>mixed-phase cloud &middot; T &lt; 0&deg;C</span>
+    </button>
+  </nav>
+
+  <main class="stage">
+    <section class="chamber-panel">
+      <div class="chamber-head">
+        <div class="readouts">
+          <div class="readout">
+            <span class="label">Elapsed</span>
+            <span class="value" id="readout-time">0:00</span>
+          </div>
+          <div class="readout">
+            <span class="label" id="readout-primary-label">Largest drop</span>
+            <span class="value" id="readout-primary">15 &micro;m</span>
+          </div>
+          <div class="readout">
+            <span class="label" id="readout-secondary-label">Raindrops formed</span>
+            <span class="value" id="readout-secondary">0</span>
+          </div>
+          <div class="readout" id="readout-tertiary-wrap">
+            <span class="label" id="readout-tertiary-label">Evaporated (virga)</span>
+            <span class="value" id="readout-tertiary">0</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="chamber-wrap">
+        <canvas id="chamber" aria-label="Cloud chamber animation showing droplets and, in the ice-crystal mode, ice crystals growing and falling"></canvas>
+      </div>
+
+      <div class="chamber-controls">
+        <div style="display:flex; gap:0.5rem;">
+          <button class="btn primary" id="btn-play">&#9654; Play</button>
+          <button class="btn" id="btn-reset">&#8635; Reset</button>
+        </div>
+        <div class="speed-slider-group">
+          <span class="speed-slider-label">Speed</span>
+          <input type="range" id="speed-slider" min="0" max="1" step="0.001" value="0" aria-label="Simulation speed, 1x to 50x">
+          <span class="speed-value" id="speed-value">1.0&times;</span>
+        </div>
+      </div>
+    </section>
+
+    <aside class="explainer-panel">
+      <div class="card">
+        <h2 id="phase-title">What&rsquo;s happening</h2>
+        <ol class="phase-list" id="phase-list"></ol>
+      </div>
+
+      <div class="card chart-card">
+        <h2 id="chart-title">Why size decides speed</h2>
+        <div id="chart-mount"></div>
+        <p class="chart-caption" id="chart-caption"></p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Lee, C.S. All rights reserved. &middot; V2.1</p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  var page = document.querySelector(".page");
+  var canvas = document.getElementById("chamber");
+  var ctx = canvas.getContext("2d");
+  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  var css = getComputedStyle(document.documentElement);
+  function tok(name){ return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
+
+  var W = 0, H = 0, DPR = 1;
+  function resize(){
+    var rect = canvas.parentElement.getBoundingClientRect();
+    DPR = Math.min(window.devicePixelRatio || 1, 2);
+    W = rect.width; H = rect.height;
+    canvas.width = Math.round(W * DPR);
+    canvas.height = Math.round(H * DPR);
+    ctx.setTransform(DPR,0,0,DPR,0,0);
+  }
+  window.addEventListener("resize", resize);
+
+  // ---------- shared state ----------
+  var mode = "coalescence";
+  var playing = false;
+  var speed = 1;
+  var t = 0; // seconds
+  var rafId = null;
+  var lastTs = null;
+
+  var phasesByMode = {
+    coalescence: [
+      "Tiny cloud droplets (10&ndash;20 &micro;m) are so light that turbulence tosses them up and down &mdash; they aren&rsquo;t really falling yet.",
+      "As collisions merge drops together, they tip toward net descent: bigger drops fall faster and sweep through what&rsquo;s below.",
+      "Each merge grows the drop and speeds its fall, until gravity finally overpowers the turbulence holding it up.",
+      "Below cloud base: a drop that's grown past a few hundred microns survives the dry air beneath and falls as rain. Anything smaller evaporates first &mdash; virga."
+    ],
+    bergeron: [
+      "Below 0&deg;C, supercooled water droplets and a few ice crystals coexist in the same cloud.",
+      "Ice holds vapor more tightly than liquid water does, so the air is saturated for water but supersaturated for ice.",
+      "Vapor keeps leaving the droplets and depositing on the crystals &mdash; the droplets shrink as the crystals grow.",
+      "Crystals grow heavy, clump into snowflakes, and fall. Below the freezing level they melt into rain."
+    ]
+  };
+
+  function renderPhaseList(){
+    var list = document.getElementById("phase-list");
+    var items = phasesByMode[mode];
+    list.innerHTML = items.map(function(text, i){
+      return '<li data-phase="'+i+'"><span class="num">0'+(i+1)+'</span><span>'+text+'</span></li>';
+    }).join("");
+  }
+
+  function setActivePhase(i){
+    var lis = document.querySelectorAll("#phase-list li");
+    lis.forEach(function(li, idx){
+      li.classList.toggle("active", idx === i);
+    });
+  }
+
+  // ---------- charts ----------
+  function inkColors(){
+    return { ink: tok('--ink'), soft: tok('--ink-soft'), faint: tok('--ink-faint'), border: tok('--border'),
+             warm: tok('--accent-warm'), ice: tok('--accent-ice') };
+  }
+
+  function buildCoalescenceChart(){
+    var c = inkColors();
+    var svgW = 320, svgH = 200, pad = { l: 40, r: 14, t: 14, b: 34 };
+    var plotW = svgW - pad.l - pad.r, plotH = svgH - pad.t - pad.b;
+    function fx(um){ return pad.l + (um/2000) * plotW; }
+    function fy(v){ return pad.t + plotH - (v/9) * plotH; }
+    // schematic terminal-velocity curve, monotonic, flattening at large sizes
+    function speedFor(um){ return 9 * (1 - Math.exp(-um/650)); }
+    var pts = [];
+    for (var um = 0; um <= 2000; um += 40){ pts.push(fx(um) + "," + fy(speedFor(um))); }
+    var axisColor = c.faint;
+    var svg = ''+
+      '<svg viewBox="0 0 '+svgW+' '+svgH+'" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Mono, monospace">'+
+        '<line x1="'+pad.l+'" y1="'+pad.t+'" x2="'+pad.l+'" y2="'+(pad.t+plotH)+'" stroke="'+axisColor+'" stroke-width="1"/>'+
+        '<line x1="'+pad.l+'" y1="'+(pad.t+plotH)+'" x2="'+(pad.l+plotW)+'" y2="'+(pad.t+plotH)+'" stroke="'+axisColor+'" stroke-width="1"/>'+
+        '<text x="'+pad.l+'" y="'+(svgH-6)+'" font-size="9" fill="'+c.faint+'">0</text>'+
+        '<text x="'+(pad.l+plotW-34)+'" y="'+(svgH-6)+'" font-size="9" fill="'+c.faint+'">2000 &micro;m</text>'+
+        '<text x="2" y="'+(pad.t+6)+'" font-size="9" fill="'+c.faint+'">9</text>'+
+        '<text x="2" y="'+(pad.t+plotH)+'" font-size="9" fill="'+c.faint+'">0 m/s</text>'+
+        '<polyline points="'+pts.join(" ")+'" fill="none" stroke="'+c.warm+'" stroke-width="2.25" stroke-linecap="round"/>'+
+        '<circle id="chart-marker" cx="'+fx(15)+'" cy="'+fy(speedFor(15))+'" r="4.5" fill="'+c.warm+'" stroke="'+tok('--bg-panel')+'" stroke-width="1.5"/>'+
+      '</svg>';
+    document.getElementById("chart-mount").innerHTML = svg;
+    document.getElementById("chart-title").textContent = "Why size decides speed";
+    document.getElementById("chart-caption").innerHTML = 'Schematic fall speed vs. drop radius. The dot tracks the <strong>largest drop</strong> in the chamber right now &mdash; as it grows, it falls faster and outruns its smaller neighbors.';
+  }
+
+  function updateCoalescenceMarker(um){
+    var marker = document.getElementById("chart-marker");
+    if (!marker) return;
+    var pad = { l: 40, r: 14, t: 14, b: 34 }, plotW = 320-pad.l-pad.r, plotH = 200-pad.t-pad.b;
+    var clamped = Math.max(0, Math.min(2000, um));
+    var x = pad.l + (clamped/2000) * plotW;
+    var speedFor = 9 * (1 - Math.exp(-clamped/650));
+    var y = pad.t + plotH - (speedFor/9) * plotH;
+    marker.setAttribute("cx", x);
+    marker.setAttribute("cy", y);
+  }
+
+  function buildBergeronChart(){
+    var c = inkColors();
+    var svgW = 320, svgH = 200, pad = { l: 40, r: 14, t: 14, b: 34 };
+    var plotW = svgW - pad.l - pad.r, plotH = svgH - pad.t - pad.b;
+    function fx(tempC){ return pad.l + ((tempC + 30) / 30) * plotW; } // -30..0 C
+    function esw(tC){ return 6.11 * Math.exp(17.27*tC/(tC+237.3)); }
+    function esi(tC){ return 6.11 * Math.exp(21.87*tC/(tC+265.5)); }
+    var maxE = esw(0);
+    function fy(e){ return pad.t + plotH - (e/maxE) * plotH; }
+    var ptsW = [], ptsI = [];
+    for (var tC = -30; tC <= 0; tC += 1){
+      ptsW.push(fx(tC)+","+fy(esw(tC)));
+      ptsI.push(fx(tC)+","+fy(esi(tC)));
+    }
+    var gapPath = "M " + ptsW.join(" L ") + " L " + ptsI.slice().reverse().join(" L ") + " Z";
+    var svg = ''+
+      '<svg viewBox="0 0 '+svgW+' '+svgH+'" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Mono, monospace">'+
+        '<line x1="'+pad.l+'" y1="'+pad.t+'" x2="'+pad.l+'" y2="'+(pad.t+plotH)+'" stroke="'+c.faint+'" stroke-width="1"/>'+
+        '<line x1="'+pad.l+'" y1="'+(pad.t+plotH)+'" x2="'+(pad.l+plotW)+'" y2="'+(pad.t+plotH)+'" stroke="'+c.faint+'" stroke-width="1"/>'+
+        '<path d="'+gapPath+'" fill="'+c.ice+'" opacity="0.16"/>'+
+        '<polyline points="'+ptsW.join(" ")+'" fill="none" stroke="'+c.warm+'" stroke-width="2.25" stroke-linecap="round"/>'+
+        '<polyline points="'+ptsI.join(" ")+'" fill="none" stroke="'+c.ice+'" stroke-width="2.25" stroke-linecap="round" stroke-dasharray="1,4"/>'+
+        '<text x="'+pad.l+'" y="'+(svgH-6)+'" font-size="9" fill="'+c.faint+'">-30&deg;C</text>'+
+        '<text x="'+(pad.l+plotW-18)+'" y="'+(svgH-6)+'" font-size="9" fill="'+c.faint+'">0&deg;C</text>'+
+        '<text x="'+(fx(-19))+'" y="'+(fy(esw(-19))-6)+'" font-size="9" fill="'+c.warm+'">water</text>'+
+        '<text x="'+(fx(-25))+'" y="'+(fy(esi(-25))+13)+'" font-size="9" fill="'+c.ice+'">ice</text>'+
+      '</svg>';
+    document.getElementById("chart-mount").innerHTML = svg;
+    document.getElementById("chart-title").textContent = "Why ice wins the vapor";
+    document.getElementById("chart-caption").innerHTML = 'Saturation vapor pressure over water (solid) vs. ice (dashed). In the shaded gap, air is saturated for liquid water but <strong>supersaturated for ice</strong> &mdash; so vapor evaporates off droplets and deposits onto crystals.';
+  }
+
+  // ---------- coalescence simulation ----------
+  var drops, rainCount, evapCount, everCollided, maxRadiusPx, cloudBaseY;
+  var EXIT_R = 30, RAIN_R = 10, EVAP_K = 3.0;
+
+  function umFor(rpx){ return Math.round(15 + (rpx-2)/(EXIT_R-2) * (2000-15)); }
+  function speedForR(rpx){ return 0.28 + Math.pow(rpx/EXIT_R, 1.6) * 2.6; }
+  function fallFraction(rpx){
+    // Stay essentially neutrally buoyant (pure turbulence, no net fall) while small,
+    // so drops get many chances to collide before gravity starts to win. The rain
+    // threshold sits well below full terminal speed, so a drop that clears it still
+    // has plenty of fall time left to reach cloud base rather than stalling right at
+    // the boundary.
+    var t = Math.min(1, Math.max(0, (rpx-6)/(16-6)));
+    return t*t*(3-2*t);
+  }
+
+  function resetCoalescence(){
+    cloudBaseY = H*0.8;
+    drops = [];
+    rainCount = 0;
+    evapCount = 0;
+    everCollided = false;
+    maxRadiusPx = 2;
+    for (var i=0;i<26;i++){
+      drops.push(spawnDrop(Math.random()*cloudBaseY*0.92));
+    }
+  }
+  function spawnDrop(y){
+    var r = 2 + Math.random()*1.6;
+    return { x: 10 + Math.random()*(W-20), y: y===undefined? -6 : y, r: r,
+             vx: (Math.random()-0.5)*10, phase: Math.random()*Math.PI*2, evaporating:false };
+  }
+
+  function stepCoalescence(dt){
+    if (Math.random() < dt*4.6 && drops.length < 70){
+      drops.push(spawnDrop());
+    }
+    for (var i=0;i<drops.length;i++){
+      var d = drops[i];
+      d.phase += dt*1.6;
+      if (d.evaporating){
+        d.r *= Math.exp(-EVAP_K*dt);
+        d.y += speedForR(RAIN_R*0.9) * 54 * dt;
+      } else {
+        var ff = fallFraction(d.r);
+        var turbulence = Math.sin(d.phase) * (1-ff) * 15;
+        var netFall = speedForR(d.r) * 54 * ff;
+        d.y += (netFall + turbulence) * dt;
+        if (d.y > cloudBaseY){
+          if (d.r < RAIN_R) d.evaporating = true;
+        }
+      }
+      d.x += Math.cos(d.phase*0.8)*4*dt + d.vx*dt*0.15;
+      if (d.x < d.r) d.x = d.r; if (d.x > W-d.r) d.x = W-d.r;
+      if (!d.evaporating && d.y < -12) d.y = -12;
+    }
+    // collisions (only among drops still suspended in-cloud)
+    for (var a=0; a<drops.length; a++){
+      for (var b=a+1; b<drops.length; b++){
+        var d1=drops[a], d2=drops[b];
+        if (!d1||!d2 || d1.evaporating || d2.evaporating) continue;
+        var dx=d1.x-d2.x, dy=d1.y-d2.y;
+        var dist = Math.sqrt(dx*dx+dy*dy);
+        // A bigger drop sweeps a capture radius roughly its own size as it falls
+        // past smaller ones (collection efficiency), so growth accelerates with size.
+        var capture = Math.max(d1.r,d2.r)*2.0 + Math.min(d1.r,d2.r)*0.5;
+        if (dist < capture){
+          var big = d1.r>=d2.r? d1:d2, small = d1.r>=d2.r? d2:d1;
+          big.r = Math.min(EXIT_R+4, Math.cbrt(Math.pow(d1.r,3)+Math.pow(d2.r,3)));
+          big.x = (d1.x*Math.pow(d1.r,3)+d2.x*Math.pow(d2.r,3)) / (Math.pow(d1.r,3)+Math.pow(d2.r,3));
+          drops.splice(drops.indexOf(small),1);
+          everCollided = true;
+          a = -1; break;
+        }
+      }
+    }
+    var newDrops = [];
+    for (var j=0;j<drops.length;j++){
+      var dd = drops[j];
+      if (!dd.evaporating && dd.r > maxRadiusPx) maxRadiusPx = dd.r;
+      if (dd.evaporating && dd.r <= 0.4){ evapCount++; continue; }
+      if (dd.y - dd.r > H){
+        if (dd.r >= RAIN_R) rainCount++; else evapCount++;
+        continue;
+      }
+      newDrops.push(dd);
+    }
+    drops = newDrops;
+  }
+
+  function drawCoalescence(){
+    var grad = ctx.createLinearGradient(0,0,0,H);
+    grad.addColorStop(0, tok('--chamber-top'));
+    grad.addColorStop(1, tok('--chamber-bot'));
+    ctx.fillStyle = grad;
+    ctx.fillRect(0,0,W,H);
+
+    ctx.setLineDash([5,4]);
+    ctx.strokeStyle = "rgba(255,255,255,0.5)";
+    ctx.lineWidth = 1.25;
+    ctx.beginPath(); ctx.moveTo(0,cloudBaseY); ctx.lineTo(W,cloudBaseY); ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.fillStyle = "rgba(255,255,255,0.85)";
+    ctx.font = "9px 'IBM Plex Mono', monospace";
+    ctx.fillText("cloud base", 8, cloudBaseY-6);
+
+    for (var i=0;i<drops.length;i++){
+      var d = drops[i];
+      ctx.beginPath();
+      ctx.arc(d.x, d.y, Math.max(0.4,d.r), 0, Math.PI*2);
+      ctx.fillStyle = tok('--water-fill');
+      ctx.globalAlpha = d.evaporating ? Math.min(0.85, d.r/6) : 0.92;
+      ctx.fill();
+      ctx.lineWidth = 1;
+      ctx.strokeStyle = tok('--water-stroke');
+      ctx.stroke();
+      ctx.globalAlpha = 1;
+    }
+  }
+
+  // ---------- bergeron simulation ----------
+  var beads, crystals, snowCount, lineY;
+  var CRY_FALL_R = 15;
+
+  function resetBergeron(){
+    lineY = H*0.6;
+    beads = [];
+    crystals = [];
+    snowCount = 0;
+    for (var i=0;i<34;i++){
+      beads.push({ x: 8+Math.random()*(W-16), y: 6+Math.random()*(lineY-16), r: 2.6+Math.random()*1.2, phase: Math.random()*Math.PI*2 });
+    }
+    for (var j=0;j<4;j++){
+      crystals.push({ x: 20+Math.random()*(W-40), y: 14+Math.random()*(lineY*0.5), r: 3.5, falling:false, melted:false });
+    }
+  }
+
+  function nearestCrystal(x,y){
+    var best=null, bd=Infinity;
+    for (var i=0;i<crystals.length;i++){
+      var cr = crystals[i];
+      if (cr.falling) continue;
+      var dx=cr.x-x, dy=cr.y-y, dist=dx*dx+dy*dy;
+      if (dist<bd){ bd=dist; best=cr; }
+    }
+    return best;
+  }
+
+  function stepBergeron(dt){
+    for (var i=beads.length-1;i>=0;i--){
+      var b = beads[i];
+      b.phase += dt*1.6;
+      b.x += Math.sin(b.phase)*3*dt;
+      b.y += Math.cos(b.phase*0.7)*2*dt + 1.7*dt;
+      b.r -= 0.14*dt;
+      if (b.r <= 0.5){
+        var cr = nearestCrystal(b.x,b.y);
+        if (cr) cr.r = Math.min(CRY_FALL_R+10, cr.r + 1.1);
+        beads.splice(i,1);
+      }
+    }
+    if (Math.random() < dt*2.3 && beads.length < 40){
+      beads.push({ x: 8+Math.random()*(W-16), y: 6+Math.random()*(lineY-16), r: 3+Math.random()*1.2, phase: Math.random()*Math.PI*2 });
+    }
+    for (var j=0;j<crystals.length;j++){
+      var c = crystals[j];
+      if (!c.falling && c.r >= CRY_FALL_R) c.falling = true;
+      if (c.falling){
+        c.y += (0.5 + (c.r-CRY_FALL_R)*0.09) * 54 * dt;
+        if (!c.melted && c.y > lineY) c.melted = true;
+      }
+      if (c.y - c.r > H){
+        snowCount++;
+        c.y = -20; c.r = 3.5; c.falling=false; c.melted=false;
+        c.x = 20+Math.random()*(W-40);
+      }
+    }
+    // crystal aggregation
+    for (var a=0;a<crystals.length;a++){
+      for (var b2=a+1;b2<crystals.length;b2++){
+        var c1=crystals[a], c2=crystals[b2];
+        if (c1.falling && c2.falling && !c1.melted && !c2.melted){
+          var dx=c1.x-c2.x, dy=c1.y-c2.y;
+          if (Math.sqrt(dx*dx+dy*dy) < (c1.r+c2.r)*0.6){
+            c1.r = Math.min(EXIT_R, Math.sqrt(c1.r*c1.r+c2.r*c2.r));
+            c2.y=-30; c2.r=3.5; c2.falling=false; c2.melted=false; c2.x=20+Math.random()*(W-40);
+          }
+        }
+      }
+    }
+  }
+
+  function drawSnowflake(x,y,r,color){
+    ctx.strokeStyle = color; ctx.lineWidth = Math.max(1, r*0.11);
+    ctx.lineCap = "round";
+    for (var k=0;k<6;k++){
+      var ang = k*Math.PI/3;
+      var x2 = x+Math.cos(ang)*r, y2 = y+Math.sin(ang)*r;
+      ctx.beginPath(); ctx.moveTo(x,y); ctx.lineTo(x2,y2); ctx.stroke();
+      if (r>7){
+        var mx=x+Math.cos(ang)*r*0.6, my=y+Math.sin(ang)*r*0.6;
+        var branch = r*0.28;
+        ctx.beginPath();
+        ctx.moveTo(mx,my); ctx.lineTo(mx+Math.cos(ang+0.7)*branch, my+Math.sin(ang+0.7)*branch); ctx.stroke();
+        ctx.beginPath();
+        ctx.moveTo(mx,my); ctx.lineTo(mx+Math.cos(ang-0.7)*branch, my+Math.sin(ang-0.7)*branch); ctx.stroke();
+      }
+    }
+  }
+
+  function drawBergeron(){
+    var grad = ctx.createLinearGradient(0,0,0,H);
+    grad.addColorStop(0, tok('--chamber-top'));
+    grad.addColorStop(1, tok('--chamber-bot'));
+    ctx.fillStyle = grad;
+    ctx.fillRect(0,0,W,H);
+
+    ctx.setLineDash([5,4]);
+    ctx.strokeStyle = "rgba(255,255,255,0.55)";
+    ctx.lineWidth = 1.25;
+    ctx.beginPath(); ctx.moveTo(0,lineY); ctx.lineTo(W,lineY); ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.fillStyle = "rgba(255,255,255,0.85)";
+    ctx.font = "9px 'IBM Plex Mono', monospace";
+    ctx.fillText("0°C level", 8, lineY-6);
+
+    for (var i=0;i<beads.length;i++){
+      var b = beads[i];
+      ctx.beginPath(); ctx.arc(b.x,b.y,Math.max(0.6,b.r),0,Math.PI*2);
+      ctx.fillStyle = tok('--water-fill'); ctx.globalAlpha=0.88; ctx.fill();
+      ctx.strokeStyle = tok('--water-stroke'); ctx.lineWidth=0.75; ctx.stroke();
+      ctx.globalAlpha=1;
+    }
+    for (var j=0;j<crystals.length;j++){
+      var c = crystals[j];
+      if (c.melted){
+        ctx.beginPath(); ctx.arc(c.x,c.y,Math.max(2,c.r*0.42),0,Math.PI*2);
+        ctx.fillStyle = tok('--water-fill'); ctx.fill();
+        ctx.strokeStyle = tok('--water-stroke'); ctx.lineWidth=1; ctx.stroke();
+      } else {
+        drawSnowflake(c.x,c.y,c.r, tok('--ice-stroke'));
+      }
+    }
+  }
+
+  // ---------- readouts ----------
+  function fmtTime(sec){
+    var m = Math.floor(sec/60), s = Math.floor(sec%60);
+    return m+":"+(s<10?"0":"")+s;
+  }
+
+  function updateReadouts(){
+    document.getElementById("readout-time").textContent = fmtTime(t);
+    if (mode === "coalescence"){
+      document.getElementById("readout-primary-label").textContent = "Largest drop";
+      document.getElementById("readout-primary").textContent = umFor(maxRadiusPx) + " µm";
+      document.getElementById("readout-secondary-label").textContent = "Raindrops formed";
+      document.getElementById("readout-secondary").textContent = rainCount;
+      document.getElementById("readout-tertiary-label").textContent = "Evaporated (virga)";
+      document.getElementById("readout-tertiary").textContent = evapCount;
+      updateCoalescenceMarker(umFor(maxRadiusPx));
+
+      var phase = 0;
+      if (rainCount>0 || evapCount>0 || maxRadiusPx>=RAIN_R) phase=3;
+      else if (maxRadiusPx>=10) phase=2;
+      else if (everCollided) phase=1;
+      setActivePhase(phase);
+    } else {
+      var maxCry = 0;
+      for (var i=0;i<crystals.length;i++) if (!crystals[i].melted) maxCry = Math.max(maxCry, crystals[i].r);
+      document.getElementById("readout-primary-label").textContent = "Largest crystal";
+      document.getElementById("readout-primary").textContent = Math.round(50 + (maxCry/EXIT_R)*2450) + " µm";
+      document.getElementById("readout-secondary-label").textContent = "Crystals reached ground";
+      document.getElementById("readout-secondary").textContent = snowCount;
+
+      var avgBeadR = beads.length ? beads.reduce(function(s,b){return s+b.r;},0)/beads.length : 0;
+      var anyFalling = crystals.some(function(c){return c.falling;});
+      var phase2 = 0;
+      if (t >= 0.6){
+        if (anyFalling) phase2 = 3;
+        else if (maxCry >= CRY_FALL_R*0.6) phase2 = 2;
+        else if (avgBeadR < 3.4) phase2 = 1;
+      }
+      setActivePhase(phase2);
+    }
+  }
+
+  // ---------- animation loop ----------
+  function tick(ts){
+    if (!playing) return;
+    if (lastTs === null) lastTs = ts;
+    var rawDt = Math.min(0.033, (ts-lastTs)/1000);
+    lastTs = ts;
+    // Run fixed-size substeps (rather than one big dt) at high speed so fast
+    // drops/crystals can't tunnel past each other without being checked for collision.
+    var substeps = Math.max(1, Math.round(speed));
+    for (var i=0;i<substeps;i++){
+      t += rawDt;
+      if (mode === "coalescence") stepCoalescence(rawDt); else stepBergeron(rawDt);
+    }
+    if (mode === "coalescence") drawCoalescence(); else drawBergeron();
+    updateReadouts();
+    rafId = requestAnimationFrame(tick);
+  }
+
+  function renderStatic(){
+    if (mode === "coalescence") drawCoalescence(); else drawBergeron();
+    updateReadouts();
+  }
+
+  function play(){
+    if (playing) return;
+    playing = true;
+    lastTs = null;
+    document.getElementById("btn-play").innerHTML = "&#10074;&#10074; Pause";
+    rafId = requestAnimationFrame(tick);
+  }
+  function pause(){
+    playing = false;
+    document.getElementById("btn-play").innerHTML = "&#9654; Play";
+    if (rafId) cancelAnimationFrame(rafId);
+  }
+  function resetSim(){
+    t = 0;
+    if (mode === "coalescence") resetCoalescence(); else resetBergeron();
+    renderStatic();
+  }
+
+  function setMode(newMode){
+    pause();
+    mode = newMode;
+    page.setAttribute("data-mode-active", mode);
+    document.querySelectorAll(".tab").forEach(function(btn){
+      var active = btn.getAttribute("data-mode") === mode;
+      btn.classList.toggle("active", active);
+      btn.setAttribute("aria-selected", active ? "true" : "false");
+    });
+    renderPhaseList();
+    document.getElementById("readout-tertiary-wrap").hidden = (mode !== "coalescence");
+    if (mode === "coalescence") buildCoalescenceChart(); else buildBergeronChart();
+    t = 0;
+    if (mode === "coalescence") resetCoalescence(); else resetBergeron();
+    renderStatic();
+  }
+
+  // ---------- wire up controls ----------
+  document.getElementById("btn-play").addEventListener("click", function(){
+    if (playing) pause(); else play();
+  });
+  document.getElementById("btn-reset").addEventListener("click", function(){
+    pause();
+    resetSim();
+  });
+  var SPEED_MIN = 1, SPEED_MAX = 50;
+  var speedSlider = document.getElementById("speed-slider");
+  var speedValue = document.getElementById("speed-value");
+  function applySpeedFromSlider(){
+    var norm = parseFloat(speedSlider.value); // 0..1
+    speed = SPEED_MIN * Math.pow(SPEED_MAX/SPEED_MIN, norm); // log curve: 1x -> 50x
+    speedValue.textContent = (speed < 10 ? speed.toFixed(1) : Math.round(speed)) + "×";
+  }
+  speedSlider.addEventListener("input", applySpeedFromSlider);
+  applySpeedFromSlider();
+  document.querySelectorAll(".tab").forEach(function(btn){
+    btn.addEventListener("click", function(){ setMode(btn.getAttribute("data-mode")); });
+  });
+
+  // ---------- init ----------
+  resize();
+  setMode("coalescence");
+  window.addEventListener("resize", function(){ resize(); renderStatic(); });
+})();
+</script>
+</body>
+</html>

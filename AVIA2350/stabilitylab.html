@@ -358,7 +358,7 @@
     </section>
   </main>
 
-  <footer>Instructional model, not a precision forecasting tool. Altitude scale simplified to 0–15,000 ft for classroom demonstration.<br>© 2026 Lee, C.S. All rights reserved.</footer>
+  <footer>Instructional model, not a precision forecasting tool. Altitude scale simplified to 0–15,000 ft for classroom demonstration.<br>© 2026 Lee, C.S. All rights reserved. · V2.1</footer>
 </div>
 
 <script>
@@ -515,14 +515,16 @@
     var elKey = derived.el != null ? Math.round(derived.el/50) : 'x';
     var lfcKey = derived.lfc != null ? Math.round(derived.lfc/50) : 'x';
     var key = layer.i + '_' + sign + '_' + elKey + '_' + lfcKey;
-    if (key === lastNarrativeKey) return;
-    lastNarrativeKey = key;
-
-    els.stabilityTitle.firstChild.textContent = SIGN_TITLE[sign] + ' ';
-    els.stabilitySub.textContent = 'Layer ' + layer.zLo.toLocaleString() + '–' + layer.zHi.toLocaleString() + ' ft · Γ = ' + layer.gamma.toFixed(1) + ' °C/1,000 ft · environment: ' + CAT_NAME[layer.cat];
-
-    els.stabilityPill.className = 'pill ' + SIGN_PILL_CLASS[sign];
-    els.pillText.textContent = SIGN_PILL[sign];
+    // title/subtitle/pill are categorical — only rewrite them when the category actually changes,
+    // to avoid flicker. The sentence below embeds a live °C number that keeps changing even while
+    // the category stays the same, so it is recomputed every call, never gated behind this throttle.
+    if (key !== lastNarrativeKey){
+      lastNarrativeKey = key;
+      els.stabilityTitle.firstChild.textContent = SIGN_TITLE[sign] + ' ';
+      els.stabilitySub.textContent = 'Layer ' + layer.zLo.toLocaleString() + '–' + layer.zHi.toLocaleString() + ' ft · Γ = ' + layer.gamma.toFixed(1) + ' °C/1,000 ft · environment: ' + CAT_NAME[layer.cat];
+      els.stabilityPill.className = 'pill ' + SIGN_PILL_CLASS[sign];
+      els.pillText.textContent = SIGN_PILL[sign];
+    }
 
     var diff = Math.abs(tp-te).toFixed(1);
     var line;
@@ -999,14 +1001,19 @@
   function cloudType(){
     var lcl = derived.lcl;
     if (state.maxAlt < lcl - 5) return 'none';
-    var pastLfc = derived.lfc != null && state.maxAlt >= derived.lfc - 5;
+    var lfc = derived.lfc;
+    var pastLfc = lfc != null && state.maxAlt >= lfc - 5;
     if (!pastLfc){
       return lcl < 600 ? 'fog' : 'stratus';
     }
     if (derived.el != null && state.maxAlt >= derived.el - 50){
       return 'capped';
     }
-    var depth = state.maxAlt - lcl;
+    // measured from the LFC (where it actually turned buoyant), not the visible base at the LCL —
+    // otherwise a parcel that spent a long stable climb below LFC would read as a mature CB the
+    // instant it crossed over, even though it has only just begun actively growing
+    var growthBase = Math.max(lfc, lcl);
+    var depth = state.maxAlt - growthBase;
     if (depth < 1200) return 'cumulus';
     if (depth < 4000) return 'towering';
     return 'cb';
@@ -1036,22 +1043,36 @@
       return;
     }
 
+    // Below its LFC the parcel wasn't actually buoyant yet (still catching up to the environment),
+    // so that portion of the column renders as a flatter, layered deck — not part of the actively
+    // growing cumulus — otherwise the whole cloud would flip into one giant tower the instant the
+    // TOP crosses a size threshold, even though its lower half formed under quite different conditions.
+    var lfc = derived.lfc;
+    var growthBase = (lfc != null) ? Math.max(lfc, lcl) : lcl;
+    var stratusTop = Math.min(growthBase, ALT_MAX);
+    var stratusDepthPx = baseY - mapZ(stratusTop);
+    if (stratusDepthPx > 4){
+      drawFlatDeck(g, mapZ(stratusTop), 0.85);
+    }
+
     // cumuliform growth — built from overlapping rounded clusters (not a single-file bead string),
     // so it reads as one fluffy cauliflower mass: wide, bumpy, flat-based, tapering as it rises
     var growthTop = type === 'capped' ? Math.min(state.maxAlt, derived.el) : state.maxAlt;
+    growthTop = Math.max(growthTop, growthBase);
+    var baseYGrowth = mapZ(Math.min(growthBase, ALT_MAX));
     var topY = mapZ(Math.min(growthTop, ALT_MAX));
-    var depthPx = Math.max(baseY - topY, 6);
+    var depthPx = Math.max(baseYGrowth - topY, 6);
     var cx = 160;
 
     var baseWidth = Math.max(50, Math.min(40 + depthPx*0.55, 140));
     var numClusters = Math.min(6, Math.max(1, Math.round(depthPx/40)+1));
 
-    // ground-contact shadow (cloud blocking the sun/moon)
+    // ground-contact shadow (cloud blocking the sun/moon) — sits at the true visible cloud base
     g.appendChild(el('ellipse', {cx:cx+8, cy:baseY+3, rx:baseWidth*0.55, ry:7, fill:skyLayers.ridgeMidColor || 'var(--ridge-mid)', opacity:.3}));
 
     for (var c=0;c<numClusters;c++){
       var cf = numClusters===1 ? 0 : c/(numClusters-1);
-      var clusterY = baseY - cf*depthPx*0.85;
+      var clusterY = baseYGrowth - cf*depthPx*0.85;
       var taper = 1 - cf*0.32;
       var clusterW = baseWidth * taper * (0.82 + seeded(c*31+1)*0.32);
       var clusterCx = cx + (seeded(c*17+2)-0.5)*baseWidth*0.22;
@@ -1067,7 +1088,7 @@
       }
     }
     // bright rim lobes on top, catching the light
-    var topClusterY = baseY - depthPx*0.85;
+    var topClusterY = baseYGrowth - depthPx*0.85;
     var rimN = numClusters===1 ? 3 : 6;
     for (var j=0;j<rimN;j++){
       var jx = cx + (seeded(j*13+4)-0.5)*baseWidth*0.75;

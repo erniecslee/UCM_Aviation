@@ -1,0 +1,76 @@
+{
+  "files": [
+    {
+      "name": "takeoff_field_climb_dry.json",
+      "description": "Dry-runway takeoff field-limit and climb-limit weight grids (field length x OAT) for pressure altitudes 0-10000 ft, FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_field_climb_wet.json",
+      "description": "Wet-runway takeoff field-limit and climb-limit weight grids (field length x OAT) for pressure altitudes 0-10000 ft, FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_field_climb_adjustments.json",
+      "description": "Takeoff field-length slope/wind corrections and field/climb limit-weight delta tables used to adjust the dry/wet field & climb limit grids, FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_obstacle.json",
+      "description": "Takeoff obstacle-limit reference weight table plus OAT, pressure-altitude, wind, bleed and anti-ice adjustments, FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_n1_and_assumed_temp.json",
+      "description": "Takeoff %N1 tables (rated and packs-off adjustment) and assumed-temperature reduced-thrust limits/%N1-vs-temperature data, FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_vspeeds_dry.json",
+      "description": "Dry-runway takeoff V1/VR/V2 by weight and flap setting, plus temp/pressure-altitude and slope/wind V1 adjustments and V1(MCG), FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_vspeeds_wet.json",
+      "description": "Wet-runway takeoff V1/VR/V2 by weight and flap setting, plus temp/pressure-altitude and slope/wind V1 adjustments and V1(MCG), FCOM PD.30.x."
+    },
+    {
+      "name": "takeoff_vspeeds_to1.json",
+      "description": "24K Derate (TO-1) takeoff V1/VR/V2 by weight and flap setting (dry AND wet nested under top-level 'dry'/'wet' keys), plus temp/pressure-altitude and slope/wind V1 adjustments and V1(MCG), FCOM PI.30.15-16 (pp.1071-1072). No PD-chapter dispatch field/climb limit-weight table exists for this rating (see takeoff_n1_and_assumed_temp_to1_to2.json notes)."
+    },
+    {
+      "name": "takeoff_vspeeds_to2.json",
+      "description": "22K Derate (TO-2) takeoff V1/VR/V2 by weight and flap setting (dry AND wet nested under top-level 'dry'/'wet' keys), plus temp/pressure-altitude and slope/wind V1 adjustments and V1(MCG), FCOM PI.30.29-30 (pp.1085-1086). Added beyond the original file list because OPTIMUM thrust-rating selection needs TO-2 V-speeds too; weight axis is capped at 80,000 kg (4000 kg steps) rather than 90,000 kg (5000 kg steps)."
+    },
+    {
+      "name": "takeoff_n1_and_assumed_temp_to1_to2.json",
+      "description": "24K Derate (TO-1, FCOM PI.30.26-28, pp.1082-1084) and 22K Derate (TO-2, FCOM PI.30.40-42, pp.1096-1098) %N1 and assumed-temperature reduced-thrust method, one object per rating under top-level 'to1'/'to2' keys, each shaped like takeoff_n1_and_assumed_temp.json. No FCOM field/climb dispatch limit-weight tables exist for these derates (PD.30 chapter is explicitly max-thrust-only per FCOM PD.34.1); see this file's top-level 'notes'."
+    },
+    {
+      "name": "takeoff_contaminated.json",
+      "description": "Slush/standing-water and slippery-runway takeoff weight adjustments, V1(MCG)-limited field length tables, and V1 adjustments (max-reverse and no-reverse variants), plus the anti-skid-inoperative takeoff V1 adjustment and weight penalty, FCOM PI.30.6-30.11 and PI.37.4."
+    },
+    {
+      "name": "landing_field_dispatch.json",
+      "description": "Dispatch landing field-limit weight grids (wind-corrected field length x wind component, then field length x OAT x pressure altitude) for Flaps 40/30/15 dry runway, FCOM PD.32.x."
+    },
+    {
+      "name": "landing_climb_and_goaround.json",
+      "description": "Landing climb-limit weight and go-around climb-gradient reference/weight/speed adjustment tables, FCOM PD.32.x."
+    },
+    {
+      "name": "landing_vref_and_trim.json",
+      "description": "VREF speeds by weight and flap setting, stabilizer trim setting table, and flap maneuvering speeds, FCOM PD.32.x."
+    },
+    {
+      "name": "landing_distance_normal.json",
+      "description": "Normal-configuration inflight landing distance and adjustment factors (ref distance, weight/altitude/wind/slope/temp/approach-speed/reverse-thrust adjustments) for Flaps 15/30/40 across Dry/Good/Medium/Poor braking, FCOM PI.32.1-32.3."
+    },
+    {
+      "name": "landing_distance_nonnormal.json",
+      "description": "Non-normal-configuration inflight landing distance and adjustments for all 25 FCOM non-normal scenarios (airspeed unreliable, all-flaps-up, antiskid inoperative, flight-control and hydraulic-system failures, one-engine-inoperative, flap asymmetry/disagree, etc.), FCOM PI.32.4-32.28, cross-referenced to QRH PI-QRH.31.x."
+    },
+    {
+      "name": "quick_turnaround.json",
+      "description": "Quick-turnaround limit-weight tables for steel and carbon brakes with mandatory brake-cooling wait procedures, plus the recommended brake-cooling schedule (reference and event-adjusted brake energy per brake, and steel/carbon cooling-time charts), FCOM PD.32.7-32.8 and PI.32.29-32.30."
+    },
+    {
+      "name": "index.json",
+      "description": "Manifest listing every file in this folder with a one-line description."
+    }
+  ]
+}

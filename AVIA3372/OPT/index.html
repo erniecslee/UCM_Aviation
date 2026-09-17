@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Onboard Performance Tool</title>
+<link rel="stylesheet" href="src/style.css" />
+</head>
+<body>
+<div class="app-shell">
+
+  <!-- ===================== TAKEOFF PANEL ===================== -->
+  <section class="opt-panel active" id="panel-takeoff">
+    <header class="opt-header">
+      <button class="icon-btn" aria-hidden="true">&#9776;</button>
+      <h1>PERFORMANCE &mdash; TAKEOFF &mdash; <span id="to-mode-label">DISPATCH</span></h1>
+      <button class="icon-btn" aria-hidden="true">&#9881;</button>
+    </header>
+    <p class="profile-line">PROFILE&nbsp; <span id="aircraftTitle">B737-800</span> &middot; <span class="training-badge">TRAINING / SIMULATION ONLY</span> &middot; <span class="version-tag">V1.0</span></p>
+
+    <div class="opt-form">
+      <div class="form-row">
+        <label class="f-label">ARPT</label>
+        <div class="ac-wrap">
+          <input id="to-airport" class="pill-input" placeholder="ARPT SEARCH" autocomplete="off" />
+          <div class="ac-list" id="to-airport-list"></div>
+        </div>
+        <label class="f-label f-label-2">RTG</label>
+        <select id="to-rtg" class="pill-select">
+          <option value="OPTIMUM" selected>OPTIMUM</option>
+          <option value="TO">TO (26K)</option>
+          <option value="TO-1">TO-1 (24K)</option>
+          <option value="TO-2">TO-2 (22K)</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">RWY</label>
+        <select id="to-runway" class="pill-select"><option value="">RUNWAYS</option></select>
+        <label class="f-label f-label-2">ATM</label>
+        <select id="to-atm" class="pill-select"><option value="OPTIMUM">OPTIMUM</option><option value="MAX">MAX</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">INTX</label>
+        <select id="to-intx" class="pill-select" disabled><option>ALL</option></select>
+        <label class="f-label f-label-2">FLAP</label>
+        <select id="to-flap" class="pill-select">
+          <option value="OPTIMUM" selected>OPTIMUM</option>
+          <option value="1">1</option>
+          <option value="5">5</option>
+          <option value="10">10</option>
+          <option value="15">15</option>
+          <option value="25">25</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">COND</label>
+        <select id="to-cond" class="pill-select">
+          <option value="6">6 &middot; DRY</option>
+          <option value="5">5 &middot; WET</option>
+          <option value="4">4 &middot; COMPACT SNOW</option>
+          <option value="3">3 &middot; STANDING WATER</option>
+          <option value="2">2 &middot; SLUSH</option>
+          <option value="1">1 &middot; DRY SNOW</option>
+          <option value="0">0 &middot; WET ICE</option>
+        </select>
+        <label class="f-label f-label-2">A/C</label>
+        <select id="to-packs" class="pill-select"><option>AUTO</option><option>OFF</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">WIND</label>
+        <div class="field-with-sub">
+          <input type="text" id="to-wind" class="pill-input" placeholder="030/20" />
+          <span class="sub-label" id="to-wind-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">A/ICE</label>
+        <select id="to-antiice" class="pill-select"><option>OFF</option><option>ENG</option><option>ENG+WING</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">OAT</label>
+        <div class="field-with-sub">
+          <input type="text" id="to-oat" class="pill-input" placeholder="15C" />
+          <span class="sub-label" id="to-oat-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">I/C</label>
+        <select id="to-ic" class="pill-select" disabled><option>BALANCED</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">QNH</label>
+        <div class="field-with-sub">
+          <input type="text" id="to-qnh" class="pill-input" placeholder="29.92" />
+          <span class="sub-label" id="to-qnh-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">REV</label>
+        <select id="to-rev" class="pill-select"><option>ALL OP</option><option>ONE INOP</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">TOW (LB)</label>
+        <div class="field-with-sub">
+          <input type="text" id="to-weight" class="pill-input" placeholder="143300" />
+          <span class="sub-label" id="to-weight-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">CG (%)</label>
+        <input type="text" id="to-cg" class="pill-input" placeholder="20" />
+      </div>
+
+      <p class="scope-note">Field/climb limit-weight charts are only published for Flap 5 (that's a real FCOM limitation for this airframe); other flap settings still get V-speeds. RTG OPTIMUM searches TO/TO-1/TO-2 for the lowest legal %N1 — TO-1/TO-2 have no published FCOM field/climb chart, so their runway-specific limit weight is estimated by scaling TO(26K)'s real chart by thrust ratio, and their flex temp uses that rating's published ceiling rather than a weight-specific solve. INTX/I-C are display-only — not wired into the calculation (no taxiway-intersection or Improved Climb data in the dataset).</p>
+
+      <button id="to-calc" class="calc-btn">CALCULATE</button>
+    </div>
+
+    <div class="results-block" id="to-results" hidden>
+      <p class="exceed-banner" id="to-exceed-banner" hidden>T/O EXCEED LIMIT</p>
+      <p class="exceed-banner range-banner" id="to-range-banner" hidden></p>
+      <div class="results-split">
+        <div class="results-left">
+          <div class="result-row">
+            <div class="result-cell"><span class="rk">FLAP</span><span class="rv" id="out-flap">&mdash;</span></div>
+            <div class="result-cell"><span class="rk">ACCEL HT</span><span class="rv" id="out-accelht">&mdash;</span></div>
+            <div class="result-cell"><span class="rk">TRIM</span><span class="rv" id="out-trim">&mdash;</span></div>
+          </div>
+          <div class="result-row">
+            <div class="result-cell wide"><span class="rk">RWY / INTX</span><span class="rv" id="out-rwyintx">&mdash;</span></div>
+          </div>
+          <div class="result-row">
+            <div class="result-cell"><span class="rk">TOGW</span><span class="rv" id="out-mtow-actual">&mdash;</span></div>
+            <div class="result-cell"><span class="rk" id="out-n1label">%N1</span><span class="rv" id="out-n1only">&mdash;</span></div>
+            <div class="result-cell"><span class="rk">SEL TEMP</span><span class="rv" id="out-seltemp">&mdash;</span></div>
+          </div>
+          <div class="watermark" id="to-watermark">FULL</div>
+        </div>
+        <div class="vspeed-col">
+          <div class="vspeed-item"><span class="rk">V1</span><span class="rv rv-big" id="out-v1">&mdash;</span></div>
+          <div class="vspeed-item"><span class="rk">VR</span><span class="rv rv-big" id="out-vr">&mdash;</span></div>
+          <div class="vspeed-item"><span class="rk">V2</span><span class="rv rv-big" id="out-v2">&mdash;</span></div>
+          <div class="vspeed-item"><span class="rk">Vref40</span><span class="rv rv-big" id="out-vref40">&mdash;</span></div>
+        </div>
+      </div>
+      <label class="toggle-row"><input type="checkbox" id="to-graphic-toggle" /><span class="toggle-track"></span> Rwy Graphic</label>
+      <div class="rwy-graphic" id="to-rwy-graphic" hidden></div>
+
+      <details class="hint-details"><summary>&#9432; Notes &amp; assumptions</summary><p class="hint" id="to-hint"></p></details>
+    </div>
+  </section>
+
+  <!-- ===================== LANDING PANEL ===================== -->
+  <section class="opt-panel" id="panel-landing">
+    <header class="opt-header">
+      <button class="icon-btn" aria-hidden="true">&#9776;</button>
+      <h1>PERFORMANCE &mdash; LANDING &mdash; <span id="ld-mode-label">ENROUTE</span></h1>
+      <button class="icon-btn" aria-hidden="true">&#9881;</button>
+    </header>
+    <p class="profile-line">PROFILE&nbsp; <span>B737-800</span> &middot; <span class="training-badge">TRAINING / SIMULATION ONLY</span> &middot; <span class="version-tag">V1.0</span></p>
+
+    <div class="opt-form">
+      <div class="form-row">
+        <label class="f-label">ARPT</label>
+        <div class="ac-wrap">
+          <input id="ld-airport" class="pill-input" placeholder="ARPT SEARCH" autocomplete="off" />
+          <div class="ac-list" id="ld-airport-list"></div>
+        </div>
+        <label class="f-label f-label-2">FLAP</label>
+        <select id="ld-flap" class="pill-select"><option>15</option><option selected>30</option><option>40</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">RWY</label>
+        <select id="ld-runway" class="pill-select"><option value="">RUNWAYS</option></select>
+        <label class="f-label f-label-2">A/C</label>
+        <select id="ld-packs" class="pill-select"><option>AUTO</option><option>OFF</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">GRAD</label>
+        <select id="ld-grad" class="pill-select" disabled><option>2.50% MIN.</option></select>
+        <label class="f-label f-label-2">A/ICE</label>
+        <select id="ld-antiice" class="pill-select"><option>OFF</option><option>ENG</option><option>ENG+WING</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">COND</label>
+        <select id="ld-cond" class="pill-select">
+          <option value="6">6 &middot; DRY</option>
+          <option value="5">5 &middot; WET</option>
+          <option value="4">4 &middot; COMPACT SNOW</option>
+          <option value="3">3 &middot; STANDING WATER</option>
+          <option value="2">2 &middot; SLUSH</option>
+          <option value="1">1 &middot; DRY SNOW</option>
+          <option value="0">0 &middot; WET ICE</option>
+        </select>
+        <label class="f-label f-label-2">REV</label>
+        <select id="ld-rev" class="pill-select"><option>ALL OP</option><option>ONE INOP</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">WIND</label>
+        <div class="field-with-sub">
+          <input type="text" id="ld-wind" class="pill-input" placeholder="030/20" />
+          <span class="sub-label" id="ld-wind-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">BRKS</label>
+        <select id="ld-ab" class="pill-select">
+          <option value="ALL" selected>ALL</option>
+          <option value="1">AUTOBRAKE 1</option>
+          <option value="2">AUTOBRAKE 2</option>
+          <option value="3">AUTOBRAKE 3</option>
+          <option value="MAX">MAX AUTO</option>
+          <option value="MANUAL">MAX MANUAL</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">OAT</label>
+        <div class="field-with-sub">
+          <input type="text" id="ld-oat" class="pill-input" placeholder="15C" />
+          <span class="sub-label" id="ld-oat-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">NNC</label>
+        <select id="ld-nnc" class="pill-select">
+          <option selected>NONE</option>
+          <option>Airspeed Unreliable (Flaps 15)</option>
+          <option>Airspeed Unreliable (Flaps 30)</option>
+          <option>Airspeed Unreliable (Flaps 40)</option>
+          <option>All Flaps Up Landing</option>
+          <option>Antiskid Inoperative (Flaps 15)</option>
+          <option>Antiskid Inoperative (Flaps 30)</option>
+          <option>Antiskid Inoperative (Flaps 40)</option>
+          <option>Jammed or Restricted Flight Controls (Flaps 15)</option>
+          <option>Leading Edge Flaps Transit (Flaps 15)</option>
+          <option>Loss of System A (Flaps 15)</option>
+          <option>Loss of System A (Flaps 30)</option>
+          <option>Loss of System A (Flaps 40)</option>
+          <option>Loss of System A and System B (Flaps 15)</option>
+          <option>Loss of System B (Flaps 15)</option>
+          <option>Manual Reversion (Flaps 15)</option>
+          <option>One Engine Inoperative Landing (Flaps 15)</option>
+          <option>One Engine Inoperative Landing (Flaps 30)</option>
+          <option>Stabilizer Trim Inoperative (Flaps 15)</option>
+          <option>Trailing Edge Flap Asymmetry (1 &lt;= Flap Lever &lt; 15)</option>
+          <option>Trailing Edge Flap Asymmetry (Flap Lever 15 or 25)</option>
+          <option>Trailing Edge Flap Asymmetry (Flap Lever 30)</option>
+          <option>Trailing Edge Flap Disagree (1 &lt;= Indicated Flaps &lt; 15)</option>
+          <option>Trailing Edge Flap Disagree (15 &lt;= Indicated Flaps &lt; 30)</option>
+          <option>Trailing Edge Flap Disagree (30 &lt;= Indicated Flaps &lt; 40)</option>
+          <option>Trailing Edge Flaps Up Landing</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">QNH</label>
+        <div class="field-with-sub">
+          <input type="text" id="ld-qnh" class="pill-input" placeholder="29.92" />
+          <span class="sub-label" id="ld-qnh-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">SPOIL</label>
+        <select id="ld-spoil" class="pill-select" disabled><option>AUTO</option></select>
+      </div>
+
+      <div class="form-row">
+        <label class="f-label">LDG WT (LB)</label>
+        <div class="field-with-sub">
+          <input type="text" id="ld-weight" class="pill-input" placeholder="127900" />
+          <span class="sub-label" id="ld-weight-sub">&nbsp;</span>
+        </div>
+        <label class="f-label f-label-2">VREF ADD</label>
+        <input type="number" id="ld-vrefadd" class="pill-input" value="5" min="0" max="20" />
+      </div>
+
+      <p class="scope-note">Landing distance is categorized by reported braking action (DRY/GOOD/MEDIUM/POOR); conditions below WET are mapped to the nearest category, not an exact contaminant-depth calculation. NNC pulls real FCOM/QRH non-normal-configuration landing distance data when set. GRAD/SPOIL are still display-only — not wired into the calculation.</p>
+
+      <button id="ld-calc" class="calc-btn">CALCULATE</button>
+    </div>
+
+    <div class="results-block" id="ld-results" hidden>
+      <p class="exceed-banner range-banner" id="ld-range-banner" hidden></p>
+      <p class="ldg-header">Enroute Landing Data for <b id="out-ldgwt-header">&mdash;</b>:
+        <span class="ldg-vref-line">Vref<span id="out-vref-flap">&mdash;</span>+<span id="out-vref-add">&mdash;</span>: <b id="out-vapp-big">&mdash;</b> KT</span>
+      </p>
+
+      <p class="ldg-subhead" id="out-brk-heading">Operational Landing Distance:</p>
+      <div class="ldg-list" id="out-brk-row">
+        <div class="ldg-row"><span class="ldg-label" id="out-brk-label-0">MAX MANUAL</span><span class="ldg-value" id="out-brk-value-0">&mdash;</span></div>
+        <div class="ldg-row"><span class="ldg-label" id="out-brk-label-1">AUTO 1</span><span class="ldg-value" id="out-brk-value-1">&mdash;</span></div>
+        <div class="ldg-row"><span class="ldg-label" id="out-brk-label-2">AUTO 2</span><span class="ldg-value" id="out-brk-value-2">&mdash;</span></div>
+        <div class="ldg-row"><span class="ldg-label" id="out-brk-label-3">AUTO 3</span><span class="ldg-value" id="out-brk-value-3">&mdash;</span></div>
+        <div class="ldg-row"><span class="ldg-label" id="out-brk-label-4">MAX AUTO</span><span class="ldg-value" id="out-brk-value-4">&mdash;</span></div>
+      </div>
+
+      <p class="ldg-subhead">Recommended Brake Cooling Time:</p>
+      <div class="ldg-list ldg-cool-list" id="out-cool-row">
+        <div class="ldg-cool-header"><span></span><span>Ground</span><span>Inflight</span></div>
+        <div class="ldg-row ldg-cool-row"><span class="ldg-label" id="out-cool-label-0">MAX MANUAL</span><span class="ldg-value" id="out-cool-ground-0">&mdash;</span><span class="ldg-value" id="out-cool-inflight-0">&mdash;</span></div>
+        <div class="ldg-row ldg-cool-row"><span class="ldg-label" id="out-cool-label-1">AUTO 1</span><span class="ldg-value" id="out-cool-ground-1">&mdash;</span><span class="ldg-value" id="out-cool-inflight-1">&mdash;</span></div>
+        <div class="ldg-row ldg-cool-row"><span class="ldg-label" id="out-cool-label-2">AUTO 2</span><span class="ldg-value" id="out-cool-ground-2">&mdash;</span><span class="ldg-value" id="out-cool-inflight-2">&mdash;</span></div>
+        <div class="ldg-row ldg-cool-row"><span class="ldg-label" id="out-cool-label-3">AUTO 3</span><span class="ldg-value" id="out-cool-ground-3">&mdash;</span><span class="ldg-value" id="out-cool-inflight-3">&mdash;</span></div>
+        <div class="ldg-row ldg-cool-row"><span class="ldg-label" id="out-cool-label-4">MAX AUTO</span><span class="ldg-value" id="out-cool-ground-4">&mdash;</span><span class="ldg-value" id="out-cool-inflight-4">&mdash;</span></div>
+      </div>
+
+      <div class="result-row">
+        <div class="result-cell wide"><span class="rk">LANDING DISTANCE AVAILABLE</span><span class="rv" id="out-lda">&mdash;</span></div>
+      </div>
+
+      <label class="toggle-row"><input type="checkbox" id="ld-graphic-toggle" /><span class="toggle-track"></span> Rwy Graphic</label>
+      <div class="rwy-graphic" id="ld-rwy-graphic" hidden></div>
+
+      <details class="hint-details"><summary>&#9432; Notes &amp; assumptions</summary><p class="hint" id="ld-hint"></p></details>
+    </div>
+  </section>
+
+  <p class="app-footer">Instructional use only &middot; Simplified B737-800 performance model &middot; Not for flight planning or dispatch &middot; Created by Lee, C.S. &middot; For educational, non-commercial use only</p>
+
+  <nav class="bottom-tabs">
+    <button class="bottom-tab active" data-tab="takeoff" data-mode="dispatch" data-header="DISPATCH">TKO Dispatch</button>
+    <button class="bottom-tab" data-tab="landing" data-mode="enroute" data-header="ENROUTE">LDG Enroute</button>
+  </nav>
+</div>
+
+<div class="calc-overlay" id="calc-overlay" hidden>
+  <div class="calc-modal">
+    <p class="calc-title">Calculation in Progress</p>
+    <div class="calc-bar"><div class="calc-bar-fill" id="calc-bar-fill"></div></div>
+  </div>
+</div>
+
+<script type="module" src="src/app.js"></script>
+</body>
+</html>

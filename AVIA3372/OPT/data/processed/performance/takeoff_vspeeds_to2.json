@@ -1,0 +1,1991 @@
+{
+  "dry": {
+    "source": {
+      "doc": "FCOM",
+      "page": 1085,
+      "section": "PI.30.29 Takeoff Speeds - Dry Runway (22K Derate)"
+    },
+    "unit": "kt",
+    "max_takeoff_thrust_v1_vr_v2": {
+      "description": "V1, VR, V2 for Max Takeoff Thrust by weight and flap setting.",
+      "by_flap": {
+        "flaps_1": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              162.0,
+              163.0,
+              165.0
+            ],
+            [
+              158.0,
+              158.0,
+              162.0
+            ],
+            [
+              153.0,
+              154.0,
+              158.0
+            ],
+            [
+              148.0,
+              149.0,
+              155.0
+            ],
+            [
+              143.0,
+              144.0,
+              151.0
+            ],
+            [
+              138.0,
+              139.0,
+              147.0
+            ],
+            [
+              132.0,
+              133.0,
+              142.0
+            ],
+            [
+              127.0,
+              127.0,
+              138.0
+            ],
+            [
+              121.0,
+              121.0,
+              133.0
+            ],
+            [
+              115.0,
+              115.0,
+              128.0
+            ],
+            [
+              108.0,
+              108.0,
+              123.0
+            ]
+          ]
+        },
+        "flaps_5": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              156.0,
+              156.0,
+              159.0
+            ],
+            [
+              152.0,
+              152.0,
+              156.0
+            ],
+            [
+              147.0,
+              147.0,
+              152.0
+            ],
+            [
+              142.0,
+              143.0,
+              149.0
+            ],
+            [
+              138.0,
+              138.0,
+              145.0
+            ],
+            [
+              132.0,
+              133.0,
+              141.0
+            ],
+            [
+              127.0,
+              128.0,
+              137.0
+            ],
+            [
+              122.0,
+              122.0,
+              132.0
+            ],
+            [
+              116.0,
+              116.0,
+              128.0
+            ],
+            [
+              110.0,
+              111.0,
+              123.0
+            ],
+            [
+              104.0,
+              104.0,
+              118.0
+            ]
+          ]
+        },
+        "flaps_10": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              146.0,
+              146.0,
+              150.0
+            ],
+            [
+              141.0,
+              141.0,
+              147.0
+            ],
+            [
+              136.0,
+              137.0,
+              143.0
+            ],
+            [
+              131.0,
+              132.0,
+              139.0
+            ],
+            [
+              126.0,
+              126.0,
+              135.0
+            ],
+            [
+              121.0,
+              121.0,
+              131.0
+            ],
+            [
+              115.0,
+              115.0,
+              126.0
+            ],
+            [
+              109.0,
+              109.0,
+              122.0
+            ],
+            [
+              103.0,
+              103.0,
+              117.0
+            ]
+          ]
+        },
+        "flaps_15": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              142.0,
+              142.0,
+              147.0
+            ],
+            [
+              138.0,
+              138.0,
+              144.0
+            ],
+            [
+              134.0,
+              134.0,
+              140.0
+            ],
+            [
+              128.0,
+              129.0,
+              136.0
+            ],
+            [
+              123.0,
+              124.0,
+              132.0
+            ],
+            [
+              118.0,
+              118.0,
+              128.0
+            ],
+            [
+              112.0,
+              113.0,
+              124.0
+            ],
+            [
+              107.0,
+              107.0,
+              119.0
+            ],
+            [
+              100.0,
+              101.0,
+              115.0
+            ]
+          ]
+        },
+        "flaps_25": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              131.0,
+              131.0,
+              138.0
+            ],
+            [
+              126.0,
+              126.0,
+              134.0
+            ],
+            [
+              121.0,
+              121.0,
+              130.0
+            ],
+            [
+              116.0,
+              116.0,
+              126.0
+            ],
+            [
+              110.0,
+              110.0,
+              122.0
+            ],
+            [
+              105.0,
+              105.0,
+              117.0
+            ],
+            [
+              98.0,
+              99.0,
+              113.0
+            ]
+          ]
+        }
+      }
+    },
+    "temp_press_alt_adjustment": {
+      "row_axis": {
+        "name": "oat",
+        "unit": "C (F)",
+        "values": [
+          "70C/158F",
+          "60C/140F",
+          "50C/122F",
+          "40C/104F",
+          "30C/86F",
+          "20C/68F",
+          "-60C/-76F"
+        ]
+      },
+      "col_axis": {
+        "name": "press_alt_1000ft",
+        "unit": "1000 ft",
+        "values": [
+          -2000,
+          0,
+          2000,
+          4000,
+          6000,
+          8000,
+          10000
+        ]
+      },
+      "v1_data": [
+        [
+          5,
+          5,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          4,
+          4,
+          5,
+          6,
+          null,
+          null,
+          null
+        ],
+        [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "vr_data": [
+        [
+          5,
+          5,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          4,
+          4,
+          5,
+          6,
+          null,
+          null,
+          null
+        ],
+        [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          2,
+          3,
+          5
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          2,
+          3,
+          3
+        ]
+      ],
+      "v2_data": [
+        [
+          -3,
+          -3,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          -2,
+          -3,
+          -3,
+          -4,
+          null,
+          null,
+          null
+        ],
+        [
+          -1,
+          -2,
+          -2,
+          -3,
+          -3,
+          -4,
+          -5
+        ],
+        [
+          -1,
+          -1,
+          -1,
+          -2,
+          -3,
+          -3,
+          -4
+        ],
+        [
+          0,
+          0,
+          -1,
+          -1,
+          -2,
+          -3,
+          -3
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          -2,
+          -3
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -2
+        ]
+      ],
+      "notes": "Adjustment to add to V1/VR/V2 from the main table. Jagged: blank cells are combinations not published (V1 must not exceed VR)."
+    },
+    "slope_wind_v1_adjustment": {
+      "row_axis": {
+        "name": "weight_1000kg",
+        "unit": "1000 KG",
+        "values": [
+          80,
+          76,
+          72,
+          68,
+          64,
+          60,
+          56,
+          52,
+          48,
+          44,
+          40
+        ]
+      },
+      "slope_col_axis": {
+        "name": "runway_slope_pct",
+        "unit": "%",
+        "values": [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      "slope_data": [
+        [
+          -3,
+          -2,
+          0,
+          1,
+          1
+        ],
+        [
+          -3,
+          -1,
+          0,
+          1,
+          1
+        ],
+        [
+          -2,
+          -1,
+          0,
+          1,
+          1
+        ],
+        [
+          -2,
+          -1,
+          0,
+          1,
+          1
+        ],
+        [
+          -2,
+          -1,
+          0,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          1,
+          1
+        ],
+        [
+          -1,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          -1,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          -1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "wind_col_axis": {
+        "name": "wind_component_kt",
+        "unit": "kt",
+        "values": [
+          -15,
+          -10,
+          -5,
+          0,
+          10,
+          20,
+          30,
+          40
+        ],
+        "sign_convention": "negative = tailwind, positive = headwind"
+      },
+      "wind_data": [
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      ],
+      "notes": "Slope and wind V1 adjustments (add to V1 from main table)."
+    },
+    "v1_mcg": {
+      "row_axis": {
+        "name": "oat",
+        "unit": "C (F)",
+        "values": [
+          "70C/158F",
+          "60C/140F",
+          "50C/122F",
+          "40C/104F",
+          "30C/86F",
+          "20C/68F",
+          "-60C/-76F"
+        ]
+      },
+      "col_axis": {
+        "name": "pressure_alt_ft",
+        "unit": "ft",
+        "values": [
+          -2000,
+          0,
+          2000,
+          4000,
+          6000,
+          8000,
+          10000
+        ]
+      },
+      "data": [
+        [
+          87,
+          85,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          87,
+          85,
+          84,
+          83,
+          null,
+          null,
+          null
+        ],
+        [
+          89,
+          87,
+          84,
+          83,
+          81,
+          79,
+          77
+        ],
+        [
+          94,
+          91,
+          88,
+          85,
+          82,
+          79,
+          77
+        ],
+        [
+          96,
+          96,
+          93,
+          89,
+          86,
+          82,
+          79
+        ],
+        [
+          97,
+          96,
+          94,
+          93,
+          90,
+          86,
+          82
+        ],
+        [
+          98,
+          98,
+          96,
+          94,
+          91,
+          89,
+          87
+        ]
+      ],
+      "notes": "V1(MCG) minimum control speed limited value, kt."
+    },
+    "notes": "22K Derate (TO-2), Dry Runway. V1 not to exceed VR (per source note on adjustment tables)."
+  },
+  "wet": {
+    "source": {
+      "doc": "FCOM",
+      "page": 1086,
+      "section": "PI.30.30 Takeoff Speeds - Wet Runway (22K Derate)"
+    },
+    "unit": "kt",
+    "max_takeoff_thrust_v1_vr_v2": {
+      "description": "V1, VR, V2 for Max Takeoff Thrust by weight and flap setting.",
+      "by_flap": {
+        "flaps_1": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              157.0,
+              163.0,
+              165.0
+            ],
+            [
+              152.0,
+              158.0,
+              162.0
+            ],
+            [
+              147.0,
+              154.0,
+              158.0
+            ],
+            [
+              142.0,
+              149.0,
+              155.0
+            ],
+            [
+              136.0,
+              144.0,
+              151.0
+            ],
+            [
+              131.0,
+              139.0,
+              147.0
+            ],
+            [
+              125.0,
+              133.0,
+              142.0
+            ],
+            [
+              119.0,
+              127.0,
+              138.0
+            ],
+            [
+              113.0,
+              121.0,
+              133.0
+            ],
+            [
+              107.0,
+              115.0,
+              128.0
+            ],
+            [
+              100.0,
+              108.0,
+              123.0
+            ]
+          ]
+        },
+        "flaps_5": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              150.0,
+              156.0,
+              159.0
+            ],
+            [
+              146.0,
+              152.0,
+              156.0
+            ],
+            [
+              141.0,
+              147.0,
+              152.0
+            ],
+            [
+              136.0,
+              143.0,
+              149.0
+            ],
+            [
+              131.0,
+              138.0,
+              145.0
+            ],
+            [
+              125.0,
+              133.0,
+              141.0
+            ],
+            [
+              120.0,
+              128.0,
+              137.0
+            ],
+            [
+              114.0,
+              122.0,
+              132.0
+            ],
+            [
+              108.0,
+              116.0,
+              128.0
+            ],
+            [
+              102.0,
+              111.0,
+              123.0
+            ],
+            [
+              96.0,
+              104.0,
+              118.0
+            ]
+          ]
+        },
+        "flaps_10": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              141.0,
+              146.0,
+              150.0
+            ],
+            [
+              136.0,
+              141.0,
+              147.0
+            ],
+            [
+              130.0,
+              137.0,
+              143.0
+            ],
+            [
+              125.0,
+              132.0,
+              139.0
+            ],
+            [
+              119.0,
+              126.0,
+              135.0
+            ],
+            [
+              113.0,
+              121.0,
+              131.0
+            ],
+            [
+              108.0,
+              115.0,
+              126.0
+            ],
+            [
+              102.0,
+              109.0,
+              122.0
+            ],
+            [
+              95.0,
+              103.0,
+              117.0
+            ]
+          ]
+        },
+        "flaps_15": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              138.0,
+              142.0,
+              147.0
+            ],
+            [
+              133.0,
+              138.0,
+              144.0
+            ],
+            [
+              127.0,
+              134.0,
+              140.0
+            ],
+            [
+              122.0,
+              129.0,
+              136.0
+            ],
+            [
+              116.0,
+              124.0,
+              132.0
+            ],
+            [
+              111.0,
+              118.0,
+              128.0
+            ],
+            [
+              105.0,
+              113.0,
+              124.0
+            ],
+            [
+              99.0,
+              107.0,
+              119.0
+            ],
+            [
+              93.0,
+              101.0,
+              115.0
+            ]
+          ]
+        },
+        "flaps_25": {
+          "row_axis": {
+            "name": "weight_1000kg",
+            "unit": "1000 KG",
+            "values": [
+              80,
+              76,
+              72,
+              68,
+              64,
+              60,
+              56,
+              52,
+              48,
+              44,
+              40
+            ]
+          },
+          "col_axis": {
+            "name": "speed",
+            "unit": "kt",
+            "values": [
+              "V1",
+              "VR",
+              "V2"
+            ]
+          },
+          "data": [
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null
+            ],
+            [
+              126.0,
+              131.0,
+              138.0
+            ],
+            [
+              120.0,
+              126.0,
+              134.0
+            ],
+            [
+              115.0,
+              121.0,
+              130.0
+            ],
+            [
+              109.0,
+              116.0,
+              126.0
+            ],
+            [
+              103.0,
+              110.0,
+              122.0
+            ],
+            [
+              98.0,
+              105.0,
+              117.0
+            ],
+            [
+              92.0,
+              99.0,
+              113.0
+            ]
+          ]
+        }
+      }
+    },
+    "temp_press_alt_adjustment": {
+      "row_axis": {
+        "name": "oat",
+        "unit": "C (F)",
+        "values": [
+          "70C/158F",
+          "60C/140F",
+          "50C/122F",
+          "40C/104F",
+          "30C/86F",
+          "20C/68F",
+          "-60C/-76F"
+        ]
+      },
+      "col_axis": {
+        "name": "press_alt_1000ft",
+        "unit": "1000 ft",
+        "values": [
+          -2000,
+          0,
+          2000,
+          4000,
+          6000,
+          8000,
+          10000
+        ]
+      },
+      "v1_data": [
+        [
+          8,
+          8,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          6,
+          6,
+          7,
+          9,
+          null,
+          null,
+          null
+        ],
+        [
+          4,
+          4,
+          5,
+          6,
+          8,
+          10,
+          11
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          6,
+          8,
+          9
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          4,
+          6,
+          7
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          2,
+          4,
+          5
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "vr_data": [
+        [
+          5,
+          5,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          4,
+          4,
+          5,
+          6,
+          null,
+          null,
+          null
+        ],
+        [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          2,
+          3,
+          5
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          2,
+          3,
+          3
+        ]
+      ],
+      "v2_data": [
+        [
+          -3,
+          -3,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          -2,
+          -3,
+          -3,
+          -4,
+          null,
+          null,
+          null
+        ],
+        [
+          -1,
+          -2,
+          -2,
+          -3,
+          -3,
+          -4,
+          -5
+        ],
+        [
+          -1,
+          -1,
+          -1,
+          -2,
+          -3,
+          -3,
+          -4
+        ],
+        [
+          0,
+          0,
+          -1,
+          -1,
+          -2,
+          -3,
+          -3
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          -2,
+          -3
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -2
+        ]
+      ],
+      "notes": "Adjustment to add to V1/VR/V2 from the main table. Jagged: blank cells are combinations not published (V1 must not exceed VR)."
+    },
+    "slope_wind_v1_adjustment": {
+      "row_axis": {
+        "name": "weight_1000kg",
+        "unit": "1000 KG",
+        "values": [
+          80,
+          76,
+          72,
+          68,
+          64,
+          60,
+          56,
+          52,
+          48,
+          44,
+          40
+        ]
+      },
+      "slope_col_axis": {
+        "name": "runway_slope_pct",
+        "unit": "%",
+        "values": [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      "slope_data": [
+        [
+          -5,
+          -3,
+          0,
+          3,
+          5
+        ],
+        [
+          -5,
+          -2,
+          0,
+          3,
+          5
+        ],
+        [
+          -4,
+          -2,
+          0,
+          2,
+          5
+        ],
+        [
+          -4,
+          -2,
+          0,
+          2,
+          4
+        ],
+        [
+          -3,
+          -2,
+          0,
+          2,
+          4
+        ],
+        [
+          -3,
+          -2,
+          0,
+          2,
+          4
+        ],
+        [
+          -3,
+          -1,
+          0,
+          2,
+          3
+        ],
+        [
+          -3,
+          -1,
+          0,
+          1,
+          3
+        ],
+        [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ],
+        [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ],
+        [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ]
+      ],
+      "wind_col_axis": {
+        "name": "wind_component_kt",
+        "unit": "kt",
+        "values": [
+          -15,
+          -10,
+          -5,
+          0,
+          10,
+          20,
+          30,
+          40
+        ],
+        "sign_convention": "negative = tailwind, positive = headwind"
+      },
+      "wind_data": [
+        [
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          -3,
+          -2,
+          -1,
+          0,
+          1,
+          1,
+          2,
+          3
+        ],
+        [
+          -4,
+          -2,
+          -1,
+          0,
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          -4,
+          -3,
+          -1,
+          0,
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          -4,
+          -3,
+          -1,
+          0,
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          -4,
+          -3,
+          -1,
+          0,
+          1,
+          2,
+          3,
+          3
+        ],
+        [
+          -5,
+          -3,
+          -2,
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "notes": "Slope and wind V1 adjustments (add to V1 from main table)."
+    },
+    "v1_mcg": {
+      "row_axis": {
+        "name": "oat",
+        "unit": "C (F)",
+        "values": [
+          "70C/158F",
+          "60C/140F",
+          "50C/122F",
+          "40C/104F",
+          "30C/86F",
+          "20C/68F",
+          "-60C/-76F"
+        ]
+      },
+      "col_axis": {
+        "name": "pressure_alt_ft",
+        "unit": "ft",
+        "values": [
+          -2000,
+          0,
+          2000,
+          4000,
+          6000,
+          8000,
+          10000
+        ]
+      },
+      "data": [
+        [
+          87,
+          85,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          87,
+          85,
+          84,
+          83,
+          null,
+          null,
+          null
+        ],
+        [
+          89,
+          87,
+          84,
+          83,
+          81,
+          79,
+          77
+        ],
+        [
+          94,
+          91,
+          88,
+          85,
+          82,
+          79,
+          77
+        ],
+        [
+          96,
+          96,
+          93,
+          89,
+          86,
+          82,
+          79
+        ],
+        [
+          97,
+          96,
+          94,
+          93,
+          90,
+          86,
+          82
+        ],
+        [
+          98,
+          98,
+          96,
+          94,
+          91,
+          89,
+          87
+        ]
+      ],
+      "notes": "V1(MCG) minimum control speed limited value, kt."
+    },
+    "notes": "22K Derate (TO-2), Wet Runway. V1 not to exceed VR (per source note on adjustment tables)."
+  },
+  "notes": "22K Derate (TO-2) takeoff V-speeds, both dry and wet runway, transcribed from FCOM PI.30.29 (dry, p.1085) and PI.30.30 (wet, p.1086), 737-800/CFM56-7B26. NOT explicitly itemized in the original 6-file task list (only takeoff_vspeeds_to1.json was requested) -- added because the OPTIMUM thrust-rating selector described in the task cannot evaluate the TO-2 option without its own V-speeds, and this data was already located and transcribed alongside TO-1 from the same FCOM chapter (PI.30). Same nested dry/wet structural shape as takeoff_vspeeds_to1.json. STRUCTURAL DIFFERENCE from TO-1 and from the 26K full-rated tables: the weight axis for TO-2's main V1/VR/V2 table is 80,76,72,68,...,40 (11 points, 4000 kg steps) rather than the 90,85,...,40 (5000 kg steps) axis used by TO-1 and 26K -- TO-2's lower thrust rating caps the tabulated weight range at 80,000 kg. The slope_wind_v1_adjustment weight axis for TO-2 uses all 11 of these same points (matching the main table), unlike TO-1 where the slope/wind table used a coarser 6-point axis -- this is a direct read of the source page layout, not an inference. V1(MCG) is identical between dry and wet, consistent with TO-1 and the 26K tables."
+}

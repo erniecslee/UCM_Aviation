@@ -1,0 +1,3129 @@
+{
+  "slush_standing_water_takeoff": {
+    "maximum_reverse_thrust": {
+      "source": {
+        "doc": "FCOM",
+        "page": 1062,
+        "section": "PI.30.6 Slush/Standing Water Takeoff - Maximum Reverse Thrust"
+      },
+      "weight_adjustment_1000kg": {
+        "description": "Slush/standing water weight adjustment vs dry field/obstacle limit weight, by depth and pressure altitude. Values are additive (negative) adjustments in 1000 KG.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -12.7,
+                -15.0,
+                -17.3
+              ],
+              [
+                -11.7,
+                -14.0,
+                -16.3
+              ],
+              [
+                -10.7,
+                -13.0,
+                -15.3
+              ],
+              [
+                -9.7,
+                -12.0,
+                -14.3
+              ],
+              [
+                -8.8,
+                -11.0,
+                -13.3
+              ],
+              [
+                -7.8,
+                -10.1,
+                -12.3
+              ],
+              [
+                -6.9,
+                -9.2,
+                -11.4
+              ],
+              [
+                -6.0,
+                -8.3,
+                -10.5
+              ],
+              [
+                -5.2,
+                -7.4,
+                -9.7
+              ],
+              [
+                -4.3,
+                -6.6,
+                -8.9
+              ],
+              [
+                -3.5,
+                -5.8,
+                -8.1
+              ],
+              [
+                -2.8,
+                -5.0,
+                -7.3
+              ]
+            ],
+            "slush_depth_mm": 3
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -15.6,
+                -17.8,
+                -20.1
+              ],
+              [
+                -14.2,
+                -16.5,
+                -18.7
+              ],
+              [
+                -12.8,
+                -15.1,
+                -17.4
+              ],
+              [
+                -11.5,
+                -13.8,
+                -16.0
+              ],
+              [
+                -10.2,
+                -12.5,
+                -14.7
+              ],
+              [
+                -9.0,
+                -11.2,
+                -13.5
+              ],
+              [
+                -7.8,
+                -10.0,
+                -12.3
+              ],
+              [
+                -6.7,
+                -8.9,
+                -11.2
+              ],
+              [
+                -5.6,
+                -7.9,
+                -10.2
+              ],
+              [
+                -4.7,
+                -6.9,
+                -9.2
+              ],
+              [
+                -3.8,
+                -6.0,
+                -8.3
+              ],
+              [
+                -2.9,
+                -5.2,
+                -7.5
+              ]
+            ],
+            "slush_depth_mm": 6
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -21.5,
+                -23.8,
+                -26.0
+              ],
+              [
+                -19.4,
+                -21.7,
+                -23.9
+              ],
+              [
+                -17.3,
+                -19.6,
+                -21.8
+              ],
+              [
+                -15.2,
+                -17.5,
+                -19.7
+              ],
+              [
+                -13.2,
+                -15.5,
+                -17.8
+              ],
+              [
+                -11.4,
+                -13.6,
+                -15.9
+              ],
+              [
+                -9.7,
+                -11.9,
+                -14.2
+              ],
+              [
+                -8.1,
+                -10.4,
+                -12.7
+              ],
+              [
+                -6.7,
+                -9.0,
+                -11.2
+              ],
+              [
+                -5.4,
+                -7.7,
+                -10.0
+              ],
+              [
+                -4.3,
+                -6.6,
+                -8.8
+              ],
+              [
+                -3.3,
+                -5.5,
+                -7.8
+              ]
+            ],
+            "slush_depth_mm": 13
+          }
+        ]
+      },
+      "v1_mcg_limit_weight_1000kg": {
+        "description": "V1(MCG) limit weight by adjusted field length, depth, and pressure altitude. null = not published (triangular table; verified against page render).",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                41.8,
+                null,
+                null
+              ],
+              [
+                61.5,
+                44.9,
+                null
+              ],
+              [
+                83.3,
+                64.9,
+                48.0
+              ],
+              [
+                null,
+                87.1,
+                68.4
+              ],
+              [
+                null,
+                null,
+                90.9
+              ]
+            ],
+            "slush_depth_mm": 3
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                45.4,
+                null,
+                null
+              ],
+              [
+                65.2,
+                48.5,
+                32.8
+              ],
+              [
+                86.8,
+                68.5,
+                51.7
+              ],
+              [
+                null,
+                90.5,
+                72.0
+              ],
+              [
+                null,
+                null,
+                94.1
+              ]
+            ],
+            "slush_depth_mm": 6
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                33.4,
+                null,
+                null
+              ],
+              [
+                51.5,
+                36.3,
+                null
+              ],
+              [
+                71.1,
+                54.6,
+                39.2
+              ],
+              [
+                92.5,
+                74.4,
+                57.7
+              ],
+              [
+                null,
+                96.1,
+                77.8
+              ],
+              [
+                null,
+                null,
+                99.7
+              ]
+            ],
+            "slush_depth_mm": 13
+          }
+        ]
+      },
+      "v1_adjustment_kias": {
+        "description": "V1 speed adjustment (KIAS) by actual weight, depth, and pressure altitude.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -15,
+                -10,
+                -5
+              ],
+              [
+                -16,
+                -11,
+                -6
+              ],
+              [
+                -18,
+                -13,
+                -8
+              ],
+              [
+                -19,
+                -14,
+                -9
+              ],
+              [
+                -20,
+                -15,
+                -10
+              ],
+              [
+                -21,
+                -16,
+                -11
+              ],
+              [
+                -22,
+                -17,
+                -12
+              ],
+              [
+                -23,
+                -18,
+                -13
+              ],
+              [
+                -24,
+                -19,
+                -14
+              ],
+              [
+                -25,
+                -20,
+                -15
+              ],
+              [
+                -25,
+                -20,
+                -15
+              ]
+            ],
+            "slush_depth_mm": 3
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -7,
+                -2,
+                0
+              ],
+              [
+                -10,
+                -5,
+                0
+              ],
+              [
+                -12,
+                -7,
+                -2
+              ],
+              [
+                -14,
+                -9,
+                -4
+              ],
+              [
+                -16,
+                -11,
+                -6
+              ],
+              [
+                -17,
+                -12,
+                -7
+              ],
+              [
+                -19,
+                -14,
+                -9
+              ],
+              [
+                -20,
+                -15,
+                -10
+              ],
+              [
+                -22,
+                -17,
+                -12
+              ],
+              [
+                -23,
+                -18,
+                -13
+              ],
+              [
+                -24,
+                -19,
+                -14
+              ]
+            ],
+            "slush_depth_mm": 6
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                -4,
+                0,
+                0
+              ],
+              [
+                -8,
+                -3,
+                0
+              ],
+              [
+                -11,
+                -6,
+                -1
+              ],
+              [
+                -14,
+                -9,
+                -4
+              ],
+              [
+                -17,
+                -12,
+                -7
+              ],
+              [
+                -19,
+                -14,
+                -9
+              ],
+              [
+                -21,
+                -16,
+                -11
+              ]
+            ],
+            "slush_depth_mm": 13
+          }
+        ]
+      },
+      "procedure_notes": [
+        "Enter Weight Adjustment table with slush/standing water depth and dry field/obstacle limit weight to obtain slush/standing water weight adjustment.",
+        "Adjust field length available for temperature (see field_length_temp_adj_per_5c in this entry) for every 5C above/below 4C.",
+        "Find V1(MCG) limit weight for adjusted field length and pressure altitude.",
+        "Max allowable slush/standing water limited weight is the lesser of the weight-adjustment result and the V1(MCG) limit weight.",
+        "Obtain V1, VR, V2 for the actual weight using the Dry Runway Takeoff Speeds table.",
+        "If V1(MCG) limited, set V1 = V1(MCG). If not V1(MCG) limited, enter V1 Adjustment table with the actual weight to obtain V1 speed adjustment. If adjusted V1 is less than V1(MCG), set V1 = V1(MCG). V1 not to exceed VR."
+      ],
+      "field_length_temp_adj_per_5c": {
+        "above_4c": -30,
+        "below_4c": 30,
+        "unit": "m"
+      }
+    },
+    "no_reverse_thrust": {
+      "source": {
+        "doc": "FCOM",
+        "page": 1063,
+        "section": "PI.30.7 Slush/Standing Water Takeoff - No Reverse Thrust"
+      },
+      "weight_adjustment_1000kg": {
+        "description": "Slush/standing water weight adjustment vs dry field/obstacle limit weight, by depth and pressure altitude. Values are additive (negative) adjustments in 1000 KG.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -14.6,
+                -17.3,
+                -20.1
+              ],
+              [
+                -13.6,
+                -16.3,
+                -19.1
+              ],
+              [
+                -12.6,
+                -15.4,
+                -18.1
+              ],
+              [
+                -11.7,
+                -14.4,
+                -17.1
+              ],
+              [
+                -10.6,
+                -13.3,
+                -16.0
+              ],
+              [
+                -9.5,
+                -12.2,
+                -14.9
+              ],
+              [
+                -8.4,
+                -11.1,
+                -13.8
+              ],
+              [
+                -7.3,
+                -10.0,
+                -12.8
+              ],
+              [
+                -6.3,
+                -9.0,
+                -11.7
+              ],
+              [
+                -5.4,
+                -8.1,
+                -10.9
+              ],
+              [
+                -4.7,
+                -7.4,
+                -10.1
+              ],
+              [
+                -4.0,
+                -6.7,
+                -9.5
+              ]
+            ],
+            "slush_depth_mm": 3
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -17.7,
+                -20.4,
+                -23.1
+              ],
+              [
+                -16.3,
+                -19.0,
+                -21.7
+              ],
+              [
+                -14.9,
+                -17.6,
+                -20.3
+              ],
+              [
+                -13.5,
+                -16.2,
+                -18.9
+              ],
+              [
+                -12.0,
+                -14.8,
+                -17.5
+              ],
+              [
+                -10.6,
+                -13.4,
+                -16.1
+              ],
+              [
+                -9.3,
+                -12.0,
+                -14.7
+              ],
+              [
+                -8.0,
+                -10.7,
+                -13.4
+              ],
+              [
+                -6.8,
+                -9.5,
+                -12.3
+              ],
+              [
+                -5.8,
+                -8.5,
+                -11.2
+              ],
+              [
+                -4.9,
+                -7.6,
+                -10.4
+              ],
+              [
+                -4.1,
+                -6.9,
+                -9.6
+              ]
+            ],
+            "slush_depth_mm": 6
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -23.9,
+                -26.6,
+                -29.3
+              ],
+              [
+                -21.7,
+                -24.4,
+                -27.1
+              ],
+              [
+                -19.4,
+                -22.1,
+                -24.9
+              ],
+              [
+                -17.2,
+                -19.9,
+                -22.6
+              ],
+              [
+                -15.0,
+                -17.8,
+                -20.5
+              ],
+              [
+                -13.1,
+                -15.8,
+                -18.5
+              ],
+              [
+                -11.2,
+                -13.9,
+                -16.7
+              ],
+              [
+                -9.5,
+                -12.2,
+                -15.0
+              ],
+              [
+                -8.0,
+                -10.7,
+                -13.4
+              ],
+              [
+                -6.6,
+                -9.3,
+                -12.0
+              ],
+              [
+                -5.4,
+                -8.1,
+                -10.8
+              ],
+              [
+                -4.2,
+                -6.9,
+                -9.6
+              ]
+            ],
+            "slush_depth_mm": 13
+          }
+        ]
+      },
+      "v1_mcg_limit_weight_1000kg": {
+        "description": "V1(MCG) limit weight by adjusted field length, depth, and pressure altitude. null = not published (triangular table; verified against page render).",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1600,
+                1800,
+                2000,
+                2200,
+                2400
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                46.7,
+                null,
+                null
+              ],
+              [
+                73.2,
+                52.8,
+                33.6
+              ],
+              [
+                101.8,
+                79.9,
+                59.0
+              ],
+              [
+                null,
+                null,
+                86.7
+              ]
+            ],
+            "slush_depth_mm": 3
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1600,
+                1800,
+                2000,
+                2200,
+                2400
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                32.3,
+                null,
+                null
+              ],
+              [
+                56.0,
+                37.9,
+                null
+              ],
+              [
+                81.3,
+                61.9,
+                43.5
+              ],
+              [
+                null,
+                87.6,
+                67.9
+              ],
+              [
+                null,
+                null,
+                94.0
+              ]
+            ],
+            "slush_depth_mm": 6
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1600,
+                1800,
+                2000,
+                2200,
+                2400
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                47.4,
+                31.6,
+                null
+              ],
+              [
+                69.3,
+                52.5,
+                36.5
+              ],
+              [
+                92.9,
+                74.7,
+                57.6
+              ],
+              [
+                null,
+                98.6,
+                80.3
+              ],
+              [
+                null,
+                null,
+                104.3
+              ]
+            ],
+            "slush_depth_mm": 13
+          }
+        ]
+      },
+      "v1_adjustment_kias": {
+        "description": "V1 speed adjustment (KIAS) by actual weight, depth, and pressure altitude.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -20,
+                -10,
+                0
+              ],
+              [
+                -22,
+                -12,
+                -2
+              ],
+              [
+                -24,
+                -14,
+                -4
+              ],
+              [
+                -25,
+                -15,
+                -5
+              ],
+              [
+                -27,
+                -17,
+                -7
+              ],
+              [
+                -28,
+                -18,
+                -8
+              ],
+              [
+                -29,
+                -19,
+                -9
+              ],
+              [
+                -30,
+                -20,
+                -10
+              ],
+              [
+                -31,
+                -21,
+                -11
+              ],
+              [
+                -32,
+                -22,
+                -12
+              ],
+              [
+                -32,
+                -22,
+                -12
+              ]
+            ],
+            "slush_depth_mm": 3
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -11,
+                -1,
+                0
+              ],
+              [
+                -14,
+                -4,
+                0
+              ],
+              [
+                -16,
+                -6,
+                0
+              ],
+              [
+                -19,
+                -9,
+                0
+              ],
+              [
+                -21,
+                -11,
+                -1
+              ],
+              [
+                -23,
+                -13,
+                -3
+              ],
+              [
+                -25,
+                -15,
+                -5
+              ],
+              [
+                -27,
+                -17,
+                -7
+              ],
+              [
+                -28,
+                -18,
+                -8
+              ],
+              [
+                -30,
+                -20,
+                -10
+              ],
+              [
+                -31,
+                -21,
+                -11
+              ]
+            ],
+            "slush_depth_mm": 6
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                -6,
+                0,
+                0
+              ],
+              [
+                -11,
+                -1,
+                0
+              ],
+              [
+                -15,
+                -5,
+                0
+              ],
+              [
+                -19,
+                -9,
+                0
+              ],
+              [
+                -22,
+                -12,
+                -2
+              ],
+              [
+                -25,
+                -15,
+                -5
+              ],
+              [
+                -27,
+                -17,
+                -7
+              ]
+            ],
+            "slush_depth_mm": 13
+          }
+        ]
+      },
+      "procedure_notes": [
+        "Enter Weight Adjustment table with slush/standing water depth and dry field/obstacle limit weight to obtain slush/standing water weight adjustment.",
+        "Adjust field length available for temperature (see field_length_temp_adj_per_5c in this entry) for every 5C above/below 4C.",
+        "Find V1(MCG) limit weight for adjusted field length and pressure altitude.",
+        "Max allowable slush/standing water limited weight is the lesser of the weight-adjustment result and the V1(MCG) limit weight.",
+        "Obtain V1, VR, V2 for the actual weight using the Dry Runway Takeoff Speeds table.",
+        "If V1(MCG) limited, set V1 = V1(MCG). If not V1(MCG) limited, enter V1 Adjustment table with the actual weight to obtain V1 speed adjustment. If adjusted V1 is less than V1(MCG), set V1 = V1(MCG). V1 not to exceed VR."
+      ],
+      "field_length_temp_adj_per_5c": {
+        "above_4c": -45,
+        "below_4c": 45,
+        "unit": "m"
+      }
+    }
+  },
+  "slippery_runway_takeoff": {
+    "maximum_reverse_thrust": {
+      "source": {
+        "doc": "FCOM",
+        "page": 1064,
+        "section": "PI.30.8 Slippery Runway Takeoff - Maximum Reverse Thrust (Weight Adjustment / V1(MCG) Limit Weight)"
+      },
+      "source_v1_adjustment": {
+        "doc": "FCOM",
+        "page": 1065,
+        "section": "PI.30.9 Slippery Runway Takeoff - Maximum Reverse Thrust (V1 Adjustment)"
+      },
+      "weight_adjustment_1000kg": {
+        "description": "Slippery runway weight adjustment vs dry field/obstacle limit weight, by reported braking action and pressure altitude. Values are additive (negative) adjustments in 1000 KG. Values are identical across S.L./5000/10000 columns as published.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -0.8,
+                -0.8,
+                -0.8
+              ],
+              [
+                -1.0,
+                -1.0,
+                -1.0
+              ],
+              [
+                -1.3,
+                -1.3,
+                -1.3
+              ],
+              [
+                -1.4,
+                -1.4,
+                -1.4
+              ],
+              [
+                -1.5,
+                -1.5,
+                -1.5
+              ],
+              [
+                -1.6,
+                -1.6,
+                -1.6
+              ],
+              [
+                -1.5,
+                -1.5,
+                -1.5
+              ],
+              [
+                -1.5,
+                -1.5,
+                -1.5
+              ],
+              [
+                -1.3,
+                -1.3,
+                -1.3
+              ],
+              [
+                -1.1,
+                -1.1,
+                -1.1
+              ],
+              [
+                -0.8,
+                -0.8,
+                -0.8
+              ],
+              [
+                -0.5,
+                -0.5,
+                -0.5
+              ]
+            ],
+            "braking_action": "GOOD"
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -6.4,
+                -6.4,
+                -6.4
+              ],
+              [
+                -6.4,
+                -6.4,
+                -6.4
+              ],
+              [
+                -6.3,
+                -6.3,
+                -6.3
+              ],
+              [
+                -6.1,
+                -6.1,
+                -6.1
+              ],
+              [
+                -5.9,
+                -5.9,
+                -5.9
+              ],
+              [
+                -5.7,
+                -5.7,
+                -5.7
+              ],
+              [
+                -5.4,
+                -5.4,
+                -5.4
+              ],
+              [
+                -5.0,
+                -5.0,
+                -5.0
+              ],
+              [
+                -4.5,
+                -4.5,
+                -4.5
+              ],
+              [
+                -4.0,
+                -4.0,
+                -4.0
+              ],
+              [
+                -3.4,
+                -3.4,
+                -3.4
+              ],
+              [
+                -2.8,
+                -2.8,
+                -2.8
+              ]
+            ],
+            "braking_action": "MEDIUM"
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -11.5,
+                -11.5,
+                -11.5
+              ],
+              [
+                -11.1,
+                -11.1,
+                -11.1
+              ],
+              [
+                -10.6,
+                -10.6,
+                -10.6
+              ],
+              [
+                -10.1,
+                -10.1,
+                -10.1
+              ],
+              [
+                -9.6,
+                -9.6,
+                -9.6
+              ],
+              [
+                -9.0,
+                -9.0,
+                -9.0
+              ],
+              [
+                -8.4,
+                -8.4,
+                -8.4
+              ],
+              [
+                -7.6,
+                -7.6,
+                -7.6
+              ],
+              [
+                -6.9,
+                -6.9,
+                -6.9
+              ],
+              [
+                -6.1,
+                -6.1,
+                -6.1
+              ],
+              [
+                -5.2,
+                -5.2,
+                -5.2
+              ],
+              [
+                -4.3,
+                -4.3,
+                -4.3
+              ]
+            ],
+            "braking_action": "POOR"
+          }
+        ]
+      },
+      "v1_mcg_limit_weight_1000kg": {
+        "description": "V1(MCG) limit weight by adjusted field length, braking action, and pressure altitude. null = not published (triangular table; verified against page render).",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1000,
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200,
+                2400,
+                2600,
+                2800
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                39.6,
+                null,
+                null
+              ],
+              [
+                72.0,
+                57.3,
+                42.4
+              ],
+              [
+                103.9,
+                89.4,
+                74.8
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ],
+            "braking_action": "GOOD"
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1000,
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200,
+                2400,
+                2600,
+                2800
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                46.2,
+                31.3,
+                null
+              ],
+              [
+                69.6,
+                53.3,
+                38.1
+              ],
+              [
+                95.6,
+                77.5,
+                60.6
+              ],
+              [
+                null,
+                104.1,
+                85.6
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ],
+            "braking_action": "MEDIUM"
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1000,
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200,
+                2400,
+                2600,
+                2800
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                41.6,
+                null,
+                null
+              ],
+              [
+                55.7,
+                40.7,
+                null
+              ],
+              [
+                71.2,
+                54.7,
+                39.8
+              ],
+              [
+                88.8,
+                70.1,
+                53.7
+              ],
+              [
+                null,
+                87.5,
+                69.0
+              ],
+              [
+                null,
+                null,
+                86.3
+              ]
+            ],
+            "braking_action": "POOR"
+          }
+        ]
+      },
+      "v1_adjustment_kias": {
+        "description": "V1 speed adjustment (KIAS) by actual weight, braking action, and pressure altitude.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -5,
+                -2,
+                0
+              ],
+              [
+                -6,
+                -3,
+                -1
+              ],
+              [
+                -7,
+                -4,
+                -2
+              ],
+              [
+                -8,
+                -5,
+                -3
+              ],
+              [
+                -9,
+                -6,
+                -4
+              ],
+              [
+                -9,
+                -7,
+                -4
+              ],
+              [
+                -10,
+                -8,
+                -5
+              ],
+              [
+                -11,
+                -9,
+                -6
+              ],
+              [
+                -12,
+                -9,
+                -7
+              ],
+              [
+                -13,
+                -10,
+                -8
+              ],
+              [
+                -14,
+                -11,
+                -9
+              ]
+            ],
+            "braking_action": "GOOD"
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -13,
+                -11,
+                -8
+              ],
+              [
+                -15,
+                -13,
+                -10
+              ],
+              [
+                -17,
+                -14,
+                -12
+              ],
+              [
+                -18,
+                -16,
+                -13
+              ],
+              [
+                -20,
+                -17,
+                -15
+              ],
+              [
+                -21,
+                -19,
+                -16
+              ],
+              [
+                -22,
+                -20,
+                -17
+              ],
+              [
+                -24,
+                -21,
+                -19
+              ],
+              [
+                -25,
+                -22,
+                -20
+              ],
+              [
+                -26,
+                -24,
+                -21
+              ],
+              [
+                -27,
+                -25,
+                -22
+              ]
+            ],
+            "braking_action": "MEDIUM"
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -25,
+                -23,
+                -20
+              ],
+              [
+                -27,
+                -24,
+                -22
+              ],
+              [
+                -29,
+                -26,
+                -24
+              ],
+              [
+                -31,
+                -28,
+                -26
+              ],
+              [
+                -33,
+                -30,
+                -28
+              ],
+              [
+                -35,
+                -32,
+                -30
+              ],
+              [
+                -37,
+                -34,
+                -32
+              ],
+              [
+                -38,
+                -36,
+                -33
+              ],
+              [
+                -40,
+                -37,
+                -35
+              ],
+              [
+                -41,
+                -39,
+                -36
+              ],
+              [
+                -42,
+                -40,
+                -37
+              ]
+            ],
+            "braking_action": "POOR"
+          }
+        ]
+      },
+      "field_length_temp_adj_per_5c": {
+        "good_above_4c": -20,
+        "good_below_4c": 20,
+        "medium_above_4c": -20,
+        "medium_below_4c": 20,
+        "poor_above_4c": -35,
+        "poor_below_4c": 35,
+        "unit": "m"
+      },
+      "procedure_notes": [
+        "Enter Weight Adjustment table with reported braking action and dry field/obstacle limit weight to obtain slippery runway weight adjustment.",
+        "Find V1(MCG) limit weight for available field length and pressure altitude, after applying the per-condition field-length temperature adjustment (per 5C above/below 4C).",
+        "Max allowable slippery runway limited weight is the lesser of the weight-adjustment result and the V1(MCG) limit weight.",
+        "Obtain V1, VR, V2 for the actual weight using the Dry Runway Takeoff Speeds table.",
+        "If V1(MCG) limited, set V1 = V1(MCG). If not V1(MCG) limited, enter V1 Adjustment table with the actual weight to obtain V1 speed adjustment. If adjusted V1 is less than V1(MCG), set V1 = V1(MCG). V1 not to exceed VR."
+      ]
+    },
+    "no_reverse_thrust": {
+      "source": {
+        "doc": "FCOM",
+        "page": 1066,
+        "section": "PI.30.10 Slippery Runway Takeoff - No Reverse Thrust (Weight Adjustment / V1(MCG) Limit Weight)"
+      },
+      "source_v1_adjustment": {
+        "doc": "FCOM",
+        "page": 1067,
+        "section": "PI.30.11 Slippery Runway Takeoff - No Reverse Thrust (V1 Adjustment)"
+      },
+      "weight_adjustment_1000kg": {
+        "description": "Slippery runway weight adjustment vs dry field/obstacle limit weight, by reported braking action and pressure altitude. Values are additive (negative) adjustments in 1000 KG. Values are identical across S.L./5000/10000 columns as published.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -2.1,
+                -2.1,
+                -2.1
+              ],
+              [
+                -2.4,
+                -2.4,
+                -2.4
+              ],
+              [
+                -2.7,
+                -2.7,
+                -2.7
+              ],
+              [
+                -2.9,
+                -2.9,
+                -2.9
+              ],
+              [
+                -3.1,
+                -3.1,
+                -3.1
+              ],
+              [
+                -3.2,
+                -3.2,
+                -3.2
+              ],
+              [
+                -3.2,
+                -3.2,
+                -3.2
+              ],
+              [
+                -3.1,
+                -3.1,
+                -3.1
+              ],
+              [
+                -3.0,
+                -3.0,
+                -3.0
+              ],
+              [
+                -2.8,
+                -2.8,
+                -2.8
+              ],
+              [
+                -2.5,
+                -2.5,
+                -2.5
+              ],
+              [
+                -2.2,
+                -2.2,
+                -2.2
+              ]
+            ],
+            "braking_action": "GOOD"
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -9.3,
+                -9.3,
+                -9.3
+              ],
+              [
+                -9.2,
+                -9.2,
+                -9.2
+              ],
+              [
+                -9.1,
+                -9.1,
+                -9.1
+              ],
+              [
+                -9.0,
+                -9.0,
+                -9.0
+              ],
+              [
+                -8.7,
+                -8.7,
+                -8.7
+              ],
+              [
+                -8.4,
+                -8.4,
+                -8.4
+              ],
+              [
+                -8.0,
+                -8.0,
+                -8.0
+              ],
+              [
+                -7.5,
+                -7.5,
+                -7.5
+              ],
+              [
+                -7.0,
+                -7.0,
+                -7.0
+              ],
+              [
+                -6.3,
+                -6.3,
+                -6.3
+              ],
+              [
+                -5.6,
+                -5.6,
+                -5.6
+              ],
+              [
+                -4.8,
+                -4.8,
+                -4.8
+              ]
+            ],
+            "braking_action": "MEDIUM"
+          },
+          {
+            "row_axis": {
+              "name": "dry_field_obstacle_limit_weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                95,
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -15.9,
+                -15.9,
+                -15.9
+              ],
+              [
+                -15.2,
+                -15.2,
+                -15.2
+              ],
+              [
+                -14.5,
+                -14.5,
+                -14.5
+              ],
+              [
+                -13.8,
+                -13.8,
+                -13.8
+              ],
+              [
+                -13.0,
+                -13.0,
+                -13.0
+              ],
+              [
+                -12.2,
+                -12.2,
+                -12.2
+              ],
+              [
+                -11.3,
+                -11.3,
+                -11.3
+              ],
+              [
+                -10.4,
+                -10.4,
+                -10.4
+              ],
+              [
+                -9.4,
+                -9.4,
+                -9.4
+              ],
+              [
+                -8.4,
+                -8.4,
+                -8.4
+              ],
+              [
+                -7.3,
+                -7.3,
+                -7.3
+              ],
+              [
+                -6.2,
+                -6.2,
+                -6.2
+              ]
+            ],
+            "braking_action": "POOR"
+          }
+        ]
+      },
+      "v1_mcg_limit_weight_1000kg": {
+        "description": "V1(MCG) limit weight by adjusted field length, braking action, and pressure altitude. null = not published (triangular table; verified against page render).",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1200,
+                1400,
+                1600,
+                2000,
+                2200,
+                2400,
+                3200,
+                3400,
+                3600,
+                3800
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                38.0,
+                null,
+                null
+              ],
+              [
+                86.5,
+                67.4,
+                43.5
+              ],
+              [
+                null,
+                null,
+                89.8
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ],
+            "braking_action": "GOOD"
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1200,
+                1400,
+                1600,
+                2000,
+                2200,
+                2400,
+                3200,
+                3400,
+                3600,
+                3800
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                72.9,
+                33.7,
+                null
+              ],
+              [
+                null,
+                86.8,
+                53.8
+              ],
+              [
+                null,
+                null,
+                100.0
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ],
+            "braking_action": "MEDIUM"
+          },
+          {
+            "row_axis": {
+              "name": "adjusted_field_length_m",
+              "unit": "m",
+              "values": [
+                1200,
+                1400,
+                1600,
+                2000,
+                2200,
+                2400,
+                3200,
+                3400,
+                3600,
+                3800
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                75.7,
+                null,
+                null
+              ],
+              [
+                null,
+                70.0,
+                null
+              ],
+              [
+                null,
+                null,
+                63.9
+              ],
+              [
+                null,
+                null,
+                101.4
+              ]
+            ],
+            "braking_action": "POOR"
+          }
+        ]
+      },
+      "v1_adjustment_kias": {
+        "description": "V1 speed adjustment (KIAS) by actual weight, braking action, and pressure altitude.",
+        "groups": [
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -7,
+                -2,
+                0
+              ],
+              [
+                -8,
+                -3,
+                0
+              ],
+              [
+                -9,
+                -4,
+                0
+              ],
+              [
+                -11,
+                -6,
+                -1
+              ],
+              [
+                -12,
+                -7,
+                -2
+              ],
+              [
+                -14,
+                -9,
+                -4
+              ],
+              [
+                -15,
+                -10,
+                -5
+              ],
+              [
+                -17,
+                -12,
+                -7
+              ],
+              [
+                -18,
+                -13,
+                -8
+              ],
+              [
+                -20,
+                -15,
+                -10
+              ],
+              [
+                -22,
+                -17,
+                -12
+              ]
+            ],
+            "braking_action": "GOOD"
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -19,
+                -14,
+                -9
+              ],
+              [
+                -21,
+                -16,
+                -11
+              ],
+              [
+                -24,
+                -19,
+                -14
+              ],
+              [
+                -26,
+                -21,
+                -16
+              ],
+              [
+                -28,
+                -23,
+                -18
+              ],
+              [
+                -31,
+                -26,
+                -21
+              ],
+              [
+                -34,
+                -29,
+                -24
+              ],
+              [
+                -37,
+                -32,
+                -27
+              ],
+              [
+                -40,
+                -35,
+                -30
+              ],
+              [
+                -43,
+                -38,
+                -33
+              ],
+              [
+                -46,
+                -41,
+                -36
+              ]
+            ],
+            "braking_action": "MEDIUM"
+          },
+          {
+            "row_axis": {
+              "name": "weight_1000kg",
+              "unit": "1000 KG",
+              "values": [
+                90,
+                85,
+                80,
+                75,
+                70,
+                65,
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            },
+            "col_axis": {
+              "name": "press_alt_ft",
+              "unit": "ft",
+              "values": [
+                0,
+                5000,
+                10000
+              ]
+            },
+            "data": [
+              [
+                -39,
+                -34,
+                -29
+              ],
+              [
+                -42,
+                -37,
+                -32
+              ],
+              [
+                -45,
+                -40,
+                -35
+              ],
+              [
+                -49,
+                -44,
+                -39
+              ],
+              [
+                -52,
+                -47,
+                -42
+              ],
+              [
+                -56,
+                -51,
+                -46
+              ],
+              [
+                -59,
+                -54,
+                -49
+              ],
+              [
+                -63,
+                -58,
+                -53
+              ],
+              [
+                -66,
+                -61,
+                -56
+              ],
+              [
+                -70,
+                -65,
+                -60
+              ],
+              [
+                -74,
+                -69,
+                -64
+              ]
+            ],
+            "braking_action": "POOR"
+          }
+        ]
+      },
+      "field_length_temp_adj_per_5c": {
+        "good_above_4c": -25,
+        "good_below_4c": 25,
+        "medium_above_4c": -25,
+        "medium_below_4c": 25,
+        "poor_above_4c": -40,
+        "poor_below_4c": 40,
+        "unit": "m"
+      },
+      "procedure_notes": [
+        "Enter Weight Adjustment table with reported braking action and dry field/obstacle limit weight to obtain slippery runway weight adjustment.",
+        "Find V1(MCG) limit weight for available field length and pressure altitude, after applying the per-condition field-length temperature adjustment (per 5C above/below 4C).",
+        "Max allowable slippery runway limited weight is the lesser of the weight-adjustment result and the V1(MCG) limit weight.",
+        "Obtain V1, VR, V2 for the actual weight using the Dry Runway Takeoff Speeds table.",
+        "If V1(MCG) limited, set V1 = V1(MCG). If not V1(MCG) limited, enter V1 Adjustment table with the actual weight to obtain V1 speed adjustment. If adjusted V1 is less than V1(MCG), set V1 = V1(MCG). V1 not to exceed VR."
+      ]
+    }
+  },
+  "antiskid_inoperative_takeoff": {
+    "source": {
+      "doc": "FCOM",
+      "page": 1170,
+      "section": "PI.37.4 Anti-Skid Inoperative Takeoff"
+    },
+    "applicability": "Dry runway only. Anti-skid inoperative is only allowed on a dry runway.",
+    "dry_field_obstacle_weight_penalty_kg": 8500,
+    "v1_adjustment": {
+      "description": "Reduce normal dry field/obstacle limited weight by dry_field_obstacle_weight_penalty_kg, then reduce V1 (associated with the reduced weight) by the amount shown, indexed by field length.",
+      "row_axis": {
+        "name": "field_length_m",
+        "unit": "m",
+        "values": [
+          2000,
+          2500,
+          3000,
+          3500,
+          4000
+        ]
+      },
+      "data": [
+        -19,
+        -16,
+        -14,
+        -12,
+        -11
+      ],
+      "unit": "kt"
+    },
+    "notes": "If the resulting V1 is less than V1(MCG), takeoff is permitted with V1 set equal to V1(MCG) provided the dry accelerate-stop distance adjusted for wind and slope exceeds approximately 1800 m. A detailed analysis for the specific case from the Airplane Flight Manual may yield a less restrictive penalty."
+  },
+  "notes": "V1(MCG) limit weight (triangular) tables for both slush/standing-water and slippery-runway variants were cross-checked against rendered page images (not just text extraction) to confirm null/blank-cell placement, since the raw PDF text stream loses column position for cells at the edges of these jagged tables."
+}

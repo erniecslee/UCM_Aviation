@@ -1,0 +1,1847 @@
+[
+  {
+    "source": {
+      "doc": "FCOM",
+      "page": 1115,
+      "section": "PI.32.1 Normal Configuration Landing Distance - Flaps 15"
+    },
+    "flap_setting": "FLAPS 15",
+    "unit_dist": "m",
+    "reference_conditions": "Sea level, standard day, no wind or slope, VREF15 approach speed, two-engine detent No. 2 reverse thrust, auto speedbrakes. Reference distance includes an air distance allowance of 305 m from threshold to touchdown. Actual (unfactored) distances shown.",
+    "manual_braking_manual_speedbrakes_adj_m": 60,
+    "autobrake_manual_speedbrakes_adj_m": 55,
+    "alt_adj_note": "For landing distance at or below 8000 ft pressure altitude, apply the STD adjustment. For altitudes higher than 8000 ft, first apply the STD adjustment to derive a new reference landing distance for 8000 ft, then apply the HIGH adjustment to this new reference distance.",
+    "rows": [
+      {
+        "condition": "DRY",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1010,
+        "wt_adj_per_5000kg": {
+          "above": 70.0,
+          "below": -60.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 25.0,
+          "high_ge_8000ft": 30.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -35.0,
+          "tail": 125.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 15.0,
+          "up": -10.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 25.0,
+          "below_isa": -25.0
+        },
+        "app_spd_adj_per_5kt": 35.0,
+        "reverse_thrust_adj": {
+          "one_rev": 25.0,
+          "no_rev": 50.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1300,
+        "wt_adj_per_5000kg": {
+          "above": 65.0,
+          "below": -75.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 30.0,
+          "high_ge_8000ft": 40.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -45.0,
+          "tail": 155.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 0.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 30.0,
+          "below_isa": -30.0
+        },
+        "app_spd_adj_per_5kt": 60.0,
+        "reverse_thrust_adj": {
+          "one_rev": 0.0,
+          "no_rev": 5.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1870,
+        "wt_adj_per_5000kg": {
+          "above": 105.0,
+          "below": -120.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 50.0,
+          "high_ge_8000ft": 65.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -80.0,
+          "tail": 260.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 0.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 55.0,
+          "below_isa": -55.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 0.0,
+          "no_rev": 0.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2385,
+        "wt_adj_per_5000kg": {
+          "above": 155.0,
+          "below": -170.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 95.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -105.0,
+          "tail": 360.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -45.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 70.0,
+          "no_rev": 70.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2640,
+        "wt_adj_per_5000kg": {
+          "above": 185.0,
+          "below": -200.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 90.0,
+          "high_ge_8000ft": 115.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -125.0,
+          "tail": 425.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 70.0,
+          "up": -85.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 80.0,
+          "below_isa": -80.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 240.0,
+          "no_rev": 335.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1395,
+        "wt_adj_per_5000kg": {
+          "above": 80.0,
+          "below": -85.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 40.0,
+          "high_ge_8000ft": 50.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -60.0,
+          "tail": 210.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 35.0,
+          "up": -30.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 35.0,
+          "below_isa": -35.0
+        },
+        "app_spd_adj_per_5kt": 50.0,
+        "reverse_thrust_adj": {
+          "one_rev": 75.0,
+          "no_rev": 175.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1485,
+        "wt_adj_per_5000kg": {
+          "above": 85.0,
+          "below": -90.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 40.0,
+          "high_ge_8000ft": 55.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -65.0,
+          "tail": 215.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -25.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 35.0,
+          "below_isa": -40.0
+        },
+        "app_spd_adj_per_5kt": 55.0,
+        "reverse_thrust_adj": {
+          "one_rev": 85.0,
+          "no_rev": 190.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1870,
+        "wt_adj_per_5000kg": {
+          "above": 105.0,
+          "below": -120.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 50.0,
+          "high_ge_8000ft": 65.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -80.0,
+          "tail": 265.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 5.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 55.0,
+          "below_isa": -55.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 5.0,
+          "no_rev": 15.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2385,
+        "wt_adj_per_5000kg": {
+          "above": 155.0,
+          "below": -170.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 95.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -105.0,
+          "tail": 360.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -45.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 70.0,
+          "no_rev": 70.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2640,
+        "wt_adj_per_5000kg": {
+          "above": 185.0,
+          "below": -200.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 90.0,
+          "high_ge_8000ft": 115.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -125.0,
+          "tail": 425.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 70.0,
+          "up": -85.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 80.0,
+          "below_isa": -80.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 240.0,
+          "no_rev": 335.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1930,
+        "wt_adj_per_5000kg": {
+          "above": 125.0,
+          "below": -130.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 60.0,
+          "high_ge_8000ft": 80.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 345.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 90.0,
+          "up": -70.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 55.0,
+          "below_isa": -55.0
+        },
+        "app_spd_adj_per_5kt": 65.0,
+        "reverse_thrust_adj": {
+          "one_rev": 215.0,
+          "no_rev": 520.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1965,
+        "wt_adj_per_5000kg": {
+          "above": 130.0,
+          "below": -135.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 60.0,
+          "high_ge_8000ft": 85.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -100.0,
+          "tail": 350.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 85.0,
+          "up": -65.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 55.0,
+          "below_isa": -55.0
+        },
+        "app_spd_adj_per_5kt": 75.0,
+        "reverse_thrust_adj": {
+          "one_rev": 215.0,
+          "no_rev": 520.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 2065,
+        "wt_adj_per_5000kg": {
+          "above": 130.0,
+          "below": -140.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 60.0,
+          "high_ge_8000ft": 85.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -100.0,
+          "tail": 360.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 65.0,
+          "up": -45.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -60.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 150.0,
+          "no_rev": 450.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2440,
+        "wt_adj_per_5000kg": {
+          "above": 160.0,
+          "below": -175.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 100.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -115.0,
+          "tail": 405.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 65.0,
+          "up": -65.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 115.0,
+          "no_rev": 250.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2655,
+        "wt_adj_per_5000kg": {
+          "above": 185.0,
+          "below": -200.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 90.0,
+          "high_ge_8000ft": 120.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -130.0,
+          "tail": 440.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 90.0,
+          "up": -90.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 80.0,
+          "below_isa": -80.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 255.0,
+          "no_rev": 395.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 2545,
+        "wt_adj_per_5000kg": {
+          "above": 180.0,
+          "below": -185.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 85.0,
+          "high_ge_8000ft": 120.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -145.0,
+          "tail": 550.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 215.0,
+          "up": -140.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 80.0,
+        "reverse_thrust_adj": {
+          "one_rev": 465.0,
+          "no_rev": 1245.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 2545,
+        "wt_adj_per_5000kg": {
+          "above": 185.0,
+          "below": -185.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 90.0,
+          "high_ge_8000ft": 120.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -145.0,
+          "tail": 550.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 220.0,
+          "up": -145.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 80.0,
+        "reverse_thrust_adj": {
+          "one_rev": 465.0,
+          "no_rev": 1245.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 2560,
+        "wt_adj_per_5000kg": {
+          "above": 185.0,
+          "below": -185.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 90.0,
+          "high_ge_8000ft": 120.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -145.0,
+          "tail": 550.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 210.0,
+          "up": -130.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 465.0,
+          "no_rev": 1255.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2730,
+        "wt_adj_per_5000kg": {
+          "above": 190.0,
+          "below": -200.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 90.0,
+          "high_ge_8000ft": 125.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -155.0,
+          "tail": 565.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 200.0,
+          "up": -130.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 75.0,
+          "below_isa": -80.0
+        },
+        "app_spd_adj_per_5kt": 100.0,
+        "reverse_thrust_adj": {
+          "one_rev": 375.0,
+          "no_rev": 1090.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2855,
+        "wt_adj_per_5000kg": {
+          "above": 205.0,
+          "below": -215.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 100.0,
+          "high_ge_8000ft": 135.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -160.0,
+          "tail": 585.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 205.0,
+          "up": -145.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 80.0,
+          "below_isa": -85.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 440.0,
+          "no_rev": 1080.0
+        }
+      }
+    ]
+  },
+  {
+    "source": {
+      "doc": "FCOM",
+      "page": 1116,
+      "section": "PI.32.2 Normal Configuration Landing Distance - Flaps 30"
+    },
+    "flap_setting": "FLAPS 30",
+    "unit_dist": "m",
+    "reference_conditions": "Sea level, standard day, no wind or slope, VREF30 approach speed, two-engine detent No. 2 reverse thrust, auto speedbrakes. Reference distance includes an air distance allowance of 305 m from threshold to touchdown. Actual (unfactored) distances shown.",
+    "manual_braking_manual_speedbrakes_adj_m": 60,
+    "autobrake_manual_speedbrakes_adj_m": 55,
+    "alt_adj_note": "For landing distance at or below 8000 ft pressure altitude, apply the STD adjustment. For altitudes higher than 8000 ft, first apply the STD adjustment to derive a new reference landing distance for 8000 ft, then apply the HIGH adjustment to this new reference distance.",
+    "rows": [
+      {
+        "condition": "DRY",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 960,
+        "wt_adj_per_5000kg": {
+          "above": 55.0,
+          "below": -55.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 20.0,
+          "high_ge_8000ft": 30.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -35.0,
+          "tail": 120.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 10.0,
+          "up": -10.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 20.0,
+          "below_isa": -20.0
+        },
+        "app_spd_adj_per_5kt": 35.0,
+        "reverse_thrust_adj": {
+          "one_rev": 20.0,
+          "no_rev": 40.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1215,
+        "wt_adj_per_5000kg": {
+          "above": 60.0,
+          "below": -65.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 30.0,
+          "high_ge_8000ft": 35.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -45.0,
+          "tail": 150.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 0.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 30.0,
+          "below_isa": -30.0
+        },
+        "app_spd_adj_per_5kt": 55.0,
+        "reverse_thrust_adj": {
+          "one_rev": 0.0,
+          "no_rev": 5.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1725,
+        "wt_adj_per_5000kg": {
+          "above": 95.0,
+          "below": -110.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 45.0,
+          "high_ge_8000ft": 60.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -75.0,
+          "tail": 250.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 0.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 50.0,
+          "below_isa": -50.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 0.0,
+          "no_rev": 0.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2190,
+        "wt_adj_per_5000kg": {
+          "above": 140.0,
+          "below": -150.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 65.0,
+          "high_ge_8000ft": 90.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -100.0,
+          "tail": 345.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -40.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 60.0,
+          "no_rev": 60.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2415,
+        "wt_adj_per_5000kg": {
+          "above": 165.0,
+          "below": -180.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 105.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -120.0,
+          "tail": 405.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 65.0,
+          "up": -75.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 195.0,
+          "no_rev": 290.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1330,
+        "wt_adj_per_5000kg": {
+          "above": 75.0,
+          "below": -80.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 35.0,
+          "high_ge_8000ft": 45.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -60.0,
+          "tail": 205.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 35.0,
+          "up": -30.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 35.0,
+          "below_isa": -35.0
+        },
+        "app_spd_adj_per_5kt": 50.0,
+        "reverse_thrust_adj": {
+          "one_rev": 70.0,
+          "no_rev": 155.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1415,
+        "wt_adj_per_5000kg": {
+          "above": 80.0,
+          "below": -85.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 40.0,
+          "high_ge_8000ft": 50.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -60.0,
+          "tail": 210.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -25.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 35.0,
+          "below_isa": -35.0
+        },
+        "app_spd_adj_per_5kt": 60.0,
+        "reverse_thrust_adj": {
+          "one_rev": 75.0,
+          "no_rev": 170.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1725,
+        "wt_adj_per_5000kg": {
+          "above": 95.0,
+          "below": -110.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 45.0,
+          "high_ge_8000ft": 60.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -75.0,
+          "tail": 250.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 5.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 50.0,
+          "below_isa": -50.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 5.0,
+          "no_rev": 15.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2190,
+        "wt_adj_per_5000kg": {
+          "above": 140.0,
+          "below": -150.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 65.0,
+          "high_ge_8000ft": 90.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -100.0,
+          "tail": 345.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -40.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 60.0,
+          "no_rev": 60.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2415,
+        "wt_adj_per_5000kg": {
+          "above": 165.0,
+          "below": -180.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 105.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -120.0,
+          "tail": 405.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 65.0,
+          "up": -75.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 195.0,
+          "no_rev": 290.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1815,
+        "wt_adj_per_5000kg": {
+          "above": 115.0,
+          "below": -120.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 55.0,
+          "high_ge_8000ft": 75.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 335.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 85.0,
+          "up": -65.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 50.0,
+          "below_isa": -50.0
+        },
+        "app_spd_adj_per_5kt": 65.0,
+        "reverse_thrust_adj": {
+          "one_rev": 190.0,
+          "no_rev": 450.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1850,
+        "wt_adj_per_5000kg": {
+          "above": 120.0,
+          "below": -125.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 55.0,
+          "high_ge_8000ft": 75.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 340.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 80.0,
+          "up": -60.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 50.0,
+          "below_isa": -50.0
+        },
+        "app_spd_adj_per_5kt": 75.0,
+        "reverse_thrust_adj": {
+          "one_rev": 190.0,
+          "no_rev": 455.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1925,
+        "wt_adj_per_5000kg": {
+          "above": 120.0,
+          "below": -125.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 55.0,
+          "high_ge_8000ft": 75.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 345.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 65.0,
+          "up": -45.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 55.0,
+          "below_isa": -55.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 140.0,
+          "no_rev": 410.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2245,
+        "wt_adj_per_5000kg": {
+          "above": 140.0,
+          "below": -155.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 70.0,
+          "high_ge_8000ft": 90.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -110.0,
+          "tail": 390.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 65.0,
+          "up": -60.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 105.0,
+          "no_rev": 225.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2430,
+        "wt_adj_per_5000kg": {
+          "above": 165.0,
+          "below": -180.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 105.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -120.0,
+          "tail": 420.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 85.0,
+          "up": -80.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 210.0,
+          "no_rev": 350.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 2365,
+        "wt_adj_per_5000kg": {
+          "above": 165.0,
+          "below": -170.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 110.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 530.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 205.0,
+          "up": -135.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 75.0,
+        "reverse_thrust_adj": {
+          "one_rev": 400.0,
+          "no_rev": 1045.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 2370,
+        "wt_adj_per_5000kg": {
+          "above": 165.0,
+          "below": -170.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 110.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 530.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 205.0,
+          "up": -135.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 80.0,
+        "reverse_thrust_adj": {
+          "one_rev": 400.0,
+          "no_rev": 1050.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 2385,
+        "wt_adj_per_5000kg": {
+          "above": 170.0,
+          "below": -170.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 110.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 535.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 200.0,
+          "up": -125.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 400.0,
+          "no_rev": 1055.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2525,
+        "wt_adj_per_5000kg": {
+          "above": 175.0,
+          "below": -180.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 85.0,
+          "high_ge_8000ft": 115.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -145.0,
+          "tail": 550.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 190.0,
+          "up": -125.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 90.0,
+        "reverse_thrust_adj": {
+          "one_rev": 335.0,
+          "no_rev": 925.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2630,
+        "wt_adj_per_5000kg": {
+          "above": 185.0,
+          "below": -190.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 85.0,
+          "high_ge_8000ft": 120.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -150.0,
+          "tail": 565.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 195.0,
+          "up": -135.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 75.0,
+          "below_isa": -80.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 380.0,
+          "no_rev": 930.0
+        }
+      }
+    ]
+  },
+  {
+    "source": {
+      "doc": "FCOM",
+      "page": 1117,
+      "section": "PI.32.3 Normal Configuration Landing Distance - Flaps 40"
+    },
+    "flap_setting": "FLAPS 40",
+    "unit_dist": "m",
+    "reference_conditions": "Sea level, standard day, no wind or slope, VREF40 approach speed, two-engine detent No. 2 reverse thrust, auto speedbrakes. Reference distance includes an air distance allowance of 305 m from threshold to touchdown. Actual (unfactored) distances shown.",
+    "manual_braking_manual_speedbrakes_adj_m": 55,
+    "autobrake_manual_speedbrakes_adj_m": 45,
+    "alt_adj_note": "For landing distance at or below 8000 ft pressure altitude, apply the STD adjustment. For altitudes higher than 8000 ft, first apply the STD adjustment to derive a new reference landing distance for 8000 ft, then apply the HIGH adjustment to this new reference distance.",
+    "rows": [
+      {
+        "condition": "DRY",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 915,
+        "wt_adj_per_5000kg": {
+          "above": 55.0,
+          "below": -50.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 20.0,
+          "high_ge_8000ft": 25.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -35.0,
+          "tail": 115.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 10.0,
+          "up": -10.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 20.0,
+          "below_isa": -20.0
+        },
+        "app_spd_adj_per_5kt": 35.0,
+        "reverse_thrust_adj": {
+          "one_rev": 15.0,
+          "no_rev": 35.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1135,
+        "wt_adj_per_5000kg": {
+          "above": 55.0,
+          "below": -60.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 25.0,
+          "high_ge_8000ft": 35.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -40.0,
+          "tail": 140.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 0.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 25.0,
+          "below_isa": -25.0
+        },
+        "app_spd_adj_per_5kt": 55.0,
+        "reverse_thrust_adj": {
+          "one_rev": 0.0,
+          "no_rev": 0.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1590,
+        "wt_adj_per_5000kg": {
+          "above": 85.0,
+          "below": -100.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 40.0,
+          "high_ge_8000ft": 55.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -70.0,
+          "tail": 235.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 0.0,
+          "up": 0.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 45.0,
+          "below_isa": -45.0
+        },
+        "app_spd_adj_per_5kt": 90.0,
+        "reverse_thrust_adj": {
+          "one_rev": 0.0,
+          "no_rev": 0.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2030,
+        "wt_adj_per_5000kg": {
+          "above": 125.0,
+          "below": -140.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 60.0,
+          "high_ge_8000ft": 80.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 330.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 20.0,
+          "up": -35.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -60.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 35.0,
+          "no_rev": 35.0
+        }
+      },
+      {
+        "condition": "DRY",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2260,
+        "wt_adj_per_5000kg": {
+          "above": 150.0,
+          "below": -165.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 95.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -115.0,
+          "tail": 390.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 55.0,
+          "up": -65.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 155.0,
+          "no_rev": 220.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1270,
+        "wt_adj_per_5000kg": {
+          "above": 70.0,
+          "below": -75.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 35.0,
+          "high_ge_8000ft": 45.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -55.0,
+          "tail": 200.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 35.0,
+          "up": -30.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 30.0,
+          "below_isa": -30.0
+        },
+        "app_spd_adj_per_5kt": 50.0,
+        "reverse_thrust_adj": {
+          "one_rev": 65.0,
+          "no_rev": 140.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1350,
+        "wt_adj_per_5000kg": {
+          "above": 75.0,
+          "below": -80.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 35.0,
+          "high_ge_8000ft": 45.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -60.0,
+          "tail": 205.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 30.0,
+          "up": -25.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 35.0,
+          "below_isa": -35.0
+        },
+        "app_spd_adj_per_5kt": 60.0,
+        "reverse_thrust_adj": {
+          "one_rev": 70.0,
+          "no_rev": 150.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1600,
+        "wt_adj_per_5000kg": {
+          "above": 85.0,
+          "below": -100.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 40.0,
+          "high_ge_8000ft": 55.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -70.0,
+          "tail": 240.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 10.0,
+          "up": -5.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 45.0,
+          "below_isa": -45.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 5.0,
+          "no_rev": 15.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2030,
+        "wt_adj_per_5000kg": {
+          "above": 125.0,
+          "below": -140.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 60.0,
+          "high_ge_8000ft": 80.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 330.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 20.0,
+          "up": -35.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -60.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 35.0,
+          "no_rev": 35.0
+        }
+      },
+      {
+        "condition": "GOOD",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2260,
+        "wt_adj_per_5000kg": {
+          "above": 150.0,
+          "below": -165.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 95.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -115.0,
+          "tail": 390.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 55.0,
+          "up": -65.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 155.0,
+          "no_rev": 220.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 1730,
+        "wt_adj_per_5000kg": {
+          "above": 105.0,
+          "below": -115.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 50.0,
+          "high_ge_8000ft": 70.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -90.0,
+          "tail": 330.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 85.0,
+          "up": -65.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 45.0,
+          "below_isa": -45.0
+        },
+        "app_spd_adj_per_5kt": 65.0,
+        "reverse_thrust_adj": {
+          "one_rev": 170.0,
+          "no_rev": 405.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 1750,
+        "wt_adj_per_5000kg": {
+          "above": 110.0,
+          "below": -120.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 55.0,
+          "high_ge_8000ft": 70.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -90.0,
+          "tail": 335.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 75.0,
+          "up": -60.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 45.0,
+          "below_isa": -50.0
+        },
+        "app_spd_adj_per_5kt": 75.0,
+        "reverse_thrust_adj": {
+          "one_rev": 170.0,
+          "no_rev": 405.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 1800,
+        "wt_adj_per_5000kg": {
+          "above": 110.0,
+          "below": -120.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 55.0,
+          "high_ge_8000ft": 70.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -95.0,
+          "tail": 340.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 70.0,
+          "up": -45.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 50.0,
+          "below_isa": -50.0
+        },
+        "app_spd_adj_per_5kt": 90.0,
+        "reverse_thrust_adj": {
+          "one_rev": 150.0,
+          "no_rev": 390.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2090,
+        "wt_adj_per_5000kg": {
+          "above": 130.0,
+          "below": -145.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 60.0,
+          "high_ge_8000ft": 85.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -105.0,
+          "tail": 375.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 55.0,
+          "up": -55.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -60.0
+        },
+        "app_spd_adj_per_5kt": 95.0,
+        "reverse_thrust_adj": {
+          "one_rev": 75.0,
+          "no_rev": 190.0
+        }
+      },
+      {
+        "condition": "MEDIUM",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2275,
+        "wt_adj_per_5000kg": {
+          "above": 150.0,
+          "below": -165.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 95.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -115.0,
+          "tail": 405.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 80.0,
+          "up": -75.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 170.0,
+          "no_rev": 275.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "MAX MANUAL",
+        "ref_dist_m": 2245,
+        "wt_adj_per_5000kg": {
+          "above": 155.0,
+          "below": -160.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 100.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 520.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 200.0,
+          "up": -130.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 75.0,
+        "reverse_thrust_adj": {
+          "one_rev": 360.0,
+          "no_rev": 930.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE MAX",
+        "ref_dist_m": 2250,
+        "wt_adj_per_5000kg": {
+          "above": 155.0,
+          "below": -160.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 105.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 520.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 200.0,
+          "up": -130.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 75.0,
+        "reverse_thrust_adj": {
+          "one_rev": 360.0,
+          "no_rev": 930.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 3",
+        "ref_dist_m": 2260,
+        "wt_adj_per_5000kg": {
+          "above": 155.0,
+          "below": -165.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 105.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 525.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 195.0,
+          "up": -125.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 60.0,
+          "below_isa": -65.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 360.0,
+          "no_rev": 935.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 2",
+        "ref_dist_m": 2370,
+        "wt_adj_per_5000kg": {
+          "above": 160.0,
+          "below": -165.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 75.0,
+          "high_ge_8000ft": 105.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -140.0,
+          "tail": 535.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 185.0,
+          "up": -120.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 65.0,
+          "below_isa": -70.0
+        },
+        "app_spd_adj_per_5kt": 90.0,
+        "reverse_thrust_adj": {
+          "one_rev": 290.0,
+          "no_rev": 830.0
+        }
+      },
+      {
+        "condition": "POOR",
+        "config": "AUTOBRAKE 1",
+        "ref_dist_m": 2470,
+        "wt_adj_per_5000kg": {
+          "above": 170.0,
+          "below": -180.0
+        },
+        "alt_adj_per_1000ft": {
+          "std": 80.0,
+          "high_ge_8000ft": 110.0
+        },
+        "wind_adj_per_10kt": {
+          "head": -145.0,
+          "tail": 550.0
+        },
+        "slope_adj_per_1pct": {
+          "down": 190.0,
+          "up": -130.0
+        },
+        "temp_adj_per_10c": {
+          "above_isa": 70.0,
+          "below_isa": -75.0
+        },
+        "app_spd_adj_per_5kt": 85.0,
+        "reverse_thrust_adj": {
+          "one_rev": 335.0,
+          "no_rev": 815.0
+        }
+      }
+    ]
+  }
+]

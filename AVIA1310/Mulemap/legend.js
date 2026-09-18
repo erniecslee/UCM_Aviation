@@ -42,7 +42,11 @@ const legendExamples = [
   {id:'runwaylength',name:'Longest runway length',code:'42 · Skyhaven',category:'AIRPORT DATA',px:2483,py:1954,w:54,h:34,page:24,
     desc:'The charted 42 states the longest runway length in hundreds of feet: about 4,200 ft. Usable length can be less.',tip:'Runway length in airport data is a separate item from airport elevation.',question:'How many feet does 42 represent?'},
   {id:'citytint',name:'Populated place tint',code:'Kansas City',category:'CULTURE',px:1450,py:1450,w:100,h:70,page:35,
-    desc:'Yellow tint marks a populated place on the sectional. It helps with visual orientation but is not an airspace boundary.',tip:'Check the nearby airspace lines separately from the city shading.',question:'Does yellow city tint define controlled airspace?'}
+    desc:'Yellow tint marks a populated place on the sectional. It helps with visual orientation but is not an airspace boundary.',tip:'Check the nearby airspace lines separately from the city shading.',question:'Does yellow city tint define controlled airspace?'},
+  {id:'ultralight',name:'Ultralight flight park symbol',code:'Flying M Ranch · (Pvt)',category:'AIRPORT',px:379,py:1054,w:50,h:50,page:35,
+    desc:'The magenta circled F identifies a selected ultralight flight park. Flying M Ranch is also labeled private-use.',tip:'The F symbol identifies the activity type; the nearby (Pvt) notation identifies access.',question:'What does the F tell you about this location?'},
+  {id:'glider',name:'Glider activity symbol',code:'Near Skyhaven',category:'MISCELLANEOUS',px:2738,py:1966,w:76,h:70,page:35,
+    desc:'The magenta diamond with a G marks a charted glider operations area near Skyhaven.',tip:'This symbol alerts you to possible glider activity; read the surrounding chart and current information before a flight.',question:'What kind of activity does the G identify?'}
 ];
 for (const item of legendExamples) {
   const cropX=Math.max(0,Math.min(3230,Math.round(item.px-120)));

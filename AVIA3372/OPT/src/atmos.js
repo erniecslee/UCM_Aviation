@@ -124,14 +124,37 @@ export function formatWind({ headwindKt, crosswindKt, crosswindDir }) {
   return `${hw} kt${xw}`;
 }
 
-/** Free-text METAR-style "DIR/SPEED" entry (e.g. "030/20"), as flown/typed by
- * the pilot — matches the source Excel's WIND field (e.g. "320/8") rather
- * than separate direction/speed boxes. */
+/** Free-text WIND entry, two accepted forms:
+ *  - METAR-style "DIR/SPEED" (e.g. "030/20"), as flown/typed by the pilot —
+ *    matches the source Excel's WIND field (e.g. "320/8") rather than
+ *    separate direction/speed boxes. Resolved against the runway heading.
+ *  - A plain signed number (e.g. "10", "-10") entered directly as the
+ *    headwind/tailwind component in knots — positive is headwind, negative
+ *    is tailwind — for when the component is already known and there's no
+ *    need to work it out from a reported direction/speed. No crosswind or
+ *    runway heading involved in this form (crosswindKt is 0).
+ * Returns `{dir, speedKt}` for the first form or `{headwindKt, crosswindKt}`
+ * for the second; unset fields are null. Feed the result to
+ * `resolveWindComponents` rather than branching on which form was used. */
 export function parseWindGroup(text) {
-  if (!text) return { dir: null, speedKt: null };
-  const m = String(text).trim().match(/^(\d{1,3})\s*\/\s*(\d{1,3}(?:\.\d+)?)$/);
-  if (!m) return { dir: null, speedKt: null };
-  return { dir: parseFloat(m[1]), speedKt: parseFloat(m[2]) };
+  if (!text) return { dir: null, speedKt: null, headwindKt: null, crosswindKt: null };
+  const trimmed = String(text).trim();
+  const group = trimmed.match(/^(\d{1,3})\s*\/\s*(\d{1,3}(?:\.\d+)?)$/);
+  if (group) return { dir: parseFloat(group[1]), speedKt: parseFloat(group[2]), headwindKt: null, crosswindKt: null };
+  const component = trimmed.match(/^([+-]?\d+(?:\.\d+)?)$/);
+  if (component) return { dir: null, speedKt: null, headwindKt: parseFloat(component[1]), crosswindKt: 0 };
+  return { dir: null, speedKt: null, headwindKt: null, crosswindKt: null };
+}
+
+/** Combines a `parseWindGroup` result with the runway heading into
+ * {headwindKt, crosswindKt, crosswindDir} — a direct headwind-component
+ * entry bypasses `windComponents`/the runway heading entirely (there's no
+ * direction to resolve), while a DIR/SPEED entry is resolved as before. */
+export function resolveWindComponents(parsedWind, runwayHeadingTrue) {
+  if (parsedWind.headwindKt != null) {
+    return { headwindKt: parsedWind.headwindKt, crosswindKt: parsedWind.crosswindKt ?? 0, crosswindDir: null };
+  }
+  return windComponents(parsedWind.dir, parsedWind.speedKt, runwayHeadingTrue);
 }
 
 /** OAT entered as e.g. "15", "15C", "59F" — defaults to Celsius with no

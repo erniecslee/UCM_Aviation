@@ -2,7 +2,7 @@ import { attachAirportAutocomplete } from "./airports.js";
 import {
   pressureAltitudeFt,
   densityAltitudeFt,
-  windComponents,
+  resolveWindComponents,
   dispatchFactoredHeadwindKt,
   formatWind,
   parseWindGroup,
@@ -98,13 +98,13 @@ function wireWindField(inputId, subId, runwayHeadingGetter) {
   const input = document.getElementById(inputId);
   const sub = document.getElementById(subId);
   const update = () => {
-    const { dir, speedKt } = parseWindGroup(input.value);
+    const parsed = parseWindGroup(input.value);
     const heading = runwayHeadingGetter();
-    if (dir == null || heading == null) {
+    if (parsed.headwindKt == null && (parsed.dir == null || heading == null)) {
       sub.textContent = " ";
       return;
     }
-    sub.textContent = formatWind(windComponents(dir, speedKt, heading));
+    sub.textContent = formatWind(resolveWindComponents(parsed, heading));
   };
   input.addEventListener("input", update);
   return update;
@@ -183,17 +183,13 @@ document.getElementById("to-calc").addEventListener("click", async () => {
   const rwyId = document.getElementById("to-runway").value;
   const runway = airport ? toAC.getRunway(airport, rwyId) : null;
 
-  const { dir: wdir, speedKt: wspd } = parseWindGroup(document.getElementById("to-wind").value);
+  const windParsed = parseWindGroup(document.getElementById("to-wind").value);
   const { valueC: oat } = parseTempInput(document.getElementById("to-oat").value);
   const { hPa: qnh } = parseQnhInput(document.getElementById("to-qnh").value);
   const { valueKg: weight } = parseWeightInput(document.getElementById("to-weight").value);
-  const flapSel = document.getElementById("to-flap").value;
-  // FCOM only publishes field/climb limit-weight charts for Flaps 5 on this
-  // airframe (see calc/takeoff.js) — a true optimum-flap comparison across
-  // 1/5/10/15/25 would need those charts for every setting, which don't
-  // exist in the dataset, so OPTIMUM resolves to the one setting we can
-  // actually compute a limit weight for.
-  const flap = flapSel === "OPTIMUM" ? "5" : flapSel;
+  // FLAP=OPTIMUM is resolved inside computeTakeoff (searches Flaps 5/10/15/25
+  // ascending for the lowest legal one) — passed straight through here.
+  const flap = document.getElementById("to-flap").value;
   const cg = parseFloat(document.getElementById("to-cg").value);
   const cond = parseInt(document.getElementById("to-cond").value, 10);
   const packs = document.getElementById("to-packs").value;
@@ -219,13 +215,13 @@ document.getElementById("to-calc").addEventListener("click", async () => {
 
   const pAlt = pressureAltitudeFt(airport.elevation_ft ?? 0, qnh);
   const dAlt = densityAltitudeFt(pAlt, oat);
-  const wind = windComponents(wdir, wspd, runway.heading_deg_true);
+  const wind = resolveWindComponents(windParsed, runway.heading_deg_true);
   const rangeWarnings = checkInputRanges({
     oatC: oat,
     cgPct: cg,
     qnhInHg: qnhToInHg(qnh),
-    windDir: wdir,
-    windSpeedKt: wspd,
+    windDir: windParsed.dir,
+    windSpeedKt: windParsed.speedKt,
     headwindKt: wind.headwindKt,
     crosswindKt: wind.crosswindKt,
     weightKg: weight,
@@ -271,12 +267,12 @@ document.getElementById("to-calc").addEventListener("click", async () => {
   setText("out-vref40", perf.vref40 != null ? `${perf.vref40} kt` : null);
 
   const ratingTag = { TO: "26K", "TO-1": "24K", "TO-2": "22K" }[perf.rating] ?? perf.rating ?? "";
-  document.getElementById("to-watermark").textContent = `${ratingTag} ${perf.selTemp != null ? `FLEX ${perf.selTemp}°C` : "FULL"}`.trim();
+  document.getElementById("to-watermark").textContent = `${ratingTag} ${perf.selTemp != null ? `ATM ${perf.selTemp}°C` : "FULL"}`.trim();
 
   lastToGraphic = {
     lengthFt: runway.length_ft,
-    windDir: wdir,
-    windSpeedKt: wspd,
+    windDir: windParsed.dir,
+    windSpeedKt: windParsed.speedKt,
     runwayHeadingTrue: runway.heading_deg_true,
   };
   if (!document.getElementById("to-graphic-toggle").checked) {
@@ -285,7 +281,7 @@ document.getElementById("to-calc").addEventListener("click", async () => {
     renderGraphic("to-rwy-graphic", lastToGraphic);
   }
 
-  const flapNote = flapSel === "OPTIMUM" ? "FLAP=OPTIMUM resolved to Flap 5 (only flap setting with a published field/climb limit-weight chart for this airframe)." : "";
+  const flapNote = flap === "OPTIMUM" ? `FLAP=OPTIMUM resolved to Flap ${perf.flap} (lowest flap setting legal at this weight).` : "";
   const windNote = isDispatch
     ? `Dispatch wind factoring applied (50% headwind / 150% tailwind credit): used ${usedHeadwindKt.toFixed(1)} kt vs reported ${(wind.headwindKt ?? 0).toFixed(1)} kt.`
     : "All Engine mode: using reported wind directly (no dispatch factoring).";
@@ -299,7 +295,7 @@ document.getElementById("ld-calc").addEventListener("click", async () => {
   const rwyId = document.getElementById("ld-runway").value;
   const runway = airport ? ldAC.getRunway(airport, rwyId) : null;
 
-  const { dir: wdir, speedKt: wspd } = parseWindGroup(document.getElementById("ld-wind").value);
+  const windParsed = parseWindGroup(document.getElementById("ld-wind").value);
   const { valueC: oat } = parseTempInput(document.getElementById("ld-oat").value);
   const { hPa: qnh } = parseQnhInput(document.getElementById("ld-qnh").value);
   const { valueKg: weight } = parseWeightInput(document.getElementById("ld-weight").value);
@@ -328,13 +324,13 @@ document.getElementById("ld-calc").addEventListener("click", async () => {
   }
 
   const pAlt = pressureAltitudeFt(airport.elevation_ft ?? 0, qnh);
-  const wind = windComponents(wdir, wspd, runway.heading_deg_true);
+  const wind = resolveWindComponents(windParsed, runway.heading_deg_true);
   const rangeWarnings = checkInputRanges({
     oatC: oat,
     cgPct: null,
     qnhInHg: qnhToInHg(qnh),
-    windDir: wdir,
-    windSpeedKt: wspd,
+    windDir: windParsed.dir,
+    windSpeedKt: windParsed.speedKt,
     headwindKt: wind.headwindKt,
     crosswindKt: wind.crosswindKt,
     weightKg: weight,
@@ -410,8 +406,8 @@ document.getElementById("ld-calc").addEventListener("click", async () => {
 
   lastLdGraphic = {
     lengthFt: runway.length_ft,
-    windDir: wdir,
-    windSpeedKt: wspd,
+    windDir: windParsed.dir,
+    windSpeedKt: windParsed.speedKt,
     runwayHeadingTrue: runway.heading_deg_true,
     markerFt: landingDistFt,
     markerLabel: landingDistFt != null ? `Stop ${Math.round(landingDistFt)} ft` : null,

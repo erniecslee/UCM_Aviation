@@ -24,6 +24,15 @@ body { margin: 0; background: var(--bg); color: var(--text); }
 .opt-panel { display: none; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px 18px; }
 .opt-panel.active { display: block; }
 
+.app-title {
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  color: var(--text);
+}
+.app-title-sep { color: var(--border); font-weight: 400; padding: 0 2px; }
+
 .opt-header { display: flex; align-items: center; justify-content: space-between; }
 .opt-header h1 {
   font-size: 0.8rem;
@@ -103,8 +112,6 @@ body { margin: 0; background: var(--bg); color: var(--text); }
 .ac-item .sub { color: var(--muted); font-size: 0.66rem; display: block; }
 
 .unit-tag { color: var(--muted); font-size: 0.7rem; font-weight: 600; padding: 0 4px; }
-
-.scope-note { font-size: 0.65rem; color: var(--muted); line-height: 1.5; margin: 6px 0 0; }
 
 .calc-btn {
   margin-top: 8px;

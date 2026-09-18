@@ -11,6 +11,7 @@
 
   <!-- ===================== TAKEOFF PANEL ===================== -->
   <section class="opt-panel active" id="panel-takeoff">
+    <p class="app-title">737 <span class="app-title-sep">|</span> Onboard Performance Tool</p>
     <header class="opt-header">
       <button class="icon-btn" aria-hidden="true">&#9776;</button>
       <h1>PERFORMANCE &mdash; TAKEOFF &mdash; <span id="to-mode-label">DISPATCH</span></h1>
@@ -47,7 +48,6 @@
         <label class="f-label f-label-2">FLAP</label>
         <select id="to-flap" class="pill-select">
           <option value="OPTIMUM" selected>OPTIMUM</option>
-          <option value="1">1</option>
           <option value="5">5</option>
           <option value="10">10</option>
           <option value="15">15</option>
@@ -110,8 +110,6 @@
         <input type="text" id="to-cg" class="pill-input" placeholder="20" />
       </div>
 
-      <p class="scope-note">Field/climb limit-weight charts are only published for Flap 5 (that's a real FCOM limitation for this airframe); other flap settings still get V-speeds. RTG OPTIMUM searches TO/TO-1/TO-2 for the lowest legal %N1 — TO-1/TO-2 have no published FCOM field/climb chart, so their runway-specific limit weight is estimated by scaling TO(26K)'s real chart by thrust ratio, and their flex temp uses that rating's published ceiling rather than a weight-specific solve. INTX/I-C are display-only — not wired into the calculation (no taxiway-intersection or Improved Climb data in the dataset).</p>
-
       <button id="to-calc" class="calc-btn">CALCULATE</button>
     </div>
 
@@ -145,12 +143,13 @@
       <label class="toggle-row"><input type="checkbox" id="to-graphic-toggle" /><span class="toggle-track"></span> Rwy Graphic</label>
       <div class="rwy-graphic" id="to-rwy-graphic" hidden></div>
 
-      <details class="hint-details"><summary>&#9432; Notes &amp; assumptions</summary><p class="hint" id="to-hint"></p></details>
+      <details class="hint-details"><summary>&#9432; Notes &amp; assumptions</summary><p class="hint" id="to-hint"></p><p class="hint">FLAP OPTIMUM and RTG OPTIMUM search Flaps 1/5/10/15/25 and TO/TO-1/TO-2 for the lowest legal setting. Only Flaps 5 / TO(26K) have a real FCOM field/climb chart — every other flap or thrust rating is an estimate scaled from that chart (V-speed ratios for flap, thrust ratio for rating), not an FCOM-published number. INTX/I-C are display-only — not wired into the calculation (no taxiway-intersection or Improved Climb data in the dataset).</p></details>
     </div>
   </section>
 
   <!-- ===================== LANDING PANEL ===================== -->
   <section class="opt-panel" id="panel-landing">
+    <p class="app-title">737 <span class="app-title-sep">|</span> Onboard Performance Tool</p>
     <header class="opt-header">
       <button class="icon-btn" aria-hidden="true">&#9776;</button>
       <h1>PERFORMANCE &mdash; LANDING &mdash; <span id="ld-mode-label">ENROUTE</span></h1>
@@ -272,8 +271,6 @@
         <input type="number" id="ld-vrefadd" class="pill-input" value="5" min="0" max="20" />
       </div>
 
-      <p class="scope-note">Landing distance is categorized by reported braking action (DRY/GOOD/MEDIUM/POOR); conditions below WET are mapped to the nearest category, not an exact contaminant-depth calculation. NNC pulls real FCOM/QRH non-normal-configuration landing distance data when set. GRAD/SPOIL are still display-only — not wired into the calculation.</p>
-
       <button id="ld-calc" class="calc-btn">CALCULATE</button>
     </div>
 
@@ -309,7 +306,7 @@
       <label class="toggle-row"><input type="checkbox" id="ld-graphic-toggle" /><span class="toggle-track"></span> Rwy Graphic</label>
       <div class="rwy-graphic" id="ld-rwy-graphic" hidden></div>
 
-      <details class="hint-details"><summary>&#9432; Notes &amp; assumptions</summary><p class="hint" id="ld-hint"></p></details>
+      <details class="hint-details"><summary>&#9432; Notes &amp; assumptions</summary><p class="hint" id="ld-hint"></p><p class="hint">Landing distance is categorized by reported braking action (DRY/GOOD/MEDIUM/POOR); conditions below WET are mapped to the nearest category, not an exact contaminant-depth calculation. NNC pulls real FCOM/QRH non-normal-configuration landing distance data when set. GRAD/SPOIL are still display-only — not wired into the calculation.</p></details>
     </div>
   </section>
 

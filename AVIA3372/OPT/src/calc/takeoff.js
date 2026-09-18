@@ -5,8 +5,9 @@
 //
 // Known, intentional scope limits (documented, not silently hidden):
 // - Field/climb limit weight charts only exist for Flaps 5 (that's what Boeing
-//   publishes for this airframe/engine combo) — other flap settings still get
-//   V-speeds, but limitWeightKg/limitingItem come back null with a note.
+//   publishes for this airframe/engine combo) — other flap settings get an
+//   *estimated* limit weight instead (see the FLAP/OPTIMUM comment block
+//   below), never a real FCOM-chart number.
 // - No tire-speed or brake-energy limit tables exist for this config in FCOM
 //   (Boeing omits them when they're never limiting) — never fabricated here.
 // - No obstacle survey data exists per-runway in the US airport dataset, so
@@ -108,6 +109,7 @@ function vspeedTriple(vspeedTable, flap, weightKg) {
   const rowHi = asc.data[hi];
   if (!rowLo || !rowHi) return null;
   const vec = rowLo.map((v, i) => (v == null || rowHi[i] == null ? v ?? rowHi[i] : v + (rowHi[i] - v) * frac));
+  if (vec.some((v) => v == null)) return null; // e.g. this flap/weight isn't certified/published for this rating
   return { v1: vec[0], vr: vec[1], v2: vec[2], clamped };
 }
 
@@ -265,11 +267,18 @@ function n1AtAssumedTemp(n1Data, assumedTempC, pAltFt, oatC, packs) {
   return n1;
 }
 
-function solveAssumedTemp({ n1Data, dataset, adjustments, altFt, fieldLengthM, oatC, isWet, packs, antiice, actualTOWkg }) {
+function solveAssumedTemp({ n1Data, dataset, adjustments, altFt, fieldLengthM, oatC, isWet, packs, antiice, actualTOWkg, fieldRatio = 1, climbRatio = 1 }) {
   const maxT = maxAssumedTemp(n1Data, oatC, altFt);
   if (maxT == null || maxT <= oatC) return { assumedTempC: null, mode: "FULL" };
 
-  const limitAt = (t) => limitWeightKgAtTemp(dataset, adjustments, altFt, fieldLengthM, t, isWet, packs, antiice).value;
+  const limitAt = (t) => {
+    const r = limitWeightKgAtTemp(dataset, adjustments, altFt, fieldLengthM, t, isWet, packs, antiice);
+    if (fieldRatio === 1 && climbRatio === 1) return r.value;
+    const sf = r.fieldTotal != null ? r.fieldTotal * fieldRatio : null;
+    const sc = r.climbTotal != null ? r.climbTotal * climbRatio : null;
+    const cands = [MAX_STRUCTURAL_TOW_KG, sf, sc].filter((v) => v != null);
+    return cands.length ? Math.min(...cands) : null;
+  };
 
   if (limitAt(maxT) >= actualTOWkg) {
     var solved = maxT;
@@ -313,7 +322,7 @@ function solveAssumedTemp({ n1Data, dataset, adjustments, altFt, fieldLengthM, o
 // with available thrust), not an FCOM-published number. That scaled
 // estimate is combined with the rating's own published V-speed table weight
 // range and structural MTOW, taking the most restrictive of the three. The
-// assumed-temperature (flex) search for TO-1/TO-2 similarly isn't a true
+// Assumed Temperature Method (ATM) search for TO-1/TO-2 similarly isn't a true
 // weight-specific bisection like TO's (no field/climb-vs-temperature curve
 // exists for the derates) — it uses that rating's own published
 // maximum-assumed-temperature ceiling whenever the (scaled-estimate) weight
@@ -323,24 +332,112 @@ function solveAssumedTemp({ n1Data, dataset, adjustments, altFt, fieldLengthM, o
 const RATING_LABELS = { TO: "TO (26K)", "TO-1": "TO-1 (24K)", "TO-2": "TO-2 (22K)" };
 const DERATE_THRUST_RATIO = { "TO-1": 24000 / 26000, "TO-2": 22000 / 26000 };
 
+// --- Flap selection: OPTIMUM / 1 / 5 / 10 / 15 / 25 ---
+// Same root cause as the RTG/derate gap above, confirmed against the same
+// two FCOMs: the published Field & Climb Limit Weight chart exists for
+// Flaps 5 only — no separate chart for 1/10/15/25. The real OPT computes
+// every flap's limit weight from Boeing's internal aero database; that data
+// isn't in any FCOM available to this tool. Instead, a non-5 flap's
+// field-limited and climb-limited weight is *estimated* by scaling the real
+// Flap 5 numbers using the ratio of that flap's own published VR/V2 to
+// Flap 5's VR/V2 at the same weight, squared — field length for a given
+// weight scales roughly with V^2 (kinematics), and V2/climb margin move
+// together closely enough to use the same proxy for the climb side. This is
+// a rough performance-engineering approximation, not an FCOM number, always
+// surfaced via warnings. Higher flap gives a lower VR/V2 (more lift at lower
+// speed) so the ratio is >1, correctly estimating a *higher* field-limited
+// weight — i.e. more weight allowed on a short runway at higher flap, which
+// is the real, physical effect this feature exists to let students observe.
+// FLAP OPTIMUM searches ascending (5, 10, 15, 25) and picks the lowest flap
+// that's legal at the actual weight, matching real practice of using the
+// lowest flap that still works (better climb/less drag/quieter) unless a
+// short runway forces a higher one. Flap 1 is excluded — though the FCOM
+// publishes V-speed data for it, it isn't a flap setting actually used for
+// takeoff in practice (confirmed by the instructor), so it's left out of
+// both this search and the manual FLAP selector rather than offering a
+// technically-computable but operationally-wrong option.
+const FLAP_ORDER = ["5", "10", "15", "25"];
+
+function flapFieldClimbRatios(vspeedTable, weightKg, flap) {
+  if (flap === "5") return { fieldRatio: 1, climbRatio: 1 };
+  const t5 = vspeedTriple(vspeedTable, "5", weightKg);
+  const tF = vspeedTriple(vspeedTable, flap, weightKg);
+  if (!t5 || !tF || !t5.vr || !t5.v2 || !tF.vr || !tF.v2) return { fieldRatio: null, climbRatio: null };
+  return {
+    fieldRatio: (t5.vr / tF.vr) ** 2,
+    climbRatio: (t5.v2 / tF.v2) ** 2,
+  };
+}
+
+// The row-axis's nominal max weight isn't always usable — some flap/rating
+// combos (e.g. TO-1 at Flap 10) publish null V1/VR/V2 cells for their
+// heaviest rows, because that combination genuinely isn't certified that
+// heavy. Scan for the highest weight whose V1/VR/V2 are all actually
+// published, not just the row axis's printed extent.
 function vspeedTableMaxWeightKg(vspeedTable, flap) {
   const key = `flaps_${flap}`;
   const table = vspeedTable?.max_takeoff_thrust_v1_vr_v2?.by_flap?.[key];
   if (!table || !table.row_axis?.values?.length) return null;
-  return Math.max(...table.row_axis.values) * 1000;
+  let maxUsableKg = null;
+  table.row_axis.values.forEach((w1000, i) => {
+    const row = table.data[i];
+    if (row && row.every((v) => v != null) && (maxUsableKg == null || w1000 > maxUsableKg)) {
+      maxUsableKg = w1000;
+    }
+  });
+  return maxUsableKg != null ? maxUsableKg * 1000 : null;
 }
 
-function evaluateToRating({ n1Data, dataset, adjustments, altFt, fieldLengthM, oatC, isWet, packs, antiice, weightKg, atmPolicy }) {
+function evaluateToRating({ n1Data, dataset, adjustments, altFt, fieldLengthM, oatC, isWet, packs, antiice, weightKg, atmPolicy, flap, vspeedTable }) {
   const lim = limitWeightKgAtTemp(dataset, adjustments, altFt, fieldLengthM, oatC, isWet, packs, antiice);
-  const limitWeightKg = lim.value != null ? Math.round(lim.value) : null;
+  const { fieldRatio, climbRatio } = flapFieldClimbRatios(vspeedTable, weightKg, flap);
   const warnings = [];
+  let limitWeightKg;
+  let limitingItem;
+
+  if (flap === "5") {
+    limitWeightKg = lim.value != null ? Math.round(lim.value) : null;
+    limitingItem = lim.limitingItem;
+  } else if (fieldRatio != null) {
+    const scaledField = lim.fieldTotal != null ? lim.fieldTotal * fieldRatio : null;
+    const scaledClimb = lim.climbTotal != null ? lim.climbTotal * climbRatio : null;
+    const candidates = [
+      { v: MAX_STRUCTURAL_TOW_KG, label: "Structural MTOW" },
+      { v: scaledField, label: `Field length (Flap ${flap} V-speed-scaled estimate — no FCOM Flap ${flap} chart)` },
+      { v: scaledClimb, label: `Climb, 2nd segment (Flap ${flap} V-speed-scaled estimate — no FCOM Flap ${flap} chart)` },
+    ].filter((c) => c.v != null);
+    const best = candidates.length ? candidates.reduce((a, b) => (b.v < a.v ? b : a)) : null;
+    limitWeightKg = best ? Math.round(best.v) : null;
+    limitingItem = best?.label ?? null;
+    warnings.push(
+      `No FCOM field/climb-limit-weight chart is published for Flap ${flap} — limit weight is estimated by scaling the Flap 5 chart using each flap's own published V-speeds as a proxy for the field-length/climb-margin change (a rough performance-engineering approximation, not an FCOM number).`
+    );
+  } else {
+    limitWeightKg = null;
+    limitingItem = null;
+    warnings.push(`No V-speed data available to estimate a Flap ${flap} limit weight at this weight.`);
+  }
+
   let selTemp = null;
   let n1Pct = null;
 
   const assumed =
     atmPolicy === "MAX"
       ? { assumedTempC: null, mode: "FULL" }
-      : solveAssumedTemp({ n1Data, dataset, adjustments, altFt, fieldLengthM, oatC, isWet, packs, antiice, actualTOWkg: weightKg });
+      : solveAssumedTemp({
+          n1Data,
+          dataset,
+          adjustments,
+          altFt,
+          fieldLengthM,
+          oatC,
+          isWet,
+          packs,
+          antiice,
+          actualTOWkg: weightKg,
+          fieldRatio: fieldRatio ?? 1,
+          climbRatio: climbRatio ?? 1,
+        });
 
   if (assumed.mode === "OVERWEIGHT") {
     warnings.push("Actual TOW exceeds the field/climb limit weight even at full rated thrust and actual OAT.");
@@ -355,7 +452,7 @@ function evaluateToRating({ n1Data, dataset, adjustments, altFt, fieldLengthM, o
 
   return {
     limitWeightKg,
-    limitingItem: lim.limitingItem,
+    limitingItem,
     selTemp,
     n1Pct,
     legal: limitWeightKg != null && weightKg <= limitWeightKg,
@@ -366,21 +463,22 @@ function evaluateToRating({ n1Data, dataset, adjustments, altFt, fieldLengthM, o
 function evaluateDerateRating({ n1Data, vspeedTable, altFt, oatC, packs, weightKg, flap, atmPolicy, ratingKey, toFieldTotalKg, toClimbTotalKg }) {
   const envelopeKg = vspeedTableMaxWeightKg(vspeedTable, flap);
   const ratio = DERATE_THRUST_RATIO[ratingKey];
-  const scaledFieldKg = toFieldTotalKg != null ? toFieldTotalKg * ratio : null;
-  const scaledClimbKg = toClimbTotalKg != null ? toClimbTotalKg * ratio : null;
+  const { fieldRatio, climbRatio } = flapFieldClimbRatios(vspeedTable, weightKg, flap);
+  const scaledFieldKg = toFieldTotalKg != null && fieldRatio != null ? toFieldTotalKg * ratio * fieldRatio : null;
+  const scaledClimbKg = toClimbTotalKg != null && climbRatio != null ? toClimbTotalKg * ratio * climbRatio : null;
 
   const candidates = [
     { v: MAX_STRUCTURAL_TOW_KG, label: "Structural MTOW" },
     { v: envelopeKg, label: "Published V-speed weight range (envelope cap)" },
-    { v: scaledFieldKg, label: "Field length (thrust-ratio estimate — no FCOM derate chart)" },
-    { v: scaledClimbKg, label: "Climb, 2nd segment (thrust-ratio estimate — no FCOM derate chart)" },
+    { v: scaledFieldKg, label: "Field length (thrust-ratio & flap-scaled estimate — no FCOM derate chart)" },
+    { v: scaledClimbKg, label: "Climb, 2nd segment (thrust-ratio & flap-scaled estimate — no FCOM derate chart)" },
   ].filter((c) => c.v != null);
   const best = candidates.length ? candidates.reduce((a, b) => (b.v < a.v ? b : a)) : null;
   const limitWeightKg = best ? Math.round(best.v) : null;
   const legal = limitWeightKg != null && weightKg <= limitWeightKg;
 
   const warnings = [
-    "No FCOM field/climb-limit-weight chart is published for this derate — limit weight is estimated by scaling TO(26K)'s real, runway-specific field/climb chart down by the rating's thrust ratio (a rough performance-engineering approximation, not an FCOM number), and the assumed-temperature (flex) shown uses this rating's own published maximum-assumed-temperature ceiling rather than a weight-specific solve (see code comment above evaluateDerateRating).",
+    "No FCOM field/climb-limit-weight chart is published for this derate — limit weight is estimated by scaling TO(26K)'s real, runway-specific field/climb chart down by the rating's thrust ratio (and, for a non-Flap-5 setting, further by a V-speed-based flap ratio) — a rough performance-engineering approximation, not an FCOM number. The Assumed Temperature Method (ATM) shown uses this rating's own published maximum-assumed-temperature ceiling rather than a weight-specific solve (see code comment above evaluateDerateRating).",
   ];
   if (limitWeightKg != null && weightKg > limitWeightKg) {
     warnings.push(`Actual TOW exceeds the estimated limit weight for this rating (max ${limitWeightKg} kg).`);
@@ -409,7 +507,8 @@ function evaluateDerateRating({ n1Data, vspeedTable, altFt, oatC, packs, weightK
 }
 
 export async function computeTakeoff(data, inputs) {
-  const { runway, oatC, pAltFt, weightKg, flap, cond, packs, antiice, headwindKt, cgPct, atm, rev, rtg } = inputs;
+  const { runway, oatC, pAltFt, weightKg, cond, packs, antiice, headwindKt, cgPct, atm, rev, rtg } = inputs;
+  let flap = inputs.flap;
   const isWet = cond === 5;
   const isContaminated = cond < 5;
   const dataset = isWet ? data.fieldClimbWet : data.fieldClimbDry;
@@ -441,6 +540,10 @@ export async function computeTakeoff(data, inputs) {
     if (rtg && rtg !== "TO" && rtg !== "OPTIMUM") {
       out.warnings.push("Contaminated-runway performance is only modeled at full rated (TO/26K) thrust — RTG forced to TO.");
     }
+    if (flap === "OPTIMUM") {
+      flap = "5"; // no contaminated-runway data exists to scale by flap either — same forced-default pattern as RTG above
+      out.flap = flap;
+    }
     if (flap !== "5") {
       out.warnings.push("Contaminated-runway data is indexed from the Flaps 5 dry field/obstacle limit weight — select Flaps 5 to see a limit weight.");
     } else {
@@ -464,7 +567,7 @@ export async function computeTakeoff(data, inputs) {
         out.limitingItem = contam.limitingItem;
         out.overweight = contam.limitWeightKg != null && weightKg > contam.limitWeightKg;
         out.warnings.push(
-          `Contaminated runway mapped to FCOM scenario "${scenario.label}" (teaching approximation, not a measured contaminant depth). Assumed-temp flex is not computed for contaminated runways — full rated thrust only.`
+          `Contaminated runway mapped to FCOM scenario "${scenario.label}" (teaching approximation, not a measured contaminant depth). The Assumed Temperature Method (ATM) is not computed for contaminated runways — full rated thrust only.`
         );
         out.n1Pct = n1Full(data.n1AssumedTemp, oatC, pAltFt, packs);
         if (out.n1Pct != null) out.n1Pct = Math.round(out.n1Pct * 10) / 10;
@@ -473,8 +576,8 @@ export async function computeTakeoff(data, inputs) {
   } else {
     const correctedM = correctedFieldLengthM(data.adjustments, rawFieldLengthM, slopePct, headwindKt, isWet);
     // Independent of `flap` — the FCOM field/climb chart is inherently a
-    // Flaps-5 chart, so this is available to scale the derates from even
-    // when the user has picked a different flap for TO's own display.
+    // Flaps-5 chart, so this is available to scale both the derates and
+    // non-5 flaps from, regardless of what's actually selected/tried below.
     const toLim = limitWeightKgAtTemp(dataset, data.adjustments, pAltFt, correctedM, oatC, isWet, packs, antiice);
 
     const ratingInputs = {
@@ -483,19 +586,9 @@ export async function computeTakeoff(data, inputs) {
       "TO-2": { vspeedTable: isWet ? data.vspeedsTo2Wet : data.vspeedsTo2Dry, n1Data: data.n1To2 },
     };
 
-    const evalRating = (key) => {
+    const evalRating = (key, forFlap) => {
       const ri = ratingInputs[key];
       if (key === "TO") {
-        if (flap !== "5") {
-          return {
-            limitWeightKg: null,
-            limitingItem: null,
-            selTemp: null,
-            n1Pct: null,
-            legal: false,
-            warnings: ["Field/climb limit weight charts are only published for Flaps 5 — select Flaps 5 to see a limit weight."],
-          };
-        }
         return evaluateToRating({
           n1Data: ri.n1Data,
           dataset,
@@ -508,6 +601,8 @@ export async function computeTakeoff(data, inputs) {
           antiice,
           weightKg,
           atmPolicy: atm,
+          flap: forFlap,
+          vspeedTable: ri.vspeedTable,
         });
       }
       return evaluateDerateRating({
@@ -517,7 +612,7 @@ export async function computeTakeoff(data, inputs) {
         oatC,
         packs,
         weightKg,
-        flap,
+        flap: forFlap,
         atmPolicy: atm,
         ratingKey: key,
         toFieldTotalKg: toLim.fieldTotal,
@@ -526,21 +621,45 @@ export async function computeTakeoff(data, inputs) {
     };
 
     const requestedRtg = rtg || "TO";
+    // Resolves RTG (fixed or OPTIMUM-searched across TO/TO-1/TO-2) for one
+    // specific flap setting — reused both for a fixed flap and, below, once
+    // per candidate in the FLAP OPTIMUM search, so the two OPTIMUM axes
+    // (RTG, FLAP) compose without duplicating the rating-search logic.
+    const resolveForFlap = (forFlap) => {
+      let chosenKey;
+      let chosen;
+      if (requestedRtg === "OPTIMUM") {
+        const results = ["TO-2", "TO-1", "TO"].map((key) => ({ key, res: evalRating(key, forFlap) }));
+        const legalOnes = results.filter((r) => r.res.legal && r.res.n1Pct != null);
+        const pick = legalOnes.length
+          ? legalOnes.reduce((best, r) => (r.res.n1Pct < best.res.n1Pct ? r : best))
+          : results.find((r) => r.key === "TO");
+        chosenKey = pick.key;
+        chosen = pick.res;
+      } else {
+        chosenKey = requestedRtg;
+        chosen = evalRating(chosenKey, forFlap);
+      }
+      return { chosenKey, chosen };
+    };
+
+    let resolvedFlap;
     let chosenKey;
     let chosen;
-    if (requestedRtg === "OPTIMUM") {
-      const results = ["TO-2", "TO-1", "TO"].map((key) => ({ key, res: evalRating(key) }));
-      const legalOnes = results.filter((r) => r.res.legal && r.res.n1Pct != null);
-      const pick = legalOnes.length
-        ? legalOnes.reduce((best, r) => (r.res.n1Pct < best.res.n1Pct ? r : best))
-        : results.find((r) => r.key === "TO");
-      chosenKey = pick.key;
-      chosen = pick.res;
+    if (flap === "OPTIMUM") {
+      const attempts = FLAP_ORDER.map((f) => ({ flap: f, ...resolveForFlap(f) }));
+      const legalOnes = attempts.filter((a) => a.chosen.legal);
+      const pick = legalOnes.length ? legalOnes[0] : attempts[attempts.length - 1];
+      resolvedFlap = pick.flap;
+      chosenKey = pick.chosenKey;
+      chosen = pick.chosen;
     } else {
-      chosenKey = requestedRtg;
-      chosen = evalRating(chosenKey);
+      resolvedFlap = flap;
+      ({ chosenKey, chosen } = resolveForFlap(flap));
     }
 
+    flap = resolvedFlap;
+    out.flap = resolvedFlap;
     out.rating = chosenKey;
     out.ratingLabel = RATING_LABELS[chosenKey];
     out.limitWeightKg = chosen.limitWeightKg;

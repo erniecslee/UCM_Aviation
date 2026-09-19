@@ -19,9 +19,11 @@ aircraft.innerHTML = '<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3
 aircraft.setAttribute('aria-label', 'Drag airplane to choose a chart location');
 flightWorld.appendChild(aircraft);
 
-const flightState = { mode: 'explore', x: 2649, y: 2036, altitude: 2500,
+const skyhavenStart = mapOld(2650, 2025);
+const flightState = { mode: 'explore', x: skyhavenStart.x, y: skyhavenStart.y, altitude: 2500,
   time: 'day', ground: null, data: null, request: 0, timer: null, moving: false };
 const terrainCache = new Map();
+window.updateAircraftScale = () => { aircraft.style.transform = `translate(-50%,-50%) scale(${1/scale})`; };
 
 function showMode(mode) {
   flightState.mode = mode;
@@ -36,7 +38,18 @@ function showMode(mode) {
     button.setAttribute('aria-selected', String(value === mode));
   }
   if (mode === 'flight') {
-    positionAircraft();
+    requestAnimationFrame(() => {
+      layoutWorld();
+      scale = Math.max(scale, 4);
+      const visibleCenter = window.innerWidth > 850
+        ? Math.max(flightShell.clientWidth * .29, (flightShell.clientWidth - 370) / 2)
+        : flightShell.clientWidth * .5;
+      dx = visibleCenter - flightShell.clientWidth / 2
+        + (.5 - flightState.x / CHART_W) * flightWorld.clientWidth * scale;
+      dy = (.5 - flightState.y / CHART_H) * flightWorld.clientHeight * scale;
+      move();
+      positionAircraft();
+    });
     loadAirspace();
     updateFlight();
   }
@@ -49,14 +62,15 @@ railExploreButton.onclick = () => showMode('explore');
 railQuizButton.onclick = () => showMode('quiz');
 
 function positionAircraft() {
-  aircraft.style.left = (flightState.x / 3550 * 100) + '%';
-  aircraft.style.top = (flightState.y / 2900 * 100) + '%';
+  aircraft.style.left = (flightState.x / CHART_W * 100) + '%';
+  aircraft.style.top = (flightState.y / CHART_H * 100) + '%';
+  window.updateAircraftScale();
 }
 function pointerToChart(event) {
   const rect = flightWorld.getBoundingClientRect();
   return {
-    x: Math.max(0, Math.min(3550, (event.clientX - rect.left) / rect.width * 3550)),
-    y: Math.max(0, Math.min(2900, (event.clientY - rect.top) / rect.height * 2900))
+    x: Math.max(0, Math.min(CHART_W, (event.clientX - rect.left) / rect.width * CHART_W)),
+    y: Math.max(0, Math.min(CHART_H, (event.clientY - rect.top) / rect.height * CHART_H))
   };
 }
 function moveAircraft(event) {
@@ -118,7 +132,7 @@ nightButton.onclick = () => setTime('night');
 async function loadAirspace() {
   if (flightState.data) return;
   try {
-    const response = await fetch('airspace.json');
+    const response = await fetch('airspace.json?v=8');
     if (!response.ok) throw new Error('FAA airspace data unavailable');
     flightState.data = await response.json();
     updateFlight();
@@ -128,6 +142,7 @@ async function loadAirspace() {
 }
 
 function chartToLatLon(x, y) {
+  ({x,y}=oldFromMap(x,y));
   const rad = Math.PI / 180;
   const phi1 = 38.66666666666666 * rad, phi2 = 33.33333333333334 * rad;
   const phi0 = 38.16666666666666 * rad, lon0 = -93.43333333333334 * rad;

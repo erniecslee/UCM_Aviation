@@ -2,7 +2,7 @@
 // for named airports and NAVAIDs were checked against FAA NASR 2026-09-03.
 const legendExamples = [
   {id:'classbline',name:'Solid blue line · Class B',code:'Kansas City boundary',category:'AIRSPACE',px:523,py:84,w:105,h:32,page:26,priority:true,
-    desc:'The heavy solid blue line is a Class B lateral boundary. The nearby blue sector numbers give the floor and ceiling for that part of Class B.',tip:'First find the line, then read the altitude pair in the sector you are actually over. A blue line alone does not give the vertical limits.',question:'Which altitude label applies on your side of the line?'},
+    desc:'The heavy solid blue line is a Class B lateral boundary. Class B is individually tailored, generally from the surface to 10,000 ft MSL; the nearby blue number pair gives the exact MSL ceiling and floor for this sector.',tip:'First find the line, then read the altitude pair in the sector you are actually over. For example, 80/24 means 8,000 ft ceiling and 2,400 ft floor MSL; another sector can be different.',question:'Which altitude label applies on your side of the line?'},
   {id:'airway',name:'Blue airway line',code:'V502',category:'AIRWAYS',px:1330,py:435,w:120,h:42,page:28,
     desc:'The blue line labeled V502 is a low-altitude Federal airway. The route designator identifies an airway based on navigation aids.',tip:'An airway line is a route depiction, not a Class B or Class D boundary.',question:'Which label names this airway?'},
   {id:'abandoned',name:'Circle with an X · abandoned airport',code:'Near Hillside',category:'AIRPORT',px:1108,py:1845,w:58,h:58,page:23,priority:true,
@@ -19,11 +19,11 @@ const legendExamples = [
     desc:'A dashed blue boundary outlines Class D airspace around Whiteman AFB. The boundary gives the lateral limit; use the nearby ceiling value for the vertical limit.',tip:'Follow the complete dashed line before judging whether a point is inside.',question:'Does crossing the line alone tell you the airspace ceiling?'},
   {id:'classdceil',name:'Class D ceiling label',code:'34 · Whiteman',category:'AIRSPACE',px:3333,py:2195,w:76,h:72,page:27,
     desc:'The blue “34” is the Class D ceiling in hundreds of feet MSL: 3,400 ft MSL. The dashed blue boundary identifies the associated area.',tip:'FAA Class D ceiling numbers omit the last two zeros. A minus sign would mean “to but not including” the stated altitude.',question:'What altitude does 34 represent?'},
-  {id:'classevignette',name:'Class E transition area',code:'Magenta vignette · 700 AGL',category:'AIRSPACE',px:2500,py:1815,w:95,h:34,page:27,
+  {id:'classevignette',name:'Class E transition area',code:'Magenta vignette · 700 AGL',category:'AIRSPACE',px:2500,py:1815,w:95,h:34,page:27,shape:'leader',leaderAngle:-150,leaderLen:46,
     desc:'The feathered magenta band marks a change in the floor of Class E airspace. On the shaded side, the common floor is 700 ft AGL.',tip:'The vignette is a lateral boundary of an airspace floor, not an airport or a cloud symbol.',question:'Which side of the feathered band has the 700 ft AGL Class E floor?'},
-  {id:'modec',name:'Mode C / ADS-B Out ring',code:'30 NM boundary',category:'AIRSPACE',px:1950,py:1470,w:70,h:220,page:30,
+  {id:'modec',name:'Mode C / ADS-B Out ring',code:'30 NM boundary',category:'AIRSPACE',px:1950,py:1470,w:70,h:220,page:30,shape:'leader',leaderAngle:-35,leaderLen:48,
     desc:'This labeled magenta line depicts the 30 NM Mode C and ADS-B Out requirement area associated with Kansas City Class B.',tip:'It is an equipment requirement boundary, not the Class B lateral boundary itself.',question:'Can this ring extend outside Class B airspace?'},
-  {id:'tac',name:'Terminal Area Chart boundary',code:'TAC',category:'CHART REFERENCE',px:2017,py:1050,w:60,h:132,page:34,
+  {id:'tac',name:'Terminal Area Chart boundary',code:'TAC · exact blue chart-limit line',category:'CHART REFERENCE',px:2017,py:1050,w:24,h:180,page:34,shape:'leader',leaderAngle:-45,leaderLen:74,
     desc:'The TAC boundary marks the area covered by a more detailed Terminal Area Chart. Use that chart for finer local detail.',tip:'A TAC boundary indicates chart coverage; it does not by itself define airspace.',question:'What source gives more detail inside this boundary?'},
   {id:'mef',name:'Maximum Elevation Figure',code:'22 · 2,200 ft MSL',category:'TERRAIN & OBSTRUCTIONS',px:1650,py:1047,w:76,h:82,page:33,
     desc:'The large blue 22 is a Maximum Elevation Figure for this quadrangle: 2,200 ft MSL after FAA rounding and allowance rules.',tip:'A MEF is a terrain/obstruction reference for the quadrangle. It is not an airspace floor or a safe cruising altitude by itself.',question:'Does 22 mean 2,200 ft AGL or MSL?'},
@@ -31,32 +31,83 @@ const legendExamples = [
     desc:'The blue obstacle symbol identifies a charted obstruction. The larger figure is its top elevation in feet MSL; the parenthesized figure is its height in feet AGL.',tip:'Compare the obstruction with nearby terrain and your planned route and altitude.',question:'Which number gives height above ground?'},
   {id:'groupobstruction',name:'Grouped obstructions',code:'Near Weston',category:'TERRAIN & OBSTRUCTIONS',px:257,py:275,w:72,h:55,page:33,
     desc:'The multiple blue obstruction points identify a group of nearby obstructions. Its adjacent elevation data refer to the charted group.',tip:'The FAA legend uses multiple peaks for a group and a single peak for one obstruction.',question:'How can you distinguish one obstruction from a group?'},
-  {id:'awos',name:'Airport weather broadcast',code:'AWOS-3PT · 119.575',category:'AIRPORT DATA',px:2500,py:1893,w:300,h:35,page:24,
+  {id:'awos',name:'Airport weather broadcast',code:'AWOS-3PT · 119.575',category:'AIRPORT DATA',px:2630,py:1891,w:235,h:31,page:24,shape:'leader',leaderAngle:205,leaderLen:46,
     desc:'AWOS-3PT is an automated airport weather reporting system. The frequency shown beside it is the charted broadcast frequency.',tip:'This weather frequency is not the same as the traffic advisory frequency.',question:'Where would you look for local automated weather?'},
-  {id:'ctaf',name:'CTAF frequency',code:'123.0 · Skyhaven',category:'AIRPORT DATA',px:2622,py:1954,w:92,h:34,page:24,
+  {id:'ctaf',name:'CTAF frequency',code:'123.0 · Skyhaven',category:'AIRPORT DATA',px:2700,py:1921,w:118,h:32,page:24,shape:'leader',leaderAngle:22,leaderLen:42,
     desc:'The circled C identifies the Common Traffic Advisory Frequency listed in Skyhaven’s airport data. Pilots use the charted frequency for traffic advisories.',tip:'Confirm the current frequency in current FAA publications before a real flight.',question:'Which frequency in this data group is the CTAF?'},
-  {id:'elevation',name:'Airport elevation',code:'798 ft · Skyhaven',category:'AIRPORT DATA',px:2404,py:1954,w:70,h:34,page:24,
+  {id:'elevation',name:'Airport elevation',code:'798 ft · Skyhaven',category:'AIRPORT DATA',px:2551,py:1921,w:61,h:32,page:24,shape:'leader',leaderAngle:155,leaderLen:44,
     desc:'The 798 figure in Skyhaven’s airport data is the published airport elevation in feet MSL.',tip:'Do not confuse airport elevation with a nearby obstruction top or airspace ceiling.',question:'What vertical reference is used for airport elevation?'},
-  {id:'rightpattern',name:'Right traffic pattern note',code:'RP 14, 19',category:'AIRPORT DATA',px:2430,py:1984,w:155,h:30,page:24,
+  {id:'rightpattern',name:'Right traffic pattern note',code:'RP 14, 19',category:'AIRPORT DATA',px:2637,py:1951,w:142,h:31,page:24,shape:'leader',leaderAngle:48,leaderLen:48,
     desc:'“RP 14, 19” means right traffic is specified for runways 14 and 19. Other runways are not covered by this note.',tip:'The runway numbers following RP identify exactly which traffic patterns use right turns.',question:'Which runways use right traffic here?'},
-  {id:'runwaylength',name:'Longest runway length',code:'42 · Skyhaven',category:'AIRPORT DATA',px:2483,py:1954,w:54,h:34,page:24,
+  {id:'runwaylength',name:'Longest runway length',code:'42 · Skyhaven',category:'AIRPORT DATA',px:2612,py:1921,w:45,h:32,page:24,shape:'leader',leaderAngle:112,leaderLen:42,
     desc:'The charted 42 states the longest runway length in hundreds of feet: about 4,200 ft. Usable length can be less.',tip:'Runway length in airport data is a separate item from airport elevation.',question:'How many feet does 42 represent?'},
   {id:'citytint',name:'Populated place tint',code:'Kansas City',category:'CULTURE',px:1450,py:1450,w:100,h:70,page:35,
     desc:'Yellow tint marks a populated place on the sectional. It helps with visual orientation but is not an airspace boundary.',tip:'Check the nearby airspace lines separately from the city shading.',question:'Does yellow city tint define controlled airspace?'},
   {id:'ultralight',name:'Ultralight flight park symbol',code:'Flying M Ranch · (Pvt)',category:'AIRPORT',px:379,py:1054,w:50,h:50,page:35,
     desc:'The magenta circled F identifies a selected ultralight flight park. Flying M Ranch is also labeled private-use.',tip:'The F symbol identifies the activity type; the nearby (Pvt) notation identifies access.',question:'What does the F tell you about this location?'},
-  {id:'glider',name:'Glider activity symbol',code:'Near Skyhaven',category:'MISCELLANEOUS',px:2738,py:1966,w:76,h:70,page:35,
+  {id:'glider',name:'Glider activity symbol',code:'Near Skyhaven',category:'MISCELLANEOUS',px:2747,py:1973,w:73,h:67,page:35,shape:'leader',leaderAngle:18,leaderLen:44,
     desc:'The magenta diamond with a G marks a charted glider operations area near Skyhaven.',tip:'This symbol alerts you to possible glider activity; read the surrounding chart and current information before a flight.',question:'What kind of activity does the G identify?'}
 ];
 for (const item of legendExamples) {
   const cropX=Math.max(0,Math.min(3230,Math.round(item.px-120)));
   const cropY=Math.max(0,Math.min(2788,Math.round(item.py-55)));
   const f={id:item.id,name:item.name,code:item.code,category:item.category,
-    x:item.px/35.5,y:item.py/29,markW:item.w,markH:item.h,cropX,cropY,sourcePage:item.page,
+    x:item.px/35.5,y:item.py/29,markW:item.w,markH:item.h,cropX,cropY,sourcePage:item.page,shape:item.shape,leaderAngle:item.leaderAngle,leaderLen:item.leaderLen,
     desc:item.desc,tip:item.tip,question:item.question,
     steps:['Find the exact chart symbol or marking','Read the adjacent data or boundary','Use the FAA legend to check its meaning'],extra:!item.priority};
-  features.push(f);
+  prepareFeature(f,item.px,item.py);features.push(f);
   addHotspot(f);
+}
+const fullChartExamples=[
+  {id:'classc',name:'Class C ceiling / floor label',code:'Springfield–Branson · 53 / SFC',category:'AIRSPACE',px:4655,py:4800,w:82,h:90,page:26,
+    desc:'The magenta Class C label and solid magenta boundary identify the nearest Class C example on this sectional. The magenta number pair gives the actual ceiling over floor for that Class C sector in hundreds of feet MSL. At Springfield–Branson, 53/SFC means a 5,300 ft MSL ceiling over a surface-area sector.',tip:'Read each magenta pair as ceiling over floor in hundreds of feet MSL. SFC means the surface, and a neighboring shelf can have a different floor.',question:'What ceiling and floor apply in this highlighted Class C sector?'},
+  {id:'moa',name:'Military Operations Area',code:'Truman B MOA · near Skyhaven',category:'SPECIAL USE AIRSPACE',px:4852,py:2885,w:190,h:66,page:30,
+    desc:'Truman B MOA, southeast of Skyhaven, identifies a Military Operations Area. The charted name identifies the area; the special-use airspace table gives its vertical limits and operating information.',tip:'An MOA label is not an airport symbol. Look up its published times and altitude limits before interpreting a route through it.',question:'Where would you find the MOA’s active times and altitude limits?'},
+  {id:'heliport',name:'Selected heliport',code:'Near Bartlesville',category:'AIRPORT',px:1405,py:5502,w:48,h:48,page:23,
+    desc:'The circled H identifies a selected heliport near Bartlesville. Its yellow city tint is background geographic information, separate from the heliport symbol.',tip:'The H symbol marks a heliport; do not confuse it with a conventional airport runway symbol.',question:'What type of landing facility does the circled H show?'},
+  {id:'opendot',name:'Open dot in runway symbol',code:'Kansas City Intl · MCI',category:'AIRPORT',px:3004,py:1538,w:20,h:20,page:23,shape:'arrow',
+    desc:'The open dot inside a hard-surfaced runway pattern gives the approximate position of a VOR, VOR-DME, DME, or VORTAC. At MCI it identifies the colocated Kansas City VORTAC position.',tip:'The dot marks the navigation aid location; the larger blue shape shows the airport runways.',question:'Which part of this blue airport symbol is the navigation aid location?'},
+  {id:'seaplane',name:'Seaplane base',code:'Grand Glaize–Osage Beach · K15',category:'AIRPORT',px:5442,py:3380,w:45,h:45,page:23,
+    desc:'The magenta anchor inside a circle marks a seaplane base at Grand Glaize–Osage Beach. This is a water landing facility, separate from nearby conventional airports.',tip:'This is the nearest clearly charted seaplane-base example found in the teaching chart; it lies southeast of Kansas City.',question:'What type of landing facility does the anchor show?'},
+  {id:'fuelticks',name:'Fuel availability ticks',code:'Miami County · K81',category:'AIRPORT',px:2716,py:2729,w:18,h:18,page:23,shape:'arrow',
+    desc:'The short ticks projecting from the Miami County airport symbol indicate charted fuel availability. They surround the basic airport symbol, not the adjacent frequency or obstacle.',tip:'The ticks do not promise fuel at every hour. Check the Chart Supplement for current service details and hours.',question:'Which short marks around the airport symbol indicate fuel availability?'},
+  {id:'beacon',name:'Rotating airport beacon',code:'Lawrence Smith Memorial · LRY',category:'AIRPORT',px:3448,py:2599,w:22,h:22,page:23,shape:'arrow',
+    desc:'The star above the Lawrence Smith Memorial airport symbol denotes a rotating airport beacon charted as operating from sunset to sunrise.',tip:'Follow the pointer to the star itself; it is a separate detail from the magenta airport symbol.',question:'What does the star above this airport symbol identify?'},
+  {id:'ojctower',name:'Control tower frequency',code:'126.0 · Johnson County Executive',category:'AIRPORT DATA',px:2970,py:2315,w:100,h:23,page:24,shape:'underline',
+    desc:'The CT notation and 126.0 identify the charted control tower frequency for Johnson County Executive Airport. The adjacent circled C identifies the CTAF use of this frequency.',tip:'The tower frequency, weather broadcast and UNICOM are separate numbers in the same airport data block.',question:'Which number follows CT in the airport data?'},
+  {id:'ojcatis',name:'ATIS frequency',code:'119.35 · Johnson County Executive',category:'AIRPORT DATA',px:2968,py:2333,w:116,h:21,page:24,shape:'underline',
+    desc:'ATIS 119.35 is the charted Automatic Terminal Information Service frequency at Johnson County Executive. ATIS supplies recorded airport information.',tip:'Find ATIS on the second line of the airport data, below the control tower frequency.',question:'Which frequency would you select for the airport information broadcast?'},
+  {id:'ojcunicom',name:'UNICOM frequency',code:'122.95 · Johnson County Executive',category:'AIRPORT DATA',px:3009,py:2350,w:106,h:20,page:24,shape:'underline',
+    desc:'The 122.95 entry is the charted UNICOM frequency at Johnson County Executive. It is separate from the CT/CTAF and ATIS entries in the same data group.',tip:'Read the label and placement of each frequency rather than assuming all frequencies serve the same purpose.',question:'Which charted frequency is used for UNICOM?'},
+  {id:'ojcparttime',name:'Part-time tower star',code:'CT 126.0 ★ · Johnson County Executive',category:'AIRPORT DATA',px:2994,py:2313,w:16,h:16,page:24,shape:'arrow',
+    desc:'The star following CT 126.0 indicates that the control tower operates part time. Check published tower hours before assuming it is active.',tip:'This star belongs to the CT frequency line; it has a different meaning from the star drawn above an airport symbol for a rotating beacon.',question:'Does the star after CT describe the tower schedule or a rotating beacon?'},
+  {id:'ojclighting',name:'Runway lighting code',code:'*L · Johnson County Executive',category:'AIRPORT DATA',px:2948,py:2350,w:18,h:20,page:24,shape:'arrow',
+    desc:'The *L airport-data notation indicates that runway-lighting limitations exist. Consult the Chart Supplement for the specific conditions.',tip:'Do not confuse *L in the data line with a beacon star above the airport symbol.',question:'Where would you confirm the exact runway-lighting limitations?'},
+  {id:'bqsvordme',name:'VOR-DME navigation aid',code:'Braymer · BQS',category:'RADIO NAVIGATION',px:4034,py:1023,w:40,h:40,page:25,
+    desc:'The blue VOR-DME symbol at Braymer represents a VHF omnidirectional range facility paired with distance-measuring equipment. The nearby box identifies BQS and its frequency.',tip:'This symbol differs from the VORTAC symbol at Napoleon; both can provide VOR and distance information.',question:'What extra service does the DME component provide?'},
+  {id:'bqsfreq',name:'VOR-DME frequency and channel',code:'115.35 · Ch 100 · BQS',category:'RADIO NAVIGATION',px:4050,py:1191,w:181,h:23,page:25,shape:'underline',
+    desc:'Braymer VOR-DME is labeled 115.35, channel 100, identifier BQS. The box ties these frequency and identification details to the navigation aid.',tip:'The Morse marks on the right side of the box are part of the charted station identification.',question:'Which three items in the box identify the Braymer facility?'},
+  {id:'fssbox',name:'Flight Service remote frequency box',code:'122.1R · Butler / Columbia',category:'COMMUNICATION',px:3144,py:3163,w:95,h:24,page:25,shape:'underline',
+    desc:'The Butler communication box shows 122.1R above the line and COLUMBIA below. The R means receive only on that frequency; the FSS provides the charted service through this remote site.',tip:'The boxed 115.9 BUM data belong to the navigation aid. Read the separate 122.1R line for Flight Service voice communication.',question:'What does the R after 122.1 mean?'},
+  {id:'dmeonly',name:'DME-only navigation aid',code:'Robinson · RBA · 108.2 · Ch 19',category:'RADIO NAVIGATION',px:2158,py:665,w:28,h:28,page:25,
+    desc:'The small blue square is a DME-only facility. The Robinson box supplies channel 19, identifier RBA and paired frequency 108.2.',tip:'A plain square is DME only. Compare it with a VOR-DME symbol, which places the square around the VOR hexagon.',question:'Which part of this chart entry shows that distance information is available without a VOR symbol?'},
+  {id:'marshallvignette',name:'Class E transition-area vignette',code:'Marshall · 700 ft AGL floor',category:'AIRSPACE',px:4890,py:1815,w:95,h:70,page:27,shape:'leader',leaderAngle:-145,leaderLen:48,
+    desc:'The feathered magenta vignette around Marshall marks Class E airspace beginning at 700 ft AGL on the shaded side. It is not Class C airspace.',tip:'Class C uses a solid magenta boundary and charted sector limits. A feathered magenta band changes the Class E floor.',question:'Does this magenta feathering depict Class C or a 700-foot Class E transition area?'},
+  {id:'softsurface',name:'Other than hard-surfaced runways',code:'Near Lincoln · Truman Lake area',category:'AIRPORT',px:4694,py:2957,w:36,h:36,page:23,shape:'leader',leaderAngle:-35,leaderLen:68,
+    desc:'The open magenta airport circle represents an airport whose runways are other than hard surfaced. Blue would indicate the same runway-surface category at a towered airport.',tip:'Color indicates tower status; the open circular form distinguishes this runway-surface category from the slash or runway-pattern symbols.',question:'What do the open circle and magenta color tell you about this airport?'},
+  {id:'parachute',name:'Parachute jumping area',code:'Noah’s Ark · near KMCI',category:'MISCELLANEOUS',px:2906,py:1615,w:34,h:40,page:35,
+    desc:'The magenta parachute symbol marks charted parachute-jumping activity at Noah’s Ark, southwest of Kansas City International.',tip:'An airport and a parachute symbol can be charted together. Consider both when interpreting activity near the field.',question:'What aerial activity does the canopy symbol warn you about?'},
+  {id:'stadium',name:'Stadium',code:'Kansas City stadiums',category:'MISCELLANEOUS',px:3286,py:1930,w:32,h:47,page:35,shape:'leader',leaderAngle:18,leaderLen:44,
+    desc:'The magenta diamond beside STADIUMS identifies a charted stadium landmark in Kansas City. It can help with visual orientation.',tip:'A stadium symbol is a landmark; check current notices for any event-related restrictions separately.',question:'Is this magenta diamond an airport, a navigation aid, or a landmark?'}
+];
+for(const item of fullChartExamples){
+  const f={id:item.id,name:item.name,code:item.code,category:item.category,
+    x:item.px/CHART_W*100,y:item.py/CHART_H*100,markW:item.w,markH:item.h,
+    cropX:Math.max(0,Math.min(CHART_W-330,Math.round(item.px-160))),
+    cropY:Math.max(0,Math.min(CHART_H-175,Math.round(item.py-80))),
+    sourcePage:item.page,shape:item.shape,leaderAngle:item.leaderAngle,leaderLen:item.leaderLen,desc:item.desc,tip:item.tip,question:item.question,
+    steps:['Locate the circled chart item','Read the surrounding label or boundary','Confirm its meaning in the FAA Chart Users’ Guide'],extra:true};
+  features.push(f);addHotspot(f);
 }
 const priorities=['classbline','classdline','obstruction','groupobstruction','abandoned','airway'];
 features.sort((a,b)=>{const ai=priorities.indexOf(a.id),bi=priorities.indexOf(b.id);return (ai<0?999:ai)-(bi<0?999:bi)});

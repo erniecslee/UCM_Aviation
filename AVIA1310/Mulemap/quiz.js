@@ -56,40 +56,51 @@ const quizQuestions = [
   q('VFR MINIMUMS','During the day, above 1,200 ft AGL but below 10,000 ft MSL in Class G, what is the visibility minimum?',['1 statute mile','2 statute miles','3 statute miles','5 statute miles'],0,'Daytime Class G above 1,200 ft AGL and below 10,000 ft MSL requires 1 statute mile.',AIM),
   q('VFR MINIMUMS','In Class G at or above 10,000 ft MSL, what is the basic visibility minimum?',['1 statute mile','3 statute miles','5 statute miles','10 statute miles'],2,'At or above 10,000 ft MSL, Class G requires 5 statute miles.',AIM)
 ];
-let quizIndex = 0, quizScore = 0, quizAnswered = false;
+const QUIZ_ROUND_SIZE=10;
+const quizNoFocus=new Set(['ojctower','ojcatis','ojcunicom','bqsfreq','beacon','ojcparttime']);
+let quizRemaining=[],quizRound=[],quizIndex=0,quizScore=0,quizAnswered=false,quizRoundNumber=0;
 const quizBoard = document.getElementById('quizBoard');
+function shuffled(values){const copy=[...values];for(let i=copy.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[copy[i],copy[j]]=[copy[j],copy[i]]}return copy}
+function startQuizCycle(){quizRemaining=shuffled(quizQuestions.map((_,index)=>index));quizRoundNumber=0;startQuizRound()}
+function startQuizRound(){quizRoundNumber++;quizRound=quizRemaining.splice(0,Math.min(QUIZ_ROUND_SIZE,quizRemaining.length)).map(index=>quizQuestions[index]);quizIndex=0;quizScore=0;quizAnswered=false;renderQuiz();quizBoard.scrollTop=0}
 function renderQuiz() {
-  if (quizIndex >= quizQuestions.length) {
-    quizBoard.innerHTML = `<div class="quiz-wrap"><div class="quiz-card"><div class="quiz-kind">QUIZ COMPLETE</div><h3>You scored ${quizScore} / ${quizQuestions.length}</h3><p>Return to the map to review symbols, or try the questions again.</p><button class="quiz-next" id="quizRestart">Try again</button></div></div>`;
-    document.getElementById('quizRestart').onclick = () => { quizIndex = 0; quizScore = 0; quizAnswered = false; renderQuiz(); };
+  if(!quizRound.length){startQuizCycle();return}
+  if (quizIndex >= quizRound.length) {
+    const exhausted=quizRemaining.length===0,nextCount=Math.min(QUIZ_ROUND_SIZE,quizRemaining.length);
+    quizBoard.innerHTML = `<div class="quiz-wrap"><div class="quiz-top"><h2>Quick quiz</h2><span>Total Question Bank: ${quizQuestions.length}</span></div><div class="quiz-card"><div class="quiz-kind">ROUND ${quizRoundNumber} COMPLETE</div><h3>You scored ${quizScore} / ${quizRound.length}</h3><p>${exhausted?'Out of questions — start from the beginning.':`${quizRemaining.length} unseen questions remain. Shuffle ${nextCount} new question${nextCount===1?'':'s'} for the next round.`}</p><button class="quiz-next" id="quizRestart">${exhausted?'Start from beginning':'Shuffle next '+nextCount}</button></div></div>`;
+    document.getElementById('quizRestart').onclick = exhausted?startQuizCycle:startQuizRound;
     return;
   }
-  const item = quizQuestions[quizIndex], feature = features.find(f => f.id === item.featureId);
+  const item = quizRound[quizIndex], feature = features.find(f => f.id === item.featureId);
   const crop = feature ? `<div class="quiz-crop" role="img" aria-label="Wider chart context near ${feature.name}"></div>` : '';
-  quizBoard.innerHTML = `<div class="quiz-wrap"><div class="quiz-top"><h2>Quick quiz</h2><span>Question ${quizIndex+1} of ${quizQuestions.length} · ${quizScore} correct</span></div><div class="quiz-progress"><i style="width:${quizIndex/quizQuestions.length*100}%"></i></div><div class="quiz-card"><div class="quiz-kind">${item.kind}</div><h3>${item.question}</h3>${crop}<div class="choices">${item.options.map((option,index)=>`<button type="button" data-answer="${index}">${String.fromCharCode(65+index)}. ${option}</button>`).join('')}</div><div id="quizFeedback"></div></div></div>`;
+  quizBoard.innerHTML = `<div class="quiz-wrap"><div class="quiz-top"><h2>Quick quiz</h2><span>Total Question Bank: ${quizQuestions.length} · Round ${quizRoundNumber} · Question ${quizIndex+1} of ${quizRound.length} · ${quizScore} correct</span></div><div class="quiz-progress"><i style="width:${quizIndex/quizRound.length*100}%"></i></div><div class="quiz-card"><div class="quiz-kind">${item.kind}</div><h3>${item.question}</h3>${crop}<div class="choices">${item.options.map((option,index)=>`<button type="button" data-answer="${index}">${String.fromCharCode(65+index)}. ${option}</button>`).join('')}</div><div id="quizFeedback"></div></div></div>`;
   if (feature) {
     const chartCrop=quizBoard.querySelector('.quiz-crop');
     const sourceWidth=feature.id==='classb'?760:1050;
     const scale=chartCrop.clientWidth/sourceWidth;
-    const focusX=Math.max(sourceWidth/2,Math.min(CHART_W-sourceWidth/2,feature.x*CHART_W/100));
+    const targetX=(feature.markerX??feature.x)*CHART_W/100,targetY=(feature.markerY??feature.y)*CHART_H/100;
+    const focusX=Math.max(sourceWidth/2,Math.min(CHART_W-sourceWidth/2,targetX));
     const sourceHeight=chartCrop.clientHeight/scale;
-    const focusY=Math.max(sourceHeight/2,Math.min(CHART_H-sourceHeight/2,feature.y*CHART_H/100));
+    const focusY=Math.max(sourceHeight/2,Math.min(CHART_H-sourceHeight/2,targetY));
     chartCrop.style.backgroundSize=`${CHART_W*scale}px ${CHART_H*scale}px`;
     chartCrop.style.backgroundPosition=`${chartCrop.clientWidth/2-focusX*scale}px ${chartCrop.clientHeight/2-focusY*scale}px`;
-    const target=document.createElement('span');target.className='quiz-focus '+(feature.shape||'circle');target.setAttribute('aria-hidden','true');
-    target.style.left=(chartCrop.clientWidth/2+(feature.x*CHART_W/100-focusX)*scale)+'px';
-    target.style.top=(chartCrop.clientHeight/2+(feature.y*CHART_H/100-focusY)*scale)+'px';
-    target.style.width=Math.max(30,feature.markW*scale+8)+'px';
-    target.style.height=Math.max(26,feature.markH*scale+8)+'px';
-    if(feature.shape==='arrow')target.textContent='➜';
-    chartCrop.appendChild(target);
+    if(!quizNoFocus.has(item.featureId)){
+      const target=document.createElement('span');target.className='quiz-focus '+(feature.shape||'circle');target.setAttribute('aria-hidden','true');
+      target.style.left=(chartCrop.clientWidth/2+(targetX-focusX)*scale)+'px';
+      target.style.top=(chartCrop.clientHeight/2+(targetY-focusY)*scale)+'px';
+      const focusSize=feature.id==='whiteman'?{w:48,h:26}:feature.id==='marshallvignette'?{w:58,h:34}:{w:feature.markW,h:feature.markH};
+      target.style.width=Math.max(30,focusSize.w*scale+8)+'px';
+      target.style.height=Math.max(26,focusSize.h*scale+8)+'px';
+      if(feature.shape==='arrow')target.textContent='➜';
+      chartCrop.appendChild(target);
+    }
   }
   quizBoard.querySelectorAll('[data-answer]').forEach(button => button.onclick = () => answerQuiz(Number(button.dataset.answer)));
 }
 function answerQuiz(choice) {
   if (quizAnswered) return;
   quizAnswered = true;
-  const item = quizQuestions[quizIndex];
+  const item = quizRound[quizIndex];
   const correct = choice === item.answer;
   if (correct) quizScore++;
   quizBoard.querySelectorAll('[data-answer]').forEach(button => {
@@ -98,6 +109,6 @@ function answerQuiz(choice) {
     if (index === item.answer) button.classList.add('correct');
     else if (index === choice) button.classList.add('wrong');
   });
-  document.getElementById('quizFeedback').innerHTML = `<div class="quiz-feedback"><b>${correct ? 'Correct' : 'Not quite'}</b>${item.explanation}<br><a href="${item.source}" target="_blank" rel="noopener">Check FAA source ↗</a></div><button class="quiz-next" id="quizNext">${quizIndex+1 === quizQuestions.length ? 'See results' : 'Next question'} →</button>`;
+  document.getElementById('quizFeedback').innerHTML = `<div class="quiz-feedback"><b>${correct ? 'Correct' : 'Not quite'}</b>${item.explanation}<br><a href="${item.source}" target="_blank" rel="noopener">Check FAA source ↗</a></div><button class="quiz-next" id="quizNext">${quizIndex+1 === quizRound.length ? 'See round score' : 'Next question'} →</button>`;
   document.getElementById('quizNext').onclick = () => { quizIndex++; quizAnswered = false; renderQuiz(); quizBoard.scrollTop = 0; };
 }

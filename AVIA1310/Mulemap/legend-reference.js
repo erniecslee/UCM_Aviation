@@ -3,13 +3,13 @@
 const legendCatalogData = [
   ['Airports', [
     ['Non-towered airport','krcm'],['Towered airport','kmci'],['Other than hard-surfaced runways','softsurface'],['Hard-surface runway pattern','newcentury'],
-    ['Airport with runways over 8,069 ft','kmci'],['Open dot in runway symbol','opendot'],['Seaplane base','seaplane'],
+    ['Airport with runways over 8,069 ft','runwaysover8069'],['Open dot in runway symbol','opendot'],['Seaplane base','seaplane'],
     ['Private-use airport','private'],['Military airport','whiteman'],['Selected heliport','heliport'],
     ['Unverified airport',null],['Abandoned paved airport','abandoned'],['Ultralight flight park','ultralight'],
     ['Fuel availability ticks','fuelticks'],['Rotating airport beacon','beacon']
   ]],
   ['Airport data', [
-    ['Airport name and location identifier','krcm'],['Airport elevation','elevation'],
+    ['Airport name and location identifier','airportidentifier'],['Airport elevation','elevation'],
     ['Longest runway length','runwaylength'],['Right traffic pattern','rightpattern'],
     ['Control tower frequency','ojctower'],['CTAF frequency','ctaf'],['ATIS','ojcatis'],
     ['AWOS / ASOS weather frequency','awos'],['UNICOM','ojcunicom'],['VFR advisory frequency',null],
@@ -17,7 +17,7 @@ const legendCatalogData = [
     ['Runway lighting codes','ojclighting'],['Part-time tower star','ojcparttime']
   ]],
   ['Airspace and traffic', [
-    ['Class B boundary','classbline'],['Class C boundary and altitude label','classc'],['Class D boundary','classdline'],
+    ['Class B boundary','classbline'],['Class C boundary','classcboundary'],['Class C altitude label','classc'],['Class D boundary','classdline'],
     ['Class D ceiling','classdceil'],['Class E surface boundary',null],['Class E 700 ft AGL vignette','classevignette'],
     ['Class E 1,200 ft AGL vignette',null],['Class E MSL floor label',null],
     ['Class G surface area label',null],['Federal airway and mileage','airway'],

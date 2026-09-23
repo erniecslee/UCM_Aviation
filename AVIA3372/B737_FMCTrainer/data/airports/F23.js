@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F23"]={"id":"F23","name":"RANGER MUNI","lat":32.451475,"lon":-98.681514,"elevation":1470,"region":"K4","runways":[{"id":"RW01","lat":32.447094,"lon":-98.6835,"length":3415,"course":14.0},{"id":"RW19","lat":32.455856,"lon":-98.679525,"length":3415,"course":194.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Z6"]={"id":"2Z6","name":"FALSE ISLAND","lat":57.532156,"lon":-135.21345,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

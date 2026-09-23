@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LA6"]={"id":"0LA6","name":"HARMON","lat":30.249067,"lon":-92.085514,"elevation":35,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

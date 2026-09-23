@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MS8"]={"id":"3MS8","name":"FAIRVIEW FARMS","lat":32.942194,"lon":-88.363472,"elevation":170,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

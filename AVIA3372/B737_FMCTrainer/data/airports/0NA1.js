@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NA1"]={"id":"0NA1","name":"GOERGER","lat":46.245514,"lon":-97.037586,"elevation":1045,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

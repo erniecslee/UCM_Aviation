@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OK2"]={"id":"6OK2","name":"REDHILLS","lat":35.062844,"lon":-97.895322,"elevation":1175,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

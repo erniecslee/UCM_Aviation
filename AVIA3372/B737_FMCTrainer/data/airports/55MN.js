@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55MN"]={"id":"55MN","name":"BRITZ","lat":45.863075,"lon":-94.133922,"elevation":1137,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

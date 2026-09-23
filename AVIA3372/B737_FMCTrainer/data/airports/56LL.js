@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56LL"]={"id":"56LL","name":"WADE","lat":41.755031,"lon":-88.771194,"elevation":810,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

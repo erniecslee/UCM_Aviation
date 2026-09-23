@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TS9"]={"id":"7TS9","name":"HEFNER FARMS","lat":34.603617,"lon":-102.859839,"elevation":4159,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

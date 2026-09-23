@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI98"]={"id":"MI98","name":"POULTER FLD","lat":42.365231,"lon":-83.980806,"elevation":960,"region":"K5","runways":[{"id":"RW18","lat":42.367717,"lon":-83.980889,"length":1812,"course":185.5},{"id":"RW36","lat":42.362744,"lon":-83.980722,"length":1812,"course":5.5}],"procedures":{"D":{},"E":{},"F":{}}};

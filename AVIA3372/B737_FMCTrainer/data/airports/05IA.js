@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05IA"]={"id":"05IA","name":"SPOTTS FLD","lat":43.137872,"lon":-93.068342,"elevation":1155,"region":"K3","runways":[{"id":"RW09","lat":43.137872,"lon":-93.072931,"length":2450,"course":87.0},{"id":"RW27","lat":43.137869,"lon":-93.063753,"length":2450,"course":267.0}],"procedures":{"D":{},"E":{},"F":{}}};

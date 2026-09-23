@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA36"]={"id":"MA36","name":"SNOW","lat":42.666483,"lon":-70.852967,"elevation":61,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

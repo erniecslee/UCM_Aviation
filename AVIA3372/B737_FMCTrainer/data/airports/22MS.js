@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22MS"]={"id":"22MS","name":"SKY LANDINGS","lat":30.840278,"lon":-88.574722,"elevation":260,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

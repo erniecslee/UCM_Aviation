@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14MO"]={"id":"14MO","name":"ARROW AIRPARK","lat":37.834469,"lon":-93.375339,"elevation":901,"region":"K3","runways":[{"id":"RW07","lat":37.833267,"lon":-93.379581,"length":2600,"course":70.0},{"id":"RW25","lat":37.835669,"lon":-93.3711,"length":2600,"course":250.0}],"procedures":{"D":{},"E":{},"F":{}}};

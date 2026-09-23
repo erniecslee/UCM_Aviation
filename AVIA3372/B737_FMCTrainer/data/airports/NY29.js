@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY29"]={"id":"NY29","name":"SCHUYLER","lat":42.452017,"lon":-76.911628,"elevation":870,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

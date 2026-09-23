@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80KS"]={"id":"80KS","name":"DIAMOND H","lat":37.255653,"lon":-95.231522,"elevation":913,"region":"K3","runways":[{"id":"RW18","lat":37.257983,"lon":-95.231558,"length":1700,"course":177.7},{"id":"RW36","lat":37.253319,"lon":-95.231486,"length":1700,"course":357.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE65"]={"id":"NE65","name":"ROTH","lat":40.76695,"lon":-97.077814,"elevation":1485,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

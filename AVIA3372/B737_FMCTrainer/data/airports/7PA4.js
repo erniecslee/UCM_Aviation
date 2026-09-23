@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7PA4"]={"id":"7PA4","name":"NULL FARMS","lat":41.018056,"lon":-78.834167,"elevation":1446,"region":"K6","runways":[{"id":"RW14","lat":41.020278,"lon":-78.836944,"length":2230,"course":146.6},{"id":"RW32","lat":41.015833,"lon":-78.831389,"length":2230,"course":326.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S76"]={"id":"S76","name":"BROOKS","lat":47.672128,"lon":-116.786022,"elevation":2125,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

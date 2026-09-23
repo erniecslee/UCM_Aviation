@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63K"]={"id":"63K","name":"HILLSIDE","lat":38.82125,"lon":-94.609528,"elevation":1025,"region":"K3","runways":[{"id":"RW17","lat":38.823983,"lon":-94.609525,"length":2000,"course":175.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57AR"]={"id":"57AR","name":"SANDY RIDGE FARMS","lat":33.660556,"lon":-94.241667,"elevation":334,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

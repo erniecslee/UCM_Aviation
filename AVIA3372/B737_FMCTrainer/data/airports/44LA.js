@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44LA"]={"id":"44LA","name":"B T & K H RANCH","lat":30.647419,"lon":-93.055156,"elevation":110,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

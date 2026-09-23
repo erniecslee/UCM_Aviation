@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK89"]={"id":"AK89","name":"BLACK SPRUCE","lat":61.656308,"lon":-149.886722,"elevation":350,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

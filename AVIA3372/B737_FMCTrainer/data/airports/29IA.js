@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29IA"]={"id":"29IA","name":"HILLTOP","lat":40.756267,"lon":-95.623481,"elevation":1120,"region":"K3","runways":[{"id":"RW17","lat":40.760414,"lon":-95.624189,"length":3049,"course":170.8},{"id":"RW35","lat":40.752117,"lon":-95.622772,"length":3049,"course":350.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WA4"]={"id":"4WA4","name":"WINDSOCK","lat":48.541489,"lon":-122.8874,"elevation":30,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GA6"]={"id":"5GA6","name":"RONEY FARMS","lat":32.149889,"lon":-83.861289,"elevation":352,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

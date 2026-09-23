@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60AS"]={"id":"60AS","name":"JUNIOR SMITH","lat":34.376242,"lon":-90.931403,"elevation":159,"region":"K4","runways":[{"id":"RW18","lat":34.380089,"lon":-90.931422,"length":2802,"course":181.0},{"id":"RW36","lat":34.372392,"lon":-90.931386,"length":2802,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

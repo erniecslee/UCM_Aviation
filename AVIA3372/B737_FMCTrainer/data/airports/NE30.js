@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE30"]={"id":"NE30","name":"OLSON FLD","lat":40.573558,"lon":-99.420258,"elevation":2330,"region":"K3","runways":[{"id":"RW17","lat":40.577675,"lon":-99.420244,"length":3000,"course":172.1},{"id":"RW35","lat":40.569442,"lon":-99.420269,"length":3000,"course":352.1}],"procedures":{"D":{},"E":{},"F":{}}};

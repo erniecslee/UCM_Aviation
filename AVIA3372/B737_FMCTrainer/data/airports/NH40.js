@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH40"]={"id":"NH40","name":"EAGLES NEST","lat":43.404511,"lon":-71.948644,"elevation":973,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

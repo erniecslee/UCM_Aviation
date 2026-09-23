@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO17"]={"id":"CO17","name":"SKY HAVEN","lat":39.713592,"lon":-104.193847,"elevation":5215,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR38"]={"id":"OR38","name":"WESTERN HELICOPTER SERVICES","lat":45.079375,"lon":-122.925892,"elevation":183,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

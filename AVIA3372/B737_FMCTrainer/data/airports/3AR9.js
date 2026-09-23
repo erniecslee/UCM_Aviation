@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR9"]={"id":"3AR9","name":"HOG AIR AVIATION INC","lat":36.055214,"lon":-90.36685,"elevation":240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

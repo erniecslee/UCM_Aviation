@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LS7"]={"id":"0LS7","name":"MORGAN FLD","lat":30.612767,"lon":-91.484172,"elevation":36,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

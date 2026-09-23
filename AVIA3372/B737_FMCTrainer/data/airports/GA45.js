@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA45"]={"id":"GA45","name":"ARRENDALE FOREST","lat":34.660181,"lon":-83.5011,"elevation":1386,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

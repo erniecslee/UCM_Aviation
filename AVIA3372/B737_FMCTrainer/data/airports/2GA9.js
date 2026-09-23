@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2GA9"]={"id":"2GA9","name":"LENORA","lat":33.809167,"lon":-83.999722,"elevation":940,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

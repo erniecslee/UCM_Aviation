@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NY7"]={"id":"6NY7","name":"PIOLIS BROOKSIDE","lat":41.865369,"lon":-74.332928,"elevation":1060,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

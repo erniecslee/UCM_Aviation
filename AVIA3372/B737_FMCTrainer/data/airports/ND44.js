@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND44"]={"id":"ND44","name":"UNDERWOOD","lat":47.466667,"lon":-101.133889,"elevation":2035,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

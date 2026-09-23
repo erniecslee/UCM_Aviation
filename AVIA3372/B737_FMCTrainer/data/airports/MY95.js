@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY95"]={"id":"MY95","name":"SWANSON FLD","lat":45.446389,"lon":-93.382778,"elevation":935,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KS9"]={"id":"0KS9","name":"LMN 120","lat":37.515561,"lon":-96.921606,"elevation":1330,"region":"K3","runways":[{"id":"RW05","lat":37.512653,"lon":-96.925269,"length":3000,"course":39.0},{"id":"RW23","lat":37.518469,"lon":-96.917939,"length":3000,"course":219.0}],"procedures":{"D":{},"E":{},"F":{}}};

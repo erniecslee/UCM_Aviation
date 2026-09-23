@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83NH"]={"id":"83NH","name":"PIER 19","lat":43.654167,"lon":-71.288056,"elevation":500,"region":"K6","runways":[{"id":"RW13W","lat":43.658889,"lon":-71.295261,"length":5129,"course":147.1},{"id":"RW31W","lat":43.6493,"lon":-71.281081,"length":5129,"course":327.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4II8"]={"id":"4II8","name":"WILLIS","lat":39.722267,"lon":-85.716644,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

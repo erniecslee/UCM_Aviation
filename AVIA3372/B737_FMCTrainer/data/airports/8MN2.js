@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MN2"]={"id":"8MN2","name":"ASLESEN","lat":47.335586,"lon":-96.748933,"elevation":879,"region":"K3","runways":[{"id":"RW18","lat":47.338972,"lon":-96.748933,"length":2505,"course":82.4}],"procedures":{"D":{},"E":{},"F":{}}};

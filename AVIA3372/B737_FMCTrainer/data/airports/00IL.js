@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00IL"]={"id":"00IL","name":"HAMMER","lat":41.978364,"lon":-89.560389,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

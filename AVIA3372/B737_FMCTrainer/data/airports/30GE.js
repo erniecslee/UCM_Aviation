@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30GE"]={"id":"30GE","name":"PAPAS PLACE","lat":34.194019,"lon":-83.194628,"elevation":720,"region":"K7","runways":[{"id":"RW14","lat":34.195956,"lon":-83.197311,"length":2150,"course":137.4},{"id":"RW32","lat":34.192083,"lon":-83.191942,"length":2150,"course":317.4}],"procedures":{"D":{},"E":{},"F":{}}};

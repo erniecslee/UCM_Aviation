@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WA1"]={"id":"2WA1","name":"DIAMOND POINT AIRSTRIP","lat":48.092592,"lon":-122.928506,"elevation":262,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

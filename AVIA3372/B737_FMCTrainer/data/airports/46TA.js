@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46TA"]={"id":"46TA","name":"GOULD STRIP","lat":28.126119,"lon":-98.859744,"elevation":287,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

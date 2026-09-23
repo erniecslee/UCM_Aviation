@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU23"]={"id":"MU23","name":"WHITE CLOUD FLYING FLD","lat":39.030594,"lon":-92.39185,"elevation":600,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

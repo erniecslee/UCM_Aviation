@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN14"]={"id":"TN14","name":"T-TOP AIRFIELD","lat":35.689722,"lon":-86.635833,"elevation":770,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

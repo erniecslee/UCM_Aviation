@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CO6"]={"id":"0CO6","name":"FLYING M & M RANCH","lat":38.219433,"lon":-108.213133,"elevation":8000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

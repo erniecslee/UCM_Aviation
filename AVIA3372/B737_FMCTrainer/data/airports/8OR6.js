@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OR6"]={"id":"8OR6","name":"GRABHORN'S","lat":45.782336,"lon":-122.893994,"elevation":255,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

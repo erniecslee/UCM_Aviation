@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4Y8"]={"id":"4Y8","name":"PARA FLD","lat":43.202244,"lon":-82.753889,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57CN"]={"id":"57CN","name":"VAN VLECK","lat":38.469075,"lon":-121.075222,"elevation":175,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

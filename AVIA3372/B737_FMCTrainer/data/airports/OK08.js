@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK08"]={"id":"OK08","name":"HILL TOP","lat":34.533411,"lon":-98.350328,"elevation":1100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

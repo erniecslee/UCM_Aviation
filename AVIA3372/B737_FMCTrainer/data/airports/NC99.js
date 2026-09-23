@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC99"]={"id":"NC99","name":"BAGWELL","lat":35.674322,"lon":-78.607228,"elevation":300,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6II8"]={"id":"6II8","name":"GODAHAVIT","lat":38.654492,"lon":-87.282792,"elevation":495,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

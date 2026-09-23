@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6PN9"]={"id":"6PN9","name":"MC DONALD'S","lat":40.886197,"lon":-76.153547,"elevation":1200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

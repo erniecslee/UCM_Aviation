@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA86"]={"id":"GA86","name":"LITTLE TOBESOFKEE CREEK RANCH","lat":32.983889,"lon":-84.095556,"elevation":755,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND86"]={"id":"ND86","name":"PETERSON","lat":48.563889,"lon":-103.963056,"elevation":2190,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

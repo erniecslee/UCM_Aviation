@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NJ7"]={"id":"6NJ7","name":"NEBELS","lat":41.180094,"lon":-74.334319,"elevation":635,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

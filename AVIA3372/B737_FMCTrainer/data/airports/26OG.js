@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26OG"]={"id":"26OG","name":"OAKRIDGE RANCH","lat":42.463211,"lon":-122.733972,"elevation":1560,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

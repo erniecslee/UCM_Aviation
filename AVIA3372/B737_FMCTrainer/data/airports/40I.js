@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40I"]={"id":"40I","name":"RED STEWART AIRFIELD","lat":39.505339,"lon":-84.121881,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

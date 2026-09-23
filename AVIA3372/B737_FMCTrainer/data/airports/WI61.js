@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI61"]={"id":"WI61","name":"FORSETH FLD","lat":43.091569,"lon":-89.997986,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

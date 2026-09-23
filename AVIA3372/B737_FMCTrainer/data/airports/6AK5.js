@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK5"]={"id":"6AK5","name":"FIRE ISLAND","lat":61.168336,"lon":-150.160553,"elevation":55,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

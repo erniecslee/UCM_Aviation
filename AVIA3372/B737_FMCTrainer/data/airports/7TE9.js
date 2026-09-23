@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TE9"]={"id":"7TE9","name":"BOENING BROTHERS","lat":29.027192,"lon":-98.286678,"elevation":407,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY08"]={"id":"JY08","name":"VAR-SKY","lat":39.650114,"lon":-75.284078,"elevation":135,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

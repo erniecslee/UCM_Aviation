@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43IN"]={"id":"43IN","name":"HEPLER","lat":38.137544,"lon":-87.676411,"elevation":460,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

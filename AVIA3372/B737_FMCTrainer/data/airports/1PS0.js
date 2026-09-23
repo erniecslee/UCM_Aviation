@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1PS0"]={"id":"1PS0","name":"ICKES","lat":40.184167,"lon":-78.558889,"elevation":1320,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

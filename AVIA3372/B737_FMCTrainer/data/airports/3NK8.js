@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NK8"]={"id":"3NK8","name":"B FLAT FARM","lat":42.140556,"lon":-73.611944,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

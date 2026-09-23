@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT73"]={"id":"TT73","name":"VOGT'S VISTA","lat":32.541589,"lon":-95.947775,"elevation":473,"region":"K4","runways":[{"id":"RW18","lat":32.543889,"lon":-95.9475,"length":1682,"course":183.7},{"id":"RW36","lat":32.539289,"lon":-95.948047,"length":1682,"course":3.7}],"procedures":{"D":{},"E":{},"F":{}}};

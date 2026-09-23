@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30GA"]={"id":"30GA","name":"COX FLD","lat":33.282886,"lon":-83.901367,"elevation":697,"region":"K7","runways":[{"id":"RW09","lat":33.282886,"lon":-83.906297,"length":3014,"course":95.9},{"id":"RW27","lat":33.282886,"lon":-83.896436,"length":3014,"course":275.9}],"procedures":{"D":{},"E":{},"F":{}}};

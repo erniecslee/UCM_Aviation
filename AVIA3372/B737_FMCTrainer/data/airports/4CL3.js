@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4CL3"]={"id":"4CL3","name":"ANTELOPE VALLEY RANCH","lat":39.14625,"lon":-122.354117,"elevation":530,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

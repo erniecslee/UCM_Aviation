@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA52"]={"id":"VA52","name":"FRANK FLD","lat":38.485122,"lon":-78.945308,"elevation":1650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

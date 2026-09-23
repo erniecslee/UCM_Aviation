@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OA1"]={"id":"2OA1","name":"BRISTOL AIRSTRIP","lat":41.415056,"lon":-80.884256,"elevation":865,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

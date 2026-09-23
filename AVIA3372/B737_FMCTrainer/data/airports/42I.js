@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42I"]={"id":"42I","name":"PARR","lat":40.007292,"lon":-82.013481,"elevation":790,"region":"K5","runways":[{"id":"RW10","lat":40.007575,"lon":-82.019,"length":3100,"course":100.0}],"procedures":{"D":{},"E":{},"F":{}}};

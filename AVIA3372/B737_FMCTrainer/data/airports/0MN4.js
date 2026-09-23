@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MN4"]={"id":"0MN4","name":"PAUL'S","lat":46.477189,"lon":-94.303056,"elevation":1200,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

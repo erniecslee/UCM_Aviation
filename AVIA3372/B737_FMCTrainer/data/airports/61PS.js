@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61PS"]={"id":"61PS","name":"LYNCH'S LANDING","lat":39.724553,"lon":-76.070506,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA12"]={"id":"IA12","name":"MGGENAS","lat":41.476944,"lon":-92.379444,"elevation":920,"region":"K3","runways":[{"id":"RW10","lat":41.477778,"lon":-92.384167,"length":2658,"course":103.8},{"id":"RW28","lat":41.476111,"lon":-92.374722,"length":2658,"course":283.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96WI"]={"id":"96WI","name":"VETTE/BLUST","lat":43.941097,"lon":-88.493725,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

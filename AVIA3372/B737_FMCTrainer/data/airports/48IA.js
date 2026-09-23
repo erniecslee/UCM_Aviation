@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48IA"]={"id":"48IA","name":"MILLER FLD","lat":40.963078,"lon":-91.852022,"elevation":764,"region":"K3","runways":[{"id":"RW18","lat":40.966689,"lon":-91.851978,"length":2630,"course":181.5},{"id":"RW36","lat":40.959469,"lon":-91.852067,"length":2630,"course":1.5}],"procedures":{"D":{},"E":{},"F":{}}};

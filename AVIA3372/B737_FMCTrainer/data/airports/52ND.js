@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52ND"]={"id":"52ND","name":"RICHTSMEIER","lat":47.189425,"lon":-97.289533,"elevation":1047,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79XS"]={"id":"79XS","name":"SILVERTON MUNI","lat":34.466731,"lon":-101.300439,"elevation":3267,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

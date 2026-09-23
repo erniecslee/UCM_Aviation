@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I92"]={"id":"I92","name":"REED RANCH","lat":44.891667,"lon":-115.713056,"elevation":4157,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

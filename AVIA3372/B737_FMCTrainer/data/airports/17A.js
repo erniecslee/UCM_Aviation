@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17A"]={"id":"17A","name":"TRIGGER GAP","lat":36.32825,"lon":-93.622214,"elevation":1650,"region":"K4","runways":[{"id":"RW10","lat":36.329328,"lon":-93.627128,"length":3000,"course":104.7},{"id":"RW28","lat":36.327172,"lon":-93.617297,"length":3000,"course":284.7}],"procedures":{"D":{},"E":{},"F":{}}};

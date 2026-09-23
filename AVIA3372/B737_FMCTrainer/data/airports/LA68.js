@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA68"]={"id":"LA68","name":"ZAUNBRECHER STRIP","lat":30.315758,"lon":-92.519858,"elevation":26,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

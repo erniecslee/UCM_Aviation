@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W88"]={"id":"W88","name":"AIR HARBOR","lat":36.173611,"lon":-79.803056,"elevation":822,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

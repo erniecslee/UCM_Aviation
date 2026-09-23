@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NY7"]={"id":"0NY7","name":"MURPHYS LNDG STRIP","lat":43.037575,"lon":-74.184297,"elevation":940,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

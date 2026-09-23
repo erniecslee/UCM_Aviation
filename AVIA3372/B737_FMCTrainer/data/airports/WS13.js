@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS13"]={"id":"WS13","name":"CLOUD DANCER PVT","lat":45.311944,"lon":-91.589722,"elevation":1050,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

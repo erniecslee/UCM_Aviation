@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD16"]={"id":"FD16","name":"FLYING C FARM","lat":29.965833,"lon":-82.872778,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

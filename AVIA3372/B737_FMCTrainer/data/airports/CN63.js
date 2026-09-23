@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN63"]={"id":"CN63","name":"EXETER","lat":36.242478,"lon":-119.149417,"elevation":344,"region":"K2","runways":[{"id":"RW13","lat":36.245264,"lon":-119.151306,"length":2315,"course":136.1},{"id":"RW31","lat":36.239694,"lon":-119.147517,"length":2315,"course":316.1}],"procedures":{"D":{},"E":{},"F":{}}};

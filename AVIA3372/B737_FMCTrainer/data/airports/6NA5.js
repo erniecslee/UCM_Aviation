@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NA5"]={"id":"6NA5","name":"CHASE AIRSTRIP","lat":46.912786,"lon":-102.00905,"elevation":2140,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

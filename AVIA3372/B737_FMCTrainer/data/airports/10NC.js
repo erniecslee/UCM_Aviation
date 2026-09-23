@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10NC"]={"id":"10NC","name":"JOHNSTON FARM","lat":36.343056,"lon":-77.509444,"elevation":60,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

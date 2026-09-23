@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90LA"]={"id":"90LA","name":"SHARP FLD","lat":32.613889,"lon":-93.323611,"elevation":165,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

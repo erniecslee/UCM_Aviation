@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD71"]={"id":"SD71","name":"BOGNER FLD","lat":43.116639,"lon":-103.367144,"elevation":3660,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

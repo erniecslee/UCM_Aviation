@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77MI"]={"id":"77MI","name":"DOREN FLD","lat":43.1987,"lon":-85.593956,"elevation":850,"region":"K5","runways":[{"id":"RW09","lat":43.198664,"lon":-85.598906,"length":2640,"course":95.2},{"id":"RW27","lat":43.198736,"lon":-85.589006,"length":2640,"course":275.2}],"procedures":{"D":{},"E":{},"F":{}}};

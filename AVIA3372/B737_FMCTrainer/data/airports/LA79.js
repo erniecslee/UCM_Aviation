@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA79"]={"id":"LA79","name":"SYCAMORE","lat":30.718519,"lon":-90.357867,"elevation":180,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU02"]={"id":"MU02","name":"C E F","lat":38.809769,"lon":-91.103481,"elevation":638,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28MA"]={"id":"28MA","name":"CANNIZZARO FLD","lat":42.079806,"lon":-72.818139,"elevation":250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

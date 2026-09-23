@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10FD"]={"id":"10FD","name":"SEVEN FEATHERS","lat":29.006639,"lon":-82.404569,"elevation":68,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OH5"]={"id":"8OH5","name":"URBAN","lat":41.382,"lon":-80.712303,"elevation":1045,"region":"K5","runways":[{"id":"RW18","lat":41.385622,"lon":-80.712383,"length":2640,"course":186.0},{"id":"RW36","lat":41.378375,"lon":-80.712214,"length":2640,"course":6.0}],"procedures":{"D":{},"E":{},"F":{}}};

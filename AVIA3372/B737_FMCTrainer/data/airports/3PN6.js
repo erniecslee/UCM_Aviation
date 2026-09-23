@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PN6"]={"id":"3PN6","name":"GRAVEL RUN","lat":41.750056,"lon":-80.083111,"elevation":1240,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

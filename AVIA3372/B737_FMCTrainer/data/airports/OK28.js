@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK28"]={"id":"OK28","name":"MCDANIEL AVIATION","lat":34.229167,"lon":-96.749167,"elevation":700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

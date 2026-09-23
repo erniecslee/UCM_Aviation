@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN2"]={"id":"8TN2","name":"PLEASANT GROVE AIRPARK","lat":35.398889,"lon":-86.553889,"elevation":850,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

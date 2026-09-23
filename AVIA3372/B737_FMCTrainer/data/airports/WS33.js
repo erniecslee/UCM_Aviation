@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS33"]={"id":"WS33","name":"STORYTOWN AIRFIELD","lat":42.908861,"lon":-89.453056,"elevation":956,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

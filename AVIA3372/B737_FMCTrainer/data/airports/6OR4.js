@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OR4"]={"id":"6OR4","name":"TAILWHEEL","lat":44.273183,"lon":-120.794742,"elevation":3130,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

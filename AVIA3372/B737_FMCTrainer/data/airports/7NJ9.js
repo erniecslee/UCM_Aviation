@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NJ9"]={"id":"7NJ9","name":"DAVE'S AERODROME","lat":39.318169,"lon":-75.206297,"elevation":8,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

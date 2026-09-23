@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21AR"]={"id":"21AR","name":"SKARDA/TOLLVILLE","lat":34.717592,"lon":-91.539019,"elevation":218,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

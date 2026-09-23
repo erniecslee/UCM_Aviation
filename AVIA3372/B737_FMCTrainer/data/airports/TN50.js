@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN50"]={"id":"TN50","name":"INDIAN HILL FARM","lat":34.991469,"lon":-85.650803,"elevation":676,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52KY"]={"id":"52KY","name":"AIR CASTLE","lat":38.118133,"lon":-84.302433,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

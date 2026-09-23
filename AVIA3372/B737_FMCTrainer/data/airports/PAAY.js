@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAY"]={"id":"PAAY","name":"CHICKEN","lat":64.066753,"lon":-141.951347,"elevation":1640,"region":"PA","runways":[{"id":"RW13","lat":64.0699,"lon":-141.954367,"length":2500,"course":127.0},{"id":"RW31","lat":64.063603,"lon":-141.948328,"length":2500,"course":307.0}],"procedures":{"D":{},"E":{},"F":{}}};

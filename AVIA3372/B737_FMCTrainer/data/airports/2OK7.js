@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK7"]={"id":"2OK7","name":"COLE LANDING AREA","lat":35.258397,"lon":-97.662817,"elevation":1353,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

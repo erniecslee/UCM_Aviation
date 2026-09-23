@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI92"]={"id":"WI92","name":"WAG-AERO","lat":42.661128,"lon":-88.361206,"elevation":905,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

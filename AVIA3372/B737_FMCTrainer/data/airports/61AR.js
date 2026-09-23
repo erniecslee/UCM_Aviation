@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61AR"]={"id":"61AR","name":"THE VALLEY","lat":36.314408,"lon":-92.542733,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

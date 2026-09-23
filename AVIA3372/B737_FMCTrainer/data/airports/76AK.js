@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76AK"]={"id":"76AK","name":"POGO MINE AIRSTRIP","lat":64.467464,"lon":-144.920892,"elevation":1350,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

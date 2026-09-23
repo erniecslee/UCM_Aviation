@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE45"]={"id":"NE45","name":"KRAUSE","lat":41.293142,"lon":-99.374658,"elevation":2363,"region":"K3","runways":[{"id":"RW17","lat":41.295833,"lon":-99.375333,"length":1996,"course":165.0},{"id":"RW35","lat":41.29045,"lon":-99.373983,"length":1996,"course":345.0}],"procedures":{"D":{},"E":{},"F":{}}};

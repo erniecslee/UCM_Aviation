@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NC4"]={"id":"2NC4","name":"SCOTTBROOK FARM","lat":35.337942,"lon":-78.154717,"elevation":160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

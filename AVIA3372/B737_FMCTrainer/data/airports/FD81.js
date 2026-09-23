@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD81"]={"id":"FD81","name":"GLEIM FLD","lat":29.702744,"lon":-82.425664,"elevation":170,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

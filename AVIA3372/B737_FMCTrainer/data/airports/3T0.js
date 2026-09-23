@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3T0"]={"id":"3T0","name":"CEDAR MILLS","lat":33.839347,"lon":-96.810069,"elevation":640,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

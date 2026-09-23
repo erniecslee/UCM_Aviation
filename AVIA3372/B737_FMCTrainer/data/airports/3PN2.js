@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PN2"]={"id":"3PN2","name":"KARLINDO","lat":39.758986,"lon":-77.347486,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AZ4"]={"id":"2AZ4","name":"MILLAR","lat":33.053661,"lon":-112.1457,"elevation":1215,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

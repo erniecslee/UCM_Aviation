@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37NH"]={"id":"37NH","name":"HOOKSETT'S SEAPLANE LANDING","lat":43.085833,"lon":-71.466944,"elevation":175,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

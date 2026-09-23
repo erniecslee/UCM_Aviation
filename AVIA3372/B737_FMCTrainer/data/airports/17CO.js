@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17CO"]={"id":"17CO","name":"SKYLANE RANCH","lat":40.272258,"lon":-105.032625,"elevation":5000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

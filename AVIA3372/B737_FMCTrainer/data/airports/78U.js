@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78U"]={"id":"78U","name":"SNAKE RIVER","lat":46.364639,"lon":-117.062008,"elevation":735,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

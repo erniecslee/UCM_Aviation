@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO30"]={"id":"MO30","name":"HARBOUR","lat":38.269956,"lon":-92.811747,"elevation":832,"region":"K3","runways":[{"id":"RW06","lat":38.268406,"lon":-92.815719,"length":2545,"course":59.7},{"id":"RW24","lat":38.271503,"lon":-92.807775,"length":2545,"course":239.7}],"procedures":{"D":{},"E":{},"F":{}}};

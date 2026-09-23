@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN44"]={"id":"TN44","name":"DEERFIELD RESORT","lat":36.346667,"lon":-84.012222,"elevation":1350,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

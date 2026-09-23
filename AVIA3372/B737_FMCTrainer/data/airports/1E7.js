@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1E7"]={"id":"1E7","name":"BUFFALO","lat":35.063889,"lon":-101.877583,"elevation":3640,"region":"K4","runways":[{"id":"RW08","lat":35.063911,"lon":-101.880269,"length":1600,"course":82.0},{"id":"RW26","lat":35.063858,"lon":-101.874922,"length":1600,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

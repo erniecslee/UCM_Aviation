@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E61"]={"id":"E61","name":"CONCHAS LAKE","lat":35.384217,"lon":-104.216367,"elevation":4201,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KS"]={"id":"5KS","name":"KASILOF","lat":60.350522,"lon":-151.262856,"elevation":125,"region":"PA","runways":[{"id":"RW01","lat":60.347647,"lon":-151.266058,"length":2400,"course":5.0},{"id":"RW19","lat":60.353394,"lon":-151.259656,"length":2400,"course":185.0}],"procedures":{"D":{},"E":{},"F":{}}};

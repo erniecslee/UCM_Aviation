@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WN6"]={"id":"6WN6","name":"FOUNTAIN PRAIRIE","lat":43.379989,"lon":-89.010667,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

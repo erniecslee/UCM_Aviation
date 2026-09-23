@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20AR"]={"id":"20AR","name":"RAK","lat":35.307858,"lon":-92.320153,"elevation":660,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

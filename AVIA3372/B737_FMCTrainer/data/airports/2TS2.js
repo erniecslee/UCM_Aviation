@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TS2"]={"id":"2TS2","name":"SHOFNER FARMS","lat":26.168408,"lon":-97.733603,"elevation":57,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

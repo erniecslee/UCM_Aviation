@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07NC"]={"id":"07NC","name":"HAWKS MEADOW","lat":34.833206,"lon":-80.751178,"elevation":625,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21MT"]={"id":"21MT","name":"HARRIS RUNWAY","lat":45.748061,"lon":-111.06985,"elevation":4582,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

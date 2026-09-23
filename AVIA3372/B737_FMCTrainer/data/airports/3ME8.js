@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3ME8"]={"id":"3ME8","name":"MAST COVE","lat":43.994983,"lon":-70.641333,"elevation":267,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

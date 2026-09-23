@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TX1"]={"id":"6TX1","name":"SNOWDEN FLD","lat":30.728833,"lon":-99.340181,"elevation":1730,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

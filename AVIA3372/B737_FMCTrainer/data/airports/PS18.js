@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS18"]={"id":"PS18","name":"PECORA FLD","lat":41.903675,"lon":-78.627528,"elevation":1500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD22"]={"id":"FD22","name":"MELROSE LANDING","lat":29.666911,"lon":-81.955094,"elevation":159,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

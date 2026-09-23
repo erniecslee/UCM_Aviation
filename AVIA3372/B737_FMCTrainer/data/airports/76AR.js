@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76AR"]={"id":"76AR","name":"JOHNSON FLD","lat":36.349667,"lon":-92.450556,"elevation":814,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT53"]={"id":"MT53","name":"CARSON FLD","lat":48.094675,"lon":-114.851528,"elevation":3550,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

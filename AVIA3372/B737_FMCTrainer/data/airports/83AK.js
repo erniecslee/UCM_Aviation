@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83AK"]={"id":"83AK","name":"TOLOVANA HOT SPRINGS","lat":65.2565,"lon":-148.830256,"elevation":800,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M38"]={"id":"M38","name":"HAZEL GREEN","lat":34.916133,"lon":-86.647047,"elevation":814,"region":"K7","runways":[{"id":"RW07","lat":34.915017,"lon":-86.651286,"length":2670,"course":72.3},{"id":"RW25","lat":34.9168,"lon":-86.644525,"length":2670,"course":252.3}],"procedures":{"D":{},"E":{},"F":{}}};

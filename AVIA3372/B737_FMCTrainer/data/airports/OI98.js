@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI98"]={"id":"OI98","name":"TANK","lat":40.064811,"lon":-81.622272,"elevation":814,"region":"K5","runways":[{"id":"RW13","lat":40.066075,"lon":-81.624386,"length":1500,"course":136.0},{"id":"RW31","lat":40.063544,"lon":-81.620158,"length":1500,"course":316.1}],"procedures":{"D":{},"E":{},"F":{}}};

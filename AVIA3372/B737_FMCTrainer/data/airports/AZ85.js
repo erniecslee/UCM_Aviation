@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ85"]={"id":"AZ85","name":"TONOPAH","lat":33.533928,"lon":-112.960181,"elevation":1248,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

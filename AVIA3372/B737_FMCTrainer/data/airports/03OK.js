@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03OK"]={"id":"03OK","name":"SAHOMA LAKE","lat":36.041197,"lon":-96.161389,"elevation":890,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

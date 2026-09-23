@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83Q"]={"id":"83Q","name":"PORT OF POULSBO MARINA MOORAGE","lat":47.720972,"lon":-122.642083,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

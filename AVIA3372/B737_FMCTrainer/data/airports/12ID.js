@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12ID"]={"id":"12ID","name":"FLYING B RANCH LANDING STRIP","lat":44.967969,"lon":-114.732869,"elevation":3647,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9GA1"]={"id":"9GA1","name":"BRIAR PATCH","lat":32.448889,"lon":-81.336944,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

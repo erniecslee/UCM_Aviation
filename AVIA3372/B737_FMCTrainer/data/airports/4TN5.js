@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN5"]={"id":"4TN5","name":"TOMMY'S FLD","lat":36.150833,"lon":-82.6325,"elevation":1561,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KKB"]={"id":"KKB","name":"KITOI BAY","lat":58.190947,"lon":-152.370489,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

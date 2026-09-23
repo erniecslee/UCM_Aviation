@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TE7"]={"id":"4TE7","name":"DEVIL'S RIVER RANCH","lat":29.740769,"lon":-100.9651,"elevation":1680,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

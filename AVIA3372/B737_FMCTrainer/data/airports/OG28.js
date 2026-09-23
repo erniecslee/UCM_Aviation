@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG28"]={"id":"OG28","name":"THE GREEN TREES RANCH","lat":44.683178,"lon":-122.782867,"elevation":1139,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

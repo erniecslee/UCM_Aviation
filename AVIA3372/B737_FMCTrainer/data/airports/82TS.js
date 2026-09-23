@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82TS"]={"id":"82TS","name":"ELMDALE AIRPARK","lat":32.450125,"lon":-99.650364,"elevation":1775,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

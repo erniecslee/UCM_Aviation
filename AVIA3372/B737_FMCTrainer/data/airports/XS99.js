@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS99"]={"id":"XS99","name":"LAKE WATER WHEEL","lat":30.471039,"lon":-94.912708,"elevation":80,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

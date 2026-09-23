@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CO2"]={"id":"2CO2","name":"LAS ARENAS EARTH AND SKY OBSER","lat":37.477822,"lon":-105.615803,"elevation":7582,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

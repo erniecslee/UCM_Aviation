@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IS5"]={"id":"7IS5","name":"KOPPIE","lat":42.121414,"lon":-88.378139,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

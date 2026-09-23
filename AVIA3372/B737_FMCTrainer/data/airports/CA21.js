@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA21"]={"id":"CA21","name":"LIMBERLOST RANCH","lat":39.220728,"lon":-121.214956,"elevation":1650,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

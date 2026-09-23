@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO82"]={"id":"MO82","name":"HOWARD","lat":40.408925,"lon":-92.056844,"elevation":740,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

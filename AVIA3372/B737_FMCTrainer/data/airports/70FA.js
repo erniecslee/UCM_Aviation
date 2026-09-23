@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70FA"]={"id":"70FA","name":"WEE BEE SKY RANCH","lat":27.562175,"lon":-80.599369,"elevation":27,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE34"]={"id":"TE34","name":"REB FOLBRE'S PLACE","lat":32.762631,"lon":-97.972819,"elevation":940,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

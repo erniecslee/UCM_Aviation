@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44ME"]={"id":"44ME","name":"HEACOCK FLD","lat":43.677222,"lon":-70.616944,"elevation":195,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

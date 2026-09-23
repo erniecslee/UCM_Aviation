@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO02"]={"id":"CO02","name":"HARRINGTON RANCH","lat":39.629708,"lon":-104.518578,"elevation":5975,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

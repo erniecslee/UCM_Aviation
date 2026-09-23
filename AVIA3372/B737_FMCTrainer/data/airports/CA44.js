@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA44"]={"id":"CA44","name":"SEQUOIA RANCH","lat":36.149947,"lon":-118.802317,"elevation":1153,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

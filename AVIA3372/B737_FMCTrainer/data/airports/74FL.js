@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74FL"]={"id":"74FL","name":"JEFFERSON LANDINGS","lat":30.584647,"lon":-83.707936,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

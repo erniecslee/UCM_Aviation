@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58NR"]={"id":"58NR","name":"CHASE FLD","lat":35.425306,"lon":-77.597333,"elevation":56,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

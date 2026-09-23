@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR94"]={"id":"NR94","name":"HEAVENLY ACRES","lat":36.523067,"lon":-80.277625,"elevation":1050,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

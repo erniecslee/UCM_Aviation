@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL51"]={"id":"AL51","name":"FLYING C'S PLANTATION","lat":32.416111,"lon":-85.299167,"elevation":395,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

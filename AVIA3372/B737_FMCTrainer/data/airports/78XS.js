@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78XS"]={"id":"78XS","name":"SMITH AVIATION INC","lat":29.053033,"lon":-96.262186,"elevation":75,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41AK"]={"id":"41AK","name":"SETTLERS BAY AIRSTRIP","lat":61.5009,"lon":-149.6397,"elevation":75,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

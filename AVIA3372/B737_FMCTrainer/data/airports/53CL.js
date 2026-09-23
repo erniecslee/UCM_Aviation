@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53CL"]={"id":"53CL","name":"LOFTY REDWOODS","lat":38.859631,"lon":-123.590567,"elevation":1317,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

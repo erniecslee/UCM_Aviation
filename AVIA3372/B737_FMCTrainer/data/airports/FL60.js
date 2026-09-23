@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL60"]={"id":"FL60","name":"REYNOLDS AIRPARK","lat":29.972464,"lon":-81.660922,"elevation":21,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

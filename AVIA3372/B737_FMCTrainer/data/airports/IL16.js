@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL16"]={"id":"IL16","name":"KLEIN-ONEAL","lat":38.685947,"lon":-87.544367,"elevation":413,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

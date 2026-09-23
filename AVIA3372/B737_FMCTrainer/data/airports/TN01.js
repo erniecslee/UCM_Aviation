@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN01"]={"id":"TN01","name":"RAY","lat":35.347308,"lon":-89.819528,"elevation":305,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

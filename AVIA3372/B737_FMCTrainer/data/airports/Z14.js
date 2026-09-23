@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z14"]={"id":"Z14","name":"TAZLINA","lat":62.064789,"lon":-146.460522,"elevation":2450,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

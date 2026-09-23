@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45AZ"]={"id":"45AZ","name":"WILLOW VALLEY","lat":34.913306,"lon":-114.580078,"elevation":450,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MA4"]={"id":"8MA4","name":"CROW ISLAND","lat":42.417222,"lon":-71.494444,"elevation":185,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

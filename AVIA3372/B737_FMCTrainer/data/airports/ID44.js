@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID44"]={"id":"ID44","name":"HIDDEN LAKES","lat":44.224892,"lon":-116.179578,"elevation":4845,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

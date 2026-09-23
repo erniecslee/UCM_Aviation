@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62PA"]={"id":"62PA","name":"SHREVEPORT NORTH","lat":40.036206,"lon":-76.995533,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

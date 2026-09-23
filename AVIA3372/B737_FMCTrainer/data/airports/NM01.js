@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM01"]={"id":"NM01","name":"RANCHO MAGDALENA","lat":34.0975,"lon":-107.2975,"elevation":6676,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

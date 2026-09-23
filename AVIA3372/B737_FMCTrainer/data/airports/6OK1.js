@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OK1"]={"id":"6OK1","name":"JOHN REID","lat":36.001481,"lon":-95.003014,"elevation":831,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

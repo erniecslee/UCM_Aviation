@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE06"]={"id":"TE06","name":"CASEY FLD","lat":33.379278,"lon":-96.316925,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

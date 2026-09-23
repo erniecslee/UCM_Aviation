@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR0"]={"id":"3AR0","name":"FROST FLYING INC","lat":34.822278,"lon":-90.846944,"elevation":240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA85"]={"id":"VA85","name":"NEW CASTLE INTL","lat":37.483464,"lon":-80.099769,"elevation":1320,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

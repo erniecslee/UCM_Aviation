@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0XA5"]={"id":"0XA5","name":"74 RANCH","lat":28.685383,"lon":-98.383117,"elevation":317,"region":"K4","runways":[{"id":"RW14","lat":28.689733,"lon":-98.386642,"length":3887,"course":139.5},{"id":"RW32","lat":28.681036,"lon":-98.379594,"length":3887,"course":319.5}],"procedures":{"D":{},"E":{},"F":{}}};

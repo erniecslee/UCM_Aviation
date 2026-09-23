@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49CN"]={"id":"49CN","name":"RANCHO TEHAMA","lat":40.015989,"lon":-122.389997,"elevation":550,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3L2"]={"id":"3L2","name":"SKY RANCH","lat":35.792944,"lon":-115.626417,"elevation":2599,"region":"K2","runways":[{"id":"RW12","lat":35.7961,"lon":-115.630425,"length":3300,"course":120.0},{"id":"RW30","lat":35.789803,"lon":-115.622419,"length":3300,"course":300.0}],"procedures":{"D":{},"E":{},"F":{}}};

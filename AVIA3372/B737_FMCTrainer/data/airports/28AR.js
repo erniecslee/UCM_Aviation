@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28AR"]={"id":"28AR","name":"HENLEY AERODROME","lat":35.833333,"lon":-91.433333,"elevation":377,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

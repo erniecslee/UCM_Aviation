@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS41"]={"id":"TS41","name":"WARESVILLE","lat":29.600833,"lon":-99.520911,"elevation":1347,"region":"K4","runways":[{"id":"RW16","lat":29.602678,"lon":-99.521561,"length":1400,"course":158.7},{"id":"RW34","lat":29.598997,"lon":-99.520258,"length":1400,"course":338.7}],"procedures":{"D":{},"E":{},"F":{}}};

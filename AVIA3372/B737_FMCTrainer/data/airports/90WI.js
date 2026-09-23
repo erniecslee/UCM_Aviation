@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90WI"]={"id":"90WI","name":"HERITAGE ACRES","lat":45.574964,"lon":-88.708444,"elevation":1608,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

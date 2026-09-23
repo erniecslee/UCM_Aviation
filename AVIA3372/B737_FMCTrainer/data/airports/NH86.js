@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH86"]={"id":"NH86","name":"INTERVALE","lat":43.175081,"lon":-71.7873,"elevation":425,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z93"]={"id":"Z93","name":"COPPER CENTER 2","lat":61.941189,"lon":-145.294081,"elevation":1150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

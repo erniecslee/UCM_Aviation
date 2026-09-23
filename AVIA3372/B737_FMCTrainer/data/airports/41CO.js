@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41CO"]={"id":"41CO","name":"FLYING DOG RANCH AIRSTRIP","lat":39.971111,"lon":-107.611111,"elevation":7020,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

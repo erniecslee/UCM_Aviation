@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83K"]={"id":"83K","name":"HARRIS","lat":43.409764,"lon":-73.532656,"elevation":261,"region":"K6","runways":[{"id":"RW04","lat":43.407261,"lon":-73.534967,"length":2200,"course":47.2},{"id":"RW22","lat":43.412267,"lon":-73.530342,"length":2200,"course":227.2}],"procedures":{"D":{},"E":{},"F":{}}};

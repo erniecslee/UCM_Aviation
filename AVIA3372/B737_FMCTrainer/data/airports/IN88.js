@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN88"]={"id":"IN88","name":"SANDERS GYROPORT","lat":39.513381,"lon":-86.763897,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

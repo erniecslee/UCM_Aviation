@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88TN"]={"id":"88TN","name":"PINEY CREEK","lat":35.423303,"lon":-85.783547,"elevation":1960,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

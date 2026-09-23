@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH97"]={"id":"OH97","name":"CARCIOPPOLO FLD","lat":41.359167,"lon":-81.217778,"elevation":1165,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

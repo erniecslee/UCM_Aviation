@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA30"]={"id":"MA30","name":"DRESSER HILL","lat":42.100094,"lon":-71.966186,"elevation":810,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

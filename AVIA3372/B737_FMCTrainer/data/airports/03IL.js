@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03IL"]={"id":"03IL","name":"WIX","lat":41.402256,"lon":-87.816714,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

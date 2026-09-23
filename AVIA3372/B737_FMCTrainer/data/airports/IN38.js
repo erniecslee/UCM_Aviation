@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN38"]={"id":"IN38","name":"STEWARTS GREEN ACRES","lat":41.545322,"lon":-86.452792,"elevation":725,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TS4"]={"id":"7TS4","name":"SANCTUARY RANCH","lat":32.056167,"lon":-96.045972,"elevation":264,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

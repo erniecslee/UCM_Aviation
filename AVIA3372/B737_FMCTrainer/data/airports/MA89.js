@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA89"]={"id":"MA89","name":"B&B FARM","lat":42.346111,"lon":-72.103889,"elevation":980,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XS5"]={"id":"3XS5","name":"STAR SMITH FLD","lat":29.298014,"lon":-98.676689,"elevation":662,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

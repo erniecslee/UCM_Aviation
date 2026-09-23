@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK42"]={"id":"OK42","name":"LARIAT RANCH","lat":36.578567,"lon":-95.686553,"elevation":684,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

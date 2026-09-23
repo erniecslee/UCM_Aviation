@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS06"]={"id":"PS06","name":"SNOOK","lat":40.733411,"lon":-77.266378,"elevation":710,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

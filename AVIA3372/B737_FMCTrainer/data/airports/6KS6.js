@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6KS6"]={"id":"6KS6","name":"FOXTROT FLD","lat":38.511972,"lon":-95.021308,"elevation":894,"region":"K3","runways":[{"id":"RW18","lat":38.512931,"lon":-95.021233,"length":700,"course":181.7},{"id":"RW36","lat":38.511008,"lon":-95.021367,"length":700,"course":1.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84LA"]={"id":"84LA","name":"TOUCHSTONE RIDGE","lat":32.552928,"lon":-93.593231,"elevation":180,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

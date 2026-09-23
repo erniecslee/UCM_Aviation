@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49PA"]={"id":"49PA","name":"GAP VIEW","lat":40.859264,"lon":-75.133789,"elevation":780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

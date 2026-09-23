@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9SD8"]={"id":"9SD8","name":"OAKLEAF","lat":43.582397,"lon":-96.944983,"elevation":1603,"region":"K3","runways":[{"id":"RW11","lat":43.583536,"lon":-96.949256,"length":2412,"course":107.4},{"id":"RW29","lat":43.581258,"lon":-96.940708,"length":2412,"course":287.4}],"procedures":{"D":{},"E":{},"F":{}}};

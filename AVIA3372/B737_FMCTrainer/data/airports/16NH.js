@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16NH"]={"id":"16NH","name":"BOSSEY'S","lat":43.604167,"lon":-71.5125,"elevation":624,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

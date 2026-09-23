@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74IL"]={"id":"74IL","name":"CORN ALLEY 2","lat":40.755697,"lon":-89.016336,"elevation":728,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

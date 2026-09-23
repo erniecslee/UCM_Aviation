@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS55"]={"id":"IS55","name":"MORTON","lat":40.590875,"lon":-90.942361,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

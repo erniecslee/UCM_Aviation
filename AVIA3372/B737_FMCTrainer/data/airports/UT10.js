@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT10"]={"id":"UT10","name":"CEDAR VALLEY","lat":40.359322,"lon":-112.018192,"elevation":5000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

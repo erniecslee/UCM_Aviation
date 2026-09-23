@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62GA"]={"id":"62GA","name":"SEVEN LAKES","lat":33.324564,"lon":-83.916297,"elevation":630,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

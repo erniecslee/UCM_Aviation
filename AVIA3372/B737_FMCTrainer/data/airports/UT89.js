@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT89"]={"id":"UT89","name":"COLD WATER","lat":41.681614,"lon":-111.981811,"elevation":4926,"region":"K2","runways":[{"id":"RW09","lat":41.681606,"lon":-111.982725,"length":500,"course":78.5},{"id":"RW27","lat":41.681619,"lon":-111.980894,"length":500,"course":258.5}],"procedures":{"D":{},"E":{},"F":{}}};

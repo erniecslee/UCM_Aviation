@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6R7"]={"id":"6R7","name":"OLD HARBOR","lat":57.218306,"lon":-153.269833,"elevation":55,"region":"PA","runways":[{"id":"RW03","lat":57.2155,"lon":-153.274458,"length":2750,"course":20.8},{"id":"RW21","lat":57.221111,"lon":-153.265206,"length":2750,"course":200.8}],"procedures":{"D":{},"E":{},"F":{}}};

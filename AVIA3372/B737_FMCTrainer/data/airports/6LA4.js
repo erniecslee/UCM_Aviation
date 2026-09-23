@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6LA4"]={"id":"6LA4","name":"DYER","lat":30.807139,"lon":-92.591806,"elevation":118,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

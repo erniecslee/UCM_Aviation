@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC43"]={"id":"NC43","name":"BEAR PEN","lat":34.125169,"lon":-78.338058,"elevation":63,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

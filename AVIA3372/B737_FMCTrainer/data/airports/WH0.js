@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WH0"]={"id":"WH0","name":"WOODHAWK","lat":47.779444,"lon":-109.078611,"elevation":3100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CZN"]={"id":"CZN","name":"CHISANA","lat":62.07175,"lon":-142.04935,"elevation":3348,"region":"PA","runways":[{"id":"RW12","lat":62.075433,"lon":-142.0532,"length":3000,"course":124.9},{"id":"RW30","lat":62.068067,"lon":-142.0455,"length":3000,"course":304.9}],"procedures":{"D":{},"E":{},"F":{}}};

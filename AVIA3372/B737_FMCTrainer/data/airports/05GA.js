@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05GA"]={"id":"05GA","name":"ARK","lat":32.071389,"lon":-84.714444,"elevation":625,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

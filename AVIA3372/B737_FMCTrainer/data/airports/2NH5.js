@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NH5"]={"id":"2NH5","name":"PILGRIM'S HOME AIRFIELD","lat":42.990278,"lon":-72.401667,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

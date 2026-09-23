@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN72"]={"id":"WN72","name":"KINCH FARMS","lat":46.866753,"lon":-118.321539,"elevation":1650,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

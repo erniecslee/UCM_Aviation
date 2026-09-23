@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC26"]={"id":"NC26","name":"LONG ISLAND AIRPARK","lat":35.660742,"lon":-80.973339,"elevation":864,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

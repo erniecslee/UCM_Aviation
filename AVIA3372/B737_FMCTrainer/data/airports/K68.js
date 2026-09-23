@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K68"]={"id":"K68","name":"GARNETT MUNI","lat":38.277306,"lon":-95.215222,"elevation":989,"region":"K3","runways":[{"id":"RW01","lat":38.274031,"lon":-95.216397,"length":2653,"course":10.8},{"id":"RW19","lat":38.280461,"lon":-95.214092,"length":2653,"course":190.8}],"procedures":{"D":{},"E":{},"F":{}}};

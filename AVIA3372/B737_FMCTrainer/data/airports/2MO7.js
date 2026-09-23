@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO7"]={"id":"2MO7","name":"FAWN LAKE","lat":38.866667,"lon":-91.086111,"elevation":750,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

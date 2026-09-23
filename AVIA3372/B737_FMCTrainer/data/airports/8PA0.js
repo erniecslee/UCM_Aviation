@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PA0"]={"id":"8PA0","name":"NUMIDIA","lat":40.866197,"lon":-76.397447,"elevation":1070,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK12"]={"id":"OK12","name":"JONES FARM FLD","lat":34.399167,"lon":-98.266389,"elevation":1042,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

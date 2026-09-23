@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03NC"]={"id":"03NC","name":"PILOTS RIDGE","lat":34.104339,"lon":-77.904167,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

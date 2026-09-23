@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID28"]={"id":"ID28","name":"MACKAY BAR","lat":45.379075,"lon":-115.505125,"elevation":2172,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

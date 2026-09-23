@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1H9"]={"id":"1H9","name":"NEST OF EAGLES","lat":45.835617,"lon":-91.802839,"elevation":1115,"region":"K5","runways":[{"id":"RW01","lat":45.831639,"lon":-91.803736,"length":3600,"course":7.0},{"id":"RW19","lat":45.840153,"lon":-91.801811,"length":3600,"course":187.0}],"procedures":{"D":{},"E":{},"F":{}}};

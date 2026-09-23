@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS83"]={"id":"LS83","name":"DELTA DUSTERS, LLC","lat":32.062656,"lon":-91.254281,"elevation":77,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK9"]={"id":"4AK9","name":"TIBBETTS","lat":58.734269,"lon":-157.007142,"elevation":50,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

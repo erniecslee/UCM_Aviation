@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26IS"]={"id":"26IS","name":"FICKLIN-AIRTECH","lat":40.7667,"lon":-88.505611,"elevation":672,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

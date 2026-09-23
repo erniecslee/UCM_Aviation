@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K29"]={"id":"K29","name":"COUNCIL","lat":64.896747,"lon":-163.7035,"elevation":100,"region":"PA","runways":[{"id":"RW10","lat":64.8986,"lon":-163.712117,"length":3000,"course":99.0},{"id":"RW28","lat":64.894894,"lon":-163.694881,"length":3000,"course":279.0}],"procedures":{"D":{},"E":{},"F":{}}};

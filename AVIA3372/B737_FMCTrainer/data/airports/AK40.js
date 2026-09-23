@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK40"]={"id":"AK40","name":"NIXON FORK MINE","lat":63.229181,"lon":-154.760336,"elevation":1510,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

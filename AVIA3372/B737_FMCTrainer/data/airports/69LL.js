@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69LL"]={"id":"69LL","name":"MAAS AIRSTRIP","lat":41.286975,"lon":-91.048758,"elevation":534,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

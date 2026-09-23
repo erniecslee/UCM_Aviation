@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52PA"]={"id":"52PA","name":"WILDCAT","lat":40.763144,"lon":-76.00465,"elevation":980,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

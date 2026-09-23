@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT20"]={"id":"TT20","name":"LAZY 8 FLYING RANCH","lat":30.964722,"lon":-95.834722,"elevation":227,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

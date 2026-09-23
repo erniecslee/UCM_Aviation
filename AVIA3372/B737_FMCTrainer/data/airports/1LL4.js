@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LL4"]={"id":"1LL4","name":"NORFLEET","lat":39.976931,"lon":-88.711928,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

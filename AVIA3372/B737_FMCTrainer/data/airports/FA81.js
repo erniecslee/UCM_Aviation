@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA81"]={"id":"FA81","name":"TAVERNAERO PARK","lat":25.004914,"lon":-80.533161,"elevation":10,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

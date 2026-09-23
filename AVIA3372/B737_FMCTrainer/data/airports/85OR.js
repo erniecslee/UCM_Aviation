@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85OR"]={"id":"85OR","name":"ALLENS AIRSTRIP","lat":42.404594,"lon":-121.048878,"elevation":4410,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

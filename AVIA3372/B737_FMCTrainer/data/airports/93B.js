@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93B"]={"id":"93B","name":"STONINGTON MUNI","lat":44.173222,"lon":-68.68025,"elevation":32,"region":"K6","runways":[{"id":"RW07","lat":44.171408,"lon":-68.683356,"length":2099,"course":69.0},{"id":"RW25","lat":44.175033,"lon":-68.677142,"length":2099,"course":249.0}],"procedures":{"D":{},"E":{},"F":{}}};

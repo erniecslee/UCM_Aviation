@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D03"]={"id":"D03","name":"KULM MUNI","lat":46.306764,"lon":-98.938833,"elevation":1959,"region":"K3","runways":[{"id":"RW12","lat":46.308964,"lon":-98.943372,"length":2800,"course":120.9},{"id":"RW30","lat":46.304561,"lon":-98.934297,"length":2800,"course":300.9}],"procedures":{"D":{},"E":{},"F":{}}};

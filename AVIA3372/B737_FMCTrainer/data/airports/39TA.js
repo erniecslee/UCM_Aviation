@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39TA"]={"id":"39TA","name":"FLYING TIGERS","lat":33.652606,"lon":-95.655794,"elevation":588,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

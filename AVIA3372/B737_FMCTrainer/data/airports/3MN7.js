@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MN7"]={"id":"3MN7","name":"BLUE SKY","lat":46.800517,"lon":-96.595,"elevation":927,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

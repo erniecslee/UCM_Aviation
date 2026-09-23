@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PN0"]={"id":"0PN0","name":"LAKEVIEW","lat":41.441947,"lon":-80.155094,"elevation":1317,"region":"K6","runways":[{"id":"RW04","lat":41.440644,"lon":-80.156436,"length":1200,"course":45.8},{"id":"RW22","lat":41.443247,"lon":-80.153756,"length":1200,"course":225.8}],"procedures":{"D":{},"E":{},"F":{}}};

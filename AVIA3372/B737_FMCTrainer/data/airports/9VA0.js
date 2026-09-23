@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9VA0"]={"id":"9VA0","name":"BATH ALUM","lat":38.052625,"lon":-79.728939,"elevation":1779,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH77"]={"id":"OH77","name":"LUMBERTON","lat":39.553117,"lon":-83.854928,"elevation":1008,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

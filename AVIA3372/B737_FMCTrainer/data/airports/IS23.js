@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS23"]={"id":"IS23","name":"TURNER","lat":42.007483,"lon":-88.286661,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

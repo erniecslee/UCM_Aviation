@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK39"]={"id":"AK39","name":"SOUTH GASLINE","lat":60.697197,"lon":-150.17995,"elevation":381,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

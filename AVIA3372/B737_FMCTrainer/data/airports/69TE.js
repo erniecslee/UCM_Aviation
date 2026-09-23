@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69TE"]={"id":"69TE","name":"DEER PASTURE","lat":30.926289,"lon":-98.236417,"elevation":1422,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

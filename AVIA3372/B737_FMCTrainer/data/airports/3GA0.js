@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA0"]={"id":"3GA0","name":"GRANT","lat":33.5275,"lon":-84.156944,"elevation":790,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG12"]={"id":"VG12","name":"SIMPSONVILLE","lat":38.3173,"lon":-77.867414,"elevation":398,"region":"K6","runways":[{"id":"RW01","lat":38.314694,"lon":-77.867578,"length":1900,"course":11.8},{"id":"RW19","lat":38.319906,"lon":-77.86725,"length":1900,"course":191.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TA1"]={"id":"1TA1","name":"AREA 142","lat":32.628333,"lon":-99.140278,"elevation":1311,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

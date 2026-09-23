@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KKL"]={"id":"KKL","name":"KARLUK LAKE","lat":57.367036,"lon":-154.027592,"elevation":368,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

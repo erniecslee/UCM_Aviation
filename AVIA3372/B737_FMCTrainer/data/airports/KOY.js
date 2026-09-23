@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KOY"]={"id":"KOY","name":"OLGA BAY","lat":57.161453,"lon":-154.229794,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

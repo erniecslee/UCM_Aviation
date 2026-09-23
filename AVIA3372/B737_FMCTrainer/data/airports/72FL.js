@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72FL"]={"id":"72FL","name":"GATOR AIRPARK","lat":28.157517,"lon":-81.234797,"elevation":68,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

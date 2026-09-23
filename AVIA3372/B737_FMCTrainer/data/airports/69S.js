@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69S"]={"id":"69S","name":"AVEY FLD","lat":48.998381,"lon":-118.2226,"elevation":1655,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

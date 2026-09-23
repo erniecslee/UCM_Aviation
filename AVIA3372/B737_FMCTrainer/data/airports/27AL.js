@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27AL"]={"id":"27AL","name":"LITTLE TEXAS","lat":32.453528,"lon":-85.558156,"elevation":500,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

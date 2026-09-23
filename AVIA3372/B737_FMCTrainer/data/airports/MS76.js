@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS76"]={"id":"MS76","name":"WADE FLD","lat":33.774869,"lon":-89.244775,"elevation":300,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

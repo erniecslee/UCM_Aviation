@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13MO"]={"id":"13MO","name":"DOMEYER","lat":37.676431,"lon":-91.706542,"elevation":1260,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

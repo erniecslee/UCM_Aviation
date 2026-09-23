@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74NK"]={"id":"74NK","name":"SUNSIDE","lat":42.327222,"lon":-74.063056,"elevation":360,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

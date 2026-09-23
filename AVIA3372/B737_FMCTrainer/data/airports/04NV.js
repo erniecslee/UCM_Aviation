@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04NV"]={"id":"04NV","name":"KINGSTON RANCH","lat":35.755531,"lon":-115.664728,"elevation":2620,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

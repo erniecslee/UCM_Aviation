@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KY6"]={"id":"8KY6","name":"CAINTUCKEE","lat":38.935528,"lon":-84.568278,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

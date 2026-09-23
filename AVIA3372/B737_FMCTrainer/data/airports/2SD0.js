@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SD0"]={"id":"2SD0","name":"PARADISE VALLEY","lat":44.163597,"lon":-103.4788,"elevation":4500,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

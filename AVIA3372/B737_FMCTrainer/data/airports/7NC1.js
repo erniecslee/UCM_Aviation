@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NC1"]={"id":"7NC1","name":"STAG AIR PARK","lat":34.527944,"lon":-77.850261,"elevation":23,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

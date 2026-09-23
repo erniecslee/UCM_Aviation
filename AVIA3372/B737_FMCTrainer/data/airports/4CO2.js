@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4CO2"]={"id":"4CO2","name":"OWL CANYON","lat":40.804706,"lon":-104.984972,"elevation":5545,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

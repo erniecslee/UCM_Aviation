@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14IA"]={"id":"14IA","name":"EAST RIVER","lat":43.360281,"lon":-94.442364,"elevation":1235,"region":"K3","runways":[{"id":"RW18","lat":43.364094,"lon":-94.442375,"length":2780,"course":178.9},{"id":"RW36","lat":43.356467,"lon":-94.442347,"length":2780,"course":358.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76OK"]={"id":"76OK","name":"ODOM'S ROOST","lat":35.284786,"lon":-97.616983,"elevation":1240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

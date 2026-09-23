@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TS2"]={"id":"7TS2","name":"ALISON AIR PARK","lat":29.831333,"lon":-97.889169,"elevation":630,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

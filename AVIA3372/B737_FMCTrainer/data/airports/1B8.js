@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1B8"]={"id":"1B8","name":"CHAPIN FLD","lat":43.052694,"lon":-73.363139,"elevation":510,"region":"K6","runways":[{"id":"RW05","lat":43.050211,"lon":-73.365225,"length":2130,"course":46.0},{"id":"RW23","lat":43.055181,"lon":-73.361028,"length":2130,"course":226.0}],"procedures":{"D":{},"E":{},"F":{}}};

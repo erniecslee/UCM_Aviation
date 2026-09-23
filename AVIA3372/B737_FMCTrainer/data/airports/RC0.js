@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["RC0"]={"id":"RC0","name":"ROCK CREEK","lat":46.72715,"lon":-113.657594,"elevation":3547,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

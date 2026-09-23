@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IS3"]={"id":"7IS3","name":"HOOTERVILLE","lat":40.143372,"lon":-89.091753,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

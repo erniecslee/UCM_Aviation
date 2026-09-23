@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11MN"]={"id":"11MN","name":"POINT","lat":44.953889,"lon":-93.564444,"elevation":936,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

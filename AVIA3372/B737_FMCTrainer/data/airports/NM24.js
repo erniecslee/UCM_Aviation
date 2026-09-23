@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM24"]={"id":"NM24","name":"EASTSIDE","lat":36.921678,"lon":-106.560311,"elevation":8030,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

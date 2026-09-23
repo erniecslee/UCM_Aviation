@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1XS1"]={"id":"1XS1","name":"DUNHAM FLD","lat":29.938281,"lon":-95.046483,"elevation":60,"region":"K4","runways":[{"id":"RW09","lat":29.938203,"lon":-95.050744,"length":2700,"course":84.0},{"id":"RW27","lat":29.938356,"lon":-95.042222,"length":2700,"course":264.0}],"procedures":{"D":{},"E":{},"F":{}}};

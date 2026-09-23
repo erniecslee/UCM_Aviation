@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16NJ"]={"id":"16NJ","name":"HUMMEL","lat":39.937342,"lon":-74.135694,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

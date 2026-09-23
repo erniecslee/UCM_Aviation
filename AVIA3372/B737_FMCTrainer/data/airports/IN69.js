@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN69"]={"id":"IN69","name":"BLACKMON FLD","lat":41.175167,"lon":-86.547444,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT3"]={"id":"MT3","name":"KNOX RIDGE","lat":47.616667,"lon":-108.848056,"elevation":2950,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IL5"]={"id":"5IL5","name":"HOPE FLD","lat":41.259925,"lon":-88.356536,"elevation":558,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

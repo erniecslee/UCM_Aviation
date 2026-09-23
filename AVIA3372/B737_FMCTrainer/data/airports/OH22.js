@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH22"]={"id":"OH22","name":"STOLTZFUS AIRFIELD","lat":40.761167,"lon":-81.779022,"elevation":1130,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

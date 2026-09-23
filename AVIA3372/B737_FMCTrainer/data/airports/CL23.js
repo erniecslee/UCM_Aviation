@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL23"]={"id":"CL23","name":"JONES/AG-VIATION","lat":39.459608,"lon":-121.696086,"elevation":109,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

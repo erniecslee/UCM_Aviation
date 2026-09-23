@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX38"]={"id":"TX38","name":"DUKE RANCH","lat":36.379478,"lon":-100.343194,"elevation":2705,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

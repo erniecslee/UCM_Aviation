@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT09"]={"id":"CT09","name":"HECKLER FLD","lat":41.802875,"lon":-72.39175,"elevation":793,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

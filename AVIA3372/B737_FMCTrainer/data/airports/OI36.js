@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI36"]={"id":"OI36","name":"FARPOINT AIRFIELD","lat":39.6225,"lon":-84.483056,"elevation":990,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

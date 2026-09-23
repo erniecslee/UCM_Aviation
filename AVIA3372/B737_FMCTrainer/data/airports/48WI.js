@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48WI"]={"id":"48WI","name":"CIRCLE A RANCH","lat":45.793844,"lon":-89.730147,"elevation":1640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

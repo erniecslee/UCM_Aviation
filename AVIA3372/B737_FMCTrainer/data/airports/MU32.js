@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU32"]={"id":"MU32","name":"SUGAR BRANCH","lat":38.951147,"lon":-92.447406,"elevation":700,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

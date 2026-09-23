@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE39"]={"id":"TE39","name":"BUCKER FLD","lat":33.442272,"lon":-97.272378,"elevation":887,"region":"K4","runways":[{"id":"RW17","lat":33.445017,"lon":-97.272556,"length":2000,"course":170.9},{"id":"RW35","lat":33.439528,"lon":-97.272197,"length":2000,"course":350.9}],"procedures":{"D":{},"E":{},"F":{}}};

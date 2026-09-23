@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT42"]={"id":"CT42","name":"WINGS AGO AIRSTRIP","lat":41.853967,"lon":-73.275642,"elevation":1585,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04IS"]={"id":"04IS","name":"VAN GORDER","lat":40.178644,"lon":-88.568953,"elevation":728,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

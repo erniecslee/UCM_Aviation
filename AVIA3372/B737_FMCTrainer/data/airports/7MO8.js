@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MO8"]={"id":"7MO8","name":"LAUGHLIN","lat":38.140797,"lon":-94.508761,"elevation":847,"region":"K3","runways":[{"id":"RW18","lat":38.144325,"lon":-94.508589,"length":2570,"course":181.1},{"id":"RW36","lat":38.137272,"lon":-94.508933,"length":2570,"course":1.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52MN"]={"id":"52MN","name":"ANDERSON FLD","lat":48.643036,"lon":-96.807278,"elevation":800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

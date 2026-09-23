@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI73"]={"id":"WI73","name":"HAPPY JACKS AIR STRIP","lat":43.999981,"lon":-88.833444,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

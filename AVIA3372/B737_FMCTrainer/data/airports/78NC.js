@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78NC"]={"id":"78NC","name":"FUQUAY/ANGIER FLD","lat":35.543344,"lon":-78.750461,"elevation":349,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

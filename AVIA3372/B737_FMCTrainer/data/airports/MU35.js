@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU35"]={"id":"MU35","name":"TALLEN","lat":40.267492,"lon":-94.786636,"elevation":1123,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

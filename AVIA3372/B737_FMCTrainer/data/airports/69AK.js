@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69AK"]={"id":"69AK","name":"MEMORY LAKE","lat":61.628889,"lon":-149.423611,"elevation":463,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

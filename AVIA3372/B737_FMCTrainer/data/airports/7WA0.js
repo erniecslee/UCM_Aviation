@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WA0"]={"id":"7WA0","name":"BIG ANDY","lat":48.098422,"lon":-123.642972,"elevation":830,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

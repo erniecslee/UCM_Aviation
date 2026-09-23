@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG52"]={"id":"VG52","name":"WOODRIDGE FLD","lat":37.839167,"lon":-78.821667,"elevation":663,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

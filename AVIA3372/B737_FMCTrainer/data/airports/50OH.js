@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50OH"]={"id":"50OH","name":"AERODROME LES NOYERS","lat":39.680353,"lon":-83.744672,"elevation":1085,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

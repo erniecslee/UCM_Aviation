@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME61"]={"id":"ME61","name":"SALMON FALLS","lat":43.294528,"lon":-70.899506,"elevation":190,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

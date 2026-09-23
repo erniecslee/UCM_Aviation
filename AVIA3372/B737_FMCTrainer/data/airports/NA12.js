@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA12"]={"id":"NA12","name":"JOHNSON","lat":47.431664,"lon":-100.841528,"elevation":1920,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

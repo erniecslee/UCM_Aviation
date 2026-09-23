@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TS3"]={"id":"5TS3","name":"KNAPP PECAN ORCHARD AIRPARK","lat":31.974167,"lon":-96.678333,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

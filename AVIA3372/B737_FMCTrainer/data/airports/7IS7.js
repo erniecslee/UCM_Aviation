@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IS7"]={"id":"7IS7","name":"HAMMOCK FLD","lat":38.913936,"lon":-89.670089,"elevation":595,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

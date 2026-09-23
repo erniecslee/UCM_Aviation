@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT10"]={"id":"TT10","name":"HUTSON RANCH","lat":33.429028,"lon":-99.947778,"elevation":1470,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

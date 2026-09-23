@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD50"]={"id":"MD50","name":"CHESAPEAKE RANCH","lat":38.361236,"lon":-76.405228,"elevation":116,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

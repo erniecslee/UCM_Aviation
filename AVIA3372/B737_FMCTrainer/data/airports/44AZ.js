@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44AZ"]={"id":"44AZ","name":"SANDHILL RANCH","lat":36.931931,"lon":-111.969622,"elevation":5868,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

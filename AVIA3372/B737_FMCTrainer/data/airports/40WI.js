@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40WI"]={"id":"40WI","name":"SCHUBERT AIRSTRIP","lat":44.058294,"lon":-91.430703,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

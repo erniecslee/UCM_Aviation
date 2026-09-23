@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK21"]={"id":"AK21","name":"NUSHAGAK","lat":59.132583,"lon":-157.777181,"elevation":40,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

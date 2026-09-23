@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1I5"]={"id":"1I5","name":"FREEHOLD","lat":42.364,"lon":-74.065028,"elevation":440,"region":"K6","runways":[{"id":"RW12","lat":42.365067,"lon":-74.068994,"length":2275,"course":124.0},{"id":"RW30","lat":42.362953,"lon":-74.061072,"length":2275,"course":304.0}],"procedures":{"D":{},"E":{},"F":{}}};

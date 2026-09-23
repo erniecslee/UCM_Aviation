@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20MT"]={"id":"20MT","name":"PREVOST","lat":47.691667,"lon":-104.588056,"elevation":2348,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

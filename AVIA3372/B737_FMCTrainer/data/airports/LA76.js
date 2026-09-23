@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA76"]={"id":"LA76","name":"SPILLERS CLUB","lat":30.229367,"lon":-91.90845,"elevation":16,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

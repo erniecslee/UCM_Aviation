@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA83"]={"id":"IA83","name":"KOHLHAAS","lat":42.955114,"lon":-94.167492,"elevation":1155,"region":"K3","runways":[{"id":"RW17","lat":42.958611,"lon":-94.167469,"length":2550,"course":176.0},{"id":"RW35","lat":42.951614,"lon":-94.167511,"length":2550,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

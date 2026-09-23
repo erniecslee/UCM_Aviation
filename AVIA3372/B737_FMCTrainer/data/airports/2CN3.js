@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CN3"]={"id":"2CN3","name":"TENAJA VALLEY","lat":33.511111,"lon":-117.328611,"elevation":2350,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI32"]={"id":"WI32","name":"T-BO FLD","lat":44.987322,"lon":-91.330375,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

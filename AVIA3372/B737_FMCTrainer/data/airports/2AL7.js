@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AL7"]={"id":"2AL7","name":"MOUNT AERO LAKE FARM","lat":34.062778,"lon":-86.723056,"elevation":625,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

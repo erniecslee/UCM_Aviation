@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92G"]={"id":"92G","name":"MIDLAKES","lat":42.814222,"lon":-77.202917,"elevation":1080,"region":"K6","runways":[{"id":"RW14","lat":42.815611,"lon":-77.205733,"length":1820,"course":135.0},{"id":"RW32","lat":42.812847,"lon":-77.200081,"length":1820,"course":315.0}],"procedures":{"D":{},"E":{},"F":{}}};

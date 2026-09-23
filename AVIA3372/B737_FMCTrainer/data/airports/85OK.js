@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85OK"]={"id":"85OK","name":"LOCKHART FLD","lat":35.818139,"lon":-97.662833,"elevation":1100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

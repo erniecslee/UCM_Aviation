@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAMM"]={"id":"PAMM","name":"METLAKATLA","lat":55.130775,"lon":-131.574306,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

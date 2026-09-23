@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC72"]={"id":"SC72","name":"CHANDELLE","lat":34.824472,"lon":-82.146417,"elevation":850,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

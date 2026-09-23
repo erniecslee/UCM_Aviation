@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KAE"]={"id":"KAE","name":"KAKE","lat":56.972997,"lon":-133.945614,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

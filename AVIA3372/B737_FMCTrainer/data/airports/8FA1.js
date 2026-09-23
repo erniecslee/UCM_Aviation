@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FA1"]={"id":"8FA1","name":"CLARK FLD","lat":30.052942,"lon":-82.241772,"elevation":123,"region":"K7","runways":[{"id":"RW09","lat":30.052889,"lon":-82.244931,"length":2000,"course":95.5},{"id":"RW27","lat":30.052994,"lon":-82.238611,"length":2000,"course":275.5}],"procedures":{"D":{},"E":{},"F":{}}};

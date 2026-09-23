@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2K6"]={"id":"2K6","name":"ELK COUNTY","lat":37.380917,"lon":-96.271111,"elevation":1063,"region":"K3","runways":[{"id":"RW18","lat":37.384372,"lon":-96.270867,"length":2510,"course":177.0},{"id":"RW36","lat":37.377486,"lon":-96.271333,"length":2510,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL86"]={"id":"IL86","name":"KROHE","lat":39.936158,"lon":-90.466792,"elevation":450,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

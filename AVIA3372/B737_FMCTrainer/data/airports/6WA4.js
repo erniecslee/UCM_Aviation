@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WA4"]={"id":"6WA4","name":"OCHOA FLD","lat":46.863522,"lon":-119.142869,"elevation":1149,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

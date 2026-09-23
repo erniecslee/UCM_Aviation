@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OI9"]={"id":"7OI9","name":"MASSENGILL","lat":40.068956,"lon":-82.135975,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22IL"]={"id":"22IL","name":"HORSESHOE MOUND","lat":42.411953,"lon":-90.400128,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

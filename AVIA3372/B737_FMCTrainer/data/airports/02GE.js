@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02GE"]={"id":"02GE","name":"ETOWAH FIELDS","lat":34.175278,"lon":-84.924444,"elevation":710,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

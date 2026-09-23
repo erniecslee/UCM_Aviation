@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08NR"]={"id":"08NR","name":"BELL MOUNTAIN","lat":35.217778,"lon":-82.426111,"elevation":2150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

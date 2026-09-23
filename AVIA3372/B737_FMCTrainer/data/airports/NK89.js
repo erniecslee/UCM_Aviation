@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK89"]={"id":"NK89","name":"ULTRALIGHT FLIGHT FARM","lat":42.291742,"lon":-77.058025,"elevation":1200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

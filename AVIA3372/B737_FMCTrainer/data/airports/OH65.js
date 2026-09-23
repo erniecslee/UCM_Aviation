@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH65"]={"id":"OH65","name":"HICKORY GROVE AIRPARK","lat":39.239444,"lon":-84.100278,"elevation":895,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

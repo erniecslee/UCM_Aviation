@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR5"]={"id":"3AR5","name":"TRIPP STRIP","lat":35.117864,"lon":-91.611883,"elevation":210,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

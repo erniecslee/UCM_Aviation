@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9S4"]={"id":"9S4","name":"MINERAL COUNTY","lat":47.168258,"lon":-114.853742,"elevation":2787,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

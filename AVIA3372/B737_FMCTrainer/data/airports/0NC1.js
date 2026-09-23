@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NC1"]={"id":"0NC1","name":"H & J STRIP","lat":36.258117,"lon":-79.485744,"elevation":686,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

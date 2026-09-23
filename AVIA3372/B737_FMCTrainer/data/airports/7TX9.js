@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TX9"]={"id":"7TX9","name":"ASHFORD FLD","lat":33.358733,"lon":-94.4377,"elevation":305,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

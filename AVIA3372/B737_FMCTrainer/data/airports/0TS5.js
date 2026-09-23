@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TS5"]={"id":"0TS5","name":"BASS BREEZE RANCH","lat":30.441872,"lon":-95.186325,"elevation":230,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

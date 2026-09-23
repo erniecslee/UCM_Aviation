@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95TX"]={"id":"95TX","name":"CHUPADERA RANCH","lat":28.192494,"lon":-100.072283,"elevation":651,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

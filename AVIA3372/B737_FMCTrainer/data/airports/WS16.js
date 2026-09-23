@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS16"]={"id":"WS16","name":"SCHERRICO MEADOWS","lat":44.847189,"lon":-89.801514,"elevation":1345,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

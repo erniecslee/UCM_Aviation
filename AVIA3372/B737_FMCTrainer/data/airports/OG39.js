@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG39"]={"id":"OG39","name":"LONGVIEW RANCH","lat":44.660861,"lon":-119.652617,"elevation":2080,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

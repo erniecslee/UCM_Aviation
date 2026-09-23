@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MN2"]={"id":"2MN2","name":"DREAMCATCHER","lat":46.940361,"lon":-93.297939,"elevation":1250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

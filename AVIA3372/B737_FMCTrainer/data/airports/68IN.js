@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68IN"]={"id":"68IN","name":"ALLEY OOP","lat":41.121428,"lon":-86.997522,"elevation":715,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

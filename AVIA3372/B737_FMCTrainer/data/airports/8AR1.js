@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AR1"]={"id":"8AR1","name":"TOTTY FLD","lat":36.489444,"lon":-92.642222,"elevation":780,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

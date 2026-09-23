@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29CN"]={"id":"29CN","name":"MILLER'S MOTHER LODE","lat":38.8499,"lon":-120.834381,"elevation":2400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

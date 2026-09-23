@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0A1"]={"id":"0A1","name":"CAMPBELL LAKE","lat":61.133061,"lon":-149.9419,"elevation":20,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

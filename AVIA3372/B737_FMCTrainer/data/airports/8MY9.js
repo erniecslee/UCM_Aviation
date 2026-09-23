@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MY9"]={"id":"8MY9","name":"MINGLEWOOD","lat":46.051033,"lon":-95.603114,"elevation":1385,"region":"K3","runways":[{"id":"RW13","lat":46.052461,"lon":-95.605367,"length":1546,"course":130.7},{"id":"RW31","lat":46.049608,"lon":-95.600864,"length":1546,"course":310.7}],"procedures":{"D":{},"E":{},"F":{}}};

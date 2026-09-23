@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KHAD"]={"id":"KHAD","name":"IRWINS SKY RANCH","lat":42.924411,"lon":-106.309469,"elevation":5370,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

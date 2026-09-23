@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NSAS"]={"id":"NSAS","name":"OFU","lat":-14.184344,"lon":-169.6701,"elevation":12,"region":"NS","runways":[{"id":"RW08","lat":-14.183986,"lon":-169.672872,"length":1980,"course":86.0},{"id":"RW26","lat":-14.1847,"lon":-169.667328,"length":1980,"course":266.0}],"procedures":{"D":{},"E":{},"F":{}}};

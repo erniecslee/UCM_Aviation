@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK1"]={"id":"OK1","name":"STEARMANS ROOST","lat":36.488419,"lon":-95.143856,"elevation":702,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

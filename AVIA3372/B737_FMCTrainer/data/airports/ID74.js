@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID74"]={"id":"ID74","name":"SULPHUR CREEK RANCH","lat":44.536569,"lon":-115.350942,"elevation":5835,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

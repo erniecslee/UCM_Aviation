@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY05"]={"id":"WY05","name":"SKYVIEW AIRPARK","lat":41.217769,"lon":-104.586611,"elevation":5838,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

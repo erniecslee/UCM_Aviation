@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT45"]={"id":"VT45","name":"DAVIS","lat":44.517272,"lon":-72.979294,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

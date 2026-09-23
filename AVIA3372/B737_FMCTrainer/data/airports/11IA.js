@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11IA"]={"id":"11IA","name":"KOCH FLD","lat":42.349872,"lon":-92.513392,"elevation":988,"region":"K3","runways":[{"id":"RW18","lat":42.351683,"lon":-92.513392,"length":1320,"course":180.5},{"id":"RW36","lat":42.348061,"lon":-92.513392,"length":1320,"course":0.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A77"]={"id":"A77","name":"YANKEE CREEK 2","lat":63.001869,"lon":-156.367361,"elevation":1120,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK31"]={"id":"NK31","name":"DAWN PATROL AVIATION","lat":43.269503,"lon":-78.145297,"elevation":480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

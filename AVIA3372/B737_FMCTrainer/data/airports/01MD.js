@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01MD"]={"id":"01MD","name":"ANNAPOLIS","lat":38.999167,"lon":-76.455967,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

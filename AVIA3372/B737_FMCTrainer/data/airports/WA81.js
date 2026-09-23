@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA81"]={"id":"WA81","name":"EVERGREEN NORTH-SOUTH AIRPARK","lat":45.631111,"lon":-122.530833,"elevation":312,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

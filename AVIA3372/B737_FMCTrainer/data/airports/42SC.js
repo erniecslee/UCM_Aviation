@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42SC"]={"id":"42SC","name":"CHICKEN COOP","lat":34.162361,"lon":-79.666167,"elevation":74,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

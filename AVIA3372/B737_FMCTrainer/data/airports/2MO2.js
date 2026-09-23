@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO2"]={"id":"2MO2","name":"NORTHWOOD","lat":39.464169,"lon":-94.308,"elevation":1000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

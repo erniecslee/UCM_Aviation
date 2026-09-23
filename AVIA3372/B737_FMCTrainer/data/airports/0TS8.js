@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TS8"]={"id":"0TS8","name":"FLYING 'K' RANCH","lat":26.150353,"lon":-97.883611,"elevation":81,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

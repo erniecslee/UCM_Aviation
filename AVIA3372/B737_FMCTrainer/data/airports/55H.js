@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55H"]={"id":"55H","name":"ATLANTA","lat":43.813511,"lon":-115.135081,"elevation":5500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

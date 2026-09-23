@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM05"]={"id":"NM05","name":"CIELO DORADO ESTATES","lat":31.909269,"lon":-106.641103,"elevation":3750,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

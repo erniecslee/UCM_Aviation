@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2O1"]={"id":"2O1","name":"GANSNER FLD","lat":39.943917,"lon":-120.945389,"elevation":3419,"region":"K2","runways":[{"id":"RW07","lat":39.94315,"lon":-120.952642,"length":4105,"course":65.0},{"id":"RW25","lat":39.944686,"lon":-120.938142,"length":4105,"course":245.0}],"procedures":{"D":{},"E":{},"F":{}}};

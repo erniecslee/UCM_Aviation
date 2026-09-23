@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32IN"]={"id":"32IN","name":"SCUDDER FLD","lat":38.918164,"lon":-84.974236,"elevation":905,"region":"K5","runways":[{"id":"RW10","lat":38.918528,"lon":-84.977775,"length":2033,"course":103.2},{"id":"RW28","lat":38.9178,"lon":-84.970694,"length":2033,"course":283.3}],"procedures":{"D":{},"E":{},"F":{}}};

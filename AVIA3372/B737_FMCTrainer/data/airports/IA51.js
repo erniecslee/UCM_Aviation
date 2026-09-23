@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA51"]={"id":"IA51","name":"HOLT FARMS","lat":43.426817,"lon":-93.273553,"elevation":1274,"region":"K3","runways":[{"id":"RW04","lat":43.424203,"lon":-93.275739,"length":2231,"course":31.4},{"id":"RW22","lat":43.429431,"lon":-93.271364,"length":2231,"course":211.4}],"procedures":{"D":{},"E":{},"F":{}}};

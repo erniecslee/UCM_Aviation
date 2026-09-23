@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS45"]={"id":"WS45","name":"CIRCLE K","lat":45.341633,"lon":-89.674575,"elevation":1500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64AK"]={"id":"64AK","name":"CARPENTIERS STRIP","lat":61.439911,"lon":-150.0261,"elevation":175,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

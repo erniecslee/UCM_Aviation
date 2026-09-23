@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI31"]={"id":"MI31","name":"NARTRON FLD","lat":43.900064,"lon":-85.516236,"elevation":1055,"region":"K5","runways":[{"id":"RW18","lat":43.90615,"lon":-85.517719,"length":4506,"course":174.0},{"id":"RW36","lat":43.893978,"lon":-85.51475,"length":4506,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

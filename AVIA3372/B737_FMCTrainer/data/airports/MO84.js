@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO84"]={"id":"MO84","name":"VIBURNUM","lat":37.716714,"lon":-91.133467,"elevation":1272,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

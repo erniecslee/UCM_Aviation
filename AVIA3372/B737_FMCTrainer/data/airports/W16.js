@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W16"]={"id":"W16","name":"FIRST AIR FLD","lat":47.871364,"lon":-121.995244,"elevation":50,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

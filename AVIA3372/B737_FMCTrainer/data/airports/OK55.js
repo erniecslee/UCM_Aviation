@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK55"]={"id":"OK55","name":"BOST RANCH","lat":35.714503,"lon":-97.225867,"elevation":1070,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

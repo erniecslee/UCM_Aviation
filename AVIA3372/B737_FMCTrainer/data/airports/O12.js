@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O12"]={"id":"O12","name":"GRAND LAKE ST MARYS","lat":40.541019,"lon":-84.490675,"elevation":871,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

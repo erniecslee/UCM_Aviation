@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OK4"]={"id":"5OK4","name":"PACER FLD","lat":35.117014,"lon":-97.450586,"elevation":1140,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

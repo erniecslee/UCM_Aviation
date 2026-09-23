@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6KS2"]={"id":"6KS2","name":"STEVENSON PRIVATE","lat":39.441656,"lon":-100.627261,"elevation":2940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

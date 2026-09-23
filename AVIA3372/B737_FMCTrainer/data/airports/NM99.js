@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM99"]={"id":"NM99","name":"MURROW FLD ON THE DIVIDE","lat":36.427131,"lon":-107.000825,"elevation":7550,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

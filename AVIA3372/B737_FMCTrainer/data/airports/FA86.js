@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA86"]={"id":"FA86","name":"EARLY BIRD","lat":29.214642,"lon":-82.371656,"elevation":71,"region":"K7","runways":[{"id":"RW07","lat":29.213831,"lon":-82.374997,"length":2212,"course":81.0},{"id":"RW25","lat":29.21545,"lon":-82.368314,"length":2212,"course":261.0}],"procedures":{"D":{},"E":{},"F":{}}};

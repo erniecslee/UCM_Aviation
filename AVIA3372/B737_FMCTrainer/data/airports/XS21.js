@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS21"]={"id":"XS21","name":"H & S AIRFIELD","lat":29.331078,"lon":-95.704669,"elevation":100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

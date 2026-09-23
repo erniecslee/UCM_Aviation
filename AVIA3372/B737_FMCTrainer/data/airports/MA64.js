@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA64"]={"id":"MA64","name":"PHEASANT FLD","lat":42.075381,"lon":-70.815319,"elevation":40,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

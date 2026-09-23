@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY24"]={"id":"NY24","name":"COLONIAL","lat":43.127833,"lon":-78.970042,"elevation":633,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

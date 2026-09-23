@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI78"]={"id":"MI78","name":"WELLER","lat":42.916692,"lon":-85.783367,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA77"]={"id":"PA77","name":"ERWINNA PRIVATE","lat":40.51025,"lon":-75.076778,"elevation":350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

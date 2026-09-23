@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN36"]={"id":"PN36","name":"RUFFNER FLD","lat":40.733397,"lon":-79.067256,"elevation":1420,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

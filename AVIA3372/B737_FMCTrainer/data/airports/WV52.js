@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV52"]={"id":"WV52","name":"GREEN BANK OBSERVATORY","lat":38.430675,"lon":-79.825614,"elevation":2710,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

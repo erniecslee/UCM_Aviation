@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17ID"]={"id":"17ID","name":"COYOTE RIDGE","lat":44.413889,"lon":-116.590833,"elevation":3365,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

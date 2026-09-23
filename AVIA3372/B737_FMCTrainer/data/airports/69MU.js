@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69MU"]={"id":"69MU","name":"BLAZER","lat":39.764236,"lon":-94.627361,"elevation":939,"region":"K3","runways":[{"id":"RW18","lat":39.766389,"lon":-94.627361,"length":1568,"course":178.9},{"id":"RW36","lat":39.762083,"lon":-94.627361,"length":1568,"course":358.9}],"procedures":{"D":{},"E":{},"F":{}}};

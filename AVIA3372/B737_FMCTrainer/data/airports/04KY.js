@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04KY"]={"id":"04KY","name":"NATCHEZ TRACE FARM","lat":37.135053,"lon":-85.789417,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

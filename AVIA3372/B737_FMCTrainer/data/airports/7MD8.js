@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MD8"]={"id":"7MD8","name":"KENT FORT MANOR","lat":38.856506,"lon":-76.361619,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

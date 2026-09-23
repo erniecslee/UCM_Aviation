@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5U8"]={"id":"5U8","name":"GERALDINE","lat":47.596456,"lon":-110.265914,"elevation":3185,"region":"K1","runways":[{"id":"RW08","lat":47.596444,"lon":-110.271789,"length":2900,"course":74.0},{"id":"RW26","lat":47.596467,"lon":-110.260039,"length":2900,"course":254.0}],"procedures":{"D":{},"E":{},"F":{}}};

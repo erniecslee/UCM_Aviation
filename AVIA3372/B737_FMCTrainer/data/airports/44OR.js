@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44OR"]={"id":"44OR","name":"COMPTON","lat":45.222342,"lon":-122.726758,"elevation":160,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

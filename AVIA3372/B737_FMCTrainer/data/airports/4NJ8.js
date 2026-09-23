@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NJ8"]={"id":"4NJ8","name":"PETERS","lat":40.600103,"lon":-74.732939,"elevation":150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG23"]={"id":"OG23","name":"POVERTY HOLLOW","lat":45.157058,"lon":-123.391494,"elevation":330,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

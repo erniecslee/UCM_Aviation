@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NE9"]={"id":"0NE9","name":"FLYING V","lat":40.867764,"lon":-97.35385,"elevation":1585,"region":"K3","runways":[{"id":"RW35","lat":40.863647,"lon":-97.353828,"length":3000,"course":352.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W10"]={"id":"W10","name":"WHIDBEY AIR PARK","lat":48.017511,"lon":-122.437728,"elevation":271,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

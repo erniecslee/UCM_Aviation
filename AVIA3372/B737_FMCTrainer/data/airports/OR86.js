@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR86"]={"id":"OR86","name":"GILMOUR AG AIR","lat":44.7554,"lon":-123.047039,"elevation":244,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60IA"]={"id":"60IA","name":"VILLAGE OAKS","lat":41.469664,"lon":-90.781292,"elevation":732,"region":"K3","runways":[{"id":"RW07","lat":41.468236,"lon":-90.785992,"length":2777,"course":69.7},{"id":"RW25","lat":41.4711,"lon":-90.7766,"length":2777,"course":249.7}],"procedures":{"D":{},"E":{},"F":{}}};

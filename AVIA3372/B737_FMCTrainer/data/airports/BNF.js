@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["BNF"]={"id":"BNF","name":"BARANOF WARM SPRINGS FLOAT AND","lat":57.088825,"lon":-134.833142,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

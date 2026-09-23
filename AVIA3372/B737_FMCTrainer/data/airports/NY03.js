@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY03"]={"id":"NY03","name":"KLENAWICUS AIRFIELD","lat":41.071008,"lon":-72.327019,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

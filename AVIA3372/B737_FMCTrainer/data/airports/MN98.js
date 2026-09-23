@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN98"]={"id":"MN98","name":"DONNER","lat":44.647314,"lon":-95.304917,"elevation":1050,"region":"K3","runways":[{"id":"RW18","lat":44.651292,"lon":-95.304861,"length":2900,"course":179.1},{"id":"RW36","lat":44.643333,"lon":-95.304972,"length":2900,"course":359.1}],"procedures":{"D":{},"E":{},"F":{}}};

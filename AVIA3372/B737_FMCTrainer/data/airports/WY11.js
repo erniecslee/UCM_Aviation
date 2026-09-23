@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY11"]={"id":"WY11","name":"A BAR A RANCH","lat":41.158303,"lon":-106.557531,"elevation":7880,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

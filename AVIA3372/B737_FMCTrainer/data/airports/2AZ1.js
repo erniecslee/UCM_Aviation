@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AZ1"]={"id":"2AZ1","name":"INDIAN HILLS AIRPARK","lat":33.759197,"lon":-113.615486,"elevation":1866,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

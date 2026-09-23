@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WN2"]={"id":"5WN2","name":"EBERLE RANCH","lat":43.268333,"lon":-89.484444,"elevation":1050,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

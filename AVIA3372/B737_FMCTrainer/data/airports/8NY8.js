@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NY8"]={"id":"8NY8","name":"HAWKS FLD","lat":43.048611,"lon":-75.292222,"elevation":940,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

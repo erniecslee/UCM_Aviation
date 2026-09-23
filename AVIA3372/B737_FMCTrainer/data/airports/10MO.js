@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10MO"]={"id":"10MO","name":"FLYING V RANCH","lat":38.918175,"lon":-91.6831,"elevation":830,"region":"K3","runways":[{"id":"RW18","lat":38.920128,"lon":-91.682978,"length":1425,"course":183.8},{"id":"RW36","lat":38.916222,"lon":-91.683222,"length":1425,"course":3.8}],"procedures":{"D":{},"E":{},"F":{}}};

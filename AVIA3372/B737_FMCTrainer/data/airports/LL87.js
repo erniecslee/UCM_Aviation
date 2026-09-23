@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL87"]={"id":"LL87","name":"COMPASS ROSE","lat":42.455572,"lon":-88.902883,"elevation":970,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

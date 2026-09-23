@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY06"]={"id":"WY06","name":"LUCKINBILL AIRSTRIP","lat":44.838278,"lon":-109.621558,"elevation":6600,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

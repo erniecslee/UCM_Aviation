@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN18"]={"id":"PN18","name":"FAIRVIEW EVERGREEN","lat":42.027278,"lon":-80.243672,"elevation":805,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

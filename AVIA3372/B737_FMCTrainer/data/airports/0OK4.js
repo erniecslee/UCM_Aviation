@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OK4"]={"id":"0OK4","name":"ROCK CREEK FARM","lat":34.660647,"lon":-96.253614,"elevation":730,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

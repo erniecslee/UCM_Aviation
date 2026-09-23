@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31D"]={"id":"31D","name":"INTER COUNTY","lat":40.333403,"lon":-79.779211,"elevation":1250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

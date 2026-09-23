@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU98"]={"id":"MU98","name":"EAGLES NEST","lat":36.518056,"lon":-93.684222,"elevation":1105,"region":"K3","runways":[{"id":"RW02","lat":36.514,"lon":-93.685889,"length":3111,"course":14.4},{"id":"RW20","lat":36.522111,"lon":-93.682556,"length":3111,"course":194.4}],"procedures":{"D":{},"E":{},"F":{}}};

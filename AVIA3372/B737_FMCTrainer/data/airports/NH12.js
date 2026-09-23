@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH12"]={"id":"NH12","name":"EVANS","lat":43.037353,"lon":-71.469908,"elevation":182,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

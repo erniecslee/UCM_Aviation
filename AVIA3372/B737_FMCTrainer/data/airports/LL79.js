@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL79"]={"id":"LL79","name":"SEVERSON","lat":42.393072,"lon":-89.130664,"elevation":813,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

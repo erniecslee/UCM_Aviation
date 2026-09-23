@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND08"]={"id":"ND08","name":"GATOR","lat":47.767136,"lon":-100.310061,"elevation":1588,"region":"K3","runways":[{"id":"RW01W","lat":47.761514,"lon":-100.311506,"length":4165,"course":4.6},{"id":"RW19W","lat":47.772758,"lon":-100.308617,"length":4165,"course":184.7}],"procedures":{"D":{},"E":{},"F":{}}};

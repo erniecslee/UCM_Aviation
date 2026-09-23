@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MT6"]={"id":"1MT6","name":"BOBCAT FLD","lat":46.356944,"lon":-113.510278,"elevation":4824,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

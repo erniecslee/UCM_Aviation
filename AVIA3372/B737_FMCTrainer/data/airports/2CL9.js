@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CL9"]={"id":"2CL9","name":"MUSTANG","lat":38.334358,"lon":-121.303561,"elevation":45,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

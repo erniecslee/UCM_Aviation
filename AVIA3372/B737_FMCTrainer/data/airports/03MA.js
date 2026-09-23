@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03MA"]={"id":"03MA","name":"HADLEY","lat":42.393144,"lon":-72.552033,"elevation":150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

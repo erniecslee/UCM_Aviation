@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE37"]={"id":"TE37","name":"CANYON RANCH","lat":30.269083,"lon":-100.450922,"elevation":2306,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

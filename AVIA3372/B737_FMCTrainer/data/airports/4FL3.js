@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FL3"]={"id":"4FL3","name":"FELLSMERE","lat":27.741697,"lon":-80.666167,"elevation":24,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

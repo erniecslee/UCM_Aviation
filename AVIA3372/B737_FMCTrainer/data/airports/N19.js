@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N19"]={"id":"N19","name":"AZTEC MUNI","lat":36.83695,"lon":-108.028656,"elevation":5882,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

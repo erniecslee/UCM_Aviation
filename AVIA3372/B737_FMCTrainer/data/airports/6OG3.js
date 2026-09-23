@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OG3"]={"id":"6OG3","name":"SKY WAGON RANCH LLC","lat":42.130283,"lon":-121.531633,"elevation":4150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

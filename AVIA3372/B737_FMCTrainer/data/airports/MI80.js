@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI80"]={"id":"MI80","name":"WABASIS LAKE","lat":43.128364,"lon":-85.399192,"elevation":892,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

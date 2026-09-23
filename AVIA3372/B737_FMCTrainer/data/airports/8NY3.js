@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NY3"]={"id":"8NY3","name":"NORTH FORK","lat":42.268678,"lon":-75.559722,"elevation":1455,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

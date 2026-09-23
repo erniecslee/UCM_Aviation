@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06WI"]={"id":"06WI","name":"LAZY RIVER","lat":45.402761,"lon":-87.857317,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NC7"]={"id":"9NC7","name":"WILLOW CREEK","lat":35.369722,"lon":-80.44,"elevation":572,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

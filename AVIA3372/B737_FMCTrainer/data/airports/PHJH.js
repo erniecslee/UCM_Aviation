@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PHJH"]={"id":"PHJH","name":"KAPALUA","lat":20.962936,"lon":-156.673031,"elevation":256,"region":"PH","runways":[{"id":"RW02","lat":20.959289,"lon":-156.675094,"length":3000,"course":17.0},{"id":"RW20","lat":20.966583,"lon":-156.670967,"length":3000,"course":197.0}],"procedures":{"D":{},"E":{},"F":{}}};

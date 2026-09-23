@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57TE"]={"id":"57TE","name":"PRADE RANCH","lat":29.938825,"lon":-99.783397,"elevation":2296,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

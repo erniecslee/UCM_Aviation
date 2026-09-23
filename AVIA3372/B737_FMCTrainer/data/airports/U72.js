@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U72"]={"id":"U72","name":"UPPER LOON CREEK USFS","lat":44.591578,"lon":-114.823144,"elevation":5500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

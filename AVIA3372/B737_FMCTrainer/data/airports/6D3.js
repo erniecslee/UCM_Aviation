@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6D3"]={"id":"6D3","name":"MADDOCK MUNI","lat":47.980264,"lon":-99.526961,"elevation":1600,"region":"K3","runways":[{"id":"RW12","lat":47.982894,"lon":-99.531664,"length":3000,"course":121.0},{"id":"RW30","lat":47.977631,"lon":-99.522256,"length":3000,"course":301.0}],"procedures":{"D":{},"E":{},"F":{}}};

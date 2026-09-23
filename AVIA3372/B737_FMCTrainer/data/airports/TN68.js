@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN68"]={"id":"TN68","name":"RIVER RUNWAY","lat":36.168244,"lon":-85.887144,"elevation":493,"region":"K7","runways":[{"id":"RW13","lat":36.169025,"lon":-85.888831,"length":1156,"course":125.0},{"id":"RW31","lat":36.167431,"lon":-85.88545,"length":1156,"course":305.0}],"procedures":{"D":{},"E":{},"F":{}}};

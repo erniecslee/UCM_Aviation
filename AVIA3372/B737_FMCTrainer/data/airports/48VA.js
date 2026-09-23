@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48VA"]={"id":"48VA","name":"AL'S FLD","lat":39.290658,"lon":-78.350839,"elevation":1120,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

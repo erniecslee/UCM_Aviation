@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25VA"]={"id":"25VA","name":"TODDSBURY FARM","lat":37.821583,"lon":-77.112639,"elevation":50,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

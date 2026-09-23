@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3Q0"]={"id":"3Q0","name":"MINA","lat":38.379861,"lon":-118.09675,"elevation":4557,"region":"K2","runways":[{"id":"RW13","lat":38.385442,"lon":-118.100531,"length":4600,"course":137.0},{"id":"RW31","lat":38.374297,"lon":-118.092969,"length":4600,"course":317.0}],"procedures":{"D":{},"E":{},"F":{}}};

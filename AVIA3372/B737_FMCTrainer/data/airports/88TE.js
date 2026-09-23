@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88TE"]={"id":"88TE","name":"SCOTT AIRFIELD","lat":32.137181,"lon":-100.129889,"elevation":2179,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

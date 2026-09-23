@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1VA3"]={"id":"1VA3","name":"TYE RIVER","lat":37.658197,"lon":-78.945578,"elevation":650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

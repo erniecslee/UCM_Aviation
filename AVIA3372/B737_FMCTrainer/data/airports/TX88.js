@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX88"]={"id":"TX88","name":"STAR FLD","lat":32.159919,"lon":-98.9478,"elevation":1625,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

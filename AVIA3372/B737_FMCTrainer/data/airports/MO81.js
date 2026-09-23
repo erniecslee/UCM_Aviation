@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO81"]={"id":"MO81","name":"DOVE AIRSTRIP","lat":37.670883,"lon":-90.614847,"elevation":1080,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

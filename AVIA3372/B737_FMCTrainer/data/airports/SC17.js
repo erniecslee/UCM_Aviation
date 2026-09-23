@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC17"]={"id":"SC17","name":"RUSSELL","lat":33.357939,"lon":-80.459814,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WI5"]={"id":"2WI5","name":"BLAIR LAKE","lat":46.097447,"lon":-90.163222,"elevation":1625,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

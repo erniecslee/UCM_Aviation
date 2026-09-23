@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC64"]={"id":"NC64","name":"BARRINGER FLD","lat":35.527778,"lon":-80.696667,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

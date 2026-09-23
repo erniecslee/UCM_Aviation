@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AL3"]={"id":"2AL3","name":"EMERALD MOUNTAIN","lat":32.455414,"lon":-86.119167,"elevation":365,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

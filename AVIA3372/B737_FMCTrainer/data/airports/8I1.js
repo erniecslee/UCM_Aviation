@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8I1"]={"id":"8I1","name":"ROBINSON","lat":38.694506,"lon":-85.198286,"elevation":484,"region":"K5","runways":[{"id":"RW09","lat":38.694783,"lon":-85.200786,"length":1670,"course":99.0},{"id":"RW27","lat":38.694303,"lon":-85.194967,"length":1670,"course":279.0}],"procedures":{"D":{},"E":{},"F":{}}};

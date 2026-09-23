@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA96"]={"id":"WA96","name":"LEISURELAND AIRPARK","lat":47.607986,"lon":-122.773894,"elevation":430,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

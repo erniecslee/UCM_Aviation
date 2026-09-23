@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95TA"]={"id":"95TA","name":"THUNDER CREEK","lat":29.63495,"lon":-99.482269,"elevation":1500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

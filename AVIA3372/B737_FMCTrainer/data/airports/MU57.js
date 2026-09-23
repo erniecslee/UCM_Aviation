@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU57"]={"id":"MU57","name":"FLIB FLD","lat":37.518575,"lon":-92.816928,"elevation":1418,"region":"K3","runways":[{"id":"RW17","lat":37.521525,"lon":-92.8176,"length":2185,"course":169.8},{"id":"RW35","lat":37.515622,"lon":-92.816253,"length":2185,"course":349.8}],"procedures":{"D":{},"E":{},"F":{}}};

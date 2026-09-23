@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97GA"]={"id":"97GA","name":"B TREE FARMS","lat":34.268161,"lon":-83.672114,"elevation":1000,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

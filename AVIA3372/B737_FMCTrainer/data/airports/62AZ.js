@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62AZ"]={"id":"62AZ","name":"JALAPENO RANCH","lat":33.860058,"lon":-113.929811,"elevation":1090,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

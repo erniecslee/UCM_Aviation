@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA11"]={"id":"IA11","name":"TOO SHORT","lat":41.294286,"lon":-93.648014,"elevation":976,"region":"K3","runways":[{"id":"N","lat":41.292931,"lon":-93.648294,"length":1000,"course":6.0},{"id":"S","lat":41.295642,"lon":-93.647731,"length":1000,"course":186.0}],"procedures":{"D":{},"E":{},"F":{}}};

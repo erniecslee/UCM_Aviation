@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77GA"]={"id":"77GA","name":"TOLAND","lat":33.164008,"lon":-84.213531,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

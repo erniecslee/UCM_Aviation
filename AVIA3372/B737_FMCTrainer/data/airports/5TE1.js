@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TE1"]={"id":"5TE1","name":"RAWLS RANCH","lat":29.64,"lon":-103.945833,"elevation":4520,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

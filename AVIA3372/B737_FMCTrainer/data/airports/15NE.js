@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15NE"]={"id":"15NE","name":"SINDT","lat":40.291125,"lon":-98.823408,"elevation":1990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

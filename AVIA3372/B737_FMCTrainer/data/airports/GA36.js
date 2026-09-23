@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA36"]={"id":"GA36","name":"READDICK FLD","lat":30.766892,"lon":-81.716653,"elevation":20,"region":"K7","runways":[{"id":"RW18","lat":30.771558,"lon":-81.716389,"length":3400,"course":189.8},{"id":"RW36","lat":30.762222,"lon":-81.716917,"length":3400,"course":9.8}],"procedures":{"D":{},"E":{},"F":{}}};

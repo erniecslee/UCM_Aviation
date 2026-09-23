@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58MT"]={"id":"58MT","name":"GALT RANCH","lat":46.544167,"lon":-111.07,"elevation":5156,"region":"K1","runways":[{"id":"RW09","lat":46.544722,"lon":-111.075278,"length":2687,"course":87.4},{"id":"RW27","lat":46.543611,"lon":-111.064722,"length":2687,"course":267.4}],"procedures":{"D":{},"E":{},"F":{}}};

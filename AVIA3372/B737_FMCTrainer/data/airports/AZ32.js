@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ32"]={"id":"AZ32","name":"ROESNER RANCH","lat":33.847533,"lon":-112.58795,"elevation":2060,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

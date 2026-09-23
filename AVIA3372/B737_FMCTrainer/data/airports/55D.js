@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55D"]={"id":"55D","name":"BURGESS FLD","lat":43.180528,"lon":-82.983628,"elevation":827,"region":"K5","runways":[{"id":"RW28","lat":43.180597,"lon":-82.979992,"length":3090,"course":276.2}],"procedures":{"D":{},"E":{},"F":{}}};

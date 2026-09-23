@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GE1"]={"id":"5GE1","name":"PEACHTREE LANDINGS","lat":32.570278,"lon":-83.721944,"elevation":447,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

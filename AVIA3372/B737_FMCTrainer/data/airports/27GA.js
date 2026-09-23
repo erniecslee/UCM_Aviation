@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27GA"]={"id":"27GA","name":"WILSON AIRSTRIP","lat":33.658442,"lon":-85.009944,"elevation":1050,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

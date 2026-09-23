@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TX2"]={"id":"5TX2","name":"GROVE HILL","lat":33.422331,"lon":-96.216922,"elevation":721,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

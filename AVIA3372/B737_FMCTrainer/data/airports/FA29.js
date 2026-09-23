@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA29"]={"id":"FA29","name":"LUMAR FLD","lat":30.131175,"lon":-83.551308,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

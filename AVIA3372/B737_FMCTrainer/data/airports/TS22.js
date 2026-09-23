@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS22"]={"id":"TS22","name":"WWD FARMS","lat":33.136989,"lon":-101.466267,"elevation":2895,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

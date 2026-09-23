@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XA7"]={"id":"3XA7","name":"EAGLE ROCK RANCH","lat":30.890817,"lon":-99.006183,"elevation":1540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

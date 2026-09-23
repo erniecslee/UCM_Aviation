@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02CD"]={"id":"02CD","name":"SHANNON FLD","lat":34.129606,"lon":-90.524025,"elevation":165,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

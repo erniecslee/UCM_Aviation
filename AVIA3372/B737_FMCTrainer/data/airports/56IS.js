@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56IS"]={"id":"56IS","name":"LIANNIMAL'S LANDING","lat":40.243089,"lon":-88.082819,"elevation":690,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

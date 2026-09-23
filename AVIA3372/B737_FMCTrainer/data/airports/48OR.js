@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48OR"]={"id":"48OR","name":"LOOKINGGLASS","lat":43.159281,"lon":-123.501744,"elevation":600,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

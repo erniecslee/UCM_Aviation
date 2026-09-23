@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XS4"]={"id":"3XS4","name":"JENKINS","lat":30.134378,"lon":-93.936006,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

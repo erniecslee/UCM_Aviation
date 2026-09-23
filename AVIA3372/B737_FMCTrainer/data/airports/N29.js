@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N29"]={"id":"N29","name":"MAGDALENA","lat":34.094531,"lon":-107.296917,"elevation":6730,"region":"K2","runways":[{"id":"RW02","lat":34.087728,"lon":-107.301781,"length":5762,"course":20.0},{"id":"RW20","lat":34.101331,"lon":-107.292053,"length":5762,"course":200.0}],"procedures":{"D":{},"E":{},"F":{}}};

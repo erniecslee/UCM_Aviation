@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IL2"]={"id":"2IL2","name":"WATTERS","lat":41.053367,"lon":-88.461169,"elevation":660,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

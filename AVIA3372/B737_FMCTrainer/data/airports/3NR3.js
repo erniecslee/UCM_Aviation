@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NR3"]={"id":"3NR3","name":"TRANSYLVANIA COMMUNITY","lat":35.270278,"lon":-82.644167,"elevation":2110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

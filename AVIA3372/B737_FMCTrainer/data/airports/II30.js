@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II30"]={"id":"II30","name":"RIDGWAY FLYING SERVICE","lat":38.906711,"lon":-87.401686,"elevation":510,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO11"]={"id":"CO11","name":"GRANITE MOUNTAIN LODGE","lat":38.416111,"lon":-106.058333,"elevation":9000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

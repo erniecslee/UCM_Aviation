@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI52"]={"id":"WI52","name":"M & F LANDING","lat":44.300883,"lon":-87.976489,"elevation":880,"region":"K5","runways":[{"id":"RW09","lat":44.300831,"lon":-87.97885,"length":1238,"course":92.4},{"id":"RW27","lat":44.300936,"lon":-87.974125,"length":1238,"course":272.4}],"procedures":{"D":{},"E":{},"F":{}}};

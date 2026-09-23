@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E53"]={"id":"E53","name":"ENGLER FLD","lat":43.846233,"lon":-83.046792,"elevation":725,"region":"K5","runways":[{"id":"RW08","lat":43.84545,"lon":-83.05145,"length":2523,"course":84.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44LS"]={"id":"44LS","name":"SHERIDAN'S STRIP","lat":30.472194,"lon":-90.367056,"elevation":24,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

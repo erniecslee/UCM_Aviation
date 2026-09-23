@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CD2"]={"id":"0CD2","name":"FOXX VALLEY","lat":38.6525,"lon":-104.2345,"elevation":5800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

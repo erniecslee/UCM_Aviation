@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17ME"]={"id":"17ME","name":"BRESETT'S MOUNTAINSIDE","lat":47.2025,"lon":-67.991667,"elevation":590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

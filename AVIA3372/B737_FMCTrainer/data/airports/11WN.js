@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11WN"]={"id":"11WN","name":"DIEDRICH","lat":43.354153,"lon":-89.571231,"elevation":774,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

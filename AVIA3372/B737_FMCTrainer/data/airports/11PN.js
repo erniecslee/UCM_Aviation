@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11PN"]={"id":"11PN","name":"EAKIN","lat":41.3525,"lon":-79.732778,"elevation":1489,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

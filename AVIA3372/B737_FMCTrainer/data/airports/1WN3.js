@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WN3"]={"id":"1WN3","name":"DANIELSON FLD","lat":45.211861,"lon":-92.536028,"elevation":1000,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AZ2"]={"id":"9AZ2","name":"SAGEBRUSH TRAILS ESTATES","lat":34.582778,"lon":-114.027778,"elevation":1984,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

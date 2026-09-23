@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME80"]={"id":"ME80","name":"DRY POND","lat":43.933889,"lon":-70.356389,"elevation":309,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

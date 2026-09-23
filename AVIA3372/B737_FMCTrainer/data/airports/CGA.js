@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CGA"]={"id":"CGA","name":"CRAIG","lat":55.478831,"lon":-133.1478,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

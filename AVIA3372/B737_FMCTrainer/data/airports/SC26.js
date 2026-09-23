@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC26"]={"id":"SC26","name":"HAWKS NEST FARM","lat":34.808056,"lon":-82.998611,"elevation":1050,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

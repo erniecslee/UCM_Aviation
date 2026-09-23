@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC0"]={"id":"6NC0","name":"COX-GRANTHAM AIRFIELD","lat":35.289064,"lon":-78.179594,"elevation":157,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

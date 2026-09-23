@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IS6"]={"id":"4IS6","name":"HATTAN FARMS","lat":40.930589,"lon":-89.120636,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

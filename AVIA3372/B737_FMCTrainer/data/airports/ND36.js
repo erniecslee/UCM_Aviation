@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND36"]={"id":"ND36","name":"SUNDRE","lat":48.191167,"lon":-101.202508,"elevation":1555,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

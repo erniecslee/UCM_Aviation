@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69G"]={"id":"69G","name":"RICHMOND FLD","lat":42.442083,"lon":-84.064361,"elevation":921,"region":"K5","runways":[{"id":"RW36","lat":42.438694,"lon":-84.064194,"length":2471,"course":4.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MA0"]={"id":"6MA0","name":"LAKE GARDNER","lat":42.861478,"lon":-70.943389,"elevation":87,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

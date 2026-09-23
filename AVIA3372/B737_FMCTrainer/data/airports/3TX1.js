@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TX1"]={"id":"3TX1","name":"PARADISE POINT","lat":32.091667,"lon":-95.444722,"elevation":345,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

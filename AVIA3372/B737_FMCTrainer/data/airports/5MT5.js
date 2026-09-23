@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MT5"]={"id":"5MT5","name":"UNRAU","lat":48.448889,"lon":-105.835833,"elevation":2900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

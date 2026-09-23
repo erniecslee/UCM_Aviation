@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S09"]={"id":"S09","name":"HOT SPRINGS","lat":47.612436,"lon":-114.613464,"elevation":2763,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

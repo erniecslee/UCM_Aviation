@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L23"]={"id":"L23","name":"PAHUTE MESA AIRSTRIP","lat":37.102728,"lon":-116.313381,"elevation":5068,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

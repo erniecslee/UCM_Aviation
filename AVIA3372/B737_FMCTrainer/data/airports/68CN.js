@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68CN"]={"id":"68CN","name":"PORTER RANCH","lat":36.022167,"lon":-118.095358,"elevation":6800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

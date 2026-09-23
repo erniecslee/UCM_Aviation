@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM42"]={"id":"NM42","name":"AERO TECH INC","lat":34.415833,"lon":-103.147778,"elevation":4250,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

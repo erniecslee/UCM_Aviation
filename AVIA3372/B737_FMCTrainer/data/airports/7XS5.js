@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7XS5"]={"id":"7XS5","name":"ARRINGTON RANCH","lat":35.531994,"lon":-101.1613,"elevation":3327,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

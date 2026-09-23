@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TE1"]={"id":"4TE1","name":"POLYANNA RANCH","lat":32.079444,"lon":-96.710278,"elevation":570,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

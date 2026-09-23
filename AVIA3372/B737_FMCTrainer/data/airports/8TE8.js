@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TE8"]={"id":"8TE8","name":"TRADEWIND AG","lat":29.162753,"lon":-96.225242,"elevation":95,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

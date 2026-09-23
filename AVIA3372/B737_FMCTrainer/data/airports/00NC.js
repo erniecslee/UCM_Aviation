@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00NC"]={"id":"00NC","name":"NORTH RALEIGH","lat":36.08515,"lon":-78.371386,"elevation":348,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

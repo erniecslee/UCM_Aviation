@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH67"]={"id":"NH67","name":"WINTERWOOD","lat":42.978422,"lon":-71.009503,"elevation":130,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

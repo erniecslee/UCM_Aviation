@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MI6"]={"id":"1MI6","name":"TRUDEAU","lat":42.087925,"lon":-83.765519,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

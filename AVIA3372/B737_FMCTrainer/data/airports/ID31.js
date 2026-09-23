@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID31"]={"id":"ID31","name":"BENS RANCH","lat":44.33145,"lon":-116.030683,"elevation":4830,"region":"K1","runways":[{"id":"RW08","lat":44.3315,"lon":-116.035283,"length":2408,"course":78.2},{"id":"RW26","lat":44.3314,"lon":-116.026083,"length":2408,"course":258.2}],"procedures":{"D":{},"E":{},"F":{}}};

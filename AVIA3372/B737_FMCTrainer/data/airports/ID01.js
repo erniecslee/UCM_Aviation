@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID01"]={"id":"ID01","name":"CX RANCH","lat":48.137981,"lon":-116.197678,"elevation":2071,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

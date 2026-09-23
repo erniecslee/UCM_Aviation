@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI66"]={"id":"WI66","name":"HALLICK FARM","lat":43.098228,"lon":-89.774839,"elevation":1101,"region":"K5","runways":[{"id":"RW15","lat":43.1,"lon":-89.776456,"length":1550,"course":148.9},{"id":"RW33","lat":43.096456,"lon":-89.773219,"length":1550,"course":328.9}],"procedures":{"D":{},"E":{},"F":{}}};

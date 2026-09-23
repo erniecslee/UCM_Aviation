@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME40"]={"id":"ME40","name":"MARS HILL","lat":46.528889,"lon":-67.876667,"elevation":432,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

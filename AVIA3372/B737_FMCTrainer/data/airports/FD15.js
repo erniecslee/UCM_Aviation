@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD15"]={"id":"FD15","name":"TAILWINDS","lat":26.9795,"lon":-80.218656,"elevation":19,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L49"]={"id":"L49","name":"LARK'S LDG","lat":44.093,"lon":-116.952411,"elevation":2160,"region":"K1","runways":[{"id":"RW07","lat":44.091558,"lon":-116.962878,"length":5600,"course":66.2},{"id":"RW25","lat":44.094444,"lon":-116.941944,"length":5600,"course":246.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L73"]={"id":"L73","name":"POSO-KERN COUNTY","lat":35.596389,"lon":-119.128278,"elevation":635,"region":"K2","runways":[{"id":"RW16","lat":35.600508,"lon":-119.128319,"length":3000,"course":164.6}],"procedures":{"D":{},"E":{},"F":{}}};

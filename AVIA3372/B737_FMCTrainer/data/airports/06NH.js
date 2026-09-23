@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06NH"]={"id":"06NH","name":"COLE FARM","lat":42.928422,"lon":-70.973111,"elevation":160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

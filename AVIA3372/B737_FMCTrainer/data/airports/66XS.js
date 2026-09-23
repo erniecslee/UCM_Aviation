@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66XS"]={"id":"66XS","name":"BAYLIE","lat":33.3965,"lon":-96.488597,"elevation":685,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

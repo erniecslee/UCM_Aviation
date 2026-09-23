@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI67"]={"id":"WI67","name":"BENNETT FLD","lat":43.876647,"lon":-88.900669,"elevation":935,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II77"]={"id":"II77","name":"FINNEY'S AIRPARK","lat":40.259486,"lon":-85.260525,"elevation":965,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

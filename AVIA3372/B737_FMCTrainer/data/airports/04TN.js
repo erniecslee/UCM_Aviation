@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04TN"]={"id":"04TN","name":"HENSLEY AIRPARK","lat":36.183333,"lon":-82.678889,"elevation":1430,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

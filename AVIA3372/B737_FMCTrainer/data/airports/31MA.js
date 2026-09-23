@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31MA"]={"id":"31MA","name":"NORM'S FLD","lat":42.262167,"lon":-72.408953,"elevation":470,"region":"K6","runways":[{"id":"RW15","lat":42.263222,"lon":-72.410403,"length":1100,"course":149.4},{"id":"RW33","lat":42.261111,"lon":-72.4075,"length":1100,"course":329.4}],"procedures":{"D":{},"E":{},"F":{}}};

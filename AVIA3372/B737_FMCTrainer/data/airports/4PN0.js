@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PN0"]={"id":"4PN0","name":"FLYING M RANCH","lat":41.216447,"lon":-80.093669,"elevation":1348,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

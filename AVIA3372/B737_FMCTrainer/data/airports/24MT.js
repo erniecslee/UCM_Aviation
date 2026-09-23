@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24MT"]={"id":"24MT","name":"HAGGERTY","lat":45.619367,"lon":-111.092194,"elevation":5170,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI9"]={"id":"3WI9","name":"ROSENBAUM FLD","lat":44.999961,"lon":-91.383489,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

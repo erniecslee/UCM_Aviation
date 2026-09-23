@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OI5"]={"id":"9OI5","name":"TRANSPORTATION RESEARCH CENTER","lat":40.308114,"lon":-83.541733,"elevation":1100,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

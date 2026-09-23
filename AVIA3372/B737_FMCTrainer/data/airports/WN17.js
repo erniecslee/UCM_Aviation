@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN17"]={"id":"WN17","name":"HOVERHAWK RANCH","lat":47.33985,"lon":-120.316458,"elevation":2450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

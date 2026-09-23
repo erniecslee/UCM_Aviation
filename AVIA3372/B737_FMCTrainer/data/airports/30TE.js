@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30TE"]={"id":"30TE","name":"CONE","lat":33.811194,"lon":-101.396269,"elevation":3144,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

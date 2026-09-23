@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AK3"]={"id":"7AK3","name":"GAEDE","lat":60.476372,"lon":-151.166114,"elevation":115,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

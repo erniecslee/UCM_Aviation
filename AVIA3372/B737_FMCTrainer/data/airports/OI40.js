@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI40"]={"id":"OI40","name":"HALLELUJAH FLD","lat":39.202561,"lon":-84.104656,"elevation":890,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

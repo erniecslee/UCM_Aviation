@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC30"]={"id":"NC30","name":"MILLER AIR PARK","lat":35.614028,"lon":-80.741458,"elevation":864,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

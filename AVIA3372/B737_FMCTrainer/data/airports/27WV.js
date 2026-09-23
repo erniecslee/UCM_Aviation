@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27WV"]={"id":"27WV","name":"KURT'S FLD","lat":38.478819,"lon":-81.803694,"elevation":670,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

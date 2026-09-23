@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WA7"]={"id":"8WA7","name":"MCGUIRE FLD","lat":47.115167,"lon":-117.574086,"elevation":1973,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

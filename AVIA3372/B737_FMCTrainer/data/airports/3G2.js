@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3G2"]={"id":"3G2","name":"GRYGLA MUNI - MEL WILKENS FLD","lat":48.294083,"lon":-95.625972,"elevation":1177,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

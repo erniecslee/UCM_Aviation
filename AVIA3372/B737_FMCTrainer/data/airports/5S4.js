@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5S4"]={"id":"5S4","name":"TOLEDO STATE","lat":44.601028,"lon":-123.939611,"elevation":12,"region":"K1","runways":[{"id":"RW13","lat":44.603189,"lon":-123.941058,"length":1750,"course":136.0},{"id":"RW31","lat":44.59885,"lon":-123.938181,"length":1750,"course":316.0}],"procedures":{"D":{},"E":{},"F":{}}};

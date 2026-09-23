@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KS7"]={"id":"8KS7","name":"PINE SOD RANCH","lat":38.733461,"lon":-94.644836,"elevation":1080,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

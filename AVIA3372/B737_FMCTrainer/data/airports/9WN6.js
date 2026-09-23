@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WN6"]={"id":"9WN6","name":"OOSTBURG","lat":43.619433,"lon":-87.779597,"elevation":668,"region":"K5","runways":[{"id":"RW18","lat":43.621906,"lon":-87.779494,"length":2503,"course":186.0},{"id":"RW36","lat":43.616961,"lon":-87.779697,"length":2503,"course":6.0}],"procedures":{"D":{},"E":{},"F":{}}};

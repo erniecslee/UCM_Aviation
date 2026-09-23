@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TN9"]={"id":"3TN9","name":"HOLENTHAWALL","lat":36.613333,"lon":-86.810278,"elevation":645,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

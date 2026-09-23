@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53CN"]={"id":"53CN","name":"THAYER AVIATION","lat":39.074894,"lon":-121.917747,"elevation":54,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY05"]={"id":"NY05","name":"HOGAN","lat":42.781464,"lon":-74.325686,"elevation":1260,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

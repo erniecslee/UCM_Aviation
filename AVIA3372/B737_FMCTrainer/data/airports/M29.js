@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M29"]={"id":"M29","name":"HASSELL FLD","lat":35.383033,"lon":-87.968267,"elevation":407,"region":"K7","runways":[{"id":"RW03","lat":35.377569,"lon":-87.970528,"length":4200,"course":18.0},{"id":"RW21","lat":35.386678,"lon":-87.966761,"length":4200,"course":198.0}],"procedures":{"D":{},"E":{},"F":{}}};

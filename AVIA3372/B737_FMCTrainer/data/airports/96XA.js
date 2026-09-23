@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96XA"]={"id":"96XA","name":"GNAWS FARM","lat":31.284444,"lon":-103.643889,"elevation":2717,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

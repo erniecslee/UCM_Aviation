@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05TA"]={"id":"05TA","name":"BRANDES AIR FLD","lat":29.809081,"lon":-96.263964,"elevation":270,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

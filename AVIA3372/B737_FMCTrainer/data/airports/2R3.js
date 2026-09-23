@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2R3"]={"id":"2R3","name":"ISLAND LAKE","lat":60.704436,"lon":-151.311403,"elevation":140,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

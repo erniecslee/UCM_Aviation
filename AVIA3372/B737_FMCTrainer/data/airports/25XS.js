@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25XS"]={"id":"25XS","name":"MOONBOW FLD","lat":32.486528,"lon":-96.846389,"elevation":650,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

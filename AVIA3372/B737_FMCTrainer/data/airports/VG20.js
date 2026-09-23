@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG20"]={"id":"VG20","name":"ONLEY","lat":37.675131,"lon":-75.709928,"elevation":45,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

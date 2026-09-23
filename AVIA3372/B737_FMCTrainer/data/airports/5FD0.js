@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FD0"]={"id":"5FD0","name":"MANATEE SPRINGS","lat":29.492736,"lon":-82.991236,"elevation":17,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

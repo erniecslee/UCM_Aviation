@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47KS"]={"id":"47KS","name":"MAXWELL","lat":38.771431,"lon":-95.274569,"elevation":1013,"region":"K3","runways":[{"id":"RW17","lat":38.774861,"lon":-95.274517,"length":2500,"course":176.7},{"id":"RW35","lat":38.767997,"lon":-95.274619,"length":2500,"course":356.7}],"procedures":{"D":{},"E":{},"F":{}}};

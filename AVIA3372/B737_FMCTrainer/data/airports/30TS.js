@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30TS"]={"id":"30TS","name":"ROLAND RANCH","lat":29.848994,"lon":-97.768958,"elevation":614,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

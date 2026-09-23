@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90TT"]={"id":"90TT","name":"WT AIRPARK","lat":29.68275,"lon":-97.252681,"elevation":369,"region":"K4","runways":[{"id":"RW12","lat":29.6855,"lon":-97.258139,"length":4000,"course":117.2},{"id":"RW30","lat":29.68,"lon":-97.247222,"length":4000,"course":297.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44TX"]={"id":"44TX","name":"WHITE OAK","lat":30.210481,"lon":-99.094767,"elevation":1875,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

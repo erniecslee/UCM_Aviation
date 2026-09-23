@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20FL"]={"id":"20FL","name":"LAKE SUZY ESTATES","lat":27.042556,"lon":-82.0437,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

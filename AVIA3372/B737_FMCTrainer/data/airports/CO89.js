@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO89"]={"id":"CO89","name":"BARBER FLD","lat":38.772761,"lon":-108.044236,"elevation":5050,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63NC"]={"id":"63NC","name":"FIDDLEAIR","lat":35.275144,"lon":-78.433864,"elevation":190,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

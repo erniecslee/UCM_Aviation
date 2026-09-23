@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35TT"]={"id":"35TT","name":"HAWKINS FLD","lat":32.473539,"lon":-97.501661,"elevation":978,"region":"K4","runways":[{"id":"RW17","lat":32.476436,"lon":-97.501494,"length":2110,"course":179.8},{"id":"RW35","lat":32.470642,"lon":-97.501828,"length":2110,"course":359.8}],"procedures":{"D":{},"E":{},"F":{}}};

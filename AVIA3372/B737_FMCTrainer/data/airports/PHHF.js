@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PHHF"]={"id":"PHHF","name":"FRENCH FRIGATE SHOALS","lat":23.86405,"lon":-166.284633,"elevation":6,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

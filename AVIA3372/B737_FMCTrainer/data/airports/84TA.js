@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84TA"]={"id":"84TA","name":"FLYING FAJITA","lat":31.204239,"lon":-97.442267,"elevation":730,"region":"K4","runways":[{"id":"RW18","lat":31.205436,"lon":-97.44185,"length":910,"course":193.7},{"id":"RW36","lat":31.203039,"lon":-97.442683,"length":910,"course":13.7}],"procedures":{"D":{},"E":{},"F":{}}};

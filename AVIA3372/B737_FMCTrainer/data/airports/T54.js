@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T54"]={"id":"T54","name":"LANE AIRPARK","lat":29.523331,"lon":-95.779756,"elevation":94,"region":"K4","runways":[{"id":"RW13","lat":29.525958,"lon":-95.78285,"length":3013,"course":132.2},{"id":"RW31","lat":29.520444,"lon":-95.776358,"length":3013,"course":312.2}],"procedures":{"D":{},"E":{},"F":{}}};

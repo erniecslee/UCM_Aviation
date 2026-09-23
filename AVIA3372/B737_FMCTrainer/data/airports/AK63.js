@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK63"]={"id":"AK63","name":"PAT-MAR STRIP","lat":61.588611,"lon":-149.1425,"elevation":246,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

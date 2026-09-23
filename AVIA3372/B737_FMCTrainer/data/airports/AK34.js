@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK34"]={"id":"AK34","name":"KASHWITNA LAKE","lat":61.835303,"lon":-150.079739,"elevation":186,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

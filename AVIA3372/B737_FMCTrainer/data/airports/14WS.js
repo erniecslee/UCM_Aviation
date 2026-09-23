@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14WS"]={"id":"14WS","name":"GILLETTE'S LAKEWOOD LODGE","lat":45.778008,"lon":-91.5585,"elevation":1365,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

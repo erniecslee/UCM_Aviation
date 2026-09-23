@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S18"]={"id":"S18","name":"FORKS","lat":47.937719,"lon":-124.395919,"elevation":299,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

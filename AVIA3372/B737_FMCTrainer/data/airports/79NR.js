@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79NR"]={"id":"79NR","name":"WYATT","lat":36.367281,"lon":-76.298964,"elevation":11,"region":"K7","runways":[{"id":"RW13","lat":36.3695,"lon":-76.303517,"length":3130,"course":131.8},{"id":"RW31","lat":36.365061,"lon":-76.294411,"length":3130,"course":311.8}],"procedures":{"D":{},"E":{},"F":{}}};

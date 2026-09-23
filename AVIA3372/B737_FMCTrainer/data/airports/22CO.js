@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22CO"]={"id":"22CO","name":"FLYING E","lat":39.958056,"lon":-104.485556,"elevation":5100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

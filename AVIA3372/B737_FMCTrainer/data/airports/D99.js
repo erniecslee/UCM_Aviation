@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D99"]={"id":"D99","name":"ROBERTSON FLD","lat":42.800692,"lon":-82.659792,"elevation":650,"region":"K5","runways":[{"id":"RW09","lat":42.800683,"lon":-82.659947,"length":2455,"course":93.0},{"id":"RW27","lat":42.800728,"lon":-82.658758,"length":2455,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

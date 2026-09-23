@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK7"]={"id":"4AK7","name":"ALEKNAGIK MISSION STRIP","lat":59.280922,"lon":-158.5972,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

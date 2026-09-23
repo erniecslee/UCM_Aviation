@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0VA3"]={"id":"0VA3","name":"HUNT","lat":37.698753,"lon":-77.09525,"elevation":150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

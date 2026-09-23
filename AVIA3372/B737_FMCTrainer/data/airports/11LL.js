@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11LL"]={"id":"11LL","name":"THACKER","lat":40.723092,"lon":-88.763119,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

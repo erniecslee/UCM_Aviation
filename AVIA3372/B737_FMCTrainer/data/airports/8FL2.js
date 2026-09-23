@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FL2"]={"id":"8FL2","name":"KIEVER","lat":29.001092,"lon":-82.100644,"elevation":67,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

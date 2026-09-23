@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TS6"]={"id":"1TS6","name":"DENTONIO RANCH","lat":28.269439,"lon":-99.9345,"elevation":825,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

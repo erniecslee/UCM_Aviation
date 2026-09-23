@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA79"]={"id":"VA79","name":"HICKORY TREE FARM","lat":38.952889,"lon":-77.746939,"elevation":544,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

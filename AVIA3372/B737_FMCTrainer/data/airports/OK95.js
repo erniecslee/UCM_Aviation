@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK95"]={"id":"OK95","name":"DISNEY","lat":36.488972,"lon":-94.958292,"elevation":955,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

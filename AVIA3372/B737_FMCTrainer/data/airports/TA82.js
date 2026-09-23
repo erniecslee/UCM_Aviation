@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA82"]={"id":"TA82","name":"TRINITY FLD","lat":31.061067,"lon":-95.751494,"elevation":212,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

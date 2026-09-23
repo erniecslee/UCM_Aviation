@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAMX"]={"id":"PAMX","name":"MCCARTHY","lat":61.437819,"lon":-142.902503,"elevation":1533,"region":"PA","runways":[{"id":"RW01","lat":61.43405,"lon":-142.908667,"length":3501,"course":10.1},{"id":"RW19","lat":61.441589,"lon":-142.896339,"length":3501,"course":190.1}],"procedures":{"D":{},"E":{},"F":{}}};

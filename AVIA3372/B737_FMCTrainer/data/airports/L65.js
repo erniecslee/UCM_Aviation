@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L65"]={"id":"L65","name":"PERRIS VALLEY","lat":33.764639,"lon":-117.219,"elevation":1413,"region":"K2","runways":[{"id":"RW15","lat":33.771436,"lon":-117.221039,"length":5100,"course":152.0}],"procedures":{"D":{},"E":{},"F":{}}};

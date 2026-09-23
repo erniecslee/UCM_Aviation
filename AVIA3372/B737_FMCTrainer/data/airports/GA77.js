@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA77"]={"id":"GA77","name":"TWIN FORKS","lat":34.872083,"lon":-85.250361,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

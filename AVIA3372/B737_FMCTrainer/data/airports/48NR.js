@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48NR"]={"id":"48NR","name":"BLACKBRIAR","lat":36.467881,"lon":-79.433478,"elevation":599,"region":"K7","runways":[{"id":"RW07","lat":36.466856,"lon":-79.436853,"length":2122,"course":78.4},{"id":"RW25","lat":36.468906,"lon":-79.4301,"length":2122,"course":258.4}],"procedures":{"D":{},"E":{},"F":{}}};

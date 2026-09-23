@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE46"]={"id":"NE46","name":"GREELEY MUNI","lat":41.557492,"lon":-98.546061,"elevation":2035,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL51"]={"id":"IL51","name":"AERO ACRES","lat":41.038056,"lon":-88.3375,"elevation":645,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

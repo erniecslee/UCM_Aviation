@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54NC"]={"id":"54NC","name":"DILLARD","lat":36.239444,"lon":-76.417222,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

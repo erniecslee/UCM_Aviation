@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6II7"]={"id":"6II7","name":"BERGS","lat":39.886156,"lon":-86.581392,"elevation":975,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

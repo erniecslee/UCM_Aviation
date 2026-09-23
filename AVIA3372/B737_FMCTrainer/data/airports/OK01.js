@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK01"]={"id":"OK01","name":"SKYHAVEN AIRPARK","lat":36.428981,"lon":-95.903322,"elevation":675,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

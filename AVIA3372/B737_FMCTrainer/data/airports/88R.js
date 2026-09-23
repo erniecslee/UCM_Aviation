@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88R"]={"id":"88R","name":"SPICEWOOD","lat":30.473783,"lon":-98.121436,"elevation":830,"region":"K4","runways":[{"id":"RW35","lat":30.468031,"lon":-98.121283,"length":4185,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52NC"]={"id":"52NC","name":"EPLEY","lat":34.844564,"lon":-77.2662,"elevation":43,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

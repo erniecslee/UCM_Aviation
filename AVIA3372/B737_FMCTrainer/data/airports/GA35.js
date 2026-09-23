@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA35"]={"id":"GA35","name":"CYPRESS LAKES","lat":32.1575,"lon":-81.396667,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

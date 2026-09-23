@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI8"]={"id":"5WI8","name":"ERMIS-RIDGEVIEW","lat":45.076094,"lon":-88.004269,"elevation":715,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

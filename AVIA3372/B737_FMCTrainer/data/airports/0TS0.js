@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TS0"]={"id":"0TS0","name":"HYE","lat":30.251711,"lon":-98.562439,"elevation":1494,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

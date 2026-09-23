@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX05"]={"id":"TX05","name":"BUD DRYDEN","lat":30.260486,"lon":-97.625278,"elevation":500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

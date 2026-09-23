@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XA6"]={"id":"5XA6","name":"COMANCHE RIDGE RANCH","lat":30.771206,"lon":-99.515764,"elevation":1888,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

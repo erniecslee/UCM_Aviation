@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1W3"]={"id":"1W3","name":"MEXICO FARMS","lat":39.605989,"lon":-78.760461,"elevation":607,"region":"K6","runways":[{"id":"RW09","lat":39.605725,"lon":-78.764206,"length":2120,"course":93.0},{"id":"RW27","lat":39.606169,"lon":-78.757867,"length":2120,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

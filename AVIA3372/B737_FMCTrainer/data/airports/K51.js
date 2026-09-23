@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K51"]={"id":"K51","name":"MEDICINE LODGE","lat":37.265411,"lon":-98.547906,"elevation":1549,"region":"K3","runways":[{"id":"RW16","lat":37.270522,"lon":-98.548572,"length":3200,"course":167.0}],"procedures":{"D":{},"E":{},"F":{}}};

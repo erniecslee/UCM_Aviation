@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75MN"]={"id":"75MN","name":"GALLER'S","lat":44.186633,"lon":-93.714117,"elevation":1070,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

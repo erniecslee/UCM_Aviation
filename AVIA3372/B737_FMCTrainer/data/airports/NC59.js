@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC59"]={"id":"NC59","name":"ALEXANDER COUNTY","lat":35.850689,"lon":-81.143969,"elevation":1110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KY3"]={"id":"3KY3","name":"MASON VALLEY","lat":38.038333,"lon":-85.359444,"elevation":510,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

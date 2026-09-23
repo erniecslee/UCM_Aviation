@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H80"]={"id":"H80","name":"FIELD OF DREAMS","lat":44.364692,"lon":-83.762825,"elevation":830,"region":"K5","runways":[{"id":"RW08","lat":44.364178,"lon":-83.7656,"length":2400,"course":82.0},{"id":"RW26","lat":44.365514,"lon":-83.758381,"length":2400,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

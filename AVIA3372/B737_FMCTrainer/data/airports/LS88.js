@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS88"]={"id":"LS88","name":"KRESWELL","lat":30.449722,"lon":-92.326111,"elevation":42,"region":"K4","runways":[{"id":"RW14","lat":30.451944,"lon":-92.328056,"length":2029,"course":142.9},{"id":"RW32","lat":30.4475,"lon":-92.324167,"length":2029,"course":322.9}],"procedures":{"D":{},"E":{},"F":{}}};

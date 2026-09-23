@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MN2"]={"id":"5MN2","name":"HOILAND FLD","lat":47.395792,"lon":-95.367519,"elevation":1535,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

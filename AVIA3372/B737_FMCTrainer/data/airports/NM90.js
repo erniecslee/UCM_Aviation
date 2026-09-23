@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM90"]={"id":"NM90","name":"AMIGOS DEL CIELO","lat":31.903025,"lon":-109.025475,"elevation":4107,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

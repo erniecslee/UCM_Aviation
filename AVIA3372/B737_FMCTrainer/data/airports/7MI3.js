@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MI3"]={"id":"7MI3","name":"THRALL LAKE","lat":42.116714,"lon":-85.516664,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

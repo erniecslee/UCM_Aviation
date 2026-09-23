@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK2"]={"id":"0AK2","name":"YENTNA BEND STRIP","lat":61.724733,"lon":-150.683428,"elevation":81,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MT7"]={"id":"3MT7","name":"CASCADE FLD","lat":47.266667,"lon":-111.7175,"elevation":3800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

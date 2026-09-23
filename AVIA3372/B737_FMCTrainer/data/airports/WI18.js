@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI18"]={"id":"WI18","name":"GATEWAY","lat":45.133294,"lon":-91.450158,"elevation":1021,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

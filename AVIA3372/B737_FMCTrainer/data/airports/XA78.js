@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA78"]={"id":"XA78","name":"MELODY RANCH","lat":33.462308,"lon":-97.070981,"elevation":729,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

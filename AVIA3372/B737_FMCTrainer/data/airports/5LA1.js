@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LA1"]={"id":"5LA1","name":"KENT'S FLYING SERVICE","lat":31.027967,"lon":-91.981233,"elevation":55,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

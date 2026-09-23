@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS34"]={"id":"IS34","name":"PIPER'S LANDING","lat":38.706714,"lon":-87.633358,"elevation":425,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

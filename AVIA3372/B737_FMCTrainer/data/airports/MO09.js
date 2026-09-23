@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO09"]={"id":"MO09","name":"SHARPE FARMS","lat":40.023653,"lon":-91.873781,"elevation":702,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40IN"]={"id":"40IN","name":"CHERRY HILL","lat":39.074217,"lon":-86.154156,"elevation":745,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

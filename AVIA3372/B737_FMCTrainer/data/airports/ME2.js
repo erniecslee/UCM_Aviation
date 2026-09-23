@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME2"]={"id":"ME2","name":"CUTLER RGNL","lat":44.68,"lon":-67.264361,"elevation":55,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

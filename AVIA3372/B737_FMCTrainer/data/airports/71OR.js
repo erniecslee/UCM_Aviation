@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71OR"]={"id":"71OR","name":"CERNY","lat":44.2445,"lon":-119.126242,"elevation":4765,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

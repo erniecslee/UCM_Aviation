@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WI4"]={"id":"2WI4","name":"PLOWS & PROPS","lat":42.642794,"lon":-88.398706,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

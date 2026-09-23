@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88WA"]={"id":"88WA","name":"DEER HARBOR","lat":48.608161,"lon":-123.00625,"elevation":0,"region":"K1","runways":[{"id":"RW18W","lat":48.613214,"lon":-123.003033,"length":4001,"course":187.6},{"id":"RW36W","lat":48.603111,"lon":-123.009467,"length":4001,"course":7.6}],"procedures":{"D":{},"E":{},"F":{}}};

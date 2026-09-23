@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN79"]={"id":"TN79","name":"OAKLEY","lat":36.172281,"lon":-86.959725,"elevation":400,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

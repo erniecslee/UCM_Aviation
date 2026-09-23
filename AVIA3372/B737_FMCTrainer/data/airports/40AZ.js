@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40AZ"]={"id":"40AZ","name":"BOULAIS RANCH","lat":33.078939,"lon":-112.129033,"elevation":1240,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

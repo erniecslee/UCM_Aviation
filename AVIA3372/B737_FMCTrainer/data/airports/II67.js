@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II67"]={"id":"II67","name":"HICKORY HILLS","lat":40.427794,"lon":-85.373461,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05FA"]={"id":"05FA","name":"MELANIE'S","lat":30.918889,"lon":-86.218333,"elevation":295,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

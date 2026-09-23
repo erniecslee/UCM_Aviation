@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27PS"]={"id":"27PS","name":"VAN BLARCOM","lat":41.855944,"lon":-76.82875,"elevation":1510,"region":"K6","runways":[{"id":"RW11","lat":41.856472,"lon":-76.832139,"length":1886,"course":113.1},{"id":"RW29","lat":41.855417,"lon":-76.825361,"length":1886,"course":293.1}],"procedures":{"D":{},"E":{},"F":{}}};

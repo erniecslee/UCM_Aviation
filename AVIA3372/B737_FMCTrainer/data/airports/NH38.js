@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH38"]={"id":"NH38","name":"DOLITTLE FLD","lat":43.972572,"lon":-71.169792,"elevation":860,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

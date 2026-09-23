@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E57"]={"id":"E57","name":"DENVER CITY","lat":32.974658,"lon":-102.845097,"elevation":3575,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN54"]={"id":"IN54","name":"I & C FLD","lat":41.283653,"lon":-86.462786,"elevation":745,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

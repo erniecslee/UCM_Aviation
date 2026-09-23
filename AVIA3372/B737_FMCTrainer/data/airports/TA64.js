@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA64"]={"id":"TA64","name":"PERSIMMON GAP RANCH","lat":29.700917,"lon":-103.15,"elevation":2680,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

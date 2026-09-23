@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4SC7"]={"id":"4SC7","name":"WEXFORD LANDING","lat":33.589722,"lon":-81.5025,"elevation":400,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

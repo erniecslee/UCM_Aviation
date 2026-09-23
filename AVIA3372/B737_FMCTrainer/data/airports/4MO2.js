@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MO2"]={"id":"4MO2","name":"NEWCOMB HEREFORD RANCH","lat":40.558361,"lon":-92.441853,"elevation":850,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

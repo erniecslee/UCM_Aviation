@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18SD"]={"id":"18SD","name":"LOST CREEK","lat":44.702653,"lon":-99.070972,"elevation":1550,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

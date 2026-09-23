@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK56"]={"id":"AK56","name":"TIKCHIK LODGE","lat":59.963161,"lon":-158.477236,"elevation":304,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

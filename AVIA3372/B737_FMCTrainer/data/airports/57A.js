@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57A"]={"id":"57A","name":"TOKEEN","lat":55.937133,"lon":-133.326722,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

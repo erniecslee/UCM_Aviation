@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA3"]={"id":"LA3","name":"FELICIANA AIRPARK","lat":30.807778,"lon":-91.213333,"elevation":204,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

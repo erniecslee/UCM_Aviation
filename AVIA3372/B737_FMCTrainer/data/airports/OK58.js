@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK58"]={"id":"OK58","name":"BLUESTEM","lat":36.397314,"lon":-95.904992,"elevation":660,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

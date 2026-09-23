@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TX1"]={"id":"5TX1","name":"BAR TRIANGLE","lat":30.793128,"lon":-99.216586,"elevation":1684,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

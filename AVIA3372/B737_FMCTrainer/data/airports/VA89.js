@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA89"]={"id":"VA89","name":"DOVES NEST FLD","lat":37.947778,"lon":-76.970972,"elevation":160,"region":"K6","runways":[{"id":"RW18","lat":37.948611,"lon":-76.971111,"length":612,"course":183.1},{"id":"RW36","lat":37.946944,"lon":-76.970833,"length":612,"course":3.1}],"procedures":{"D":{},"E":{},"F":{}}};

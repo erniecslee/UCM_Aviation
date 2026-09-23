@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9LA9"]={"id":"9LA9","name":"SKYLINE AIRPARK","lat":30.733519,"lon":-90.450092,"elevation":200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

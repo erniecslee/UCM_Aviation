@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56PA"]={"id":"56PA","name":"HOGE FARM","lat":40.469547,"lon":-75.082117,"elevation":430,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

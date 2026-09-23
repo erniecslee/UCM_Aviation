@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67AR"]={"id":"67AR","name":"WEDINGTON WOODS","lat":36.097778,"lon":-94.3075,"elevation":1090,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

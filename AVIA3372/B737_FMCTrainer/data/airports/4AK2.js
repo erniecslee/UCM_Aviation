@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK2"]={"id":"4AK2","name":"ST JOHN HOMESTEAD","lat":61.557989,"lon":-149.424078,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

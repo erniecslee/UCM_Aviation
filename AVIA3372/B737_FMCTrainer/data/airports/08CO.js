@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08CO"]={"id":"08CO","name":"TERRA FIRMA","lat":38.732472,"lon":-104.041333,"elevation":5600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

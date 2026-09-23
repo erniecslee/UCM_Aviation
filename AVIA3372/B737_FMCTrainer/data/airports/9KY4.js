@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9KY4"]={"id":"9KY4","name":"TEC FLD","lat":37.023742,"lon":-84.122056,"elevation":1190,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

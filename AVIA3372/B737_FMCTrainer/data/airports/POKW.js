@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["POKW"]={"id":"POKW","name":"WATERFALL","lat":55.296322,"lon":-133.243336,"elevation":0,"region":"PO","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

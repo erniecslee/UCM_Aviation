@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8C2"]={"id":"8C2","name":"SULLY MUNI","lat":41.5741,"lon":-92.8466,"elevation":922,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

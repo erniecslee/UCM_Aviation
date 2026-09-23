@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PN7"]={"id":"3PN7","name":"STAHL'S MOUNTAIN","lat":41.747861,"lon":-75.497406,"elevation":1950,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

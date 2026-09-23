@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WA3"]={"id":"7WA3","name":"WESTWIND","lat":48.886111,"lon":-122.328611,"elevation":160,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

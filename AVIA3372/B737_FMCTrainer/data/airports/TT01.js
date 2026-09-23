@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT01"]={"id":"TT01","name":"PAGAN AIRSTRIP","lat":18.124444,"lon":145.768611,"elevation":34,"region":"PG","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

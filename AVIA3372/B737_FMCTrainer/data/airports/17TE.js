@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17TE"]={"id":"17TE","name":"COMFORT AIRPARK","lat":29.929106,"lon":-98.940311,"elevation":1470,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

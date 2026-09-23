@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE00"]={"id":"GE00","name":"MORRIS","lat":33.609722,"lon":-82.135833,"elevation":102,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

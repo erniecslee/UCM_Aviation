@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI5"]={"id":"3WI5","name":"CLOVER VALLEY","lat":42.812511,"lon":-88.726494,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

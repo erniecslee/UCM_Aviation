@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG45"]={"id":"OG45","name":"BALD MOUNTAIN","lat":44.616944,"lon":-117.871944,"elevation":4640,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

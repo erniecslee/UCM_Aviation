@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N55"]={"id":"N55","name":"JALUIT","lat":5.906667,"lon":169.641667,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

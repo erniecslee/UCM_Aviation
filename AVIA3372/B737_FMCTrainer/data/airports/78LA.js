@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78LA"]={"id":"78LA","name":"NAQUIN FLD","lat":29.735178,"lon":-90.700703,"elevation":13,"region":"K4","runways":[{"id":"RW02","lat":29.730692,"lon":-90.7025,"length":3458,"course":20.4},{"id":"RW20","lat":29.739667,"lon":-90.698903,"length":3458,"course":200.4}],"procedures":{"D":{},"E":{},"F":{}}};

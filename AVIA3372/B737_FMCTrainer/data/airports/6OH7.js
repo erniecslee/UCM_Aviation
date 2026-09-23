@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OH7"]={"id":"6OH7","name":"NIETZ","lat":41.406894,"lon":-83.679844,"elevation":676,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

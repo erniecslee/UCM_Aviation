@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VI22"]={"id":"VI22","name":"CHARLOTTE AMALIE HARBOR","lat":18.338567,"lon":-64.9407,"elevation":0,"region":"TI","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

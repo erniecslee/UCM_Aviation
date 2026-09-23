@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY07"]={"id":"NY07","name":"HURLBUT FLD","lat":44.545833,"lon":-75.161111,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

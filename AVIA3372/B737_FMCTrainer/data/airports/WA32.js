@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA32"]={"id":"WA32","name":"SEAPLANE SCENICS AT CARILLON P","lat":47.66,"lon":-122.21,"elevation":14,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE33"]={"id":"GE33","name":"RIVER BEND","lat":33.304444,"lon":-84.136667,"elevation":718,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

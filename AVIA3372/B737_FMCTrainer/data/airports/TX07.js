@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX07"]={"id":"TX07","name":"NIX RIVER RANCH STRIP","lat":29.934278,"lon":-101.23425,"elevation":1820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

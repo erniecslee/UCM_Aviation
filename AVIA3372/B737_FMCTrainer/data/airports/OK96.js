@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK96"]={"id":"OK96","name":"IVES","lat":35.756447,"lon":-97.084753,"elevation":1035,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

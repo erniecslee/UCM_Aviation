@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK37"]={"id":"OK37","name":"DOG IRON RANCH","lat":36.469536,"lon":-95.667756,"elevation":760,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

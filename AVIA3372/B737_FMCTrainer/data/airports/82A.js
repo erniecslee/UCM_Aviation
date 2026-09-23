@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82A"]={"id":"82A","name":"MARION COUNTY","lat":32.282806,"lon":-84.503694,"elevation":682,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

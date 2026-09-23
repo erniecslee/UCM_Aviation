@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7Y3"]={"id":"7Y3","name":"BACKUS MUNI","lat":46.827175,"lon":-94.506786,"elevation":1353,"region":"K3","runways":[{"id":"RW15","lat":46.831811,"lon":-94.509161,"length":3585,"course":157.0},{"id":"RW33","lat":46.822539,"lon":-94.504411,"length":3585,"course":337.0}],"procedures":{"D":{},"E":{},"F":{}}};

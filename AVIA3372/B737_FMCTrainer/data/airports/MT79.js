@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT79"]={"id":"MT79","name":"SAND CREEK WILDLIFE STATION","lat":47.584156,"lon":-108.709042,"elevation":2940,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

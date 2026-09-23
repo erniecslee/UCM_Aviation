@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MN2"]={"id":"1MN2","name":"HAY ACRES","lat":46.938333,"lon":-94.757033,"elevation":1430,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

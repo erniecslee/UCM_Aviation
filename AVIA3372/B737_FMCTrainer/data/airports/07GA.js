@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07GA"]={"id":"07GA","name":"ALCOVY","lat":33.675,"lon":-83.763056,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

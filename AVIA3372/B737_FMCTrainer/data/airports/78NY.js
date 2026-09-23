@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78NY"]={"id":"78NY","name":"FLYING F","lat":43.081389,"lon":-78.779444,"elevation":580,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

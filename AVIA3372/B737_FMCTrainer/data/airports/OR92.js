@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR92"]={"id":"OR92","name":"K2","lat":45.752744,"lon":-119.383403,"elevation":748,"region":"K1","runways":[{"id":"RW02","lat":45.749431,"lon":-119.386,"length":2756,"course":14.9},{"id":"RW20","lat":45.756056,"lon":-119.380806,"length":2756,"course":194.9}],"procedures":{"D":{},"E":{},"F":{}}};

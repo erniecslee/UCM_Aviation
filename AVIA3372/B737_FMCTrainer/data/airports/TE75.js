@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE75"]={"id":"TE75","name":"LEXINGTON AIRFIELD","lat":30.4125,"lon":-96.966667,"elevation":470,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

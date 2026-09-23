@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS41"]={"id":"WS41","name":"RUSMAR FARMS","lat":45.012189,"lon":-92.551308,"elevation":1050,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

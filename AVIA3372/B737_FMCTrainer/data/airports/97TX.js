@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97TX"]={"id":"97TX","name":"SAN PEDRO RANCH","lat":28.283603,"lon":-100.067006,"elevation":710,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

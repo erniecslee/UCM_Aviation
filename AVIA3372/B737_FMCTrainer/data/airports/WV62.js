@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV62"]={"id":"WV62","name":"WINDWOOD FLY-IN RESORT","lat":39.055339,"lon":-79.430811,"elevation":3235,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

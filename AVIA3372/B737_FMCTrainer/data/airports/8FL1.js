@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FL1"]={"id":"8FL1","name":"MC DONALD'S FLD","lat":27.196994,"lon":-81.915639,"elevation":54,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

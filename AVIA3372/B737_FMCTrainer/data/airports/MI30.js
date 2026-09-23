@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI30"]={"id":"MI30","name":"AIR PARK NORTH","lat":44.958039,"lon":-84.958908,"elevation":1170,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

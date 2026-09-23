@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FL5"]={"id":"0FL5","name":"H2OZTEC","lat":28.598867,"lon":-81.814356,"elevation":93,"region":"K7","runways":[{"id":"RW09W","lat":28.598567,"lon":-81.819017,"length":3000,"course":100.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD01"]={"id":"MD01","name":"WINGFIELD","lat":38.143458,"lon":-76.356614,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

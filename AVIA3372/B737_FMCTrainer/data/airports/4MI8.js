@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MI8"]={"id":"4MI8","name":"WITHAM FLD","lat":43.241667,"lon":-82.582778,"elevation":775,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

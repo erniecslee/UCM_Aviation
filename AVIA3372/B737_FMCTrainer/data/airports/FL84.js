@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL84"]={"id":"FL84","name":"FLYING-A-RANCH","lat":30.601069,"lon":-81.570372,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

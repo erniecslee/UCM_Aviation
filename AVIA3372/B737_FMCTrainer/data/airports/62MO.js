@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62MO"]={"id":"62MO","name":"WASHBURN FARM","lat":39.060561,"lon":-94.203281,"elevation":855,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

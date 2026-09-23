@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA60"]={"id":"NA60","name":"DAKOTA","lat":47.234978,"lon":-97.038419,"elevation":903,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

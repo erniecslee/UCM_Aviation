@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T29"]={"id":"T29","name":"FLYING H RANCH","lat":33.630428,"lon":-96.940972,"elevation":760,"region":"K4","runways":[{"id":"RW36","lat":33.627136,"lon":-96.941028,"length":2395,"course":358.1}],"procedures":{"D":{},"E":{},"F":{}}};

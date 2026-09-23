@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23MU"]={"id":"23MU","name":"SEAN D SHELDON MEML AIRFIELD","lat":38.018583,"lon":-93.693222,"elevation":900,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

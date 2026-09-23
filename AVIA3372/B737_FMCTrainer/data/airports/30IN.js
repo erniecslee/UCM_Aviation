@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30IN"]={"id":"30IN","name":"DRAGO AIR","lat":40.378214,"lon":-86.594061,"elevation":797,"region":"K5","runways":[{"id":"RW09","lat":40.378214,"lon":-86.598189,"length":2400,"course":94.8},{"id":"RW27","lat":40.378214,"lon":-86.592639,"length":2400,"course":274.8}],"procedures":{"D":{},"E":{},"F":{}}};

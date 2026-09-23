@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK21"]={"id":"OK21","name":"LONGS NORTH","lat":36.333428,"lon":-95.304414,"elevation":650,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

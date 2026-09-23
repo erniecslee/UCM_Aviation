@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WI3"]={"id":"9WI3","name":"BUCHHOLZ FARM","lat":44.285547,"lon":-87.986764,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

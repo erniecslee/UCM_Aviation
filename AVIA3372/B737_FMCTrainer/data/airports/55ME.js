@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55ME"]={"id":"55ME","name":"HIGHLAND VIEW FLD","lat":44.318056,"lon":-69.138333,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

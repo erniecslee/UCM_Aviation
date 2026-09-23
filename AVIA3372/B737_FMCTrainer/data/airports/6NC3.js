@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC3"]={"id":"6NC3","name":"EASTOVER AIR RANCH","lat":35.086389,"lon":-78.772222,"elevation":160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

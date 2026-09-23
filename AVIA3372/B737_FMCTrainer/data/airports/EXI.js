@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["EXI"]={"id":"EXI","name":"EXCURSION INLET","lat":58.4205,"lon":-135.449033,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

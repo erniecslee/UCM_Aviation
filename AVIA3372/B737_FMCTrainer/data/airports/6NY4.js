@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NY4"]={"id":"6NY4","name":"WEST TOWNSHIP","lat":42.700353,"lon":-74.155128,"elevation":1260,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

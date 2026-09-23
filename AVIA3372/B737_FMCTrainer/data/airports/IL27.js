@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL27"]={"id":"IL27","name":"SUGAR HOLLOW","lat":40.13,"lon":-88.831667,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

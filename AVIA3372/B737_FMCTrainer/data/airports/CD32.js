@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD32"]={"id":"CD32","name":"CASTLE LAKES","lat":37.909167,"lon":-107.350278,"elevation":9300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

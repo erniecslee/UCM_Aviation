@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK01"]={"id":"AK01","name":"ALASKA AIRPARK","lat":60.528983,"lon":-150.625133,"elevation":336,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47IS"]={"id":"47IS","name":"FLYING Z RANCH","lat":42.491667,"lon":-89.356944,"elevation":945,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

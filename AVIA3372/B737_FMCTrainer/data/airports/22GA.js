@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22GA"]={"id":"22GA","name":"RIVERSIDE","lat":34.429256,"lon":-85.054392,"elevation":620,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT29"]={"id":"MT29","name":"SUNDAY CREEK AIRPARK","lat":46.478892,"lon":-105.858339,"elevation":2490,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

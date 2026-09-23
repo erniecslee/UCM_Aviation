@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TE7"]={"id":"5TE7","name":"RENZ RANCH","lat":29.719403,"lon":-96.309411,"elevation":220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN70"]={"id":"SN70","name":"KAYPOD","lat":37.251408,"lon":-97.954503,"elevation":1379,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1R1"]={"id":"1R1","name":"JENA","lat":31.668814,"lon":-92.157594,"elevation":216,"region":"K4","runways":[{"id":"RW18","lat":31.672525,"lon":-92.157628,"length":4901,"course":175.0},{"id":"RW36","lat":31.662078,"lon":-92.157536,"length":4901,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

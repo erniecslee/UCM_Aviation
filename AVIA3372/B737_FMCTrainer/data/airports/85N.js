@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85N"]={"id":"85N","name":"HOLLANDS INTL FLD","lat":43.254878,"lon":-78.7655,"elevation":360,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

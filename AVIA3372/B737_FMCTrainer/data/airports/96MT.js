@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96MT"]={"id":"96MT","name":"POWERS PROPAIR SERVICE","lat":45.6655,"lon":-108.717333,"elevation":3265,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

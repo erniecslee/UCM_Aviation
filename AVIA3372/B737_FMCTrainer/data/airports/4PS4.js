@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PS4"]={"id":"4PS4","name":"MOUNTAIN TOP","lat":41.815225,"lon":-75.534244,"elevation":2114,"region":"K6","runways":[{"id":"RW06","lat":41.812592,"lon":-75.537186,"length":2500,"course":51.0},{"id":"RW24","lat":41.817856,"lon":-75.5313,"length":2500,"course":231.0}],"procedures":{"D":{},"E":{},"F":{}}};

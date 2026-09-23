@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS27"]={"id":"PS27","name":"JUERGENSEN AIRPARK AND MARITIM","lat":39.731389,"lon":-79.375,"elevation":1890,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

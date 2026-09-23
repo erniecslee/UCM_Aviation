@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08WA"]={"id":"08WA","name":"P-L RANCH","lat":46.970417,"lon":-122.725889,"elevation":210,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

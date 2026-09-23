@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA88"]={"id":"PA88","name":"NEMACOLIN","lat":39.807378,"lon":-79.547539,"elevation":1995,"region":"K6","runways":[{"id":"RW05","lat":39.803344,"lon":-79.551947,"length":3845,"course":48.0},{"id":"RW23","lat":39.811111,"lon":-79.543444,"length":3845,"course":228.0}],"procedures":{"D":{},"E":{},"F":{}}};

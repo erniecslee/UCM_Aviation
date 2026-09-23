@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AL5"]={"id":"2AL5","name":"FLYING H RANCH","lat":34.392778,"lon":-85.665,"elevation":1430,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

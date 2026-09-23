@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OK5"]={"id":"9OK5","name":"POSSUMHAW","lat":36.812092,"lon":-95.035242,"elevation":772,"region":"K4","runways":[{"id":"RW18","lat":36.815531,"lon":-95.035222,"length":2504,"course":178.9},{"id":"RW36","lat":36.808653,"lon":-95.035261,"length":2504,"course":358.9}],"procedures":{"D":{},"E":{},"F":{}}};

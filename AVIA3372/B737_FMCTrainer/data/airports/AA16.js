@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA16"]={"id":"AA16","name":"TREASURE CHEST","lat":60.624808,"lon":-151.2945,"elevation":125,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

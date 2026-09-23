@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VA0"]={"id":"3VA0","name":"AYRES-AICP","lat":38.77595,"lon":-77.91055,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

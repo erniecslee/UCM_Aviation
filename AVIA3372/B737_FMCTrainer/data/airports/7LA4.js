@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7LA4"]={"id":"7LA4","name":"KIBS AIR PARK","lat":30.380622,"lon":-92.146064,"elevation":51,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

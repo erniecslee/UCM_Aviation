@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49AR"]={"id":"49AR","name":"SIDS PLACE","lat":34.214444,"lon":-91.457778,"elevation":194,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

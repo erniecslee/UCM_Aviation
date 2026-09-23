@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["RDV"]={"id":"RDV","name":"RED DEVIL","lat":61.788056,"lon":-157.35025,"elevation":181,"region":"PA","runways":[{"id":"RW10","lat":61.791444,"lon":-157.362217,"length":4820,"course":100.0},{"id":"RW28","lat":61.784686,"lon":-157.338308,"length":4820,"course":280.0}],"procedures":{"D":{},"E":{},"F":{}}};

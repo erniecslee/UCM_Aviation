@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG34"]={"id":"VG34","name":"MERIFIELD","lat":36.584586,"lon":-78.500833,"elevation":355,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

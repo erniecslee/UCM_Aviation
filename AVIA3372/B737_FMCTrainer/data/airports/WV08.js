@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV08"]={"id":"WV08","name":"ISLAND","lat":38.220472,"lon":-81.528717,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

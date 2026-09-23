@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CD4"]={"id":"8CD4","name":"BASIN FLD","lat":39.258742,"lon":-104.63475,"elevation":6943,"region":"K2","runways":[{"id":"RW06","lat":39.257594,"lon":-104.638842,"length":2464,"course":62.8},{"id":"RW24","lat":39.259892,"lon":-104.630658,"length":2464,"course":242.8}],"procedures":{"D":{},"E":{},"F":{}}};

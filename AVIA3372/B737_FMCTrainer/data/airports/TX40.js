@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX40"]={"id":"TX40","name":"ECHO LAKE","lat":32.2535,"lon":-95.655492,"elevation":465,"region":"K4","runways":[{"id":"RW16","lat":32.256972,"lon":-95.656486,"length":2600,"course":160.0},{"id":"RW34","lat":32.250028,"lon":-95.6545,"length":2600,"course":340.0}],"procedures":{"D":{},"E":{},"F":{}}};

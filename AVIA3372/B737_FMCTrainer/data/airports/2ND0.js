@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND0"]={"id":"2ND0","name":"KRAFT","lat":46.814414,"lon":-97.049811,"elevation":910,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

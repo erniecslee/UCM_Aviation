@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05VA"]={"id":"05VA","name":"PROVIDENCE","lat":37.224167,"lon":-78.418611,"elevation":445,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

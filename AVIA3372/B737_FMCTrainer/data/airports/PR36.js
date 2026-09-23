@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PR36"]={"id":"PR36","name":"COCAL","lat":18.455683,"lon":-66.224656,"elevation":10,"region":"TJ","runways":[{"id":"RW06","lat":18.452756,"lon":-66.229544,"length":4000,"course":71.5},{"id":"RW24","lat":18.458611,"lon":-66.219767,"length":4000,"course":251.6}],"procedures":{"D":{},"E":{},"F":{}}};

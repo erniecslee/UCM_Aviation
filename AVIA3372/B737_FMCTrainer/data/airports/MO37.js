@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO37"]={"id":"MO37","name":"RIDGEVIEW RANCH","lat":38.723067,"lon":-94.381894,"elevation":985,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

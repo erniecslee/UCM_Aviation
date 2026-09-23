@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PANR"]={"id":"PANR","name":"FUNTER BAY","lat":58.254386,"lon":-134.897906,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

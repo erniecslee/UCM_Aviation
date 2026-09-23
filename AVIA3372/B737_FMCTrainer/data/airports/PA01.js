@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA01"]={"id":"PA01","name":"MERRYS PYMATUNING","lat":41.675056,"lon":-80.434511,"elevation":1203,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

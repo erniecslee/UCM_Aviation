@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PS3"]={"id":"0PS3","name":"CARSONVILLE","lat":40.490364,"lon":-76.766636,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

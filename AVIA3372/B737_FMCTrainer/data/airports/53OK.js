@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53OK"]={"id":"53OK","name":"THOMPSON PRIVATE","lat":35.243522,"lon":-97.763983,"elevation":1280,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

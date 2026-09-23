@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51ME"]={"id":"51ME","name":"BEAVER CREEK","lat":44.502986,"lon":-70.071539,"elevation":600,"region":"K6","runways":[{"id":"RW17","lat":44.507008,"lon":-70.07275,"length":3000,"course":182.5},{"id":"RW35","lat":44.498964,"lon":-70.070328,"length":3000,"course":2.5}],"procedures":{"D":{},"E":{},"F":{}}};

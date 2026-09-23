@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU26"]={"id":"MU26","name":"ROBINSON","lat":38.770847,"lon":-94.558994,"elevation":1087,"region":"K3","runways":[{"id":"RW08","lat":38.770414,"lon":-94.562922,"length":2260,"course":78.0},{"id":"RW26","lat":38.771278,"lon":-94.555072,"length":2260,"course":258.0}],"procedures":{"D":{},"E":{},"F":{}}};

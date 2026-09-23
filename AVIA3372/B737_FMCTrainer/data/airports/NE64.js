@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE64"]={"id":"NE64","name":"HERSHEY FLYING SERVICE FLD","lat":41.162436,"lon":-100.978453,"elevation":2899,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

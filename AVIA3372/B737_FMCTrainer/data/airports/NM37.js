@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM37"]={"id":"NM37","name":"ADOBE RANCH PRIVATE","lat":33.576453,"lon":-107.900044,"elevation":7354,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

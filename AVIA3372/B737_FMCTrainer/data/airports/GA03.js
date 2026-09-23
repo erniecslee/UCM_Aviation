@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA03"]={"id":"GA03","name":"WILSON","lat":34.869522,"lon":-85.199675,"elevation":795,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

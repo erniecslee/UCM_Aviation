@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04WN"]={"id":"04WN","name":"STILLWATER CREEK","lat":46.958358,"lon":-119.638819,"elevation":1510,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

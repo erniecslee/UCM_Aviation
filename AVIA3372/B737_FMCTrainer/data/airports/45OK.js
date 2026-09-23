@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45OK"]={"id":"45OK","name":"BELLEVIEW LANDING","lat":36.912583,"lon":-95.603033,"elevation":775,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

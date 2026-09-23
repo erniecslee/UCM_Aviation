@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV72"]={"id":"NV72","name":"SWEETWATER (USMC)","lat":38.515,"lon":-119.213611,"elevation":6837,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

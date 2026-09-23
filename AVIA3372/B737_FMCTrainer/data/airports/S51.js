@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S51"]={"id":"S51","name":"ANDY MC BETH","lat":41.512028,"lon":-123.995667,"elevation":42,"region":"K2","runways":[{"id":"RW11","lat":41.5141,"lon":-123.999103,"length":2400,"course":110.7},{"id":"RW29","lat":41.509981,"lon":-123.992261,"length":2400,"course":290.7}],"procedures":{"D":{},"E":{},"F":{}}};

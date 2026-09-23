@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66OK"]={"id":"66OK","name":"MC LAUGHLIN FARM","lat":34.088983,"lon":-96.421661,"elevation":695,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AK8"]={"id":"1AK8","name":"TALAHEIM","lat":61.674672,"lon":-151.384875,"elevation":610,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OH2"]={"id":"7OH2","name":"CANAL FULTON","lat":40.900333,"lon":-81.533731,"elevation":1150,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

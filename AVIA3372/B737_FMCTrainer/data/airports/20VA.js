@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20VA"]={"id":"20VA","name":"WOODFORD AIRPARK","lat":38.082356,"lon":-77.488317,"elevation":245,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

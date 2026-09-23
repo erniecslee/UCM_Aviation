@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OK1"]={"id":"1OK1","name":"DAVE'S PLACE","lat":35.824736,"lon":-97.80505,"elevation":1160,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

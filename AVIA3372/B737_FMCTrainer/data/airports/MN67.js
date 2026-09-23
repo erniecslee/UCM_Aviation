@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN67"]={"id":"MN67","name":"SKY PARK","lat":44.659686,"lon":-93.518286,"elevation":940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

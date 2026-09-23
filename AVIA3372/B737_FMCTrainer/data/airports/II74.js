@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II74"]={"id":"II74","name":"EBY FLD","lat":41.559769,"lon":-86.053056,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

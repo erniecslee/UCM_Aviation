@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F69"]={"id":"F69","name":"AIR PARK-DALLAS","lat":33.023456,"lon":-96.836947,"elevation":695,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

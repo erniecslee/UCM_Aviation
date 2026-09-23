@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4S4"]={"id":"4S4","name":"SKYPORT","lat":45.582614,"lon":-123.052886,"elevation":174,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

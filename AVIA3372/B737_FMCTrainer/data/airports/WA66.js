@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA66"]={"id":"WA66","name":"SPRING CREEK RANCH","lat":45.805397,"lon":-121.501186,"elevation":475,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

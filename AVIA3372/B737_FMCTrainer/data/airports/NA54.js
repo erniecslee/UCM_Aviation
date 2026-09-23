@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA54"]={"id":"NA54","name":"MOSER AIRSTRIP","lat":45.954994,"lon":-100.442072,"elevation":1750,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

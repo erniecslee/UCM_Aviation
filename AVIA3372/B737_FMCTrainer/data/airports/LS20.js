@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS20"]={"id":"LS20","name":"OLIAIR","lat":32.256106,"lon":-91.719886,"elevation":75,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

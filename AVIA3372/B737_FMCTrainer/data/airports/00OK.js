@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00OK"]={"id":"00OK","name":"GULL BAY LANDING","lat":36.198917,"lon":-96.217683,"elevation":960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

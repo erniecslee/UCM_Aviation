@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02NV"]={"id":"02NV","name":"PAIUTE MEADOWS","lat":41.300556,"lon":-118.928333,"elevation":4443,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

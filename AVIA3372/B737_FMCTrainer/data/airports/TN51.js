@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN51"]={"id":"TN51","name":"NATURAL SELECTION","lat":35.916936,"lon":-84.447094,"elevation":1045,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00IG"]={"id":"00IG","name":"GOLTL","lat":39.724028,"lon":-101.395994,"elevation":3359,"region":"K3","runways":[{"id":"RW18","lat":39.727389,"lon":-101.395994,"length":2450,"course":174.5},{"id":"RW36","lat":39.720664,"lon":-101.395994,"length":2450,"course":354.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W73"]={"id":"W73","name":"MID ATLANTIC SOARING CENTER","lat":39.757039,"lon":-77.351375,"elevation":573,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

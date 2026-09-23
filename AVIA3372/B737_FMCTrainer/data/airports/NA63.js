@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA63"]={"id":"NA63","name":"STORSETH AIRSTRIP","lat":48.666694,"lon":-103.856317,"elevation":2200,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

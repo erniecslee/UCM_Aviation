@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS1"]={"id":"1KS1","name":"COCHRAN","lat":38.458967,"lon":-95.226458,"elevation":1005,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

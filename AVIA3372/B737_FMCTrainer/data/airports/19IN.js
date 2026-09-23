@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19IN"]={"id":"19IN","name":"RESLER","lat":41.284444,"lon":-85.360833,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

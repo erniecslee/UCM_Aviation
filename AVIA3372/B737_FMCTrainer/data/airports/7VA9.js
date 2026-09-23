@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7VA9"]={"id":"7VA9","name":"HANNAH FLD","lat":38.398333,"lon":-79.600278,"elevation":3049,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

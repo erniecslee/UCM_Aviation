@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY97"]={"id":"NY97","name":"NORTHWAY","lat":44.666711,"lon":-73.566247,"elevation":420,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

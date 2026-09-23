@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN65"]={"id":"TN65","name":"LONG MEADOW AIRSTRIP","lat":35.666389,"lon":-86.485278,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

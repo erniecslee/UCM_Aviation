@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67MO"]={"id":"67MO","name":"SKI HARBOR","lat":37.810756,"lon":-93.369947,"elevation":888,"region":"K3","runways":[{"id":"RW18","lat":37.814378,"lon":-93.369758,"length":2640,"course":179.4},{"id":"RW36","lat":37.807131,"lon":-93.370133,"length":2640,"course":359.4}],"procedures":{"D":{},"E":{},"F":{}}};

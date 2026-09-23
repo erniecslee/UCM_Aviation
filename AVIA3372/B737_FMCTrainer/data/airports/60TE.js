@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60TE"]={"id":"60TE","name":"TIERRA LINDA RANCH","lat":30.141383,"lon":-99.150467,"elevation":1990,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

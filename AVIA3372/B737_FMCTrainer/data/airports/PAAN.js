@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAN"]={"id":"PAAN","name":"GOLD KING CREEK","lat":64.198056,"lon":-147.928611,"elevation":1720,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

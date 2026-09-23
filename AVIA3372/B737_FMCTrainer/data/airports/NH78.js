@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH78"]={"id":"NH78","name":"STECK FARM","lat":42.747172,"lon":-71.369231,"elevation":460,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

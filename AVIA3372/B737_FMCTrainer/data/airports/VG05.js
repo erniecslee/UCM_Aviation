@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG05"]={"id":"VG05","name":"PAYNE","lat":37.879586,"lon":-78.0575,"elevation":463,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

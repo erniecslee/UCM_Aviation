@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA94"]={"id":"IA94","name":"SJ AIRFIELD","lat":42.880647,"lon":-93.315192,"elevation":1209,"region":"K3","runways":[{"id":"RW18","lat":42.884175,"lon":-93.314925,"length":2575,"course":183.2},{"id":"RW36","lat":42.877119,"lon":-93.315456,"length":2575,"course":3.2}],"procedures":{"D":{},"E":{},"F":{}}};

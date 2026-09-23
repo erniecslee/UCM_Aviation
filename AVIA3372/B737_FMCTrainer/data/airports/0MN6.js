@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MN6"]={"id":"0MN6","name":"GILLESPIE","lat":46.665278,"lon":-94.125,"elevation":1230,"region":"K3","runways":[{"id":"RW18","lat":46.672222,"lon":-94.125,"length":5065,"course":86.4}],"procedures":{"D":{},"E":{},"F":{}}};

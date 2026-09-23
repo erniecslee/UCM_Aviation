@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18XA"]={"id":"18XA","name":"LANTANA RIDGE","lat":28.6591,"lon":-97.598747,"elevation":250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

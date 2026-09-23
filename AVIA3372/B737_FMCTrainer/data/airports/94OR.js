@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94OR"]={"id":"94OR","name":"UMPQUA RV PARK FLY IN","lat":43.530672,"lon":-123.548983,"elevation":230,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

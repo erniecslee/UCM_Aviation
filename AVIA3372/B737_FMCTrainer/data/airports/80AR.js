@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80AR"]={"id":"80AR","name":"KING","lat":34.414253,"lon":-90.729378,"elevation":175,"region":"K4","runways":[{"id":"RW05","lat":34.411389,"lon":-90.733331,"length":3168,"course":50.2},{"id":"RW23","lat":34.417117,"lon":-90.725425,"length":3168,"course":230.2}],"procedures":{"D":{},"E":{},"F":{}}};

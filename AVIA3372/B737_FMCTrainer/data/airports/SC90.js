@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC90"]={"id":"SC90","name":"DO-LITTLE FLD","lat":33.676592,"lon":-80.948147,"elevation":369,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO80"]={"id":"MO80","name":"OAK RIDGE AIRPARK","lat":37.160608,"lon":-92.323494,"elevation":1482,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

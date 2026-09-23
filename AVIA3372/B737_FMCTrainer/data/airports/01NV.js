@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01NV"]={"id":"01NV","name":"LANTANA RANCH","lat":38.763889,"lon":-119.027222,"elevation":4600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

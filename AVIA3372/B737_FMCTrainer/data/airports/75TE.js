@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75TE"]={"id":"75TE","name":"WOMACK FARM","lat":31.747383,"lon":-97.246119,"elevation":500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

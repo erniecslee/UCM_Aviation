@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34AR"]={"id":"34AR","name":"WOODBRIDGE FLD","lat":35.581111,"lon":-90.385278,"elevation":215,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

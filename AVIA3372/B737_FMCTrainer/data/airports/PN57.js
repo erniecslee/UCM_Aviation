@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN57"]={"id":"PN57","name":"MARION CENTER SPEEDWAY","lat":40.812008,"lon":-79.037256,"elevation":1500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

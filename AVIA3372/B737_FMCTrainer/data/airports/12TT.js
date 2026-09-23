@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12TT"]={"id":"12TT","name":"D AN P FARM","lat":33.593747,"lon":-97.100764,"elevation":771,"region":"K4","runways":[{"id":"RW02","lat":33.590689,"lon":-97.102561,"length":2480,"course":23.4},{"id":"RW20","lat":33.596806,"lon":-97.098967,"length":2480,"course":203.4}],"procedures":{"D":{},"E":{},"F":{}}};

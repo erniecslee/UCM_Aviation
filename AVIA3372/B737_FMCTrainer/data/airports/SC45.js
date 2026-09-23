@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC45"]={"id":"SC45","name":"GILBERT INTL AIRPARK","lat":33.884036,"lon":-81.381769,"elevation":551,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

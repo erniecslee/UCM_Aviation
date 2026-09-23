@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23DE"]={"id":"23DE","name":"FULL THROTTLE FARM","lat":39.312567,"lon":-75.728983,"elevation":81,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

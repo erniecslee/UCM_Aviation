@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM33"]={"id":"NM33","name":"BELL RANCH HEADQUARTERS","lat":35.547544,"lon":-104.083864,"elevation":4400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

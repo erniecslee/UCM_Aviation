@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY50"]={"id":"MY50","name":"FRONTENAC","lat":44.502744,"lon":-92.361292,"elevation":793,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

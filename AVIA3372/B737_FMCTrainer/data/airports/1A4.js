@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1A4"]={"id":"1A4","name":"LOGAN FLD","lat":31.103703,"lon":-86.0626,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

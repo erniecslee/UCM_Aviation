@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK95"]={"id":"AK95","name":"TWIN LAKE","lat":61.570367,"lon":-149.779039,"elevation":185,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

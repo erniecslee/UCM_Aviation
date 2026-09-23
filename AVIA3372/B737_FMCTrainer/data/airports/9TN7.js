@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TN7"]={"id":"9TN7","name":"BASKIN","lat":35.534444,"lon":-89.735,"elevation":400,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

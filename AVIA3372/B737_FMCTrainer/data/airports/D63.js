@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D63"]={"id":"D63","name":"DINSMORE","lat":40.49205,"lon":-123.598222,"elevation":2393,"region":"K2","runways":[{"id":"RW09","lat":40.493103,"lon":-123.602231,"length":2504,"course":92.0},{"id":"RW27","lat":40.490992,"lon":-123.5942,"length":2504,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

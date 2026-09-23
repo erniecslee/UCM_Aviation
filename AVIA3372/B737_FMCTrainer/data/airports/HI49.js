@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["HI49"]={"id":"HI49","name":"KALUAKOI","lat":21.147931,"lon":-157.258572,"elevation":250,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

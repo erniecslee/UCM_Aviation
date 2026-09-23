@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MS2"]={"id":"4MS2","name":"DOGWOOD ACRES","lat":32.212056,"lon":-90.450278,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

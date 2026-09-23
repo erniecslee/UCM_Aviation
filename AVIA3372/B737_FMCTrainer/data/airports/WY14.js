@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY14"]={"id":"WY14","name":"IPY RANCH","lat":44.637483,"lon":-104.688575,"elevation":3960,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

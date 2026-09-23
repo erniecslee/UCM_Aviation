@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ31"]={"id":"AZ31","name":"SERENE FLD","lat":32.996714,"lon":-112.272369,"elevation":1456,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

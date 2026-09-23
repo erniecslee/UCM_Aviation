@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT25"]={"id":"UT25","name":"MONUMENT VALLEY","lat":37.016667,"lon":-110.200686,"elevation":5192,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

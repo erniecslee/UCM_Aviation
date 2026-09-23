@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7S2"]={"id":"7S2","name":"WINNETT","lat":46.976667,"lon":-108.365,"elevation":2989,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0W0"]={"id":"0W0","name":"SEATTLE SEAPLANES","lat":47.627597,"lon":-122.331794,"elevation":14,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

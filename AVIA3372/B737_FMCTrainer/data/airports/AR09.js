@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR09"]={"id":"AR09","name":"GRAVETTE FLD","lat":36.413889,"lon":-94.438889,"elevation":1200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

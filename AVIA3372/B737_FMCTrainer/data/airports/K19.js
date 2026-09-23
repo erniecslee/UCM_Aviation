@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K19"]={"id":"K19","name":"ALBANY MUNI","lat":40.262194,"lon":-94.339028,"elevation":891,"region":"K3","runways":[{"id":"RW01","lat":40.257756,"lon":-94.340222,"length":3300,"course":6.8},{"id":"RW19","lat":40.266628,"lon":-94.337808,"length":3300,"course":186.8}],"procedures":{"D":{},"E":{},"F":{}}};

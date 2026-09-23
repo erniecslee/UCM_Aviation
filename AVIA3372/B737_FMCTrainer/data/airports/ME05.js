@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME05"]={"id":"ME05","name":"ALLEN ST PETER MEML","lat":46.750042,"lon":-68.471156,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

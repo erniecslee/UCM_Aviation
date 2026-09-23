@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL47"]={"id":"OL47","name":"HALLUM RANCH","lat":35.236011,"lon":-96.5066,"elevation":938,"region":"K4","runways":[{"id":"RW01","lat":35.233106,"lon":-96.507397,"length":2168,"course":10.3},{"id":"RW19","lat":35.238917,"lon":-96.505803,"length":2168,"course":190.3}],"procedures":{"D":{},"E":{},"F":{}}};

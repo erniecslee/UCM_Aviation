@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY49"]={"id":"NY49","name":"MESMER","lat":42.992778,"lon":-78.986389,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

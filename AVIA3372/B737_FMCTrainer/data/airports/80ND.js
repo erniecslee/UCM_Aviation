@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80ND"]={"id":"80ND","name":"TROY FLD","lat":48.878644,"lon":-103.370467,"elevation":2080,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

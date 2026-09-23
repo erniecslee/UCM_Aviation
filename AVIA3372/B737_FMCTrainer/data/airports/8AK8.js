@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK8"]={"id":"8AK8","name":"NORTH CUBS STRIP","lat":61.63,"lon":-149.682581,"elevation":350,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

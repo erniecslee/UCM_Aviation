@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS33"]={"id":"XS33","name":"CHESSON","lat":30.062433,"lon":-93.864614,"elevation":10,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

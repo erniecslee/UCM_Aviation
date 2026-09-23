@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2J8"]={"id":"2J8","name":"PIERSON MUNI","lat":29.250028,"lon":-81.459333,"elevation":63,"region":"K7","runways":[{"id":"RW05","lat":29.247575,"lon":-81.4623,"length":2600,"course":50.0},{"id":"RW23","lat":29.252497,"lon":-81.456381,"length":2600,"course":230.0}],"procedures":{"D":{},"E":{},"F":{}}};

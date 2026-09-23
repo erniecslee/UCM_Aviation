@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM55"]={"id":"NM55","name":"WHITEWATER MESA RANCH","lat":33.362778,"lon":-108.863611,"elevation":5460,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

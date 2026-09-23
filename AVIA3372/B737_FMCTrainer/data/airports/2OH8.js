@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OH8"]={"id":"2OH8","name":"PORT-O-JOHN","lat":39.795339,"lon":-83.223244,"elevation":925,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

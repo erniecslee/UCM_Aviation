@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MN8"]={"id":"7MN8","name":"WILLIS","lat":48.069722,"lon":-96.279444,"elevation":1135,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

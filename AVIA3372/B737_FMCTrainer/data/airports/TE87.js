@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE87"]={"id":"TE87","name":"MAGEE","lat":27.915833,"lon":-97.320278,"elevation":35,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

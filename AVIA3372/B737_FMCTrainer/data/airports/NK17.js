@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK17"]={"id":"NK17","name":"AUGUST FLD","lat":43.209361,"lon":-73.581711,"elevation":131,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

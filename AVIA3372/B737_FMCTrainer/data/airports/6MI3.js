@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MI3"]={"id":"6MI3","name":"CURT'S PLACE","lat":42.763081,"lon":-85.982814,"elevation":630,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

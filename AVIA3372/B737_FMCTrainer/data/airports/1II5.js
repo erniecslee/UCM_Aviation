@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1II5"]={"id":"1II5","name":"VAN DE MARK","lat":41.247264,"lon":-86.503064,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

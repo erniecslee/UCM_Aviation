@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50GA"]={"id":"50GA","name":"MALLORY FLD","lat":30.950833,"lon":-83.234167,"elevation":202,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

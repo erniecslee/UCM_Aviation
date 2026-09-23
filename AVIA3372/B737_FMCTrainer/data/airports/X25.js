@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X25"]={"id":"X25","name":"CHALET SUZANNE AIR STRIP","lat":27.953806,"lon":-81.601417,"elevation":130,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN44"]={"id":"IN44","name":"HABERMEL","lat":38.564225,"lon":-86.057475,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

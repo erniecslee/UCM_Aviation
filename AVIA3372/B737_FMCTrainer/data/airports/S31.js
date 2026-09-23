@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S31"]={"id":"S31","name":"LOPEZ ISLAND","lat":48.483917,"lon":-122.937667,"elevation":209,"region":"K1","runways":[{"id":"RW16","lat":48.487894,"lon":-122.9377,"length":2905,"course":158.8},{"id":"RW34","lat":48.479933,"lon":-122.937661,"length":2905,"course":338.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE5"]={"id":"2TE5","name":"PIANO RANCH","lat":29.695092,"lon":-97.163319,"elevation":383,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

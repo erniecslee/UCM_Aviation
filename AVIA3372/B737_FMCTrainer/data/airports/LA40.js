@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA40"]={"id":"LA40","name":"F L BRAUGHTON","lat":31.343889,"lon":-91.592778,"elevation":50,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

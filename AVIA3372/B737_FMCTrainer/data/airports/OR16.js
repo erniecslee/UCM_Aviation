@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR16"]={"id":"OR16","name":"BLACK BULL SPRING RANCH","lat":43.096806,"lon":-118.15,"elevation":4114,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

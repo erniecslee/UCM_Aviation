@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME5"]={"id":"ME5","name":"BANKS","lat":44.165389,"lon":-68.428167,"elevation":100,"region":"K6","runways":[{"id":"RW10","lat":44.164956,"lon":-68.43095,"length":1500,"course":95.0},{"id":"RW28","lat":44.165644,"lon":-68.426478,"length":1500,"course":275.0}],"procedures":{"D":{},"E":{},"F":{}}};

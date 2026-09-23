@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX65"]={"id":"TX65","name":"PINTO CREEK","lat":29.3951,"lon":-100.468697,"elevation":1192,"region":"K4","runways":[{"id":"RW12","lat":29.398542,"lon":-100.473797,"length":4100,"course":123.1},{"id":"RW30","lat":29.391658,"lon":-100.4636,"length":4100,"course":303.1}],"procedures":{"D":{},"E":{},"F":{}}};

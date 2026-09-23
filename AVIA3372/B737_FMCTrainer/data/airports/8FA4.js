@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FA4"]={"id":"8FA4","name":"NEW SMYRNA BEACH","lat":29.010444,"lon":-81.132472,"elevation":40,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

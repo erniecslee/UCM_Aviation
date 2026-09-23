@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA18"]={"id":"IA18","name":"BESCH","lat":42.973694,"lon":-94.035903,"elevation":1165,"region":"K3","runways":[{"id":"RW09","lat":42.973694,"lon":-94.04,"length":2193,"course":89.4},{"id":"RW27","lat":42.973694,"lon":-94.031806,"length":2193,"course":269.4}],"procedures":{"D":{},"E":{},"F":{}}};

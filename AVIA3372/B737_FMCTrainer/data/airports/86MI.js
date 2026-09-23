@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86MI"]={"id":"86MI","name":"DOWNWIND ACRES","lat":42.152819,"lon":-83.567436,"elevation":683,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

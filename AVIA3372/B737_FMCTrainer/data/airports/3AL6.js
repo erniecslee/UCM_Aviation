@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AL6"]={"id":"3AL6","name":"TOWN & COUNTRY AIRPARK","lat":33.656778,"lon":-86.412472,"elevation":730,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

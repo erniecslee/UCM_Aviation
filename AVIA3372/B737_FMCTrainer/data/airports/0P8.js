@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0P8"]={"id":"0P8","name":"LAZY B RANCH","lat":40.024425,"lon":-76.8153,"elevation":476,"region":"K6","runways":[{"id":"RW05","lat":40.0218,"lon":-76.817889,"length":2400,"course":47.0},{"id":"RW23","lat":40.027047,"lon":-76.812711,"length":2400,"course":227.0}],"procedures":{"D":{},"E":{},"F":{}}};

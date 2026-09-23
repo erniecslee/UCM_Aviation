@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GNU"]={"id":"GNU","name":"GOODNEWS","lat":59.117861,"lon":-161.573667,"elevation":18,"region":"PA","runways":[{"id":"RW06","lat":59.116383,"lon":-161.581964,"length":3300,"course":52.9},{"id":"RW24","lat":59.119336,"lon":-161.565369,"length":3300,"course":232.9}],"procedures":{"D":{},"E":{},"F":{}}};

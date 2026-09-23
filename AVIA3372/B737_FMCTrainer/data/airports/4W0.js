@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4W0"]={"id":"4W0","name":"BANDERA STATE","lat":47.395369,"lon":-121.536472,"elevation":1636,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

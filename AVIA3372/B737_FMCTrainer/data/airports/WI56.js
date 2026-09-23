@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI56"]={"id":"WI56","name":"C JEIDY FARMS","lat":42.881656,"lon":-90.860683,"elevation":1010,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

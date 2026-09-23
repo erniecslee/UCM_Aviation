@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR22"]={"id":"OR22","name":"ROPPAIR","lat":44.619289,"lon":-123.031761,"elevation":247,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

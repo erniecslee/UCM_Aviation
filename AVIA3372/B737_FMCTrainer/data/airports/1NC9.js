@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC9"]={"id":"1NC9","name":"NORTHBROOK INTL ULTRAPORT","lat":35.449722,"lon":-81.426389,"elevation":1030,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

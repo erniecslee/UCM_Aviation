@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39IL"]={"id":"39IL","name":"KIESER FLD","lat":40.4422,"lon":-89.0666,"elevation":712,"region":"K5","runways":[{"id":"RW09","lat":40.442133,"lon":-89.070192,"length":2000,"course":91.6},{"id":"RW27","lat":40.442267,"lon":-89.063008,"length":2000,"course":271.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WI1"]={"id":"0WI1","name":"MORT'S LANDING","lat":45.507178,"lon":-92.14185,"elevation":1255,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

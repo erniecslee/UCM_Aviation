@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60CL"]={"id":"60CL","name":"CHP ACADEMY","lat":38.598794,"lon":-121.560511,"elevation":20,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

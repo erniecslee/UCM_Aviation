@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73TX"]={"id":"73TX","name":"SANDY CREEK","lat":30.569528,"lon":-95.482361,"elevation":383,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

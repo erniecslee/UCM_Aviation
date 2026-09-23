@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL05"]={"id":"AL05","name":"SEHOY","lat":32.221336,"lon":-85.471783,"elevation":331,"region":"K7","runways":[{"id":"RW04","lat":32.216061,"lon":-85.476956,"length":5000,"course":38.8},{"id":"RW22","lat":32.226611,"lon":-85.466611,"length":5000,"course":218.8}],"procedures":{"D":{},"E":{},"F":{}}};

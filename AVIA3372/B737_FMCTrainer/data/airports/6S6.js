@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6S6"]={"id":"6S6","name":"POWERS","lat":42.869361,"lon":-124.059028,"elevation":326,"region":"K1","runways":[{"id":"RW13","lat":42.872325,"lon":-124.061386,"length":2500,"course":131.0},{"id":"RW31","lat":42.866417,"lon":-124.056644,"length":2500,"course":311.0}],"procedures":{"D":{},"E":{},"F":{}}};

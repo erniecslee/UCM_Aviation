@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS43"]={"id":"XS43","name":"MEDINA RIVER RANCH","lat":29.661614,"lon":-98.956419,"elevation":1216,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

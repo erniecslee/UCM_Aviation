@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO72"]={"id":"MO72","name":"FLYING 'J' RANCH","lat":37.038975,"lon":-90.858567,"elevation":690,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

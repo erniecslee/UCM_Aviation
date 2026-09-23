@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M71"]={"id":"M71","name":"GREENSFIELD","lat":38.901775,"lon":-90.960306,"elevation":559,"region":"K3","runways":[{"id":"RW09","lat":38.901917,"lon":-90.966,"length":3227,"course":89.8},{"id":"RW27","lat":38.901633,"lon":-90.95465,"length":3227,"course":269.8}],"procedures":{"D":{},"E":{},"F":{}}};

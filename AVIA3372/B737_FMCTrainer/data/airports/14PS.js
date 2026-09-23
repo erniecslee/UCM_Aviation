@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14PS"]={"id":"14PS","name":"HIDEAWAY","lat":39.880819,"lon":-76.117019,"elevation":635,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN89"]={"id":"TN89","name":"POSSUM BOTTOM","lat":35.258406,"lon":-85.452742,"elevation":700,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

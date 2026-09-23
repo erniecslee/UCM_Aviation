@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM89"]={"id":"NM89","name":"MANZANO MTN AIR RANCH","lat":34.77575,"lon":-106.521131,"elevation":5630,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

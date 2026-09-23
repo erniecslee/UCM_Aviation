@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM17"]={"id":"NM17","name":"RAY RANCH","lat":35.930592,"lon":-104.183867,"elevation":5850,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

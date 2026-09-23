@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29SC"]={"id":"29SC","name":"HANNAH RHEA FLD","lat":32.900642,"lon":-80.852119,"elevation":89,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA33"]={"id":"XA33","name":"THORNY WOODS","lat":32.958703,"lon":-96.264422,"elevation":540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

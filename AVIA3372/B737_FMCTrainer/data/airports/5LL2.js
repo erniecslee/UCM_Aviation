@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL2"]={"id":"5LL2","name":"KROENLEIN","lat":39.610264,"lon":-88.853322,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

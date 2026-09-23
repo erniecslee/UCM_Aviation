@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT21"]={"id":"MT21","name":"LANDER'S FORK RANCH","lat":47.053611,"lon":-112.546111,"elevation":5089,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

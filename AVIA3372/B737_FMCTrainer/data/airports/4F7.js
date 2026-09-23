@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4F7"]={"id":"4F7","name":"KIZER FLD","lat":33.803889,"lon":-93.362167,"elevation":319,"region":"K4","runways":[{"id":"RW18","lat":33.808633,"lon":-93.362031,"length":3464,"course":179.0},{"id":"RW36","lat":33.799117,"lon":-93.362317,"length":3464,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD49"]={"id":"FD49","name":"MONTGOMERY'S FLYING M RANCH","lat":28.7736,"lon":-82.130364,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

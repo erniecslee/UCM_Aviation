@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM88"]={"id":"NM88","name":"SKYWAGON FARM","lat":34.54325,"lon":-106.759889,"elevation":4770,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

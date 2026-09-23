@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TX7"]={"id":"9TX7","name":"HITEX","lat":33.841769,"lon":-96.669719,"elevation":700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

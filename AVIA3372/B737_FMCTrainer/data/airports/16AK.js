@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16AK"]={"id":"16AK","name":"GATTIS STRIP","lat":61.599167,"lon":-149.346944,"elevation":320,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62AR"]={"id":"62AR","name":"BANKS RANCH","lat":36.464814,"lon":-93.869283,"elevation":1061,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

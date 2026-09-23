@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK25"]={"id":"AK25","name":"PIPER LANDING","lat":61.6175,"lon":-149.614739,"elevation":350,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

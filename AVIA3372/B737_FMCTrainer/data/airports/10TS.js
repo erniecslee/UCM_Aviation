@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10TS"]={"id":"10TS","name":"2C RANCH","lat":31.997881,"lon":-94.799817,"elevation":489,"region":"K4","runways":[{"id":"RW14","lat":31.999597,"lon":-94.801156,"length":1500,"course":145.0},{"id":"RW32","lat":31.996164,"lon":-94.798475,"length":1500,"course":325.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45G"]={"id":"45G","name":"BRIGHTON","lat":42.569958,"lon":-83.778514,"elevation":973,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

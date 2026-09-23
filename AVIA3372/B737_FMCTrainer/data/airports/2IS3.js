@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IS3"]={"id":"2IS3","name":"JACKSON FLD","lat":41.171703,"lon":-89.806769,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

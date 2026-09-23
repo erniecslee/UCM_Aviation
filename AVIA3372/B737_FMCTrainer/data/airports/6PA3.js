@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6PA3"]={"id":"6PA3","name":"HACKENBURG-PENNY HILL","lat":41.150081,"lon":-76.899686,"elevation":1000,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

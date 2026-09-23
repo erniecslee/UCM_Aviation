@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT13"]={"id":"CT13","name":"YANKEE AIRSTRIP","lat":41.883431,"lon":-71.816181,"elevation":720,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

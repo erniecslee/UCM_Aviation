@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IN1"]={"id":"0IN1","name":"SNIDER FLD","lat":38.500047,"lon":-87.595858,"elevation":400,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71CL"]={"id":"71CL","name":"GUNNERSFIELD RANCH","lat":39.352664,"lon":-122.093867,"elevation":62,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

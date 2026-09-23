@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70ME"]={"id":"70ME","name":"SWN POND SPLASH IN GO","lat":43.520544,"lon":-70.648686,"elevation":318,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

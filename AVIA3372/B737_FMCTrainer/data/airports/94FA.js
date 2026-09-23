@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94FA"]={"id":"94FA","name":"STOCK ISLAND","lat":30.413642,"lon":-85.745261,"elevation":102,"region":"K7","runways":[{"id":"RW09","lat":30.413719,"lon":-85.7535,"length":5195,"course":95.0},{"id":"RW27","lat":30.413561,"lon":-85.737019,"length":5195,"course":275.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MO6"]={"id":"1MO6","name":"DOUBLE S RANCH","lat":36.836164,"lon":-90.722342,"elevation":737,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME70"]={"id":"ME70","name":"GREENFIELD HILL","lat":45.037556,"lon":-69.479214,"elevation":672,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

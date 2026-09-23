@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92OK"]={"id":"92OK","name":"HORNING FARMS AIRSTRIP","lat":34.730739,"lon":-98.014461,"elevation":1100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

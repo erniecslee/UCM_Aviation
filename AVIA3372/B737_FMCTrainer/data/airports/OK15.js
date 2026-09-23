@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK15"]={"id":"OK15","name":"AVIAN COUNTRY ESTATES","lat":36.376111,"lon":-95.705278,"elevation":750,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

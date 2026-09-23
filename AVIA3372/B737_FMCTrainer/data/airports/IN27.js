@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN27"]={"id":"IN27","name":"CULP","lat":40.9998,"lon":-86.91315,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

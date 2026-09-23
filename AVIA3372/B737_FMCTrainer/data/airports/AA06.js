@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA06"]={"id":"AA06","name":"SIXMILE LAKE","lat":61.289722,"lon":-149.806111,"elevation":85,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

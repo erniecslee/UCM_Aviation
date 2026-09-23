@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH51"]={"id":"OH51","name":"KATHAMEL","lat":40.288042,"lon":-84.473656,"elevation":991,"region":"K5","runways":[{"id":"RW01","lat":40.284497,"lon":-84.473614,"length":2583,"course":5.8},{"id":"RW19","lat":40.291586,"lon":-84.473694,"length":2583,"course":185.8}],"procedures":{"D":{},"E":{},"F":{}}};

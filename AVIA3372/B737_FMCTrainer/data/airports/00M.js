@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00M"]={"id":"00M","name":"THIGPEN FLD","lat":31.95375,"lon":-89.235333,"elevation":351,"region":"K7","runways":[{"id":"RW16","lat":31.957639,"lon":-89.2369,"length":3000,"course":159.0},{"id":"RW34","lat":31.949842,"lon":-89.23375,"length":3000,"course":339.0}],"procedures":{"D":{},"E":{},"F":{}}};

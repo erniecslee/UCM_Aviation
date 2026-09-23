@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA68"]={"id":"VA68","name":"LAKEVIEW AERODROME","lat":37.118756,"lon":-79.602808,"elevation":1020,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

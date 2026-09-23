@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAHY"]={"id":"PAHY","name":"HYDABURG","lat":55.206317,"lon":-132.828314,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

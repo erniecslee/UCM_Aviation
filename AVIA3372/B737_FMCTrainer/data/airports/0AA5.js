@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AA5"]={"id":"0AA5","name":"RANGEVIEW AIRSTRIP","lat":62.312778,"lon":-150.335833,"elevation":470,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

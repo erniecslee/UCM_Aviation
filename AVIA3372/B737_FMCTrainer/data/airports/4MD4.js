@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD4"]={"id":"4MD4","name":"CLEMENTS","lat":38.340556,"lon":-76.737222,"elevation":105,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

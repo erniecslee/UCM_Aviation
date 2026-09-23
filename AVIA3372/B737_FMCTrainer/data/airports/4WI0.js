@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WI0"]={"id":"4WI0","name":"WISSOTA","lat":44.933294,"lon":-91.272375,"elevation":936,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

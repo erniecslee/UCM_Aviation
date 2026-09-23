@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38N"]={"id":"38N","name":"SMYRNA","lat":39.303667,"lon":-75.583806,"elevation":18,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

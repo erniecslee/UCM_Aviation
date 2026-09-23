@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N97"]={"id":"N97","name":"HIATT","lat":35.830136,"lon":-80.107544,"elevation":855,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

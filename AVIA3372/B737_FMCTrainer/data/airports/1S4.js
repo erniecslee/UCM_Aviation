@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1S4"]={"id":"1S4","name":"SEILING","lat":36.155361,"lon":-98.933694,"elevation":1746,"region":"K4","runways":[{"id":"RW17","lat":36.158692,"lon":-98.933631,"length":2435,"course":173.0},{"id":"RW35","lat":36.152003,"lon":-98.933742,"length":2435,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

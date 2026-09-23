@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05MT"]={"id":"05MT","name":"JONES LANDING","lat":45.816628,"lon":-111.152142,"elevation":4364,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

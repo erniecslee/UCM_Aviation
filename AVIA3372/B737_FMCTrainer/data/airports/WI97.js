@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI97"]={"id":"WI97","name":"MATHAIRE FLD","lat":43.257769,"lon":-89.064833,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

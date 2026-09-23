@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TA8"]={"id":"8TA8","name":"BUFORDS FLD","lat":31.169078,"lon":-94.532425,"elevation":200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

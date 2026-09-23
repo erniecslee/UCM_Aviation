@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95OK"]={"id":"95OK","name":"BARCUS FLD","lat":36.267594,"lon":-95.6307,"elevation":660,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

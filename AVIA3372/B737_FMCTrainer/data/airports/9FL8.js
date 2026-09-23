@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FL8"]={"id":"9FL8","name":"FINLAYSON FARM","lat":30.616592,"lon":-83.652381,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

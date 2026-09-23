@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6LA6"]={"id":"6LA6","name":"WILLIAMS FLYING SERVICE","lat":32.218208,"lon":-91.868186,"elevation":79,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L62"]={"id":"L62","name":"ELK HILLS-BUTTONWILLOW","lat":35.353444,"lon":-119.479722,"elevation":326,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

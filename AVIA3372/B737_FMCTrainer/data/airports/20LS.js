@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20LS"]={"id":"20LS","name":"K-JOHN","lat":30.219711,"lon":-92.319794,"elevation":21,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

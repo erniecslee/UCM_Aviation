@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16IA"]={"id":"16IA","name":"STANGL","lat":41.880819,"lon":-94.777228,"elevation":1230,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

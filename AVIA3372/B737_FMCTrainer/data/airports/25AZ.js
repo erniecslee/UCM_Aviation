@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25AZ"]={"id":"25AZ","name":"MYSTERY WELL RANCH","lat":31.815947,"lon":-109.057281,"elevation":4173,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

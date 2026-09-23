@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI55"]={"id":"OI55","name":"SCHEIBE FLD","lat":40.750892,"lon":-82.004314,"elevation":1010,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

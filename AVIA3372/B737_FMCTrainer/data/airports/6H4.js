@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6H4"]={"id":"6H4","name":"VAN WAGNEN","lat":42.155764,"lon":-84.334319,"elevation":988,"region":"K5","runways":[{"id":"RW09","lat":42.155944,"lon":-84.338194,"length":2105,"course":98.0},{"id":"RW27","lat":42.155583,"lon":-84.330444,"length":2105,"course":278.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MI2"]={"id":"9MI2","name":"NEWPORT WOODS","lat":41.98785,"lon":-83.307625,"elevation":593,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA10"]={"id":"NA10","name":"ANDERSON PRIVATE","lat":48.380558,"lon":-99.033744,"elevation":1460,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CL9"]={"id":"9CL9","name":"SPEZIA","lat":38.216583,"lon":-121.534397,"elevation":0,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

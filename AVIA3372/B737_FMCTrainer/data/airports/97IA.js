@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97IA"]={"id":"97IA","name":"VOLKENS FLD","lat":41.255833,"lon":-95.476667,"elevation":1275,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

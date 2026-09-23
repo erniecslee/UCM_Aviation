@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86TE"]={"id":"86TE","name":"MATTHEWS RANCH","lat":32.6478,"lon":-98.148136,"elevation":820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

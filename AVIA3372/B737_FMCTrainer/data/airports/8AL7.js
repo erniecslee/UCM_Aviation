@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AL7"]={"id":"8AL7","name":"HAZEL GREEN ACRES","lat":34.980472,"lon":-86.692306,"elevation":908,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

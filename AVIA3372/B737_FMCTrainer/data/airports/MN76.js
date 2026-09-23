@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN76"]={"id":"MN76","name":"MARTY'S TRANQUILITY BASE","lat":44.699964,"lon":-93.471894,"elevation":911,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

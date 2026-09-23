@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO67"]={"id":"CO67","name":"BIG VIEW","lat":40.764722,"lon":-104.928611,"elevation":5600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA70"]={"id":"PA70","name":"FETTERS CONSTRUCTION","lat":40.091769,"lon":-75.710764,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

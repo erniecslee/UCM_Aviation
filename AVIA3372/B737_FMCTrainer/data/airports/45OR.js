@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45OR"]={"id":"45OR","name":"GEDEROS","lat":43.154833,"lon":-124.170661,"elevation":280,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

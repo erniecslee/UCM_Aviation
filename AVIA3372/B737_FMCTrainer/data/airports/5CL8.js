@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CL8"]={"id":"5CL8","name":"NORTHSHORE","lat":35.176139,"lon":-118.92315,"elevation":335,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

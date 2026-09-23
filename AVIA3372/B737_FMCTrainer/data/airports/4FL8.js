@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FL8"]={"id":"4FL8","name":"SCHWARTZ FARMS INC","lat":27.343656,"lon":-82.317314,"elevation":53,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

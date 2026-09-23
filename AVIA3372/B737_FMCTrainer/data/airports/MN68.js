@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN68"]={"id":"MN68","name":"PFAU AIRSTRIP","lat":45.656817,"lon":-93.482311,"elevation":997,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

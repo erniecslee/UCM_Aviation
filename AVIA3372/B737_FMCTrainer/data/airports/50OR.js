@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50OR"]={"id":"50OR","name":"GOERING RANCHES / CHOCHETA EST","lat":44.097344,"lon":-120.947242,"elevation":3450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

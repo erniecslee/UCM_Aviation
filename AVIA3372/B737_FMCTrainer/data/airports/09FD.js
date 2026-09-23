@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09FD"]={"id":"09FD","name":"CHERYL-LANE LANDINGS","lat":28.671103,"lon":-82.087306,"elevation":71,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

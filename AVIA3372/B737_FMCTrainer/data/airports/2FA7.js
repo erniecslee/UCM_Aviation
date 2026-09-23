@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FA7"]={"id":"2FA7","name":"FRONTIER","lat":29.634353,"lon":-81.464881,"elevation":10,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

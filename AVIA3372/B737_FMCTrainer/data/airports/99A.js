@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99A"]={"id":"99A","name":"SMITH'S INTL","lat":34.406222,"lon":-91.95875,"elevation":218,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

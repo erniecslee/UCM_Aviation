@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL25"]={"id":"CL25","name":"7R RANCH","lat":34.935531,"lon":-119.451786,"elevation":3176,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

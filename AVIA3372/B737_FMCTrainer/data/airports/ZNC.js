@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ZNC"]={"id":"ZNC","name":"NYAC","lat":60.981031,"lon":-159.993919,"elevation":483,"region":"PA","runways":[{"id":"RW05","lat":60.978411,"lon":-160.005419,"length":4512,"course":54.9},{"id":"RW23","lat":60.98365,"lon":-159.982419,"length":4512,"course":234.9}],"procedures":{"D":{},"E":{},"F":{}}};

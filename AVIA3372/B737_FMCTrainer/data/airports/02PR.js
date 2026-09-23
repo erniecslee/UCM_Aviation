@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02PR"]={"id":"02PR","name":"CUYLERS","lat":18.453333,"lon":-66.366944,"elevation":15,"region":"TJ","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

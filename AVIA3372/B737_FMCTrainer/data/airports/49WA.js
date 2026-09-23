@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49WA"]={"id":"49WA","name":"COUGAR MOUNTAIN AIRFIELD","lat":46.847044,"lon":-122.522064,"elevation":470,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

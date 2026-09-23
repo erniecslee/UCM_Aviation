@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ00"]={"id":"AZ00","name":"MORTON FLD","lat":32.805833,"lon":-113.506944,"elevation":475,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

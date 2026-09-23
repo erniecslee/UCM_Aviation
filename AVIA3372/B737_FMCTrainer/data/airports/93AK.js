@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93AK"]={"id":"93AK","name":"TYONE CREEK 907AU CAMP","lat":62.184269,"lon":-147.375219,"elevation":3720,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

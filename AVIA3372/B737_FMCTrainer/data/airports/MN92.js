@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN92"]={"id":"MN92","name":"LENNARTSON","lat":46.749942,"lon":-92.300192,"elevation":1250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

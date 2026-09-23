@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY57"]={"id":"NY57","name":"REMSEN CITY","lat":43.360069,"lon":-75.184611,"elevation":1220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

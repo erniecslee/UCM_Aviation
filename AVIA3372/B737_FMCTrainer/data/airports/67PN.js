@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67PN"]={"id":"67PN","name":"MASSER FLD","lat":40.633419,"lon":-76.596908,"elevation":720,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

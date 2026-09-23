@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT52"]={"id":"MT52","name":"NINE MILE","lat":47.0777,"lon":-114.412619,"elevation":3364,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

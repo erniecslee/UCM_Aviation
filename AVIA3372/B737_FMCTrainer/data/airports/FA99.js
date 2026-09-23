@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA99"]={"id":"FA99","name":"FANTASY FLD AIRSTRIP","lat":46.587833,"lon":-122.865778,"elevation":300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

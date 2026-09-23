@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44WI"]={"id":"44WI","name":"STOIBER","lat":44.772217,"lon":-90.385067,"elevation":1298,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

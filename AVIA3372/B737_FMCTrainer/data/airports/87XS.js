@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87XS"]={"id":"87XS","name":"CINCO B RANCH","lat":29.791111,"lon":-99.264167,"elevation":1457,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

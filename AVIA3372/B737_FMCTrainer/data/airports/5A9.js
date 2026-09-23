@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5A9"]={"id":"5A9","name":"ROOSEVELT MEML","lat":32.9385,"lon":-84.696444,"elevation":882,"region":"K7","runways":[{"id":"RW18","lat":32.945278,"lon":-84.697756,"length":5004,"course":172.8},{"id":"RW36","lat":32.931703,"lon":-84.695158,"length":5004,"course":352.8}],"procedures":{"D":{},"E":{},"F":{}}};

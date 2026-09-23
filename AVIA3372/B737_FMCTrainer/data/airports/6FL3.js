@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FL3"]={"id":"6FL3","name":"PAYSON RANCH","lat":26.937281,"lon":-81.567022,"elevation":62,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

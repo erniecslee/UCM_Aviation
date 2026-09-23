@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS26"]={"id":"LS26","name":"GOOSE LANDING","lat":30.636158,"lon":-90.307639,"elevation":110,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

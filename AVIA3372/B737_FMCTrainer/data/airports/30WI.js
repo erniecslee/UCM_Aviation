@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30WI"]={"id":"30WI","name":"CHAMBERS ISLAND","lat":45.191931,"lon":-87.359278,"elevation":588,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86AK"]={"id":"86AK","name":"HOPPES","lat":61.547142,"lon":-149.945978,"elevation":165,"region":"PA","runways":[{"id":"RW18W","lat":61.548664,"lon":-149.94515,"length":1150,"course":180.4},{"id":"RW36W","lat":61.545619,"lon":-149.946806,"length":1150,"course":0.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK6"]={"id":"9AK6","name":"LEISUREWOOD AIRSTRIP","lat":61.624061,"lon":-149.6483,"elevation":366,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA93"]={"id":"TA93","name":"LM RANCH","lat":33.633306,"lon":-96.733567,"elevation":770,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

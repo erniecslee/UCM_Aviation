@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98SC"]={"id":"98SC","name":"COWTOWN","lat":33.227836,"lon":-81.176936,"elevation":250,"region":"K7","runways":[{"id":"RW01","lat":33.224167,"lon":-81.177583,"length":2700,"course":16.0},{"id":"RW19","lat":33.231508,"lon":-81.176289,"length":2700,"course":196.0}],"procedures":{"D":{},"E":{},"F":{}}};

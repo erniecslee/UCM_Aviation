@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NR8"]={"id":"9NR8","name":"BUIE FLD","lat":34.792164,"lon":-79.197894,"elevation":203,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

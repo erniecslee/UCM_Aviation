@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL95"]={"id":"FL95","name":"BROOCKE AIR PATCH","lat":27.708642,"lon":-80.452831,"elevation":22,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

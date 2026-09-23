@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI81"]={"id":"WI81","name":"RIGDON PRIVATE","lat":42.524169,"lon":-90.590961,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

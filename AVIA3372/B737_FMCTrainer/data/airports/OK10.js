@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK10"]={"id":"OK10","name":"CANADIAN RIVER CORRIENTES","lat":35.539378,"lon":-98.430189,"elevation":1534,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

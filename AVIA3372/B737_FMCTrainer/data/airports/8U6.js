@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8U6"]={"id":"8U6","name":"TERRY","lat":46.777139,"lon":-105.313111,"elevation":2283,"region":"K1","runways":[{"id":"RW08","lat":46.777222,"lon":-105.321694,"length":4300,"course":78.0},{"id":"RW26","lat":46.777056,"lon":-105.304528,"length":4300,"course":258.0}],"procedures":{"D":{},"E":{},"F":{}}};

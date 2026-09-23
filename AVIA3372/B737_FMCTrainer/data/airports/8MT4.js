@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MT4"]={"id":"8MT4","name":"ELK MEADOWS RANCH","lat":46.535833,"lon":-111.498889,"elevation":4066,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

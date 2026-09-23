@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40NE"]={"id":"40NE","name":"LANDGREN RANCH","lat":41.975008,"lon":-98.515911,"elevation":2100,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

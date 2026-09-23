@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA56"]={"id":"NA56","name":"MOFFET AIRSTRIP","lat":46.302183,"lon":-96.991475,"elevation":1028,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

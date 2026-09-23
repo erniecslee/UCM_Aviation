@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NK3"]={"id":"2NK3","name":"ROSE FLD","lat":41.151686,"lon":-72.266564,"elevation":18,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

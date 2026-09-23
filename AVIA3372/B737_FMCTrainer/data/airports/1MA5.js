@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MA5"]={"id":"1MA5","name":"UNKNOWN FLD","lat":42.278983,"lon":-71.547842,"elevation":432,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

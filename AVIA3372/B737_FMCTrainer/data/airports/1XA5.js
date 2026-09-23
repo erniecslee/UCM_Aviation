@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1XA5"]={"id":"1XA5","name":"FLYING ARMADILLO FLD","lat":30.135017,"lon":-97.142917,"elevation":410,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

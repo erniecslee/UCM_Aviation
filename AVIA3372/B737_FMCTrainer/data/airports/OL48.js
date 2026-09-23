@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL48"]={"id":"OL48","name":"WINGIT","lat":35.707106,"lon":-95.565086,"elevation":650,"region":"K4","runways":[{"id":"RW18","lat":35.709847,"lon":-95.565267,"length":2000,"course":175.1},{"id":"RW36","lat":35.704361,"lon":-95.564906,"length":2000,"course":355.1}],"procedures":{"D":{},"E":{},"F":{}}};

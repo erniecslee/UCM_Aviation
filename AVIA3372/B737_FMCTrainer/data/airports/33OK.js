@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33OK"]={"id":"33OK","name":"MYRICK","lat":35.750053,"lon":-97.400317,"elevation":1195,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

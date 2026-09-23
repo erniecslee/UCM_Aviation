@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80VA"]={"id":"80VA","name":"HOLLY SPRINGS","lat":37.791256,"lon":-77.824717,"elevation":250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

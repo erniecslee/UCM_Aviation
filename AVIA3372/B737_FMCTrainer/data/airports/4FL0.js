@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FL0"]={"id":"4FL0","name":"TURKEY SCRATCH PLANTATION","lat":30.403611,"lon":-83.81,"elevation":115,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

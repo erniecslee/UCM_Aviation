@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MT9"]={"id":"9MT9","name":"PIERCES","lat":45.790833,"lon":-111.124722,"elevation":4450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

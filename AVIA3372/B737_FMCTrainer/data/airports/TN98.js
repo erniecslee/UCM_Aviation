@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN98"]={"id":"TN98","name":"SKY RANCH","lat":35.885639,"lon":-83.957683,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38NC"]={"id":"38NC","name":"BHH AVIATION","lat":36.476014,"lon":-79.595433,"elevation":608,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

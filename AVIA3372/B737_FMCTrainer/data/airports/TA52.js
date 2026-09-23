@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA52"]={"id":"TA52","name":"FLYING BULL RANCH","lat":29.816886,"lon":-99.996181,"elevation":1614,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

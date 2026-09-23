@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X13"]={"id":"X13","name":"CARRABELLE-THOMPSON","lat":29.842,"lon":-84.701111,"elevation":20,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

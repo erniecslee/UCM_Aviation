@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ49"]={"id":"AZ49","name":"AILERON ORCHARDS","lat":35.788867,"lon":-114.132097,"elevation":2872,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83KS"]={"id":"83KS","name":"STOL CREEK","lat":37.929861,"lon":-97.101528,"elevation":1370,"region":"K3","runways":[{"id":"RW03","lat":37.927222,"lon":-97.103611,"length":2267,"course":29.2},{"id":"RW21","lat":37.9325,"lon":-97.099444,"length":2267,"course":209.2}],"procedures":{"D":{},"E":{},"F":{}}};

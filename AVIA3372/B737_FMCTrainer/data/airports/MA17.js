@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA17"]={"id":"MA17","name":"TAILWIND BOSTON","lat":42.351583,"lon":-71.024972,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

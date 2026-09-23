@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MT2"]={"id":"2MT2","name":"BRAIDWATER FARM","lat":48.200017,"lon":-114.258347,"elevation":2910,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

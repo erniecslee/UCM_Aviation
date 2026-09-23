@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60IS"]={"id":"60IS","name":"NELSON PRIVATE","lat":38.400606,"lon":-87.988644,"elevation":420,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

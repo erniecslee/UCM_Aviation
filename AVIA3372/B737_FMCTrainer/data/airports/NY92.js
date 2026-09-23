@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY92"]={"id":"NY92","name":"COCHRAN","lat":42.438417,"lon":-76.088806,"elevation":1280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

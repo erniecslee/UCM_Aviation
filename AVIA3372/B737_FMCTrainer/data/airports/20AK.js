@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20AK"]={"id":"20AK","name":"OWEN FLD","lat":61.503789,"lon":-149.896044,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

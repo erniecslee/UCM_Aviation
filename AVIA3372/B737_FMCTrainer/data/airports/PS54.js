@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS54"]={"id":"PS54","name":"GUNDEN","lat":40.329272,"lon":-75.281564,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

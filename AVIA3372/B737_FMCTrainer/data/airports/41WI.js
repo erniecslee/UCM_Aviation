@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41WI"]={"id":"41WI","name":"PADDOCK FLD","lat":42.738625,"lon":-88.579825,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

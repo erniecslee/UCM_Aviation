@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE81"]={"id":"NE81","name":"HUFFY'S","lat":42.882778,"lon":-98.655972,"elevation":1690,"region":"K3","runways":[{"id":"RW16","lat":42.886111,"lon":-98.657778,"length":2615,"course":154.4},{"id":"RW34","lat":42.879444,"lon":-98.654167,"length":2615,"course":334.4}],"procedures":{"D":{},"E":{},"F":{}}};

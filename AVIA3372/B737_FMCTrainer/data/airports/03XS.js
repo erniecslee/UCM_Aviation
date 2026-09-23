@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03XS"]={"id":"03XS","name":"CREEKSIDE","lat":31.318056,"lon":-100.754167,"elevation":2100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

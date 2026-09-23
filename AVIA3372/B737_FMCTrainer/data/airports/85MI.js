@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85MI"]={"id":"85MI","name":"DEWIND FLD","lat":42.932333,"lon":-86.013833,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

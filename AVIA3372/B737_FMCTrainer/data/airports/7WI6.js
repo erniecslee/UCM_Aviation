@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI6"]={"id":"7WI6","name":"WEATHERBEE FLD","lat":43.470539,"lon":-89.359006,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

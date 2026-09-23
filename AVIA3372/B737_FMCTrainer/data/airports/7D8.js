@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7D8"]={"id":"7D8","name":"GATES","lat":41.351136,"lon":-81.097925,"elevation":1104,"region":"K5","runways":[{"id":"RW08","lat":41.350292,"lon":-81.102897,"length":2800,"course":84.0},{"id":"RW26","lat":41.351981,"lon":-81.09295,"length":2800,"course":264.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TS3"]={"id":"2TS3","name":"TIGERBIRD FLD","lat":31.679331,"lon":-97.240564,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

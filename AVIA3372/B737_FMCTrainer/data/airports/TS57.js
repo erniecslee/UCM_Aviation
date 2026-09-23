@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS57"]={"id":"TS57","name":"GILES VA RANCH","lat":29.242328,"lon":-95.980636,"elevation":83,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

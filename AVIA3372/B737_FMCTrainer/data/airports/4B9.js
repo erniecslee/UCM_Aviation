@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4B9"]={"id":"4B9","name":"SIMSBURY","lat":41.916194,"lon":-72.776944,"elevation":195,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

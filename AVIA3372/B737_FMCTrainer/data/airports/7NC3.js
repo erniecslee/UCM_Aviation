@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NC3"]={"id":"7NC3","name":"KENLY","lat":35.596389,"lon":-78.098611,"elevation":225,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

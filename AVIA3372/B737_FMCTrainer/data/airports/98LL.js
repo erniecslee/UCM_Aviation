@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98LL"]={"id":"98LL","name":"BRADEN FARMS","lat":40.799203,"lon":-87.783644,"elevation":630,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

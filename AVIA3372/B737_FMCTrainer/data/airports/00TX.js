@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00TX"]={"id":"00TX","name":"DELVA FLD","lat":32.544453,"lon":-95.673131,"elevation":545,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

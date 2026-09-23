@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CL2"]={"id":"9CL2","name":"CHRISTENSEN RANCH","lat":36.871619,"lon":-121.337153,"elevation":380,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID43"]={"id":"ID43","name":"CARLIN BAY","lat":47.551294,"lon":-116.763517,"elevation":2702,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

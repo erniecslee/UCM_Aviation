@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TA4"]={"id":"1TA4","name":"LAST RESORT","lat":31.458514,"lon":-95.296053,"elevation":420,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

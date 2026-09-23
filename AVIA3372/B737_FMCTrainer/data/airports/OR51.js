@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR51"]={"id":"OR51","name":"GILLETTE FLD","lat":44.719567,"lon":-122.699531,"elevation":735,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

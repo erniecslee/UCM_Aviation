@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22MD"]={"id":"22MD","name":"LAURA'S LANDING","lat":39.586944,"lon":-77.645,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV01"]={"id":"WV01","name":"LEE MASSEY","lat":38.129275,"lon":-81.053714,"elevation":1665,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

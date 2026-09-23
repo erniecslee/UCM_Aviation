@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG36"]={"id":"OG36","name":"MUNSON","lat":44.2504,"lon":-123.228147,"elevation":302,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

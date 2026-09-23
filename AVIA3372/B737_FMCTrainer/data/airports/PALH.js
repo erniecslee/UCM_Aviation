@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PALH"]={"id":"PALH","name":"LAKE HOOD","lat":61.186639,"lon":-149.965394,"elevation":79,"region":"PA","runways":[{"id":"RW14","lat":61.189328,"lon":-149.968192,"length":2200,"course":140.0},{"id":"RW32","lat":61.18395,"lon":-149.962597,"length":2200,"course":320.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK9"]={"id":"2AK9","name":"INDEPENDENCE CREEK","lat":65.673478,"lon":-162.464064,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

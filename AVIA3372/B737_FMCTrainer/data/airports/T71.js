@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T71"]={"id":"T71","name":"CUERO MUNI","lat":29.083589,"lon":-97.266933,"elevation":214,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

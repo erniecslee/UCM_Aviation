@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38ND"]={"id":"38ND","name":"SCHROEDER PRIVATE","lat":47.098036,"lon":-97.4012,"elevation":1140,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

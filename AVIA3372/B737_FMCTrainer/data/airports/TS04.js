@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS04"]={"id":"TS04","name":"RIO VISTA RANCH","lat":29.835767,"lon":-100.978147,"elevation":1774,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

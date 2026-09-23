@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U07"]={"id":"U07","name":"BULLFROG BASIN","lat":37.545825,"lon":-110.7132,"elevation":4167,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

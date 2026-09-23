@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II07"]={"id":"II07","name":"CLOVER KNOLL","lat":39.532267,"lon":-86.832231,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

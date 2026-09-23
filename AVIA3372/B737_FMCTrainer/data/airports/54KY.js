@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54KY"]={"id":"54KY","name":"RUDENBERG FLD","lat":36.731111,"lon":-88.247222,"elevation":350,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1XA4"]={"id":"1XA4","name":"MIKESKA FLD","lat":29.873714,"lon":-96.0047,"elevation":161,"region":"K4","runways":[{"id":"RW15","lat":29.876192,"lon":-96.005953,"length":1970,"course":150.2},{"id":"RW33","lat":29.871236,"lon":-96.003444,"length":1970,"course":330.2}],"procedures":{"D":{},"E":{},"F":{}}};

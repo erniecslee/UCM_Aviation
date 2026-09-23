@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3K9"]={"id":"3K9","name":"UPPER WASILLA LAKE","lat":61.58875,"lon":-149.385061,"elevation":330,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

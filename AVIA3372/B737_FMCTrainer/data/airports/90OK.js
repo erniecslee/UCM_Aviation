@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90OK"]={"id":"90OK","name":"ROCKY POINT","lat":34.949258,"lon":-96.614242,"elevation":985,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

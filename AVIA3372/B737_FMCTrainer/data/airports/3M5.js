@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3M5"]={"id":"3M5","name":"MOONTOWN","lat":34.747361,"lon":-86.460972,"elevation":655,"region":"K7","runways":[{"id":"RW09","lat":34.747422,"lon":-86.464594,"length":2180,"course":92.0},{"id":"RW27","lat":34.747317,"lon":-86.457339,"length":2180,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

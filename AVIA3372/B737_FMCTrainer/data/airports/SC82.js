@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC82"]={"id":"SC82","name":"OAKHILL AIRPARK","lat":34.585517,"lon":-82.352283,"elevation":837,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI8"]={"id":"MI8","name":"SAULT STE MARIE INTL","lat":46.483686,"lon":-84.301928,"elevation":575,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

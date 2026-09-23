@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MN6"]={"id":"7MN6","name":"JOHNSON","lat":48.342756,"lon":-96.880897,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

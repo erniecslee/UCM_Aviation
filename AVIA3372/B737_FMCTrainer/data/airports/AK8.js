@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK8"]={"id":"AK8","name":"CHRISTIANSEN LAKE","lat":62.313414,"lon":-150.06935,"elevation":400,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

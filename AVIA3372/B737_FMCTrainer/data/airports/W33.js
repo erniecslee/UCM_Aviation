@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W33"]={"id":"W33","name":"FRIDAY HARBOR","lat":48.537322,"lon":-123.009625,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

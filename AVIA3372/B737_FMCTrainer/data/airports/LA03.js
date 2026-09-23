@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA03"]={"id":"LA03","name":"PROP STOP","lat":30.435278,"lon":-92.333703,"elevation":42,"region":"K4","runways":[{"id":"RW08","lat":30.435278,"lon":-92.336875,"length":2000,"course":90.1},{"id":"RW26","lat":30.435278,"lon":-92.330528,"length":2000,"course":270.1}],"procedures":{"D":{},"E":{},"F":{}}};

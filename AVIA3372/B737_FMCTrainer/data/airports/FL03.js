@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL03"]={"id":"FL03","name":"NR3 FARMS","lat":28.717364,"lon":-82.028781,"elevation":90,"region":"K7","runways":[{"id":"RW18","lat":28.722864,"lon":-82.028781,"length":4000,"course":186.6},{"id":"RW36","lat":28.711861,"lon":-82.028781,"length":4000,"course":6.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86IS"]={"id":"86IS","name":"MICHAEL PFISTER","lat":40.779364,"lon":-89.258011,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

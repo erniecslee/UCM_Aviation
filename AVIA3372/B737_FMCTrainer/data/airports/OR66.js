@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR66"]={"id":"OR66","name":"BEAVER OAKS","lat":45.304011,"lon":-122.360919,"elevation":400,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

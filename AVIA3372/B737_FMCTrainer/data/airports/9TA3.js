@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TA3"]={"id":"9TA3","name":"ROGERS","lat":29.873,"lon":-94.98965,"elevation":38,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86WI"]={"id":"86WI","name":"TERHARK","lat":42.66,"lon":-88.430833,"elevation":970,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

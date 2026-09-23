@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72TS"]={"id":"72TS","name":"GALAXY RANCH","lat":29.360803,"lon":-96.622472,"elevation":178,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

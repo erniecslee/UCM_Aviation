@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51AS"]={"id":"51AS","name":"BURKS","lat":34.483481,"lon":-90.716014,"elevation":174,"region":"K4","runways":[{"id":"RW12","lat":34.485433,"lon":-90.720264,"length":2929,"course":120.4},{"id":"RW30","lat":34.481528,"lon":-90.711764,"length":2929,"course":300.4}],"procedures":{"D":{},"E":{},"F":{}}};

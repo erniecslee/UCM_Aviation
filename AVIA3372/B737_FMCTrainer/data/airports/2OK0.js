@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK0"]={"id":"2OK0","name":"VR AIRSTRIP","lat":34.656931,"lon":-97.792481,"elevation":1281,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

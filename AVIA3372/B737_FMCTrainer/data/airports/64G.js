@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64G"]={"id":"64G","name":"PAGE RGNL","lat":47.170194,"lon":-97.481917,"elevation":1218,"region":"K3","runways":[{"id":"RW17","lat":47.173756,"lon":-97.48195,"length":2600,"course":173.0},{"id":"RW35","lat":47.166628,"lon":-97.481858,"length":2600,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

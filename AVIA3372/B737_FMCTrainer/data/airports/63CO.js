@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63CO"]={"id":"63CO","name":"HENDRICKS FLD AT WEST CREEK RA","lat":38.705539,"lon":-108.937328,"elevation":4820,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

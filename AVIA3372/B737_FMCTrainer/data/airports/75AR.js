@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75AR"]={"id":"75AR","name":"THE BLUFFS","lat":36.296178,"lon":-92.215989,"elevation":782,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MI2"]={"id":"5MI2","name":"HARRISVILLE","lat":44.668219,"lon":-83.305117,"elevation":675,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

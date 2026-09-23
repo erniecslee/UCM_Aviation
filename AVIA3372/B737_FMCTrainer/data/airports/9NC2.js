@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NC2"]={"id":"9NC2","name":"FLYERS AIRPARK","lat":35.218219,"lon":-78.796411,"elevation":115,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

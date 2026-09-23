@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LA6"]={"id":"3LA6","name":"MORGAN CROP SERVICE NR 2","lat":30.137708,"lon":-93.079319,"elevation":12,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

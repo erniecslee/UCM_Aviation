@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL97"]={"id":"FL97","name":"TANGERINE","lat":28.760272,"lon":-81.605908,"elevation":125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

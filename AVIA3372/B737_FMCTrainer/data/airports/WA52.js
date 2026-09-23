@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA52"]={"id":"WA52","name":"DEER FLAT","lat":47.956944,"lon":-117.603611,"elevation":2200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

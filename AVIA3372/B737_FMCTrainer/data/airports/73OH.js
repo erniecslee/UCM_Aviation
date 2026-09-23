@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73OH"]={"id":"73OH","name":"THOMPSON DRAG RACEWAY","lat":41.647,"lon":-81.008706,"elevation":1100,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

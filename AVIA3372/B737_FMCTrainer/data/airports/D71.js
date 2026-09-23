@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D71"]={"id":"D71","name":"BEAVER LAKE","lat":61.575139,"lon":-149.847667,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

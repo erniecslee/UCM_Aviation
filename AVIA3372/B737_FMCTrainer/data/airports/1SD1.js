@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SD1"]={"id":"1SD1","name":"BURKE FLD","lat":43.165417,"lon":-97.730889,"elevation":1352,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

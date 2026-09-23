@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WA2"]={"id":"2WA2","name":"RED ROCK FLD","lat":46.879861,"lon":-119.588889,"elevation":900,"region":"K1","runways":[{"id":"RW07","lat":46.879722,"lon":-119.596667,"length":3892,"course":74.3},{"id":"RW25","lat":46.88,"lon":-119.581111,"length":3892,"course":254.3}],"procedures":{"D":{},"E":{},"F":{}}};

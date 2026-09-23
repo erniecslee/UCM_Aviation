@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25CA"]={"id":"25CA","name":"LOMA MADERA RANCH","lat":33.179208,"lon":-116.792525,"elevation":3375,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

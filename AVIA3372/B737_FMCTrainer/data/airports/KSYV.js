@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KSYV"]={"id":"KSYV","name":"SYLVESTER","lat":31.557156,"lon":-83.894036,"elevation":403,"region":"K7","runways":[{"id":"RW01","lat":31.551022,"lon":-83.895228,"length":4525,"course":12.0},{"id":"RW19","lat":31.563289,"lon":-83.892844,"length":4525,"course":192.0}],"procedures":{"D":{},"E":{},"F":{}}};

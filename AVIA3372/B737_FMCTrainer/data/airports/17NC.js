@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17NC"]={"id":"17NC","name":"MITCHELL FLD","lat":34.466281,"lon":-78.328614,"elevation":23,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

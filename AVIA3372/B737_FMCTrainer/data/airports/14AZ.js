@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14AZ"]={"id":"14AZ","name":"RUBY STAR AIRPARK","lat":31.909222,"lon":-111.120972,"elevation":4011,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

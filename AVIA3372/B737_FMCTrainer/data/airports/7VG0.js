@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7VG0"]={"id":"7VG0","name":"LOST GRIZ AERODROME","lat":38.655675,"lon":-77.787217,"elevation":442,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

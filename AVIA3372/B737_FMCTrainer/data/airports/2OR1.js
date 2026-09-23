@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OR1"]={"id":"2OR1","name":"BIG MUDDY RANCH","lat":44.8285,"lon":-120.495028,"elevation":1641,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

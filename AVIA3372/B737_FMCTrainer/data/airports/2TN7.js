@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TN7"]={"id":"2TN7","name":"WOLF CREEK","lat":35.804444,"lon":-84.415833,"elevation":890,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D86"]={"id":"D86","name":"SEQUOIA FLD","lat":36.447917,"lon":-119.318722,"elevation":313,"region":"K2","runways":[{"id":"RW13","lat":36.451217,"lon":-119.3218,"length":3012,"course":128.0},{"id":"RW31","lat":36.444603,"lon":-119.315642,"length":3012,"course":308.0}],"procedures":{"D":{},"E":{},"F":{}}};

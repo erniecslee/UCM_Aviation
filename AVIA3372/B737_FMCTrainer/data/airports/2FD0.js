@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FD0"]={"id":"2FD0","name":"LAZYBOY","lat":29.975786,"lon":-82.90735,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

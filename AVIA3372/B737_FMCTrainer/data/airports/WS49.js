@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS49"]={"id":"WS49","name":"CHRISTIE AERODROME","lat":42.906672,"lon":-88.877608,"elevation":795,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

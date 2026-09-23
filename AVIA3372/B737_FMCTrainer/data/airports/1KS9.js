@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS9"]={"id":"1KS9","name":"BELLEAIR","lat":39.045558,"lon":-94.948992,"elevation":935,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

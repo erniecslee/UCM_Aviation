@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR17"]={"id":"AR17","name":"BURNS AERODROME","lat":34.983425,"lon":-90.915117,"elevation":207,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GA5"]={"id":"5GA5","name":"PINEBROOK ESTATES","lat":33.259839,"lon":-84.349369,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

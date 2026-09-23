@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03S"]={"id":"03S","name":"SANDY RIVER","lat":45.401611,"lon":-122.228694,"elevation":704,"region":"K1","runways":[{"id":"RW08","lat":45.402181,"lon":-122.232731,"length":2115,"course":82.0},{"id":"RW26","lat":45.401028,"lon":-122.224658,"length":2115,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

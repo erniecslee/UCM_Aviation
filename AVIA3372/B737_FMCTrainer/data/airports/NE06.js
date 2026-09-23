@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE06"]={"id":"NE06","name":"WOOLF BROTHERS","lat":42.824997,"lon":-98.425358,"elevation":1395,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

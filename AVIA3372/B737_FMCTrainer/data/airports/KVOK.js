@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KVOK"]={"id":"KVOK","name":"VOLK FLD","lat":43.939239,"lon":-90.253161,"elevation":912,"region":"K5","runways":[{"id":"RW09","lat":43.939025,"lon":-90.270242,"length":9000,"course":89.0},{"id":"RW27","lat":43.93945,"lon":-90.236083,"length":9000,"course":269.0}],"procedures":{"D":{},"E":{},"F":{}}};

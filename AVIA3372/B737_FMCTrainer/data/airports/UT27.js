@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT27"]={"id":"UT27","name":"CCR FLD","lat":40.303792,"lon":-110.208753,"elevation":6000,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

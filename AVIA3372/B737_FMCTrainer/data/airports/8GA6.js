@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA6"]={"id":"8GA6","name":"S & S LANDING STRIP","lat":33.162222,"lon":-84.320556,"elevation":900,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

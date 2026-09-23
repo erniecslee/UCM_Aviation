@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KERR"]={"id":"KERR","name":"ERROL","lat":44.792167,"lon":-71.164525,"elevation":1248,"region":"K6","runways":[{"id":"RW15","lat":44.795147,"lon":-71.17005,"length":3600,"course":144.1},{"id":"RW33","lat":44.789186,"lon":-71.159,"length":3600,"course":324.2}],"procedures":{"D":{},"E":{},"F":{}}};

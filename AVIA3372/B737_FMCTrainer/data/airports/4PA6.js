@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PA6"]={"id":"4PA6","name":"HIAWATHA","lat":41.915086,"lon":-75.364444,"elevation":1670,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

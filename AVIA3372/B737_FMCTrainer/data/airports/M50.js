@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M50"]={"id":"M50","name":"BOARDMAN","lat":45.814825,"lon":-119.8205,"elevation":396,"region":"K1","runways":[{"id":"RW04","lat":45.812144,"lon":-119.827789,"length":4200,"course":43.0},{"id":"RW22","lat":45.817506,"lon":-119.813211,"length":4200,"course":223.0}],"procedures":{"D":{},"E":{},"F":{}}};

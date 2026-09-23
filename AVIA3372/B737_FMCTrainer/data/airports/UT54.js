@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT54"]={"id":"UT54","name":"CRYSTAL SPRINGS RANCH","lat":37.253317,"lon":-113.334117,"elevation":3671,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

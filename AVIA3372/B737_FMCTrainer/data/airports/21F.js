@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21F"]={"id":"21F","name":"JACKSBORO MUNI","lat":33.227861,"lon":-98.146444,"elevation":1062,"region":"K4","runways":[{"id":"RW18","lat":33.232281,"lon":-98.1461,"length":3220,"course":177.0},{"id":"RW36","lat":33.223447,"lon":-98.146764,"length":3220,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

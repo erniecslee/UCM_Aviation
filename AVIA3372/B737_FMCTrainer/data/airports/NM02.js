@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM02"]={"id":"NM02","name":"BIPLANE RANCH","lat":34.922275,"lon":-106.167244,"elevation":6500,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

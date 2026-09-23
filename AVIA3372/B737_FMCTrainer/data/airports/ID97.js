@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID97"]={"id":"ID97","name":"WETCREEK","lat":44.034664,"lon":-113.45925,"elevation":7515,"region":"K1","runways":[{"id":"RW16","lat":44.038878,"lon":-113.456811,"length":3329,"course":190.9},{"id":"RW34","lat":44.03045,"lon":-113.461689,"length":3329,"course":10.9}],"procedures":{"D":{},"E":{},"F":{}}};

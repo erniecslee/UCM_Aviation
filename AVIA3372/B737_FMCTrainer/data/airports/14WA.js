@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14WA"]={"id":"14WA","name":"LZ RANCH","lat":46.97075,"lon":-122.736547,"elevation":240,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

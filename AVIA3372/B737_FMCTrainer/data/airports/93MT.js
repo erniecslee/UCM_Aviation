@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93MT"]={"id":"93MT","name":"MASONRY FLD","lat":48.100833,"lon":-114.089167,"elevation":3049,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

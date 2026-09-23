@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC65"]={"id":"NC65","name":"YONDER","lat":34.559614,"lon":-78.268053,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

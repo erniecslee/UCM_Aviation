@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TE4"]={"id":"4TE4","name":"TAURUS MESA","lat":29.621019,"lon":-103.67935,"elevation":3576,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

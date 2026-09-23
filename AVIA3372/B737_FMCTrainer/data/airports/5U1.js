@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5U1"]={"id":"5U1","name":"DUTTON","lat":47.847194,"lon":-111.698278,"elevation":3699,"region":"K1","runways":[{"id":"RW16","lat":47.851497,"lon":-111.698356,"length":3130,"course":162.0},{"id":"RW34","lat":47.842914,"lon":-111.698222,"length":3130,"course":342.0}],"procedures":{"D":{},"E":{},"F":{}}};

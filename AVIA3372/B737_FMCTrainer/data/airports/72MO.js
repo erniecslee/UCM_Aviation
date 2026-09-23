@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72MO"]={"id":"72MO","name":"SUNNYS FLD","lat":38.425972,"lon":-91.245278,"elevation":755,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

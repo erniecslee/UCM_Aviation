@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WA0"]={"id":"5WA0","name":"SOURDOUGH","lat":48.595639,"lon":-119.100583,"elevation":2660,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

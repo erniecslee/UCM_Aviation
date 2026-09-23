@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA00"]={"id":"OA00","name":"TAILDRAGGER","lat":40.117017,"lon":-81.571233,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

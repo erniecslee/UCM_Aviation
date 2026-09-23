@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE01"]={"id":"TE01","name":"DILLARD RANCH","lat":31.304903,"lon":-95.796622,"elevation":225,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL10"]={"id":"FL10","name":"LITTLE RIVER","lat":30.11495,"lon":-82.909017,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

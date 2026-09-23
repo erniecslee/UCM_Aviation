@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22CA"]={"id":"22CA","name":"COMMODORE CENTER","lat":37.879928,"lon":-122.513586,"elevation":0,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

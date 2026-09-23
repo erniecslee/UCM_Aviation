@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2B9"]={"id":"2B9","name":"POST MILLS","lat":43.883722,"lon":-72.252083,"elevation":696,"region":"K6","runways":[{"id":"RW05","lat":43.881083,"lon":-72.254467,"length":2300,"course":49.0},{"id":"RW23","lat":43.886358,"lon":-72.249678,"length":2300,"course":229.0}],"procedures":{"D":{},"E":{},"F":{}}};

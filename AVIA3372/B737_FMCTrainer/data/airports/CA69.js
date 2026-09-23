@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA69"]={"id":"CA69","name":"AVENAL","lat":36.003031,"lon":-120.142194,"elevation":782,"region":"K2","runways":[{"id":"RW12","lat":36.005539,"lon":-120.145711,"length":2770,"course":116.2},{"id":"RW30","lat":36.000528,"lon":-120.138667,"length":2770,"course":296.2}],"procedures":{"D":{},"E":{},"F":{}}};

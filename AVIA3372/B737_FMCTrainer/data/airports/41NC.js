@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41NC"]={"id":"41NC","name":"SLOOP","lat":35.521978,"lon":-80.522239,"elevation":812,"region":"K7","runways":[{"id":"RW04","lat":35.519692,"lon":-80.524103,"length":2000,"course":39.7},{"id":"RW22","lat":35.524264,"lon":-80.520375,"length":2000,"course":219.7}],"procedures":{"D":{},"E":{},"F":{}}};

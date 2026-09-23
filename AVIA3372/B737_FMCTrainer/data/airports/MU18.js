@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU18"]={"id":"MU18","name":"STARK","lat":38.781039,"lon":-91.164503,"elevation":840,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

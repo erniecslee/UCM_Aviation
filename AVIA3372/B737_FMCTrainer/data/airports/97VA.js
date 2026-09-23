@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97VA"]={"id":"97VA","name":"SINGLETON","lat":38.210681,"lon":-79.713383,"elevation":2060,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT00"]={"id":"TT00","name":"TREE TOP AIR","lat":29.646667,"lon":-96.729444,"elevation":360,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y88"]={"id":"Y88","name":"GREEN LAKE","lat":44.605703,"lon":-85.756789,"elevation":866,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

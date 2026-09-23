@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15NC"]={"id":"15NC","name":"DRAGONFLY FLD","lat":36.239722,"lon":-76.973889,"elevation":49,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

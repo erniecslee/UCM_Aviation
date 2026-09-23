@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96CO"]={"id":"96CO","name":"LOGAN","lat":39.856433,"lon":-104.396033,"elevation":5300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

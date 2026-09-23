@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK20"]={"id":"AK20","name":"CD-3 AIRSTRIP","lat":70.420622,"lon":-150.886667,"elevation":7,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

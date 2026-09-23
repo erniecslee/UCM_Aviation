@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV54"]={"id":"NV54","name":"FLYING S RANCH","lat":36.307017,"lon":-115.9889,"elevation":2800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29VA"]={"id":"29VA","name":"RHYNALDS RANCH","lat":38.529292,"lon":-77.738881,"elevation":285,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

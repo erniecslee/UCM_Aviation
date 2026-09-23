@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96IL"]={"id":"96IL","name":"GERBICK","lat":42.375014,"lon":-89.845956,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

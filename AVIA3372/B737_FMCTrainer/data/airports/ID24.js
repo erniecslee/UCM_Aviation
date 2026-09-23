@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID24"]={"id":"ID24","name":"TIMBER BASIN AIRPARK INC","lat":48.223536,"lon":-116.438522,"elevation":2220,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

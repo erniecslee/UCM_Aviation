@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T67"]={"id":"T67","name":"HICKS AIRFIELD","lat":32.931236,"lon":-97.411686,"elevation":855,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48FL"]={"id":"48FL","name":"MC KINNON AIRPARK","lat":30.798567,"lon":-87.473289,"elevation":227,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

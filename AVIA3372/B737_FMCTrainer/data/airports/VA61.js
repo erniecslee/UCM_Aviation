@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA61"]={"id":"VA61","name":"LOVETTSVILLE VINTAGE AERODROME","lat":39.264892,"lon":-77.653642,"elevation":529,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

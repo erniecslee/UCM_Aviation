@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3N0"]={"id":"3N0","name":"NAMORIK","lat":5.631667,"lon":168.125,"elevation":15,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

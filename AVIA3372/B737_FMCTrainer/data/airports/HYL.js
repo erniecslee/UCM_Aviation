@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["HYL"]={"id":"HYL","name":"CLARK BAY","lat":55.490417,"lon":-132.623556,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

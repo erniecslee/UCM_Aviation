@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD21"]={"id":"FD21","name":"MOON LANDING","lat":28.376722,"lon":-81.178139,"elevation":61,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

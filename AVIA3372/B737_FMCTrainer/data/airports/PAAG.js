@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAG"]={"id":"PAAG","name":"CHANDALAR SHELF","lat":68.065439,"lon":-149.579739,"elevation":3222,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

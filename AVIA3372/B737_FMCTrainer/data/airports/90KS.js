@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90KS"]={"id":"90KS","name":"SUNSET STRIP AIRPARK","lat":38.9825,"lon":-95.594978,"elevation":1075,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

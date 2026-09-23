@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20CL"]={"id":"20CL","name":"MYSTERIOUS VALLEY","lat":38.749347,"lon":-122.367478,"elevation":1410,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS99"]={"id":"PS99","name":"WEST PENN TOWNSHIP","lat":40.747869,"lon":-75.932981,"elevation":1200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

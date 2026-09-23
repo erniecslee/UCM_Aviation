@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63FD"]={"id":"63FD","name":"LINK FLD","lat":29.698056,"lon":-82.491389,"elevation":108,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

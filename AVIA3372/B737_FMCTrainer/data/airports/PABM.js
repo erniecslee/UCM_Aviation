@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PABM"]={"id":"PABM","name":"BIG MOUNTAIN","lat":59.361247,"lon":-155.258822,"elevation":663,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

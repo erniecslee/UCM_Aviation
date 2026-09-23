@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90VA"]={"id":"90VA","name":"HEN & BACON","lat":38.218056,"lon":-78.211944,"elevation":430,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

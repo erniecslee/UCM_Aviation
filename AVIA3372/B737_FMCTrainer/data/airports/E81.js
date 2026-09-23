@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E81"]={"id":"E81","name":"SUPERIOR MUNI","lat":33.277833,"lon":-111.127064,"elevation":2646,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

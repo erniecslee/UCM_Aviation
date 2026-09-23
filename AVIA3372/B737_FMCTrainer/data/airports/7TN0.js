@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TN0"]={"id":"7TN0","name":"BLUE BIRD FLD","lat":36.435556,"lon":-87.091389,"elevation":705,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

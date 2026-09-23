@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MO2"]={"id":"6MO2","name":"STE GENEVIEVE FLYING CLUB","lat":37.986164,"lon":-90.033444,"elevation":380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

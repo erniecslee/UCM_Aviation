@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II18"]={"id":"II18","name":"LOU ABBETT FARMS","lat":41.335594,"lon":-86.928633,"elevation":685,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

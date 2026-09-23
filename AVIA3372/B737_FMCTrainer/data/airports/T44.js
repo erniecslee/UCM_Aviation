@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T44"]={"id":"T44","name":"TRIDENT BASIN","lat":57.780833,"lon":-152.391389,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

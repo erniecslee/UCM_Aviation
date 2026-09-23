@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51CL"]={"id":"51CL","name":"VETTERS SKY RANCH","lat":38.230472,"lon":-121.222169,"elevation":80,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

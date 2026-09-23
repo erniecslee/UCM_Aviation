@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN7"]={"id":"3WN7","name":"WOODLAND AIRSTRIP","lat":44.15,"lon":-87.617778,"elevation":610,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

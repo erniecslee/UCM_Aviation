@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PYL"]={"id":"PYL","name":"PERRY ISLAND","lat":60.685286,"lon":-147.918736,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

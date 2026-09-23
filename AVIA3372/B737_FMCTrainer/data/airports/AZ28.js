@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ28"]={"id":"AZ28","name":"THUNDER RIDGE AIRPARK","lat":33.821503,"lon":-112.573117,"elevation":1915,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

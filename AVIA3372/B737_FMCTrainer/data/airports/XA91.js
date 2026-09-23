@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA91"]={"id":"XA91","name":"WILDWOOD","lat":30.533333,"lon":-94.438056,"elevation":118,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

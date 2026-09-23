@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL39"]={"id":"IL39","name":"PERRY","lat":39.480256,"lon":-87.844578,"elevation":691,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

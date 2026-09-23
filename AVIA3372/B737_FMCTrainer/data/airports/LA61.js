@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA61"]={"id":"LA61","name":"KENAN AIRSTRIP","lat":30.008372,"lon":-92.241211,"elevation":14,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KPR"]={"id":"KPR","name":"PORT WILLIAMS","lat":58.490136,"lon":-152.582164,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

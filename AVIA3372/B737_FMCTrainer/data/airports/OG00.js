@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG00"]={"id":"OG00","name":"3 RIVERS RECREATION AREA","lat":44.557894,"lon":-121.401439,"elevation":2695,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

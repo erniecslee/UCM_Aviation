@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87PA"]={"id":"87PA","name":"WALTMAN","lat":40.926453,"lon":-79.738661,"elevation":1360,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

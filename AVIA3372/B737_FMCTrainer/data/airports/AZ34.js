@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ34"]={"id":"AZ34","name":"MASSEY FARM","lat":34.691428,"lon":-114.097739,"elevation":1630,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

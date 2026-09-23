@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT03"]={"id":"UT03","name":"HITE","lat":37.891656,"lon":-110.384028,"elevation":3840,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

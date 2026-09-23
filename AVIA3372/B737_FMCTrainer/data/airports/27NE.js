@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27NE"]={"id":"27NE","name":"HENDRICKS FLD","lat":40.722772,"lon":-101.795728,"elevation":3450,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

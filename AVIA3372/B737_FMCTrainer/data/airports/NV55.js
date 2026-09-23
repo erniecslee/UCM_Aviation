@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV55"]={"id":"NV55","name":"PINENUT","lat":38.898867,"lon":-119.649417,"elevation":5260,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

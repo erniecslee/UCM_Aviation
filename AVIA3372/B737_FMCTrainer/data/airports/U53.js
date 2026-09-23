@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U53"]={"id":"U53","name":"HENRYS LAKE","lat":44.63475,"lon":-111.342694,"elevation":6596,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

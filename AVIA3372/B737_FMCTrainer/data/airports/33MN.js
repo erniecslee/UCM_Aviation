@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33MN"]={"id":"33MN","name":"ZENITH LANDING","lat":45.988839,"lon":-92.9016,"elevation":1008,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

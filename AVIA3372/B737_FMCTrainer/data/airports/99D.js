@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99D"]={"id":"99D","name":"DEWART LAKE","lat":41.371944,"lon":-85.772778,"elevation":865,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

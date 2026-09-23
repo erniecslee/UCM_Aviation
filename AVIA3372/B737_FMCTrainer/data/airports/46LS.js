@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46LS"]={"id":"46LS","name":"VENISSAT AIRSTRIP","lat":30.086111,"lon":-92.532222,"elevation":4,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

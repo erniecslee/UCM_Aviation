@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54CN"]={"id":"54CN","name":"AKIN","lat":38.754069,"lon":-120.899106,"elevation":1595,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

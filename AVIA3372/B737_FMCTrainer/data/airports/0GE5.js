@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GE5"]={"id":"0GE5","name":"MOUNTAIN AIRPARK","lat":34.561764,"lon":-83.713514,"elevation":1438,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

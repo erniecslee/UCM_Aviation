@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PABU"]={"id":"PABU","name":"BULLEN POINT AIR FORCE STATION","lat":70.172778,"lon":-146.836111,"elevation":18,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

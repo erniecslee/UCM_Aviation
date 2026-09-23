@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS96"]={"id":"TS96","name":"EL CAMPO AIRPARK","lat":29.266917,"lon":-96.325244,"elevation":105,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

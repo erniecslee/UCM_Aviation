@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD75"]={"id":"MD75","name":"STOLCREST","lat":39.341769,"lon":-77.303594,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

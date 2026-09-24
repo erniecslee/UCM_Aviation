@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75PN"]={"id":"75PN","name":"BEAVER","lat":40.685622,"lon":-80.310061,"elevation":682,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

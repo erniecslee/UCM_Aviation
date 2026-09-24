@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV97"]={"id":"NV97","name":"DESERT CREEK","lat":38.684167,"lon":-119.322222,"elevation":5358,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

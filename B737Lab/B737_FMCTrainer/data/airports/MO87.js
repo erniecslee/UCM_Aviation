@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO87"]={"id":"MO87","name":"POWIS","lat":38.945842,"lon":-94.161892,"elevation":879,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

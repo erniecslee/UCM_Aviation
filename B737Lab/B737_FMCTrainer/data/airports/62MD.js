@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62MD"]={"id":"62MD","name":"SANDY POINT","lat":38.488806,"lon":-76.643633,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

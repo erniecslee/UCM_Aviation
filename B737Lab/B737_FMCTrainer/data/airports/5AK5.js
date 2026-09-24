@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AK5"]={"id":"5AK5","name":"TODDS STRIP","lat":61.657089,"lon":-149.461711,"elevation":492,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

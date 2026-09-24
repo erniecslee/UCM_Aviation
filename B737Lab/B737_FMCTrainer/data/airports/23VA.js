@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23VA"]={"id":"23VA","name":"WHEATLAND","lat":37.557089,"lon":-78.620008,"elevation":490,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

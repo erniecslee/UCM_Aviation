@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE80"]={"id":"NE80","name":"HAUSMANN AIRFIELD","lat":40.673067,"lon":-96.637814,"elevation":1364,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

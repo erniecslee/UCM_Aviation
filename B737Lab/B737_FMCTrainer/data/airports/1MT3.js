@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MT3"]={"id":"1MT3","name":"WOOD STRIP","lat":46.558056,"lon":-112.4125,"elevation":5100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

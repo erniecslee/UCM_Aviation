@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1VG2"]={"id":"1VG2","name":"WHITEHALL FARM","lat":38.127667,"lon":-76.689167,"elevation":23,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY16"]={"id":"NY16","name":"OAK RIDGE","lat":43.098397,"lon":-77.181925,"elevation":540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

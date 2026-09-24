@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03OR"]={"id":"03OR","name":"POWWATKA RIDGE","lat":45.855422,"lon":-117.484344,"elevation":3340,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

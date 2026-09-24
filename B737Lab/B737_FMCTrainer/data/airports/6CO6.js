@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CO6"]={"id":"6CO6","name":"SKYWAGON RANCH","lat":40.311886,"lon":-105.145833,"elevation":5187,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD57"]={"id":"SD57","name":"W L THOMPSON","lat":44.566647,"lon":-100.750422,"elevation":2113,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

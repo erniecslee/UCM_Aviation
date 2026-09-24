@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MS7"]={"id":"0MS7","name":"ADDISON-HENLEY FLD","lat":30.402128,"lon":-89.325358,"elevation":54,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74FD"]={"id":"74FD","name":"CLARKSVILLE","lat":30.464083,"lon":-85.177142,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

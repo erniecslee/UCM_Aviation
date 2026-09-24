@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86NC"]={"id":"86NC","name":"CRAFT","lat":36.262517,"lon":-76.491442,"elevation":14,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

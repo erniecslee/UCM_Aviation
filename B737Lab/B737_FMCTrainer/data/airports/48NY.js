@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48NY"]={"id":"48NY","name":"TURNBULL","lat":42.895647,"lon":-77.396961,"elevation":890,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

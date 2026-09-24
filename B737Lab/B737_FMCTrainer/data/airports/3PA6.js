@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PA6"]={"id":"3PA6","name":"FOX HOLLOW","lat":40.993419,"lon":-76.900242,"elevation":540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

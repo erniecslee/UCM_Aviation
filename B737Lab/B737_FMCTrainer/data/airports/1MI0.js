@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MI0"]={"id":"1MI0","name":"ASHMAN ISLAND","lat":46.068633,"lon":-83.724169,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

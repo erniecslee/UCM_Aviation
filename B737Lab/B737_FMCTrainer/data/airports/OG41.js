@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG41"]={"id":"OG41","name":"NACE FAMILY AIRSTRIP","lat":42.771231,"lon":-123.314508,"elevation":1550,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

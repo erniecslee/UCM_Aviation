@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO78"]={"id":"MO78","name":"STICKLE CATTLE FARMS","lat":38.316711,"lon":-91.7835,"elevation":700,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

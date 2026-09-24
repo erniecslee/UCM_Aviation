@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK61"]={"id":"AK61","name":"STEPHAN LAKE LODGE","lat":62.699628,"lon":-148.907411,"elevation":1900,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21OI"]={"id":"21OI","name":"CLEARWATER AIRPARK","lat":39.128119,"lon":-84.092711,"elevation":905,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

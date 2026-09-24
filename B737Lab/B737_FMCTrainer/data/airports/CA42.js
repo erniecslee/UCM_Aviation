@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA42"]={"id":"CA42","name":"MC CONVILLE AIRSTRIP","lat":33.643611,"lon":-117.429167,"elevation":2600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

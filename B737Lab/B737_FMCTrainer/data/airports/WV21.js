@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV21"]={"id":"WV21","name":"NEEDWOOD FARM","lat":39.330556,"lon":-77.794722,"elevation":440,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

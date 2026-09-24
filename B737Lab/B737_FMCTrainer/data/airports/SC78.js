@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC78"]={"id":"SC78","name":"KING FLD","lat":35.090672,"lon":-82.4954,"elevation":1250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

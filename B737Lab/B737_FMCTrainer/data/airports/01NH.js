@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01NH"]={"id":"01NH","name":"MOORE AIRFIELD","lat":43.644517,"lon":-72.087031,"elevation":835,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

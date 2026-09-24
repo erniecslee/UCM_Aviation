@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA69"]={"id":"FA69","name":"DUDA AIRSTRIP","lat":26.587847,"lon":-80.637281,"elevation":14,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

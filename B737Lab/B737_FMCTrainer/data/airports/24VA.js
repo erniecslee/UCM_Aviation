@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24VA"]={"id":"24VA","name":"CHERRYSTONE","lat":37.288194,"lon":-75.999656,"elevation":14,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

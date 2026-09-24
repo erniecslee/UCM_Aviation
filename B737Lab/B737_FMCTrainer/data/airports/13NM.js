@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13NM"]={"id":"13NM","name":"BEAVERHEAD AIRSTRIP","lat":33.419511,"lon":-108.139494,"elevation":7378,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

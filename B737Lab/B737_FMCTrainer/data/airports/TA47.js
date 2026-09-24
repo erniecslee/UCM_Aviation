@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA47"]={"id":"TA47","name":"RICHARDS","lat":33.301389,"lon":-97.245,"elevation":785,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

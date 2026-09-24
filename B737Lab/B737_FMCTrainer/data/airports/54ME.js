@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54ME"]={"id":"54ME","name":"CLIFF DOW","lat":43.949444,"lon":-70.320278,"elevation":415,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

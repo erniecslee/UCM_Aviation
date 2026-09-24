@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC88"]={"id":"SC88","name":"TURNER FLD","lat":35.147344,"lon":-81.794269,"elevation":935,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT15"]={"id":"CT15","name":"WYSOCKI FLD","lat":41.945375,"lon":-72.477586,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

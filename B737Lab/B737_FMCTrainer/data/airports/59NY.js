@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59NY"]={"id":"59NY","name":"BENT-WING","lat":43.230611,"lon":-78.690033,"elevation":370,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

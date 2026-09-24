@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY16"]={"id":"WY16","name":"ROBBINS","lat":42.259967,"lon":-105.858894,"elevation":7240,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

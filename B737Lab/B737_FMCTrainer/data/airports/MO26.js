@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO26"]={"id":"MO26","name":"PETERSON FARM","lat":39.393892,"lon":-94.353003,"elevation":860,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02MT"]={"id":"02MT","name":"STEPPLER FLD","lat":47.980428,"lon":-104.708936,"elevation":2112,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

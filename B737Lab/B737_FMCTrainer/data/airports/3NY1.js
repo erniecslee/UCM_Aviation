@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NY1"]={"id":"3NY1","name":"MILLER","lat":43.155194,"lon":-75.785867,"elevation":430,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

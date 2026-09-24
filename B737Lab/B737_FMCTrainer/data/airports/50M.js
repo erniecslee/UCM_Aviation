@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50M"]={"id":"50M","name":"PUCKETT","lat":35.689444,"lon":-86.615,"elevation":780,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD74"]={"id":"MD74","name":"GOOD NEIGHBOR FARM","lat":39.474269,"lon":-77.195261,"elevation":580,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E98"]={"id":"E98","name":"MID VALLEY AIRPARK","lat":34.761008,"lon":-106.744944,"elevation":4836,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

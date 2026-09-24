@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME06"]={"id":"ME06","name":"FLYING ED","lat":45.027856,"lon":-67.309433,"elevation":440,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

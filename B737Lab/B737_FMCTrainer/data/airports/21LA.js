@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21LA"]={"id":"21LA","name":"SOUTHERN HELICOPTERS","lat":30.296944,"lon":-91.215,"elevation":28,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

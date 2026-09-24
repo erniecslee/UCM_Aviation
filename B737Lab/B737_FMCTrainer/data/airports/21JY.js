@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21JY"]={"id":"21JY","name":"SOARING SUN","lat":39.7,"lon":-74.152778,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

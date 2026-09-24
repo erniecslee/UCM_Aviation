@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03NV"]={"id":"03NV","name":"LLAMA RANCH","lat":40.584444,"lon":-115.297778,"elevation":6120,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

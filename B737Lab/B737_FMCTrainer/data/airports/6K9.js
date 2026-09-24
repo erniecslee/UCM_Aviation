@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6K9"]={"id":"6K9","name":"KEOSAUQUA MUNI","lat":40.73475,"lon":-91.948783,"elevation":580,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

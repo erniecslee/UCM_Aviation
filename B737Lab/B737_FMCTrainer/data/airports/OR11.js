@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR11"]={"id":"OR11","name":"JENSENS STRIP","lat":44.912367,"lon":-117.957994,"elevation":3350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR20"]={"id":"NR20","name":"RAEFORD WEST","lat":35.030556,"lon":-79.236667,"elevation":280,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

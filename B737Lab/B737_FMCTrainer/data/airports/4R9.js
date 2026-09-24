@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4R9"]={"id":"4R9","name":"JEREMIAH DENTON","lat":30.260481,"lon":-88.127472,"elevation":5,"region":"K7","runways":[{"id":"RW12","lat":30.262444,"lon":-88.130911,"length":3000,"course":121.3},{"id":"RW30","lat":30.258425,"lon":-88.123869,"length":3000,"course":301.3}],"procedures":{"D":{},"E":{},"F":{}}};

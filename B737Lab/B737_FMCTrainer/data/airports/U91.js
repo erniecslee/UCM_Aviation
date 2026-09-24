@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U91"]={"id":"U91","name":"GRASMERE","lat":42.373306,"lon":-115.879444,"elevation":5144,"region":"K1","runways":[{"id":"RW05","lat":42.371969,"lon":-115.884206,"length":2750,"course":53.4},{"id":"RW23","lat":42.374622,"lon":-115.874678,"length":2750,"course":233.4}],"procedures":{"D":{},"E":{},"F":{}}};

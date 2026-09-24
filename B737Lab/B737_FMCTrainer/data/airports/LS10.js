@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS10"]={"id":"LS10","name":"REYNOLDS","lat":30.27215,"lon":-93.311822,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

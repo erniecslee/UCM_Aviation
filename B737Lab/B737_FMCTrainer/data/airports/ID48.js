@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID48"]={"id":"ID48","name":"WESTERN SPUR","lat":47.928794,"lon":-116.711031,"elevation":2350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

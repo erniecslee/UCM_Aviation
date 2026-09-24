@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LA4"]={"id":"1LA4","name":"ELLERBE FLD","lat":32.300467,"lon":-93.636533,"elevation":200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

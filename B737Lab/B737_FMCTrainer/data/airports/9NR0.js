@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NR0"]={"id":"9NR0","name":"SMOKE AND WINGS","lat":36.218056,"lon":-79.177222,"elevation":741,"region":"K7","runways":[{"id":"RW17","lat":36.22,"lon":-79.177222,"length":1416,"course":189.1},{"id":"RW35","lat":36.216111,"lon":-79.177222,"length":1416,"course":9.1}],"procedures":{"D":{},"E":{},"F":{}}};

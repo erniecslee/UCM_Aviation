@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GA2"]={"id":"5GA2","name":"LYONS LANDING","lat":33.572925,"lon":-84.911075,"elevation":1080,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

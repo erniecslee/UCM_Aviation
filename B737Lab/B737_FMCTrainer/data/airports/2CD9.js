@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CD9"]={"id":"2CD9","name":"KELLOGG AIRSTRIP","lat":40.6814,"lon":-105.13855,"elevation":5180,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09OK"]={"id":"09OK","name":"RAGTIME AERODROME","lat":36.354539,"lon":-95.863883,"elevation":700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

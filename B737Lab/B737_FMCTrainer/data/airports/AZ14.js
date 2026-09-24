@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ14"]={"id":"AZ14","name":"AMMON","lat":32.024722,"lon":-109.959722,"elevation":4520,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

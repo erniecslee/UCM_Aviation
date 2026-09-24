@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS77"]={"id":"XS77","name":"SEAFOOD WAREHOUSE PARK","lat":29.465511,"lon":-94.627417,"elevation":9,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W66"]={"id":"W66","name":"PORT ANGELES","lat":48.116694,"lon":-123.413139,"elevation":0,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

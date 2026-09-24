@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN02"]={"id":"MN02","name":"LAKE MINNEWASHTA","lat":44.880519,"lon":-93.609125,"elevation":944,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

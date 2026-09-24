@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND82"]={"id":"ND82","name":"Y-ROCK","lat":48.311303,"lon":-103.148025,"elevation":2229,"region":"K3","runways":[{"id":"RW08","lat":48.311325,"lon":-103.152178,"length":2023,"course":83.4},{"id":"RW26","lat":48.311278,"lon":-103.143872,"length":2023,"course":263.4}],"procedures":{"D":{},"E":{},"F":{}}};

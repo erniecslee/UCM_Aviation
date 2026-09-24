@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51WT"]={"id":"51WT","name":"WHITERIK FLD","lat":48.010417,"lon":-118.362028,"elevation":1895,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7XA2"]={"id":"7XA2","name":"SAGEBRUSH","lat":33.148883,"lon":-97.374014,"elevation":810,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

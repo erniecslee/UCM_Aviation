@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL17"]={"id":"FL17","name":"RUCKEL","lat":30.519642,"lon":-86.438283,"elevation":67,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

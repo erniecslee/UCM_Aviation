@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78ME"]={"id":"78ME","name":"ERIC'S FLD","lat":43.753056,"lon":-70.259167,"elevation":97,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAW"]={"id":"PAAW","name":"NANWALEK","lat":59.352147,"lon":-151.925156,"elevation":27,"region":"PA","runways":[{"id":"RW01","lat":59.349656,"lon":-151.926017,"length":1850,"course":347.0},{"id":"RW19","lat":59.354639,"lon":-151.924294,"length":1850,"course":167.0}],"procedures":{"D":{},"E":{},"F":{}}};

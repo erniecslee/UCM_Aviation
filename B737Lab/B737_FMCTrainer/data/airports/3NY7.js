@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NY7"]={"id":"3NY7","name":"HISERTS AIRPARK INC","lat":42.984394,"lon":-74.519433,"elevation":813,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21OG"]={"id":"21OG","name":"AMES","lat":44.771806,"lon":-122.969444,"elevation":720,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

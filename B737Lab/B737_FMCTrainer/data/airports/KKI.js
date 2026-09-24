@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KKI"]={"id":"KKI","name":"AKIACHAK","lat":60.907864,"lon":-161.435078,"elevation":18,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

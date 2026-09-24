@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LS7"]={"id":"3LS7","name":"BOCK FARMS","lat":39.986389,"lon":-89.511667,"elevation":592,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

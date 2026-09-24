@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KS1"]={"id":"4KS1","name":"AMAR FARMS","lat":38.685289,"lon":-95.033022,"elevation":1020,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

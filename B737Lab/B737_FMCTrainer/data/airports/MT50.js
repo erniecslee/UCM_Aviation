@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT50"]={"id":"MT50","name":"LANNING RANCH","lat":45.087764,"lon":-104.819414,"elevation":3995,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

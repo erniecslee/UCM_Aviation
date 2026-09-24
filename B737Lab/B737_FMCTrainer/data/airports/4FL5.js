@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FL5"]={"id":"4FL5","name":"RIDGE LANDING","lat":27.755278,"lon":-81.599722,"elevation":140,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

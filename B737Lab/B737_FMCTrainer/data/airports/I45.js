@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I45"]={"id":"I45","name":"WAPSHILLA","lat":45.941847,"lon":-116.763669,"elevation":1415,"region":"K1","runways":[{"id":"RW15","lat":45.943222,"lon":-116.764094,"length":1026,"course":154.5},{"id":"RW33","lat":45.940472,"lon":-116.763244,"length":1026,"course":334.5}],"procedures":{"D":{},"E":{},"F":{}}};

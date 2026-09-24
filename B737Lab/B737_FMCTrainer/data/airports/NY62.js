@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY62"]={"id":"NY62","name":"CURTIS","lat":43.145833,"lon":-75.541944,"elevation":535,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

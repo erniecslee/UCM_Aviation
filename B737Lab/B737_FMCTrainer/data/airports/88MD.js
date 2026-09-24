@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88MD"]={"id":"88MD","name":"BEAVEN FLD","lat":38.804069,"lon":-75.952958,"elevation":41,"region":"K6","runways":[{"id":"RW05","lat":38.801989,"lon":-75.955822,"length":2628,"course":58.2},{"id":"RW23","lat":38.806161,"lon":-75.9501,"length":2628,"course":238.4}],"procedures":{"D":{},"E":{},"F":{}}};

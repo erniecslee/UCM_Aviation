@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA22"]={"id":"GA22","name":"JORDANS","lat":31.438508,"lon":-84.708253,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

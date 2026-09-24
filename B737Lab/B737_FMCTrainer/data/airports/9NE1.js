@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NE1"]={"id":"9NE1","name":"EL-CO","lat":41.144436,"lon":-101.926567,"elevation":3650,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

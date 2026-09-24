@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH15"]={"id":"OH15","name":"MINERVA","lat":40.745892,"lon":-81.144267,"elevation":1080,"region":"K5","runways":[{"id":"RW01","lat":40.742569,"lon":-81.145394,"length":2500,"course":21.5},{"id":"RW19","lat":40.749211,"lon":-81.143136,"length":2500,"course":201.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64FA"]={"id":"64FA","name":"NAKED LADY RANCH","lat":27.142828,"lon":-80.337828,"elevation":22,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

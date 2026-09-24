@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KBIX"]={"id":"KBIX","name":"KEESLER AFB","lat":30.410428,"lon":-88.924436,"elevation":33,"region":"K7","runways":[{"id":"RW04","lat":30.405464,"lon":-88.928511,"length":7630,"course":37.0},{"id":"RW22","lat":30.416731,"lon":-88.919258,"length":7630,"course":217.0}],"procedures":{"D":{},"E":{},"F":{}}};

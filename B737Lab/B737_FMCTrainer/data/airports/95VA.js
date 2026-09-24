@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95VA"]={"id":"95VA","name":"BUCK HOLLAR","lat":36.623194,"lon":-79.355856,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

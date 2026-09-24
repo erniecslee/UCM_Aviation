@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MN3"]={"id":"8MN3","name":"BREEZY POINT","lat":46.595833,"lon":-94.22,"elevation":1255,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

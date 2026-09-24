@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12NE"]={"id":"12NE","name":"REISIG BROTHERS","lat":41.906633,"lon":-103.699667,"elevation":3985,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

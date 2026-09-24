@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS55"]={"id":"XS55","name":"GIZMO FLD","lat":31.929322,"lon":-96.938886,"elevation":551,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

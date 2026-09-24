@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30AR"]={"id":"30AR","name":"PHALANX","lat":35.544361,"lon":-92.056167,"elevation":584,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

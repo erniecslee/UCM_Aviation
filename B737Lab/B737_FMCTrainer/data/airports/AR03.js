@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR03"]={"id":"AR03","name":"CENTERVILLE AIRSTRIP","lat":35.122681,"lon":-93.203136,"elevation":350,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

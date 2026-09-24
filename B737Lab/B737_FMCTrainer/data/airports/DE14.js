@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE14"]={"id":"DE14","name":"HUEY","lat":38.744003,"lon":-75.534925,"elevation":45,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

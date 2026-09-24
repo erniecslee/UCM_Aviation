@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08FD"]={"id":"08FD","name":"SUNNILAND RANCH","lat":27.363097,"lon":-80.7726,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

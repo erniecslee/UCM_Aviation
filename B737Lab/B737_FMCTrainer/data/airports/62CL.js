@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62CL"]={"id":"62CL","name":"FLYING PEAR RANCH","lat":35.407181,"lon":-118.500086,"elevation":3485,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

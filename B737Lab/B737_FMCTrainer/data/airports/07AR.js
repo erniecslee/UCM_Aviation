@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07AR"]={"id":"07AR","name":"MORRILTON","lat":35.194528,"lon":-92.800167,"elevation":300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

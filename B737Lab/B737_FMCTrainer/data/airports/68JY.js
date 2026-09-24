@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68JY"]={"id":"68JY","name":"HANCOCK POND","lat":43.931667,"lon":-70.756667,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I04"]={"id":"I04","name":"QUAD-CITY","lat":41.460033,"lon":-90.492911,"elevation":560,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

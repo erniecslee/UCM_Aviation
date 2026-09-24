@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70TE"]={"id":"70TE","name":"CLAASSEN","lat":33.321667,"lon":-96.324058,"elevation":615,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

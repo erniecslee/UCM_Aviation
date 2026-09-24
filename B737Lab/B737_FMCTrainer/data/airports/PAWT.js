@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAWT"]={"id":"PAWT","name":"WAINWRIGHT AS","lat":70.613378,"lon":-159.86035,"elevation":35,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

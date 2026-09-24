@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS21"]={"id":"LS21","name":"SIEVERS FLD","lat":30.266444,"lon":-92.185028,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

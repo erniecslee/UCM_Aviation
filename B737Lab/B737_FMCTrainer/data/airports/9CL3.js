@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CL3"]={"id":"9CL3","name":"LIKELY","lat":41.240172,"lon":-120.526064,"elevation":4420,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59FA"]={"id":"59FA","name":"MANGO LAKE","lat":27.971406,"lon":-82.302583,"elevation":30,"region":"K7","runways":[{"id":"RW09","lat":27.971331,"lon":-82.306308,"length":2340,"course":96.2},{"id":"RW27","lat":27.971336,"lon":-82.299058,"length":2340,"course":276.3}],"procedures":{"D":{},"E":{},"F":{}}};

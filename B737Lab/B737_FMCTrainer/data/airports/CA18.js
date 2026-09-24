@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA18"]={"id":"CA18","name":"SUNRISE DUSTERS","lat":38.872122,"lon":-121.709964,"elevation":24,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

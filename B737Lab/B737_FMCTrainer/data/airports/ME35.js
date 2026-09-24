@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME35"]={"id":"ME35","name":"TERRA B & B","lat":44.931456,"lon":-69.007261,"elevation":382,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

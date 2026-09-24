@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT23"]={"id":"VT23","name":"BOSTWICK FARM","lat":44.370883,"lon":-73.250403,"elevation":220,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

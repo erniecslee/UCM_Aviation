@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96OK"]={"id":"96OK","name":"MILLERS PLACE","lat":36.848889,"lon":-99.456667,"elevation":1787,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

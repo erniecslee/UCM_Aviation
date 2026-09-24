@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6S1"]={"id":"6S1","name":"BRIDGER MUNI","lat":45.291614,"lon":-108.9257,"elevation":3720,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

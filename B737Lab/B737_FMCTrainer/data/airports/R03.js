@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["R03"]={"id":"R03","name":"ALKALI LAKE STATE","lat":43.087372,"lon":-119.976072,"elevation":4312,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

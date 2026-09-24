@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK72"]={"id":"OK72","name":"TRUST LANDING","lat":36.212717,"lon":-98.903292,"elevation":1730,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01FL"]={"id":"01FL","name":"CEDAR KNOLL FLYING RANCH","lat":28.781936,"lon":-81.159228,"elevation":19,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

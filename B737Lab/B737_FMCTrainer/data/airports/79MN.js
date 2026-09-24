@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79MN"]={"id":"79MN","name":"PAUL FLD","lat":48.377744,"lon":-95.754447,"elevation":1165,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

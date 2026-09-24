@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA09"]={"id":"CA09","name":"ROUND MOUNTAIN RANCH","lat":41.886244,"lon":-122.844478,"elevation":3500,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

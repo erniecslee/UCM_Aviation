@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42OR"]={"id":"42OR","name":"SHOTGUN RANCH AIRSTRIP","lat":44.134167,"lon":-120.323056,"elevation":3430,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

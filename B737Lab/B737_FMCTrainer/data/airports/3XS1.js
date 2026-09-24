@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XS1"]={"id":"3XS1","name":"KUBECKA AVIATION","lat":28.767211,"lon":-96.306914,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

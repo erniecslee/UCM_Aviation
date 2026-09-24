@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87TN"]={"id":"87TN","name":"RAINEY","lat":36.232783,"lon":-89.302117,"elevation":312,"region":"K7","runways":[{"id":"RW01","lat":36.228958,"lon":-89.302603,"length":2800,"course":8.4},{"id":"RW19","lat":36.236611,"lon":-89.301631,"length":2800,"course":188.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6Y4"]={"id":"6Y4","name":"VAN EFFEN FLD","lat":46.052064,"lon":-87.258292,"elevation":970,"region":"K5","runways":[{"id":"RW12","lat":46.053625,"lon":-87.262892,"length":2600,"course":121.0},{"id":"RW30","lat":46.0505,"lon":-87.253689,"length":2600,"course":301.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ID"]={"id":"0ID","name":"W E RANCH","lat":42.448186,"lon":-111.777544,"elevation":5075,"region":"K1","runways":[{"id":"RW17","lat":42.450022,"lon":-111.7779,"length":1350,"course":160.9},{"id":"RW35","lat":42.446353,"lon":-111.777186,"length":1350,"course":340.9}],"procedures":{"D":{},"E":{},"F":{}}};

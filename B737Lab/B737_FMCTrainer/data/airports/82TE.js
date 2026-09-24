@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82TE"]={"id":"82TE","name":"REMEMBERANCE","lat":33.421253,"lon":-101.938542,"elevation":3250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

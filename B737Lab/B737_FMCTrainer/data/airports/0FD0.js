@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FD0"]={"id":"0FD0","name":"THE 2A RANCH","lat":29.267481,"lon":-81.230061,"elevation":40,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

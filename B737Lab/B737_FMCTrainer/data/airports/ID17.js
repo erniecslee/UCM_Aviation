@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID17"]={"id":"ID17","name":"SEVEN DEVILS","lat":45.010989,"lon":-116.688761,"elevation":4487,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

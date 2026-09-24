@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06TS"]={"id":"06TS","name":"M SANSOM RANCH","lat":31.421592,"lon":-99.836575,"elevation":1810,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IS9"]={"id":"2IS9","name":"PONTIAC FLYING/COOKSVILLE","lat":40.578083,"lon":-88.707833,"elevation":741,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

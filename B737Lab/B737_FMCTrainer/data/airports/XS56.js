@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS56"]={"id":"XS56","name":"FLYING W","lat":26.448681,"lon":-97.791939,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AZ9"]={"id":"2AZ9","name":"ETHNOS AIR","lat":31.602317,"lon":-109.651458,"elevation":4200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

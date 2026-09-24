@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA41"]={"id":"WA41","name":"LAKE SAWYER DOUBLE E","lat":47.333333,"lon":-122.033333,"elevation":520,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

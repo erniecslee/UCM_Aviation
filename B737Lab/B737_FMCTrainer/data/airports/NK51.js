@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK51"]={"id":"NK51","name":"LUTHER","lat":43.029233,"lon":-75.845467,"elevation":740,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

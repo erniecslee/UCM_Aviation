@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL10"]={"id":"OL10","name":"WATERS BOONE","lat":35.653056,"lon":-98.605833,"elevation":1676,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

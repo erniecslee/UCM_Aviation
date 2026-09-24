@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU00"]={"id":"MU00","name":"SAMUEL L CLEMENS MEML","lat":39.444483,"lon":-91.951836,"elevation":730,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

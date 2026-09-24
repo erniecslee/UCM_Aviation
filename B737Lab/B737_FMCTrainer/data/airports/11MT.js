@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11MT"]={"id":"11MT","name":"LAMMERS","lat":46.462778,"lon":-109.490556,"elevation":4098,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

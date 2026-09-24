@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35IN"]={"id":"35IN","name":"ELLISON","lat":40.294483,"lon":-85.942483,"elevation":875,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

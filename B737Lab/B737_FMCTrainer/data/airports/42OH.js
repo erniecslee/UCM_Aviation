@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42OH"]={"id":"42OH","name":"DUNN FLD","lat":41.155889,"lon":-81.003981,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

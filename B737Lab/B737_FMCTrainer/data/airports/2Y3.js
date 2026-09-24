@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Y3"]={"id":"2Y3","name":"YAKUTAT","lat":59.577694,"lon":-139.749944,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

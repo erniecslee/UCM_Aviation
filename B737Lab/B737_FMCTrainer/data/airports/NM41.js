@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM41"]={"id":"NM41","name":"HAPPY MOUNTAIN","lat":34.061167,"lon":-108.096447,"elevation":7250,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

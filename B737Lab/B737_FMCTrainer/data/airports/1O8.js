@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1O8"]={"id":"1O8","name":"TIPTON MUNI","lat":34.458625,"lon":-99.171333,"elevation":1248,"region":"K4","runways":[{"id":"RW17","lat":34.462828,"lon":-99.171339,"length":3062,"course":173.0},{"id":"RW35","lat":34.454417,"lon":-99.171333,"length":3062,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C98"]={"id":"C98","name":"LAKE VILLAGE","lat":41.150033,"lon":-87.462533,"elevation":644,"region":"K5","runways":[{"id":"RW18","lat":41.152214,"lon":-87.460308,"length":2000,"course":181.0},{"id":"RW36","lat":41.145078,"lon":-87.460308,"length":2000,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA17"]={"id":"NA17","name":"JACOB GUST","lat":46.942747,"lon":-96.928972,"elevation":895,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

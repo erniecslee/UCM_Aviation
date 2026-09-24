@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR90"]={"id":"OR90","name":"LAFAYETTE AIRSTRIP","lat":45.244283,"lon":-123.128994,"elevation":160,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

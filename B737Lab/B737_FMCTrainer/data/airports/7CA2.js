@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CA2"]={"id":"7CA2","name":"PARADISE LAKES","lat":35.176667,"lon":-118.927222,"elevation":340,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL3"]={"id":"5LL3","name":"MAYHALL","lat":39.769478,"lon":-88.095317,"elevation":643,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

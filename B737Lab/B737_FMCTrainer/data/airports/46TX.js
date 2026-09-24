@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46TX"]={"id":"46TX","name":"PHILLIPS CORPORATION","lat":29.1508,"lon":-95.495219,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

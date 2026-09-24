@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37MS"]={"id":"37MS","name":"P2 LANDING","lat":32.390147,"lon":-90.350839,"elevation":246,"region":"K7","runways":[{"id":"RW18","lat":32.392894,"lon":-90.350839,"length":2000,"course":181.5},{"id":"RW36","lat":32.387397,"lon":-90.350839,"length":2000,"course":1.5}],"procedures":{"D":{},"E":{},"F":{}}};

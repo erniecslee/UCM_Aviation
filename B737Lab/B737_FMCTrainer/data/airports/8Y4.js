@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8Y4"]={"id":"8Y4","name":"SURFSIDE","lat":45.155883,"lon":-93.123481,"elevation":880,"region":"K3","runways":[{"id":"RW05W","lat":45.151297,"lon":-93.13195,"length":5503,"course":52.8},{"id":"RW23W","lat":45.160469,"lon":-93.115011,"length":5503,"course":232.9}],"procedures":{"D":{},"E":{},"F":{}}};

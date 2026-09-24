@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SD4"]={"id":"2SD4","name":"NICOLAISEN","lat":43.683333,"lon":-98.265278,"elevation":1440,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

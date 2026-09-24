@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IN"]={"id":"2IN","name":"OLIVER LAKE","lat":41.5696,"lon":-85.404458,"elevation":900,"region":"K5","runways":[{"id":"RW12W","lat":41.571444,"lon":-85.408683,"length":2675,"course":126.0},{"id":"RW30W","lat":41.567756,"lon":-85.400233,"length":2675,"course":306.0}],"procedures":{"D":{},"E":{},"F":{}}};

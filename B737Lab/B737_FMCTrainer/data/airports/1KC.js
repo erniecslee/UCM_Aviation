@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KC"]={"id":"1KC","name":"KALAKAKET CREEK AS","lat":64.424447,"lon":-156.843339,"elevation":1598,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27FA"]={"id":"27FA","name":"STANCHESTER","lat":27.8062,"lon":-82.141364,"elevation":96,"region":"K7","runways":[{"id":"RW15","lat":27.806764,"lon":-82.141642,"length":448,"course":162.7},{"id":"RW33","lat":27.805636,"lon":-82.141086,"length":448,"course":342.7}],"procedures":{"D":{},"E":{},"F":{}}};

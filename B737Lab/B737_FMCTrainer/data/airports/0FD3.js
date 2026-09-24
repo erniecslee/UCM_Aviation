@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FD3"]={"id":"0FD3","name":"DUGGER FLD","lat":30.496417,"lon":-86.093833,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

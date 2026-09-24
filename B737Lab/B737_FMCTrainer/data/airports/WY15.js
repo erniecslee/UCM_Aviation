@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY15"]={"id":"WY15","name":"BUNCH GRASS INTERGALACTIC","lat":44.689667,"lon":-108.678667,"elevation":4408,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

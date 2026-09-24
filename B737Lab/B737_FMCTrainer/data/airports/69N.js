@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69N"]={"id":"69N","name":"SLATINGTON","lat":40.763594,"lon":-75.604853,"elevation":380,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

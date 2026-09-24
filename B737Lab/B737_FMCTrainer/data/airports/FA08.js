@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA08"]={"id":"FA08","name":"ORLAMPA INC","lat":28.166961,"lon":-81.808133,"elevation":139,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

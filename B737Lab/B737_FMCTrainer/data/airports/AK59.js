@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK59"]={"id":"AK59","name":"KING RANCH","lat":61.7907,"lon":-148.352692,"elevation":1310,"region":"PA","runways":[{"id":"RW06","lat":61.790567,"lon":-148.357883,"length":1800,"course":63.9},{"id":"RW24","lat":61.790833,"lon":-148.3475,"length":1800,"course":243.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63CL"]={"id":"63CL","name":"G3 RANCH","lat":38.716569,"lon":-122.138583,"elevation":360,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

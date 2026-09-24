@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA53"]={"id":"MA53","name":"WARE","lat":42.282036,"lon":-72.214803,"elevation":483,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03ME"]={"id":"03ME","name":"MAPLE RIDGE","lat":44.084236,"lon":-70.627283,"elevation":556,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

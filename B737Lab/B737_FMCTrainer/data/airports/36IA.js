@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36IA"]={"id":"36IA","name":"TONNER FLD","lat":42.256975,"lon":-92.835389,"elevation":1076,"region":"K3","runways":[{"id":"RW18","lat":42.260403,"lon":-92.835503,"length":2500,"course":178.9},{"id":"RW36","lat":42.253544,"lon":-92.835278,"length":2500,"course":358.9}],"procedures":{"D":{},"E":{},"F":{}}};

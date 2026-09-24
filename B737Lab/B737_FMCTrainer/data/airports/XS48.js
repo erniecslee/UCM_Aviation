@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS48"]={"id":"XS48","name":"MARLIN'S MEADOW","lat":32.953889,"lon":-95.5775,"elevation":490,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

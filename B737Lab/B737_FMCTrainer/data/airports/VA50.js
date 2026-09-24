@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA50"]={"id":"VA50","name":"WOODS FARM AIRSTRIP","lat":37.715142,"lon":-77.302478,"elevation":57,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

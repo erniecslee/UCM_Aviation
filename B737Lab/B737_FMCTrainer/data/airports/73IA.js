@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73IA"]={"id":"73IA","name":"HARRIS FLD","lat":43.235556,"lon":-93.208333,"elevation":1180,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

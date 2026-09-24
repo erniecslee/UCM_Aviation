@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT73"]={"id":"VT73","name":"MELROSE SPRINGS AIRFIELD","lat":43.944861,"lon":-73.316833,"elevation":300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

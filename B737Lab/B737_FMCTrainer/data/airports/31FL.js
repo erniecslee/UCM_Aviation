@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31FL"]={"id":"31FL","name":"FOREVER FLORIDA","lat":28.043353,"lon":-81.019231,"elevation":54,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

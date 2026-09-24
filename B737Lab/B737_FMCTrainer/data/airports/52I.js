@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52I"]={"id":"52I","name":"GROSS","lat":43.846839,"lon":-84.012794,"elevation":618,"region":"K5","runways":[{"id":"RW09","lat":43.846881,"lon":-84.01615,"length":3300,"course":97.0},{"id":"RW27","lat":43.846761,"lon":-84.008211,"length":3300,"course":277.0}],"procedures":{"D":{},"E":{},"F":{}}};

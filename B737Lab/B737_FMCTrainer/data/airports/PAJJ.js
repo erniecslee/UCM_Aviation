@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAJJ"]={"id":"PAJJ","name":"TENAKEE","lat":57.779658,"lon":-135.218444,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN70"]={"id":"IN70","name":"BODIN","lat":41.63365,"lon":-87.026978,"elevation":675,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

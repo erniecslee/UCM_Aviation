@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61NC"]={"id":"61NC","name":"SOUTHERN COMFORTS AERODROME","lat":34.871275,"lon":-78.965583,"elevation":175,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

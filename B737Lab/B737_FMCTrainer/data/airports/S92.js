@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S92"]={"id":"S92","name":"FISH LAKE USFS","lat":46.330194,"lon":-115.063175,"elevation":5646,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

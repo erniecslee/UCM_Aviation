@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5F4"]={"id":"5F4","name":"HOMER MUNI","lat":32.7885,"lon":-93.003644,"elevation":244,"region":"K4","runways":[{"id":"RW12","lat":32.790864,"lon":-93.008036,"length":3200,"course":120.0},{"id":"RW30","lat":32.786136,"lon":-92.999253,"length":3200,"course":300.0}],"procedures":{"D":{},"E":{},"F":{}}};

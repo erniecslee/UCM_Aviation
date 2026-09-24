@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KHUA"]={"id":"KHUA","name":"REDSTONE AAF","lat":34.678661,"lon":-86.684792,"elevation":685,"region":"K7","runways":[{"id":"RW17","lat":34.688522,"lon":-86.687006,"length":7300,"course":173.5},{"id":"RW35","lat":34.6688,"lon":-86.682575,"length":7300,"course":353.5}],"procedures":{"D":{},"E":{},"F":{}}};

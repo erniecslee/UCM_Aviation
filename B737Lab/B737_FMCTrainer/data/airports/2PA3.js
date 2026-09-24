@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PA3"]={"id":"2PA3","name":"MARICI","lat":41.500083,"lon":-75.416292,"elevation":1400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

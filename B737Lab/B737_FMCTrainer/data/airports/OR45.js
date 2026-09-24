@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR45"]={"id":"OR45","name":"WEST POINT","lat":44.197069,"lon":-123.055919,"elevation":378,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

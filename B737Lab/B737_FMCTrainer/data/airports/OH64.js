@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH64"]={"id":"OH64","name":"HUMMEL","lat":39.593114,"lon":-84.343831,"elevation":695,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

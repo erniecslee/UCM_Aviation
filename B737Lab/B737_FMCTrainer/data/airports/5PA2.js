@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5PA2"]={"id":"5PA2","name":"DOUBLE D SKYRANCH","lat":41.035917,"lon":-76.022425,"elevation":1140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

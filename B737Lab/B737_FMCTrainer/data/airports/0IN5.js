@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IN5"]={"id":"0IN5","name":"BYRNE FLD","lat":38.328956,"lon":-86.033581,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

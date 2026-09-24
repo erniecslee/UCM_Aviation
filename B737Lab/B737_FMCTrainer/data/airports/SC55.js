@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC55"]={"id":"SC55","name":"BROXTON BRIDGE PLANTATION","lat":33.009367,"lon":-81.047864,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

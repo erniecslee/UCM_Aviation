@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC2"]={"id":"1NC2","name":"ATWELL","lat":35.654722,"lon":-80.789444,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

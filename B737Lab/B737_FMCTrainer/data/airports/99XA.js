@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99XA"]={"id":"99XA","name":"SKOTZ AIRFIELD","lat":30.8652,"lon":-98.004167,"elevation":1200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

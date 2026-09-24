@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OK4"]={"id":"8OK4","name":"BLACK I RANCH","lat":36.442222,"lon":-98.103889,"elevation":1322,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

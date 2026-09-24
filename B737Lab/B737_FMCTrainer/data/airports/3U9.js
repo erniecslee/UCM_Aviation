@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3U9"]={"id":"3U9","name":"BOULDER","lat":46.211667,"lon":-112.107611,"elevation":4968,"region":"K1","runways":[{"id":"RW11","lat":46.214889,"lon":-112.113178,"length":3675,"course":113.0},{"id":"RW29","lat":46.208439,"lon":-112.102019,"length":3675,"course":293.0}],"procedures":{"D":{},"E":{},"F":{}}};

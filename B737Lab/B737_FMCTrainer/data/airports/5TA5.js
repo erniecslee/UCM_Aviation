@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TA5"]={"id":"5TA5","name":"CREASY","lat":29.336069,"lon":-95.115206,"elevation":23,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

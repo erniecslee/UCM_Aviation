@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01E"]={"id":"01E","name":"LAKE JAMES","lat":41.7,"lon":-85.039306,"elevation":964,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

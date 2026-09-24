@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73WI"]={"id":"73WI","name":"VETTERKIND STRIP","lat":45.240517,"lon":-91.508772,"elevation":1080,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

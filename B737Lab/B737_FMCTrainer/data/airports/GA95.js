@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA95"]={"id":"GA95","name":"COLEMAN FLD","lat":33.526225,"lon":-84.50215,"elevation":1010,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

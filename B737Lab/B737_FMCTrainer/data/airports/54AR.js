@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54AR"]={"id":"54AR","name":"WINFIELD AIRPARK","lat":35.392856,"lon":-93.758706,"elevation":390,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

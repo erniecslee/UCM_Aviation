@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC79"]={"id":"SC79","name":"BERMUDA HIGH","lat":34.611267,"lon":-80.449792,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

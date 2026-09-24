@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6OR7"]={"id":"6OR7","name":"SCHMIDT","lat":45.452897,"lon":-122.321111,"elevation":650,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

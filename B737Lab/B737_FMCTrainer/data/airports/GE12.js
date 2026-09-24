@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE12"]={"id":"GE12","name":"RICHTER AIRPARK","lat":31.748611,"lon":-83.573611,"elevation":357,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

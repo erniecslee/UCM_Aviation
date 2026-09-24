@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WA6"]={"id":"1WA6","name":"FALL CITY","lat":47.559547,"lon":-121.863725,"elevation":140,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NY8"]={"id":"0NY8","name":"WENSKOSKI FLD","lat":42.997297,"lon":-74.245411,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

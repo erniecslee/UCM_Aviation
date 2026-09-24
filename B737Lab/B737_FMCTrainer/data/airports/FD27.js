@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD27"]={"id":"FD27","name":"CUYLER FLD","lat":30.362733,"lon":-82.226228,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

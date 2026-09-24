@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MT9"]={"id":"2MT9","name":"GOLD CREEK","lat":46.523139,"lon":-112.989833,"elevation":4956,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

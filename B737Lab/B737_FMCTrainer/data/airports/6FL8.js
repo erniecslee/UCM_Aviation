@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FL8"]={"id":"6FL8","name":"AMES FLD","lat":29.587556,"lon":-82.87125,"elevation":64,"region":"K7","runways":[{"id":"RW18","lat":29.590903,"lon":-82.871258,"length":2600,"course":181.7},{"id":"RW36","lat":29.584258,"lon":-82.871225,"length":2600,"course":1.7}],"procedures":{"D":{},"E":{},"F":{}}};

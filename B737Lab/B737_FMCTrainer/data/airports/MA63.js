@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA63"]={"id":"MA63","name":"SHERMAN-PVT","lat":42.073992,"lon":-70.798097,"elevation":34,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

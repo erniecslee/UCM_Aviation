@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG44"]={"id":"VG44","name":"FRONTIER","lat":37.581944,"lon":-78.357933,"elevation":470,"region":"K6","runways":[{"id":"RW14","lat":37.585119,"lon":-78.360658,"length":2800,"course":155.5},{"id":"RW32","lat":37.578769,"lon":-78.355208,"length":2800,"course":335.5}],"procedures":{"D":{},"E":{},"F":{}}};

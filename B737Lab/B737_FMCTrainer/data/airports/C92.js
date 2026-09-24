@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C92"]={"id":"C92","name":"MENTONE","lat":41.150044,"lon":-86.062497,"elevation":860,"region":"K5","runways":[{"id":"RW18","lat":41.150114,"lon":-86.064444,"length":2521,"course":182.0},{"id":"RW36","lat":41.143194,"lon":-86.064444,"length":2521,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK00"]={"id":"OK00","name":"JACKTOWN","lat":35.51625,"lon":-97.022111,"elevation":954,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

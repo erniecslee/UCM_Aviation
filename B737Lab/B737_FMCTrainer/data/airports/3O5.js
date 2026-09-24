@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3O5"]={"id":"3O5","name":"WALTERS MUNI","lat":34.372583,"lon":-98.405886,"elevation":1058,"region":"K4","runways":[{"id":"RW16","lat":34.373114,"lon":-98.406747,"length":2900,"course":167.0},{"id":"RW34","lat":34.365192,"lon":-98.405708,"length":2900,"course":347.0}],"procedures":{"D":{},"E":{},"F":{}}};

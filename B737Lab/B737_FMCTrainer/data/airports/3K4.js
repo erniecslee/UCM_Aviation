@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3K4"]={"id":"3K4","name":"BORTH FLD","lat":37.307608,"lon":-100.476314,"elevation":2707,"region":"K3","runways":[{"id":"RW09","lat":37.307617,"lon":-100.480236,"length":2282,"course":85.3},{"id":"RW27","lat":37.307597,"lon":-100.472392,"length":2282,"course":265.3}],"procedures":{"D":{},"E":{},"F":{}}};

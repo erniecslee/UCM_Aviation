@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AL8"]={"id":"2AL8","name":"FINKLEY FARM","lat":32.421111,"lon":-85.248056,"elevation":413,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33WA"]={"id":"33WA","name":"FRANZ RANCH","lat":47.049867,"lon":-118.851111,"elevation":1478,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

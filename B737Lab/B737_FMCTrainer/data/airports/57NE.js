@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57NE"]={"id":"57NE","name":"COLE MEML","lat":42.924167,"lon":-101.693758,"elevation":3259,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

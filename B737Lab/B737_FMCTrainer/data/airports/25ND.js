@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25ND"]={"id":"25ND","name":"LANDEIS AIRSTRIP","lat":46.866589,"lon":-100.986447,"elevation":1853,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

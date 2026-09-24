@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70D"]={"id":"70D","name":"TITUS FLD","lat":39.498889,"lon":-79.853139,"elevation":1863,"region":"K6","runways":[{"id":"RW09","lat":39.498419,"lon":-79.857353,"length":2400,"course":89.0},{"id":"RW27","lat":39.499361,"lon":-79.848933,"length":2400,"course":269.0}],"procedures":{"D":{},"E":{},"F":{}}};

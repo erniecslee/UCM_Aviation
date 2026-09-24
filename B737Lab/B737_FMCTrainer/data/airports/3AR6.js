@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR6"]={"id":"3AR6","name":"CRYSTAL RIDGE","lat":34.727578,"lon":-92.516839,"elevation":505,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

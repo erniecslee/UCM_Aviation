@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37TE"]={"id":"37TE","name":"FREYER FLD","lat":29.360233,"lon":-95.009925,"elevation":13,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

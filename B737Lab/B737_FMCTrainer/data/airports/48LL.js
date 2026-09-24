@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48LL"]={"id":"48LL","name":"ROCK CUT FARMS","lat":42.125303,"lon":-89.459,"elevation":812,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

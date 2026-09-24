@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TA3"]={"id":"5TA3","name":"PEARSON RANCH PRIVATE","lat":29.358578,"lon":-97.144708,"elevation":350,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

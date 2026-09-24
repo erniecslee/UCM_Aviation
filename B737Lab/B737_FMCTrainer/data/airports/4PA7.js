@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PA7"]={"id":"4PA7","name":"SUNBURST FLD","lat":40.058783,"lon":-76.437653,"elevation":435,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

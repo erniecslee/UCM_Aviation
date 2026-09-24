@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI68"]={"id":"MI68","name":"BARODA","lat":41.937544,"lon":-86.501408,"elevation":645,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR70"]={"id":"NR70","name":"SOARING Q RANCH","lat":35.7773,"lon":-80.520706,"elevation":765,"region":"K7","runways":[{"id":"RW06","lat":35.776181,"lon":-80.5231,"length":1638,"course":68.5},{"id":"RW24","lat":35.778419,"lon":-80.518311,"length":1638,"course":248.5}],"procedures":{"D":{},"E":{},"F":{}}};

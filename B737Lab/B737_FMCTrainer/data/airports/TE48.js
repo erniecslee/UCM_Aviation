@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE48"]={"id":"TE48","name":"KINGS RANCH","lat":31.044897,"lon":-98.042803,"elevation":1025,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

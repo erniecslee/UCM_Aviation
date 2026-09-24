@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI2"]={"id":"5WI2","name":"PLAINFIELD INTL","lat":44.222472,"lon":-89.4954,"elevation":1110,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

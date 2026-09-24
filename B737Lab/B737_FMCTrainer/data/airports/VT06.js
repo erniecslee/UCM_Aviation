@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT06"]={"id":"VT06","name":"SANTA'S","lat":43.004444,"lon":-72.473694,"elevation":673,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

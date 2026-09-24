@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51FL"]={"id":"51FL","name":"CHIEFLAND SKY RANCH","lat":29.394944,"lon":-82.869778,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

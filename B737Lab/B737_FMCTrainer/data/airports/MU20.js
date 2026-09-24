@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU20"]={"id":"MU20","name":"ROBBINS","lat":38.945564,"lon":-93.964667,"elevation":910,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

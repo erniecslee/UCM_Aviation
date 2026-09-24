@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA33"]={"id":"NA33","name":"RIPPLINGER STRIP","lat":48.001117,"lon":-99.925964,"elevation":1600,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92WI"]={"id":"92WI","name":"KNIGHT AIRE","lat":45.296111,"lon":-89.641111,"elevation":1605,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

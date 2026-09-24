@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MO7"]={"id":"3MO7","name":"KELLY FLD","lat":37.958725,"lon":-90.627653,"elevation":698,"region":"K3","runways":[{"id":"RW01","lat":37.95465,"lon":-90.628414,"length":3000,"course":10.1},{"id":"RW19","lat":37.9628,"lon":-90.626889,"length":3000,"course":190.1}],"procedures":{"D":{},"E":{},"F":{}}};

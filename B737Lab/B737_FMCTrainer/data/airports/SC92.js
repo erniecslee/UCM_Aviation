@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC92"]={"id":"SC92","name":"RAMBOS FLD","lat":34.103175,"lon":-82.281792,"elevation":550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

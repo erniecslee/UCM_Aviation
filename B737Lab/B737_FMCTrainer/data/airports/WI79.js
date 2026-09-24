@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI79"]={"id":"WI79","name":"TOWN LINE","lat":44.852744,"lon":-90.556528,"elevation":1270,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58SC"]={"id":"58SC","name":"CHERRY GROVE","lat":34.204861,"lon":-78.966944,"elevation":104,"region":"K7","runways":[{"id":"RW18","lat":34.207222,"lon":-78.967222,"length":1727,"course":183.4},{"id":"RW36","lat":34.2025,"lon":-78.966667,"length":1727,"course":3.4}],"procedures":{"D":{},"E":{},"F":{}}};

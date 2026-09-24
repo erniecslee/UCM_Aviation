@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY62"]={"id":"MY62","name":"ULTRAFLYTE, INC","lat":46.665239,"lon":-94.343328,"elevation":1270,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

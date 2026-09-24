@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AutoFlyingMule Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=B612:wght@400;700&family=B612+Mono:wght@400;700&family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../B737_FMCTrainer/fmc-cdu.css">
+<link rel="icon" type="image/png" href="assets/mule.png">
+<link rel="stylesheet" href="lab.css">
+</head>
+<body>
+<div id="stage">
+<header class="top">
+  <div class="brand"><img class="logo" src="assets/mule.png" alt="AutoFlyingMule"><h1>AutoFlyingMule Lab</h1><span class="tag">v0.5</span></div>
+  <div class="sitbar" role="group" aria-label="FMC situation">
+    <label for="sit-o">From</label><input id="sit-o" list="airports" value="KMCI" maxlength="4" autocomplete="off">
+    <label for="sit-d">To</label><input id="sit-d" list="airports" value="KSTL" maxlength="4" autocomplete="off">
+    <select id="sit-p" aria-label="Situation"><option value="preflight">Preflight · empty FMC</option><option value="runway">At runway · takeoff</option><option value="cruise" selected>En route · cruise</option><option value="takeoff">After takeoff</option><option value="arrival">Terminal · arrival</option></select>
+    <button id="sitload" class="go">Load</button>
+    <datalist id="airports"></datalist>
+  </div>
+  <select id="alvar" aria-label="Autoland version"><option value="FO" selected>Autoland: fail-operational</option><option value="FP">Autoland: fail-passive</option></select>
+  <button id="engstart" class="go" hidden title="Both engines to idle (no starter or fuel switches)">Quick ENG Start</button>
+  <span class="windbox" title="Wind FROM (degrees magnetic) / speed (kt), same at every altitude">Wind <input id="wdir" value="0" maxlength="3" inputmode="numeric" aria-label="Wind direction, degrees magnetic">°/<input id="wspd" value="0" maxlength="2" inputmode="numeric" aria-label="Wind speed, knots"> kt</span>
+  <label class="chk" title="Training aid: with the A/P off, the airplane follows the flight director unless you move the control column"><input type="checkbox" id="follow" checked> F/D auto-follow</label>
+  <button id="col-btn" class="go" title="Open the control column (pitch and bank)">✥ Control column</button>
+  <div class="sim" role="group" aria-label="Simulation control">
+    <button id="pp" aria-label="Pause or resume">❚❚</button>
+    <button data-sp="1" class="on">1×</button><button data-sp="4">4×</button><button data-sp="16">16×</button><button data-sp="64">64×</button>
+    <span class="clock" id="clk">T+00:00</span>
+  </div>
+</header>
+
+<div class="toprow">
+  <div class="unit flush"><svg id="efissvg" class="svgp" viewBox="0 0 400 290" role="group" aria-label="EFIS control panel"></svg></div>
+  <div class="mcpwrap"><svg id="mcpsvg" class="svgp" viewBox="0 0 1800 384" role="group" aria-label="Mode control panel"></svg></div>
+  <div class="unit navu">
+    <div class="uh"><span class="lbl">VHF NAV</span><button class="lt sw" id="ilschart" title="ILS frequencies of the origin and destination airports">ILS list</button></div>
+    <svg id="nav1svg" class="svgp" viewBox="0 0 400 200" role="group" aria-label="VHF NAV control"></svg>
+    <div id="ilstable" class="hint" hidden></div>
+  </div>
+</div>
+
+<main class="deckrow">
+  <section class="unit">
+    <div class="uh"><span class="lbl">PFD</span>
+      <div class="lights"><button class="lt sw" id="apsw" title="A/P disengage switch (control wheel)">A/P DISC SW</button><button class="lt" id="aplt" title="A/P disengage light — click to reset">A/P</button><button class="lt" id="atlt" title="A/T disengage light — click to reset">A/T</button></div></div>
+    <div class="cv"><canvas id="pfd"></canvas></div>
+  </section>
+  <section class="unit">
+    <div class="uh"><span class="lbl">ND + VSD</span><span class="hint" id="ndhint"></span></div>
+    <div class="cv"><canvas id="nd"></canvas></div>
+  </section>
+  <section class="rightcol">
+    <div class="unit">
+      <div class="uh"><span class="lbl">Control stand</span></div>
+      <svg id="standsvg" class="svgp" viewBox="0 0 400 320" role="group" aria-label="Control stand"></svg>
+    </div>
+    <div class="unit thr">
+      <div class="uh"><span class="lbl">Thrust levers</span></div>
+      <div class="thrbody">
+        <div class="quad" id="quad"><div class="track" id="track">
+          <div class="scale" id="scale"></div>
+          <div class="lv a" id="lva" data-n="1"><b class="atd" data-atd title="A/T disengage switch"></b><i class="toga" data-toga>TO/GA</i></div><div class="lv b" id="lvb" data-n="2"><b class="atd" data-atd title="A/T disengage switch"></b><i class="toga" data-toga>TO/GA</i></div></div></div>
+        <div class="thrside">
+          <div class="gauges"><canvas id="g1" width="200" height="200"></canvas><canvas id="g2" width="200" height="200"></canvas></div>
+          <dl class="atst"><dt>A/T</dt><dd id="atS">ARM</dd><dt>N1 cmd</dt><dd id="n1c">--</dd><dt>Lever</dt><dd id="lvS">--</dd><dt>Fuel</dt><dd id="fuelS">--</dd></dl>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p class="msg" id="msg" role="status"></p>
+  <p class="status" id="sitstatus" role="status">Loading navigation data…</p>
+  <p class="hint">SPD / HDG / ALT knobs: drag around the knob or scroll (Shift = big step) · bank ring: click · V/S wheel: drag or scroll · thrust levers: drag · Mode logic follows the 737NG FCOM chapter 4; N1 from the FCOM PI tables; route, ILS and magnetic variation from the FMC data (FAA CIFP 2609, WMM2025). Wind is not simulated yet.</p>
+  <p class="sig">Instructional use only · Simplified B737NG behavior · Not for flight navigation · Created by Lee, C.S. · For educational, non-commercial use only</p>
+</footer>
+</div>
+
+<button id="scope-tab" aria-controls="scope-drawer">TIME HISTORY</button>
+<aside id="scope-drawer" aria-label="Time history">
+  <div class="dh"><span class="lbl">Time history — how the airplane actually performs</span><div class="rng" id="win" role="group" aria-label="Time window"></div><button id="scope-close">Close ✕</button></div>
+  <div class="cv scopecv"><canvas id="scope"></canvas></div>
+  <div class="legend"><span><i></i>actual</span><span><i class="m"></i>target / command</span><span>Top bands: the mode that was active, and when it changed. Hover to read values.</span></div>
+</aside>
+
+<button id="col-tab" aria-controls="col-drawer">CONTROL COLUMN</button>
+<aside id="col-drawer" aria-label="Control column" title="Drag inside the picture: left/right = roll, down = pull, up = push. Release to center. Arrow keys work while open. Red button = A/P disengage. Drag the title bar to move this panel.">
+  <div class="dh"><span class="lbl">Control column</span><button id="col-close">✕</button></div>
+  <svg id="colsvg" viewBox="-120 -90 240 180" role="img" aria-label="Drag to move the control column"></svg>
+  <div class="readout" id="colread"></div>
+    <button id="brakebtn" class="lt sw" style="width:100%;padding:6px;margin-top:6px;font-size:11px">Hold for wheel brakes</button>
+</aside>
+<button id="cdu-tab" aria-controls="cdu-drawer">FMC · CDU</button>
+<aside id="cdu-drawer" aria-label="FMC control display unit">
+  <div class="dh"><span class="lbl">FMC — control display unit</span><button id="cdu-close">Close ✕</button></div>
+  <div id="cdu-host"></div>
+  <p class="cdu-note">Click the line-select keys and keypad, or type on your keyboard while this drawer is open. Enter = EXEC · Backspace = CLR · Esc closes the drawer.</p>
+</aside>
+<div id="toast" role="status" class="toast" hidden></div>
+
+<script>window.FMC_BASE='../B737_FMCTrainer/';</script>
+<script src="../B737_FMCTrainer/data/nav-core.js"></script>
+<script src="../B737_FMCTrainer/data/nav-ils.js"></script>
+<script src="../B737_FMCTrainer/fmc-magvar.js"></script>
+<script src="../B737_FMCTrainer/fmc-n1.js"></script>
+<script src="../B737_FMCTrainer/fmc-config.js"></script>
+<script src="../B737_FMCTrainer/fmc-core.js"></script>
+<script src="js/geo.js"></script>
+<script src="js/afds.js"></script>
+<script src="js/vnav.js"></script>
+<script src="js/ground.js"></script>
+<script src="js/nav.js"></script>
+<script src="js/fmcbridge.js"></script>
+<script src="js/panels.js"></script>
+<script src="js/config.js"></script>
+<script src="js/displays.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

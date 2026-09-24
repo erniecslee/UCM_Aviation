@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K16"]={"id":"K16","name":"BECKS GROVE","lat":43.250847,"lon":-75.604361,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

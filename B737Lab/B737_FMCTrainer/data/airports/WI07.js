@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI07"]={"id":"WI07","name":"WAUPUN","lat":43.622211,"lon":-88.766775,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

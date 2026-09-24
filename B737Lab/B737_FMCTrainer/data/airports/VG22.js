@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG22"]={"id":"VG22","name":"ROCKFISH","lat":37.878819,"lon":-78.893558,"elevation":760,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

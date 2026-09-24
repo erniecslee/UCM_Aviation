@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N88"]={"id":"N88","name":"KECKS","lat":35.926525,"lon":-79.627525,"elevation":724,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

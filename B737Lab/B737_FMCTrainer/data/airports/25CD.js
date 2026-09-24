@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25CD"]={"id":"25CD","name":"LUX FLD","lat":39.152333,"lon":-105.720167,"elevation":9300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

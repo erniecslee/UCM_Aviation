@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W20"]={"id":"W20","name":"MOSES LAKE MUNI","lat":47.142006,"lon":-119.237883,"elevation":1203,"region":"K1","runways":[{"id":"RW34","lat":47.138558,"lon":-119.237919,"length":2513,"course":341.4}],"procedures":{"D":{},"E":{},"F":{}}};

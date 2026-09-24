@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52NR"]={"id":"52NR","name":"DERKSEN","lat":35.527897,"lon":-79.396228,"elevation":449,"region":"K7","runways":[{"id":"RW18","lat":35.529881,"lon":-79.396372,"length":1447,"course":185.5},{"id":"RW36","lat":35.525914,"lon":-79.396083,"length":1447,"course":5.5}],"procedures":{"D":{},"E":{},"F":{}}};

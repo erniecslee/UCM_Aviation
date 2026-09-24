@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41IG"]={"id":"41IG","name":"PARKER FLD","lat":39.972111,"lon":-86.998806,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK2"]={"id":"OK2","name":"RED RIVER","lat":33.913975,"lon":-96.844703,"elevation":792,"region":"K4","runways":[{"id":"RW18","lat":33.916561,"lon":-96.844681,"length":1883,"course":177.8},{"id":"RW36","lat":33.911389,"lon":-96.844722,"length":1883,"course":357.8}],"procedures":{"D":{},"E":{},"F":{}}};

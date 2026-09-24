@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TX5"]={"id":"9TX5","name":"CAMP BULLIS ALS (CALS)","lat":29.744758,"lon":-98.537003,"elevation":1158,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR91"]={"id":"AR91","name":"CIRCLE S FARMS","lat":36.225908,"lon":-94.032144,"elevation":1200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

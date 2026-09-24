@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A30"]={"id":"A30","name":"SCOTT VALLEY","lat":41.557778,"lon":-122.854944,"elevation":2728,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

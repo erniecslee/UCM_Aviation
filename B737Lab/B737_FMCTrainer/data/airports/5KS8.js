@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KS8"]={"id":"5KS8","name":"JACK POORE","lat":39.818053,"lon":-101.348494,"elevation":3330,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

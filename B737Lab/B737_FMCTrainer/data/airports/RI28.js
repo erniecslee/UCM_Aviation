@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["RI28"]={"id":"RI28","name":"PLOUFFE LANDING","lat":41.875283,"lon":-71.5903,"elevation":328,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

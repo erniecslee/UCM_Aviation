@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN3"]={"id":"4TN3","name":"HAWKS NEST","lat":35.118333,"lon":-89.367778,"elevation":410,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

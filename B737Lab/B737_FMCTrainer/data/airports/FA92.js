@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA92"]={"id":"FA92","name":"THOMAS LANDING","lat":30.216861,"lon":-82.44475,"elevation":153,"region":"K7","runways":[{"id":"RW18","lat":30.237625,"lon":-82.444714,"length":6500,"course":187.5},{"id":"RW36","lat":30.219756,"lon":-82.445078,"length":6500,"course":7.5}],"procedures":{"D":{},"E":{},"F":{}}};

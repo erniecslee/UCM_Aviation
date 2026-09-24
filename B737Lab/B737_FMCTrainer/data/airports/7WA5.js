@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WA5"]={"id":"7WA5","name":"STUART ISLAND AIRPARK","lat":48.672878,"lon":-123.175744,"elevation":10,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

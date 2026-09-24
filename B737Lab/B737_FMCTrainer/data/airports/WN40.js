@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN40"]={"id":"WN40","name":"COUPEVILLE AIRPARK","lat":48.190375,"lon":-122.642944,"elevation":200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

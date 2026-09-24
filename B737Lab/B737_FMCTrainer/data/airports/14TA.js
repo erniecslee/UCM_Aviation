@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14TA"]={"id":"14TA","name":"WINDY HILL","lat":33.983633,"lon":-98.716006,"elevation":1057,"region":"K4","runways":[{"id":"RW16","lat":33.986031,"lon":-98.71665,"length":1789,"course":163.7},{"id":"RW34","lat":33.983378,"lon":-98.715936,"length":1789,"course":343.7}],"procedures":{"D":{},"E":{},"F":{}}};

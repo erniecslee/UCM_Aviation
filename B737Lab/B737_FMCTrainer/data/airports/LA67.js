@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA67"]={"id":"LA67","name":"ANGOLA AIRSTRIP","lat":30.951567,"lon":-91.584839,"elevation":45,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK06"]={"id":"OK06","name":"SNAKE CREEK WILDERNESS","lat":35.647778,"lon":-94.95,"elevation":1130,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

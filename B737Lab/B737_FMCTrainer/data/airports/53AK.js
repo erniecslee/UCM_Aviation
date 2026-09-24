@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53AK"]={"id":"53AK","name":"LAKEWOOD AIRSTRIP","lat":60.533861,"lon":-150.856464,"elevation":299,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

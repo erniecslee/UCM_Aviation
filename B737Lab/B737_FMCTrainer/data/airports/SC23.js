@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC23"]={"id":"SC23","name":"EAGLES NEST-FAIRVIEW AIRPARK","lat":33.764039,"lon":-81.358714,"elevation":460,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CKU"]={"id":"CKU","name":"CORDOVA MUNI","lat":60.543644,"lon":-145.725856,"elevation":59,"region":"PA","runways":[{"id":"RW06","lat":60.543403,"lon":-145.730828,"length":1800,"course":58.0},{"id":"RW24","lat":60.543886,"lon":-145.720881,"length":1800,"course":238.0}],"procedures":{"D":{},"E":{},"F":{}}};

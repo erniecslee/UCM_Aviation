@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23XA"]={"id":"23XA","name":"EL TEJANO","lat":29.427306,"lon":-95.162306,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

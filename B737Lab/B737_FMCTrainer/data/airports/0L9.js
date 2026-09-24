@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0L9"]={"id":"0L9","name":"ECHO BAY","lat":36.311039,"lon":-114.463894,"elevation":1535,"region":"K2","runways":[{"id":"RW07","lat":36.310125,"lon":-114.469553,"length":3400,"course":65.0},{"id":"RW25","lat":36.31195,"lon":-114.458236,"length":3400,"course":245.0}],"procedures":{"D":{},"E":{},"F":{}}};

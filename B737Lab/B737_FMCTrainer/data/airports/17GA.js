@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17GA"]={"id":"17GA","name":"PANTHER CREEK","lat":33.466667,"lon":-84.865667,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

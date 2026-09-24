@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F43"]={"id":"F43","name":"EL DORADO DOWNTOWN-STEVENS FLD","lat":33.19125,"lon":-92.663222,"elevation":256,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

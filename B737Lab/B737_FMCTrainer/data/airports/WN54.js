@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN54"]={"id":"WN54","name":"ELLERPORT","lat":47.7349,"lon":-117.071314,"elevation":2146,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

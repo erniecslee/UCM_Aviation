@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OR8"]={"id":"9OR8","name":"WOOLDRIDGE AGSTRIP","lat":44.732622,"lon":-123.05565,"elevation":205,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

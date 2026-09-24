@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI26"]={"id":"MI26","name":"CLOUD 9","lat":42.5515,"lon":-84.098289,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

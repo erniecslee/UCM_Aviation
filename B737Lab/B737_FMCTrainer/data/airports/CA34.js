@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA34"]={"id":"CA34","name":"ALA DOBLE","lat":38.6525,"lon":-122.028056,"elevation":250,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

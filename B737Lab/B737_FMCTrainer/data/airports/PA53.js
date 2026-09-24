@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA53"]={"id":"PA53","name":"COSKLOS ELKVIEW","lat":41.625903,"lon":-75.537764,"elevation":1737,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

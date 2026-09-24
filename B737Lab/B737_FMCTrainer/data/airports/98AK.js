@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98AK"]={"id":"98AK","name":"EASTLAND","lat":59.775842,"lon":-151.181631,"elevation":1190,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

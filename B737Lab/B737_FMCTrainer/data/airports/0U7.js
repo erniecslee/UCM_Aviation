@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0U7"]={"id":"0U7","name":"HOLLOW TOP","lat":43.32375,"lon":-113.5905,"elevation":5359,"region":"K1","runways":[{"id":"RW05","lat":43.322811,"lon":-113.595039,"length":2500,"course":58.0},{"id":"RW23","lat":43.324661,"lon":-113.585989,"length":2500,"course":238.0}],"procedures":{"D":{},"E":{},"F":{}}};

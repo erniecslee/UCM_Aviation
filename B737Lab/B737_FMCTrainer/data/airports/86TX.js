@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86TX"]={"id":"86TX","name":"FLYING J","lat":29.737167,"lon":-98.378903,"elevation":1055,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

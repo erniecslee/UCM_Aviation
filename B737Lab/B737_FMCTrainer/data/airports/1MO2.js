@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MO2"]={"id":"1MO2","name":"WINDSOAR","lat":38.545667,"lon":-93.507611,"elevation":930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

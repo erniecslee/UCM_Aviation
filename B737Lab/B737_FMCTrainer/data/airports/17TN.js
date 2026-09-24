@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17TN"]={"id":"17TN","name":"MURPHY FLD","lat":36.299444,"lon":-82.604167,"elevation":1720,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

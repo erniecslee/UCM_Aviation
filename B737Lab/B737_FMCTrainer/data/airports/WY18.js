@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY18"]={"id":"WY18","name":"IBERLIN RANCH NR 2","lat":43.558306,"lon":-106.0089,"elevation":5020,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64GE"]={"id":"64GE","name":"WCC","lat":33.726942,"lon":-85.311883,"elevation":956,"region":"K7","runways":[{"id":"RW09","lat":33.726328,"lon":-85.319097,"length":4409,"course":89.2},{"id":"RW27","lat":33.727553,"lon":-85.304672,"length":4409,"course":269.2}],"procedures":{"D":{},"E":{},"F":{}}};

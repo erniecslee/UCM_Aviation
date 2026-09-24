@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND1"]={"id":"2ND1","name":"WESTERLIND","lat":47.492497,"lon":-100.699856,"elevation":1910,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

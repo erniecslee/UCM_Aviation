@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV44"]={"id":"WV44","name":"MOUNDSVILLE","lat":39.929242,"lon":-80.765086,"elevation":623,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

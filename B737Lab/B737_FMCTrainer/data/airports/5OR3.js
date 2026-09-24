@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OR3"]={"id":"5OR3","name":"SILETZ","lat":44.730394,"lon":-123.915114,"elevation":100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

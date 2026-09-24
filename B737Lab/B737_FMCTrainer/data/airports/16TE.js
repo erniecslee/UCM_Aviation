@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16TE"]={"id":"16TE","name":"HOLLY LAKE RANCH","lat":32.697636,"lon":-95.207722,"elevation":409,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

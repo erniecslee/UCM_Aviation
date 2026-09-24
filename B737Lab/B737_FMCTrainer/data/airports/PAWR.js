@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAWR"]={"id":"PAWR","name":"WHITTIER","lat":60.777169,"lon":-148.719653,"elevation":39,"region":"PA","runways":[{"id":"RW04","lat":60.776033,"lon":-148.723078,"length":1480,"course":31.0},{"id":"RW22","lat":60.778306,"lon":-148.716228,"length":1480,"course":211.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS40"]={"id":"TS40","name":"SAN YSIDRO RANCH","lat":28.310953,"lon":-99.706531,"elevation":595,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04VG"]={"id":"04VG","name":"MANQUIN FLIGHT PARK","lat":37.714433,"lon":-77.211817,"elevation":50,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

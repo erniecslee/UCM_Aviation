@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L20"]={"id":"L20","name":"COAL CREEK","lat":65.311522,"lon":-143.134119,"elevation":867,"region":"PA","runways":[{"id":"RW01","lat":65.30705,"lon":-143.141067,"length":3900,"course":3.0},{"id":"RW19","lat":65.315992,"lon":-143.127172,"length":3900,"course":183.0}],"procedures":{"D":{},"E":{},"F":{}}};

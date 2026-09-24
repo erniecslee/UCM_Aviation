@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO43"]={"id":"CO43","name":"PINYON","lat":39.002761,"lon":-108.710375,"elevation":6980,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

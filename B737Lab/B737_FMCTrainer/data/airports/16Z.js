@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16Z"]={"id":"16Z","name":"MC GRATH","lat":62.957986,"lon":-155.593181,"elevation":325,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05ME"]={"id":"05ME","name":"DRISKO KELLEY","lat":44.657022,"lon":-67.559161,"elevation":70,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

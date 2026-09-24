@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE00"]={"id":"DE00","name":"DOYLE'S","lat":39.020722,"lon":-75.577094,"elevation":51,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

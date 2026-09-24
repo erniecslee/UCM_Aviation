@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TX7"]={"id":"7TX7","name":"RYAN AERODROME","lat":32.06945,"lon":-102.025692,"elevation":2740,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

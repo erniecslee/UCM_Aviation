@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA18"]={"id":"NA18","name":"HOUGHT AIRSTRIP","lat":48.413358,"lon":-103.835761,"elevation":2400,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XA1"]={"id":"5XA1","name":"LZ JULIET BRAVO","lat":31.630786,"lon":-97.707572,"elevation":1078,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

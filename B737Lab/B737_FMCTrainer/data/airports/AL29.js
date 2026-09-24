@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL29"]={"id":"AL29","name":"NEW HORIZON","lat":34.129264,"lon":-86.633328,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

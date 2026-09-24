@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18FD"]={"id":"18FD","name":"SKYPARK ESTATES OWNERS ASSOC","lat":30.854075,"lon":-86.667178,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

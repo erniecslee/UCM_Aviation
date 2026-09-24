@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KY6"]={"id":"5KY6","name":"HP FLD","lat":37.261114,"lon":-87.302953,"elevation":440,"region":"K5","runways":[{"id":"RW02","lat":37.258897,"lon":-87.303683,"length":1671,"course":18.7},{"id":"RW20","lat":37.263331,"lon":-87.302222,"length":1671,"course":198.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN17"]={"id":"MN17","name":"JACKSON FLD","lat":46.272189,"lon":-94.239442,"elevation":1225,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

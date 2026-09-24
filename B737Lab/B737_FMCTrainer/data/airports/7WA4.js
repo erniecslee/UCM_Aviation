@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WA4"]={"id":"7WA4","name":"HUMBERT","lat":47.8575,"lon":-117.779722,"elevation":1890,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

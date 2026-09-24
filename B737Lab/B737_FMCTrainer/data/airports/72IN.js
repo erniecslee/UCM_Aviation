@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72IN"]={"id":"72IN","name":"RIVER VIEW FLD","lat":41.178461,"lon":-87.318,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

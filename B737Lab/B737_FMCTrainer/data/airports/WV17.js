@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV17"]={"id":"WV17","name":"MICHAELS FARMS","lat":39.393694,"lon":-78.1565,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

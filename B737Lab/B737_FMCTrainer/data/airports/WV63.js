@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV63"]={"id":"WV63","name":"HEROLD","lat":38.334556,"lon":-80.653147,"elevation":2346,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

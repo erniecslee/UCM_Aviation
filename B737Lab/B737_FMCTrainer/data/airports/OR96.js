@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR96"]={"id":"OR96","name":"BEAGLE SKY RANCH","lat":42.539014,"lon":-122.903933,"elevation":1436,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

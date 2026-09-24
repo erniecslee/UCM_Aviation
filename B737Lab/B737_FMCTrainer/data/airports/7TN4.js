@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TN4"]={"id":"7TN4","name":"PEGASUS FLD","lat":35.172778,"lon":-89.5625,"elevation":380,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

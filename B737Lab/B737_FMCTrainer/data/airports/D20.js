@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D20"]={"id":"D20","name":"YALE","lat":43.111053,"lon":-82.786719,"elevation":815,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

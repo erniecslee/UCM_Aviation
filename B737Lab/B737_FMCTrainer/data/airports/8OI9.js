@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OI9"]={"id":"8OI9","name":"MORKASSEL FLD","lat":39.099236,"lon":-83.116569,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39P"]={"id":"39P","name":"STROM FLD","lat":46.550361,"lon":-122.266625,"elevation":941,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

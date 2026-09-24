@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TS9"]={"id":"2TS9","name":"MCBEE FLD","lat":32.757417,"lon":-96.057222,"elevation":543,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

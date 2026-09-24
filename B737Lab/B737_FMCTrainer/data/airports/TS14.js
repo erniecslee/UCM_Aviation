@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS14"]={"id":"TS14","name":"SMITH FLYING SERVICE","lat":32.108667,"lon":-98.488,"elevation":1275,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

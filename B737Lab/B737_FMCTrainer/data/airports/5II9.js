@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5II9"]={"id":"5II9","name":"AERO PLAINES","lat":39.352817,"lon":-87.373353,"elevation":570,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PA8"]={"id":"8PA8","name":"SUNNY REST","lat":40.816758,"lon":-75.6663,"elevation":980,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

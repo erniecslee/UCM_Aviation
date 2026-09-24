@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88IN"]={"id":"88IN","name":"SEIB","lat":38.133139,"lon":-87.785764,"elevation":428,"region":"K5","runways":[{"id":"RW09","lat":38.133172,"lon":-87.788483,"length":2565,"course":94.6},{"id":"RW27","lat":38.133083,"lon":-87.781306,"length":2565,"course":274.6}],"procedures":{"D":{},"E":{},"F":{}}};

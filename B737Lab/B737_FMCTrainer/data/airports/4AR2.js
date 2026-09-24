@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AR2"]={"id":"4AR2","name":"RED OAK","lat":34.910453,"lon":-92.006975,"elevation":315,"region":"K4","runways":[{"id":"RW09","lat":34.910553,"lon":-92.01315,"length":3700,"course":89.1},{"id":"RW27","lat":34.910356,"lon":-92.000803,"length":3700,"course":269.1}],"procedures":{"D":{},"E":{},"F":{}}};

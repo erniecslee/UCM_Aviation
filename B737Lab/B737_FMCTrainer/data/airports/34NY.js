@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34NY"]={"id":"34NY","name":"HORIZON AIR","lat":42.980775,"lon":-76.930489,"elevation":490,"region":"K6","runways":[{"id":"RW01","lat":42.975972,"lon":-76.930128,"length":3505,"course":8.3},{"id":"RW19","lat":42.985575,"lon":-76.930847,"length":3505,"course":188.3}],"procedures":{"D":{},"E":{},"F":{}}};

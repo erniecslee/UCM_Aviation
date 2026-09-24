@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2DE8"]={"id":"2DE8","name":"MURPHY'S LANDING","lat":38.913572,"lon":-75.345336,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

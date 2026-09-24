@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AL5"]={"id":"5AL5","name":"BIG RIVER AIRPARK","lat":34.692086,"lon":-87.651219,"elevation":505,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

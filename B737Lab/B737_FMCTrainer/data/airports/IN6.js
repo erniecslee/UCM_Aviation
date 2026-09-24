@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN6"]={"id":"IN6","name":"HUDSON LAKE","lat":41.713967,"lon":-86.546017,"elevation":761,"region":"K5","runways":[{"id":"RW11W","lat":41.715211,"lon":-86.550742,"length":2675,"course":114.3},{"id":"RW29W","lat":41.712783,"lon":-86.541497,"length":2675,"course":294.3}],"procedures":{"D":{},"E":{},"F":{}}};

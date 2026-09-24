@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3ID2"]={"id":"3ID2","name":"THE LAST RESORT","lat":46.350675,"lon":-115.977,"elevation":3155,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

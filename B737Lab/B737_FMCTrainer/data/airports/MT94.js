@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT94"]={"id":"MT94","name":"OUSEL FALLS","lat":45.246594,"lon":-111.328567,"elevation":6600,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

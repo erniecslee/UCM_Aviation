@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA55"]={"id":"MA55","name":"MUSKEGET ISLAND","lat":41.334844,"lon":-70.299464,"elevation":90,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

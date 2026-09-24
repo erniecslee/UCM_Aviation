@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4CA2"]={"id":"4CA2","name":"FUNNY FARM","lat":37.946867,"lon":-121.647453,"elevation":29,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

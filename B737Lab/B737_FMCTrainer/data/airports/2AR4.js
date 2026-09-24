@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AR4"]={"id":"2AR4","name":"MC CRORY/MORTON","lat":35.228417,"lon":-91.093167,"elevation":222,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

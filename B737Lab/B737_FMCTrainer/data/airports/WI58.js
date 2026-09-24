@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI58"]={"id":"WI58","name":"WINFIELD","lat":42.522242,"lon":-88.027861,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

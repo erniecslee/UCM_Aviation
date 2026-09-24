@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA31"]={"id":"IA31","name":"BEEDS LAKE","lat":42.765208,"lon":-93.246003,"elevation":1149,"region":"K3","runways":[{"id":"RW11","lat":42.7668,"lon":-93.249892,"length":2390,"course":116.0},{"id":"RW29","lat":42.763617,"lon":-93.242111,"length":2390,"course":296.0}],"procedures":{"D":{},"E":{},"F":{}}};

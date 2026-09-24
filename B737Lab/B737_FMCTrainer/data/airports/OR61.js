@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR61"]={"id":"OR61","name":"APPLE VALLEY","lat":45.678444,"lon":-123.186222,"elevation":247,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

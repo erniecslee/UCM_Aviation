@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ17"]={"id":"AZ17","name":"CIRCLE H RANCH","lat":31.502222,"lon":-109.391111,"elevation":4680,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

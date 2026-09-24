@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9S7"]={"id":"9S7","name":"WINIFRED","lat":47.555389,"lon":-109.386711,"elevation":3354,"region":"K1","runways":[{"id":"RW08","lat":47.555381,"lon":-109.395619,"length":4400,"course":74.0},{"id":"RW26","lat":47.555397,"lon":-109.3778,"length":4400,"course":254.0}],"procedures":{"D":{},"E":{},"F":{}}};

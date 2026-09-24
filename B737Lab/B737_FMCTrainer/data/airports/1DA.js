@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1DA"]={"id":"1DA","name":"BIG BAR USFS","lat":45.534578,"lon":-116.530917,"elevation":1236,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

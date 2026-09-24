@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE70"]={"id":"TE70","name":"BFS","lat":34.131525,"lon":-101.42285,"elevation":3268,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

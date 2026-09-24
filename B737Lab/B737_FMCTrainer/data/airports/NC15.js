@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC15"]={"id":"NC15","name":"RAEFORD RHYNE AIRPARK","lat":35.957078,"lon":-80.978964,"elevation":1140,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

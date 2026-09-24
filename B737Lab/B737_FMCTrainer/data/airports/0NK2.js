@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NK2"]={"id":"0NK2","name":"WESTWIND FARM","lat":42.983408,"lon":-74.016239,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

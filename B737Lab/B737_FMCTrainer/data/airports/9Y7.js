@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9Y7"]={"id":"9Y7","name":"BARRON MUNI","lat":45.408142,"lon":-91.832625,"elevation":1110,"region":"K5","runways":[{"id":"RW09","lat":45.408142,"lon":-91.835178,"length":2010,"course":88.1},{"id":"RW27","lat":45.408136,"lon":-91.828714,"length":2010,"course":268.1}],"procedures":{"D":{},"E":{},"F":{}}};

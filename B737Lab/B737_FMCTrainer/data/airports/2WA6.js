@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WA6"]={"id":"2WA6","name":"RICE RANCH","lat":47.998208,"lon":-119.088636,"elevation":2434,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

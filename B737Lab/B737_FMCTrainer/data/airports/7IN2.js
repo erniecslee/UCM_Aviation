@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IN2"]={"id":"7IN2","name":"FLYING CROWN","lat":41.501389,"lon":-84.878333,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

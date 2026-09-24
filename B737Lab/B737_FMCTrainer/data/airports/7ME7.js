@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7ME7"]={"id":"7ME7","name":"STEVENS FLD","lat":45.211428,"lon":-69.154472,"elevation":420,"region":"K6","runways":[{"id":"RW14","lat":45.212222,"lon":-69.157778,"length":1800,"course":123.9},{"id":"RW32","lat":45.210636,"lon":-69.151164,"length":1800,"course":303.9}],"procedures":{"D":{},"E":{},"F":{}}};

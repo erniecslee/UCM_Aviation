@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OI6"]={"id":"1OI6","name":"STONE","lat":39.770056,"lon":-84.416614,"elevation":978,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

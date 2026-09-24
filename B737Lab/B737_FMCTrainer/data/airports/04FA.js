@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04FA"]={"id":"04FA","name":"RICHARDS FLD","lat":25.558719,"lon":-80.515058,"elevation":9,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

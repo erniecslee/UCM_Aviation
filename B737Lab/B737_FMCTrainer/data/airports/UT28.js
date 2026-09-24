@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT28"]={"id":"UT28","name":"SUN VALLEY ESTATES","lat":37.974969,"lon":-113.463297,"elevation":5110,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

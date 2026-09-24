@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28CA"]={"id":"28CA","name":"DOS PALOS","lat":36.962447,"lon":-120.630183,"elevation":118,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

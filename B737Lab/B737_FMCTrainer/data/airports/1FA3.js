@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1FA3"]={"id":"1FA3","name":"PINE ISLAND","lat":26.657856,"lon":-82.12115,"elevation":12,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

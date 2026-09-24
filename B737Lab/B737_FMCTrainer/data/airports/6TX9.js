@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TX9"]={"id":"6TX9","name":"STOVALL RANCH NR 4","lat":29.854914,"lon":-102.791544,"elevation":3010,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

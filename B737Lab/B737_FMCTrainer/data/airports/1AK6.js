@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AK6"]={"id":"1AK6","name":"TALACHULITNA RIVER","lat":61.856139,"lon":-151.397972,"elevation":282,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

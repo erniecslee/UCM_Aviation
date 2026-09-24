@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93TE"]={"id":"93TE","name":"MAYHEW RANCH NR 1","lat":29.809636,"lon":-102.908497,"elevation":2783,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A69"]={"id":"A69","name":"TANIS MESA","lat":59.249597,"lon":-138.504167,"elevation":183,"region":"PA","runways":[{"id":"RW12","lat":59.251842,"lon":-138.506725,"length":1900,"course":121.7},{"id":"RW30","lat":59.247353,"lon":-138.501606,"length":1900,"course":301.7}],"procedures":{"D":{},"E":{},"F":{}}};

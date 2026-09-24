@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR12"]={"id":"OR12","name":"OXBOW","lat":45.004322,"lon":-116.849047,"elevation":1806,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

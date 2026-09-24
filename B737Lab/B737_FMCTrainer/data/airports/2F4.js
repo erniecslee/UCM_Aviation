@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2F4"]={"id":"2F4","name":"T-BAR","lat":33.181,"lon":-101.819389,"elevation":3126,"region":"K4","runways":[{"id":"RW08","lat":33.181056,"lon":-101.823533,"length":2543,"course":82.0},{"id":"RW26","lat":33.180939,"lon":-101.815219,"length":2543,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

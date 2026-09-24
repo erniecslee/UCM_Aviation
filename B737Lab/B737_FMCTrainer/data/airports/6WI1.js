@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WI1"]={"id":"6WI1","name":"WINCH AIRFIELD","lat":44.495239,"lon":-89.912628,"elevation":1120,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

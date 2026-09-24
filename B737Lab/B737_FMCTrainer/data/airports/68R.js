@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68R"]={"id":"68R","name":"HAMP","lat":43.399486,"lon":-84.801244,"elevation":825,"region":"K5","runways":[{"id":"RW09","lat":43.399483,"lon":-84.801656,"length":2580,"course":94.0},{"id":"RW27","lat":43.3995,"lon":-84.796389,"length":2580,"course":274.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7B3"]={"id":"7B3","name":"HAMPTON AIRFIELD","lat":42.961269,"lon":-70.830156,"elevation":93,"region":"K6","runways":[{"id":"RW02","lat":42.958381,"lon":-70.8302,"length":2105,"course":17.0},{"id":"RW20","lat":42.963575,"lon":-70.830119,"length":2105,"course":197.0}],"procedures":{"D":{},"E":{},"F":{}}};

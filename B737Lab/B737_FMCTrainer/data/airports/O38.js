@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O38"]={"id":"O38","name":"GUNDYS","lat":36.266764,"lon":-95.783597,"elevation":720,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

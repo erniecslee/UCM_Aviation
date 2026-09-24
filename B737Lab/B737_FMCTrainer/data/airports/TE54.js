@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE54"]={"id":"TE54","name":"WRIGHT","lat":31.138125,"lon":-100.274886,"elevation":2440,"region":"K4","runways":[{"id":"RW06","lat":31.137636,"lon":-100.276083,"length":1229,"course":60.1},{"id":"RW24","lat":31.138611,"lon":-100.273689,"length":1229,"course":240.1}],"procedures":{"D":{},"E":{},"F":{}}};

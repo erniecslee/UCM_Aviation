@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TA5"]={"id":"8TA5","name":"SHORT STOP","lat":33.163172,"lon":-96.322203,"elevation":640,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

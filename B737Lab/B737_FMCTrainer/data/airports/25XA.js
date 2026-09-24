@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25XA"]={"id":"25XA","name":"HEADWATERS","lat":30.092986,"lon":-98.701236,"elevation":1974,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

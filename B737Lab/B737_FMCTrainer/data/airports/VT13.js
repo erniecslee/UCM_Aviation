@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT13"]={"id":"VT13","name":"HOLLOWAY","lat":43.300075,"lon":-72.717597,"elevation":1520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

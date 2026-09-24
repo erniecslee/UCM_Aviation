@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X44"]={"id":"X44","name":"MIAMI","lat":25.778333,"lon":-80.170278,"elevation":6,"region":"K7","runways":[{"id":"RW12W","lat":25.783072,"lon":-80.179567,"length":14000,"course":123.0},{"id":"RW30W","lat":25.766492,"lon":-80.141161,"length":14000,"course":303.0}],"procedures":{"D":{},"E":{},"F":{}}};

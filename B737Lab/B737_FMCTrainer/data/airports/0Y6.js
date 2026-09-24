@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0Y6"]={"id":"0Y6","name":"LAKE MILLS MUNI","lat":43.413667,"lon":-93.51175,"elevation":1260,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51MY"]={"id":"51MY","name":"AB SQUARED","lat":47.8952,"lon":-92.278328,"elevation":1358,"region":"K3","runways":[{"id":"RW09W","lat":47.894806,"lon":-92.289053,"length":5270,"course":88.1},{"id":"RW27W","lat":47.895594,"lon":-92.267603,"length":5270,"course":268.1}],"procedures":{"D":{},"E":{},"F":{}}};

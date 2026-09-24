@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NR4"]={"id":"3NR4","name":"PARRISH","lat":36.280833,"lon":-76.336667,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

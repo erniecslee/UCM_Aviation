@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL35"]={"id":"FL35","name":"GERACI AIRPARK","lat":28.175,"lon":-82.487778,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

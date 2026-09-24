@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT47"]={"id":"UT47","name":"GRASSY MEADOWS/SKY RANCH LANDO","lat":37.101928,"lon":-113.313839,"elevation":3350,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

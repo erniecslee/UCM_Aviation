@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51MI"]={"id":"51MI","name":"CASS LAKE-COVE ISLAND","lat":42.616144,"lon":-83.356047,"elevation":990,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT00"]={"id":"UT00","name":"SWAINS CREEK","lat":37.472203,"lon":-112.622158,"elevation":7780,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

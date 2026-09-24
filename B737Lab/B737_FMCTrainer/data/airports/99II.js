@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99II"]={"id":"99II","name":"COOPER FLD","lat":39.5835,"lon":-86.952528,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9GE7"]={"id":"9GE7","name":"NEELY FARMS","lat":33.531389,"lon":-83.791944,"elevation":720,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SC5"]={"id":"2SC5","name":"RIDGEWOOD AIR","lat":34.291667,"lon":-82.053889,"elevation":560,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

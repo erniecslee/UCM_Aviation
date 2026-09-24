@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52IL"]={"id":"52IL","name":"DENHAM RLA","lat":39.470622,"lon":-88.655994,"elevation":663,"region":"K5","runways":[{"id":"RW09","lat":39.470619,"lon":-88.658828,"length":1600,"course":93.1},{"id":"RW27","lat":39.470625,"lon":-88.653161,"length":1600,"course":273.1}],"procedures":{"D":{},"E":{},"F":{}}};

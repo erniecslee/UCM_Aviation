@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR87"]={"id":"OR87","name":"BLUE SKIES FARM","lat":44.966111,"lon":-122.9225,"elevation":200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TA1"]={"id":"5TA1","name":"CHARPING","lat":31.193508,"lon":-97.407231,"elevation":683,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MS9"]={"id":"9MS9","name":"BEETS","lat":31.202544,"lon":-89.749756,"elevation":238,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

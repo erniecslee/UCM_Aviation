@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV31"]={"id":"NV31","name":"BARKER CREEK RANCH AIRSTRIP","lat":38.805764,"lon":-117.031194,"elevation":6620,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

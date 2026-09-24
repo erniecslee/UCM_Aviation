@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI15"]={"id":"MI15","name":"WARDS LONG ACRES","lat":42.7292,"lon":-82.665194,"elevation":618,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

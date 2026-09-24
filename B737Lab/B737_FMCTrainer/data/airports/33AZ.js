@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33AZ"]={"id":"33AZ","name":"YOLO RANCH","lat":34.798631,"lon":-112.970186,"elevation":5950,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

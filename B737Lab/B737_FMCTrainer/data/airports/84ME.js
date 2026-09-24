@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84ME"]={"id":"84ME","name":"COWBOYS AIR RANCH","lat":45.552889,"lon":-67.746042,"elevation":510,"region":"K6","runways":[{"id":"RW18","lat":45.555761,"lon":-67.746086,"length":2100,"course":195.0},{"id":"RW36","lat":45.55,"lon":-67.746,"length":2100,"course":15.0}],"procedures":{"D":{},"E":{},"F":{}}};

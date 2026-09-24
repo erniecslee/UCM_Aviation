@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WA4"]={"id":"5WA4","name":"BOISSELLE","lat":46.372075,"lon":-120.640061,"elevation":869,"region":"K1","runways":[{"id":"RW01","lat":46.369886,"lon":-120.641164,"length":1690,"course":4.9},{"id":"RW19","lat":46.374261,"lon":-120.638961,"length":1690,"course":184.9}],"procedures":{"D":{},"E":{},"F":{}}};

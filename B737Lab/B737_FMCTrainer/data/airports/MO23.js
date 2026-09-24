@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO23"]={"id":"MO23","name":"PHILLIPS FLD","lat":38.640931,"lon":-92.5291,"elevation":805,"region":"K3","runways":[{"id":"RW18","lat":38.644186,"lon":-92.528481,"length":2400,"course":184.5},{"id":"RW36","lat":38.637672,"lon":-92.529719,"length":2400,"course":4.5}],"procedures":{"D":{},"E":{},"F":{}}};

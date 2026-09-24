@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN12"]={"id":"IN12","name":"DUNGAN","lat":39.721322,"lon":-85.269278,"elevation":1064,"region":"K5","runways":[{"id":"RW18","lat":39.726811,"lon":-85.269278,"length":4000,"course":185.6},{"id":"RW36","lat":39.715831,"lon":-85.269278,"length":4000,"course":5.6}],"procedures":{"D":{},"E":{},"F":{}}};

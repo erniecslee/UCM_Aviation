@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SC8"]={"id":"2SC8","name":"GASTON","lat":33.786819,"lon":-81.094817,"elevation":460,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

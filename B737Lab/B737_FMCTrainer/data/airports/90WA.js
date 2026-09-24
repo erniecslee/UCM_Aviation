@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90WA"]={"id":"90WA","name":"WALDRON AIRSTRIP","lat":48.711769,"lon":-123.018242,"elevation":140,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

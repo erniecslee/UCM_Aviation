@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W58"]={"id":"W58","name":"CEDARS NORTH","lat":45.764556,"lon":-122.515083,"elevation":275,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

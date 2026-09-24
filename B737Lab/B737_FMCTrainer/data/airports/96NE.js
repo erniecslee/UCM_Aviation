@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96NE"]={"id":"96NE","name":"RIVERBEND","lat":41.400678,"lon":-99.097278,"elevation":2144,"region":"K3","runways":[{"id":"RW18","lat":41.405683,"lon":-99.097342,"length":3650,"course":175.2},{"id":"RW36","lat":41.395669,"lon":-99.097211,"length":3650,"course":355.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FL1"]={"id":"5FL1","name":"EZELL","lat":29.903272,"lon":-83.607925,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

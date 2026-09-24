@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT30"]={"id":"VT30","name":"KETCHAM LNDG AREA","lat":44.162558,"lon":-72.834003,"elevation":780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

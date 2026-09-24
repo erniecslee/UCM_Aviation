@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54KS"]={"id":"54KS","name":"MICHAEL","lat":38.799428,"lon":-95.100542,"elevation":1020,"region":"K3","runways":[{"id":"RW17","lat":38.801897,"lon":-95.100542,"length":1800,"course":175.0},{"id":"RW35","lat":38.796956,"lon":-95.100542,"length":1800,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

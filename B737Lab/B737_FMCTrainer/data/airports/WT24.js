@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT24"]={"id":"WT24","name":"REED","lat":47.522778,"lon":-117.538056,"elevation":2696,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

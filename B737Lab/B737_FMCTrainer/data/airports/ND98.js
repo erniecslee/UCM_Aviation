@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND98"]={"id":"ND98","name":"CLOUD NINE","lat":46.760833,"lon":-100.655278,"elevation":1830,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

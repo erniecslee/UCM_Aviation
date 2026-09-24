@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8XS0"]={"id":"8XS0","name":"BEMAROY","lat":31.30605,"lon":-99.492819,"elevation":1590,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

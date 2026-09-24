@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI11"]={"id":"WI11","name":"MUMM FLD","lat":42.5914,"lon":-89.240669,"elevation":945,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

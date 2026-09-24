@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PGM"]={"id":"PGM","name":"PORT GRAHAM","lat":59.348475,"lon":-151.830322,"elevation":93,"region":"PA","runways":[{"id":"RW12","lat":59.350678,"lon":-151.833378,"length":1975,"course":122.0},{"id":"RW30","lat":59.346272,"lon":-151.827267,"length":1975,"course":302.0}],"procedures":{"D":{},"E":{},"F":{}}};

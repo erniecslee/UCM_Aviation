@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91XA"]={"id":"91XA","name":"CROSSCUT FLD","lat":32.623653,"lon":-95.113939,"elevation":420,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

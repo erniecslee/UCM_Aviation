@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN87"]={"id":"IN87","name":"SINGLETON'S LANDING STRIP","lat":41.351431,"lon":-86.626403,"elevation":685,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

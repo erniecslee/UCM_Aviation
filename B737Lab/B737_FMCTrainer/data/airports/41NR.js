@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41NR"]={"id":"41NR","name":"MONARCH FLD","lat":35.927119,"lon":-80.571944,"elevation":801,"region":"K7","runways":[{"id":"RW18","lat":35.930278,"lon":-80.571944,"length":2300,"course":188.3},{"id":"RW36","lat":35.923961,"lon":-80.571944,"length":2300,"course":8.3}],"procedures":{"D":{},"E":{},"F":{}}};

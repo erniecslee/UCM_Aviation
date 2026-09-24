@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7S8"]={"id":"7S8","name":"ROSS INTL","lat":48.998556,"lon":-111.978222,"elevation":3553,"region":"K1","runways":[{"id":"RW07","lat":48.998617,"lon":-111.984261,"length":2900,"course":73.0},{"id":"RW25","lat":48.998506,"lon":-111.972181,"length":2900,"course":253.0}],"procedures":{"D":{},"E":{},"F":{}}};

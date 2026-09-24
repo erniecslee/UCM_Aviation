@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49C"]={"id":"49C","name":"CAMP LAKE","lat":42.527767,"lon":-88.156097,"elevation":749,"region":"K5","runways":[{"id":"RW18","lat":42.5308,"lon":-88.156097,"length":2210,"course":181.0},{"id":"RW36","lat":42.524736,"lon":-88.156097,"length":2210,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

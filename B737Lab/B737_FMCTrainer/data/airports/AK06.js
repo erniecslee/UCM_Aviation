@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK06"]={"id":"AK06","name":"DENALI","lat":63.640381,"lon":-148.791994,"elevation":2050,"region":"PA","runways":[{"id":"RW12","lat":63.644925,"lon":-148.798828,"length":4000,"course":119.0},{"id":"RW30","lat":63.635833,"lon":-148.785158,"length":4000,"course":299.0}],"procedures":{"D":{},"E":{},"F":{}}};

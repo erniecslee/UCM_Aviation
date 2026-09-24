@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR92"]={"id":"NR92","name":"RIVIERE RANCH","lat":34.951792,"lon":-76.657569,"elevation":6,"region":"K7","runways":[{"id":"RW04","lat":34.948694,"lon":-76.661361,"length":3200,"course":55.6},{"id":"RW22","lat":34.954889,"lon":-76.653778,"length":3200,"course":235.6}],"procedures":{"D":{},"E":{},"F":{}}};

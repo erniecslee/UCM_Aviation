@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR03"]={"id":"OR03","name":"REDTAIL RANCH AIRSTRIP","lat":45.064722,"lon":-117.661578,"elevation":3400,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

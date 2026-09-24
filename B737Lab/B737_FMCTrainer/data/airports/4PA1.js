@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PA1"]={"id":"4PA1","name":"SAUERS-HAVEN","lat":40.883889,"lon":-76.98,"elevation":590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

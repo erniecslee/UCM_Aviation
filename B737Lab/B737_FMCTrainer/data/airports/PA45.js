@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA45"]={"id":"PA45","name":"LOGUE FLD","lat":41.418933,"lon":-76.926628,"elevation":1320,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

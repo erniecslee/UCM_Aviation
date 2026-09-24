@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AK6"]={"id":"5AK6","name":"COLBERG","lat":61.557011,"lon":-149.268289,"elevation":125,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

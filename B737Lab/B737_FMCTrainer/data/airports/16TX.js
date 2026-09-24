@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16TX"]={"id":"16TX","name":"HAMLIN","lat":32.849675,"lon":-100.13665,"elevation":1753,"region":"K4","runways":[{"id":"RW16","lat":32.853931,"lon":-100.137961,"length":3200,"course":157.0},{"id":"RW34","lat":32.845419,"lon":-100.135336,"length":3200,"course":337.0}],"procedures":{"D":{},"E":{},"F":{}}};

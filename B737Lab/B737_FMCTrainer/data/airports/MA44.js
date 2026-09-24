@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA44"]={"id":"MA44","name":"TRADE WIND","lat":41.441781,"lon":-70.570306,"elevation":43,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

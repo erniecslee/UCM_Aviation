@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IL7"]={"id":"5IL7","name":"REDEKER","lat":40.652878,"lon":-87.831386,"elevation":670,"region":"K5","runways":[{"id":"RW09","lat":40.6528,"lon":-87.834842,"length":1918,"course":92.2},{"id":"RW27","lat":40.652956,"lon":-87.827933,"length":1918,"course":272.2}],"procedures":{"D":{},"E":{},"F":{}}};

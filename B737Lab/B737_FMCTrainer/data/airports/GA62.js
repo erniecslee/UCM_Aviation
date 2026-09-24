@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA62"]={"id":"GA62","name":"CEDAR RIDGE","lat":33.255117,"lon":-84.400203,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

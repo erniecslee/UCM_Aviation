@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D02"]={"id":"D02","name":"OSAGE MUNI","lat":43.292333,"lon":-92.795611,"elevation":1168,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

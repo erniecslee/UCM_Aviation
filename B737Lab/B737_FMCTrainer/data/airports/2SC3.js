@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SC3"]={"id":"2SC3","name":"MELROSE LANDING","lat":32.139167,"lon":-80.868056,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

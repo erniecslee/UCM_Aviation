@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10ID"]={"id":"10ID","name":"FLAT TOP AIRSTRIP","lat":43.49435,"lon":-113.921697,"elevation":5841,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

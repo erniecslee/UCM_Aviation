@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME69"]={"id":"ME69","name":"CLIFFORDS","lat":44.068964,"lon":-70.064497,"elevation":280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

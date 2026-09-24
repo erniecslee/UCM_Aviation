@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OK7"]={"id":"8OK7","name":"NELSON HIGH POINT","lat":35.174722,"lon":-97.748056,"elevation":1376,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

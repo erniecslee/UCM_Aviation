@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NY0"]={"id":"2NY0","name":"CATSKILL VALLEY AIRPARK","lat":42.280642,"lon":-73.952908,"elevation":190,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

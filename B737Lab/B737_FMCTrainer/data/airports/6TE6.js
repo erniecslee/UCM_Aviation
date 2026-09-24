@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TE6"]={"id":"6TE6","name":"6666 RANCH","lat":33.642783,"lon":-100.3472,"elevation":1782,"region":"K4","runways":[{"id":"RW01","lat":33.634958,"lon":-100.350331,"length":6005,"course":12.5},{"id":"RW19","lat":33.650608,"lon":-100.344069,"length":6005,"course":192.5}],"procedures":{"D":{},"E":{},"F":{}}};

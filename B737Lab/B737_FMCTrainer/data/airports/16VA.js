@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16VA"]={"id":"16VA","name":"ECHOLS FLD","lat":38.334444,"lon":-79.160556,"elevation":1782,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

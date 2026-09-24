@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35IL"]={"id":"35IL","name":"7TH HEAVEN","lat":41.533889,"lon":-89.202778,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

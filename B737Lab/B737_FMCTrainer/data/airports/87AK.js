@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87AK"]={"id":"87AK","name":"SOLOY STRIP","lat":61.651531,"lon":-149.288481,"elevation":545,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

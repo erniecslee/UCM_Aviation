@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA04"]={"id":"WA04","name":"KYLES","lat":47.813333,"lon":-122.043333,"elevation":470,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90NY"]={"id":"90NY","name":"HOPEWELL AIRPARK","lat":42.919508,"lon":-77.242778,"elevation":730,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

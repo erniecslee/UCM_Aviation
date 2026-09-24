@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN14"]={"id":"IN14","name":"GREENRIDGE","lat":38.238958,"lon":-86.019414,"elevation":858,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

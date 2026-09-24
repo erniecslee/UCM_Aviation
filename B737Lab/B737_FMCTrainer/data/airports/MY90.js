@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY90"]={"id":"MY90","name":"AL'S DUE NORTH","lat":45.482186,"lon":-92.98855,"elevation":915,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

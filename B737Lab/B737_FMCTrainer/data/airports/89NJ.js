@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89NJ"]={"id":"89NJ","name":"STRAWBERRY FIELDS","lat":39.489167,"lon":-74.723611,"elevation":45,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11LA"]={"id":"11LA","name":"TIGER PASS","lat":29.25875,"lon":-89.353025,"elevation":0,"region":"K4","runways":[{"id":"RW18W","lat":29.265458,"lon":-89.351214,"length":2000,"course":180.0},{"id":"RW36W","lat":29.259958,"lon":-89.351322,"length":2000,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TX6"]={"id":"6TX6","name":"JTJ RANCH","lat":32.082556,"lon":-96.356667,"elevation":350,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13TE"]={"id":"13TE","name":"VARISCO","lat":30.656033,"lon":-96.538303,"elevation":240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

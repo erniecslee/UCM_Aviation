@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TA0"]={"id":"8TA0","name":"JOHN B CONNALLY RANCH","lat":29.1358,"lon":-98.2764,"elevation":530,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

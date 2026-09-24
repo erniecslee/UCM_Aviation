@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LL2"]={"id":"2LL2","name":"WEIHLER","lat":41.314758,"lon":-90.552078,"elevation":740,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

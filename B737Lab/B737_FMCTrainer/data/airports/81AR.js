@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81AR"]={"id":"81AR","name":"WFK","lat":35.919208,"lon":-90.729714,"elevation":393,"region":"K4","runways":[{"id":"RW17","lat":35.921381,"lon":-90.730764,"length":1700,"course":160.0},{"id":"RW35","lat":35.917036,"lon":-90.728661,"length":1700,"course":340.0}],"procedures":{"D":{},"E":{},"F":{}}};

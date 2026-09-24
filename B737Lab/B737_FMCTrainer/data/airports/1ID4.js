@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1ID4"]={"id":"1ID4","name":"OASIS AIRPARK","lat":43.310556,"lon":-115.9025,"elevation":3259,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

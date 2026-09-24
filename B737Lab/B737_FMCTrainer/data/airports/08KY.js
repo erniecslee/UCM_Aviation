@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08KY"]={"id":"08KY","name":"BOSS","lat":36.973089,"lon":-84.626036,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

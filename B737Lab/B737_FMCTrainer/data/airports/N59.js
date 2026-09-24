@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N59"]={"id":"N59","name":"ROSASCHI AIR PARK","lat":38.839358,"lon":-119.338214,"elevation":4809,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

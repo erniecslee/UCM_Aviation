@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY35"]={"id":"NY35","name":"STANTON","lat":41.750094,"lon":-74.116256,"elevation":303,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

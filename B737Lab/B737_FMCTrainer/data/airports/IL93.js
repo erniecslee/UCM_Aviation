@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL93"]={"id":"IL93","name":"HENDRICKSON FLYING SERVICE","lat":41.945306,"lon":-88.923981,"elevation":889,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

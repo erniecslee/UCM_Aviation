@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8C5"]={"id":"8C5","name":"TOLEDO MUNI","lat":41.988231,"lon":-92.547986,"elevation":960,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

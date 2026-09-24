@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV22"]={"id":"WV22","name":"GREEN LANDINGS","lat":39.574722,"lon":-77.971517,"elevation":490,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

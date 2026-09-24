@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK49"]={"id":"AK49","name":"TAYLOR","lat":65.679275,"lon":-164.798808,"elevation":440,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

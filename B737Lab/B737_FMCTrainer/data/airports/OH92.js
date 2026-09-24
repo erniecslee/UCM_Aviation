@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH92"]={"id":"OH92","name":"PORTER","lat":39.954233,"lon":-82.1832,"elevation":1070,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

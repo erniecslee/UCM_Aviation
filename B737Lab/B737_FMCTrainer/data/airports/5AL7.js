@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AL7"]={"id":"5AL7","name":"JOHN H HATAWAY","lat":31.25,"lon":-86.166667,"elevation":300,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

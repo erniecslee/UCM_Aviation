@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03PR"]={"id":"03PR","name":"SUN VIEW FLD","lat":39.065947,"lon":-94.921703,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN16"]={"id":"TN16","name":"HUNTINGDON","lat":35.994508,"lon":-88.461164,"elevation":400,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

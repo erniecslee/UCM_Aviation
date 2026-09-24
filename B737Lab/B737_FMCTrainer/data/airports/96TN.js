@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96TN"]={"id":"96TN","name":"MT BAKEWELL AIRFIELD","lat":35.3673,"lon":-85.1617,"elevation":1640,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

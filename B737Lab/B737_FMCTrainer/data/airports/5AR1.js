@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AR1"]={"id":"5AR1","name":"TILLAR","lat":33.712608,"lon":-91.461233,"elevation":150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

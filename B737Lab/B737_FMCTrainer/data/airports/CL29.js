@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL29"]={"id":"CL29","name":"CAMINO AIRSTRIP","lat":34.835256,"lon":-114.956969,"elevation":2079,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

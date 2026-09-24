@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47TE"]={"id":"47TE","name":"WHITES","lat":28.851656,"lon":-96.497472,"elevation":43,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1JY2"]={"id":"1JY2","name":"MAHOGANY MTN","lat":43.067083,"lon":-121.05305,"elevation":4620,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

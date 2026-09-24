@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA80"]={"id":"MA80","name":"MUNDALE","lat":42.119814,"lon":-72.814264,"elevation":280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

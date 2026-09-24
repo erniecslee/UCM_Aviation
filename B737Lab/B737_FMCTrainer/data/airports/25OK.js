@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25OK"]={"id":"25OK","name":"WILDLIFE RANCH","lat":34.314444,"lon":-97.995556,"elevation":986,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

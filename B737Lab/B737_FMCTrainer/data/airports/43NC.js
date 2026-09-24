@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43NC"]={"id":"43NC","name":"BAHNSON","lat":36.020833,"lon":-80.516389,"elevation":810,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

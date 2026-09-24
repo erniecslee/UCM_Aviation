@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01NK"]={"id":"01NK","name":"GRANVILLE","lat":43.422944,"lon":-73.268025,"elevation":421,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

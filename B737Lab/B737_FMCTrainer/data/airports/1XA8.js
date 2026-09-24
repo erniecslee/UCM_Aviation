@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1XA8"]={"id":"1XA8","name":"HACKBERRY","lat":32.232506,"lon":-96.397511,"elevation":433,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

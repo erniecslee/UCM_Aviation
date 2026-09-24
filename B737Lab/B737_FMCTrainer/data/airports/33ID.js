@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33ID"]={"id":"33ID","name":"OZZY'S","lat":43.379361,"lon":-114.769444,"elevation":5128,"region":"K1","runways":[{"id":"RW08","lat":43.379361,"lon":-114.769444,"length":1200,"course":60.1}],"procedures":{"D":{},"E":{},"F":{}}};

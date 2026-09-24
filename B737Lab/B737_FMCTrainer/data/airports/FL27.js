@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL27"]={"id":"FL27","name":"LAKE CITY AIRPARK","lat":30.043847,"lon":-82.604008,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

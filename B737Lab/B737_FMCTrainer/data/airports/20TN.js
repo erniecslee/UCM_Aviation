@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20TN"]={"id":"20TN","name":"LILEY FLD","lat":36.363667,"lon":-82.590667,"elevation":1850,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

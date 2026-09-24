@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48AR"]={"id":"48AR","name":"WHIRLWIND AVIATION","lat":35.48375,"lon":-90.840903,"elevation":240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

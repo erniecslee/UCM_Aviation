@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49TA"]={"id":"49TA","name":"LAUDERDALE","lat":30.486914,"lon":-96.786467,"elevation":433,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

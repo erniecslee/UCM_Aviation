@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OH4"]={"id":"8OH4","name":"YORK AERODROME","lat":40.84395,"lon":-80.702575,"elevation":1260,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

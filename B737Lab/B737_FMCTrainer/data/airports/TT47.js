@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT47"]={"id":"TT47","name":"ADAMS FLD","lat":33.386083,"lon":-96.499169,"elevation":673,"region":"K4","runways":[{"id":"RW18","lat":33.388967,"lon":-96.499083,"length":2100,"course":179.0},{"id":"RW36","lat":33.3832,"lon":-96.499253,"length":2100,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MO5"]={"id":"9MO5","name":"WAKEFIELD WINGS","lat":37.0625,"lon":-93.098403,"elevation":1380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

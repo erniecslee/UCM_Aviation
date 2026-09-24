@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["R47"]={"id":"R47","name":"RUHES","lat":41.103106,"lon":-84.051889,"elevation":801,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

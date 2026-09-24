@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09TA"]={"id":"09TA","name":"XWIND FARM","lat":33.724417,"lon":-96.298306,"elevation":512,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

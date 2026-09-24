@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51TN"]={"id":"51TN","name":"GLENDALE FLD","lat":35.533056,"lon":-86.976944,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

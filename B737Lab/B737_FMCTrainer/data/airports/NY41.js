@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY41"]={"id":"NY41","name":"PINE VIEW","lat":43.115556,"lon":-76.911389,"elevation":400,"region":"K6","runways":[{"id":"RW09","lat":43.115556,"lon":-76.914444,"length":1632,"course":101.5},{"id":"RW27","lat":43.115556,"lon":-76.908333,"length":1632,"course":281.5}],"procedures":{"D":{},"E":{},"F":{}}};

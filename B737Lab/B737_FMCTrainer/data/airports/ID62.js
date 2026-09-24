@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID62"]={"id":"ID62","name":"SIMPSON","lat":42.608253,"lon":-111.728561,"elevation":5598,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

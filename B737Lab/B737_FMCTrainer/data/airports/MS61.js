@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS61"]={"id":"MS61","name":"ELLIS FLD","lat":30.630381,"lon":-89.732617,"elevation":175,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

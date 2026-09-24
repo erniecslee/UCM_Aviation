@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO49"]={"id":"MO49","name":"FIVE MILE","lat":36.969314,"lon":-94.577244,"elevation":1109,"region":"K3","runways":[{"id":"RW16","lat":36.972656,"lon":-94.578603,"length":2560,"course":157.9},{"id":"RW34","lat":36.965972,"lon":-94.575883,"length":2560,"course":337.9}],"procedures":{"D":{},"E":{},"F":{}}};

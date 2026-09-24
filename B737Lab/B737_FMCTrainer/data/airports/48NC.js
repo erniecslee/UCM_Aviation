@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48NC"]={"id":"48NC","name":"MORRISON FLD","lat":35.781106,"lon":-80.417128,"elevation":825,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

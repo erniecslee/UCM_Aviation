@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AR7"]={"id":"2AR7","name":"HEAD AIRFIELD","lat":33.849111,"lon":-93.479139,"elevation":441,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

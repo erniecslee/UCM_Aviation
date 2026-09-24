@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR22"]={"id":"AR22","name":"TOMMY'S FLYING SERVICE INC","lat":34.381486,"lon":-91.958472,"elevation":215,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

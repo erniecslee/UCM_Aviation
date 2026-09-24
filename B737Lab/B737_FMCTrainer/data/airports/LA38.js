@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA38"]={"id":"LA38","name":"PELICAN","lat":30.266944,"lon":-89.805278,"elevation":0,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

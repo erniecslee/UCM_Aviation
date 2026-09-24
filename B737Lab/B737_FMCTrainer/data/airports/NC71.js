@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC71"]={"id":"NC71","name":"ROCKIN A AIRFIELD","lat":34.917942,"lon":-79.052531,"elevation":187,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

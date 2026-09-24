@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY29"]={"id":"MY29","name":"KAISER'S AIRSTRIP","lat":46.796894,"lon":-96.099611,"elevation":1400,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

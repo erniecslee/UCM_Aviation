@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA34"]={"id":"XA34","name":"ALLISON FARM","lat":33.241667,"lon":-97.428,"elevation":850,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK02"]={"id":"AK02","name":"BEAR CREEK 1","lat":65.539886,"lon":-161.062378,"elevation":575,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

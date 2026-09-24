@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77CL"]={"id":"77CL","name":"BAKER & HALL","lat":36.717725,"lon":-119.137058,"elevation":2150,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

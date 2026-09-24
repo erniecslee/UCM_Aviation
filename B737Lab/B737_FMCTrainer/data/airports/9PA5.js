@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9PA5"]={"id":"9PA5","name":"LIZARD CREEK VALLEY","lat":40.780094,"lon":-75.7163,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

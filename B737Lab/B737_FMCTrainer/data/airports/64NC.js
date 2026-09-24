@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64NC"]={"id":"64NC","name":"FIELDS","lat":35.906531,"lon":-79.721744,"elevation":822,"region":"K7","runways":[{"id":"RW01","lat":35.904364,"lon":-79.721867,"length":3000,"course":10.9},{"id":"RW19","lat":35.909292,"lon":-79.721558,"length":3000,"course":190.9}],"procedures":{"D":{},"E":{},"F":{}}};

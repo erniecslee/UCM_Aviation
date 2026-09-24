@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD3"]={"id":"4MD3","name":"CAREY FLD","lat":38.439722,"lon":-75.159444,"elevation":23,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

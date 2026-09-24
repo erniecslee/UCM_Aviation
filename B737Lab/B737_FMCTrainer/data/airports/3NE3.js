@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NE3"]={"id":"3NE3","name":"WELLS","lat":40.500011,"lon":-99.317042,"elevation":2275,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

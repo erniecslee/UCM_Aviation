@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16TT"]={"id":"16TT","name":"16 L RANCH","lat":31.093611,"lon":-96.04375,"elevation":390,"region":"K4","runways":[{"id":"RW16","lat":31.095556,"lon":-96.044722,"length":1540,"course":154.6},{"id":"RW34","lat":31.091667,"lon":-96.042778,"length":1540,"course":334.6}],"procedures":{"D":{},"E":{},"F":{}}};

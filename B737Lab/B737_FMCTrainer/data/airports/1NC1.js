@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC1"]={"id":"1NC1","name":"RON'S ULTRALIGHT FLD","lat":35.811944,"lon":-79.238611,"elevation":525,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

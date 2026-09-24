@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17XS"]={"id":"17XS","name":"QUAHADI RANCH","lat":32.177764,"lon":-98.43505,"elevation":1422,"region":"K4","runways":[{"id":"RW01","lat":32.1706,"lon":-98.438156,"length":6295,"course":14.2},{"id":"RW19","lat":32.185881,"lon":-98.431531,"length":6295,"course":194.2}],"procedures":{"D":{},"E":{},"F":{}}};

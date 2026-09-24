@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IN9"]={"id":"4IN9","name":"WAWASEE","lat":41.418936,"lon":-85.691656,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

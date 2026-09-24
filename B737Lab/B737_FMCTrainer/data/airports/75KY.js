@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75KY"]={"id":"75KY","name":"HISLE FLD","lat":37.944167,"lon":-83.997778,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

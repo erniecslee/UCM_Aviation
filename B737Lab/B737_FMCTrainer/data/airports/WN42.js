@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN42"]={"id":"WN42","name":"FLYING H RANCH","lat":47.183853,"lon":-122.119975,"elevation":587,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

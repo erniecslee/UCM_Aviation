@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN4"]={"id":"4TN4","name":"COTTON FLD","lat":35.19,"lon":-89.638611,"elevation":345,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

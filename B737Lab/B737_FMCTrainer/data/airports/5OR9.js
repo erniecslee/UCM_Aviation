@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OR9"]={"id":"5OR9","name":"LONE OAKS RANCH","lat":44.776789,"lon":-122.760089,"elevation":630,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

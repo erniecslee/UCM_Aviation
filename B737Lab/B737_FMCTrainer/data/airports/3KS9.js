@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KS9"]={"id":"3KS9","name":"TRI ROTOR","lat":37.727114,"lon":-101.195411,"elevation":3091,"region":"K3","runways":[{"id":"RW17","lat":37.732328,"lon":-101.195539,"length":3800,"course":173.6},{"id":"RW35","lat":37.7219,"lon":-101.195281,"length":3800,"course":353.6}],"procedures":{"D":{},"E":{},"F":{}}};

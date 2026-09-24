@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL46"]={"id":"AL46","name":"SHOALS CREEK","lat":34.902586,"lon":-87.587247,"elevation":510,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

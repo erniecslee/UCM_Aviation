@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z87"]={"id":"Z87","name":"BLINN LAKE","lat":55.251628,"lon":-162.753406,"elevation":50,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

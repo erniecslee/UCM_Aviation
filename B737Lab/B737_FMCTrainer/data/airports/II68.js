@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II68"]={"id":"II68","name":"DURHAM","lat":39.855044,"lon":-86.959175,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

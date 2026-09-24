@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WY8"]={"id":"2WY8","name":"BAR FLYING E","lat":44.40625,"lon":-109.279444,"elevation":5550,"region":"K1","runways":[{"id":"RW01","lat":44.404444,"lon":-109.28,"length":1350,"course":359.4},{"id":"RW19","lat":44.408056,"lon":-109.278889,"length":1350,"course":179.4}],"procedures":{"D":{},"E":{},"F":{}}};

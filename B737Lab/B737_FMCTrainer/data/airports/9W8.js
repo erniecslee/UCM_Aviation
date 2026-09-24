@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9W8"]={"id":"9W8","name":"CHANCEFORD","lat":39.852325,"lon":-76.486353,"elevation":750,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

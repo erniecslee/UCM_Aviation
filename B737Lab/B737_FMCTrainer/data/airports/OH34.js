@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH34"]={"id":"OH34","name":"LEIS","lat":40.205881,"lon":-84.661625,"elevation":1015,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

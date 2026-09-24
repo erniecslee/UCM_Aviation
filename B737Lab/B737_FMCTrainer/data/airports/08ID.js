@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08ID"]={"id":"08ID","name":"SYMMS","lat":43.569325,"lon":-116.776806,"elevation":2680,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

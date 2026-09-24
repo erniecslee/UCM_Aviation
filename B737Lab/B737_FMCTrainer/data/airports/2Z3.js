@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Z3"]={"id":"2Z3","name":"EVA CREEK","lat":64.042111,"lon":-148.863139,"elevation":2817,"region":"PA","runways":[{"id":"RW08","lat":64.042269,"lon":-148.866078,"length":950,"course":70.0},{"id":"RW26","lat":64.041958,"lon":-148.860192,"length":950,"course":250.0}],"procedures":{"D":{},"E":{},"F":{}}};

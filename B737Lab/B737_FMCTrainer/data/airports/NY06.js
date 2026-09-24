@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY06"]={"id":"NY06","name":"GAINES VALLEY AVIATION","lat":43.296447,"lon":-78.213911,"elevation":380,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

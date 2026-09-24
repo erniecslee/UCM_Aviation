@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66LA"]={"id":"66LA","name":"SCHEXNAYDER","lat":30.510467,"lon":-91.392331,"elevation":15,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

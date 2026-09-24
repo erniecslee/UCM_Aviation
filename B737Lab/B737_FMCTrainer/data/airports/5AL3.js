@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AL3"]={"id":"5AL3","name":"FLYING X RANCH","lat":33.152894,"lon":-86.851378,"elevation":466,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

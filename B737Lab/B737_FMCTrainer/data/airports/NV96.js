@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV96"]={"id":"NV96","name":"ROLLING THUNDER","lat":39.825278,"lon":-119.654444,"elevation":4240,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

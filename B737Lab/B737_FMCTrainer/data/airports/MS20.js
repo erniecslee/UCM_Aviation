@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS20"]={"id":"MS20","name":"MACH 1 JET PORT","lat":32.448542,"lon":-89.905294,"elevation":415,"region":"K7","runways":[{"id":"RW18","lat":32.454581,"lon":-89.905308,"length":4400,"course":181.7},{"id":"RW36","lat":32.4425,"lon":-89.905278,"length":4400,"course":1.7}],"procedures":{"D":{},"E":{},"F":{}}};

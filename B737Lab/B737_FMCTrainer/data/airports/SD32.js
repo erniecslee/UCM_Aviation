@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD32"]={"id":"SD32","name":"BRAUN","lat":45.434722,"lon":-98.444306,"elevation":1305,"region":"K3","runways":[{"id":"RW09","lat":45.434722,"lon":-98.446389,"length":1070,"course":86.2},{"id":"RW27","lat":45.434722,"lon":-98.442222,"length":1070,"course":266.2}],"procedures":{"D":{},"E":{},"F":{}}};

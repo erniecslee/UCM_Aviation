@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO67"]={"id":"MO67","name":"HAYES FLD","lat":36.711167,"lon":-90.313994,"elevation":323,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA86"]={"id":"XA86","name":"DRIFTWOOD RANCH","lat":32.566975,"lon":-97.807492,"elevation":711,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

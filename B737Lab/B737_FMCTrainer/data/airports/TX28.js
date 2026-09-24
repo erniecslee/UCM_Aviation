@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX28"]={"id":"TX28","name":"DEVIL'S FINGER","lat":32.021667,"lon":-97.677639,"elevation":827,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MI5"]={"id":"2MI5","name":"SOMERVILLE","lat":42.941697,"lon":-85.486411,"elevation":660,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

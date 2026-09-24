@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F87"]={"id":"F87","name":"UNION PARISH","lat":32.724825,"lon":-92.337161,"elevation":119,"region":"K4","runways":[{"id":"RW16","lat":32.728781,"lon":-92.338547,"length":3003,"course":158.0},{"id":"RW34","lat":32.720869,"lon":-92.335775,"length":3003,"course":338.0}],"procedures":{"D":{},"E":{},"F":{}}};

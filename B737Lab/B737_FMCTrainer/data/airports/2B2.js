@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2B2"]={"id":"2B2","name":"PLUM ISLAND","lat":42.795361,"lon":-70.839444,"elevation":11,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

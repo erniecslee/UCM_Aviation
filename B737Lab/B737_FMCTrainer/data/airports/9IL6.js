@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IL6"]={"id":"9IL6","name":"WEISHAUPT","lat":40.513094,"lon":-89.367314,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

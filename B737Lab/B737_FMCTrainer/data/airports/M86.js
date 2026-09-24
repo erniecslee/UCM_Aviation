@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M86"]={"id":"M86","name":"WALLE FLD","lat":42.470972,"lon":-86.125639,"elevation":635,"region":"K5","runways":[{"id":"RW09","lat":42.470972,"lon":-86.1288,"length":1699,"course":93.0},{"id":"RW27","lat":42.470972,"lon":-86.1225,"length":1699,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

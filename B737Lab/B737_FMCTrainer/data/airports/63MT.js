@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63MT"]={"id":"63MT","name":"BLAINS","lat":45.715139,"lon":-108.575417,"elevation":3200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

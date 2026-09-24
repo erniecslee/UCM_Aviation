@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08MO"]={"id":"08MO","name":"TWIN OAKS","lat":37.395606,"lon":-94.283836,"elevation":955,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

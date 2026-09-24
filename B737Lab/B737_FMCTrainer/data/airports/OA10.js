@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA10"]={"id":"OA10","name":"WORKMAN'S LANDING","lat":39.008611,"lon":-83.909167,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

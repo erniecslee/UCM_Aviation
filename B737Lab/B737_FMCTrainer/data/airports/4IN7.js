@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IN7"]={"id":"4IN7","name":"RILEY FLD","lat":40.300869,"lon":-87.229178,"elevation":608,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

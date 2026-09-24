@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T47"]={"id":"T47","name":"FINNEY FLD","lat":33.535053,"lon":-96.649531,"elevation":833,"region":"K4","runways":[{"id":"RW18","lat":33.538556,"lon":-96.649481,"length":2549,"course":178.2},{"id":"RW36","lat":33.531553,"lon":-96.649581,"length":2549,"course":358.2}],"procedures":{"D":{},"E":{},"F":{}}};

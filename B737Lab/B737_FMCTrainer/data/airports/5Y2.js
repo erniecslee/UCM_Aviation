@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5Y2"]={"id":"5Y2","name":"HOUGHTON LAKE STATE","lat":44.331236,"lon":-84.790986,"elevation":1165,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

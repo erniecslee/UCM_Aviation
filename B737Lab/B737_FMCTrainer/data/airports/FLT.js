@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FLT"]={"id":"FLT","name":"FLAT","lat":62.452781,"lon":-157.986747,"elevation":343,"region":"PA","runways":[{"id":"RW08","lat":62.453219,"lon":-157.998653,"length":4045,"course":84.5},{"id":"RW26","lat":62.452342,"lon":-157.974842,"length":4045,"course":264.6}],"procedures":{"D":{},"E":{},"F":{}}};

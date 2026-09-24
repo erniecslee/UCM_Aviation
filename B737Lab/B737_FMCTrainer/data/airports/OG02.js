@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG02"]={"id":"OG02","name":"RIEBEN","lat":45.610278,"lon":-123.08,"elevation":200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94R"]={"id":"94R","name":"GAV AIR","lat":29.264397,"lon":-96.007247,"elevation":90,"region":"K4","runways":[{"id":"RW15","lat":29.267233,"lon":-96.008289,"length":2167,"course":156.0},{"id":"RW33","lat":29.261558,"lon":-96.006203,"length":2167,"course":336.0}],"procedures":{"D":{},"E":{},"F":{}}};

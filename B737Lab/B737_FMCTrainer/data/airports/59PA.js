@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59PA"]={"id":"59PA","name":"J P REILLY","lat":41.902831,"lon":-75.989186,"elevation":1650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

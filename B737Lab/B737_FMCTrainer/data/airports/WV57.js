@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV57"]={"id":"WV57","name":"MCKEE SKY RANCH","lat":39.463147,"lon":-79.54255,"elevation":2757,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK5"]={"id":"4AK5","name":"MANKOMEN LAKE","lat":62.989883,"lon":-144.48,"elevation":3050,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

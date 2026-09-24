@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OH4"]={"id":"3OH4","name":"RICELAND AERODROME","lat":41.603944,"lon":-80.589797,"elevation":1115,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

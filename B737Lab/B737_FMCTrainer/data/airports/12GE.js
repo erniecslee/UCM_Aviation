@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12GE"]={"id":"12GE","name":"HARVEST LAKE","lat":31.730833,"lon":-81.359722,"elevation":4,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

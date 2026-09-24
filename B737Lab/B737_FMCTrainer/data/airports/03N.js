@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03N"]={"id":"03N","name":"UTIRIK","lat":11.233333,"lon":169.85,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

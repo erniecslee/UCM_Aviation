@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS57"]={"id":"IS57","name":"WIND ROSE FARM","lat":42.179744,"lon":-88.632778,"elevation":815,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

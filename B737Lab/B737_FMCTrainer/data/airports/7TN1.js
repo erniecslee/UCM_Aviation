@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TN1"]={"id":"7TN1","name":"KRASHINSKY AIRFIELD","lat":35.320633,"lon":-85.853589,"elevation":995,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

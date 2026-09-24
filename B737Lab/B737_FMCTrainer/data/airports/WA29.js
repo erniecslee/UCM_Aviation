@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA29"]={"id":"WA29","name":"LA CENTER VIEW-AIR","lat":45.895669,"lon":-122.594267,"elevation":811,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO48"]={"id":"MO48","name":"RED OAK","lat":38.337308,"lon":-91.421386,"elevation":745,"region":"K3","runways":[{"id":"RW12","lat":38.338406,"lon":-91.423925,"length":1661,"course":119.9},{"id":"RW30","lat":38.336211,"lon":-91.418847,"length":1661,"course":299.9}],"procedures":{"D":{},"E":{},"F":{}}};

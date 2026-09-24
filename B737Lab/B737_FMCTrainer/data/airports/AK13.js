@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK13"]={"id":"AK13","name":"CHENA HOT SPRINGS","lat":65.051825,"lon":-146.047433,"elevation":1195,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

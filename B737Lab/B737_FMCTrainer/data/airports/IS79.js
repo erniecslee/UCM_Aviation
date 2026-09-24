@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS79"]={"id":"IS79","name":"JACKSON","lat":42.234047,"lon":-88.355947,"elevation":890,"region":"K5","runways":[{"id":"RW10W","lat":42.235342,"lon":-88.366886,"length":6000,"course":100.0},{"id":"RW28W","lat":42.232753,"lon":-88.345008,"length":6000,"course":280.1}],"procedures":{"D":{},"E":{},"F":{}}};

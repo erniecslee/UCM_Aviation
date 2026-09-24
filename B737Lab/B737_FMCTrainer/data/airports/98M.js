@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98M"]={"id":"98M","name":"GREATON AIRFIELD","lat":43.575717,"lon":-70.518858,"elevation":170,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

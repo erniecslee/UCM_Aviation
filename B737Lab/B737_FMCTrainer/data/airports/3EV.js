@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3EV"]={"id":"3EV","name":"SKYLANE","lat":38.011944,"lon":-87.594861,"elevation":380,"region":"K5","runways":[{"id":"RW18","lat":38.015,"lon":-87.594722,"length":2227,"course":182.1},{"id":"RW36","lat":38.008889,"lon":-87.595,"length":2227,"course":2.1}],"procedures":{"D":{},"E":{},"F":{}}};

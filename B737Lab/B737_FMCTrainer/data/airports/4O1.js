@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4O1"]={"id":"4O1","name":"SNYDER","lat":34.627722,"lon":-99.014,"elevation":1325,"region":"K4","runways":[{"id":"RW17","lat":34.630642,"lon":-99.014061,"length":2125,"course":171.0},{"id":"RW35","lat":34.624803,"lon":-99.013958,"length":2125,"course":351.0}],"procedures":{"D":{},"E":{},"F":{}}};

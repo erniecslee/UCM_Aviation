@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FD0"]={"id":"3FD0","name":"LAST CHANCE RANCH","lat":27.021722,"lon":-81.451186,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

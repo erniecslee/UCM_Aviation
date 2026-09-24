@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI4"]={"id":"7WI4","name":"LEWIS","lat":44.300517,"lon":-90.987925,"elevation":1041,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

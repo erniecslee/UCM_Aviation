@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OK2"]={"id":"4OK2","name":"RUSH SPRINGS AIRSTRIP","lat":34.815369,"lon":-97.974297,"elevation":1410,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

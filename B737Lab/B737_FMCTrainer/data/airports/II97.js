@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II97"]={"id":"II97","name":"SKEETER LANDING","lat":39.477828,"lon":-85.883317,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

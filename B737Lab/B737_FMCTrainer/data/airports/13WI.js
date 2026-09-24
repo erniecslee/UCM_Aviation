@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13WI"]={"id":"13WI","name":"NOWATZSKI FLD","lat":43.698431,"lon":-89.004578,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

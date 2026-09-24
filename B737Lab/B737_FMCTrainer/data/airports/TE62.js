@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE62"]={"id":"TE62","name":"HIGH MAN TOWER AIRSTRIP","lat":27.854267,"lon":-97.682275,"elevation":90,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

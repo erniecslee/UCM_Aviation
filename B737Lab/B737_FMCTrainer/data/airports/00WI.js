@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00WI"]={"id":"00WI","name":"NORTHERN LITE","lat":44.304286,"lon":-89.050114,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

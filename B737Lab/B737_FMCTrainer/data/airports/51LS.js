@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51LS"]={"id":"51LS","name":"RED OAK LANDING","lat":30.438053,"lon":-92.116653,"elevation":55,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

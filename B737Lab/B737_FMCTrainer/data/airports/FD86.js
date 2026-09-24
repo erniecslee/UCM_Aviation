@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD86"]={"id":"FD86","name":"DEEP WOODS RANCH","lat":29.030261,"lon":-81.447011,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

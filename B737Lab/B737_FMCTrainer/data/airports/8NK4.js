@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NK4"]={"id":"8NK4","name":"BETHANY AIRPARK","lat":42.943333,"lon":-78.138333,"elevation":1000,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

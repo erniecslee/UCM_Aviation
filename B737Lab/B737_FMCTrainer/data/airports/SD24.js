@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD24"]={"id":"SD24","name":"EDEN VALLEY","lat":44.447222,"lon":-103.395278,"elevation":3070,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

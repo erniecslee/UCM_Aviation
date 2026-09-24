@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E48"]={"id":"E48","name":"UPTON COUNTY","lat":31.125147,"lon":-102.225414,"elevation":2433,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

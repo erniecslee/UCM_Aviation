@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS64"]={"id":"MS64","name":"VAIDEN LANDING","lat":34.848342,"lon":-89.877992,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL83"]={"id":"IL83","name":"FISCH","lat":41.599583,"lon":-89.599028,"elevation":650,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

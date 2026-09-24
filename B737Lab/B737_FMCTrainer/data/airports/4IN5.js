@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IN5"]={"id":"4IN5","name":"BALL FLD","lat":41.344167,"lon":-86.148333,"elevation":825,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

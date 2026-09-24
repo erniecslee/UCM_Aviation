@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NC7"]={"id":"3NC7","name":"MAXWELL","lat":36.519294,"lon":-81.136753,"elevation":3050,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

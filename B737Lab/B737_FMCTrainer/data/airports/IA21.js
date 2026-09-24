@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA21"]={"id":"IA21","name":"KNIGHT FLD","lat":41.956697,"lon":-94.086942,"elevation":989,"region":"K3","runways":[{"id":"RW18","lat":41.959442,"lon":-94.086958,"length":2000,"course":179.1},{"id":"RW36","lat":41.953947,"lon":-94.086922,"length":2000,"course":359.1}],"procedures":{"D":{},"E":{},"F":{}}};

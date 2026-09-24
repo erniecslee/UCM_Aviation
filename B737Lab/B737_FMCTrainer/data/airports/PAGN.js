@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAGN"]={"id":"PAGN","name":"ANGOON","lat":57.503556,"lon":-134.585094,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

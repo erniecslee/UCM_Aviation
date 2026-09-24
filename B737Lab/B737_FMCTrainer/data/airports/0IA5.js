@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IA5"]={"id":"0IA5","name":"MOORE","lat":40.872225,"lon":-93.262708,"elevation":1060,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

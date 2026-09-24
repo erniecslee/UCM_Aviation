@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07AA"]={"id":"07AA","name":"PAN LAKE STRIP","lat":61.695964,"lon":-149.954903,"elevation":357,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

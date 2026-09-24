@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH61"]={"id":"OH61","name":"AMANDA","lat":39.635342,"lon":-82.737947,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND9"]={"id":"2ND9","name":"BREKHUS FLD","lat":48.816689,"lon":-101.917108,"elevation":1850,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

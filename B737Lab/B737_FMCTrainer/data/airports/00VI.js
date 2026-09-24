@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00VI"]={"id":"00VI","name":"GROUNDHOG MOUNTAIN","lat":36.663333,"lon":-80.4995,"elevation":2680,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

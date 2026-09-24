@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51C"]={"id":"51C","name":"ORBAN","lat":42.852125,"lon":-84.645964,"elevation":882,"region":"K5","runways":[{"id":"RW11","lat":42.852389,"lon":-84.647219,"length":1700,"course":112.5},{"id":"RW29","lat":42.851861,"lon":-84.644711,"length":1700,"course":292.5}],"procedures":{"D":{},"E":{},"F":{}}};

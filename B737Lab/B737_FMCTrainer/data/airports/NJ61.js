@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ61"]={"id":"NJ61","name":"MALONE","lat":40.541375,"lon":-75.024247,"elevation":480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

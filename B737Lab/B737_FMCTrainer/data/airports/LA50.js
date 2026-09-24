@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA50"]={"id":"LA50","name":"DETEL","lat":31.048131,"lon":-92.138236,"elevation":63,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH18"]={"id":"NH18","name":"CHICKVILLE","lat":43.733411,"lon":-71.151181,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

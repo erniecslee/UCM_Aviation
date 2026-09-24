@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS63"]={"id":"TS63","name":"SQUARE AIR","lat":33.245947,"lon":-96.564156,"elevation":655,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

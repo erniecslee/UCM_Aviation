@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73AR"]={"id":"73AR","name":"DOGWOOD","lat":35.048522,"lon":-92.053742,"elevation":280,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

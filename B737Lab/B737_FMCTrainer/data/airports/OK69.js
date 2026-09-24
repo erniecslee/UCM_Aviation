@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK69"]={"id":"OK69","name":"MALINCHAK PVT","lat":35.796264,"lon":-96.428147,"elevation":906,"region":"K4","runways":[{"id":"RW07","lat":35.795136,"lon":-96.43195,"length":2400,"course":67.7},{"id":"RW25","lat":35.797389,"lon":-96.424344,"length":2400,"course":247.7}],"procedures":{"D":{},"E":{},"F":{}}};

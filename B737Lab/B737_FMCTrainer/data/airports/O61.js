@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O61"]={"id":"O61","name":"CAMERON PARK","lat":38.684,"lon":-120.987528,"elevation":1287,"region":"K2","runways":[{"id":"RW13","lat":38.688047,"lon":-120.991311,"length":4051,"course":128.0},{"id":"RW31","lat":38.682842,"lon":-120.986453,"length":4051,"course":308.0}],"procedures":{"D":{},"E":{},"F":{}}};

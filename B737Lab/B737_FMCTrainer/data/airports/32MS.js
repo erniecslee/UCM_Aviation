@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32MS"]={"id":"32MS","name":"BROWNS LANDING","lat":31.194167,"lon":-89.9525,"elevation":385,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

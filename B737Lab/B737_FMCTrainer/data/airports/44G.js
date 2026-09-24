@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44G"]={"id":"44G","name":"BETZ","lat":41.855039,"lon":-83.870769,"elevation":691,"region":"K5","runways":[{"id":"RW09","lat":41.854994,"lon":-83.874022,"length":2602,"course":94.0},{"id":"RW27","lat":41.855083,"lon":-83.867369,"length":2602,"course":274.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OA2"]={"id":"1OA2","name":"MOLE","lat":41.261225,"lon":-81.991472,"elevation":855,"region":"K5","runways":[{"id":"RW09","lat":41.261258,"lon":-81.995364,"length":2140,"course":98.8},{"id":"RW27","lat":41.261189,"lon":-81.987581,"length":2140,"course":278.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00FA"]={"id":"00FA","name":"GRASS PATCH","lat":28.645547,"lon":-82.218975,"elevation":53,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

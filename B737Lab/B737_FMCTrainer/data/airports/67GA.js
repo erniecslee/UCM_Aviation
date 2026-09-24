@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67GA"]={"id":"67GA","name":"APPALACHEE BLUFF RIVERFRONT AI","lat":33.859283,"lon":-83.587667,"elevation":735,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

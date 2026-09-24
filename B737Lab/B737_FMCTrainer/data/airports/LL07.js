@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL07"]={"id":"LL07","name":"HERB TAUTZ","lat":42.063914,"lon":-89.969569,"elevation":853,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

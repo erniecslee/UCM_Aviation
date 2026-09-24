@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY01"]={"id":"NY01","name":"KNOWLESVILLE","lat":43.220892,"lon":-78.315022,"elevation":555,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

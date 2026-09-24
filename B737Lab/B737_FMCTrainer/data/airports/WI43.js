@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI43"]={"id":"WI43","name":"ATKINS RIDGE","lat":42.948886,"lon":-89.825278,"elevation":1090,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

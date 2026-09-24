@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX61"]={"id":"TX61","name":"BAKER'S PLACE","lat":30.330208,"lon":-97.458886,"elevation":460,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

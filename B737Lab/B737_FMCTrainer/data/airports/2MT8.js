@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MT8"]={"id":"2MT8","name":"SOUTH BOULDER","lat":45.8151,"lon":-111.9259,"elevation":4560,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33GA"]={"id":"33GA","name":"HUDSON RIVER LANDING","lat":34.26,"lon":-83.286667,"elevation":665,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

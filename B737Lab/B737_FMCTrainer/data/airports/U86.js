@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U86"]={"id":"U86","name":"FAIRFIELD/FROSTENSON AIRFIELD","lat":43.341861,"lon":-114.798278,"elevation":5058,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

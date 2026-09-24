@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II52"]={"id":"II52","name":"HAFFNER","lat":39.877544,"lon":-86.527778,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

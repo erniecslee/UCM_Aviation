@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8G8"]={"id":"8G8","name":"KOONS","lat":40.882694,"lon":-80.881022,"elevation":1327,"region":"K5","runways":[{"id":"RW09","lat":40.882794,"lon":-80.884311,"length":1821,"course":99.0},{"id":"RW27","lat":40.882594,"lon":-80.877733,"length":1821,"course":279.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FA1"]={"id":"5FA1","name":"FLYING PALOMINO RANCH","lat":28.878042,"lon":-81.940917,"elevation":85,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

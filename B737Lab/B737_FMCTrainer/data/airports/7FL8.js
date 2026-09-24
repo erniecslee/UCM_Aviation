@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FL8"]={"id":"7FL8","name":"DRAGONFLY","lat":27.443928,"lon":-80.565056,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88AK"]={"id":"88AK","name":"DUTCH LANDING STRIP","lat":60.540278,"lon":-150.868056,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

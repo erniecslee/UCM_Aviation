@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TX6"]={"id":"1TX6","name":"MUXWORTHY","lat":31.698489,"lon":-98.096422,"elevation":1210,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

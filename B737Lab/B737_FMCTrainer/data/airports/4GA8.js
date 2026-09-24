@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA8"]={"id":"4GA8","name":"ANDREWS","lat":31.415453,"lon":-84.712975,"elevation":245,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV06"]={"id":"WV06","name":"LOST MOUNTAIN","lat":39.285103,"lon":-78.73835,"elevation":1960,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

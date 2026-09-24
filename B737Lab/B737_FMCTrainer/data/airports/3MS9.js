@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MS9"]={"id":"3MS9","name":"UNION MUNI","lat":32.580992,"lon":-89.1366,"elevation":512,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

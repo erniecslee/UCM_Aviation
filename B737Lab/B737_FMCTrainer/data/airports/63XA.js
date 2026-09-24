@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63XA"]={"id":"63XA","name":"JCJ FARM","lat":31.215675,"lon":-97.003925,"elevation":520,"region":"K4","runways":[{"id":"RW15","lat":31.218517,"lon":-97.005708,"length":2350,"course":148.9},{"id":"RW33","lat":31.212833,"lon":-97.002139,"length":2350,"course":328.9}],"procedures":{"D":{},"E":{},"F":{}}};

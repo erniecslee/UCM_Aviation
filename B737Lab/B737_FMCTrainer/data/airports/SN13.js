@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN13"]={"id":"SN13","name":"ALBERS","lat":37.658342,"lon":-97.774564,"elevation":1381,"region":"K3","runways":[{"id":"RW18","lat":37.661767,"lon":-97.774322,"length":2500,"course":176.0},{"id":"RW36","lat":37.654914,"lon":-97.774803,"length":2500,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

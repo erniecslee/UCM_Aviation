@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME64"]={"id":"ME64","name":"SKYDIVE NEW ENGLAND","lat":43.375081,"lon":-70.929228,"elevation":365,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

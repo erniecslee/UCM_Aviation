@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO85"]={"id":"MO85","name":"WELLS","lat":37.265758,"lon":-92.837194,"elevation":1530,"region":"K3","runways":[{"id":"RW18","lat":37.269044,"lon":-92.836894,"length":2400,"course":182.2},{"id":"RW36","lat":37.262472,"lon":-92.837492,"length":2400,"course":2.2}],"procedures":{"D":{},"E":{},"F":{}}};

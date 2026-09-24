@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ID8"]={"id":"0ID8","name":"PINNACLE","lat":45.775197,"lon":-116.178475,"elevation":3800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

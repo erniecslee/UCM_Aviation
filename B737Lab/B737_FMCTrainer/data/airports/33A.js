@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33A"]={"id":"33A","name":"FAIRVIEW","lat":35.157333,"lon":-82.12375,"elevation":1046,"region":"K7","runways":[{"id":"RW14","lat":35.160069,"lon":-82.126953,"length":2770,"course":140.0},{"id":"RW32","lat":35.154586,"lon":-82.120525,"length":2770,"course":320.0}],"procedures":{"D":{},"E":{},"F":{}}};

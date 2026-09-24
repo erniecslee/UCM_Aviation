@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID95"]={"id":"ID95","name":"SUMMIT RIDGE RANCH AIRSTRIP","lat":43.861,"lon":-116.240944,"elevation":4180,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

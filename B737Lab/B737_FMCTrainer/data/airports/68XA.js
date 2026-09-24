@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68XA"]={"id":"68XA","name":"UTLEY","lat":30.188889,"lon":-97.414167,"elevation":350,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

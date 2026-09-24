@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE45"]={"id":"TE45","name":"BUFFALO CHIPS AIRPARK","lat":32.469861,"lon":-97.465297,"elevation":960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

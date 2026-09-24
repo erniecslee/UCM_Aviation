@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12TX"]={"id":"12TX","name":"GRIFFIN","lat":30.821389,"lon":-98.080556,"elevation":1235,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

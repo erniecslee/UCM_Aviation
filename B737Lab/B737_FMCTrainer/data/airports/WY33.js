@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY33"]={"id":"WY33","name":"MOUNTAIN KING RANCH","lat":42.816944,"lon":-110.278333,"elevation":7470,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

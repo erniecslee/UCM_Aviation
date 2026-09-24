@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE33"]={"id":"TE33","name":"RIATA RANCH","lat":30.131806,"lon":-99.293611,"elevation":2008,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

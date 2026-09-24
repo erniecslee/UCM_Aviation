@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO27"]={"id":"MO27","name":"CCC","lat":39.735281,"lon":-94.192722,"elevation":984,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

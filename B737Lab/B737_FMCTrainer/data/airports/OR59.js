@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR59"]={"id":"OR59","name":"TRIVELPIECE","lat":45.331503,"lon":-123.20705,"elevation":165,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA1"]={"id":"8GA1","name":"GUM CREEK","lat":33.421225,"lon":-85.161889,"elevation":1070,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

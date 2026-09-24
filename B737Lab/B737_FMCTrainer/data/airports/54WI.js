@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54WI"]={"id":"54WI","name":"FLYPLASSEN","lat":44.964236,"lon":-92.295333,"elevation":1300,"region":"K5","runways":[{"id":"RW18","lat":44.966192,"lon":-92.295333,"length":1425,"course":178.0},{"id":"RW36","lat":44.962283,"lon":-92.295333,"length":1425,"course":358.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA77"]={"id":"WA77","name":"ENUMCLAW","lat":47.195658,"lon":-122.022056,"elevation":738,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66OI"]={"id":"66OI","name":"GORMAN-GREEN","lat":40.781447,"lon":-82.055706,"elevation":1210,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

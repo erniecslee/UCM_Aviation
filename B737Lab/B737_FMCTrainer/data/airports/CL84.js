@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL84"]={"id":"CL84","name":"AHLEM FARMS","lat":37.388269,"lon":-120.927428,"elevation":73,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

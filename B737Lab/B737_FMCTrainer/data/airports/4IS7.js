@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IS7"]={"id":"4IS7","name":"LITCHFIELD","lat":40.073089,"lon":-88.3995,"elevation":704,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

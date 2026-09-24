@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN09"]={"id":"MN09","name":"CRYSTAL LAKE","lat":44.722186,"lon":-93.266889,"elevation":935,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

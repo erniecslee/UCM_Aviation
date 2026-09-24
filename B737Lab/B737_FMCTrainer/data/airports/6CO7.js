@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CO7"]={"id":"6CO7","name":"HAPPY BUTT","lat":39.595833,"lon":-104.234167,"elevation":5515,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

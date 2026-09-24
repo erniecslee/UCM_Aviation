@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NC1"]={"id":"3NC1","name":"WELBORN FARM","lat":36.205414,"lon":-80.658397,"elevation":1030,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

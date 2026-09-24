@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX74"]={"id":"TX74","name":"THOMAS FLYING FLD","lat":32.261389,"lon":-97.275278,"elevation":830,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS19"]={"id":"WS19","name":"PETIT CACHE","lat":46.893544,"lon":-90.820742,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

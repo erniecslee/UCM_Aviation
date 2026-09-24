@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79MS"]={"id":"79MS","name":"THORNTON FLD","lat":31.595517,"lon":-89.497075,"elevation":384,"region":"K7","runways":[{"id":"RW01","lat":31.592833,"lon":-89.497767,"length":2000,"course":14.4},{"id":"RW19","lat":31.598203,"lon":-89.496383,"length":2000,"course":194.4}],"procedures":{"D":{},"E":{},"F":{}}};

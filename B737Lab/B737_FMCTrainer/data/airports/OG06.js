@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG06"]={"id":"OG06","name":"TABLE ROCK","lat":43.211531,"lon":-120.843325,"elevation":4305,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

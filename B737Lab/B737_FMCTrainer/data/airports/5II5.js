@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5II5"]={"id":"5II5","name":"KOESTER FLD","lat":38.11805,"lon":-87.702033,"elevation":480,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

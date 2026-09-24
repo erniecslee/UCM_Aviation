@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE78"]={"id":"TE78","name":"FOSSIL CREEK RANCH","lat":29.5687,"lon":-99.974508,"elevation":1325,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

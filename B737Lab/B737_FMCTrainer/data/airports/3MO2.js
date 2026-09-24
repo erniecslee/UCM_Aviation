@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MO2"]={"id":"3MO2","name":"ULTRA FLIGHT AIRPARK","lat":38.690881,"lon":-91.340992,"elevation":502,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68TE"]={"id":"68TE","name":"NORRIS RAUN RANCH","lat":29.196086,"lon":-96.491914,"elevation":108,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

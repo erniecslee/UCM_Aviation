@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AZ6"]={"id":"4AZ6","name":"PARSONS FLD","lat":34.998064,"lon":-113.461597,"elevation":3760,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

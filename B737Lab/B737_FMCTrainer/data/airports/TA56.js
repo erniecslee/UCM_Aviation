@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA56"]={"id":"TA56","name":"FLOYD RANCH","lat":28.056653,"lon":-98.142042,"elevation":282,"region":"K4","runways":[{"id":"RW13","lat":28.059611,"lon":-98.145278,"length":3000,"course":132.6},{"id":"RW31","lat":28.053694,"lon":-98.138806,"length":3000,"course":312.6}],"procedures":{"D":{},"E":{},"F":{}}};

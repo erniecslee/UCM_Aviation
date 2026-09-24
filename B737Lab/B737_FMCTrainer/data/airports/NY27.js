@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY27"]={"id":"NY27","name":"SOUTH DAYTON","lat":42.370894,"lon":-79.009483,"elevation":1300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

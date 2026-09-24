@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FA7"]={"id":"3FA7","name":"FLYING 4 RANCH","lat":29.042664,"lon":-81.05695,"elevation":27,"region":"K7","runways":[{"id":"RW18","lat":29.044697,"lon":-81.05695,"length":1480,"course":187.2},{"id":"RW36","lat":29.040628,"lon":-81.05695,"length":1480,"course":7.2}],"procedures":{"D":{},"E":{},"F":{}}};

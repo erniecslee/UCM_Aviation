@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7PN0"]={"id":"7PN0","name":"TIDMORE","lat":40.705,"lon":-76.236389,"elevation":930,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

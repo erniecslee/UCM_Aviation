@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD09"]={"id":"FD09","name":"RLM FARMS","lat":27.810028,"lon":-80.85895,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM73"]={"id":"NM73","name":"AKIN AND AKIN","lat":34.772286,"lon":-103.856078,"elevation":4858,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

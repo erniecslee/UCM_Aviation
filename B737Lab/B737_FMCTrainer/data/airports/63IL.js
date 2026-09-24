@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63IL"]={"id":"63IL","name":"EMERICK","lat":42.183356,"lon":-88.594536,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

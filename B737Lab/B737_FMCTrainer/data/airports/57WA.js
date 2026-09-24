@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57WA"]={"id":"57WA","name":"CROWN CREEK RANCH","lat":48.858361,"lon":-117.949028,"elevation":1740,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

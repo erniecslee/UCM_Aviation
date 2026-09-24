@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38W"]={"id":"38W","name":"LYNDEN MUNI/JANSEN FLD","lat":48.955897,"lon":-122.458119,"elevation":106,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

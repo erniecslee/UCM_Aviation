@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42MD"]={"id":"42MD","name":"HERRINGTON FLD","lat":39.468267,"lon":-79.425283,"elevation":2470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL19"]={"id":"FL19","name":"CROSSWIND FARM","lat":29.24525,"lon":-82.353711,"elevation":74,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

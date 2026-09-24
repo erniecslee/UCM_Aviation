@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME6"]={"id":"ME6","name":"WALES","lat":44.174528,"lon":-70.018944,"elevation":210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

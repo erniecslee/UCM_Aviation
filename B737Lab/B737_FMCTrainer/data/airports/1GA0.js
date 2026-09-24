@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GA0"]={"id":"1GA0","name":"EAGLE NECK","lat":31.641036,"lon":-81.328333,"elevation":10,"region":"K7","runways":[{"id":"RW20","lat":31.645683,"lon":-81.326683,"length":3535,"course":200.9}],"procedures":{"D":{},"E":{},"F":{}}};

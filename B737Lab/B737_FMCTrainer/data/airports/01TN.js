@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01TN"]={"id":"01TN","name":"COLONIAL AIR PARK","lat":34.995925,"lon":-89.730639,"elevation":370,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC77"]={"id":"NC77","name":"CHALFANT","lat":35.455694,"lon":-80.575622,"elevation":587,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

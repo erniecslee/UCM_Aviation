@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52KS"]={"id":"52KS","name":"BLAND","lat":38.902783,"lon":-95.132192,"elevation":935,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

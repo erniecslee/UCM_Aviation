@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI25"]={"id":"OI25","name":"ROSS FLD","lat":39.365342,"lon":-83.354358,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

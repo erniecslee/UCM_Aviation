@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65TN"]={"id":"65TN","name":"ROACH FARM","lat":36.334167,"lon":-82.661667,"elevation":1750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

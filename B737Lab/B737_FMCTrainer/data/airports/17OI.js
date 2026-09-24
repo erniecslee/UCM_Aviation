@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17OI"]={"id":"17OI","name":"HAAS","lat":39.226733,"lon":-83.317689,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

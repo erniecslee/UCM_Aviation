@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NE3"]={"id":"2NE3","name":"RUSTY CRANKSHAFT","lat":40.606331,"lon":-96.621314,"elevation":1295,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

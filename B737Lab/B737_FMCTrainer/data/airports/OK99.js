@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK99"]={"id":"OK99","name":"SHERIDAN FLD","lat":36.288278,"lon":-98.023111,"elevation":1220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

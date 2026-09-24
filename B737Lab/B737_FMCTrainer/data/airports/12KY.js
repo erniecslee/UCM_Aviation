@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12KY"]={"id":"12KY","name":"JOHN M FOREE","lat":38.460344,"lon":-85.168567,"elevation":853,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

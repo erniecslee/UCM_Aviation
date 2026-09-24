@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63NY"]={"id":"63NY","name":"WINDSHEAR","lat":43.259306,"lon":-78.965611,"elevation":325,"region":"K6","runways":[{"id":"RW18","lat":43.263619,"lon":-78.965617,"length":3153,"course":190.2},{"id":"RW36","lat":43.254969,"lon":-78.965592,"length":3153,"course":10.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA85"]={"id":"AA85","name":"WALBY LAKE","lat":61.616419,"lon":-149.221031,"elevation":114,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

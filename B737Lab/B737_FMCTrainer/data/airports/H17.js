@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H17"]={"id":"H17","name":"BUFFALO MUNI","lat":37.654083,"lon":-93.087,"elevation":1154,"region":"K3","runways":[{"id":"RW22","lat":37.657725,"lon":-93.083861,"length":3220,"course":210.3}],"procedures":{"D":{},"E":{},"F":{}}};

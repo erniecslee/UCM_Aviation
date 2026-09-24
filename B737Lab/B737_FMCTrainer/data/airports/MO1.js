@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO1"]={"id":"MO1","name":"RICHLAND MUNI","lat":37.874889,"lon":-92.408056,"elevation":1110,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

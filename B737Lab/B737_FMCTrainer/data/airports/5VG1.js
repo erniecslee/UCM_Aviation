@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5VG1"]={"id":"5VG1","name":"BLACK BRIDGE","lat":37.615539,"lon":-79.505317,"elevation":808,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

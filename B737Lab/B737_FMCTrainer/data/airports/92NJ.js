@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92NJ"]={"id":"92NJ","name":"FLYING B FARM LANDING STRIP","lat":40.468436,"lon":-75.002392,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

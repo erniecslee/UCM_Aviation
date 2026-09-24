@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR10"]={"id":"OR10","name":"ROARING SPRINGS RANCH","lat":42.649606,"lon":-118.991589,"elevation":4576,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

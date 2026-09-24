@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN25"]={"id":"PN25","name":"LINDSAY","lat":40.735619,"lon":-79.688661,"elevation":1080,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

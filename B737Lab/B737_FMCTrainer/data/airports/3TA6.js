@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TA6"]={"id":"3TA6","name":"SPRING RANCH","lat":29.541894,"lon":-100.253131,"elevation":1440,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

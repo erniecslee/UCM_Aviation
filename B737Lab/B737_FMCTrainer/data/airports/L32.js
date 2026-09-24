@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L32"]={"id":"L32","name":"JONESVILLE","lat":31.62025,"lon":-91.834278,"elevation":56,"region":"K4","runways":[{"id":"RW06","lat":31.618172,"lon":-91.838422,"length":2993,"course":55.5},{"id":"RW24","lat":31.622353,"lon":-91.830142,"length":2993,"course":235.5}],"procedures":{"D":{},"E":{},"F":{}}};

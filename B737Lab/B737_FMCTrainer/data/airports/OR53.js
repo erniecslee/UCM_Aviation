@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR53"]={"id":"OR53","name":"WAPINITIA","lat":45.145672,"lon":-121.228953,"elevation":1910,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

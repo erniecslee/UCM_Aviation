@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6GA4"]={"id":"6GA4","name":"SPRING VALLEY FARM","lat":33.797056,"lon":-83.851292,"elevation":920,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

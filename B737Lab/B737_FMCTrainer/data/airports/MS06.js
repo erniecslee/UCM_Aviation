@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS06"]={"id":"MS06","name":"LINWOOD","lat":32.790411,"lon":-90.138142,"elevation":285,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

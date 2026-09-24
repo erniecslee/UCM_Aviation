@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY55"]={"id":"WY55","name":"TAYLOR FLD","lat":44.419311,"lon":-104.595717,"elevation":4950,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

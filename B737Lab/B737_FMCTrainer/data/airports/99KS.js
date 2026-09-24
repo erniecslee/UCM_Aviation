@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99KS"]={"id":"99KS","name":"NEUSTRIP","lat":38.603703,"lon":-97.765547,"elevation":1610,"region":"K3","runways":[{"id":"RW18","lat":38.607128,"lon":-97.765264,"length":2500,"course":180.5},{"id":"RW36","lat":38.600278,"lon":-97.765833,"length":2500,"course":0.5}],"procedures":{"D":{},"E":{},"F":{}}};

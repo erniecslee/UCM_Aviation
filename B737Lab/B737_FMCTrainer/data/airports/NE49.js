@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE49"]={"id":"NE49","name":"KOKE","lat":41.0702,"lon":-96.245603,"elevation":1242,"region":"K3","runways":[{"id":"N","lat":41.067069,"lon":-96.2456,"length":2280,"course":354.0},{"id":"S","lat":41.073328,"lon":-96.245606,"length":2280,"course":174.0}],"procedures":{"D":{},"E":{},"F":{}}};

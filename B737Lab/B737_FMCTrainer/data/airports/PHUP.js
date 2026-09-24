@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PHUP"]={"id":"PHUP","name":"UPOLU","lat":20.265194,"lon":-155.859944,"elevation":96,"region":"PH","runways":[{"id":"RW07","lat":20.264022,"lon":-155.86535,"length":3800,"course":66.0},{"id":"RW25","lat":20.266378,"lon":-155.854544,"length":3800,"course":246.0}],"procedures":{"D":{},"E":{},"F":{}}};

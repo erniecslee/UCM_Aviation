@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA01"]={"id":"TA01","name":"PHILLIPS FARM","lat":32.341811,"lon":-97.250292,"elevation":800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

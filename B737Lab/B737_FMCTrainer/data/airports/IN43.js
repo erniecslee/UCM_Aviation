@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN43"]={"id":"IN43","name":"SPRING LAKE","lat":38.475061,"lon":-85.997194,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NY7"]={"id":"8NY7","name":"ONEIDA LAKE STRIP","lat":43.169056,"lon":-75.705722,"elevation":380,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

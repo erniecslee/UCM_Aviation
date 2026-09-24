@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA35"]={"id":"FA35","name":"LINDBERGH'S LANDING","lat":25.619528,"lon":-80.488667,"elevation":9,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

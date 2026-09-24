@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS56"]={"id":"IS56","name":"HERREN","lat":40.088103,"lon":-90.885411,"elevation":654,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

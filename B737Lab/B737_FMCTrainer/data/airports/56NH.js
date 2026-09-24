@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56NH"]={"id":"56NH","name":"THERRIAULTS LANDING","lat":43.481111,"lon":-71.056861,"elevation":675,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

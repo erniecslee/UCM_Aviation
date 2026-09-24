@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IL9"]={"id":"6IL9","name":"GELDEAN","lat":41.513994,"lon":-89.631053,"elevation":745,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

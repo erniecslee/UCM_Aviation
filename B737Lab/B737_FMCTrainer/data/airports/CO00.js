@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO00"]={"id":"CO00","name":"FLAGLER AERIAL SPRAYING INC","lat":39.279992,"lon":-103.066603,"elevation":4945,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

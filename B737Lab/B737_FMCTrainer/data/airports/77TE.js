@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77TE"]={"id":"77TE","name":"FOGGY BOTTOM","lat":33.036678,"lon":-95.293183,"elevation":430,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL30"]={"id":"AL30","name":"ROCKY SPRINGS AIRPARK","lat":33.990833,"lon":-87.077778,"elevation":649,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI35"]={"id":"MI35","name":"CLAUCHERTY","lat":42.077822,"lon":-84.829133,"elevation":988,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

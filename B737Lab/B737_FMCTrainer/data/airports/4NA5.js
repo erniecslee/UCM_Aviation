@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NA5"]={"id":"4NA5","name":"BERG STRIP","lat":48.288347,"lon":-101.828219,"elevation":2250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

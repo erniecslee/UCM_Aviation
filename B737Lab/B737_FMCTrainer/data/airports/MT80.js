@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT80"]={"id":"MT80","name":"VINE","lat":48.043072,"lon":-105.608889,"elevation":2075,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

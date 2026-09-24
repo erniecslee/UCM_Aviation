@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA84"]={"id":"FA84","name":"LAKE TARPON","lat":28.125,"lon":-82.726944,"elevation":3,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

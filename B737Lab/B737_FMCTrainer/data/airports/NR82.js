@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR82"]={"id":"NR82","name":"CAROLINA BAY","lat":34.097222,"lon":-78.719722,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

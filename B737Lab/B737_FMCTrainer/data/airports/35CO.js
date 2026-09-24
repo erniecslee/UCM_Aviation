@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35CO"]={"id":"35CO","name":"LONE TREE RANCH","lat":38.882,"lon":-103.808967,"elevation":5525,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

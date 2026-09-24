@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38LA"]={"id":"38LA","name":"WHITEVILLE","lat":30.784361,"lon":-92.182344,"elevation":43,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

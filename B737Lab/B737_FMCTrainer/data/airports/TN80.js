@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN80"]={"id":"TN80","name":"SCHIFF","lat":36.233394,"lon":-85.426361,"elevation":1260,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

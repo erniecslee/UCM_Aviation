@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH18"]={"id":"OH18","name":"FREEFALL FLD","lat":40.9325,"lon":-83.140278,"elevation":885,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

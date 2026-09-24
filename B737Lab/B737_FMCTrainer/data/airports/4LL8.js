@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LL8"]={"id":"4LL8","name":"COLONIAL ACRES","lat":42.002806,"lon":-88.645919,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC18"]={"id":"NC18","name":"RAT LANDING","lat":36.389444,"lon":-76.911389,"elevation":14,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

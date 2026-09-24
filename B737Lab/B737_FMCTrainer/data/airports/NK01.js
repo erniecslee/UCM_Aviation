@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK01"]={"id":"NK01","name":"COUNTRYMAN'S LANDING STRIP","lat":43.999511,"lon":-75.604914,"elevation":790,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

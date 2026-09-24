@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LL8"]={"id":"1LL8","name":"ZOOMER FLD","lat":40.788925,"lon":-87.558361,"elevation":680,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

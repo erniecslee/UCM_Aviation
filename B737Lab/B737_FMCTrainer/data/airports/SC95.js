@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC95"]={"id":"SC95","name":"PERRY INTL","lat":33.629317,"lon":-81.329722,"elevation":438,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

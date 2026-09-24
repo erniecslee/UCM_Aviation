@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN82"]={"id":"IN82","name":"FOOS FLD","lat":41.750125,"lon":-86.087875,"elevation":790,"region":"K5","runways":[{"id":"RW18","lat":41.753417,"lon":-86.087861,"length":2400,"course":183.0},{"id":"RW36","lat":41.746833,"lon":-86.087889,"length":2400,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

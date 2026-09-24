@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12NK"]={"id":"12NK","name":"WESTPORT","lat":44.158386,"lon":-73.432906,"elevation":276,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN32"]={"id":"SN32","name":"RANDS","lat":37.425553,"lon":-97.269956,"elevation":1208,"region":"K3","runways":[{"id":"RW17","lat":37.4283,"lon":-97.270008,"length":2000,"course":172.0},{"id":"RW35","lat":37.422806,"lon":-97.269903,"length":2000,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

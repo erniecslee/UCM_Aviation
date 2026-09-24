@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA25"]={"id":"FA25","name":"BLACK CREEK PASS","lat":30.50095,"lon":-84.0781,"elevation":95,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

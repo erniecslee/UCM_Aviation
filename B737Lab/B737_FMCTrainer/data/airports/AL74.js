@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL74"]={"id":"AL74","name":"GRIMES FLD","lat":30.764356,"lon":-88.305842,"elevation":215,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

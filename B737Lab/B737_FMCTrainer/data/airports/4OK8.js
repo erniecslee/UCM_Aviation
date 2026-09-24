@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OK8"]={"id":"4OK8","name":"JUSTICE FLD","lat":36.162139,"lon":-97.013711,"elevation":970,"region":"K4","runways":[{"id":"RW09","lat":36.162214,"lon":-97.0151,"length":823,"course":91.2},{"id":"RW27","lat":36.162061,"lon":-97.012319,"length":823,"course":271.2}],"procedures":{"D":{},"E":{},"F":{}}};

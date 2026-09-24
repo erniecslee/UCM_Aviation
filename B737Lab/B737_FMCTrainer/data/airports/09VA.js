@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09VA"]={"id":"09VA","name":"ALUM RIDGE","lat":36.976517,"lon":-80.493944,"elevation":2375,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

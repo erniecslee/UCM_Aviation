@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2S4"]={"id":"2S4","name":"WARDEN","lat":46.965814,"lon":-119.066331,"elevation":1276,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MI5"]={"id":"1MI5","name":"MCKENZIE'S LANDING","lat":42.603056,"lon":-83.859722,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78Z"]={"id":"78Z","name":"NANCY LAKE","lat":61.703319,"lon":-150.007139,"elevation":214,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

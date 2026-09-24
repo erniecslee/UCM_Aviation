@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AR4"]={"id":"5AR4","name":"BASELINE","lat":34.6425,"lon":-91.094722,"elevation":185,"region":"K4","runways":[{"id":"RW18","lat":34.646111,"lon":-91.094722,"length":2628,"course":181.2},{"id":"RW36","lat":34.638889,"lon":-91.094722,"length":2628,"course":1.2}],"procedures":{"D":{},"E":{},"F":{}}};

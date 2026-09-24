@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN56"]={"id":"IN56","name":"CARROLL'S AIRPARK","lat":40.126944,"lon":-85.431944,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

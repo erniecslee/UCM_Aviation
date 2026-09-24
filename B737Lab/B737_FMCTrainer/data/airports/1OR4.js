@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OR4"]={"id":"1OR4","name":"NORTH PLAINS","lat":45.604003,"lon":-123.024828,"elevation":210,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

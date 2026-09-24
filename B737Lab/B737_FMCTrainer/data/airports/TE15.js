@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE15"]={"id":"TE15","name":"M & M LAND COMPANY","lat":30.891008,"lon":-99.632567,"elevation":1800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

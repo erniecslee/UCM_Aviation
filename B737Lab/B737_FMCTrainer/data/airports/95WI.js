@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95WI"]={"id":"95WI","name":"WISERSKY","lat":42.936111,"lon":-89.129722,"elevation":965,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

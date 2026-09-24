@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA00"]={"id":"AA00","name":"SHUMP","lat":62.51015,"lon":-149.926717,"elevation":1670,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

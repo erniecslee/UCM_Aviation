@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37IA"]={"id":"37IA","name":"NEMO FLD","lat":41.849667,"lon":-90.477353,"elevation":725,"region":"K3","runways":[{"id":"RW09","lat":41.849642,"lon":-90.482692,"length":2910,"course":91.7},{"id":"RW27","lat":41.849686,"lon":-90.473872,"length":2910,"course":271.7}],"procedures":{"D":{},"E":{},"F":{}}};

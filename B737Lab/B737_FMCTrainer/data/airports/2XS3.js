@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XS3"]={"id":"2XS3","name":"GLAD OAKS","lat":32.020147,"lon":-95.695039,"elevation":487,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

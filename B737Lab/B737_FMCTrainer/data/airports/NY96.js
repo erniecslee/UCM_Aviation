@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY96"]={"id":"NY96","name":"MEXICO AIRDROME","lat":43.426736,"lon":-76.193817,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

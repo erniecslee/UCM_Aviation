@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20KT"]={"id":"20KT","name":"BRUSHY FORK FLD","lat":37.680639,"lon":-86.469319,"elevation":576,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

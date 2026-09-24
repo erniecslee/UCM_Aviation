@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II70"]={"id":"II70","name":"SALSBERY","lat":40.385008,"lon":-86.063647,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7L8"]={"id":"7L8","name":"POST-AIR","lat":39.750042,"lon":-86.013872,"elevation":861,"region":"K5","runways":[{"id":"RW10","lat":39.751269,"lon":-86.022003,"length":3750,"course":102.0},{"id":"RW28","lat":39.749486,"lon":-86.008869,"length":3750,"course":282.0}],"procedures":{"D":{},"E":{},"F":{}}};

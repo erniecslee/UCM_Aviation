@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO42"]={"id":"CO42","name":"CIRCLE 8 RANCH","lat":39.334711,"lon":-104.546358,"elevation":6650,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

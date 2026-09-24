@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13NC"]={"id":"13NC","name":"OAK GROVE MCOLF","lat":35.033492,"lon":-77.249678,"elevation":27,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

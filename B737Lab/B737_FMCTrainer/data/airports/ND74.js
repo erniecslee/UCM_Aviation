@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND74"]={"id":"ND74","name":"SMITH PVT","lat":47.016642,"lon":-97.162864,"elevation":940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

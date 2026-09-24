@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3X5"]={"id":"3X5","name":"NORTH BASS ISLAND","lat":41.718,"lon":-82.821111,"elevation":594,"region":"K5","runways":[{"id":"RW01","lat":41.715525,"lon":-82.82125,"length":1804,"course":8.0},{"id":"RW19","lat":41.720472,"lon":-82.820972,"length":1804,"course":188.0}],"procedures":{"D":{},"E":{},"F":{}}};

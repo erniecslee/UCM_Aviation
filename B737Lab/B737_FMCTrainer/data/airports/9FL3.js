@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FL3"]={"id":"9FL3","name":"LAKE JOSEPHINE","lat":27.396944,"lon":-81.426667,"elevation":85,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

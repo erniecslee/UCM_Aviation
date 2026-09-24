@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IN2"]={"id":"2IN2","name":"GERIG'S FLD","lat":41.009167,"lon":-85.371389,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

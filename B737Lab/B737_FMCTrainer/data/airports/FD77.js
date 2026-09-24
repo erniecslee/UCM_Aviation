@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD77"]={"id":"FD77","name":"WIMAUMA AIR PARK","lat":27.711975,"lon":-82.282869,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88NC"]={"id":"88NC","name":"CORRIHER FLD","lat":35.6325,"lon":-80.685278,"elevation":840,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

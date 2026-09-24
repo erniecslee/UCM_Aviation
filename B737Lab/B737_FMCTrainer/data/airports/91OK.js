@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91OK"]={"id":"91OK","name":"THE FLYING COWBOY","lat":34.642014,"lon":-99.371197,"elevation":1365,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

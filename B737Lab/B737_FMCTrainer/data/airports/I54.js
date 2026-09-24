@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I54"]={"id":"I54","name":"MAD RIVER AIRPARK","lat":40.020058,"lon":-83.828542,"elevation":958,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

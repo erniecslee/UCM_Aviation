@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14J"]={"id":"14J","name":"CARL FOLSOM","lat":31.410042,"lon":-86.090336,"elevation":258,"region":"K7","runways":[{"id":"RW02","lat":31.405992,"lon":-86.091653,"length":3050,"course":15.4},{"id":"RW20","lat":31.414075,"lon":-86.089058,"length":3050,"course":195.4}],"procedures":{"D":{},"E":{},"F":{}}};

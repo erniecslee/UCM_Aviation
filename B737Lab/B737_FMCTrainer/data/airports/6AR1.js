@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AR1"]={"id":"6AR1","name":"ELDER AIRSTRIP","lat":36.277908,"lon":-94.1966,"elevation":1300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

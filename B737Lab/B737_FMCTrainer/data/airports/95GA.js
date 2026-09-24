@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95GA"]={"id":"95GA","name":"MCINTOSH FLD","lat":33.455947,"lon":-84.942994,"elevation":771,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OR0"]={"id":"5OR0","name":"BACKACHERS RANCH","lat":42.285114,"lon":-123.533119,"elevation":1460,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

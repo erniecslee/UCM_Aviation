@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG42"]={"id":"OG42","name":"QUAIL FLD","lat":45.654853,"lon":-118.589694,"elevation":1610,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

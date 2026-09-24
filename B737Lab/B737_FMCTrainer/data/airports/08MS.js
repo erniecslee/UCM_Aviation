@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08MS"]={"id":"08MS","name":"MIDSOUTH AIRPARK","lat":34.662222,"lon":-89.868333,"elevation":345,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

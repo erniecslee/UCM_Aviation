@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR72"]={"id":"NR72","name":"BLACKHAWK FLD","lat":35.459,"lon":-80.371819,"elevation":746,"region":"K7","runways":[{"id":"RW01","lat":35.456633,"lon":-80.372272,"length":1746,"course":17.2},{"id":"RW19","lat":35.461372,"lon":-80.371367,"length":1746,"course":197.2}],"procedures":{"D":{},"E":{},"F":{}}};

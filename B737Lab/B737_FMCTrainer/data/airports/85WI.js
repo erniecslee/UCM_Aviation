@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85WI"]={"id":"85WI","name":"CUB BEAR","lat":45.044433,"lon":-92.292772,"elevation":1240,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

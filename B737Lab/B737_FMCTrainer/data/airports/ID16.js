@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID16"]={"id":"ID16","name":"SLUDER AIRSTRIP","lat":43.403517,"lon":-114.272544,"elevation":5017,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK68"]={"id":"AK68","name":"MINUTEMAN STRIP","lat":61.720278,"lon":-150.054444,"elevation":290,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04A"]={"id":"04A","name":"FRANK SIKES","lat":31.736386,"lon":-86.262456,"elevation":302,"region":"K7","runways":[{"id":"RW04","lat":31.733217,"lon":-86.265939,"length":4649,"course":43.0},{"id":"RW22","lat":31.739292,"lon":-86.259264,"length":4649,"course":223.0}],"procedures":{"D":{},"E":{},"F":{}}};

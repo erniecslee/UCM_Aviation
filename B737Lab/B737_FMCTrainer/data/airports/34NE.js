@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34NE"]={"id":"34NE","name":"EVANS RANCH","lat":41.223886,"lon":-100.934597,"elevation":2895,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

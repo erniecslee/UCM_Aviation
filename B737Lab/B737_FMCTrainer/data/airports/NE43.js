@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE43"]={"id":"NE43","name":"MUSIEL","lat":41.438425,"lon":-96.752433,"elevation":1262,"region":"K3","runways":[{"id":"RW18","lat":41.440033,"lon":-96.752314,"length":1175,"course":177.0},{"id":"RW36","lat":41.436814,"lon":-96.752553,"length":1175,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

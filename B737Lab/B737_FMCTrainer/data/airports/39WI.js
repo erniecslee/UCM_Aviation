@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39WI"]={"id":"39WI","name":"J & B","lat":43.484697,"lon":-90.619853,"elevation":1200,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

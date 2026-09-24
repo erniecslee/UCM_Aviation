@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0C2"]={"id":"0C2","name":"HINCKLEY","lat":41.770864,"lon":-88.703414,"elevation":760,"region":"K5","runways":[{"id":"RW09","lat":41.770856,"lon":-88.708364,"length":2640,"course":90.0},{"id":"RW27","lat":41.770861,"lon":-88.698692,"length":2640,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

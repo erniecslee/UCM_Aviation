@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI74"]={"id":"WI74","name":"BUCK KNOB","lat":44.667861,"lon":-91.891111,"elevation":845,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

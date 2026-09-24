@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NE4"]={"id":"8NE4","name":"BORNEMEIER AIRSTRIP","lat":40.867778,"lon":-96.284722,"elevation":1292,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

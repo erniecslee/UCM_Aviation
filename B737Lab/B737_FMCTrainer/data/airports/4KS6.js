@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KS6"]={"id":"4KS6","name":"THOMSEN FLD","lat":38.241686,"lon":-95.906656,"elevation":1140,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

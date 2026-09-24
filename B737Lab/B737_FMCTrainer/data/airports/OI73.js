@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI73"]={"id":"OI73","name":"WILLIAMSON","lat":39.712561,"lon":-83.803814,"elevation":1060,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

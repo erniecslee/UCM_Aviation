@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS03"]={"id":"MS03","name":"CHRISTMAS FLYING SERVICE","lat":33.924278,"lon":-90.787044,"elevation":153,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN44"]={"id":"MN44","name":"ANGEN FLD","lat":45.936131,"lon":-95.525519,"elevation":1450,"region":"K3","runways":[{"id":"RW11","lat":45.937597,"lon":-95.530603,"length":2800,"course":107.5},{"id":"RW29","lat":45.934664,"lon":-95.520433,"length":2800,"course":287.5}],"procedures":{"D":{},"E":{},"F":{}}};

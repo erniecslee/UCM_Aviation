@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL11"]={"id":"IL11","name":"DONALD ALFRED GADE","lat":42.465297,"lon":-88.040358,"elevation":805,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

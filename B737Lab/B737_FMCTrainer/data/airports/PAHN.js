@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAHN"]={"id":"PAHN","name":"HAINES","lat":59.243831,"lon":-135.523536,"elevation":29,"region":"PA","runways":[{"id":"RW08","lat":59.245717,"lon":-135.533564,"length":4000,"course":90.0},{"id":"RW26","lat":59.241944,"lon":-135.513508,"length":4000,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

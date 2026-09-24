@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IL8"]={"id":"3IL8","name":"KUNTZ","lat":40.697944,"lon":-88.947,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["BW8"]={"id":"BW8","name":"BULLWHACKER","lat":47.847778,"lon":-109.099444,"elevation":3100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

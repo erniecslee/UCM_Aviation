@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08TX"]={"id":"08TX","name":"CROSS WIND","lat":32.858181,"lon":-97.747531,"elevation":1040,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL1"]={"id":"5LL1","name":"HILVETY","lat":39.650039,"lon":-88.975078,"elevation":674,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

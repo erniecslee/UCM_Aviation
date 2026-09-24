@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA98"]={"id":"VA98","name":"REEDVILLE","lat":37.828186,"lon":-76.273278,"elevation":12,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

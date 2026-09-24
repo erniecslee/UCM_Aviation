@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H47"]={"id":"H47","name":"HYAMPOM","lat":40.625611,"lon":-123.4685,"elevation":1277,"region":"K2","runways":[{"id":"RW14","lat":40.629267,"lon":-123.470939,"length":2980,"course":135.9},{"id":"RW32","lat":40.623756,"lon":-123.467236,"length":2980,"course":315.9}],"procedures":{"D":{},"E":{},"F":{}}};

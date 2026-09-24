@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SD0"]={"id":"1SD0","name":"DORSEY RANCH","lat":45.323033,"lon":-101.742089,"elevation":2350,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

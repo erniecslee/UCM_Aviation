@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM51"]={"id":"NM51","name":"CHLORIDE","lat":33.328417,"lon":-107.661889,"elevation":6202,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

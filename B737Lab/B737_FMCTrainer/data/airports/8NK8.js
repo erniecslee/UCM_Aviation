@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NK8"]={"id":"8NK8","name":"MISTER DOG","lat":43.565,"lon":-73.608611,"elevation":360,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TE4"]={"id":"8TE4","name":"H & F PROPERTIES","lat":28.814975,"lon":-99.758108,"elevation":640,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

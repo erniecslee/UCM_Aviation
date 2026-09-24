@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CA6"]={"id":"6CA6","name":"EAGLE RIDGE RANCH","lat":38.324528,"lon":-120.478225,"elevation":2870,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

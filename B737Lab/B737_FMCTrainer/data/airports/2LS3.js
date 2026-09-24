@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LS3"]={"id":"2LS3","name":"MAJORS AIRPARK","lat":30.616628,"lon":-91.769167,"elevation":34,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48NH"]={"id":"48NH","name":"WINTER HARBOR","lat":43.593889,"lon":-71.261389,"elevation":504,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY66"]={"id":"NY66","name":"LEWIS FLD","lat":43.133406,"lon":-74.116242,"elevation":900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

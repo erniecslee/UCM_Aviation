@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II84"]={"id":"II84","name":"HILAKOS","lat":37.931986,"lon":-87.771411,"elevation":381,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

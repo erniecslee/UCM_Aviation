@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNHU"]={"id":"KNHU","name":"NORFOLK NS","lat":36.955653,"lon":-76.303758,"elevation":10,"region":"K6","runways":[{"id":"RW09","lat":36.955494,"lon":-76.306669,"length":1705,"course":96.0},{"id":"RW27","lat":36.955811,"lon":-76.300844,"length":1705,"course":276.0}],"procedures":{"D":{},"E":{},"F":{}}};

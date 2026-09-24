@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C55"]={"id":"C55","name":"OGLE COUNTY","lat":42.037061,"lon":-89.39295,"elevation":929,"region":"K5","runways":[{"id":"RW09","lat":42.03725,"lon":-89.3978,"length":2640,"course":93.0},{"id":"RW27","lat":42.036869,"lon":-89.388097,"length":2640,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

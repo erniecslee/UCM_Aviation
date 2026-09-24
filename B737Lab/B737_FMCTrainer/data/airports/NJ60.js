@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ60"]={"id":"NJ60","name":"CUDDIHY LANDING STRIP","lat":40.187058,"lon":-74.267089,"elevation":105,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

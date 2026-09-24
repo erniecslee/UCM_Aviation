@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79SC"]={"id":"79SC","name":"GREEN SEA","lat":34.185556,"lon":-79.020589,"elevation":95,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

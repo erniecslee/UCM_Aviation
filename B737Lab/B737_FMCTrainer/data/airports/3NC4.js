@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NC4"]={"id":"3NC4","name":"MCCOMB FLD","lat":35.053483,"lon":-80.408953,"elevation":545,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

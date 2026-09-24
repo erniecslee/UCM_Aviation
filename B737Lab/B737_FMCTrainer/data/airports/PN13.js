@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN13"]={"id":"PN13","name":"C & W MILLIRON FLYING FLD","lat":41.287286,"lon":-79.166428,"elevation":1700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

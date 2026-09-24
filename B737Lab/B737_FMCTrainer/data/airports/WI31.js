@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI31"]={"id":"WI31","name":"MINNESUING","lat":46.410169,"lon":-91.653739,"elevation":1207,"region":"K5","runways":[{"id":"RW18","lat":46.416447,"lon":-91.653489,"length":5300,"course":180.6},{"id":"RW36","lat":46.403703,"lon":-91.653994,"length":5300,"course":0.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88M"]={"id":"88M","name":"EUREKA","lat":48.968417,"lon":-115.079417,"elevation":2672,"region":"K1","runways":[{"id":"RW01","lat":48.963014,"lon":-115.082431,"length":4200,"course":1.2},{"id":"RW19","lat":48.973814,"lon":-115.076381,"length":4200,"course":181.2}],"procedures":{"D":{},"E":{},"F":{}}};

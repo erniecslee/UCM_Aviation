@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NY8"]={"id":"4NY8","name":"HARRIS HILL","lat":42.120908,"lon":-76.901072,"elevation":1709,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

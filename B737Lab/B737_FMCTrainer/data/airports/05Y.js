@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05Y"]={"id":"05Y","name":"HENNING MUNI","lat":46.303989,"lon":-95.442258,"elevation":1455,"region":"K3","runways":[{"id":"RW17","lat":46.308375,"lon":-95.442258,"length":3199,"course":175.0},{"id":"RW35","lat":46.299603,"lon":-95.442258,"length":3199,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

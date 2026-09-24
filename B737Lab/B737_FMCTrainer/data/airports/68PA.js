@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68PA"]={"id":"68PA","name":"DON'S PLACE AIRPARK","lat":40.51815,"lon":-75.916317,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

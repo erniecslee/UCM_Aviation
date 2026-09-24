@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4ME4"]={"id":"4ME4","name":"LOVEWELL POND","lat":44.006769,"lon":-70.933631,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15MO"]={"id":"15MO","name":"MONTE CARLO","lat":38.593439,"lon":-92.127444,"elevation":744,"region":"K3","runways":[{"id":"RW14","lat":38.595111,"lon":-92.129364,"length":1640,"course":138.6},{"id":"RW32","lat":38.591767,"lon":-92.125522,"length":1640,"course":318.6}],"procedures":{"D":{},"E":{},"F":{}}};

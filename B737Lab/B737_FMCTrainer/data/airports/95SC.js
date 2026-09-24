@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95SC"]={"id":"95SC","name":"BUCKEYE FLD","lat":33.371761,"lon":-81.463986,"elevation":310,"region":"K7","runways":[{"id":"RW13","lat":33.374053,"lon":-81.4668,"length":2395,"course":141.6},{"id":"RW31","lat":33.369467,"lon":-81.461175,"length":2395,"course":321.6}],"procedures":{"D":{},"E":{},"F":{}}};

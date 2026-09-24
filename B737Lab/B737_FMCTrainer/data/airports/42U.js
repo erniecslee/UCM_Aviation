@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42U"]={"id":"42U","name":"MORGAN COUNTY","lat":41.148675,"lon":-111.76715,"elevation":5020,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

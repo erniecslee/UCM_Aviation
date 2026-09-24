@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA13"]={"id":"FA13","name":"TREASURE LAGOON","lat":28.4475,"lon":-80.722361,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

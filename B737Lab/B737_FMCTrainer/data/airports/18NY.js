@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18NY"]={"id":"18NY","name":"STRIP IN THE WOODS","lat":42.016481,"lon":-74.049028,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

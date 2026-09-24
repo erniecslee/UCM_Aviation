@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV12"]={"id":"NV12","name":"I-L RANCH","lat":41.563792,"lon":-116.409267,"elevation":5368,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

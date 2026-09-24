@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI60"]={"id":"WI60","name":"DEER HAVEN RANCH","lat":44.832767,"lon":-88.463158,"elevation":811,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

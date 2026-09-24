@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TS7"]={"id":"4TS7","name":"ALLISON RANCH","lat":30.450169,"lon":-102.926547,"elevation":4572,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

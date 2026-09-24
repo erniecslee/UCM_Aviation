@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MO7"]={"id":"7MO7","name":"MCGUIRE AIRFIELD","lat":37.399742,"lon":-94.209594,"elevation":989,"region":"K3","runways":[{"id":"RW01","lat":37.39615,"lon":-94.210289,"length":2646,"course":7.9},{"id":"RW19","lat":37.403333,"lon":-94.2089,"length":2646,"course":187.9}],"procedures":{"D":{},"E":{},"F":{}}};

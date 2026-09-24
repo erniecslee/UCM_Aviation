@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68AL"]={"id":"68AL","name":"HEART OF DIXIE AERO ESTATES","lat":31.8084,"lon":-86.525,"elevation":382,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4ME7"]={"id":"4ME7","name":"BIG INDIAN","lat":44.937806,"lon":-69.384306,"elevation":267,"region":"K6","runways":[{"id":"RW05W","lat":44.926411,"lon":-69.394978,"length":10000,"course":48.6},{"id":"RW23W","lat":44.9492,"lon":-69.373631,"length":10000,"course":228.6}],"procedures":{"D":{},"E":{},"F":{}}};

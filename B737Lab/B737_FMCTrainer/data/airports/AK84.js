@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK84"]={"id":"AK84","name":"SCOOTERS LANDING STRIP","lat":60.529444,"lon":-150.830833,"elevation":259,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

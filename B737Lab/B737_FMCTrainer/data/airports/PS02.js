@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS02"]={"id":"PS02","name":"HEBERLIG","lat":40.164256,"lon":-77.370542,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA42"]={"id":"FA42","name":"SHEETS","lat":28.532867,"lon":-81.846717,"elevation":118,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53VA"]={"id":"53VA","name":"HORSE FEATHERS","lat":38.634011,"lon":-77.757492,"elevation":390,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

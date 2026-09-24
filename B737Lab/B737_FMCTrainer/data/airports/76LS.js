@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76LS"]={"id":"76LS","name":"COOL CREEK","lat":30.956208,"lon":-90.546725,"elevation":251,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

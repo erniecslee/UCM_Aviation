@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35LA"]={"id":"35LA","name":"MS PATS","lat":29.974456,"lon":-92.176128,"elevation":10,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR52"]={"id":"OR52","name":"VENELL","lat":44.473456,"lon":-123.3026,"elevation":246,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

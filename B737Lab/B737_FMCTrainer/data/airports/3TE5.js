@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TE5"]={"id":"3TE5","name":"STAMPS FLD","lat":35.330603,"lon":-101.385167,"elevation":3445,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

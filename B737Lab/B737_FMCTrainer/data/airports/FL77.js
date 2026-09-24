@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL77"]={"id":"FL77","name":"CALUSA RANCH","lat":26.054536,"lon":-81.067847,"elevation":15,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29OH"]={"id":"29OH","name":"FOX","lat":40.68645,"lon":-81.302611,"elevation":1020,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

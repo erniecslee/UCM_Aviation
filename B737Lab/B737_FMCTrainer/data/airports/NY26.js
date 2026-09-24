@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY26"]={"id":"NY26","name":"SKY-RANCH","lat":42.983406,"lon":-74.899597,"elevation":1330,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

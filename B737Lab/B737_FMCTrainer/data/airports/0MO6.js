@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MO6"]={"id":"0MO6","name":"HARRISON","lat":40.076611,"lon":-92.319281,"elevation":875,"region":"K3","runways":[{"id":"RW03","lat":40.074478,"lon":-92.321536,"length":2000,"course":39.4},{"id":"RW21","lat":40.078758,"lon":-92.317058,"length":2000,"course":219.4}],"procedures":{"D":{},"E":{},"F":{}}};

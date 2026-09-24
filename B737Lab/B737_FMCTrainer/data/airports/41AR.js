@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41AR"]={"id":"41AR","name":"ASHWORTH","lat":34.123333,"lon":-93.349722,"elevation":501,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

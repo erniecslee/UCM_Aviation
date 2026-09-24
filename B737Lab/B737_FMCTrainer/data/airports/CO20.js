@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO20"]={"id":"CO20","name":"FLYING W RANCH","lat":38.862483,"lon":-107.82145,"elevation":6885,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

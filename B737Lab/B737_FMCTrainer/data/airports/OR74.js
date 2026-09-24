@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR74"]={"id":"OR74","name":"WINKLE BAR","lat":42.7015,"lon":-123.805081,"elevation":450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

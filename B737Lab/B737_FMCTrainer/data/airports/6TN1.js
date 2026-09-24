@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TN1"]={"id":"6TN1","name":"WEAKLEYS FLD","lat":36.405278,"lon":-87.082222,"elevation":705,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

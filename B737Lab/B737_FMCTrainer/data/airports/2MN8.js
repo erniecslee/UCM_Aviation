@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MN8"]={"id":"2MN8","name":"MED-CITY AVIATION","lat":43.996075,"lon":-92.335725,"elevation":1227,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

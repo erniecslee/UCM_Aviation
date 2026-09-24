@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30MT"]={"id":"30MT","name":"NISTLER HELENA","lat":46.570928,"lon":-112.237942,"elevation":4753,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

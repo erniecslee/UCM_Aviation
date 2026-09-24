@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL71"]={"id":"IL71","name":"DURY ESTATES","lat":37.819167,"lon":-89.152222,"elevation":395,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AK4"]={"id":"1AK4","name":"KENAI RIVER AIRPARK","lat":60.524156,"lon":-150.752208,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS70"]={"id":"MS70","name":"MC LAIN - CALICO","lat":32.735411,"lon":-88.925889,"elevation":560,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

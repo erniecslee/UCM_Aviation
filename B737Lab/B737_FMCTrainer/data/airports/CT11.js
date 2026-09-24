@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT11"]={"id":"CT11","name":"DEVILS HOPYARD FLD","lat":41.443986,"lon":-72.338972,"elevation":125,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

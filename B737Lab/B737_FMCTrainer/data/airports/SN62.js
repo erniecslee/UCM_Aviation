@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN62"]={"id":"SN62","name":"ROBERTS FLD","lat":37.874167,"lon":-97.5125,"elevation":1384,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

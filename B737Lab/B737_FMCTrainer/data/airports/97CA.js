@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97CA"]={"id":"97CA","name":"ZAMORA","lat":38.79925,"lon":-121.830694,"elevation":36,"region":"K2","runways":[{"id":"RW16","lat":38.802944,"lon":-121.830619,"length":2700,"course":167.8},{"id":"RW34","lat":38.795536,"lon":-121.830747,"length":2700,"course":347.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PN0"]={"id":"3PN0","name":"SCHULTEIS","lat":39.960369,"lon":-77.25915,"elevation":680,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

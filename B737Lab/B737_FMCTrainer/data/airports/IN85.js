@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN85"]={"id":"IN85","name":"BOWLIN","lat":40.837267,"lon":-85.483586,"elevation":810,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K77"]={"id":"K77","name":"FREEDOM MUNI","lat":36.758494,"lon":-99.102011,"elevation":1517,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

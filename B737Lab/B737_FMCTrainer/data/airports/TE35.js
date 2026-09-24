@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE35"]={"id":"TE35","name":"FILL OR KILL","lat":32.003172,"lon":-97.724306,"elevation":875,"region":"K4","runways":[{"id":"RW15","lat":32.005392,"lon":-97.725653,"length":1819,"course":149.5},{"id":"RW33","lat":32.001931,"lon":-97.72355,"length":1819,"course":329.5}],"procedures":{"D":{},"E":{},"F":{}}};

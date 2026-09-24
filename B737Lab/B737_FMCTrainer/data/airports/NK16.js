@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK16"]={"id":"NK16","name":"HENDRICKS FLD","lat":44.368117,"lon":-75.402436,"elevation":480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

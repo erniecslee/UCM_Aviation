@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE90"]={"id":"TE90","name":"FLYING L","lat":29.758889,"lon":-99.1525,"elevation":1380,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

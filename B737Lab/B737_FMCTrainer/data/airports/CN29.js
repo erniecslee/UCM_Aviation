@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN29"]={"id":"CN29","name":"J-B","lat":37.935203,"lon":-121.015494,"elevation":103,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

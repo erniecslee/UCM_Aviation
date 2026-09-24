@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18OR"]={"id":"18OR","name":"RED'S FLD","lat":45.091864,"lon":-123.182353,"elevation":190,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

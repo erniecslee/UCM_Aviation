@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AL5"]={"id":"0AL5","name":"FLOMATON","lat":31.032222,"lon":-87.252778,"elevation":247,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

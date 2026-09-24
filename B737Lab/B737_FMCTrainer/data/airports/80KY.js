@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80KY"]={"id":"80KY","name":"DAVID LOWE","lat":37.396156,"lon":-87.235553,"elevation":465,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

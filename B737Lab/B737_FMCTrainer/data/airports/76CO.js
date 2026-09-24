@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76CO"]={"id":"76CO","name":"HOY AIRSTRIP","lat":39.835817,"lon":-104.422181,"elevation":5310,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

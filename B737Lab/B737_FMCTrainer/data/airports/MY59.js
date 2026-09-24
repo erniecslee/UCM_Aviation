@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY59"]={"id":"MY59","name":"GASPER","lat":47.901639,"lon":-96.612286,"elevation":910,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TX0"]={"id":"7TX0","name":"DANAHER","lat":33.828767,"lon":-98.572753,"elevation":986,"region":"K4","runways":[{"id":"RW17","lat":33.833411,"lon":-98.572753,"length":3380,"course":170.0},{"id":"RW35","lat":33.824122,"lon":-98.572753,"length":3380,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

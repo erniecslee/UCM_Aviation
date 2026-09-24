@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77ID"]={"id":"77ID","name":"ASHLEY","lat":43.524444,"lon":-116.406944,"elevation":2713,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

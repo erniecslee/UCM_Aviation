@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95XS"]={"id":"95XS","name":"SERENITY","lat":29.572889,"lon":-95.050561,"elevation":0,"region":"K4","runways":[{"id":"RW03W","lat":29.5679,"lon":-95.054736,"length":4495,"course":34.6},{"id":"RW21W","lat":29.577875,"lon":-95.046386,"length":4495,"course":214.6}],"procedures":{"D":{},"E":{},"F":{}}};

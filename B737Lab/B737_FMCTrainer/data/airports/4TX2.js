@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TX2"]={"id":"4TX2","name":"STAGE COACH HILLS","lat":32.966792,"lon":-97.233625,"elevation":684,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

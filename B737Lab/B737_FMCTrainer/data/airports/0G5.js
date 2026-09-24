@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0G5"]={"id":"0G5","name":"GRAND MARAIS/COOK COUNTY","lat":47.822833,"lon":-90.407306,"elevation":1635,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

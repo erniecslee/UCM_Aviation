@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT59"]={"id":"CT59","name":"GOOD HILL FARM","lat":41.553347,"lon":-73.261231,"elevation":951,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

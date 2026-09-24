@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TE3"]={"id":"6TE3","name":"HAHNS","lat":28.948872,"lon":-96.549697,"elevation":52,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

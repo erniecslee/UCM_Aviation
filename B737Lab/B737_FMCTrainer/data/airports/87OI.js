@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87OI"]={"id":"87OI","name":"LAKE AIR RANCH","lat":41.272275,"lon":-82.622956,"elevation":690,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

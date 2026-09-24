@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAFK"]={"id":"PAFK","name":"FAREWELL LAKE","lat":62.542453,"lon":-153.622511,"elevation":1052,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

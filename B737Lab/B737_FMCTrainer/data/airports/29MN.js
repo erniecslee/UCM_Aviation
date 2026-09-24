@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29MN"]={"id":"29MN","name":"WETENKAMP","lat":46.028294,"lon":-96.362842,"elevation":990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

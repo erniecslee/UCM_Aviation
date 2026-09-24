@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88D"]={"id":"88D","name":"HINDE","lat":41.404494,"lon":-82.603147,"elevation":609,"region":"K5","runways":[{"id":"RW11","lat":41.405442,"lon":-82.607528,"length":2501,"course":112.0},{"id":"RW29","lat":41.403547,"lon":-82.598767,"length":2501,"course":292.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK3"]={"id":"0AK3","name":"PARKER LAKE","lat":62.034825,"lon":-150.491044,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3O9"]={"id":"3O9","name":"GRAND LAKE RGNL","lat":36.577578,"lon":-94.8619,"elevation":792,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

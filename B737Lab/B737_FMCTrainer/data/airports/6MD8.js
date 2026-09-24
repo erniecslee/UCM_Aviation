@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MD8"]={"id":"6MD8","name":"DELMARVAIR","lat":38.442089,"lon":-75.402958,"elevation":55,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7F7"]={"id":"7F7","name":"CLIFTON MUNI/ISENHOWER FLD","lat":31.817133,"lon":-97.569569,"elevation":760,"region":"K4","runways":[{"id":"RW14","lat":31.820639,"lon":-97.572111,"length":3000,"course":142.0}],"procedures":{"D":{},"E":{},"F":{}}};

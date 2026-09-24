@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D52"]={"id":"D52","name":"GENESEO","lat":42.801689,"lon":-77.846439,"elevation":560,"region":"K6","runways":[{"id":"RW05","lat":42.798042,"lon":-77.854328,"length":5000,"course":68.9},{"id":"RW23","lat":42.805336,"lon":-77.83855,"length":5000,"course":248.9}],"procedures":{"D":{},"E":{},"F":{}}};

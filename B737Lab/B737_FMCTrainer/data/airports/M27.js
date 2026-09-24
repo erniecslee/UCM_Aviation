@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M27"]={"id":"M27","name":"WALDRON MUNI","lat":34.876,"lon":-94.108889,"elevation":705,"region":"K4","runways":[{"id":"RW09","lat":34.87615,"lon":-94.114972,"length":3650,"course":87.0},{"id":"RW27","lat":34.875856,"lon":-94.102811,"length":3650,"course":267.0}],"procedures":{"D":{},"E":{},"F":{}}};

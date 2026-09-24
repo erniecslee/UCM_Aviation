@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39MI"]={"id":"39MI","name":"HUBER","lat":46.168836,"lon":-88.172358,"elevation":1418,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

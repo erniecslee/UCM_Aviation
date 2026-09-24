@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL66"]={"id":"FL66","name":"PEACH ORCHARD","lat":29.557153,"lon":-82.49675,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

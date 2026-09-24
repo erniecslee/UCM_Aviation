@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PODC"]={"id":"PODC","name":"DAHL CREEK","lat":66.942561,"lon":-156.891369,"elevation":260,"region":"PO","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

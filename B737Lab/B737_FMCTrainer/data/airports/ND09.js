@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND09"]={"id":"ND09","name":"BRYN","lat":47.18865,"lon":-98.165575,"elevation":1431,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

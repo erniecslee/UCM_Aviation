@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN2"]={"id":"4TN2","name":"BUCK CREEK RANCH","lat":35.883403,"lon":-84.968842,"elevation":1800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6ND6"]={"id":"6ND6","name":"FUGLEBERG FARM","lat":47.516656,"lon":-97.550369,"elevation":1090,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

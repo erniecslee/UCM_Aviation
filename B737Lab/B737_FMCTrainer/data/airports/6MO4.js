@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MO4"]={"id":"6MO4","name":"WIXTED","lat":38.041697,"lon":-93.783544,"elevation":850,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

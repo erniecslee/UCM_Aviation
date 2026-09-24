@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67SC"]={"id":"67SC","name":"LANES LANDING","lat":32.948611,"lon":-80.7675,"elevation":80,"region":"K7","runways":[{"id":"RW12","lat":32.949722,"lon":-80.770556,"length":2042,"course":121.1},{"id":"RW30","lat":32.9475,"lon":-80.764444,"length":2042,"course":301.1}],"procedures":{"D":{},"E":{},"F":{}}};

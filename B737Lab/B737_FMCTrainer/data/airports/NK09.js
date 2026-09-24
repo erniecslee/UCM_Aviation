@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK09"]={"id":"NK09","name":"EAGLE RIDGE","lat":42.405628,"lon":-76.820511,"elevation":1480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

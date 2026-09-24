@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05NR"]={"id":"05NR","name":"FOX FLD","lat":36.168417,"lon":-79.276908,"elevation":675,"region":"K7","runways":[{"id":"RW16","lat":36.170011,"lon":-79.277619,"length":1235,"course":169.2},{"id":"RW34","lat":36.166822,"lon":-79.276197,"length":1235,"course":349.2}],"procedures":{"D":{},"E":{},"F":{}}};

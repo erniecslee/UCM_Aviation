@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24OI"]={"id":"24OI","name":"REEDS","lat":40.077836,"lon":-83.897156,"elevation":1200,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT20"]={"id":"CT20","name":"RANKL FLD","lat":41.6001,"lon":-72.432864,"elevation":350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

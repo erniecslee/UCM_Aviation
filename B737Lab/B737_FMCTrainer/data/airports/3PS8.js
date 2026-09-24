@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PS8"]={"id":"3PS8","name":"YINGST","lat":40.395817,"lon":-76.745833,"elevation":701,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

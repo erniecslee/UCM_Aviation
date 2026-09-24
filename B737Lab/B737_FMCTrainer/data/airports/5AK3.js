@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AK3"]={"id":"5AK3","name":"AIRWAY","lat":64.773186,"lon":-147.333803,"elevation":480,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

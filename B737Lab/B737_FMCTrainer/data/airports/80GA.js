@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80GA"]={"id":"80GA","name":"MURPHY'S LANDING","lat":33.258731,"lon":-84.844658,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN37"]={"id":"MN37","name":"WAYZATA BAY LANDING","lat":44.953889,"lon":-93.503889,"elevation":930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

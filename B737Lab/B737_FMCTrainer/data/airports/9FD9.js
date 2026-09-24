@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FD9"]={"id":"9FD9","name":"BUDDY'S AG SERVICE","lat":30.12245,"lon":-82.967908,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

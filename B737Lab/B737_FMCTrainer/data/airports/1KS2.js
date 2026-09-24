@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS2"]={"id":"1KS2","name":"RISKY","lat":39.314022,"lon":-95.0716,"elevation":1133,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

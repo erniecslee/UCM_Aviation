@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38K"]={"id":"38K","name":"LUCAS","lat":39.061956,"lon":-98.525344,"elevation":1485,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

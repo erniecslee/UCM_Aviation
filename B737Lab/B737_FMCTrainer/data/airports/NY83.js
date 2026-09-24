@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY83"]={"id":"NY83","name":"ESSEX MARINA","lat":44.30005,"lon":-73.349572,"elevation":95,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

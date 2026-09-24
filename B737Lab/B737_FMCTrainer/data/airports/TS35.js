@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS35"]={"id":"TS35","name":"WEST LIBERTY","lat":30.058333,"lon":-94.978056,"elevation":80,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

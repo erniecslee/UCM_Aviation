@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3A3"]={"id":"3A3","name":"SEYMOUR LAKE","lat":61.613461,"lon":-149.665569,"elevation":320,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

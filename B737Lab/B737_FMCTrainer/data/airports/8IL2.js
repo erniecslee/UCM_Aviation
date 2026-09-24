@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IL2"]={"id":"8IL2","name":"KIRKPATRICK","lat":42.484739,"lon":-88.6001,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

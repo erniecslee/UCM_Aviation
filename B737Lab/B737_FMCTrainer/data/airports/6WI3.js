@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WI3"]={"id":"6WI3","name":"BOUNTIFUL ACRES","lat":42.700167,"lon":-88.7125,"elevation":975,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

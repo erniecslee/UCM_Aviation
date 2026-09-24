@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IA7"]={"id":"6IA7","name":"R S  AUTO","lat":40.990356,"lon":-91.744172,"elevation":770,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T94"]={"id":"T94","name":"TWIN-OAKS","lat":29.570186,"lon":-98.468389,"elevation":873,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

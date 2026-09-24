@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MD1"]={"id":"7MD1","name":"MAGENNIS FARM","lat":38.703447,"lon":-75.851044,"elevation":40,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

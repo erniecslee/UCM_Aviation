@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18K"]={"id":"18K","name":"FOWLER","lat":37.384278,"lon":-100.186194,"elevation":2483,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

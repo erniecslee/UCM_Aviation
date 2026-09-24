@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OR1"]={"id":"9OR1","name":"SHANIKO RANCH","lat":45.002903,"lon":-120.739767,"elevation":3300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59M"]={"id":"59M","name":"TORCHPORT","lat":45.054869,"lon":-85.356897,"elevation":640,"region":"K5","runways":[{"id":"RW04","lat":45.051514,"lon":-85.358319,"length":2400,"course":36.0},{"id":"RW09","lat":45.055942,"lon":-85.363436,"length":3300,"course":94.0}],"procedures":{"D":{},"E":{},"F":{}}};

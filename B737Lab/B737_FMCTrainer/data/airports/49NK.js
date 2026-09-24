@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49NK"]={"id":"49NK","name":"TRUMP MTN","lat":42.793306,"lon":-78.292167,"elevation":1501,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

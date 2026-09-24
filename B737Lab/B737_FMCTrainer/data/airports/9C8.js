@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9C8"]={"id":"9C8","name":"EVART MUNI","lat":43.894861,"lon":-85.28475,"elevation":1020,"region":"K5","runways":[{"id":"RW06","lat":43.891753,"lon":-85.290531,"length":3804,"course":57.4},{"id":"RW24","lat":43.897975,"lon":-85.278944,"length":3804,"course":237.4}],"procedures":{"D":{},"E":{},"F":{}}};

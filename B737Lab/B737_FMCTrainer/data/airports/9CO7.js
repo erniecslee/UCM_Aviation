@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO7"]={"id":"9CO7","name":"DEVOE","lat":40.331667,"lon":-104.579167,"elevation":4770,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

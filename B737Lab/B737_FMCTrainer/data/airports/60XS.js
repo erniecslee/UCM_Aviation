@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60XS"]={"id":"60XS","name":"PL FULLER ROUGH CREEK RANCH","lat":32.893325,"lon":-100.893908,"elevation":2431,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

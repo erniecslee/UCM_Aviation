@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XA0"]={"id":"5XA0","name":"HUNTER'S CREEK","lat":31.255583,"lon":-100.6476,"elevation":2050,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

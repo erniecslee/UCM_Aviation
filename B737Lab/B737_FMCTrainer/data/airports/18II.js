@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18II"]={"id":"18II","name":"MC GILL","lat":40.120036,"lon":-86.068319,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

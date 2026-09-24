@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA52"]={"id":"XA52","name":"GRAND ROCK","lat":30.923528,"lon":-95.2935,"elevation":225,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

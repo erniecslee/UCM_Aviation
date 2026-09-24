@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86OH"]={"id":"86OH","name":"REED FLD","lat":38.904722,"lon":-84.100833,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

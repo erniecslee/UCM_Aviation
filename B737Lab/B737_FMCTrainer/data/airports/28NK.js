@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28NK"]={"id":"28NK","name":"CLAYTON AIRFIELD","lat":44.186944,"lon":-76.076389,"elevation":385,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

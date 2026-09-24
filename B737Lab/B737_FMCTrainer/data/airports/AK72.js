@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK72"]={"id":"AK72","name":"JEWELL","lat":61.705192,"lon":-150.599342,"elevation":113,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

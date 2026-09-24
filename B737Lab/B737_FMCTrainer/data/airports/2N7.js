@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2N7"]={"id":"2N7","name":"LITTLE FERRY","lat":40.8501,"lon":-74.032917,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

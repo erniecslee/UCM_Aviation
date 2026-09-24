@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69TX"]={"id":"69TX","name":"GREEN LAKE RANCH","lat":28.589581,"lon":-96.847283,"elevation":50,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

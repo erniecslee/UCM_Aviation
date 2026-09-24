@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CO8"]={"id":"5CO8","name":"PLEASANT VALLEY","lat":40.341369,"lon":-106.849492,"elevation":7120,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

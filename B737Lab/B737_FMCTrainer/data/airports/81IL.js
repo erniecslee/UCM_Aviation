@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81IL"]={"id":"81IL","name":"ILLINOIS ANTIQUE AIRFIELD","lat":40.435317,"lon":-89.359261,"elevation":646,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7GA3"]={"id":"7GA3","name":"HACIENDA DE GAY AIRSTRIP","lat":32.663333,"lon":-82.075278,"elevation":328,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

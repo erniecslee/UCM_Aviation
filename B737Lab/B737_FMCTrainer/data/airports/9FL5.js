@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9FL5"]={"id":"9FL5","name":"SHADY BEND","lat":29.814122,"lon":-82.925683,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

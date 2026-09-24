@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1W1"]={"id":"1W1","name":"GROVE FLD","lat":45.627831,"lon":-122.404311,"elevation":429,"region":"K1","runways":[{"id":"RW07","lat":45.627856,"lon":-122.407681,"length":2710,"course":71.7},{"id":"RW25","lat":45.6278,"lon":-122.400631,"length":2710,"course":251.7}],"procedures":{"D":{},"E":{},"F":{}}};

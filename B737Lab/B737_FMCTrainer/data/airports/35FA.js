@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35FA"]={"id":"35FA","name":"RIMES LAKECREST","lat":29.467942,"lon":-82.158761,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

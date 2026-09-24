@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6S2"]={"id":"6S2","name":"FLORENCE MUNI","lat":43.982819,"lon":-124.111367,"elevation":51,"region":"K1","runways":[{"id":"RW15","lat":43.986836,"lon":-124.1126,"length":3000,"course":152.0},{"id":"RW33","lat":43.978803,"lon":-124.110133,"length":3000,"course":332.0}],"procedures":{"D":{},"E":{},"F":{}}};

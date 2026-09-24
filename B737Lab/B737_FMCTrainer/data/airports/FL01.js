@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL01"]={"id":"FL01","name":"CREWS HOMESTEAD RANCH","lat":27.621144,"lon":-81.610633,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

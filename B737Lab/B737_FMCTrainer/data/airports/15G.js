@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15G"]={"id":"15G","name":"WELTZIEN SKYPARK","lat":41.028186,"lon":-81.798147,"elevation":1210,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

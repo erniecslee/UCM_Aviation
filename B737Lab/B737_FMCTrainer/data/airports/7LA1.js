@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7LA1"]={"id":"7LA1","name":"BIRDWIN","lat":29.458272,"lon":-89.675897,"elevation":2,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

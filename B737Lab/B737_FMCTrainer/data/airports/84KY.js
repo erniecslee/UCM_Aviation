@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84KY"]={"id":"84KY","name":"CLARKS FLD","lat":38.272181,"lon":-83.578744,"elevation":1070,"region":"K5","runways":[{"id":"RW12","lat":38.273375,"lon":-83.582386,"length":2265,"course":119.2},{"id":"RW30","lat":38.270983,"lon":-83.575103,"length":2265,"course":299.2}],"procedures":{"D":{},"E":{},"F":{}}};

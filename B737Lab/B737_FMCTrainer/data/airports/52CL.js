@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52CL"]={"id":"52CL","name":"ADELANTO","lat":34.537494,"lon":-117.460606,"elevation":3075,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

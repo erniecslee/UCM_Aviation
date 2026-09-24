@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2E5"]={"id":"2E5","name":"DELL CITY MUNI","lat":31.947622,"lon":-105.191783,"elevation":3703,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

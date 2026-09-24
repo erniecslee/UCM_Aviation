@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AN37"]={"id":"AN37","name":"FROG POND","lat":35.782261,"lon":-90.651956,"elevation":260,"region":"K4","runways":[{"id":"RW18","lat":35.784908,"lon":-90.651894,"length":1927,"course":182.6},{"id":"RW36","lat":35.779617,"lon":-90.652014,"length":1927,"course":2.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA40"]={"id":"MA40","name":"DIESEL DOGS","lat":42.543422,"lon":-71.968411,"elevation":325,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

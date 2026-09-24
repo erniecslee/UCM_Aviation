@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX99"]={"id":"TX99","name":"WILLIAMS FLD","lat":34.006753,"lon":-102.986608,"elevation":4085,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

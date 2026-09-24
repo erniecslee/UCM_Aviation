@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS9"]={"id":"MS9","name":"EAGLES RIDGE","lat":34.796431,"lon":-89.913222,"elevation":262,"region":"K7","runways":[{"id":"RW10","lat":34.796956,"lon":-89.915556,"length":3300,"course":103.0},{"id":"RW28","lat":34.79525,"lon":-89.907917,"length":3300,"course":283.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TYE"]={"id":"TYE","name":"TYONEK","lat":61.076664,"lon":-151.138069,"elevation":110,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KFBG"]={"id":"KFBG","name":"SIMMONS AAF","lat":35.132097,"lon":-78.935347,"elevation":243,"region":"K7","runways":[{"id":"RW10","lat":35.131694,"lon":-78.942217,"length":4121,"course":95.0},{"id":"RW28","lat":35.132497,"lon":-78.928475,"length":4121,"course":275.0}],"procedures":{"D":{},"E":{},"F":{}}};

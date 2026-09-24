@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO6"]={"id":"2MO6","name":"LEE'S FLYING PARK","lat":37.231517,"lon":-94.311281,"elevation":980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

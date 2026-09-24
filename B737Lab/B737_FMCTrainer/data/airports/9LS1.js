@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9LS1"]={"id":"9LS1","name":"BAYOU MEADOWS","lat":32.696092,"lon":-91.386644,"elevation":85,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

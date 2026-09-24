@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN6"]={"id":"8TN6","name":"RACHEL'S LANDING","lat":35.921111,"lon":-86.344722,"elevation":560,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

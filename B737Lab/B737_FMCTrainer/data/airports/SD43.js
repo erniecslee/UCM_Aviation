@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD43"]={"id":"SD43","name":"INGLE","lat":44.239722,"lon":-98.049722,"elevation":1305,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

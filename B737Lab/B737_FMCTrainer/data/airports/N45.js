@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N45"]={"id":"N45","name":"KOBELT","lat":41.624167,"lon":-74.141667,"elevation":420,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

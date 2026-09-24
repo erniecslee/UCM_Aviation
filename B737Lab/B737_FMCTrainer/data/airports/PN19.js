@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN19"]={"id":"PN19","name":"HUNTS COVE","lat":41.145894,"lon":-79.687272,"elevation":840,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NH2"]={"id":"3NH2","name":"FLYING LOON","lat":42.973764,"lon":-72.084728,"elevation":1400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

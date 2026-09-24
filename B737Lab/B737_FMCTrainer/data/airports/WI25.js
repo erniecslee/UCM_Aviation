@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI25"]={"id":"WI25","name":"DURAND MUNI","lat":44.538856,"lon":-92.014058,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

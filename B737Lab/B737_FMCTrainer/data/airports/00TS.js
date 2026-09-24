@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00TS"]={"id":"00TS","name":"ALPINE RANGE","lat":32.607939,"lon":-97.242322,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

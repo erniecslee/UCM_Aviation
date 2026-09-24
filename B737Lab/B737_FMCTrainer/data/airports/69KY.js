@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69KY"]={"id":"69KY","name":"LAKEVIEW","lat":37.327,"lon":-86.154756,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27NR"]={"id":"27NR","name":"C A G FARMS","lat":35.468208,"lon":-78.652903,"elevation":319,"region":"K7","runways":[{"id":"RW06","lat":35.466556,"lon":-78.655358,"length":2942,"course":58.5},{"id":"RW24","lat":35.469822,"lon":-78.650514,"length":2942,"course":238.5}],"procedures":{"D":{},"E":{},"F":{}}};

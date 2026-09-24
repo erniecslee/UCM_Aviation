@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL45"]={"id":"IL45","name":"PALMER FLYING SERVICE INC","lat":40.489344,"lon":-89.778081,"elevation":501,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

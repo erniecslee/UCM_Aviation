@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75GA"]={"id":"75GA","name":"LAKE TOBESOFKEE","lat":32.843967,"lon":-83.824022,"elevation":360,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

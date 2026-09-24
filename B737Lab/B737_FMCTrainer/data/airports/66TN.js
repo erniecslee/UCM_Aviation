@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66TN"]={"id":"66TN","name":"BASHAM FLD","lat":35.523383,"lon":-85.846472,"elevation":1099,"region":"K7","runways":[{"id":"RW09","lat":35.523889,"lon":-85.850931,"length":2679,"course":102.7},{"id":"RW27","lat":35.522875,"lon":-85.842014,"length":2679,"course":282.7}],"procedures":{"D":{},"E":{},"F":{}}};

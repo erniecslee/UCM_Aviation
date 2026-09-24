@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PN7"]={"id":"2PN7","name":"FISHER FAMILY FARMS","lat":40.855619,"lon":-80.070614,"elevation":1210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

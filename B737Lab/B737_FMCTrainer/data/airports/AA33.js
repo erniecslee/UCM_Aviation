@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA33"]={"id":"AA33","name":"GUS LANDING","lat":61.60415,"lon":-149.770119,"elevation":120,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

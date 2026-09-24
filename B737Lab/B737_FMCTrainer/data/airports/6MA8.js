@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MA8"]={"id":"6MA8","name":"ACUSHNET RIVER","lat":41.647325,"lon":-70.917539,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

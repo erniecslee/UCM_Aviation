@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2C6"]={"id":"2C6","name":"TRI-COUNTY","lat":40.774,"lon":-90.074417,"elevation":661,"region":"K5","runways":[{"id":"RW02","lat":40.770342,"lon":-90.076042,"length":2809,"course":18.0},{"id":"RW20","lat":40.777644,"lon":-90.072786,"length":2809,"course":198.0}],"procedures":{"D":{},"E":{},"F":{}}};

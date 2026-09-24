@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79OH"]={"id":"79OH","name":"SMITH-STEWART FLD","lat":41.209781,"lon":-80.683133,"elevation":1092,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

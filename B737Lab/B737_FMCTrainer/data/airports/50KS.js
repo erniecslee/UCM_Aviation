@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50KS"]={"id":"50KS","name":"CLEMENS","lat":37.378264,"lon":-95.339783,"elevation":966,"region":"K3","runways":[{"id":"RW18","lat":37.379708,"lon":-95.339764,"length":1050,"course":179.0},{"id":"RW36","lat":37.376822,"lon":-95.339803,"length":1050,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

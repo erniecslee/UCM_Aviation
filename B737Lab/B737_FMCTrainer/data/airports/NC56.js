@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC56"]={"id":"NC56","name":"DEER RUN","lat":36.204722,"lon":-78.468889,"elevation":405,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK7"]={"id":"3AK7","name":"LAUB","lat":61.765578,"lon":-150.338906,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

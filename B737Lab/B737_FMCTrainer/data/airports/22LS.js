@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22LS"]={"id":"22LS","name":"COUVILLION","lat":30.397778,"lon":-91.973889,"elevation":29,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

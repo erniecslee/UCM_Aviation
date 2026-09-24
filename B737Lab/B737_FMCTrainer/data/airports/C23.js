@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C23"]={"id":"C23","name":"PELELIU","lat":7.0,"lon":134.233333,"elevation":9,"region":"PT","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

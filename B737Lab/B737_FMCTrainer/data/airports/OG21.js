@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG21"]={"id":"OG21","name":"DRY CREEK AIRPARK","lat":44.195139,"lon":-120.823083,"elevation":3625,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

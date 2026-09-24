@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN98"]={"id":"PN98","name":"DREAM FLD","lat":39.932833,"lon":-78.934167,"elevation":2321,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

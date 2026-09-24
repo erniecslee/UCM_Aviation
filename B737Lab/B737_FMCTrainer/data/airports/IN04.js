@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN04"]={"id":"IN04","name":"SOJOURNER FLD","lat":41.375261,"lon":-87.079883,"elevation":700,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7M9"]={"id":"7M9","name":"SALEM","lat":36.355908,"lon":-91.830956,"elevation":787,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

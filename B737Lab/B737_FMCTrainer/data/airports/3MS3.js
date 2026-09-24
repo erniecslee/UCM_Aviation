@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MS3"]={"id":"3MS3","name":"ROOT HOG","lat":32.515861,"lon":-90.351167,"elevation":220,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

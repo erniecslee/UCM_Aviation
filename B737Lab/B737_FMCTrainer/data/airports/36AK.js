@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36AK"]={"id":"36AK","name":"FLYWAY FARM AIRSTRIP","lat":61.343339,"lon":-150.066631,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

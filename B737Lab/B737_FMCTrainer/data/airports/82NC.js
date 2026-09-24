@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82NC"]={"id":"82NC","name":"PINEVIEW AIR","lat":35.308056,"lon":-79.073333,"elevation":300,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

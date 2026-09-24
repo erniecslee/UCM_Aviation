@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IL5"]={"id":"4IL5","name":"FRANK'S FLYING SERVICE","lat":41.725031,"lon":-90.005117,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

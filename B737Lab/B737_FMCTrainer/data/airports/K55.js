@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K55"]={"id":"K55","name":"THOMPSON PASS","lat":61.177269,"lon":-145.688433,"elevation":2080,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

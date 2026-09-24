@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85KS"]={"id":"85KS","name":"SANDERS","lat":39.300744,"lon":-95.215117,"elevation":1078,"region":"K3","runways":[{"id":"RW15","lat":39.302342,"lon":-95.215942,"length":1250,"course":156.6},{"id":"RW33","lat":39.299147,"lon":-95.214289,"length":1250,"course":336.6}],"procedures":{"D":{},"E":{},"F":{}}};

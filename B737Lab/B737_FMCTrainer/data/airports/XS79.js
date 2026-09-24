@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS79"]={"id":"XS79","name":"STILETTO AIRPARK","lat":30.824386,"lon":-97.958736,"elevation":1075,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

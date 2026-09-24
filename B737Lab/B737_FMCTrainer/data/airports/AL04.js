@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL04"]={"id":"AL04","name":"MCCALL","lat":34.479583,"lon":-86.771111,"elevation":700,"region":"K7","runways":[{"id":"RW02","lat":34.476389,"lon":-86.772778,"length":2533,"course":27.5},{"id":"RW20","lat":34.482778,"lon":-86.769444,"length":2533,"course":207.5}],"procedures":{"D":{},"E":{},"F":{}}};

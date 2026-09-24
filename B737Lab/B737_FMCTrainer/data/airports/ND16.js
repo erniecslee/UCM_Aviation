@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND16"]={"id":"ND16","name":"FREI PRIVATE","lat":47.441672,"lon":-102.242119,"elevation":2100,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

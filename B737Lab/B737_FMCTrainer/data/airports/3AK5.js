@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK5"]={"id":"3AK5","name":"DRIFT RIVER","lat":60.588867,"lon":-152.161978,"elevation":30,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

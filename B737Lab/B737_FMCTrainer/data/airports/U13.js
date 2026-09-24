@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U13"]={"id":"U13","name":"JUNCTION","lat":38.249978,"lon":-112.225481,"elevation":6069,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

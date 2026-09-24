@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME55"]={"id":"ME55","name":"VINALHAVEN","lat":44.072778,"lon":-68.819639,"elevation":72,"region":"K6","runways":[{"id":"NE","lat":44.071111,"lon":-68.821344,"length":1510,"course":53.0},{"id":"SW","lat":44.074444,"lon":-68.817933,"length":1510,"course":233.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU63"]={"id":"MU63","name":"BLUMENSTETTER","lat":37.435044,"lon":-93.06685,"elevation":1327,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

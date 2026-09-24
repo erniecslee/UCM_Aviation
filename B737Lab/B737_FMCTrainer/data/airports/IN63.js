@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN63"]={"id":"IN63","name":"HORIZON FLD","lat":40.366708,"lon":-85.338583,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

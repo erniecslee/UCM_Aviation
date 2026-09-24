@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MO7"]={"id":"4MO7","name":"CROP CARE","lat":40.141389,"lon":-95.240833,"elevation":875,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

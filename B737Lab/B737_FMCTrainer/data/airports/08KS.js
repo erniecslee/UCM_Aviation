@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08KS"]={"id":"08KS","name":"ALDERSON","lat":39.034389,"lon":-97.58,"elevation":1250,"region":"K3","runways":[{"id":"RW17","lat":39.037819,"lon":-97.580089,"length":2500,"course":172.0},{"id":"RW35","lat":39.030956,"lon":-97.579908,"length":2500,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

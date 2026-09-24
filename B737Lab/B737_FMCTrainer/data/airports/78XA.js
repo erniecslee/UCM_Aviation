@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78XA"]={"id":"78XA","name":"WAYPORT","lat":32.739206,"lon":-97.917739,"elevation":1079,"region":"K4","runways":[{"id":"RW18","lat":32.741158,"lon":-97.917686,"length":1421,"course":178.1},{"id":"RW36","lat":32.737253,"lon":-97.917792,"length":1421,"course":358.1}],"procedures":{"D":{},"E":{},"F":{}}};

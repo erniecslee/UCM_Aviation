@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01AL"]={"id":"01AL","name":"WARE ISLAND","lat":32.945956,"lon":-86.513869,"elevation":344,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

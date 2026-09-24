@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05KS"]={"id":"05KS","name":"DARBRO FLD","lat":37.266339,"lon":-95.958975,"elevation":925,"region":"K3","runways":[{"id":"RW17","lat":37.269497,"lon":-95.958914,"length":2300,"course":176.0},{"id":"RW35","lat":37.263181,"lon":-95.959036,"length":2300,"course":356.0}],"procedures":{"D":{},"E":{},"F":{}}};

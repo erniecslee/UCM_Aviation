@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34PN"]={"id":"34PN","name":"FOX FLD","lat":40.485556,"lon":-77.220556,"elevation":730,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

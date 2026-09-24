@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66IL"]={"id":"66IL","name":"AEROGRANGE","lat":42.268739,"lon":-88.571297,"elevation":824,"region":"K5","runways":[{"id":"RW12","lat":42.270064,"lon":-88.574636,"length":2050,"course":118.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND58"]={"id":"ND58","name":"GUDGEL","lat":46.548725,"lon":-96.786975,"elevation":930,"region":"K3","runways":[{"id":"RW13","lat":46.550717,"lon":-96.789939,"length":2083,"course":131.7},{"id":"RW31","lat":46.546733,"lon":-96.784008,"length":2083,"course":311.7}],"procedures":{"D":{},"E":{},"F":{}}};

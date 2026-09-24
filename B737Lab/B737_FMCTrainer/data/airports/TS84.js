@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS84"]={"id":"TS84","name":"PRO AGRI","lat":33.401797,"lon":-102.310231,"elevation":3471,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

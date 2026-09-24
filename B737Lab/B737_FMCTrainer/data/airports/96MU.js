@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96MU"]={"id":"96MU","name":"GREEN AIRFIELD","lat":37.943411,"lon":-91.602133,"elevation":1068,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XS5"]={"id":"5XS5","name":"WITS END RANCH","lat":32.542778,"lon":-95.708611,"elevation":545,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

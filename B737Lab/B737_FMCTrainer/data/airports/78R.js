@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78R"]={"id":"78R","name":"SAN AUGUSTINE COUNTY","lat":31.540431,"lon":-94.170067,"elevation":443,"region":"K4","runways":[{"id":"RW35","lat":31.535208,"lon":-94.170022,"length":3800,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

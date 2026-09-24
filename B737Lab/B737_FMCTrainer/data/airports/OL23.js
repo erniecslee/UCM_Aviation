@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL23"]={"id":"OL23","name":"JIRIK FLD","lat":35.831994,"lon":-97.705792,"elevation":1069,"region":"K4","runways":[{"id":"RW18","lat":35.834972,"lon":-97.705778,"length":2169,"course":177.1},{"id":"RW36","lat":35.829014,"lon":-97.705806,"length":2169,"course":357.1}],"procedures":{"D":{},"E":{},"F":{}}};

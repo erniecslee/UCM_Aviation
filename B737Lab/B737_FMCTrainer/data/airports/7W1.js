@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7W1"]={"id":"7W1","name":"PORT OF ILWACO","lat":46.314914,"lon":-124.003839,"elevation":13,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

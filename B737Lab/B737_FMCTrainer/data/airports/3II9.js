@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3II9"]={"id":"3II9","name":"DICK'S STRIP","lat":41.097269,"lon":-85.242194,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND2"]={"id":"2ND2","name":"MAKEEFF","lat":47.566944,"lon":-100.721247,"elevation":1910,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

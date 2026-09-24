@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA49"]={"id":"FA49","name":"SHADY INTL","lat":29.096089,"lon":-82.178981,"elevation":102,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TX4"]={"id":"6TX4","name":"WHITFIELD","lat":34.3434,"lon":-101.544336,"elevation":3330,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

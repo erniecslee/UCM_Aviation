@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM80"]={"id":"NM80","name":"QUEMADO","lat":34.340328,"lon":-108.514508,"elevation":6917,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I50"]={"id":"I50","name":"STANTON","lat":37.849811,"lon":-83.845833,"elevation":651,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

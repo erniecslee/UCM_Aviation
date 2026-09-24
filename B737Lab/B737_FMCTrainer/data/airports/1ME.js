@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1ME"]={"id":"1ME","name":"CHESUNCOOK LAKE HOUSE","lat":46.060875,"lon":-69.409444,"elevation":942,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

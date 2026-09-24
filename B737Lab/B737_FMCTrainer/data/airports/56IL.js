@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56IL"]={"id":"56IL","name":"LEE CREEK","lat":42.462142,"lon":-88.875103,"elevation":967,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

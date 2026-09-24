@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY10"]={"id":"MY10","name":"DETERS FARMS","lat":43.561081,"lon":-91.681536,"elevation":1220,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

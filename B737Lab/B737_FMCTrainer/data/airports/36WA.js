@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36WA"]={"id":"36WA","name":"BOB'S FLD","lat":45.956389,"lon":-121.497778,"elevation":1650,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

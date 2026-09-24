@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67AK"]={"id":"67AK","name":"SOUTH HOLLYWOOD","lat":61.534639,"lon":-149.6701,"elevation":375,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

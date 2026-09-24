@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98NY"]={"id":"98NY","name":"KRENZERS","lat":42.883397,"lon":-77.53305,"elevation":1035,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

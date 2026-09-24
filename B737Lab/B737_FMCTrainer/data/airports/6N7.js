@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6N7"]={"id":"6N7","name":"NEW YORK SKYPORTS INC","lat":40.733992,"lon":-73.972917,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

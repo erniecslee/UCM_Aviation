@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU48"]={"id":"MU48","name":"SUNBURST RANCH","lat":36.648394,"lon":-92.220436,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU68"]={"id":"MU68","name":"EU-WISH","lat":38.668614,"lon":-91.535992,"elevation":930,"region":"K3","runways":[{"id":"RW18","lat":38.671083,"lon":-91.535967,"length":1800,"course":177.4},{"id":"RW36","lat":38.666142,"lon":-91.536014,"length":1800,"course":357.4}],"procedures":{"D":{},"E":{},"F":{}}};

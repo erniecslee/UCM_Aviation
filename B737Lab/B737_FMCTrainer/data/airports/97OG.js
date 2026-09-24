@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97OG"]={"id":"97OG","name":"BYBEE FLD","lat":43.897828,"lon":-116.989964,"elevation":2150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

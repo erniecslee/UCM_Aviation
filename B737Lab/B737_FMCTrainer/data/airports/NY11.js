@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY11"]={"id":"NY11","name":"LAKESTONE FARM","lat":43.035342,"lon":-77.308042,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

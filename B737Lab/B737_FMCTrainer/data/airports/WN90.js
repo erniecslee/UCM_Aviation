@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN90"]={"id":"WN90","name":"TAYLORPORT","lat":45.374964,"lon":-91.291819,"elevation":1250,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

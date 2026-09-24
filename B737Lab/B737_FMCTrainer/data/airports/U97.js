@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U97"]={"id":"U97","name":"HOWE","lat":43.839069,"lon":-113.046669,"elevation":4930,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

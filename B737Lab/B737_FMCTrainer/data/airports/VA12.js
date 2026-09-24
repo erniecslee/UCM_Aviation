@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA12"]={"id":"VA12","name":"GRAVELY","lat":36.646806,"lon":-79.796981,"elevation":750,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

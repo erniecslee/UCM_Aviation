@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAV"]={"id":"PAAV","name":"EKWOK","lat":59.356839,"lon":-157.471139,"elevation":142,"region":"PA","runways":[{"id":"RW03","lat":59.353314,"lon":-157.476661,"length":3300,"course":27.6},{"id":"RW21","lat":59.360364,"lon":-157.465617,"length":3300,"course":207.6}],"procedures":{"D":{},"E":{},"F":{}}};

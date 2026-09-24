@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MY1"]={"id":"1MY1","name":"CARLSON AG","lat":45.985278,"lon":-96.194444,"elevation":1033,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

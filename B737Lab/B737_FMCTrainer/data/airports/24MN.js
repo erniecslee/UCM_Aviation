@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24MN"]={"id":"24MN","name":"LBT","lat":46.935617,"lon":-94.893283,"elevation":1428,"region":"K3","runways":[{"id":"RW08","lat":46.933583,"lon":-94.907197,"length":7109,"course":77.0},{"id":"RW26","lat":46.937647,"lon":-94.879367,"length":7109,"course":257.0}],"procedures":{"D":{},"E":{},"F":{}}};

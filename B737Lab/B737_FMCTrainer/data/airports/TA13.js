@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA13"]={"id":"TA13","name":"NEBTEX LAND COMPANY","lat":36.256419,"lon":-102.870481,"elevation":4373,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

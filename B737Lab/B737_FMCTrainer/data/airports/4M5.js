@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4M5"]={"id":"4M5","name":"DERMOTT MUNI","lat":33.487953,"lon":-91.442611,"elevation":135,"region":"K4","runways":[{"id":"RW01","lat":33.484069,"lon":-91.444153,"length":2980,"course":15.0},{"id":"RW19","lat":33.491842,"lon":-91.441069,"length":2980,"course":195.0}],"procedures":{"D":{},"E":{},"F":{}}};

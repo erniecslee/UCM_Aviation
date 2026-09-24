@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z40"]={"id":"Z40","name":"GOOSE BAY","lat":61.39465,"lon":-149.842269,"elevation":78,"region":"PA","runways":[{"id":"RW08","lat":61.394894,"lon":-149.850811,"length":3000,"course":68.4},{"id":"RW26","lat":61.394406,"lon":-149.833728,"length":3000,"course":248.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TN4"]={"id":"6TN4","name":"THE AVIATION VALLEY","lat":35.421944,"lon":-86.290278,"elevation":890,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

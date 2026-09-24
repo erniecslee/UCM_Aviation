@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OI5"]={"id":"5OI5","name":"HAMRICK","lat":40.693381,"lon":-84.780519,"elevation":810,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

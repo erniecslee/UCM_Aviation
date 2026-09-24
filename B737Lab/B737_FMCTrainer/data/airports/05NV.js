@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05NV"]={"id":"05NV","name":"BAKER RANCHES","lat":39.025833,"lon":-114.095,"elevation":5180,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

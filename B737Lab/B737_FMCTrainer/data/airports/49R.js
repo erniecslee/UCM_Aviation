@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49R"]={"id":"49R","name":"REAL COUNTY","lat":29.7455,"lon":-99.760892,"elevation":1640,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

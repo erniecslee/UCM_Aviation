@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43IA"]={"id":"43IA","name":"GIGGITY ACRES","lat":41.770833,"lon":-90.4,"elevation":662,"region":"K3","runways":[{"id":"RW09","lat":41.770833,"lon":-90.403056,"length":1667,"course":92.1},{"id":"RW27","lat":41.770833,"lon":-90.396944,"length":1667,"course":272.1}],"procedures":{"D":{},"E":{},"F":{}}};

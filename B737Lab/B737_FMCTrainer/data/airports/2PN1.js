@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PN1"]={"id":"2PN1","name":"SWIFT AERO FLD","lat":41.981281,"lon":-77.520072,"elevation":1990,"region":"K6","runways":[{"id":"NE","lat":41.982794,"lon":-77.517942,"length":1600,"course":236.0},{"id":"SW","lat":41.979764,"lon":-77.522203,"length":1600,"course":56.0}],"procedures":{"D":{},"E":{},"F":{}}};

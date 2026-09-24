@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MD0"]={"id":"8MD0","name":"SUZIE FLD","lat":39.383333,"lon":-77.0175,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

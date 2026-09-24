@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8M7"]={"id":"8M7","name":"TRADEWATER","lat":37.185917,"lon":-87.675,"elevation":405,"region":"K5","runways":[{"id":"RW18","lat":37.189822,"lon":-87.675667,"length":2875,"course":172.0},{"id":"RW36","lat":37.181997,"lon":-87.674325,"length":2875,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

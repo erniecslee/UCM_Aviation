@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TN3"]={"id":"3TN3","name":"WAYNE'S WORLD","lat":36.263333,"lon":-88.757222,"elevation":440,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

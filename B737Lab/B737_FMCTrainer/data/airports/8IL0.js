@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IL0"]={"id":"8IL0","name":"ADKINS","lat":42.353142,"lon":-88.637406,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

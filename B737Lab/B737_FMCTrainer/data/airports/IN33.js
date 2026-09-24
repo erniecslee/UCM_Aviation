@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN33"]={"id":"IN33","name":"ROBISON","lat":40.736153,"lon":-86.115272,"elevation":735,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

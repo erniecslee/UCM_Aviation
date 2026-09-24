@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI1"]={"id":"MI1","name":"DENTON FARMS","lat":43.751869,"lon":-84.813764,"elevation":851,"region":"K5","runways":[{"id":"RW01","lat":43.75085,"lon":-84.813961,"length":1800,"course":14.5},{"id":"RW19","lat":43.754314,"lon":-84.813289,"length":1800,"course":194.5}],"procedures":{"D":{},"E":{},"F":{}}};

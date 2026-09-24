@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7B9"]={"id":"7B9","name":"ELLINGTON","lat":41.925417,"lon":-72.457111,"elevation":253,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

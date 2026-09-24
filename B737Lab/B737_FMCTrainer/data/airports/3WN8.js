@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN8"]={"id":"3WN8","name":"BLUNT FLD","lat":44.935597,"lon":-91.430686,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC8"]={"id":"4NC8","name":"BUFFALO CREEK","lat":35.422361,"lon":-80.620622,"elevation":600,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

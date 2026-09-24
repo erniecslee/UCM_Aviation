@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA9"]={"id":"8GA9","name":"BROOK BRIDGE AERODROME","lat":33.276783,"lon":-84.410758,"elevation":820,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

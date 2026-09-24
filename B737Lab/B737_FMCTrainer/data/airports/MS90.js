@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS90"]={"id":"MS90","name":"FLOWOOD INDUSTRIAL","lat":32.315556,"lon":-90.143611,"elevation":270,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

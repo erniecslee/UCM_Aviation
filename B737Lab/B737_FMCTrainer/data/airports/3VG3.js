@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VG3"]={"id":"3VG3","name":"SERENITY FARM","lat":37.936108,"lon":-76.348608,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

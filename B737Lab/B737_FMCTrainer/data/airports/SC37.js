@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC37"]={"id":"SC37","name":"CROSSWINDS-WILSON PVT","lat":33.271497,"lon":-80.254242,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

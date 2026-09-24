@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A68"]={"id":"A68","name":"SITUK","lat":59.552872,"lon":-139.510222,"elevation":60,"region":"PA","runways":[{"id":"RW13","lat":59.555519,"lon":-139.512742,"length":2150,"course":126.2},{"id":"RW31","lat":59.550222,"lon":-139.507703,"length":2150,"course":306.2}],"procedures":{"D":{},"E":{},"F":{}}};

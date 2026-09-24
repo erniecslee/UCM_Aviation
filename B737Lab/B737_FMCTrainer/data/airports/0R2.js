@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0R2"]={"id":"0R2","name":"LINCOLN MUNI","lat":38.402333,"lon":-93.33225,"elevation":940,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

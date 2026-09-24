@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18AR"]={"id":"18AR","name":"BUCK MOUNTAIN","lat":36.344167,"lon":-93.831667,"elevation":1450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

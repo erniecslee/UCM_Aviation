@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OL1"]={"id":"8OL1","name":"PETES AIRPARK","lat":35.227867,"lon":-96.22945,"elevation":771,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

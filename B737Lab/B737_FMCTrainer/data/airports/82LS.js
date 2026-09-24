@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82LS"]={"id":"82LS","name":"LOOKOUT POINT","lat":32.691708,"lon":-91.109325,"elevation":86,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

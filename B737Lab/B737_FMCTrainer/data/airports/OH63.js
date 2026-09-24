@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH63"]={"id":"OH63","name":"JIMS","lat":39.600056,"lon":-84.416611,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

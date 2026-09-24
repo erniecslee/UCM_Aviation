@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2K9"]={"id":"2K9","name":"HASKELL","lat":35.832853,"lon":-95.667417,"elevation":587,"region":"K4","runways":[{"id":"RW17","lat":35.83795,"lon":-95.667489,"length":3710,"course":173.0},{"id":"RW35","lat":35.827756,"lon":-95.667347,"length":3710,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

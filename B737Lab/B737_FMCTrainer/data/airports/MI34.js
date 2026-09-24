@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI34"]={"id":"MI34","name":"FANCY FLD","lat":44.098681,"lon":-83.715278,"elevation":597,"region":"K5","runways":[{"id":"RW14","lat":44.100222,"lon":-83.717889,"length":1773,"course":136.6},{"id":"RW32","lat":44.097139,"lon":-83.712667,"length":1773,"course":316.6}],"procedures":{"D":{},"E":{},"F":{}}};

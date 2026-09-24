@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65CO"]={"id":"65CO","name":"WKR","lat":40.520833,"lon":-104.966778,"elevation":4840,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK0"]={"id":"AK0","name":"JAKES BAR","lat":61.218872,"lon":-142.891211,"elevation":1074,"region":"PA","runways":[{"id":"RW10","lat":61.219772,"lon":-142.893347,"length":1000,"course":103.1},{"id":"RW28","lat":61.217972,"lon":-142.889075,"length":1000,"course":283.1}],"procedures":{"D":{},"E":{},"F":{}}};

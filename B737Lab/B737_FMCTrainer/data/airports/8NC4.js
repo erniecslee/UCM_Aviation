@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NC4"]={"id":"8NC4","name":"TWIN SILOS","lat":35.729864,"lon":-79.312794,"elevation":525,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

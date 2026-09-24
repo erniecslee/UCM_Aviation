@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0ID0"]={"id":"0ID0","name":"SOUTH FORK RANCH","lat":43.60645,"lon":-115.10725,"elevation":4861,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KCDK"]={"id":"KCDK","name":"GEORGE T LEWIS","lat":29.134247,"lon":-83.050583,"elevation":11,"region":"K7","runways":[{"id":"RW05","lat":29.13255,"lon":-83.052753,"length":2302,"course":50.3},{"id":"RW23","lat":29.135575,"lon":-83.048883,"length":2302,"course":230.3}],"procedures":{"D":{},"E":{},"F":{}}};

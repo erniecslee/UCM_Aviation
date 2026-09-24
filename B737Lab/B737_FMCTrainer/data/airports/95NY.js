@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95NY"]={"id":"95NY","name":"CUMMINGS AIRFIELD","lat":42.789228,"lon":-78.476411,"elevation":1280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

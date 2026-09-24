@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CO5"]={"id":"0CO5","name":"LEBEAU RANCH","lat":39.303217,"lon":-104.414033,"elevation":6565,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

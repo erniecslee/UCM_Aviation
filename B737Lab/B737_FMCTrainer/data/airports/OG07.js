@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG07"]={"id":"OG07","name":"COVE SIDE RANCH PORT","lat":45.333611,"lon":-117.819722,"elevation":2770,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

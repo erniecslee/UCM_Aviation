@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2Z2"]={"id":"2Z2","name":"EUREKA CREEK","lat":65.175911,"lon":-150.220539,"elevation":700,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

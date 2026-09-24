@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL46"]={"id":"OL46","name":"REED AERO","lat":35.295797,"lon":-99.925111,"elevation":2120,"region":"K4","runways":[{"id":"RW09","lat":35.295844,"lon":-99.929308,"length":2505,"course":86.3},{"id":"RW27","lat":35.29575,"lon":-99.920914,"length":2505,"course":266.3}],"procedures":{"D":{},"E":{},"F":{}}};

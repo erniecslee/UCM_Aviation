@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79TE"]={"id":"79TE","name":"ARROWHEAD","lat":28.115567,"lon":-97.930833,"elevation":165,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

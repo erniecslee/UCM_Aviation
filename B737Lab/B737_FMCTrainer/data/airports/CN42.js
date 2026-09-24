@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN42"]={"id":"CN42","name":"DOUBLE CREEK AIRPARK","lat":40.445711,"lon":-121.882214,"elevation":2030,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

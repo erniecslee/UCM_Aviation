@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06MT"]={"id":"06MT","name":"TORGERSON","lat":48.558317,"lon":-112.109203,"elevation":3541,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

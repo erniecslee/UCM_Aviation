@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL38"]={"id":"LL38","name":"STUTZKE","lat":41.810278,"lon":-89.838333,"elevation":740,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

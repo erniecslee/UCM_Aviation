@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XA0"]={"id":"3XA0","name":"DRENNAN","lat":32.313889,"lon":-97.231111,"elevation":726,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

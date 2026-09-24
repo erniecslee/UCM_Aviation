@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KS8"]={"id":"0KS8","name":"PEARCE FLD","lat":37.381572,"lon":-95.375894,"elevation":952,"region":"K3","runways":[{"id":"RW17","lat":37.3837,"lon":-95.3759,"length":1550,"course":174.9},{"id":"RW35","lat":37.379444,"lon":-95.375889,"length":1550,"course":354.9}],"procedures":{"D":{},"E":{},"F":{}}};

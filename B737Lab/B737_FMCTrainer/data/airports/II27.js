@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II27"]={"id":"II27","name":"WARD","lat":40.166706,"lon":-85.940817,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

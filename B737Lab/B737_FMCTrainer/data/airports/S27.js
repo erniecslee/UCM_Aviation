@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S27"]={"id":"S27","name":"KALISPELL CITY","lat":48.178569,"lon":-114.303742,"elevation":2932,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

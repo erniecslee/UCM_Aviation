@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54MI"]={"id":"54MI","name":"PINGSTON AEROWORKS","lat":42.810278,"lon":-84.083056,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

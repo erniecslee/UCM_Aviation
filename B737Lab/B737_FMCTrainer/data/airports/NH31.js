@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH31"]={"id":"NH31","name":"MOUNTAIN VIEW FLD","lat":43.650078,"lon":-71.149511,"elevation":965,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

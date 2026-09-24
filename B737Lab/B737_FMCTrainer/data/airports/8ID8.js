@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8ID8"]={"id":"8ID8","name":"LEWIS AND CLARK AIRSTRIP","lat":45.353333,"lon":-113.865,"elevation":4530,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19LA"]={"id":"19LA","name":"SELF FORWARD LANDING STRIP","lat":31.117022,"lon":-93.154317,"elevation":368,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

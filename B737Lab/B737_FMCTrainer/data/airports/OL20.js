@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL20"]={"id":"OL20","name":"WHITEHORN COVE","lat":35.997322,"lon":-95.25885,"elevation":568,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

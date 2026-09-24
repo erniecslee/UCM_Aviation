@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47IL"]={"id":"47IL","name":"EBERT FLD","lat":41.916058,"lon":-89.272067,"elevation":830,"region":"K5","runways":[{"id":"RW09","lat":41.916058,"lon":-89.275383,"length":1806,"course":92.9},{"id":"RW27","lat":41.916058,"lon":-89.268747,"length":1806,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

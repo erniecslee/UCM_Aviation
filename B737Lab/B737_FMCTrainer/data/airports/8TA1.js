@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TA1"]={"id":"8TA1","name":"WHATLEY FLYING SERVICE","lat":28.478056,"lon":-96.761928,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO14"]={"id":"CO14","name":"ALAMOSA OUTPOST","lat":37.421944,"lon":-105.666111,"elevation":7600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -171,8 +171,8 @@ function step(dt){
   s.gs=Math.hypot(vx,vy); s.trk=wrap360(Math.atan2(vx,vy)/D2R);
   xyMove(s,vx/3600*dt,vy/3600*dt); s.odo+=s.gs/3600*dt;
   /* vertical: the pitch speed reference moves to the target at 2 kt/s, so a large speed error does not command a dive */
-  if(s.tsRef==null) s.tsRef=s.ias; s.tsRef+=clamp(ts-s.tsRef,-2*dt,2*dt);
-  let vc=s.vs; const spdHold=()=>{ const ee=s.ias-s.tsRef; s.pI=clamp(s.pI+25*ee*dt,-5000,4500); const v=clamp(s.pI+350*ee,-5000,4500); return s.ias>ts+3?Math.min(v,-500):v; };   /* decelerating: no climb, at least 500 fpm down */
+  if(s.tsRef==null) s.tsRef=s.ias; s.tsRef+=clamp(ts-s.tsRef,-2*dt,2*dt); s.tsRef=clamp(s.tsRef,s.ias-5,s.ias+2);   /* the pitch speed reference never leads the airplane by more than 2 kt: no pitch-down while it accelerates */
+  let vc=s.vs; const spdHold=()=>{ const ee=s.ias-s.tsRef; s.pI=clamp(s.pI+25*ee*dt,-5000,4500); const v=clamp(s.pI+350*ee,-5000,4500); return (s.ias>ts+3&&!['N1','GA','THR HLD'].includes(s.modes.at))?Math.min(v,-500):v; };   /* decelerating: no climb, at least 500 fpm down */
   if(s.flareEngaged&&m.ap){ vc=flareVs(ra); }
   else if(ag&&ag.vc!=null){ vc=ag.vc; }
   else if(vnG){ vc=vnG.vc; }

@@ -60,7 +60,7 @@ function vnavGuide(dt){
   if(crz==null){ setMode('pitch','ALT HOLD'); s.holdAlt=s.alt; msg('VNAV disengaged: no cruise altitude. Enter one on PERF INIT or the CRZ page.'); return null; }
   const total=path?path.total:0, dtgNow=total;
   let phase=s.vnPhase||'CLB';
-  const spdHold=(ts)=>{ const ee=s.ias-(s.tsRef==null?ts:s.tsRef); s.pI=clamp(s.pI+25*ee*dt,-5000,4500); const v=clamp(s.pI+350*ee,-5000,4500); return s.ias>ts+3?Math.min(v,-500):v; };
+  const spdHold=(ts)=>{ const ee=s.ias-(s.tsRef==null?ts:s.tsRef); s.pI=clamp(s.pI+25*ee*dt,-5000,4500); const v=clamp(s.pI+350*ee,-5000,4500); return (s.ias>ts+3&&!['N1','GA','THR HLD'].includes(s.modes.at))?Math.min(v,-500):v; };
   const mcpTop=m.alt, todDtg=path?todDtgOf(path,crz):0, toTod=path?total-todDtg:1e9;
   /* which phase are we in? */
   if(phase!=='DES'){

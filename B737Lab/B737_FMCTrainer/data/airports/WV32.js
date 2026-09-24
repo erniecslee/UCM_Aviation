@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV32"]={"id":"WV32","name":"NEW RIVER GORGE","lat":38.089,"lon":-81.0651,"elevation":1720,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

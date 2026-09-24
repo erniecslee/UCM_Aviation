@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84K"]={"id":"84K","name":"MEYERS CHUCK","lat":55.739636,"lon":-132.255019,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

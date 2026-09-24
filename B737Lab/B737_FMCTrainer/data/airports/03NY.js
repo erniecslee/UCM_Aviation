@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03NY"]={"id":"03NY","name":"TALMAGE FLD","lat":40.958431,"lon":-72.716764,"elevation":95,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

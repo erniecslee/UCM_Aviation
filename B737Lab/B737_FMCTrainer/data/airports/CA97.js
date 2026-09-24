@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA97"]={"id":"CA97","name":"CHRISTY AIRSTRIP","lat":34.019725,"lon":-119.852906,"elevation":250,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

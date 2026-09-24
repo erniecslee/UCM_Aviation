@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69TS"]={"id":"69TS","name":"WHITE","lat":30.998789,"lon":-97.75585,"elevation":890,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH16"]={"id":"NH16","name":"BROOKLINE","lat":42.741756,"lon":-71.707572,"elevation":415,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV23"]={"id":"NV23","name":"AIR SAILING","lat":39.872131,"lon":-119.701022,"elevation":4300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

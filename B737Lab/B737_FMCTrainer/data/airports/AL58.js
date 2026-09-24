@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL58"]={"id":"AL58","name":"LOWER DELTA","lat":30.675475,"lon":-87.959872,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

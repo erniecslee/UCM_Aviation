@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD14"]={"id":"CD14","name":"J & S","lat":39.828872,"lon":-104.437183,"elevation":5320,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

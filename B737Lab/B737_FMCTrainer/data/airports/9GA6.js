@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9GA6"]={"id":"9GA6","name":"BROOKLINE - MEADOWMERE","lat":33.097778,"lon":-83.404722,"elevation":500,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME71"]={"id":"ME71","name":"WEBB LAKE","lat":44.669781,"lon":-70.42815,"elevation":678,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

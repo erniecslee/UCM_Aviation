@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA80"]={"id":"GA80","name":"WHISPERING PINES","lat":33.782331,"lon":-83.9888,"elevation":940,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58AK"]={"id":"58AK","name":"FAIRVIEW EAST","lat":61.552589,"lon":-149.339661,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04IN"]={"id":"04IN","name":"LAKE GAGE","lat":41.701389,"lon":-85.113056,"elevation":954,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

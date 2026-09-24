@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87FL"]={"id":"87FL","name":"ALMA","lat":26.732986,"lon":-81.571042,"elevation":18,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PA8"]={"id":"3PA8","name":"HARRIS","lat":39.820386,"lon":-75.925778,"elevation":575,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

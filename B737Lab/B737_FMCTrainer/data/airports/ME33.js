@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME33"]={"id":"ME33","name":"FARR FLD","lat":43.778694,"lon":-70.013103,"elevation":70,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

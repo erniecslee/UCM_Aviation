@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34FA"]={"id":"34FA","name":"GEZIK","lat":28.251944,"lon":-80.668889,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

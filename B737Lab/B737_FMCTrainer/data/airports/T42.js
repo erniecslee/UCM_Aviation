@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T42"]={"id":"T42","name":"RUTH","lat":40.211472,"lon":-123.297694,"elevation":2781,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

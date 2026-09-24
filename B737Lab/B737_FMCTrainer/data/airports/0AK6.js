@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK6"]={"id":"0AK6","name":"VICTORY","lat":61.803375,"lon":-147.944153,"elevation":1800,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

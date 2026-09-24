@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73AZ"]={"id":"73AZ","name":"DUNTON RANCH","lat":35.201944,"lon":-113.360833,"elevation":5115,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

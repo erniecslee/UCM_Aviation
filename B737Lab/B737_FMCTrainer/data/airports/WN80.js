@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN80"]={"id":"WN80","name":"WALTERS ARV","lat":46.097892,"lon":-122.865386,"elevation":475,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

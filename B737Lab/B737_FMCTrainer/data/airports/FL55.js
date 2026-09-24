@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL55"]={"id":"FL55","name":"SANFORD","lat":28.822778,"lon":-81.263333,"elevation":6,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

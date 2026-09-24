@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA47"]={"id":"GA47","name":"BIVINS","lat":31.185222,"lon":-82.273458,"elevation":134,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

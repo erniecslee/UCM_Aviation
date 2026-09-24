@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MU7"]={"id":"0MU7","name":"LAMBS FLD","lat":38.875008,"lon":-94.139667,"elevation":1070,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

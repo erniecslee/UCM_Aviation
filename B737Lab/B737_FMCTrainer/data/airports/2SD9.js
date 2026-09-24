@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SD9"]={"id":"2SD9","name":"TC FLD","lat":45.452197,"lon":-99.010111,"elevation":1515,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

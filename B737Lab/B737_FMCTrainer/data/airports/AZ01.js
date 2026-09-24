@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ01"]={"id":"AZ01","name":"OUTBACK RANCH AIRSTRIP","lat":33.847778,"lon":-113.570278,"elevation":1980,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

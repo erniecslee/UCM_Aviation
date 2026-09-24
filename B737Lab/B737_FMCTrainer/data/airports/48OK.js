@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48OK"]={"id":"48OK","name":"COYOTE RUN","lat":36.723333,"lon":-97.61,"elevation":1056,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

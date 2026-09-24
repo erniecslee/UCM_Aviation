@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL15"]={"id":"FL15","name":"ORLANDO","lat":28.621111,"lon":-81.639167,"elevation":66,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

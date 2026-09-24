@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41MT"]={"id":"41MT","name":"R & R FLD","lat":48.08715,"lon":-116.046267,"elevation":2274,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49MN"]={"id":"49MN","name":"WILLOW RIDGE","lat":44.671911,"lon":-92.826314,"elevation":839,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50TN"]={"id":"50TN","name":"PARIS LANDING AIRPARK","lat":36.2166,"lon":-88.209678,"elevation":484,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

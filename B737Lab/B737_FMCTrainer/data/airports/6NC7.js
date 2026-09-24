@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC7"]={"id":"6NC7","name":"CIRCLE P FARM","lat":34.751389,"lon":-76.906111,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

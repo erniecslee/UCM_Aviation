@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43OA"]={"id":"43OA","name":"ANDERSON AIRFIELD","lat":39.581422,"lon":-84.092783,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

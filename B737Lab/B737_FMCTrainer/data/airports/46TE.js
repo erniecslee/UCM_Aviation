@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46TE"]={"id":"46TE","name":"WILDCAT","lat":31.849722,"lon":-101.06,"elevation":2385,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

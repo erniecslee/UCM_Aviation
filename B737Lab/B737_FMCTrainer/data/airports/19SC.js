@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19SC"]={"id":"19SC","name":"SEXTON","lat":34.353833,"lon":-81.802358,"elevation":593,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

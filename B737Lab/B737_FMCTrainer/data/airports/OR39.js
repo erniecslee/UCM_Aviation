@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR39"]={"id":"OR39","name":"FLYING TOM","lat":44.657622,"lon":-123.212042,"elevation":300,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

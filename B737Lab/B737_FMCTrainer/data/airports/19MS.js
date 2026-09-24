@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19MS"]={"id":"19MS","name":"NICHOL AIRPARK","lat":34.837417,"lon":-89.261333,"elevation":620,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

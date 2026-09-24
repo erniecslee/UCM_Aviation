@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID72"]={"id":"ID72","name":"HUSKEY","lat":43.420833,"lon":-111.285,"elevation":5200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

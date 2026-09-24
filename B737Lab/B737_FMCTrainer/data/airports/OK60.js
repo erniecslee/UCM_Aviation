@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK60"]={"id":"OK60","name":"DRIFTING G RANCH","lat":34.987417,"lon":-97.810783,"elevation":1045,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

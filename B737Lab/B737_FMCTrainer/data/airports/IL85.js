@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL85"]={"id":"IL85","name":"OAKFIELD","lat":41.846389,"lon":-88.570278,"elevation":810,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01WY"]={"id":"01WY","name":"KEYHOLE","lat":44.347206,"lon":-104.810803,"elevation":4250,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

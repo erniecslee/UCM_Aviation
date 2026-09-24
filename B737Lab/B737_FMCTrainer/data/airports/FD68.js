@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD68"]={"id":"FD68","name":"JONES BROTHERS EAST","lat":28.794108,"lon":-81.652942,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

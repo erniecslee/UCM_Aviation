@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KMY"]={"id":"KMY","name":"MOSER BAY","lat":57.025586,"lon":-154.145919,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

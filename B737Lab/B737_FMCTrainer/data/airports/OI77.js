@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI77"]={"id":"OI77","name":"MC ARDLE","lat":41.215886,"lon":-83.557986,"elevation":715,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NY3"]={"id":"6NY3","name":"AIRY-ACRES","lat":42.642619,"lon":-76.728844,"elevation":805,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY77"]={"id":"NY77","name":"WANDERVOGEL","lat":42.718131,"lon":-74.163461,"elevation":1260,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK98"]={"id":"AK98","name":"BUCK CREEK","lat":65.638672,"lon":-167.485808,"elevation":560,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

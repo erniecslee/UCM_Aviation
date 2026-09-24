@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20SD"]={"id":"20SD","name":"LUTGEN","lat":44.448889,"lon":-96.505786,"elevation":1764,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

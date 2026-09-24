@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KY7"]={"id":"1KY7","name":"JORDAN HILL FARM","lat":37.8325,"lon":-84.180833,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

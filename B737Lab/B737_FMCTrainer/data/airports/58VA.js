@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58VA"]={"id":"58VA","name":"WALNUT HILL","lat":38.595122,"lon":-77.6461,"elevation":285,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52WA"]={"id":"52WA","name":"HONN FARM","lat":46.9321,"lon":-117.976058,"elevation":1620,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN28"]={"id":"MN28","name":"LUX STRIP","lat":44.983017,"lon":-94.748053,"elevation":1120,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71PN"]={"id":"71PN","name":"SCHULTEIS FLD","lat":39.91815,"lon":-77.045533,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

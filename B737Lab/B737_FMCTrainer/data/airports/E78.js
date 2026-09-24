@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E78"]={"id":"E78","name":"SELLS","lat":31.932583,"lon":-111.89425,"elevation":2409,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

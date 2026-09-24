@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO38"]={"id":"CO38","name":"COMANCHE AIRFIELD LLC","lat":39.747194,"lon":-104.313,"elevation":5350,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

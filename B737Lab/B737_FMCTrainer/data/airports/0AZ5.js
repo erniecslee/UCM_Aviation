@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AZ5"]={"id":"0AZ5","name":"CASTLE WELL","lat":33.865867,"lon":-112.603369,"elevation":2080,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

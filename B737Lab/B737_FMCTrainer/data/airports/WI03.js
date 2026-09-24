@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI03"]={"id":"WI03","name":"HORNER FARMS","lat":42.798072,"lon":-88.133422,"elevation":770,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

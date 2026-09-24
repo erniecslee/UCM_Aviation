@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8ND6"]={"id":"8ND6","name":"J VINING","lat":46.71275,"lon":-97.390925,"elevation":1025,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

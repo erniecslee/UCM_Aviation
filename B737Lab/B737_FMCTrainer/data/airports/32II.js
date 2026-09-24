@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32II"]={"id":"32II","name":"ROBERTS","lat":38.81645,"lon":-85.106342,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

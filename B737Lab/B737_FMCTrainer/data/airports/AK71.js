@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK71"]={"id":"AK71","name":"LONELY AS","lat":70.910744,"lon":-153.242214,"elevation":17,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

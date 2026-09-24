@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR20"]={"id":"OR20","name":"HEMMINGSON","lat":44.658178,"lon":-123.142875,"elevation":250,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

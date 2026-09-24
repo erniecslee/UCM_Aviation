@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KMUL"]={"id":"KMUL","name":"SPENCE","lat":31.137686,"lon":-83.704061,"elevation":292,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

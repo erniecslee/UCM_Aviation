@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA57"]={"id":"WA57","name":"BLUECREEK","lat":48.313944,"lon":-117.840306,"elevation":1740,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK55"]={"id":"AK55","name":"MOOSE RUN AIRSTRIP","lat":60.489167,"lon":-150.801667,"elevation":290,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1ID9"]={"id":"1ID9","name":"SIMKO FLD","lat":42.763694,"lon":-112.184936,"elevation":5640,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

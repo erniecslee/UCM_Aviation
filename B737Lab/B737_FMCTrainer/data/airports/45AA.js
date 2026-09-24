@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45AA"]={"id":"45AA","name":"DAVIDSON STRIP","lat":62.162897,"lon":-150.539608,"elevation":383,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

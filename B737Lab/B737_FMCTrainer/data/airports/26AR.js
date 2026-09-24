@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26AR"]={"id":"26AR","name":"FLY \"N\" K","lat":35.2155,"lon":-91.807833,"elevation":400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

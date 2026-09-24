@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20ID"]={"id":"20ID","name":"HARRINGTON","lat":43.720439,"lon":-116.005667,"elevation":4200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

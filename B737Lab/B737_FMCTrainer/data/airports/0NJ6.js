@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NJ6"]={"id":"0NJ6","name":"DIX FLD","lat":39.316783,"lon":-74.632936,"elevation":8,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

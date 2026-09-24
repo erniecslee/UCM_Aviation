@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WI0"]={"id":"8WI0","name":"WOOD","lat":43.743867,"lon":-89.814292,"elevation":935,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

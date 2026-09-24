@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD10"]={"id":"CD10","name":"CHAPMAN FLD","lat":37.675003,"lon":-106.556153,"elevation":8100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

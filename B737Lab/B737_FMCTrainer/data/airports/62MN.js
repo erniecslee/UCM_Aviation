@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62MN"]={"id":"62MN","name":"TAYLORS FALLS","lat":45.381353,"lon":-92.682431,"elevation":920,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

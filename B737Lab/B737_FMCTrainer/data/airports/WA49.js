@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA49"]={"id":"WA49","name":"FLYING R RANCH","lat":47.502778,"lon":-117.647778,"elevation":2450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

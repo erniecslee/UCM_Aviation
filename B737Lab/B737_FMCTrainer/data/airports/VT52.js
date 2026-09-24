@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT52"]={"id":"VT52","name":"SHAW MEADOW","lat":44.643381,"lon":-73.187631,"elevation":230,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

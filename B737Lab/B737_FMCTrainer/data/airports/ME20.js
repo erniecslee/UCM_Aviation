@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME20"]={"id":"ME20","name":"BOB-MAR","lat":44.599233,"lon":-69.623936,"elevation":310,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

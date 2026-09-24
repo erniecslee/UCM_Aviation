@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN92"]={"id":"SN92","name":"SUNSHINE RANCH","lat":39.333331,"lon":-96.700286,"elevation":1300,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

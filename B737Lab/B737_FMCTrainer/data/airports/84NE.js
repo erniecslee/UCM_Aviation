@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84NE"]={"id":"84NE","name":"HOOKER COUNTY","lat":42.042164,"lon":-101.059661,"elevation":3240,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

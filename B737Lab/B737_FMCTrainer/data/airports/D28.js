@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D28"]={"id":"D28","name":"TANGLEFOOT","lat":48.538889,"lon":-116.832222,"elevation":2438,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

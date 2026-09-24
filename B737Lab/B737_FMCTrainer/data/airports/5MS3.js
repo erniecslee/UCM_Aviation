@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MS3"]={"id":"5MS3","name":"PORTER","lat":31.175,"lon":-89.803056,"elevation":158,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

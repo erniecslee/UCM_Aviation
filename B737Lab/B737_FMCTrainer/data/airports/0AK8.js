@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AK8"]={"id":"0AK8","name":"FIREWEED","lat":61.426878,"lon":-142.978833,"elevation":1320,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

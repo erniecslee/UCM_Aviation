@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7B4"]={"id":"7B4","name":"MILLER FARM LANDING STRIP","lat":39.884508,"lon":-82.58905,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

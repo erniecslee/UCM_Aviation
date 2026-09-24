@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L25"]={"id":"L25","name":"PEARCE FERRY","lat":36.093222,"lon":-114.046722,"elevation":2941,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

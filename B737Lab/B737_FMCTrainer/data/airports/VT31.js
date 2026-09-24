@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT31"]={"id":"VT31","name":"CARRIERS SKYPARK","lat":44.111175,"lon":-72.443989,"elevation":1600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

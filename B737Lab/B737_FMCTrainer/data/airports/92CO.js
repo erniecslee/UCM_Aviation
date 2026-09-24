@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92CO"]={"id":"92CO","name":"LAKE CREEK RANCH","lat":38.291664,"lon":-105.611114,"elevation":7200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

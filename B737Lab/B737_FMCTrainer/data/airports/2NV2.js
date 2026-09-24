@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NV2"]={"id":"2NV2","name":"GIBB RANCH","lat":39.834722,"lon":-119.674722,"elevation":4242,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

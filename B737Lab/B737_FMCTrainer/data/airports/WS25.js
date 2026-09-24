@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS25"]={"id":"WS25","name":"SHANGRILA","lat":45.581631,"lon":-87.845397,"elevation":835,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

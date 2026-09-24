@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD20"]={"id":"MD20","name":"MAKOUTZ","lat":39.636211,"lon":-77.122761,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

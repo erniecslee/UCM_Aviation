@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME17"]={"id":"ME17","name":"THOMAS","lat":44.660233,"lon":-70.588,"elevation":670,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

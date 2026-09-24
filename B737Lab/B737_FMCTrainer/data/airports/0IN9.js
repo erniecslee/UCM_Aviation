@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IN9"]={"id":"0IN9","name":"PARRISH","lat":37.9931,"lon":-87.951417,"elevation":390,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

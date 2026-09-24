@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV08"]={"id":"NV08","name":"PETAN RANCH","lat":41.737956,"lon":-116.216208,"elevation":5616,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

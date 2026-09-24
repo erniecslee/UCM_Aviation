@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND35"]={"id":"ND35","name":"LINDEMANN","lat":46.699975,"lon":-97.700381,"elevation":1199,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

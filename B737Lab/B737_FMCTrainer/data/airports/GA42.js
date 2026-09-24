@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA42"]={"id":"GA42","name":"VADA","lat":31.072469,"lon":-84.393375,"elevation":140,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

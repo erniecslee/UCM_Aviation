@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NK0"]={"id":"7NK0","name":"VALLEY VIEW","lat":42.647575,"lon":-74.387358,"elevation":1160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

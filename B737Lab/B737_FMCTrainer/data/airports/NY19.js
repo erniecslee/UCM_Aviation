@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY19"]={"id":"NY19","name":"WALLS","lat":43.043956,"lon":-76.461881,"elevation":610,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

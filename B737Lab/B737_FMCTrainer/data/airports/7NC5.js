@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NC5"]={"id":"7NC5","name":"CROOKED CREEK","lat":35.931183,"lon":-78.244753,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

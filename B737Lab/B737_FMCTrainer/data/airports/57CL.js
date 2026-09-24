@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57CL"]={"id":"57CL","name":"BORON AIRSTRIP","lat":35.003586,"lon":-117.607003,"elevation":2499,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

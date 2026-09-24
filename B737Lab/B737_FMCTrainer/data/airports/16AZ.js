@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16AZ"]={"id":"16AZ","name":"YAV'PE MA'TA","lat":34.508914,"lon":-112.6799,"elevation":4366,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

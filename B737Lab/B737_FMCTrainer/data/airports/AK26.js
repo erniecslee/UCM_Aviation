@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK26"]={"id":"AK26","name":"SOLOMON STATE FLD","lat":64.560642,"lon":-164.442328,"elevation":25,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

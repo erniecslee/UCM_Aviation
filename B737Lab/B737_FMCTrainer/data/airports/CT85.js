@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT85"]={"id":"CT85","name":"ROBERTS FARM","lat":41.889819,"lon":-72.615089,"elevation":37,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

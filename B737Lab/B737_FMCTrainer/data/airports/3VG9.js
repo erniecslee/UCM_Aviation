@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VG9"]={"id":"3VG9","name":"POTTS LANDING","lat":36.701944,"lon":-79.133889,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

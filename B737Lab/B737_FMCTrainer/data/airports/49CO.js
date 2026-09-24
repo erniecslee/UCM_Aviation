@@ -1,1 +1,0 @@
-window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49CO"]={"id":"49CO","name":"AIR DUSTERS INC","lat":40.093317,"lon":-104.375233,"elevation":4780,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG40"]={"id":"OG40","name":"NAPIER RANCH","lat":43.237336,"lon":-123.49305,"elevation":485,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

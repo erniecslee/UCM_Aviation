@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70PN"]={"id":"70PN","name":"SANDERS PERSONAL USE","lat":41.989167,"lon":-79.301111,"elevation":1455,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

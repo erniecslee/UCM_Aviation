@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA18"]={"id":"TA18","name":"SUNSET","lat":32.707075,"lon":-96.479431,"elevation":444,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

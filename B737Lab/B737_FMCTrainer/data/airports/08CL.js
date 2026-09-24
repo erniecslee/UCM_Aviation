@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08CL"]={"id":"08CL","name":"KISTLER RANCH","lat":37.85965,"lon":-120.554367,"elevation":1025,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

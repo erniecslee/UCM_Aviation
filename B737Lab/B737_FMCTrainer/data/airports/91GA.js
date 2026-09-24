@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91GA"]={"id":"91GA","name":"FLYING FROG FLD","lat":33.273611,"lon":-84.793333,"elevation":910,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

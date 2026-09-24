@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38WV"]={"id":"38WV","name":"RIVER'S  EDGE FARM","lat":39.325278,"lon":-78.425556,"elevation":810,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

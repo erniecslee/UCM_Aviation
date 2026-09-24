@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91WT"]={"id":"91WT","name":"RIVERVIEW AIRPARK","lat":47.8995,"lon":-119.896,"elevation":1210,"region":"K1","runways":[{"id":"RW18","lat":47.902,"lon":-119.895,"length":1889,"course":180.6},{"id":"RW36","lat":47.897,"lon":-119.897,"length":1889,"course":0.6}],"procedures":{"D":{},"E":{},"F":{}}};

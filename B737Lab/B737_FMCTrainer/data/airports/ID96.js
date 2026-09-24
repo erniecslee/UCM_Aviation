@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID96"]={"id":"ID96","name":"BEAR AIR","lat":44.785169,"lon":-116.066792,"elevation":4904,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

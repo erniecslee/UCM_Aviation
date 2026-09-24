@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55WI"]={"id":"55WI","name":"CRANMOOR AIRSTRIP","lat":44.318019,"lon":-89.968739,"elevation":985,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KXA"]={"id":"KXA","name":"KASAAN","lat":55.537414,"lon":-132.397514,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

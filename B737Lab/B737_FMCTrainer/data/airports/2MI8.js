@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MI8"]={"id":"2MI8","name":"CACKLEBERRY","lat":42.425133,"lon":-83.868556,"elevation":899,"region":"K5","runways":[{"id":"RW06","lat":42.42415,"lon":-83.870075,"length":2113,"course":56.0},{"id":"RW24","lat":42.426139,"lon":-83.866989,"length":2113,"course":236.0}],"procedures":{"D":{},"E":{},"F":{}}};

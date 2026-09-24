@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS46"]={"id":"LS46","name":"WC FLD","lat":30.858517,"lon":-92.81235,"elevation":167,"region":"K4","runways":[{"id":"RW18","lat":30.862067,"lon":-92.812839,"length":2600,"course":173.1},{"id":"RW36","lat":30.854967,"lon":-92.811861,"length":2600,"course":353.1}],"procedures":{"D":{},"E":{},"F":{}}};

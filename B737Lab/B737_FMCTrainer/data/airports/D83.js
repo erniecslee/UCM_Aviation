@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D83"]={"id":"D83","name":"BOONVILLE","lat":39.013953,"lon":-123.381553,"elevation":379,"region":"K2","runways":[{"id":"RW13","lat":39.016489,"lon":-123.384053,"length":2838,"course":125.4},{"id":"RW31","lat":39.011069,"lon":-123.378714,"length":2838,"course":305.4}],"procedures":{"D":{},"E":{},"F":{}}};

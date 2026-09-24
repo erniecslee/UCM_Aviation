@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AZ8"]={"id":"6AZ8","name":"FLYING DIAMOND","lat":31.941111,"lon":-111.120278,"elevation":3800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

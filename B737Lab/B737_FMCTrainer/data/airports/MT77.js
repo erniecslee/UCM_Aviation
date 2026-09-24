@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT77"]={"id":"MT77","name":"PETERSON RANCH","lat":47.6083,"lon":-110.905508,"elevation":3340,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

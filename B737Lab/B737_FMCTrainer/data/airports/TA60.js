@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA60"]={"id":"TA60","name":"FLY NAVY","lat":30.736753,"lon":-97.974478,"elevation":1046,"region":"K4","runways":[{"id":"RW05","lat":30.735089,"lon":-97.977011,"length":2000,"course":49.6},{"id":"RW23","lat":30.738417,"lon":-97.971944,"length":2000,"course":229.6}],"procedures":{"D":{},"E":{},"F":{}}};

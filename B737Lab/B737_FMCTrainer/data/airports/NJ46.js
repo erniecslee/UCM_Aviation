@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ46"]={"id":"NJ46","name":"MAR BAR L FARMS","lat":40.2765,"lon":-74.388483,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

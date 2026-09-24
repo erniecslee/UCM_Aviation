@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA05"]={"id":"FA05","name":"HOLIDAY ISLE","lat":24.934856,"lon":-80.600894,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

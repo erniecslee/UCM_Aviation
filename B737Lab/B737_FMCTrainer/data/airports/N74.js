@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N74"]={"id":"N74","name":"PENNS CAVE","lat":40.889936,"lon":-77.603136,"elevation":1245,"region":"K6","runways":[{"id":"RW07","lat":40.888253,"lon":-77.607092,"length":2509,"course":70.7},{"id":"RW25","lat":40.891619,"lon":-77.599175,"length":2509,"course":250.7}],"procedures":{"D":{},"E":{},"F":{}}};

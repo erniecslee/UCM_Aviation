@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65WN"]={"id":"65WN","name":"WHOOPY HOLLOW AERODROME","lat":42.676447,"lon":-89.937986,"elevation":925,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

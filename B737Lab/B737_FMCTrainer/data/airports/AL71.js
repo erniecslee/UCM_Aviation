@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL71"]={"id":"AL71","name":"WILLOW POINT","lat":32.803303,"lon":-85.980881,"elevation":552,"region":"K7","runways":[{"id":"RW08","lat":32.801931,"lon":-85.987633,"length":4500,"course":76.4},{"id":"RW26","lat":32.804758,"lon":-85.973761,"length":4500,"course":256.4}],"procedures":{"D":{},"E":{},"F":{}}};

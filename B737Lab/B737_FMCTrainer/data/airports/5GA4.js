@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5GA4"]={"id":"5GA4","name":"AIR ACRES","lat":34.105931,"lon":-84.448539,"elevation":918,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

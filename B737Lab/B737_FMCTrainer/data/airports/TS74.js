@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS74"]={"id":"TS74","name":"GLASS","lat":33.362614,"lon":-97.294464,"elevation":810,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

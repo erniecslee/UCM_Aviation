@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27R"]={"id":"27R","name":"ELDORADO","lat":30.862222,"lon":-100.610861,"elevation":2448,"region":"K4","runways":[{"id":"RW17","lat":30.868136,"lon":-100.610897,"length":4300,"course":172.0},{"id":"RW35","lat":30.856311,"lon":-100.610825,"length":4300,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

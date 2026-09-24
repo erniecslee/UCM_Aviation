@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47PA"]={"id":"47PA","name":"HOMAN","lat":40.719544,"lon":-77.961361,"elevation":1217,"region":"K6","runways":[{"id":"NE","lat":40.721292,"lon":-77.957903,"length":2300,"course":245.0},{"id":"SW","lat":40.717794,"lon":-77.964817,"length":2300,"course":65.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C63"]={"id":"C63","name":"RAYRAY","lat":43.251958,"lon":-85.059397,"elevation":839,"region":"K5","runways":[{"id":"RW11W","lat":43.252778,"lon":-85.064722,"length":2900,"course":108.1},{"id":"RW29W","lat":43.251139,"lon":-85.054069,"length":2900,"course":288.1}],"procedures":{"D":{},"E":{},"F":{}}};

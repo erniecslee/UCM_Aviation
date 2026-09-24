@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43OR"]={"id":"43OR","name":"INSPIRATION","lat":44.092222,"lon":-121.150833,"elevation":3400,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

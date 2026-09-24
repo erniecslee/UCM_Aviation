@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31CO"]={"id":"31CO","name":"WHOMBLE","lat":40.021483,"lon":-102.175075,"elevation":3700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

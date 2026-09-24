@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3H5"]={"id":"3H5","name":"ERIE AIR PARK","lat":41.682417,"lon":-90.078611,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

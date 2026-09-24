@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA42"]={"id":"TA42","name":"TWISTED T FLD","lat":30.260228,"lon":-96.597836,"elevation":316,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

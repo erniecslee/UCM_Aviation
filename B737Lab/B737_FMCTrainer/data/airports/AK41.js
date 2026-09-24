@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK41"]={"id":"AK41","name":"GREG'N SAGE","lat":64.543889,"lon":-146.844167,"elevation":925,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

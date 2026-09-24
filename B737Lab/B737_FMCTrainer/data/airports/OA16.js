@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA16"]={"id":"OA16","name":"LOST BRIDGE","lat":39.156111,"lon":-84.781667,"elevation":818,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

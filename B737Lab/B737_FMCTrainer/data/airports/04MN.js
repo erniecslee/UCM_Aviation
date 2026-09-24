@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04MN"]={"id":"04MN","name":"HELBLAD","lat":47.985792,"lon":-94.686917,"elevation":1195,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

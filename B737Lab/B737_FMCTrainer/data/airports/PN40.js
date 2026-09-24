@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN40"]={"id":"PN40","name":"MOORHEAD AIRPARK","lat":42.184225,"lon":-79.897553,"elevation":805,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

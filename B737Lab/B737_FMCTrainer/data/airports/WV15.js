@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV15"]={"id":"WV15","name":"GERSTELL FARMS","lat":39.483425,"lon":-78.926414,"elevation":700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

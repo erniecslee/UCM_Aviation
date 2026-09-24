@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN18"]={"id":"MN18","name":"BARRETT","lat":46.178158,"lon":-94.088603,"elevation":1275,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

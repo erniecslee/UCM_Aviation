@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA06"]={"id":"GA06","name":"MONTICELLO SKY RANCH","lat":33.3325,"lon":-83.726944,"elevation":690,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

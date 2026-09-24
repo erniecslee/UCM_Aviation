@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL33"]={"id":"AL33","name":"STURDY OAK FARM","lat":31.036031,"lon":-87.593808,"elevation":230,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

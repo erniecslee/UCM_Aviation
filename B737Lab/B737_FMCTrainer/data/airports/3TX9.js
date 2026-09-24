@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TX9"]={"id":"3TX9","name":"RAFTER J","lat":32.527639,"lon":-97.280847,"elevation":710,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

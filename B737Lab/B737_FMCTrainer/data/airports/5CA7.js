@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CA7"]={"id":"5CA7","name":"AGRO-WEST","lat":36.336064,"lon":-120.247369,"elevation":335,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

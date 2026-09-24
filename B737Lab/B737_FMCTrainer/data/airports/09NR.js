@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09NR"]={"id":"09NR","name":"DAKOTA AIR RANCH","lat":35.65,"lon":-79.65,"elevation":561,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

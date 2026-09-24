@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A51"]={"id":"A51","name":"COSTIN","lat":29.758544,"lon":-85.289086,"elevation":13,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

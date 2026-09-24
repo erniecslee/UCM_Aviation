@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS40"]={"id":"MS40","name":"SOUTHLAND FLYING SERVICE INC","lat":33.225556,"lon":-90.246667,"elevation":115,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

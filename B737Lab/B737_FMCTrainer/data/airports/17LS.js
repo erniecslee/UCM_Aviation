@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17LS"]={"id":"17LS","name":"YANKEE FLD","lat":30.607931,"lon":-91.975278,"elevation":32,"region":"K4","runways":[{"id":"RW04","lat":30.604528,"lon":-91.97875,"length":3300,"course":39.0},{"id":"RW22","lat":30.611333,"lon":-91.971806,"length":3300,"course":219.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LL4"]={"id":"3LL4","name":"PILLOW HILL","lat":42.447242,"lon":-88.201475,"elevation":815,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25NH"]={"id":"25NH","name":"PRESBY FLD","lat":44.232417,"lon":-71.716306,"elevation":1250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

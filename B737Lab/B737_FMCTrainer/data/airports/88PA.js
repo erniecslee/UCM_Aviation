@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88PA"]={"id":"88PA","name":"MC COY","lat":40.539,"lon":-80.412675,"elevation":1188,"region":"K6","runways":[{"id":"RW15","lat":40.540083,"lon":-80.413783,"length":1000,"course":149.1},{"id":"RW33","lat":40.537914,"lon":-80.411567,"length":1000,"course":329.1}],"procedures":{"D":{},"E":{},"F":{}}};

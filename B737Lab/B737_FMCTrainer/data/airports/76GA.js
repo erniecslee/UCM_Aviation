@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76GA"]={"id":"76GA","name":"LANDINGS EAST SYLVANIA","lat":32.744722,"lon":-81.613056,"elevation":155,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA25"]={"id":"AA25","name":"SHELBY STRIP","lat":61.507867,"lon":-149.078925,"elevation":40,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

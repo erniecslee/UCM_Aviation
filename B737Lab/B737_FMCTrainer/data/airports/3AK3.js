@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK3"]={"id":"3AK3","name":"SONGLO VISTA","lat":62.563767,"lon":-150.2205,"elevation":825,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

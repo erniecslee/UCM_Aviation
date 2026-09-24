@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7K7"]={"id":"7K7","name":"GRAHAM FLD","lat":42.540786,"lon":-96.485511,"elevation":1109,"region":"K3","runways":[{"id":"RW15","lat":42.544875,"lon":-96.487836,"length":3233,"course":150.0},{"id":"RW33","lat":42.536697,"lon":-96.483186,"length":3233,"course":330.0}],"procedures":{"D":{},"E":{},"F":{}}};

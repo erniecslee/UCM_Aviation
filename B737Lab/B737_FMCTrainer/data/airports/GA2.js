@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA2"]={"id":"GA2","name":"PEACH STATE AERODROME","lat":33.183453,"lon":-84.371592,"elevation":926,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5L6"]={"id":"5L6","name":"WASILLA LAKE","lat":61.586406,"lon":-149.4075,"elevation":330,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

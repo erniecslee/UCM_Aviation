@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KSAS"]={"id":"KSAS","name":"SALTON SEA","lat":33.241194,"lon":-115.952583,"elevation":-84,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

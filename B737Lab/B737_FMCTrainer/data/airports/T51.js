@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T51"]={"id":"T51","name":"DAN JONES INTL","lat":30.042775,"lon":-95.667222,"elevation":166,"region":"K4","runways":[{"id":"RW17","lat":30.0468,"lon":-95.667256,"length":3440,"course":174.0},{"id":"RW35","lat":30.039086,"lon":-95.667175,"length":3440,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

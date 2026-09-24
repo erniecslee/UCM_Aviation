@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK2"]={"id":"8AK2","name":"CARTYS AIRSTRIP","lat":60.702147,"lon":-151.293972,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

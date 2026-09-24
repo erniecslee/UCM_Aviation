@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MT7"]={"id":"0MT7","name":"PINEHURST RANCH","lat":47.660778,"lon":-115.404056,"elevation":2460,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

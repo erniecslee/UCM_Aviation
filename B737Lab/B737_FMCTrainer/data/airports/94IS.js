@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94IS"]={"id":"94IS","name":"ADAMS PVT","lat":37.901681,"lon":-89.140819,"elevation":410,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

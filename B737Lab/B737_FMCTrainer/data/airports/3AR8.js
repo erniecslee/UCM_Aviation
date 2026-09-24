@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AR8"]={"id":"3AR8","name":"RIVER ACRES","lat":35.471831,"lon":-91.962261,"elevation":260,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

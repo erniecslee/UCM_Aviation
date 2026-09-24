@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38OI"]={"id":"38OI","name":"RONSHAUSEN","lat":39.685061,"lon":-83.071853,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

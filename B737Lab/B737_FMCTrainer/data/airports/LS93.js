@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS93"]={"id":"LS93","name":"GREENWOOD PLANTATION","lat":29.610767,"lon":-90.898428,"elevation":6,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

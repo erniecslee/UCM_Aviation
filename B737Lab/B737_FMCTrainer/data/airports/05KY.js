@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05KY"]={"id":"05KY","name":"CARTERSVILLE","lat":37.535556,"lon":-84.407222,"elevation":1070,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

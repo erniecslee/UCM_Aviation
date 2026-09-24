@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA75"]={"id":"GA75","name":"MEADOWLARK","lat":33.087347,"lon":-84.4052,"elevation":784,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

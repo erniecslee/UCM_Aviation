@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1XA7"]={"id":"1XA7","name":"GLOSTER AERODROME","lat":29.733392,"lon":-96.059181,"elevation":148,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

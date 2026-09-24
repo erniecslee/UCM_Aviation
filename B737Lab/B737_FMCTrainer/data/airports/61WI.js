@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61WI"]={"id":"61WI","name":"DINNERBELL","lat":43.708325,"lon":-88.285656,"elevation":1120,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

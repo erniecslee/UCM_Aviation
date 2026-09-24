@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LS9"]={"id":"5LS9","name":"AMMONS","lat":31.531347,"lon":-93.707417,"elevation":218,"region":"K4","runways":[{"id":"RW01","lat":31.527156,"lon":-93.708258,"length":3093,"course":4.8},{"id":"RW19","lat":31.535536,"lon":-93.706572,"length":3093,"course":184.8}],"procedures":{"D":{},"E":{},"F":{}}};

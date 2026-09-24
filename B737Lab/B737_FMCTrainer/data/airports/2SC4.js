@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2SC4"]={"id":"2SC4","name":"SALTY FARE LANDING","lat":32.233889,"lon":-80.754167,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

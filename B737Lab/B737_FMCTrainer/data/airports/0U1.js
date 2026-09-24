@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0U1"]={"id":"0U1","name":"WARM SPRINGS CREEK","lat":44.142222,"lon":-115.314056,"elevation":4831,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

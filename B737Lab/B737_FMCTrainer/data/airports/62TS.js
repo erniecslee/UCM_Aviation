@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62TS"]={"id":"62TS","name":"FLACK FIELD","lat":33.113458,"lon":-97.528053,"elevation":778,"region":"K4","runways":[{"id":"RW01","lat":33.110694,"lon":-97.529097,"length":2111,"course":14.6},{"id":"RW19","lat":33.116222,"lon":-97.527008,"length":2111,"course":194.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A43"]={"id":"A43","name":"TAKU HARBOR","lat":58.069114,"lon":-134.015356,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

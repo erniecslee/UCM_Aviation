@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC96"]={"id":"SC96","name":"TOKEENA AIR PARK","lat":34.560278,"lon":-82.935278,"elevation":800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

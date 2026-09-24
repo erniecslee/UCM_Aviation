@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT68"]={"id":"UT68","name":"CAVEMAN RANCH","lat":38.472778,"lon":-109.66,"elevation":3940,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

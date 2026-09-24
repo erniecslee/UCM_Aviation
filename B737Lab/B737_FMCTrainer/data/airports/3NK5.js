@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NK5"]={"id":"3NK5","name":"SECRET SPOT","lat":44.616667,"lon":-73.465278,"elevation":155,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

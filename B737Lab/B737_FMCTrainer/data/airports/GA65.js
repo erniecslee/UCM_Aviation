@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA65"]={"id":"GA65","name":"HOME FLD","lat":33.607911,"lon":-83.355258,"elevation":488,"region":"K7","runways":[{"id":"RW09","lat":33.607911,"lon":-83.357733,"length":1508,"course":96.3},{"id":"RW27","lat":33.607911,"lon":-83.352781,"length":1508,"course":276.3}],"procedures":{"D":{},"E":{},"F":{}}};

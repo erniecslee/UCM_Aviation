@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ45"]={"id":"AZ45","name":"CHINA PEAK OBSERVATORY","lat":32.729236,"lon":-110.296475,"elevation":4800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

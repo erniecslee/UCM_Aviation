@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS14"]={"id":"XS14","name":"WEESE INTL","lat":32.969444,"lon":-96.070556,"elevation":487,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

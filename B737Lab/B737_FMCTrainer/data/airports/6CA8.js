@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CA8"]={"id":"6CA8","name":"DEPUE","lat":34.856389,"lon":-117.1375,"elevation":2313,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

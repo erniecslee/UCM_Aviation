@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO66"]={"id":"MO66","name":"LINDEN AIR","lat":37.058989,"lon":-93.145297,"elevation":1300,"region":"K3","runways":[{"id":"RW07","lat":37.057656,"lon":-93.149889,"length":2850,"course":70.0},{"id":"RW25","lat":37.060322,"lon":-93.140706,"length":2850,"course":250.0}],"procedures":{"D":{},"E":{},"F":{}}};

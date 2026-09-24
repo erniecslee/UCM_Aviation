@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12CL"]={"id":"12CL","name":"NEWTON FLD","lat":36.156897,"lon":-119.849578,"elevation":194,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

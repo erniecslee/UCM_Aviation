@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN59"]={"id":"PN59","name":"STITT","lat":40.831108,"lon":-79.486942,"elevation":1200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56IN"]={"id":"56IN","name":"CASAD INDUSTRIAL PARK","lat":41.079217,"lon":-84.942744,"elevation":766,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

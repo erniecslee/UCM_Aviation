@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OI5"]={"id":"7OI5","name":"BEA-D","lat":41.520606,"lon":-83.275203,"elevation":605,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

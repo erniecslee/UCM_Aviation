@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NC6"]={"id":"8NC6","name":"BROOKS FLD","lat":35.693733,"lon":-79.410958,"elevation":620,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

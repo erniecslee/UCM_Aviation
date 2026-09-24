@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL43"]={"id":"AL43","name":"HENLEY RANCH","lat":32.908464,"lon":-88.333367,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

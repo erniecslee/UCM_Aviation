@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TE0"]={"id":"6TE0","name":"SKALITSKY","lat":26.29035,"lon":-97.949447,"elevation":60,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

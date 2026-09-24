@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15AR"]={"id":"15AR","name":"TAYLOR","lat":34.825861,"lon":-90.543333,"elevation":220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

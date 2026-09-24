@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76G"]={"id":"76G","name":"MARINE CITY","lat":42.721381,"lon":-82.596267,"elevation":614,"region":"K5","runways":[{"id":"RW04","lat":42.717794,"lon":-82.599264,"length":3070,"course":38.0},{"id":"RW22","lat":42.724275,"lon":-82.593842,"length":3070,"course":218.0}],"procedures":{"D":{},"E":{},"F":{}}};

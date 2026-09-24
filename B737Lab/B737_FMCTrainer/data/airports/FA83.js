@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA83"]={"id":"FA83","name":"ORLANDO NORTH AIRPARK","lat":28.721556,"lon":-81.655358,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

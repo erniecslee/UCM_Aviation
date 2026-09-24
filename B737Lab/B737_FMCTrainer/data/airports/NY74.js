@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY74"]={"id":"NY74","name":"DEER RUN","lat":42.323697,"lon":-73.873183,"elevation":320,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

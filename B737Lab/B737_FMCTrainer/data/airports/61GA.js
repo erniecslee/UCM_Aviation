@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61GA"]={"id":"61GA","name":"PEA PATCH AERODROME","lat":33.301808,"lon":-82.172342,"elevation":434,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

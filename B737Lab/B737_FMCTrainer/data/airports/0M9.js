@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0M9"]={"id":"0M9","name":"DELHI MUNI","lat":32.410722,"lon":-91.498528,"elevation":91,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

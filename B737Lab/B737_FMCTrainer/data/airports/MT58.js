@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT58"]={"id":"MT58","name":"NELSON","lat":47.766675,"lon":-106.188078,"elevation":2425,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

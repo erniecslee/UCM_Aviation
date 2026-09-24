@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NE4"]={"id":"9NE4","name":"JOHNSTON FLD","lat":41.703344,"lon":-97.744497,"elevation":1800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

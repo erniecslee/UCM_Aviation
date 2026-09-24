@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OK6"]={"id":"3OK6","name":"DON BROWN FLD","lat":36.736667,"lon":-100.588889,"elevation":2597,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

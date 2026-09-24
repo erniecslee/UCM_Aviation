@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00F"]={"id":"00F","name":"BROADUS","lat":45.470472,"lon":-105.457139,"elevation":3282,"region":"K1","runways":[{"id":"RW10","lat":45.473114,"lon":-105.464847,"length":4400,"course":106.0},{"id":"RW28","lat":45.467825,"lon":-105.449431,"length":4400,"course":286.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44ND"]={"id":"44ND","name":"FREDERICKS RANCH","lat":47.527783,"lon":-102.241286,"elevation":2225,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

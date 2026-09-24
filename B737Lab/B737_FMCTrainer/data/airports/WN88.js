@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN88"]={"id":"WN88","name":"FAIRHURST FLD","lat":46.519264,"lon":-124.032386,"elevation":10,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

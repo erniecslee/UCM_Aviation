@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42AK"]={"id":"42AK","name":"BEAR TOOTH","lat":70.144861,"lon":-152.017314,"elevation":93,"region":"PA","runways":[{"id":"RW04","lat":70.140892,"lon":-152.036083,"length":5500,"course":45.4},{"id":"RW22","lat":70.148828,"lon":-151.998544,"length":5500,"course":225.4}],"procedures":{"D":{},"E":{},"F":{}}};

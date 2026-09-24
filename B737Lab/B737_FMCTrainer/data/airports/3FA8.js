@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FA8"]={"id":"3FA8","name":"SEAREY CENTRAL","lat":28.766111,"lon":-81.746111,"elevation":67,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

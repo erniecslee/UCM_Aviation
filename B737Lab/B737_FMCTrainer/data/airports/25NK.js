@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25NK"]={"id":"25NK","name":"LOUCKS","lat":42.436181,"lon":-77.132192,"elevation":1425,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

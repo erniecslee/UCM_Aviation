@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OH8"]={"id":"4OH8","name":"HUFFMAN FARM","lat":41.503769,"lon":-84.260278,"elevation":741,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

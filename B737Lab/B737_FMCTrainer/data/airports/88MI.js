@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88MI"]={"id":"88MI","name":"EAGLE II","lat":44.806536,"lon":-84.276197,"elevation":1212,"region":"K5","runways":[{"id":"RW18","lat":44.813419,"lon":-84.277239,"length":5047,"course":179.0},{"id":"RW36","lat":44.800744,"lon":-84.275319,"length":5047,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3KS"]={"id":"3KS","name":"HF STRIP","lat":37.436083,"lon":-100.272131,"elevation":2567,"region":"K3","runways":[{"id":"RW18","lat":37.439086,"lon":-100.272139,"length":2585,"course":175.2},{"id":"RW36","lat":37.432533,"lon":-100.272122,"length":2585,"course":355.2}],"procedures":{"D":{},"E":{},"F":{}}};

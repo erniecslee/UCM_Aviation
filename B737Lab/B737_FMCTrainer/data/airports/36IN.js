@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36IN"]={"id":"36IN","name":"PETERSON","lat":41.536156,"lon":-86.4439,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR70"]={"id":"OR70","name":"PINE VALLEY","lat":44.859603,"lon":-117.08795,"elevation":2577,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

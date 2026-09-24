@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O19"]={"id":"O19","name":"KNEELAND","lat":40.718953,"lon":-123.927217,"elevation":2741,"region":"K2","runways":[{"id":"RW15","lat":40.721797,"lon":-123.927869,"length":2250,"course":153.1},{"id":"RW33","lat":40.716111,"lon":-123.926567,"length":2250,"course":333.1}],"procedures":{"D":{},"E":{},"F":{}}};

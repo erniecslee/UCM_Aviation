@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34CO"]={"id":"34CO","name":"SIMONS","lat":39.716378,"lon":-104.732472,"elevation":5525,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

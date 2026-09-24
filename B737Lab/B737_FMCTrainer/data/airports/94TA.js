@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94TA"]={"id":"94TA","name":"REECE FLD","lat":31.305719,"lon":-100.458703,"elevation":1960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

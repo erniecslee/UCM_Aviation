@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30ID"]={"id":"30ID","name":"4Z RANCH","lat":43.464875,"lon":-114.383178,"elevation":5556,"region":"K1","runways":[{"id":"RW18","lat":43.465606,"lon":-114.383031,"length":540,"course":176.2},{"id":"RW36","lat":43.464142,"lon":-114.383325,"length":540,"course":356.2}],"procedures":{"D":{},"E":{},"F":{}}};

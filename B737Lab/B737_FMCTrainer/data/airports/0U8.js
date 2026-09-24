@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0U8"]={"id":"0U8","name":"MAY","lat":44.610333,"lon":-113.894861,"elevation":5324,"region":"K1","runways":[{"id":"RW09","lat":44.612119,"lon":-113.904033,"length":4950,"course":88.0},{"id":"RW27","lat":44.60855,"lon":-113.885689,"length":4950,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

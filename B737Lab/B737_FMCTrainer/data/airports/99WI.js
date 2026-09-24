@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99WI"]={"id":"99WI","name":"GOINS","lat":44.179167,"lon":-87.631389,"elevation":660,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

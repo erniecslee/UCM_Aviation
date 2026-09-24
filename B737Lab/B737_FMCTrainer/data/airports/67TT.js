@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67TT"]={"id":"67TT","name":"FLECK","lat":33.348894,"lon":-97.444611,"elevation":883,"region":"K4","runways":[{"id":"RW02","lat":33.344139,"lon":-97.447556,"length":3900,"course":24.5},{"id":"RW20","lat":33.353647,"lon":-97.441664,"length":3900,"course":204.5}],"procedures":{"D":{},"E":{},"F":{}}};

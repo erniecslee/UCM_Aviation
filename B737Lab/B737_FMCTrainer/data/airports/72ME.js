@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72ME"]={"id":"72ME","name":"PHILBRICK MOUNTAIN","lat":44.635278,"lon":-68.6325,"elevation":667,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

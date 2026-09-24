@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MS1"]={"id":"3MS1","name":"THOMAS FLD","lat":34.806944,"lon":-89.461667,"elevation":485,"region":"K7","runways":[{"id":"RW15","lat":34.812222,"lon":-89.464444,"length":4188,"course":155.5},{"id":"RW33","lat":34.801667,"lon":-89.458889,"length":4188,"course":335.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN60"]={"id":"IN60","name":"WILDERNESS FLD","lat":40.017817,"lon":-86.160267,"elevation":908,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

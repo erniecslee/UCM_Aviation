@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL25"]={"id":"OL25","name":"EAGLE CHIEF","lat":36.402778,"lon":-98.4525,"elevation":1199,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

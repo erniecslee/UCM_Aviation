@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92MU"]={"id":"92MU","name":"PARKS FLD","lat":39.409119,"lon":-94.606228,"elevation":847,"region":"K3","runways":[{"id":"RW18","lat":39.411869,"lon":-94.606156,"length":2000,"course":180.1},{"id":"RW36","lat":39.406381,"lon":-94.606306,"length":2000,"course":0.1}],"procedures":{"D":{},"E":{},"F":{}}};

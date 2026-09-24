@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS29"]={"id":"WS29","name":"TACHICK FLD","lat":45.120258,"lon":-88.143436,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

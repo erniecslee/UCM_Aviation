@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MT7"]={"id":"1MT7","name":"PRILL FLD","lat":47.421069,"lon":-111.158578,"elevation":3420,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

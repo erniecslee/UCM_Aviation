@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99OR"]={"id":"99OR","name":"LAZY F RANCH","lat":45.6507,"lon":-117.669917,"elevation":3710,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

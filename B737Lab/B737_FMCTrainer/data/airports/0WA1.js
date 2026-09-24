@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WA1"]={"id":"0WA1","name":"DWIGHT FLD","lat":46.61705,"lon":-122.826233,"elevation":350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

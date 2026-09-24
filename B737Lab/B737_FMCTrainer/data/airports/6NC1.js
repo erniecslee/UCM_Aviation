@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC1"]={"id":"6NC1","name":"LITTLE MOUNTAIN","lat":35.5918,"lon":-81.079522,"elevation":1030,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

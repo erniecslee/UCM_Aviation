@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I58"]={"id":"I58","name":"CROOKED LAKE","lat":41.672417,"lon":-85.041389,"elevation":989,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

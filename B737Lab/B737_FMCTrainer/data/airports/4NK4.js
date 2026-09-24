@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NK4"]={"id":"4NK4","name":"WOODFORD AIRFIELD","lat":42.827222,"lon":-76.025833,"elevation":1280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

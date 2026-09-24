@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL56"]={"id":"OL56","name":"GK EDWARDS","lat":35.88625,"lon":-97.322361,"elevation":1108,"region":"K4","runways":[{"id":"RW01","lat":35.884722,"lon":-97.3225,"length":1115,"course":1.3},{"id":"RW19","lat":35.887778,"lon":-97.322222,"length":1115,"course":181.3}],"procedures":{"D":{},"E":{},"F":{}}};

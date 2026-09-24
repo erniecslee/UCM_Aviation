@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD45"]={"id":"CD45","name":"FLYIN' B RANCH","lat":39.323333,"lon":-104.573333,"elevation":6720,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

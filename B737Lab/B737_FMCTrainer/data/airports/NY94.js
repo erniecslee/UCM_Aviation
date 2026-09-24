@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY94"]={"id":"NY94","name":"OLD RHINEBECK","lat":41.969833,"lon":-73.864556,"elevation":323,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

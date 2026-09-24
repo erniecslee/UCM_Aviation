@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NY3"]={"id":"0NY3","name":"KERMIZIAN","lat":43.313958,"lon":-74.9321,"elevation":1440,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

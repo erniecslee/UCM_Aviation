@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG10"]={"id":"OG10","name":"MT HOPE","lat":44.557222,"lon":-122.826111,"elevation":400,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

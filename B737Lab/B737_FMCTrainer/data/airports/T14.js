@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T14"]={"id":"T14","name":"ROCKIN M","lat":32.952497,"lon":-96.095894,"elevation":473,"region":"K4","runways":[{"id":"RW18","lat":32.956783,"lon":-96.095844,"length":3120,"course":175.0},{"id":"RW36","lat":32.948208,"lon":-96.095942,"length":3120,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

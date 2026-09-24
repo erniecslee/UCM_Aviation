@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU70"]={"id":"MU70","name":"SKYVIEW","lat":36.995053,"lon":-93.138792,"elevation":1360,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

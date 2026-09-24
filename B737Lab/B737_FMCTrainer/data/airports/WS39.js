@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS39"]={"id":"WS39","name":"PINEWOOD AIR PARK","lat":45.6994,"lon":-89.662364,"elevation":1560,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

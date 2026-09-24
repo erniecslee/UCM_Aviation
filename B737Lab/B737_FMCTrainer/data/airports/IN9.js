@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN9"]={"id":"IN9","name":"WEBSTER LAKE","lat":41.325122,"lon":-85.682522,"elevation":858,"region":"K5","runways":[{"id":"RW09W","lat":41.325097,"lon":-85.68755,"length":2675,"course":94.6},{"id":"RW27W","lat":41.325211,"lon":-85.677797,"length":2675,"course":274.6}],"procedures":{"D":{},"E":{},"F":{}}};

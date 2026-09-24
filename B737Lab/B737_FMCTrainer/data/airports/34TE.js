@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34TE"]={"id":"34TE","name":"BEE CREEK","lat":32.232092,"lon":-97.008611,"elevation":760,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

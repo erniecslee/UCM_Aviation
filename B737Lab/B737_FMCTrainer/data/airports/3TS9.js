@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TS9"]={"id":"3TS9","name":"OAK GLEN RANCH","lat":33.379275,"lon":-95.603567,"elevation":430,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

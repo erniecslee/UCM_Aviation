@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS31"]={"id":"XS31","name":"GRAHAM FLD","lat":33.701772,"lon":-96.831944,"elevation":695,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY66"]={"id":"WY66","name":"CHAMBERLAIN BROTHERS RANCH","lat":42.752178,"lon":-105.619611,"elevation":5237,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

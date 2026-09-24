@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70NC"]={"id":"70NC","name":"MARTINDALE EXEC AIRPARK","lat":36.544589,"lon":-78.14805,"elevation":300,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN97"]={"id":"SN97","name":"G&AG","lat":37.326414,"lon":-101.197661,"elevation":3056,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

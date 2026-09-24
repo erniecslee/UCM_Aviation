@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA65"]={"id":"MA65","name":"ISLAND AIR SERVICE","lat":41.771769,"lon":-70.873094,"elevation":53,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO77"]={"id":"MO77","name":"ARNIKA RANCH","lat":36.975056,"lon":-92.542667,"elevation":1320,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

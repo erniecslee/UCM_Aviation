@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27WA"]={"id":"27WA","name":"JC'S","lat":48.325103,"lon":-122.315711,"elevation":236,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD97"]={"id":"MD97","name":"LANSEAIR FARMS","lat":38.461511,"lon":-77.046364,"elevation":40,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

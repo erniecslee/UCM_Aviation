@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OK6"]={"id":"4OK6","name":"CHUCK'S","lat":35.840167,"lon":-97.671225,"elevation":1053,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

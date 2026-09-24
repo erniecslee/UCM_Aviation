@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND5"]={"id":"2ND5","name":"CLOUD 9","lat":47.641992,"lon":-100.821242,"elevation":1904,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

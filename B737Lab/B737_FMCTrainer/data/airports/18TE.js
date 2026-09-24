@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18TE"]={"id":"18TE","name":"ALERT FLD","lat":32.585197,"lon":-95.063914,"elevation":390,"region":"K4","runways":[{"id":"RW08","lat":32.585303,"lon":-95.072192,"length":5093,"course":87.0},{"id":"RW26","lat":32.585083,"lon":-95.055658,"length":5093,"course":267.0}],"procedures":{"D":{},"E":{},"F":{}}};

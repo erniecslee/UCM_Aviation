@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO64"]={"id":"MO64","name":"KIMBERLING","lat":36.609786,"lon":-93.444631,"elevation":1050,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

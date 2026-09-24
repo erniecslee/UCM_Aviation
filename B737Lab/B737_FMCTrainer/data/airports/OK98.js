@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK98"]={"id":"OK98","name":"LYNN AIRFIELD","lat":35.366692,"lon":-99.222394,"elevation":1912,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

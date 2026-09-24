@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NC1"]={"id":"5NC1","name":"TARA AIRBASE","lat":35.793194,"lon":-80.512281,"elevation":756,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

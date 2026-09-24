@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44AK"]={"id":"44AK","name":"WEST PAPOOSE LAKE AIRPARK","lat":61.533444,"lon":-150.102444,"elevation":230,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

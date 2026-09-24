@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC97"]={"id":"NC97","name":"DIRT DOBBER'S GRASS STRIP","lat":35.368744,"lon":-81.523589,"elevation":930,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL21"]={"id":"OL21","name":"EAGLES LANDING","lat":36.780144,"lon":-97.008206,"elevation":1122,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

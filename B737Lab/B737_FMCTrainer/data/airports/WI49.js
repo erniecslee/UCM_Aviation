@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI49"]={"id":"WI49","name":"BLAIR","lat":44.286069,"lon":-91.22655,"elevation":864,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

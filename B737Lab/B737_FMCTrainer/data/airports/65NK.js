@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65NK"]={"id":"65NK","name":"APEX","lat":42.729519,"lon":-74.164017,"elevation":1130,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

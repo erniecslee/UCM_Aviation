@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID27"]={"id":"ID27","name":"HAWK HAVEN","lat":47.755458,"lon":-116.859361,"elevation":2333,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

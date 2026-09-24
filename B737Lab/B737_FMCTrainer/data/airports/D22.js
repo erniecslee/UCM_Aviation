@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D22"]={"id":"D22","name":"YACHT HAVEN","lat":46.024794,"lon":-83.752514,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

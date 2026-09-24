@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NK0"]={"id":"0NK0","name":"BERDICK FLD","lat":42.333953,"lon":-78.790867,"elevation":1690,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

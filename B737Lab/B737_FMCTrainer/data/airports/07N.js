@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07N"]={"id":"07N","name":"BERMUDIAN VALLEY AIRPARK","lat":40.016761,"lon":-77.003867,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

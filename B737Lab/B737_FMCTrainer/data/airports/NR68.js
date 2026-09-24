@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR68"]={"id":"NR68","name":"LOOP FLD","lat":35.405597,"lon":-78.940375,"elevation":305,"region":"K7","runways":[{"id":"RW10U","lat":35.405944,"lon":-78.941611,"length":779,"course":118.1},{"id":"RW28U","lat":35.40525,"lon":-78.939139,"length":779,"course":298.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK30"]={"id":"NK30","name":"JAMAICA BAY","lat":40.605333,"lon":-73.902333,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

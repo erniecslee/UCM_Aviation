@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FD2"]={"id":"7FD2","name":"DRAKE RANCH","lat":28.990256,"lon":-82.330372,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK66"]={"id":"AK66","name":"HUNTER CREEK","lat":61.457633,"lon":-148.795358,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

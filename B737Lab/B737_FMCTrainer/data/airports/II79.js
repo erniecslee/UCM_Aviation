@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II79"]={"id":"II79","name":"SOMMERS","lat":41.076986,"lon":-86.724458,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49MI"]={"id":"49MI","name":"CUB LANDING CENTER","lat":45.160683,"lon":-83.74095,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

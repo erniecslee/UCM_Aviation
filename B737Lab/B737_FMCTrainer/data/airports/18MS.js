@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18MS"]={"id":"18MS","name":"JOHNS LANDING","lat":32.453333,"lon":-90.363889,"elevation":222,"region":"K7","runways":[{"id":"RW12","lat":32.455,"lon":-90.367778,"length":2688,"course":118.3},{"id":"RW30","lat":32.451667,"lon":-90.36,"length":2688,"course":298.3}],"procedures":{"D":{},"E":{},"F":{}}};

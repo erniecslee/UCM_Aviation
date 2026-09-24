@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94NY"]={"id":"94NY","name":"ST BERNARD FLD","lat":42.825069,"lon":-76.691336,"elevation":540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

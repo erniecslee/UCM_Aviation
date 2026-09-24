@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MY2"]={"id":"2MY2","name":"ZARN","lat":43.907417,"lon":-94.274667,"elevation":1050,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

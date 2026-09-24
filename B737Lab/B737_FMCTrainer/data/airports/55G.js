@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55G"]={"id":"55G","name":"ARNOLD FLD","lat":43.2978,"lon":-82.607864,"elevation":784,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

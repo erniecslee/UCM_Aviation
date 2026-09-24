@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS43"]={"id":"PS43","name":"BARNES FARMLAND","lat":41.078808,"lon":-80.255492,"elevation":1280,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA84"]={"id":"NA84","name":"L SECKERSON AIRSTRIP","lat":46.800539,"lon":-99.005111,"elevation":1740,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

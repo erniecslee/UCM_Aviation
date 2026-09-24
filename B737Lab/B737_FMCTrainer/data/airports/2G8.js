@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2G8"]={"id":"2G8","name":"GORHAM","lat":44.393583,"lon":-71.198089,"elevation":835,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

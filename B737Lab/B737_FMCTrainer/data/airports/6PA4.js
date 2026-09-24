@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6PA4"]={"id":"6PA4","name":"SCANDIA AIR PARK","lat":41.930614,"lon":-79.034208,"elevation":2050,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

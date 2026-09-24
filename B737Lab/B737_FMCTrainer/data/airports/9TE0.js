@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TE0"]={"id":"9TE0","name":"TWIN ACRES","lat":32.399167,"lon":-96.383558,"elevation":340,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1DS"]={"id":"1DS","name":"DRY SWAMP","lat":33.384261,"lon":-80.907025,"elevation":180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

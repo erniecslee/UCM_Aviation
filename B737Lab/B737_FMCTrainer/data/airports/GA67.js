@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA67"]={"id":"GA67","name":"KING SKY RANCH","lat":34.76815,"lon":-83.59295,"elevation":1840,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

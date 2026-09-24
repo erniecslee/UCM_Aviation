@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LA3"]={"id":"0LA3","name":"BELCHER AIRPATCH","lat":32.749319,"lon":-93.873486,"elevation":280,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

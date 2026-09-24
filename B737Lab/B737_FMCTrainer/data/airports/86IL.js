@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86IL"]={"id":"86IL","name":"WENONA RLA","lat":41.033753,"lon":-88.995378,"elevation":667,"region":"K5","runways":[{"id":"RW09","lat":41.033647,"lon":-89.001175,"length":3200,"course":91.7},{"id":"RW27","lat":41.033858,"lon":-88.989578,"length":3200,"course":271.7}],"procedures":{"D":{},"E":{},"F":{}}};

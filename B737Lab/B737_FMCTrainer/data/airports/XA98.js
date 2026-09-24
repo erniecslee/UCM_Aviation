@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA98"]={"id":"XA98","name":"JBJ RANCH","lat":33.3027,"lon":-97.458067,"elevation":890,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT32"]={"id":"WT32","name":"HART","lat":47.638925,"lon":-119.163172,"elevation":1814,"region":"K1","runways":[{"id":"RW06","lat":47.638011,"lon":-119.169247,"length":3067,"course":63.1},{"id":"RW24","lat":47.639842,"lon":-119.157097,"length":3067,"course":243.1}],"procedures":{"D":{},"E":{},"F":{}}};

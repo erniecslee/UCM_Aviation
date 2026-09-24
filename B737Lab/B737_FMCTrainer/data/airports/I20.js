@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I20"]={"id":"I20","name":"ED-AIR","lat":38.849786,"lon":-87.499775,"elevation":426,"region":"K5","runways":[{"id":"RW18","lat":38.856044,"lon":-87.499842,"length":4572,"course":180.5},{"id":"RW36","lat":38.843725,"lon":-87.499717,"length":4572,"course":0.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74KS"]={"id":"74KS","name":"ENSMINGER","lat":37.933369,"lon":-95.2172,"elevation":1070,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

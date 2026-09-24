@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2W1"]={"id":"2W1","name":"DE VERE FLD","lat":47.177581,"lon":-120.852661,"elevation":1800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CL0"]={"id":"9CL0","name":"TURLOCK AIRPARK","lat":37.470769,"lon":-120.844094,"elevation":100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

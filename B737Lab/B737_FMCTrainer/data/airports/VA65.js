@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA65"]={"id":"VA65","name":"ROCK","lat":37.8625,"lon":-79.357361,"elevation":1600,"region":"K6","runways":[{"id":"RW08","lat":37.861944,"lon":-79.358889,"length":971,"course":74.6},{"id":"RW26","lat":37.863056,"lon":-79.355833,"length":971,"course":254.6}],"procedures":{"D":{},"E":{},"F":{}}};

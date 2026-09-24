@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35OK"]={"id":"35OK","name":"HAYMAKER PRIVATE","lat":36.053997,"lon":-97.842358,"elevation":1178,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

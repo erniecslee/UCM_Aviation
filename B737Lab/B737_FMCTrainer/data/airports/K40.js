@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K40"]={"id":"K40","name":"ANVIK","lat":62.656225,"lon":-160.20545,"elevation":52,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

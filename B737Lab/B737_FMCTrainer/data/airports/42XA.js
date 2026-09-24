@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42XA"]={"id":"42XA","name":"SKID ROW AIRPARK","lat":31.362278,"lon":-97.0903,"elevation":472,"region":"K4","runways":[{"id":"RW15","lat":31.364553,"lon":-97.091711,"length":1872,"course":149.3},{"id":"RW33","lat":31.36,"lon":-97.088889,"length":1872,"course":329.3}],"procedures":{"D":{},"E":{},"F":{}}};

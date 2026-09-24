@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L36"]={"id":"L36","name":"RIO LINDA","lat":38.675,"lon":-121.445444,"elevation":46,"region":"K2","runways":[{"id":"RW17","lat":38.678592,"lon":-121.445131,"length":2625,"course":168.0},{"id":"RW35","lat":38.6714,"lon":-121.445767,"length":2625,"course":348.0}],"procedures":{"D":{},"E":{},"F":{}}};

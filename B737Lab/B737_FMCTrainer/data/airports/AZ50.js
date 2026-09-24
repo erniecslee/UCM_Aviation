@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ50"]={"id":"AZ50","name":"TRIANGLE AIRPARK","lat":35.716389,"lon":-114.48,"elevation":2460,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

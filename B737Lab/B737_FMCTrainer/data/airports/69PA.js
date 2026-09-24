@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69PA"]={"id":"69PA","name":"HURST","lat":40.342869,"lon":-76.209394,"elevation":540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

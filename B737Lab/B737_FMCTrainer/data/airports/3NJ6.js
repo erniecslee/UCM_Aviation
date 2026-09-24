@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NJ6"]={"id":"3NJ6","name":"INDUCTOTHERM","lat":40.015472,"lon":-74.841333,"elevation":72,"region":"K6","runways":[{"id":"RW02","lat":40.010786,"lon":-74.842094,"length":4002,"course":20.2},{"id":"RW20","lat":40.020353,"lon":-74.840531,"length":4002,"course":200.2}],"procedures":{"D":{},"E":{},"F":{}}};

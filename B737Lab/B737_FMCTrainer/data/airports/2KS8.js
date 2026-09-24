@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KS8"]={"id":"2KS8","name":"VONADA","lat":39.113722,"lon":-98.403394,"elevation":1629,"region":"K3","runways":[{"id":"RW18","lat":39.116303,"lon":-98.402889,"length":1900,"course":182.0},{"id":"RW36","lat":39.111147,"lon":-98.403897,"length":1900,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

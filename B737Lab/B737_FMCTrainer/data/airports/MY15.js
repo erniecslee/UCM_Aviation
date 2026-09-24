@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY15"]={"id":"MY15","name":"KASTANEK","lat":45.955797,"lon":-93.989428,"elevation":1320,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

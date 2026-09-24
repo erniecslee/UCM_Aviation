@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7GA9"]={"id":"7GA9","name":"SMISSON FLD","lat":33.570556,"lon":-84.897778,"elevation":1044,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

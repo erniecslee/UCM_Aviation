@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77NC"]={"id":"77NC","name":"WINNABOW","lat":34.152114,"lon":-78.10555,"elevation":33,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

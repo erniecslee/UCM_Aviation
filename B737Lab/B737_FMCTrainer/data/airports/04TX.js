@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04TX"]={"id":"04TX","name":"POCOCK","lat":31.732222,"lon":-97.368889,"elevation":565,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

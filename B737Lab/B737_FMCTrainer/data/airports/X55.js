@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X55"]={"id":"X55","name":"MID-FLORIDA","lat":28.843333,"lon":-81.630083,"elevation":167,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

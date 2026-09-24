@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75NY"]={"id":"75NY","name":"REISS GAME FARM","lat":42.116733,"lon":-78.315572,"elevation":1698,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

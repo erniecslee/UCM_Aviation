@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F78"]={"id":"F78","name":"HORSESHOE BEND","lat":32.572911,"lon":-97.872533,"elevation":715,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

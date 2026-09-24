@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61IN"]={"id":"61IN","name":"WILKERSON'S","lat":38.713669,"lon":-85.603575,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH17"]={"id":"NH17","name":"ZIM","lat":42.727567,"lon":-71.717611,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

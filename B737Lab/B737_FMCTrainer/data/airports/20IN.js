@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20IN"]={"id":"20IN","name":"CANARY'S","lat":39.513939,"lon":-86.051375,"elevation":760,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["R49"]={"id":"R49","name":"FERRY COUNTY","lat":48.718206,"lon":-118.656472,"elevation":2522,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

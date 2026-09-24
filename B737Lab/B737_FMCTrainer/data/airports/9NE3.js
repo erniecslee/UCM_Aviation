@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NE3"]={"id":"9NE3","name":"DAVIS RANCH","lat":42.187486,"lon":-101.789342,"elevation":3768,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

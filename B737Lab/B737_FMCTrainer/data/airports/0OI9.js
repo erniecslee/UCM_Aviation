@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OI9"]={"id":"0OI9","name":"HIDDEN QUARRY","lat":38.894517,"lon":-83.113514,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

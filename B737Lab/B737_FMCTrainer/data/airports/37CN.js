@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37CN"]={"id":"37CN","name":"CECIL RANCH","lat":39.085167,"lon":-121.912294,"elevation":40,"region":"K2","runways":[{"id":"RW14","lat":39.087189,"lon":-121.913789,"length":1700,"course":137.0},{"id":"RW32","lat":39.083144,"lon":-121.9108,"length":1700,"course":317.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9WN2"]={"id":"9WN2","name":"VOYAGER VILLAGE AIRSTRIP","lat":45.966611,"lon":-92.146022,"elevation":1020,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

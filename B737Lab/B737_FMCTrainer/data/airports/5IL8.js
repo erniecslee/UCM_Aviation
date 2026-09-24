@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IL8"]={"id":"5IL8","name":"WOODLEY 2","lat":41.5225,"lon":-89.655556,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

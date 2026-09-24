@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1ID3"]={"id":"1ID3","name":"BEAUX RANCH FLD","lat":48.167967,"lon":-116.726583,"elevation":2079,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MS0"]={"id":"4MS0","name":"PAYNE","lat":32.300425,"lon":-89.858967,"elevation":359,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

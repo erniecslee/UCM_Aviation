@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7LA0"]={"id":"7LA0","name":"VALVERDA STRIP","lat":30.522108,"lon":-91.530981,"elevation":50,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

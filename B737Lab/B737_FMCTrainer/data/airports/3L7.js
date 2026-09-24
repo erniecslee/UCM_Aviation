@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3L7"]={"id":"3L7","name":"MILWRICK FLYING M","lat":44.738344,"lon":-83.379692,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

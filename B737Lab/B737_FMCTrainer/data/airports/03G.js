@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03G"]={"id":"03G","name":"THERMAL-G","lat":42.020614,"lon":-80.070719,"elevation":1434,"region":"K6","runways":[{"id":"RW07","lat":42.019861,"lon":-80.072814,"length":1264,"course":72.0},{"id":"RW25","lat":42.021367,"lon":-80.068625,"length":1264,"course":252.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL18"]={"id":"FL18","name":"SUWANNEE FARMS","lat":30.090503,"lon":-83.054575,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

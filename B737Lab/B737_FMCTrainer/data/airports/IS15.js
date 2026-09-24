@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS15"]={"id":"IS15","name":"VODDEN","lat":42.032528,"lon":-88.902594,"elevation":850,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

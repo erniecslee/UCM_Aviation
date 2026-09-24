@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PS9"]={"id":"3PS9","name":"RISKER FLD","lat":40.378417,"lon":-80.349533,"elevation":1100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13WA"]={"id":"13WA","name":"ROCKY POND AIRSTRIP","lat":47.770539,"lon":-120.133558,"elevation":826,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

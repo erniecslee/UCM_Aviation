@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PR20"]={"id":"PR20","name":"ADJUNTAS","lat":18.180228,"lon":-66.756944,"elevation":2340,"region":"TJ","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

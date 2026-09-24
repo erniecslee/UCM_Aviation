@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AZ9"]={"id":"4AZ9","name":"LEROY","lat":32.113056,"lon":-109.761667,"elevation":4197,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89WI"]={"id":"89WI","name":"TUSCHEN","lat":42.906944,"lon":-90.032069,"elevation":1060,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

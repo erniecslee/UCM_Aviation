@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5PN7"]={"id":"5PN7","name":"JARRETT","lat":40.230933,"lon":-75.075831,"elevation":210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

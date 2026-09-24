@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD46"]={"id":"MD46","name":"GLENAIR","lat":39.26955,"lon":-77.005256,"elevation":590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

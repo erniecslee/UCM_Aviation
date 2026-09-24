@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AK4"]={"id":"5AK4","name":"SNOWSHOE LAKE","lat":62.032806,"lon":-146.674967,"elevation":2380,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

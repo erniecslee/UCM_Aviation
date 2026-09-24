@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71XA"]={"id":"71XA","name":"RED STAR","lat":32.352931,"lon":-95.716328,"elevation":530,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

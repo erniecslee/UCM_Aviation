@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65TX"]={"id":"65TX","name":"FLYING EAGLE RANCH","lat":31.775133,"lon":-105.431317,"elevation":4300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

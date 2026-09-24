@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WV3"]={"id":"8WV3","name":"SNOWSHOE","lat":38.506042,"lon":-80.023361,"elevation":3260,"region":"K6","runways":[{"id":"RW10","lat":38.506217,"lon":-80.028667,"length":4620,"course":101.3},{"id":"RW28","lat":38.505781,"lon":-80.015297,"length":4620,"course":281.3}],"procedures":{"D":{},"E":{},"F":{}}};

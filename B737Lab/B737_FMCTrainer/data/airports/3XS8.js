@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XS8"]={"id":"3XS8","name":"GIFFIN RANCH","lat":31.100203,"lon":-103.961392,"elevation":3651,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81MN"]={"id":"81MN","name":"EWEN LANDING FLD","lat":44.030514,"lon":-95.19555,"elevation":1483,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

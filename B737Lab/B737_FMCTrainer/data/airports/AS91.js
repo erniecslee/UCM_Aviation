@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AS91"]={"id":"AS91","name":"GAYLONS","lat":34.292561,"lon":-90.995717,"elevation":154,"region":"K4","runways":[{"id":"RW09","lat":34.292608,"lon":-91.002472,"length":4082,"course":91.7},{"id":"RW27","lat":34.292514,"lon":-90.988958,"length":4082,"course":271.7}],"procedures":{"D":{},"E":{},"F":{}}};

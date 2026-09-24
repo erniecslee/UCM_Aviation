@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1F7"]={"id":"1F7","name":"AIRPARK EAST","lat":32.812933,"lon":-96.352033,"elevation":500,"region":"K4","runways":[{"id":"RW13","lat":32.815517,"lon":-96.355028,"length":2630,"course":130.0},{"id":"RW31","lat":32.81035,"lon":-96.349039,"length":2630,"course":310.0}],"procedures":{"D":{},"E":{},"F":{}}};

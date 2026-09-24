@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1B5"]={"id":"1B5","name":"FRANCONIA","lat":44.19595,"lon":-71.750703,"elevation":975,"region":"K6","runways":[{"id":"RW18","lat":44.199078,"lon":-71.751278,"length":2300,"course":188.0},{"id":"RW36","lat":44.192822,"lon":-71.750128,"length":2300,"course":8.0}],"procedures":{"D":{},"E":{},"F":{}}};

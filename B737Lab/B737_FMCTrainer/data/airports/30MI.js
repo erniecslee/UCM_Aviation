@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30MI"]={"id":"30MI","name":"WOLVERTON'S FLD","lat":41.859214,"lon":-86.327792,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N69"]={"id":"N69","name":"STORMVILLE","lat":41.576972,"lon":-73.732353,"elevation":358,"region":"K6","runways":[{"id":"RW06","lat":41.573828,"lon":-73.736731,"length":3315,"course":58.0},{"id":"RW24","lat":41.580114,"lon":-73.727972,"length":3315,"course":238.0}],"procedures":{"D":{},"E":{},"F":{}}};

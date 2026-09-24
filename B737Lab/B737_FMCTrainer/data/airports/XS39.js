@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS39"]={"id":"XS39","name":"EVANS AERODROME","lat":35.077017,"lon":-101.691369,"elevation":3545,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

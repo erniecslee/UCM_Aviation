@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO29"]={"id":"CO29","name":"JUNIPER HILLS","lat":39.379406,"lon":-108.087806,"elevation":5400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

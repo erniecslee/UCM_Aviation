@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75AK"]={"id":"75AK","name":"HENLEY","lat":60.593067,"lon":-151.327956,"elevation":100,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

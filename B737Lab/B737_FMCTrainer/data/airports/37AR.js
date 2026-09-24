@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37AR"]={"id":"37AR","name":"PONCA INT","lat":36.052361,"lon":-93.367325,"elevation":2301,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

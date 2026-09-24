@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY37"]={"id":"NY37","name":"GALWAY","lat":43.009242,"lon":-74.091239,"elevation":950,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

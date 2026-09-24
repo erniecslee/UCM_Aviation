@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NA0"]={"id":"2NA0","name":"SODERQUIST","lat":47.256661,"lon":-100.796244,"elevation":1880,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

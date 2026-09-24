@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L93"]={"id":"L93","name":"ROBE LAKE","lat":61.087122,"lon":-146.144008,"elevation":39,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

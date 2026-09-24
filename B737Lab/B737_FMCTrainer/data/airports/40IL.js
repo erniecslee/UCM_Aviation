@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40IL"]={"id":"40IL","name":"ANTIQUE AERODROME","lat":41.005833,"lon":-88.658056,"elevation":683,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

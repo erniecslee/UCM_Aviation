@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG06"]={"id":"VG06","name":"FULCHER FAMILY FARMS","lat":37.725136,"lon":-79.083081,"elevation":980,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

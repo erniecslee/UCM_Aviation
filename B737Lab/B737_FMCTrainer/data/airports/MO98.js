@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO98"]={"id":"MO98","name":"WILLIAMS","lat":38.713067,"lon":-94.584956,"elevation":985,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MA7"]={"id":"2MA7","name":"FALLS POND","lat":41.958433,"lon":-71.326444,"elevation":175,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

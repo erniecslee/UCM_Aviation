@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04MS"]={"id":"04MS","name":"NICKS FLYING SERVICE INC","lat":32.939572,"lon":-90.837322,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

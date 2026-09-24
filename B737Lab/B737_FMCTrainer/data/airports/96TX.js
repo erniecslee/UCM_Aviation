@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96TX"]={"id":"96TX","name":"GARRETT FARMS","lat":29.277828,"lon":-95.351828,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

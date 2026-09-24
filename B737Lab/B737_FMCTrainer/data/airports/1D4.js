@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1D4"]={"id":"1D4","name":"MAYFIELD","lat":40.992556,"lon":-81.431781,"elevation":1100,"region":"K5","runways":[{"id":"RW09","lat":40.992553,"lon":-81.43575,"length":2315,"course":97.2},{"id":"RW27","lat":40.992528,"lon":-81.427389,"length":2315,"course":277.2}],"procedures":{"D":{},"E":{},"F":{}}};

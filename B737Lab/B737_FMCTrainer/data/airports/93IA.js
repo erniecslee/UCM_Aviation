@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93IA"]={"id":"93IA","name":"LUND","lat":42.260278,"lon":-93.649722,"elevation":1063,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

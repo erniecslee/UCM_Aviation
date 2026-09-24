@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37TS"]={"id":"37TS","name":"JLINN","lat":32.990675,"lon":-96.039969,"elevation":460,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

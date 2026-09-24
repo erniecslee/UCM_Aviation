@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE8"]={"id":"2TE8","name":"STAND FAST","lat":29.807542,"lon":-101.787444,"elevation":1340,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

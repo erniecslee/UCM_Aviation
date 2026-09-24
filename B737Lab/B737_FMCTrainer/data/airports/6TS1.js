@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TS1"]={"id":"6TS1","name":"WORRELL","lat":31.177947,"lon":-98.073083,"elevation":960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

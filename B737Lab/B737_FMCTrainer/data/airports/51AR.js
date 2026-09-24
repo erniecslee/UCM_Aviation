@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51AR"]={"id":"51AR","name":"BYRDS BACKCOUNTRY AIRSTRIP","lat":35.677444,"lon":-93.732294,"elevation":800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

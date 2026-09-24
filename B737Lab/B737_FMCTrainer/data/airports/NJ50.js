@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ50"]={"id":"NJ50","name":"THE LANDING","lat":40.480658,"lon":-74.961836,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

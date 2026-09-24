@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAOH"]={"id":"PAOH","name":"HOONAH","lat":58.0962,"lon":-135.408756,"elevation":22,"region":"PA","runways":[{"id":"RW06","lat":58.095225,"lon":-135.417269,"length":3367,"course":58.0},{"id":"RW24","lat":58.097175,"lon":-135.400244,"length":3367,"course":238.0}],"procedures":{"D":{},"E":{},"F":{}}};

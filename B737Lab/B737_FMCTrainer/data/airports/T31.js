@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T31"]={"id":"T31","name":"AERO COUNTRY","lat":33.20845,"lon":-96.741942,"elevation":765,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

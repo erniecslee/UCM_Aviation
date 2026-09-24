@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17MO"]={"id":"17MO","name":"RGL FLD","lat":38.985042,"lon":-91.534886,"elevation":825,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

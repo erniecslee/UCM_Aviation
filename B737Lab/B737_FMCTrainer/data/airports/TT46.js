@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT46"]={"id":"TT46","name":"PC","lat":30.804717,"lon":-96.431231,"elevation":399,"region":"K4","runways":[{"id":"RW14","lat":30.806958,"lon":-96.433286,"length":2080,"course":139.2},{"id":"RW32","lat":30.802475,"lon":-96.429175,"length":2080,"course":319.3}],"procedures":{"D":{},"E":{},"F":{}}};

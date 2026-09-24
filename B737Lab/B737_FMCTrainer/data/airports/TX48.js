@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX48"]={"id":"TX48","name":"TALLEY","lat":31.832222,"lon":-97.718889,"elevation":880,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

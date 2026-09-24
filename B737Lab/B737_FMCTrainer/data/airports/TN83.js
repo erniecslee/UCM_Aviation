@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN83"]={"id":"TN83","name":"CEDAR GLADE AERODROME","lat":35.722292,"lon":-86.274994,"elevation":770,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

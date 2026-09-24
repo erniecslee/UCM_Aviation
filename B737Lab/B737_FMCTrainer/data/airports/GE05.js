@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE05"]={"id":"GE05","name":"GIBSON FLD","lat":34.615556,"lon":-85.343056,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL80"]={"id":"LL80","name":"DARRINGTON","lat":42.381961,"lon":-89.161222,"elevation":862,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

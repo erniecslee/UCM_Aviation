@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61MO"]={"id":"61MO","name":"CARL ENSOR","lat":39.54865,"lon":-92.098783,"elevation":740,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

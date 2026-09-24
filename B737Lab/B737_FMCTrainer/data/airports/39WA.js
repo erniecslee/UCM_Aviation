@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39WA"]={"id":"39WA","name":"TAILSKID RANCH","lat":47.851944,"lon":-117.781944,"elevation":1910,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

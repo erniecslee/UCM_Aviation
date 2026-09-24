@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GA3"]={"id":"0GA3","name":"AYRESOUTH","lat":33.770106,"lon":-85.060781,"elevation":1287,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

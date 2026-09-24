@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65MN"]={"id":"65MN","name":"RICKS FLD","lat":45.964128,"lon":-96.149781,"elevation":1100,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

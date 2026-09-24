@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["64OR"]={"id":"64OR","name":"PLUM VALLEY","lat":45.033728,"lon":-123.172322,"elevation":230,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E85"]={"id":"E85","name":"DENIO JUNCTION","lat":41.954064,"lon":-118.631006,"elevation":4202,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

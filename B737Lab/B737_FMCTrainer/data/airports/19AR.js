@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19AR"]={"id":"19AR","name":"NAYLOR FLD","lat":35.153972,"lon":-92.22075,"elevation":230,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

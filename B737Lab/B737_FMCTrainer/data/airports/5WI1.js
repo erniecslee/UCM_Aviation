@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5WI1"]={"id":"5WI1","name":"SPRINGBROOK","lat":45.901894,"lon":-91.677119,"elevation":1110,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

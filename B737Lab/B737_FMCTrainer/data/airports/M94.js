@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M94"]={"id":"M94","name":"DESERT AIRE RGNL","lat":46.68725,"lon":-119.919725,"elevation":586,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

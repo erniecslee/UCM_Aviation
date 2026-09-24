@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4LA9"]={"id":"4LA9","name":"BLOUIN FLIGHTPARK","lat":29.736339,"lon":-90.6342,"elevation":10,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

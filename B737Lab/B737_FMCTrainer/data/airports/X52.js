@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X52"]={"id":"X52","name":"NEW HIBISCUS AIRPARK","lat":27.632256,"lon":-80.527556,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN67"]={"id":"TN67","name":"MYERS-SMITH","lat":35.247861,"lon":-86.128597,"elevation":900,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

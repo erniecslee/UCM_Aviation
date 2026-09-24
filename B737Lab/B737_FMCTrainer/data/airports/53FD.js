@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53FD"]={"id":"53FD","name":"CHARLOTTES FLD","lat":30.4775,"lon":-84.034722,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

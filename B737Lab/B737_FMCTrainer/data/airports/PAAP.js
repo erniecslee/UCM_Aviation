@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAP"]={"id":"PAAP","name":"PORT ALEXANDER","lat":56.246842,"lon":-134.648153,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

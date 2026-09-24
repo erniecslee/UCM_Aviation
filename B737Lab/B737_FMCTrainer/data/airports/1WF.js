@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WF"]={"id":"1WF","name":"WACO FLD","lat":40.014794,"lon":-84.198081,"elevation":817,"region":"K5","runways":[{"id":"RW18","lat":40.0166,"lon":-84.198486,"length":2385,"course":175.0},{"id":"RW36","lat":40.011569,"lon":-84.197353,"length":2385,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

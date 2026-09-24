@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45OG"]={"id":"45OG","name":"RUGG RANCHES","lat":45.476389,"lon":-118.791667,"elevation":1890,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

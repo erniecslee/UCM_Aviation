@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX21"]={"id":"TX21","name":"HORNADY RANCH","lat":33.477886,"lon":-98.547556,"elevation":1165,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

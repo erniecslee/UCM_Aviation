@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45WY"]={"id":"45WY","name":"AMERICAN FALCONRY","lat":42.889733,"lon":-106.674867,"elevation":5722,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

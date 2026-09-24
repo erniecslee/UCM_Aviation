@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA72"]={"id":"WA72","name":"ZEMA PRIVATE","lat":48.644678,"lon":-117.938206,"elevation":1854,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

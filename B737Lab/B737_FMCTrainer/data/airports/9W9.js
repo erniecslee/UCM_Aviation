@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9W9"]={"id":"9W9","name":"CLIO CROP CARE","lat":34.561417,"lon":-79.538083,"elevation":192,"region":"K7","runways":[{"id":"RW05","lat":34.558867,"lon":-79.541092,"length":2598,"course":50.2},{"id":"RW23","lat":34.563986,"lon":-79.535078,"length":2598,"course":230.2}],"procedures":{"D":{},"E":{},"F":{}}};

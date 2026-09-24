@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AR9"]={"id":"1AR9","name":"COUNTRY AIR ESTATES","lat":34.814372,"lon":-91.994814,"elevation":250,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

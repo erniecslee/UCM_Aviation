@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8W9"]={"id":"8W9","name":"R & K SKYRANCH","lat":46.832683,"lon":-123.091419,"elevation":149,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

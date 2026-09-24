@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT57"]={"id":"TT57","name":"MANGHAM","lat":31.645147,"lon":-98.644628,"elevation":1550,"region":"K4","runways":[{"id":"RW16","lat":31.647778,"lon":-98.645556,"length":2000,"course":159.6},{"id":"RW34","lat":31.642514,"lon":-98.643697,"length":2000,"course":339.6}],"procedures":{"D":{},"E":{},"F":{}}};

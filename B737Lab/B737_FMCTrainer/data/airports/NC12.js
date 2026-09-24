@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC12"]={"id":"NC12","name":"LEE CREEK","lat":35.389611,"lon":-76.784656,"elevation":3,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

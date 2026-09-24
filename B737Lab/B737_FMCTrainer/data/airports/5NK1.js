@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NK1"]={"id":"5NK1","name":"TOGGENBURG FARMS","lat":43.111175,"lon":-77.053858,"elevation":435,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

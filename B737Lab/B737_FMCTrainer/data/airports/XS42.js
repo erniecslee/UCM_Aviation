@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS42"]={"id":"XS42","name":"EMBARCADERO","lat":33.266375,"lon":-96.516722,"elevation":660,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

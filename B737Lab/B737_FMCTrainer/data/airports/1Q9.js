@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Q9"]={"id":"1Q9","name":"MILI","lat":6.083333,"lon":171.733333,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

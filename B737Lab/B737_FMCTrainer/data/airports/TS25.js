@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS25"]={"id":"TS25","name":"4 S RANCH","lat":29.959333,"lon":-98.185806,"elevation":944,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

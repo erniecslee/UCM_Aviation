@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY28"]={"id":"NY28","name":"ANTHONSON","lat":43.079722,"lon":-76.410278,"elevation":430,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

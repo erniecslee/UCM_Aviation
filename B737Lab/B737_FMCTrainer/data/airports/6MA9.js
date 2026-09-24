@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MA9"]={"id":"6MA9","name":"CUTTYHUNK HARBOR","lat":41.423164,"lon":-70.927258,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

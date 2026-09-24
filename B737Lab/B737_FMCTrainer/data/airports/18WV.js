@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18WV"]={"id":"18WV","name":"LYNN","lat":39.41,"lon":-79.856667,"elevation":1680,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC82"]={"id":"NC82","name":"DUBLIN FLD","lat":34.669614,"lon":-78.702517,"elevation":126,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99KY"]={"id":"99KY","name":"COLBY","lat":37.991944,"lon":-84.254028,"elevation":1000,"region":"K5","runways":[{"id":"RW03","lat":37.990833,"lon":-84.254444,"length":844,"course":22.6},{"id":"RW21","lat":37.993056,"lon":-84.253611,"length":844,"course":202.6}],"procedures":{"D":{},"E":{},"F":{}}};

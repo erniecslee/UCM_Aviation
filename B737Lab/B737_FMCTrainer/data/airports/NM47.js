@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM47"]={"id":"NM47","name":"2 X 4 RANCH","lat":32.780114,"lon":-104.38135,"elevation":3360,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SD4"]={"id":"1SD4","name":"VIG LIMOUSIN","lat":44.870069,"lon":-102.414078,"elevation":2558,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

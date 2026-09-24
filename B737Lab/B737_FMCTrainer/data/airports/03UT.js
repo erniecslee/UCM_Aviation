@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03UT"]={"id":"03UT","name":"A Z MINERALS CORPORATION","lat":37.120833,"lon":-109.985958,"elevation":5315,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

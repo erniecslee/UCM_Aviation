@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34TA"]={"id":"34TA","name":"ZQ RANCH","lat":33.345881,"lon":-96.097403,"elevation":602,"region":"K4","runways":[{"id":"RW14","lat":33.351944,"lon":-96.102778,"length":5500,"course":141.2},{"id":"RW32","lat":33.339817,"lon":-96.092028,"length":5500,"course":321.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["HL2"]={"id":"HL2","name":"HUBBARD LANDING","lat":31.063611,"lon":-87.87,"elevation":8,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

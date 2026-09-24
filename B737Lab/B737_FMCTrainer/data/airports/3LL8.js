@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LL8"]={"id":"3LL8","name":"MC LEANSBORO","lat":38.074214,"lon":-88.537553,"elevation":415,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS47"]={"id":"PS47","name":"HAMILTON HILL","lat":40.42785,"lon":-78.741408,"elevation":2245,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

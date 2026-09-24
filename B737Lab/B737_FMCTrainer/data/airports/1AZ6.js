@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AZ6"]={"id":"1AZ6","name":"SKYLINE AIR RANCH","lat":31.556667,"lon":-110.110833,"elevation":4180,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

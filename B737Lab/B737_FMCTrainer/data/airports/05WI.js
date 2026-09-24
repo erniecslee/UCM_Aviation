@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05WI"]={"id":"05WI","name":"AMES PRIVATE","lat":42.651125,"lon":-88.745939,"elevation":958,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

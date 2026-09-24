@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM84"]={"id":"NM84","name":"G BAR F RANCH","lat":33.544528,"lon":-105.375539,"elevation":6505,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

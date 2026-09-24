@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PR03"]={"id":"PR03","name":"FAJARDO HARBOR","lat":18.339675,"lon":-65.624606,"elevation":0,"region":"TJ","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

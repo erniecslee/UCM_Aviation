@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WI1"]={"id":"2WI1","name":"UFF-DA","lat":42.943611,"lon":-89.286644,"elevation":945,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

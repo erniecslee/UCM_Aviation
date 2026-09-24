@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MN1"]={"id":"4MN1","name":"HINTZMAN","lat":46.650978,"lon":-95.354875,"elevation":1465,"region":"K3","runways":[{"id":"RW17","lat":46.653972,"lon":-95.355117,"length":2185,"course":175.4},{"id":"RW35","lat":46.647986,"lon":-95.354633,"length":2185,"course":355.4}],"procedures":{"D":{},"E":{},"F":{}}};

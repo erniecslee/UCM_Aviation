@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31MO"]={"id":"31MO","name":"HANNAH","lat":40.105547,"lon":-94.7433,"elevation":937,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

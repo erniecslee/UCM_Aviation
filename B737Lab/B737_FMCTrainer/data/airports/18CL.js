@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18CL"]={"id":"18CL","name":"BOWLES","lat":39.286,"lon":-121.694139,"elevation":75,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

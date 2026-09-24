@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE73"]={"id":"TE73","name":"GRIFFITH RANCH","lat":29.855969,"lon":-94.353192,"elevation":16,"region":"K4","runways":[{"id":"RW01","lat":29.850419,"lon":-94.354767,"length":4159,"course":9.9},{"id":"RW19","lat":29.861519,"lon":-94.351614,"length":4159,"course":189.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92MT"]={"id":"92MT","name":"DBEAR RANCH","lat":45.934864,"lon":-114.123083,"elevation":4020,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

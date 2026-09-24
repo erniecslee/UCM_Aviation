@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA0"]={"id":"4GA0","name":"HODGES FLD","lat":32.123486,"lon":-84.129967,"elevation":455,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA55"]={"id":"NA55","name":"HAGER STRIP","lat":46.266072,"lon":-97.016197,"elevation":1037,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

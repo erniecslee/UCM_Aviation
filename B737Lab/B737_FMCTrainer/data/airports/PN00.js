@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN00"]={"id":"PN00","name":"CROSSWINDS AIRFIELD","lat":40.343153,"lon":-75.572681,"elevation":300,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

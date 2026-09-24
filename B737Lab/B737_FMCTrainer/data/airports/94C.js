@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94C"]={"id":"94C","name":"GILBERT FLD","lat":43.451586,"lon":-89.254911,"elevation":927,"region":"K5","runways":[{"id":"RW09","lat":43.451567,"lon":-89.256492,"length":1800,"course":89.0},{"id":"RW27","lat":43.451619,"lon":-89.252181,"length":1800,"course":269.0}],"procedures":{"D":{},"E":{},"F":{}}};

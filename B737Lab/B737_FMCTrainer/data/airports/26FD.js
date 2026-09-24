@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26FD"]={"id":"26FD","name":"HENNESSY","lat":27.051167,"lon":-81.848139,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

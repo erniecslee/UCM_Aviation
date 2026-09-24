@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S94"]={"id":"S94","name":"PORT OF WHITMAN BUSINESS AIR C","lat":46.858708,"lon":-117.414081,"elevation":2181,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

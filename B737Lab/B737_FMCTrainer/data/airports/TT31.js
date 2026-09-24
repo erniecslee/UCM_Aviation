@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT31"]={"id":"TT31","name":"Y BAR RANCH","lat":28.539281,"lon":-98.800697,"elevation":367,"region":"K4","runways":[{"id":"RW13","lat":28.542142,"lon":-98.804236,"length":3090,"course":128.9},{"id":"RW31","lat":28.536392,"lon":-98.797156,"length":3090,"course":308.9}],"procedures":{"D":{},"E":{},"F":{}}};

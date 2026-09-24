@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84TX"]={"id":"84TX","name":"CAMP LONGHORN","lat":30.741292,"lon":-98.378639,"elevation":934,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

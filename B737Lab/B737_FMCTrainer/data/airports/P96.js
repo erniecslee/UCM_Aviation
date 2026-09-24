@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["P96"]={"id":"P96","name":"JERSEY SHORE","lat":41.206444,"lon":-77.225767,"elevation":554,"region":"K6","runways":[{"id":"RW09","lat":41.205936,"lon":-77.230169,"length":3059,"course":92.2},{"id":"RW27","lat":41.207081,"lon":-77.220281,"length":3059,"course":272.3}],"procedures":{"D":{},"E":{},"F":{}}};

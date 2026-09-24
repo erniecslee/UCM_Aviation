@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K23"]={"id":"K23","name":"COOPERSTOWN-WESTVILLE","lat":42.629242,"lon":-74.890989,"elevation":1260,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TE2"]={"id":"5TE2","name":"BLEAKLEY RANCH","lat":30.225206,"lon":-98.141958,"elevation":1384,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32LS"]={"id":"32LS","name":"STEVENS STRIP","lat":30.419608,"lon":-90.359033,"elevation":13,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

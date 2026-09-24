@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MO7"]={"id":"8MO7","name":"BEAN LAKE","lat":39.491664,"lon":-95.006631,"elevation":780,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

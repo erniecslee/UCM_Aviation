@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL80"]={"id":"FL80","name":"LEE FARMS","lat":29.333836,"lon":-82.165894,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

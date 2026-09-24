@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NC0"]={"id":"1NC0","name":"DELK'S","lat":35.722081,"lon":-79.941428,"elevation":460,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

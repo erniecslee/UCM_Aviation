@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA73"]={"id":"CA73","name":"VANDERFORD RANCH COMPANY","lat":39.095725,"lon":-121.716358,"elevation":42,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

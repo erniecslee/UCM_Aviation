@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS37"]={"id":"MS37","name":"WEST BOLIVAR FLYING SERVICE","lat":33.653447,"lon":-90.988994,"elevation":136,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

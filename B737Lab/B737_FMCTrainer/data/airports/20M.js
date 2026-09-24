@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20M"]={"id":"20M","name":"MACON MUNI","lat":33.133722,"lon":-88.536,"elevation":238,"region":"K7","runways":[{"id":"RW18","lat":33.137844,"lon":-88.53605,"length":3000,"course":178.0},{"id":"RW36","lat":33.129597,"lon":-88.535961,"length":3000,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

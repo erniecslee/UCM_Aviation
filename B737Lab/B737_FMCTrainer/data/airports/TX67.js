@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX67"]={"id":"TX67","name":"HODGES AIR FLD","lat":32.3606,"lon":-97.3025,"elevation":910,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

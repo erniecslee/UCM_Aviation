@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7M7"]={"id":"7M7","name":"PIGGOTT MUNI","lat":36.378206,"lon":-90.166242,"elevation":275,"region":"K4","runways":[{"id":"RW36","lat":36.375333,"lon":-90.166253,"length":2550,"course":358.0}],"procedures":{"D":{},"E":{},"F":{}}};

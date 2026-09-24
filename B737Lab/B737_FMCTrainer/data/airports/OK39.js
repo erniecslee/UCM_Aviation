@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK39"]={"id":"OK39","name":"JUDY RANCH","lat":36.966694,"lon":-100.317089,"elevation":2240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

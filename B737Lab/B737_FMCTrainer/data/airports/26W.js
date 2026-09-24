@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26W"]={"id":"26W","name":"WOLF LAKE","lat":42.209722,"lon":-84.231667,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

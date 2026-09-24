@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS3"]={"id":"1KS3","name":"LEO'S PLACE","lat":39.304164,"lon":-96.758619,"elevation":1350,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

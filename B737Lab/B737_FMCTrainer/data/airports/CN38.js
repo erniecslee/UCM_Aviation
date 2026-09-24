@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CN38"]={"id":"CN38","name":"FLYING B RANCH","lat":38.3413,"lon":-121.437453,"elevation":19,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S40"]={"id":"S40","name":"PROSSER","lat":46.213361,"lon":-119.795556,"elevation":706,"region":"K1","runways":[{"id":"RW08","lat":46.213392,"lon":-119.802378,"length":3452,"course":71.0},{"id":"RW26","lat":46.213353,"lon":-119.788744,"length":3452,"course":251.0}],"procedures":{"D":{},"E":{},"F":{}}};

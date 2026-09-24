@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71N"]={"id":"71N","name":"SUNBURY","lat":40.891753,"lon":-76.778853,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

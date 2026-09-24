@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IL4"]={"id":"4IL4","name":"KUEBLER","lat":39.056389,"lon":-88.816111,"elevation":620,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

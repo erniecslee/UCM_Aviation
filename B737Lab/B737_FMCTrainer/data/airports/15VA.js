@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15VA"]={"id":"15VA","name":"FOX ACRES","lat":38.722339,"lon":-77.899717,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

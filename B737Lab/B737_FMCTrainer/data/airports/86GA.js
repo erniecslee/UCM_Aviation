@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86GA"]={"id":"86GA","name":"FLYING G RANCH","lat":34.867856,"lon":-85.061061,"elevation":845,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

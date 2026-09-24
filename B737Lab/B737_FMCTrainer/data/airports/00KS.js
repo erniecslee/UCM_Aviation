@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00KS"]={"id":"00KS","name":"HAYDEN FARM","lat":38.727786,"lon":-94.930519,"elevation":1100,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

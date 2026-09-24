@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IG07"]={"id":"IG07","name":"JOSEPHS FLD","lat":39.056944,"lon":-85.035556,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

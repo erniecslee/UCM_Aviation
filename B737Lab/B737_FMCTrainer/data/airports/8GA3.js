@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA3"]={"id":"8GA3","name":"LEESBURG SPRAYING","lat":31.768731,"lon":-84.125678,"elevation":260,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

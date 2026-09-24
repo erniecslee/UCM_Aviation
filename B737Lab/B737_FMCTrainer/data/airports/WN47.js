@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN47"]={"id":"WN47","name":"BEAR VALLEY SKYRANCH","lat":47.081667,"lon":-123.270278,"elevation":344,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

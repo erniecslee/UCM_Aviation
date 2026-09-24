@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MN0"]={"id":"6MN0","name":"SKY BLUE AIRFIELD","lat":47.055556,"lon":-95.423056,"elevation":1620,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

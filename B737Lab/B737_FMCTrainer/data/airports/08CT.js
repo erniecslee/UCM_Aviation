@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08CT"]={"id":"08CT","name":"SEAVAIR'S LANDING","lat":41.895997,"lon":-73.093147,"elevation":881,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

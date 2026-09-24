@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK08"]={"id":"NK08","name":"SHEELEY'S FARM","lat":41.831914,"lon":-74.129889,"elevation":260,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

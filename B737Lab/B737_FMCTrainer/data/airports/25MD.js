@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25MD"]={"id":"25MD","name":"WHALEN FLD","lat":39.167539,"lon":-75.840211,"elevation":70,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

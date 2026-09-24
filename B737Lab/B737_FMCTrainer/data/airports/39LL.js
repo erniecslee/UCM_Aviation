@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39LL"]={"id":"39LL","name":"SULLIVAN","lat":40.401389,"lon":-91.303056,"elevation":635,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

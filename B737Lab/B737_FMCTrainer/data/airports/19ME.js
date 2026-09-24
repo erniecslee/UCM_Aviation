@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19ME"]={"id":"19ME","name":"ESTCOURT","lat":47.444722,"lon":-69.155,"elevation":720,"region":"K6","runways":[{"id":"RW09","lat":47.444722,"lon":-69.161944,"length":3437,"course":105.7},{"id":"RW27","lat":47.444722,"lon":-69.148056,"length":3437,"course":285.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NK5"]={"id":"4NK5","name":"HARVS","lat":43.120622,"lon":-77.365647,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

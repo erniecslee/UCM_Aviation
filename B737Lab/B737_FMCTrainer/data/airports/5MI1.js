@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MI1"]={"id":"5MI1","name":"WILDS FLD","lat":43.251389,"lon":-85.542778,"elevation":885,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PORI"]={"id":"PORI","name":"PORT LIONS","lat":57.884925,"lon":-152.847572,"elevation":42,"region":"PO","runways":[{"id":"RW07","lat":57.884353,"lon":-152.853125,"length":2200,"course":57.0},{"id":"RW25","lat":57.885497,"lon":-152.842019,"length":2200,"course":237.0}],"procedures":{"D":{},"E":{},"F":{}}};

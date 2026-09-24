@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TN3"]={"id":"2TN3","name":"ROCKY ACRES","lat":35.509903,"lon":-86.6907,"elevation":715,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

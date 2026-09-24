@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KY4"]={"id":"4KY4","name":"MOSELEY FLD","lat":37.5925,"lon":-87.281111,"elevation":395,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

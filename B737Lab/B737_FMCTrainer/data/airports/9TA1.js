@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TA1"]={"id":"9TA1","name":"HILLTOP RANCH","lat":29.658558,"lon":-98.137786,"elevation":762,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33CO"]={"id":"33CO","name":"MELBY RANCH AIRSTRIP","lat":37.065,"lon":-105.463611,"elevation":8820,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

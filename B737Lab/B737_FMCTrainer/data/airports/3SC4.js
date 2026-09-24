@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3SC4"]={"id":"3SC4","name":"CROOKED FENCE FARM","lat":34.771394,"lon":-81.987797,"elevation":645,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI54"]={"id":"WI54","name":"NORTHWOOD AIRSTRIP","lat":43.563056,"lon":-90.285,"elevation":1275,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

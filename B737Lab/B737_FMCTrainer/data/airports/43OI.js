@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43OI"]={"id":"43OI","name":"WINDSWEPT","lat":41.198664,"lon":-83.700767,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

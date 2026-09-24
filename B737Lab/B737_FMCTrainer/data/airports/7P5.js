@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7P5"]={"id":"7P5","name":"PISO","lat":45.065881,"lon":-88.42705,"elevation":895,"region":"K5","runways":[{"id":"RW01","lat":45.063833,"lon":-88.42735,"length":2340,"course":5.0},{"id":"RW19","lat":45.068253,"lon":-88.426694,"length":2340,"course":185.0}],"procedures":{"D":{},"E":{},"F":{}}};

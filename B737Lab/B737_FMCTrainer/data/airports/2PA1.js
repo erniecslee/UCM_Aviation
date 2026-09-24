@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PA1"]={"id":"2PA1","name":"BOEHM'S FLD","lat":41.443144,"lon":-75.007947,"elevation":1330,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

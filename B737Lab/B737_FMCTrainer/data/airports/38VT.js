@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38VT"]={"id":"38VT","name":"MUDDY PAW","lat":44.402083,"lon":-73.157917,"elevation":372,"region":"K6","runways":[{"id":"RW18","lat":44.400556,"lon":-73.158056,"length":1116,"course":17.3},{"id":"RW36","lat":44.403611,"lon":-73.157778,"length":1116,"course":197.3}],"procedures":{"D":{},"E":{},"F":{}}};

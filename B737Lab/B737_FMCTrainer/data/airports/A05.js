@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A05"]={"id":"A05","name":"DIXIE USFS","lat":45.520742,"lon":-115.517628,"elevation":5148,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

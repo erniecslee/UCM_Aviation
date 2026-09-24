@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KS3"]={"id":"8KS3","name":"DAVIS AIRFIELD","lat":39.852781,"lon":-95.480536,"elevation":1100,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

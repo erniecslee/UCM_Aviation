@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95WA"]={"id":"95WA","name":"BLACK DIAMOND","lat":47.315656,"lon":-122.009836,"elevation":595,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

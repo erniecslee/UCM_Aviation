@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN36"]={"id":"SN36","name":"WAMSLEY FLD","lat":37.426408,"lon":-97.637828,"elevation":1335,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

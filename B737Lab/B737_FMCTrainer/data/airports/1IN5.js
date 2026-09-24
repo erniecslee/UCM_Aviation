@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IN5"]={"id":"1IN5","name":"BOTTOMS BROTHERS","lat":38.284769,"lon":-87.381958,"elevation":545,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

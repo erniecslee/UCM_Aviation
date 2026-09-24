@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72OR"]={"id":"72OR","name":"OCHS PRIVATE","lat":44.789039,"lon":-120.958506,"elevation":1790,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

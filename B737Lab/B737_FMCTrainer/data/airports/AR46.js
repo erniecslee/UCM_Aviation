@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR46"]={"id":"AR46","name":"PENROSE","lat":35.189344,"lon":-91.050375,"elevation":220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

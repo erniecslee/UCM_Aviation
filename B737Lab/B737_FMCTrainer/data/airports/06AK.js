@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06AK"]={"id":"06AK","name":"JUNE LAKE AIRPARK","lat":61.627619,"lon":-149.575331,"elevation":425,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

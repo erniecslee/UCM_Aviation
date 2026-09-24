@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4VA5"]={"id":"4VA5","name":"STARR","lat":37.659586,"lon":-78.922244,"elevation":640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

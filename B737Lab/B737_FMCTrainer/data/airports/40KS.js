@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40KS"]={"id":"40KS","name":"CHANAY","lat":38.540014,"lon":-95.450814,"elevation":1110,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

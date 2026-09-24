@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT29"]={"id":"UT29","name":"HOLYOAK","lat":41.724722,"lon":-111.994444,"elevation":4710,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

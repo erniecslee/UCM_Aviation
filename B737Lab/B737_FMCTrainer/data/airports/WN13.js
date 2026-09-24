@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN13"]={"id":"WN13","name":"VAUGHAN RANCH AIRFIELD","lat":47.463708,"lon":-122.569022,"elevation":240,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

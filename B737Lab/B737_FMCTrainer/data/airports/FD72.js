@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD72"]={"id":"FD72","name":"KINGS PORT","lat":27.182828,"lon":-81.390628,"elevation":148,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

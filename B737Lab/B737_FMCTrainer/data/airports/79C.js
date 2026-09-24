@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79C"]={"id":"79C","name":"BRENNAND","lat":44.159447,"lon":-88.561803,"elevation":844,"region":"K5","runways":[{"id":"RW18","lat":44.162283,"lon":-88.561822,"length":2439,"course":180.7},{"id":"RW36","lat":44.156842,"lon":-88.561786,"length":2439,"course":0.7}],"procedures":{"D":{},"E":{},"F":{}}};

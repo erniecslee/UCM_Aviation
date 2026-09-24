@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD20"]={"id":"FD20","name":"SUNDANCE FARMS","lat":26.800342,"lon":-81.485078,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

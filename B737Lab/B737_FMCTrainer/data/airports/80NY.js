@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80NY"]={"id":"80NY","name":"FOSTER FARM","lat":40.923056,"lon":-72.278333,"elevation":14,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NC7"]={"id":"2NC7","name":"SCOTLAND NECK EAST","lat":36.167933,"lon":-77.398858,"elevation":103,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

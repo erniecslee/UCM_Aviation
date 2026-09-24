@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA04"]={"id":"VA04","name":"BARROWS","lat":37.492075,"lon":-79.928656,"elevation":1100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

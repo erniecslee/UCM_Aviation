@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK71"]={"id":"NK71","name":"MARCELLUS","lat":43.010556,"lon":-76.352778,"elevation":850,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

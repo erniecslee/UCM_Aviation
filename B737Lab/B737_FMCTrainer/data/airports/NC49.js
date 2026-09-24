@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC49"]={"id":"NC49","name":"BOYD FLD","lat":35.528425,"lon":-77.198175,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

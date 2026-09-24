@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0XS9"]={"id":"0XS9","name":"FRENCH FLD","lat":32.134042,"lon":-95.339583,"elevation":540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

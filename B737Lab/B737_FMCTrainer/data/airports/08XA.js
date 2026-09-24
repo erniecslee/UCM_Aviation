@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08XA"]={"id":"08XA","name":"KNOLLE RANCH","lat":30.479253,"lon":-96.504031,"elevation":280,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

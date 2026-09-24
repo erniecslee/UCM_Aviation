@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y93"]={"id":"Y93","name":"ATLANTA MUNI","lat":44.996894,"lon":-84.127233,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

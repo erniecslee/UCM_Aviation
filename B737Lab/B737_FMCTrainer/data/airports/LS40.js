@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS40"]={"id":"LS40","name":"ST CHARLES","lat":29.951944,"lon":-90.286111,"elevation":13,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15OK"]={"id":"15OK","name":"STONER MEM","lat":34.176389,"lon":-98.309722,"elevation":980,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

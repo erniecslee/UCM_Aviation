@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77PA"]={"id":"77PA","name":"NARDO","lat":40.5834,"lon":-79.899775,"elevation":1140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

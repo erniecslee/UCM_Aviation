@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NJ1"]={"id":"3NJ1","name":"PEMBERTON","lat":39.982178,"lon":-74.694975,"elevation":65,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

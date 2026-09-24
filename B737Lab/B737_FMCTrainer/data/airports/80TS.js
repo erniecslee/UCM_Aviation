@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80TS"]={"id":"80TS","name":"M Y RANCH","lat":31.327681,"lon":-95.573006,"elevation":300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

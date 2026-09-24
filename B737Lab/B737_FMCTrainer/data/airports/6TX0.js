@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TX0"]={"id":"6TX0","name":"MFR NORTH","lat":31.047858,"lon":-98.365508,"elevation":1401,"region":"K4","runways":[{"id":"RW13","lat":31.049597,"lon":-98.367469,"length":1961,"course":132.3},{"id":"RW31","lat":31.046122,"lon":-98.363533,"length":1961,"course":312.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79FL"]={"id":"79FL","name":"GOOD DOG LANDING","lat":29.552739,"lon":-82.868733,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

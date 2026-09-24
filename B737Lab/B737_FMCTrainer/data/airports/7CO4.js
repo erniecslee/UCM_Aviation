@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CO4"]={"id":"7CO4","name":"KOCH FLD","lat":39.288333,"lon":-103.246944,"elevation":5180,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OR8"]={"id":"7OR8","name":"INSHALLAH INTL","lat":44.090428,"lon":-119.289681,"elevation":4560,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

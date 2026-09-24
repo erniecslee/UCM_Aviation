@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NK0"]={"id":"6NK0","name":"KNAPP","lat":42.595833,"lon":-74.820556,"elevation":1321,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

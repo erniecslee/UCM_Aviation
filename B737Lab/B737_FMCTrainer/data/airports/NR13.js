@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR13"]={"id":"NR13","name":"DAGHITA","lat":36.508753,"lon":-78.262328,"elevation":350,"region":"K7","runways":[{"id":"RW10","lat":36.508833,"lon":-78.264028,"length":1000,"course":103.1},{"id":"RW28","lat":36.508672,"lon":-78.260628,"length":1000,"course":283.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA79"]={"id":"NA79","name":"PHILBRICK PVT AIRSTRIP","lat":47.404164,"lon":-100.882364,"elevation":1915,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3U5"]={"id":"3U5","name":"AUGUSTA","lat":47.463417,"lon":-112.380111,"elevation":4145,"region":"K1","runways":[{"id":"RW01","lat":47.459047,"lon":-112.383683,"length":3650,"course":12.0},{"id":"RW19","lat":47.467806,"lon":-112.376542,"length":3650,"course":192.0}],"procedures":{"D":{},"E":{},"F":{}}};

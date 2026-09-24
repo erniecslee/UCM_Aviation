@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN64"]={"id":"SN64","name":"ECK FLD","lat":37.696653,"lon":-97.543931,"elevation":1413,"region":"K3","runways":[{"id":"RW18","lat":37.700086,"lon":-97.544019,"length":2499,"course":175.7},{"id":"RW36","lat":37.693225,"lon":-97.543839,"length":2499,"course":355.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI52"]={"id":"OI52","name":"LYONS FLD","lat":39.625061,"lon":-83.783258,"elevation":1045,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

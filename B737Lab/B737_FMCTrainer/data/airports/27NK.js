@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27NK"]={"id":"27NK","name":"MOHAWK AIR PARK","lat":43.113317,"lon":-75.044467,"elevation":1079,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

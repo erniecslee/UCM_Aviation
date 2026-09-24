@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5Z9"]={"id":"5Z9","name":"LAKE BROOKS","lat":58.554844,"lon":-155.777389,"elevation":36,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

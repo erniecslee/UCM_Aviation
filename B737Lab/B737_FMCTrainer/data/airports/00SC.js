@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00SC"]={"id":"00SC","name":"FLYING O","lat":34.009444,"lon":-80.267222,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

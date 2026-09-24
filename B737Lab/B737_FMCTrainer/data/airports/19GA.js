@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19GA"]={"id":"19GA","name":"WILLOW POND AVIATION INC","lat":33.423728,"lon":-84.499928,"elevation":868,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

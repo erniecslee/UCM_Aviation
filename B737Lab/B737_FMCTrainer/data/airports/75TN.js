@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75TN"]={"id":"75TN","name":"SRIGLEY FLD","lat":36.281389,"lon":-82.861389,"elevation":1145,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

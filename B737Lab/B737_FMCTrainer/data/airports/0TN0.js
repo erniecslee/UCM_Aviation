@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TN0"]={"id":"0TN0","name":"R & S BUZZARD","lat":35.676667,"lon":-86.896667,"elevation":810,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS15"]={"id":"LS15","name":"BAILEY AIR","lat":32.296233,"lon":-91.540042,"elevation":88,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

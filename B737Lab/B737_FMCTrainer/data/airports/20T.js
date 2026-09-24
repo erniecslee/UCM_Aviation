@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20T"]={"id":"20T","name":"ARESTI AERODROME","lat":32.470694,"lon":-97.5603,"elevation":985,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30CO"]={"id":"30CO","name":"DESIDERATA RANCH","lat":38.672517,"lon":-105.336083,"elevation":8030,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

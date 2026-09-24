@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6GA0"]={"id":"6GA0","name":"STONEY POINT FLD","lat":34.132597,"lon":-84.199364,"elevation":1150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

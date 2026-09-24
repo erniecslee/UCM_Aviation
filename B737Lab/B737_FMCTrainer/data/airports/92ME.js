@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92ME"]={"id":"92ME","name":"BUZZPORT","lat":45.219583,"lon":-68.639083,"elevation":203,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

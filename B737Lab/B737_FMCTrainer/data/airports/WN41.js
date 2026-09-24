@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN41"]={"id":"WN41","name":"REDFERN AERODROME","lat":47.304444,"lon":-117.961667,"elevation":2050,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

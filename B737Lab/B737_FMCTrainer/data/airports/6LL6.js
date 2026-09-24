@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6LL6"]={"id":"6LL6","name":"FISCHER'S","lat":38.491717,"lon":-89.663428,"elevation":426,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

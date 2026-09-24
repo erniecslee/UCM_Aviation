@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS08"]={"id":"MS08","name":"HARRELL FLD","lat":32.473889,"lon":-89.851778,"elevation":385,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

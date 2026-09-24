@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76A"]={"id":"76A","name":"EFS","lat":35.464003,"lon":-91.230022,"elevation":215,"region":"K4","runways":[{"id":"RW18","lat":35.467703,"lon":-91.230158,"length":2695,"course":179.4},{"id":"RW36","lat":35.460303,"lon":-91.229883,"length":2695,"course":359.4}],"procedures":{"D":{},"E":{},"F":{}}};

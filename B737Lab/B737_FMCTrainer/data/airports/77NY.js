@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77NY"]={"id":"77NY","name":"HUT HAVEN","lat":43.3377,"lon":-76.726725,"elevation":279,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

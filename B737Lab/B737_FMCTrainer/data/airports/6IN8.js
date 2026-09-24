@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IN8"]={"id":"6IN8","name":"MCMINN","lat":39.528611,"lon":-85.333333,"elevation":1065,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69KS"]={"id":"69KS","name":"CHILES AIRPARK","lat":38.668697,"lon":-94.742517,"elevation":1064,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

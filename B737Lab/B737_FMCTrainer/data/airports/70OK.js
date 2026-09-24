@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70OK"]={"id":"70OK","name":"OLD 66 STRIP","lat":36.833675,"lon":-94.904119,"elevation":853,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

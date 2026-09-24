@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MI4"]={"id":"1MI4","name":"ERNIE'S FLD","lat":43.421917,"lon":-84.194767,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

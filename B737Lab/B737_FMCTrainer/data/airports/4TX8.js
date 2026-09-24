@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TX8"]={"id":"4TX8","name":"ADDINGTON FLD","lat":33.248731,"lon":-97.223906,"elevation":705,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

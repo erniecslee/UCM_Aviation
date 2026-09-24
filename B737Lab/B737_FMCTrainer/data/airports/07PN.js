@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07PN"]={"id":"07PN","name":"FOLMAR","lat":40.998889,"lon":-78.125278,"elevation":1690,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

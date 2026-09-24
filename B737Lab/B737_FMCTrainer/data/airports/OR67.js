@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR67"]={"id":"OR67","name":"MITCHELL FLD","lat":44.6952,"lon":-123.019661,"elevation":253,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

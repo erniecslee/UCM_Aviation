@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID04"]={"id":"ID04","name":"CANYON","lat":42.641111,"lon":-116.982778,"elevation":5055,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

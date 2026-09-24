@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4N7"]={"id":"4N7","name":"GREENE","lat":42.304242,"lon":-75.787136,"elevation":935,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

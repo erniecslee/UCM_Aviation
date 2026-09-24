@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNRQ"]={"id":"KNRQ","name":"SPENCER NOLF","lat":30.625328,"lon":-87.139828,"elevation":151,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

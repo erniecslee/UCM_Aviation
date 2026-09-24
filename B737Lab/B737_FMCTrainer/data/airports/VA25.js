@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA25"]={"id":"VA25","name":"TWIN TOWERS","lat":36.764308,"lon":-78.360553,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

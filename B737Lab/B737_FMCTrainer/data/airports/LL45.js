@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL45"]={"id":"LL45","name":"LINDELL LOVELESS","lat":39.182269,"lon":-89.821764,"elevation":657,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

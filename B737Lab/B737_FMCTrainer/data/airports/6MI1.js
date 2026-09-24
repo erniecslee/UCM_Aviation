@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MI1"]={"id":"6MI1","name":"JENSEN FLD","lat":43.263081,"lon":-83.563844,"elevation":755,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

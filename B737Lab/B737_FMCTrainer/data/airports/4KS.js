@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KS"]={"id":"4KS","name":"WALZ","lat":37.045164,"lon":-98.570181,"elevation":1387,"region":"K3","runways":[{"id":"RW03","lat":37.042778,"lon":-98.572125,"length":2525,"course":29.5},{"id":"RW21","lat":37.047664,"lon":-98.568142,"length":2525,"course":209.5}],"procedures":{"D":{},"E":{},"F":{}}};

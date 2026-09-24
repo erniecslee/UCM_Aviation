@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N61"]={"id":"N61","name":"HINSHAW (GREENACRES)","lat":35.873747,"lon":-79.527522,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

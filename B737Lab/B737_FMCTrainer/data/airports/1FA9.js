@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1FA9"]={"id":"1FA9","name":"VILLA CHAR MAR","lat":27.785,"lon":-81.651111,"elevation":134,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

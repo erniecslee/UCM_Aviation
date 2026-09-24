@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA42"]={"id":"WA42","name":"STACEY'S","lat":47.972033,"lon":-122.772108,"elevation":100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

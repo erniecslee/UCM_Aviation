@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93FA"]={"id":"93FA","name":"PSYCHO FLD","lat":30.803439,"lon":-86.736778,"elevation":216,"region":"K7","runways":[{"id":"RW18","lat":30.806194,"lon":-86.73675,"length":2005,"course":184.3},{"id":"RW36","lat":30.800683,"lon":-86.736806,"length":2005,"course":4.3}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22IN"]={"id":"22IN","name":"SPANGLER FARM","lat":41.012639,"lon":-84.877694,"elevation":776,"region":"K5","runways":[{"id":"RW09","lat":41.012528,"lon":-84.882189,"length":2477,"course":99.3}],"procedures":{"D":{},"E":{},"F":{}}};

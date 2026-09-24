@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KRFG"]={"id":"KRFG","name":"ROOKE FLD","lat":28.295817,"lon":-97.325972,"elevation":54,"region":"K4","runways":[{"id":"RW14","lat":28.301044,"lon":-97.329292,"length":4361,"course":144.0},{"id":"RW32","lat":28.290986,"lon":-97.322906,"length":4361,"course":324.0}],"procedures":{"D":{},"E":{},"F":{}}};

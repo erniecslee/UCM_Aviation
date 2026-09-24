@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5S1"]={"id":"5S1","name":"GEORGE FELT","lat":43.215444,"lon":-123.404389,"elevation":428,"region":"K1","runways":[{"id":"RW10","lat":43.21705,"lon":-123.408114,"length":2300,"course":102.0},{"id":"RW28","lat":43.213856,"lon":-123.400669,"length":2300,"course":282.0}],"procedures":{"D":{},"E":{},"F":{}}};

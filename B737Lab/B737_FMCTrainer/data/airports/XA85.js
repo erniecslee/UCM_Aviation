@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA85"]={"id":"XA85","name":"COUGAR LANDING","lat":31.641944,"lon":-97.314444,"elevation":595,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

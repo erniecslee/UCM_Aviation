@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1C3"]={"id":"1C3","name":"ARGYLE","lat":43.254528,"lon":-73.470194,"elevation":330,"region":"K6","runways":[{"id":"RW03","lat":43.251347,"lon":-73.471344,"length":2400,"course":30.0},{"id":"RW21","lat":43.257717,"lon":-73.469056,"length":2400,"course":210.0}],"procedures":{"D":{},"E":{},"F":{}}};

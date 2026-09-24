@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN08"]={"id":"TN08","name":"OLIVER SPRINGS INC","lat":36.037578,"lon":-84.306869,"elevation":790,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

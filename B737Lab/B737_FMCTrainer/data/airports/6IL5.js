@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IL5"]={"id":"6IL5","name":"KEIL","lat":37.386439,"lon":-89.160356,"elevation":525,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

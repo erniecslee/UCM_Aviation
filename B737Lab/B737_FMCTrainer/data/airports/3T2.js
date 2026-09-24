@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3T2"]={"id":"3T2","name":"WOLFE AIR PARK","lat":29.479083,"lon":-95.326556,"elevation":55,"region":"K4","runways":[{"id":"RW02","lat":29.475483,"lon":-95.328531,"length":2910,"course":20.0},{"id":"RW20","lat":29.482697,"lon":-95.324569,"length":2910,"course":200.0}],"procedures":{"D":{},"E":{},"F":{}}};

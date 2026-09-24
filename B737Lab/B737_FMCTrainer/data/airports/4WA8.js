@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WA8"]={"id":"4WA8","name":"RIVERSIDE","lat":48.834839,"lon":-122.264325,"elevation":175,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

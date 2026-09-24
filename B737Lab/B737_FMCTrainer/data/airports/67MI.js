@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["67MI"]={"id":"67MI","name":"PINELLI","lat":41.997875,"lon":-85.853483,"elevation":921,"region":"K5","runways":[{"id":"RW09","lat":41.997869,"lon":-85.855875,"length":1300,"course":95.3},{"id":"RW27","lat":41.997881,"lon":-85.851092,"length":1300,"course":275.3}],"procedures":{"D":{},"E":{},"F":{}}};

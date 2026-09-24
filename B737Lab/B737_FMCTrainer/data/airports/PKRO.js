@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PKRO"]={"id":"PKRO","name":"DYESS AAF","lat":9.396886,"lon":167.470869,"elevation":14,"region":"PK","runways":[{"id":"RW04","lat":9.392778,"lon":167.466183,"length":4499,"course":39.0},{"id":"RW22","lat":9.401008,"lon":167.475525,"length":4499,"course":219.0}],"procedures":{"D":{},"E":{},"F":{}}};

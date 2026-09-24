@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AR2"]={"id":"1AR2","name":"TAYLOR AIRSTRIP","lat":34.986783,"lon":-91.5503,"elevation":208,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

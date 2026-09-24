@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TS0"]={"id":"3TS0","name":"EAST SIDE","lat":32.508481,"lon":-94.700208,"elevation":373,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

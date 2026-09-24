@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6FL4"]={"id":"6FL4","name":"SYLVANMIR FARMS","lat":29.821053,"lon":-83.5732,"elevation":8,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16SC"]={"id":"16SC","name":"HORSESHOE LANDING","lat":34.625128,"lon":-81.898433,"elevation":600,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

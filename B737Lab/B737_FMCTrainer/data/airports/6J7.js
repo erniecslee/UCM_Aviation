@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6J7"]={"id":"6J7","name":"BRANHAMS","lat":34.281528,"lon":-79.927611,"elevation":166,"region":"K7","runways":[{"id":"RW16","lat":34.285608,"lon":-79.929575,"length":3200,"course":164.0},{"id":"RW34","lat":34.277433,"lon":-79.925664,"length":3200,"course":344.0}],"procedures":{"D":{},"E":{},"F":{}}};

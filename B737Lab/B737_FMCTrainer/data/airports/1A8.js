@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1A8"]={"id":"1A8","name":"GOLDFIELD","lat":37.722058,"lon":-117.236367,"elevation":5616,"region":"K2","runways":[{"id":"RW01","lat":37.717817,"lon":-117.237419,"length":3150,"course":359.4},{"id":"RW19","lat":37.7263,"lon":-117.235311,"length":3150,"course":179.4}],"procedures":{"D":{},"E":{},"F":{}}};

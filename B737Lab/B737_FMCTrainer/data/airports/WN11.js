@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN11"]={"id":"WN11","name":"RED ROOF","lat":45.585797,"lon":-88.003728,"elevation":963,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

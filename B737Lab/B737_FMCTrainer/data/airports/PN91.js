@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN91"]={"id":"PN91","name":"SHARRETTS","lat":41.833403,"lon":-77.499706,"elevation":2360,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

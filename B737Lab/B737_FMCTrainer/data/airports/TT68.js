@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT68"]={"id":"TT68","name":"U RANCH","lat":31.900508,"lon":-101.130517,"elevation":2410,"region":"K4","runways":[{"id":"RW04","lat":31.897194,"lon":-101.133961,"length":3222,"course":36.6},{"id":"RW22","lat":31.903819,"lon":-101.127069,"length":3222,"course":216.6}],"procedures":{"D":{},"E":{},"F":{}}};

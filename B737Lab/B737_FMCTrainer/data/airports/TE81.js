@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE81"]={"id":"TE81","name":"SMITHER FLD","lat":33.309722,"lon":-97.092778,"elevation":655,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

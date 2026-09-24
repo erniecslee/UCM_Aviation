@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H37"]={"id":"H37","name":"HERLONG","lat":40.138722,"lon":-120.179972,"elevation":4062,"region":"K2","runways":[{"id":"RW06","lat":40.137881,"lon":-120.1857,"length":3260,"course":63.3},{"id":"RW24","lat":40.139547,"lon":-120.174242,"length":3260,"course":243.3}],"procedures":{"D":{},"E":{},"F":{}}};

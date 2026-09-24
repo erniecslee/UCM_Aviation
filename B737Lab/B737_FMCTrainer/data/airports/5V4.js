@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5V4"]={"id":"5V4","name":"CALHAN","lat":39.048306,"lon":-104.293,"elevation":6450,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

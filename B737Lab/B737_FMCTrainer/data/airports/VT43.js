@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT43"]={"id":"VT43","name":"ONYON","lat":43.019247,"lon":-72.652869,"elevation":427,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

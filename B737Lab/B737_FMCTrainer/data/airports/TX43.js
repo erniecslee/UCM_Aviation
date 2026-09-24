@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX43"]={"id":"TX43","name":"GOODE FLD","lat":32.509861,"lon":-96.002747,"elevation":445,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

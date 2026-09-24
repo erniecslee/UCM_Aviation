@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL33"]={"id":"CL33","name":"PAUMA VALLEY AIR PARK","lat":33.310589,"lon":-116.998083,"elevation":756,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

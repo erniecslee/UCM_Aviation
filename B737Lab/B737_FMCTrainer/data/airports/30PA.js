@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30PA"]={"id":"30PA","name":"NOLNACS","lat":40.144306,"lon":-79.375139,"elevation":1554,"region":"K6","runways":[{"id":"RW10","lat":40.144444,"lon":-79.377222,"length":1169,"course":104.6},{"id":"RW28","lat":40.144167,"lon":-79.373056,"length":1169,"course":284.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA25"]={"id":"PA25","name":"CUATROS VIENTOS","lat":40.659258,"lon":-75.873811,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

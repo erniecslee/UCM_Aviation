@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y01"]={"id":"Y01","name":"WAUKON MUNI","lat":43.280475,"lon":-91.469528,"elevation":1281,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

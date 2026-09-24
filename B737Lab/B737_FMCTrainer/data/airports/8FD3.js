@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FD3"]={"id":"8FD3","name":"BLACKWATER AIRFIELD","lat":30.877686,"lon":-86.854406,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XS7"]={"id":"2XS7","name":"ANNANDALE RANCH","lat":29.450233,"lon":-99.683664,"elevation":1205,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

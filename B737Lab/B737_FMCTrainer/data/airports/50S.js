@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50S"]={"id":"50S","name":"PARMA","lat":43.778772,"lon":-116.938486,"elevation":2228,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

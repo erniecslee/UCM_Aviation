@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14ID"]={"id":"14ID","name":"PEACEFUL COVE","lat":43.670653,"lon":-116.211231,"elevation":2920,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD9"]={"id":"4MD9","name":"WORTHINGTON VALLEY","lat":39.480556,"lon":-76.760556,"elevation":461,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

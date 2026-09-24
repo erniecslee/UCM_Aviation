@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44CL"]={"id":"44CL","name":"BALSDON","lat":39.047856,"lon":-121.950389,"elevation":35,"region":"K2","runways":[{"id":"RW12","lat":39.0503,"lon":-121.953014,"length":2323,"course":127.0},{"id":"RW30","lat":39.045408,"lon":-121.947764,"length":2323,"course":307.0}],"procedures":{"D":{},"E":{},"F":{}}};

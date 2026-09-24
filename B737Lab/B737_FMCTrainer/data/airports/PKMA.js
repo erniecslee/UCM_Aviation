@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PKMA"]={"id":"PKMA","name":"ENEWETAK AUX AF","lat":11.340833,"lon":162.327833,"elevation":13,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

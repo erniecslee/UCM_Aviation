@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN31"]={"id":"IN31","name":"BITAR FLD","lat":40.021497,"lon":-85.753889,"elevation":882,"region":"K5","runways":[{"id":"RW01","lat":40.018272,"lon":-85.753889,"length":2350,"course":2.0},{"id":"RW19","lat":40.024722,"lon":-85.753889,"length":2350,"course":182.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WI6"]={"id":"3WI6","name":"MELIN FARMS","lat":42.590139,"lon":-88.874556,"elevation":885,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

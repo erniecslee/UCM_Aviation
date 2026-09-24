@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I72"]={"id":"I72","name":"WESTFIELD","lat":40.048928,"lon":-86.157767,"elevation":932,"region":"K5","runways":[{"id":"RW18","lat":40.053369,"lon":-86.160267,"length":3000,"course":183.0},{"id":"RW36","lat":40.045133,"lon":-86.160444,"length":3000,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

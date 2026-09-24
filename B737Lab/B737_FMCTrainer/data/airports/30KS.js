@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30KS"]={"id":"30KS","name":"FLUGPLATZ","lat":38.024839,"lon":-97.733922,"elevation":1471,"region":"K3","runways":[{"id":"RW17","lat":38.027992,"lon":-97.733928,"length":2597,"course":176.7},{"id":"RW35","lat":38.021272,"lon":-97.733917,"length":2597,"course":356.7}],"procedures":{"D":{},"E":{},"F":{}}};

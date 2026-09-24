@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3FD9"]={"id":"3FD9","name":"PRAIRIE LAKE PVT RES SP MOORIN","lat":28.656664,"lon":-81.353403,"elevation":86,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

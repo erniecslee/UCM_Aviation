@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI5"]={"id":"7WI5","name":"SYVRUD","lat":42.882503,"lon":-89.400675,"elevation":1000,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

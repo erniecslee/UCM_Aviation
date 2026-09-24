@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA15"]={"id":"LA15","name":"CLARK FLD","lat":30.623417,"lon":-91.032361,"elevation":88,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

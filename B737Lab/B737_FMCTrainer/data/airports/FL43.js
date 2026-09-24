@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL43"]={"id":"FL43","name":"BURNTWOOD RANCH","lat":28.273811,"lon":-81.930447,"elevation":119,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

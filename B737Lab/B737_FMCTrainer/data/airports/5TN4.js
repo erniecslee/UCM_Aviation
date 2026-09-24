@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TN4"]={"id":"5TN4","name":"MCGRAW'S BACKYARD","lat":35.670556,"lon":-84.115833,"elevation":920,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

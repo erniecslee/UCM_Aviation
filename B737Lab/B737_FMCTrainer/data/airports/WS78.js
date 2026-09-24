@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS78"]={"id":"WS78","name":"RIVER VALLEY","lat":45.550278,"lon":-89.487778,"elevation":1525,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

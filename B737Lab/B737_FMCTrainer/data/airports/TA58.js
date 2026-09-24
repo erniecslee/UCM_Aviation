@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA58"]={"id":"TA58","name":"RANCHO ENCANTADO","lat":28.319972,"lon":-99.465872,"elevation":550,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

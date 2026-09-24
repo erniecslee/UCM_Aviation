@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68KS"]={"id":"68KS","name":"WILLYS LAKE","lat":38.19685,"lon":-98.182575,"elevation":1631,"region":"K3","runways":[{"id":"RW11","lat":38.19765,"lon":-98.185717,"length":1900,"course":104.3},{"id":"RW29","lat":38.196056,"lon":-98.179417,"length":1900,"course":284.3}],"procedures":{"D":{},"E":{},"F":{}}};

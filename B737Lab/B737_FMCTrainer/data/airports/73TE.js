@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73TE"]={"id":"73TE","name":"MOORE PVT","lat":32.925,"lon":-97.558333,"elevation":670,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

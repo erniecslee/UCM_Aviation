@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["P23"]={"id":"P23","name":"SELIGMAN","lat":35.335075,"lon":-112.886497,"elevation":5237,"region":"K2","runways":[{"id":"RW04","lat":35.331114,"lon":-112.892919,"length":4800,"course":40.0},{"id":"RW22","lat":35.339036,"lon":-112.880075,"length":4800,"course":220.0}],"procedures":{"D":{},"E":{},"F":{}}};

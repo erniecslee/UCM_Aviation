@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE25"]={"id":"DE25","name":"EAGLE CREST-HUDSON","lat":38.775797,"lon":-75.234003,"elevation":28,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

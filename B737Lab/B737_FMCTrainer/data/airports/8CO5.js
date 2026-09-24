@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CO5"]={"id":"8CO5","name":"WIDNER","lat":38.833872,"lon":-107.892286,"elevation":6020,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

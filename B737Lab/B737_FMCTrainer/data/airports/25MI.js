@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25MI"]={"id":"25MI","name":"HOWARD AIRFIELD","lat":42.938528,"lon":-84.577183,"elevation":761,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

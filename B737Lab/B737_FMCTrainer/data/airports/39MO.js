@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39MO"]={"id":"39MO","name":"GARDNER","lat":37.118661,"lon":-93.204906,"elevation":1325,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

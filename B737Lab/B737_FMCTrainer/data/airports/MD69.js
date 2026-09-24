@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD69"]={"id":"MD69","name":"HARRIS","lat":39.333444,"lon":-76.083003,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

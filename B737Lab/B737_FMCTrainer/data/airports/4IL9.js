@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IL9"]={"id":"4IL9","name":"UNZICKER","lat":40.827114,"lon":-89.120558,"elevation":755,"region":"K5","runways":[{"id":"RW18","lat":40.829817,"lon":-89.120614,"length":2200,"course":182.1},{"id":"RW36","lat":40.826231,"lon":-89.120556,"length":2200,"course":2.1}],"procedures":{"D":{},"E":{},"F":{}}};

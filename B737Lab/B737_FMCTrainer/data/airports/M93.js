@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M93"]={"id":"M93","name":"HOUSTON COUNTY","lat":36.316722,"lon":-87.916694,"elevation":370,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68Y"]={"id":"68Y","name":"WELLS MUNI","lat":43.741222,"lon":-93.777175,"elevation":1119,"region":"K3","runways":[{"id":"RW17","lat":43.7452,"lon":-93.777189,"length":2897,"course":179.6},{"id":"RW35","lat":43.737242,"lon":-93.777161,"length":2897,"course":359.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34G"]={"id":"34G","name":"MERILLAT","lat":41.975044,"lon":-83.925219,"elevation":820,"region":"K5","runways":[{"id":"RW18","lat":41.973933,"lon":-83.923417,"length":3608,"course":185.3},{"id":"RW36","lat":41.964033,"lon":-83.923483,"length":3608,"course":5.3}],"procedures":{"D":{},"E":{},"F":{}}};

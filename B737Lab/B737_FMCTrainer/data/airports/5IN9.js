@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5IN9"]={"id":"5IN9","name":"STANGLAND","lat":41.316158,"lon":-85.464981,"elevation":924,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

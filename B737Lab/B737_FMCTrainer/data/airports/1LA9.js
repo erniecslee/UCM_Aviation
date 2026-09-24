@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1LA9"]={"id":"1LA9","name":"JEFF ISL","lat":29.967511,"lon":-91.984269,"elevation":7,"region":"K4","runways":[{"id":"RW14","lat":29.969075,"lon":-91.985897,"length":1535,"course":138.1},{"id":"RW32","lat":29.965947,"lon":-91.982642,"length":1535,"course":318.1}],"procedures":{"D":{},"E":{},"F":{}}};

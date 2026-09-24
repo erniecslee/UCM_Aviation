@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN32"]={"id":"MN32","name":"NIETZ AIRSTRIP","lat":44.191356,"lon":-92.452681,"elevation":1130,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

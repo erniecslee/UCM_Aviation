@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M10"]={"id":"M10","name":"MOUNTAINAIR MUNI","lat":34.533333,"lon":-106.223889,"elevation":6492,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33K"]={"id":"33K","name":"KINSLEY MUNI","lat":37.908994,"lon":-99.403106,"elevation":2171,"region":"K3","runways":[{"id":"RW18","lat":37.913481,"lon":-99.402422,"length":3290,"course":179.0},{"id":"RW36","lat":37.904506,"lon":-99.403792,"length":3290,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

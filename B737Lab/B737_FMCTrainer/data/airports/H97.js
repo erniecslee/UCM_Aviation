@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H97"]={"id":"H97","name":"PAWNEE MUNI","lat":36.377311,"lon":-96.805208,"elevation":875,"region":"K4","runways":[{"id":"RW18","lat":36.380222,"lon":-96.804861,"length":2133,"course":179.5},{"id":"RW36","lat":36.3744,"lon":-96.805556,"length":2133,"course":359.5}],"procedures":{"D":{},"E":{},"F":{}}};

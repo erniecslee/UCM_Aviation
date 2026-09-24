@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NR6"]={"id":"6NR6","name":"PATTON VALLEY","lat":35.662222,"lon":-81.872778,"elevation":1270,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

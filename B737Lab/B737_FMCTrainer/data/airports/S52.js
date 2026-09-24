@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S52"]={"id":"S52","name":"METHOW VALLEY STATE","lat":48.424947,"lon":-120.145886,"elevation":1706,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

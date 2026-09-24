@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI53"]={"id":"MI53","name":"MILLS FLD","lat":42.009211,"lon":-83.258264,"elevation":590,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

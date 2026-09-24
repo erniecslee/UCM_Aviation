@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU14"]={"id":"MU14","name":"PEPPER FLD","lat":38.299572,"lon":-91.689614,"elevation":1043,"region":"K3","runways":[{"id":"RW03","lat":38.296861,"lon":-91.691681,"length":2300,"course":31.9},{"id":"RW21","lat":38.302278,"lon":-91.68755,"length":2300,"course":211.9}],"procedures":{"D":{},"E":{},"F":{}}};

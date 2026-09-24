@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK65"]={"id":"AK65","name":"GREEN'S STRIP","lat":61.59795,"lon":-149.350511,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

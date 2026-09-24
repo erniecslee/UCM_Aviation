@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95MO"]={"id":"95MO","name":"GREEN BERRY","lat":36.555644,"lon":-93.743956,"elevation":1067,"region":"K3","runways":[{"id":"RW01","lat":36.553753,"lon":-93.744367,"length":1400,"course":9.4},{"id":"RW19","lat":36.557539,"lon":-93.743542,"length":1400,"course":189.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2D7"]={"id":"2D7","name":"BEACH CITY","lat":40.646353,"lon":-81.5559,"elevation":984,"region":"K5","runways":[{"id":"RW10","lat":40.646425,"lon":-81.560092,"length":3175,"course":98.0},{"id":"RW28","lat":40.646297,"lon":-81.552822,"length":3175,"course":278.0}],"procedures":{"D":{},"E":{},"F":{}}};

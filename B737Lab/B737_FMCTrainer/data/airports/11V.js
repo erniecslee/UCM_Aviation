@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11V"]={"id":"11V","name":"EASTON/VALLEY VIEW","lat":40.327358,"lon":-104.609394,"elevation":4820,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

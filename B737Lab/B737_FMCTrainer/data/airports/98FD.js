@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98FD"]={"id":"98FD","name":"LAKE JESSUP","lat":28.716939,"lon":-81.233119,"elevation":3,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS60"]={"id":"XS60","name":"MUSTANG COMMUNITY AIRFIELD","lat":33.318422,"lon":-96.906003,"elevation":605,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL29"]={"id":"FL29","name":"HALES 700","lat":27.361153,"lon":-80.570889,"elevation":26,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

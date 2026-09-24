@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU22"]={"id":"MU22","name":"JOSEPH SCOTT","lat":37.688678,"lon":-90.194267,"elevation":1059,"region":"K3","runways":[{"id":"RW18","lat":37.691583,"lon":-90.193911,"length":2126,"course":187.6},{"id":"RW36","lat":37.685772,"lon":-90.194622,"length":2126,"course":7.6}],"procedures":{"D":{},"E":{},"F":{}}};

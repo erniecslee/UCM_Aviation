@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA09"]={"id":"WA09","name":"ROCHE HARBOR","lat":48.612322,"lon":-123.138519,"elevation":100,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

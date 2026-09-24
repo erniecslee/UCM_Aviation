@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK44"]={"id":"AK44","name":"TALKEETNA VILLAGE STRIP","lat":62.318936,"lon":-150.116147,"elevation":346,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

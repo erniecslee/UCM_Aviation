@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MA8"]={"id":"5MA8","name":"SOUTH POND","lat":42.008706,"lon":-72.762594,"elevation":225,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

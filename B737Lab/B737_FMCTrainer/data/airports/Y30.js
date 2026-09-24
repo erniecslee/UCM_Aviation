@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Y30"]={"id":"Y30","name":"PBEAAYE","lat":45.531122,"lon":-84.556981,"elevation":690,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

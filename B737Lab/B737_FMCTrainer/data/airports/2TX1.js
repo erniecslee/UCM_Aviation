@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX1"]={"id":"2TX1","name":"RUSSELL PARADISE","lat":29.225242,"lon":-98.383625,"elevation":535,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

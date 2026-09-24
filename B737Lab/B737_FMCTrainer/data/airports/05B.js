@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05B"]={"id":"05B","name":"VAN BUREN","lat":47.158933,"lon":-67.931969,"elevation":440,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

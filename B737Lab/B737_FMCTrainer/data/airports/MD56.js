@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD56"]={"id":"MD56","name":"THREE J","lat":39.568989,"lon":-77.121372,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

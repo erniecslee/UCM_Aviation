@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VA7"]={"id":"3VA7","name":"WHITE POST","lat":39.062606,"lon":-78.091389,"elevation":610,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

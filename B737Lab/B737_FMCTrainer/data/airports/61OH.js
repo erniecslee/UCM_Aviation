@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61OH"]={"id":"61OH","name":"JETWAY","lat":41.198111,"lon":-81.209544,"elevation":1130,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

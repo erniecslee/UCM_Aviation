@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52OA"]={"id":"52OA","name":"AREA 52","lat":40.100269,"lon":-82.596542,"elevation":1060,"region":"K5","runways":[{"id":"RW04","lat":40.099122,"lon":-82.597622,"length":1032,"course":43.4},{"id":"RW22","lat":40.101417,"lon":-82.595458,"length":1032,"course":223.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0LL5"]={"id":"0LL5","name":"BUSBOOM","lat":40.110033,"lon":-88.078372,"elevation":675,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

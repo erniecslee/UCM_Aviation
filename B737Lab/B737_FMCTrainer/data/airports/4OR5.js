@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OR5"]={"id":"4OR5","name":"FLY 'N' W","lat":44.967897,"lon":-122.941483,"elevation":206,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

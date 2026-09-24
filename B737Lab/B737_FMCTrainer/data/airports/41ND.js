@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41ND"]={"id":"41ND","name":"HILL","lat":48.140511,"lon":-101.147367,"elevation":1533,"region":"K3","runways":[{"id":"RW13","lat":48.142158,"lon":-101.149967,"length":1750,"course":127.6},{"id":"RW31","lat":48.138864,"lon":-101.144767,"length":1750,"course":307.6}],"procedures":{"D":{},"E":{},"F":{}}};

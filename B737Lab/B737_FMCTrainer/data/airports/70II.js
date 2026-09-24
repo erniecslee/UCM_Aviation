@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70II"]={"id":"70II","name":"NASBY","lat":39.521714,"lon":-85.686367,"elevation":830,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

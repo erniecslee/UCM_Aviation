@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99WY"]={"id":"99WY","name":"XINGU AIRSTRIP","lat":44.8458,"lon":-107.276744,"elevation":4340,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43NE"]={"id":"43NE","name":"ONION CREST AIRPARK","lat":40.775,"lon":-99.154722,"elevation":2205,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

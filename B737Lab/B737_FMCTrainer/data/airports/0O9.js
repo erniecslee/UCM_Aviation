@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0O9"]={"id":"0O9","name":"WARD FLD","lat":41.845583,"lon":-123.984778,"elevation":356,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

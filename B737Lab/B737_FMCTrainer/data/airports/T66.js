@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T66"]={"id":"T66","name":"VISNAW LAKE","lat":61.619011,"lon":-149.678561,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

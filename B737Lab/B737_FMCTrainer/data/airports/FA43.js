@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA43"]={"id":"FA43","name":"DOG ISLAND","lat":29.808544,"lon":-84.595736,"elevation":4,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

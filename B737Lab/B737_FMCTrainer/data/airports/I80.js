@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I80"]={"id":"I80","name":"NOBLESVILLE","lat":40.003506,"lon":-85.964519,"elevation":830,"region":"K5","runways":[{"id":"RW09","lat":40.003533,"lon":-85.96925,"length":3580,"course":92.4},{"id":"RW27","lat":40.003472,"lon":-85.958519,"length":3580,"course":272.4}],"procedures":{"D":{},"E":{},"F":{}}};

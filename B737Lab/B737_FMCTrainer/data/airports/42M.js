@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42M"]={"id":"42M","name":"THAYER MEML","lat":36.522283,"lon":-91.571986,"elevation":808,"region":"K3","runways":[{"id":"RW09","lat":36.522847,"lon":-91.5791,"length":4200,"course":92.6},{"id":"RW27","lat":36.521722,"lon":-91.564875,"length":4200,"course":272.6}],"procedures":{"D":{},"E":{},"F":{}}};

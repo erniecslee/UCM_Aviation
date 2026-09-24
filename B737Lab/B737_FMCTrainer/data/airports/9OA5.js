@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OA5"]={"id":"9OA5","name":"BUCKEYE","lat":39.961703,"lon":-82.540658,"elevation":914,"region":"K5","runways":[{"id":"RW01","lat":39.957917,"lon":-82.540894,"length":2764,"course":9.0},{"id":"RW19","lat":39.965497,"lon":-82.540422,"length":2764,"course":189.0}],"procedures":{"D":{},"E":{},"F":{}}};

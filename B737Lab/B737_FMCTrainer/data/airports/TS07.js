@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS07"]={"id":"TS07","name":"DRY CREEK","lat":29.986217,"lon":-95.685664,"elevation":152,"region":"K4","runways":[{"id":"RW18","lat":29.989892,"lon":-95.685758,"length":3580,"course":175.0},{"id":"RW36","lat":29.982933,"lon":-95.685578,"length":3580,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

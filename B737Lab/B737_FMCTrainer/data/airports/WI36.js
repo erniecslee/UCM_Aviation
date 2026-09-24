@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI36"]={"id":"WI36","name":"DOLHUN FLD","lat":45.826619,"lon":-89.620144,"elevation":1625,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

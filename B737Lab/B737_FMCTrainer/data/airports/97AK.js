@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97AK"]={"id":"97AK","name":"HIGH RIDGE ASSOCIATION","lat":61.664,"lon":-149.2536,"elevation":720,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

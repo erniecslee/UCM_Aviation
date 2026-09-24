@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KGUS"]={"id":"KGUS","name":"GRISSOM ARB","lat":40.648092,"lon":-86.152119,"elevation":811,"region":"K5","runways":[{"id":"RW05","lat":40.635833,"lon":-86.167878,"length":12501,"course":46.0},{"id":"RW23","lat":40.66035,"lon":-86.136361,"length":12501,"course":226.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VA8"]={"id":"3VA8","name":"GARNER","lat":36.856261,"lon":-76.682178,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

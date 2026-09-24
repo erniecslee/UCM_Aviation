@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7M8"]={"id":"7M8","name":"RECTOR","lat":36.250064,"lon":-90.319544,"elevation":281,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

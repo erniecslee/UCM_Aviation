@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6ME6"]={"id":"6ME6","name":"ABBOTTS","lat":44.353333,"lon":-70.395,"elevation":730,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

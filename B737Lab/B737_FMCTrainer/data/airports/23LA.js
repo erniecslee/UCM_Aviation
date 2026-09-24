@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23LA"]={"id":"23LA","name":"WARNER-THUNDER HILL","lat":30.630819,"lon":-90.080192,"elevation":185,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9Z9"]={"id":"9Z9","name":"LAWING","lat":60.411886,"lon":-149.369342,"elevation":484,"region":"PA","runways":[{"id":"RW15","lat":60.415103,"lon":-149.369611,"length":2355,"course":153.0},{"id":"RW33","lat":60.408667,"lon":-149.369072,"length":2355,"course":333.0}],"procedures":{"D":{},"E":{},"F":{}}};

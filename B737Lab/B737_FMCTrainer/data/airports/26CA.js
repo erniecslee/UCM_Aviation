@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26CA"]={"id":"26CA","name":"BOECKMANN RANCH","lat":38.426856,"lon":-121.171614,"elevation":100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

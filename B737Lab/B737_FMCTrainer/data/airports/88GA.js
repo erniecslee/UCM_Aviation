@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88GA"]={"id":"88GA","name":"EPIC FLD","lat":32.752353,"lon":-84.801828,"elevation":774,"region":"K7","runways":[{"id":"RW02","lat":32.749678,"lon":-84.802575,"length":2000,"course":18.5},{"id":"RW20","lat":32.755028,"lon":-84.801083,"length":2000,"course":198.5}],"procedures":{"D":{},"E":{},"F":{}}};

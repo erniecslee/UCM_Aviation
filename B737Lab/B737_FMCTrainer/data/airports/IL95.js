@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL95"]={"id":"IL95","name":"CORN FLD","lat":41.223086,"lon":-88.145333,"elevation":585,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

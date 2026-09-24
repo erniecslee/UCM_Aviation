@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WI2"]={"id":"0WI2","name":"DOERING FARMS AIRFIELD","lat":43.201394,"lon":-88.333428,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

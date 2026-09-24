@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WS2"]={"id":"2WS2","name":"CONNORS LAKE LANDING","lat":45.913686,"lon":-92.293239,"elevation":1000,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

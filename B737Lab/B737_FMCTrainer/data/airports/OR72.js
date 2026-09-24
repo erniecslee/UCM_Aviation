@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR72"]={"id":"OR72","name":"FLY JLA","lat":45.442064,"lon":-122.323144,"elevation":620,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

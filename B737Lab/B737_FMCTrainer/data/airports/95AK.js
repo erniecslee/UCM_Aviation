@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95AK"]={"id":"95AK","name":"BROWN'S HOMESTEAD","lat":61.472619,"lon":-149.982469,"elevation":140,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

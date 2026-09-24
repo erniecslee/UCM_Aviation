@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NR88"]={"id":"NR88","name":"TOBACCO ROAD","lat":35.280833,"lon":-79.387778,"elevation":478,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN31"]={"id":"MN31","name":"L & M AERODROME","lat":45.062183,"lon":-94.579158,"elevation":1205,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

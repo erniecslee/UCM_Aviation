@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6VA4"]={"id":"6VA4","name":"SUMMIT","lat":37.284856,"lon":-80.069764,"elevation":1030,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

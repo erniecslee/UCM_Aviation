@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE50"]={"id":"TE50","name":"HIROK","lat":32.173206,"lon":-96.966111,"elevation":700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

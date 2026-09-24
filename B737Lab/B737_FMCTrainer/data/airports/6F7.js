@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6F7"]={"id":"6F7","name":"MANNING FLD","lat":32.827,"lon":-94.354528,"elevation":320,"region":"K4","runways":[{"id":"RW07","lat":32.825414,"lon":-94.360094,"length":3600,"course":66.0},{"id":"RW25","lat":32.828569,"lon":-94.348986,"length":3600,"course":246.0}],"procedures":{"D":{},"E":{},"F":{}}};

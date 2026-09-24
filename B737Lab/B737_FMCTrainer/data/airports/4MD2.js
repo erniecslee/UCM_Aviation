@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4MD2"]={"id":"4MD2","name":"WARD'S","lat":39.429817,"lon":-79.453936,"elevation":2500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24XA"]={"id":"24XA","name":"CROSS-B","lat":29.320969,"lon":-98.370294,"elevation":530,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

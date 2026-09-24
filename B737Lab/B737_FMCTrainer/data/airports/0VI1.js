@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0VI1"]={"id":"0VI1","name":"BROOKLYN","lat":37.688889,"lon":-77.101389,"elevation":145,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

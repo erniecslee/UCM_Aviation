@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AR5"]={"id":"1AR5","name":"CHEROKEE STRIP","lat":36.299444,"lon":-94.584722,"elevation":1194,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

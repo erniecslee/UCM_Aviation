@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19PN"]={"id":"19PN","name":"WALNUT GROVE","lat":40.093044,"lon":-76.493139,"elevation":366,"region":"K6","runways":[{"id":"RW13","lat":40.093044,"lon":-76.493139,"length":1400,"course":109.8}],"procedures":{"D":{},"E":{},"F":{}}};

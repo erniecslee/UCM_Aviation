@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92CA"]={"id":"92CA","name":"WESTLAKE FARMS","lat":36.120786,"lon":-119.888467,"elevation":192,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

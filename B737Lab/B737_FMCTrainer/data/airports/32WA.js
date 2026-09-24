@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32WA"]={"id":"32WA","name":"ROSS","lat":47.763314,"lon":-120.151817,"elevation":920,"region":"K1","runways":[{"id":"RW07","lat":47.762736,"lon":-120.154514,"length":1392,"course":57.9},{"id":"RW25","lat":47.763889,"lon":-120.149119,"length":1392,"course":237.9}],"procedures":{"D":{},"E":{},"F":{}}};

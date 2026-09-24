@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS16"]={"id":"LS16","name":"CIRCLE G","lat":32.011269,"lon":-91.755128,"elevation":75,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

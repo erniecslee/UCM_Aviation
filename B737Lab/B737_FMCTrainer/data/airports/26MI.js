@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26MI"]={"id":"26MI","name":"VAN STRIEN","lat":42.923919,"lon":-85.378072,"elevation":624,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

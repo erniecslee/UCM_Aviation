@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO18"]={"id":"CO18","name":"CHAPARRAL","lat":39.463972,"lon":-104.257889,"elevation":5930,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

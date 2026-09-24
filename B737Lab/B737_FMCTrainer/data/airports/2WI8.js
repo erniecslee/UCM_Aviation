@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WI8"]={"id":"2WI8","name":"DAVIES","lat":43.597497,"lon":-87.778978,"elevation":645,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

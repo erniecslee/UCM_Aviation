@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5AZ7"]={"id":"5AZ7","name":"CARRANZA FARM AIRSTRIP","lat":32.847222,"lon":-111.95,"elevation":1300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

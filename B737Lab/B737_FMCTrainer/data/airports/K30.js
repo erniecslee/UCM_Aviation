@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K30"]={"id":"K30","name":"HEBER AIRPARK","lat":43.183408,"lon":-73.633172,"elevation":230,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

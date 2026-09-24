@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MD8"]={"id":"3MD8","name":"POKETY","lat":38.612342,"lon":-76.171056,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

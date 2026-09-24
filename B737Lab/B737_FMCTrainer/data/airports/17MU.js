@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17MU"]={"id":"17MU","name":"B-B AIRFIELD","lat":39.682792,"lon":-94.372097,"elevation":1045,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

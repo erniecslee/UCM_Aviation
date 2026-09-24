@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC08"]={"id":"NC08","name":"TUSQUITTEE LANDING","lat":35.085369,"lon":-83.736283,"elevation":2000,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

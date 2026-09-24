@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44ID"]={"id":"44ID","name":"BOULDER CREEK AIRSTRIP","lat":44.736942,"lon":-116.074158,"elevation":4950,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

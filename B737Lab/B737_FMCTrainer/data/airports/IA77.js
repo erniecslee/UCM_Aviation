@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA77"]={"id":"IA77","name":"BASCOM FLD","lat":41.787258,"lon":-93.512378,"elevation":969,"region":"K3","runways":[{"id":"RW18","lat":41.790414,"lon":-93.512378,"length":2300,"course":179.8},{"id":"RW36","lat":41.784103,"lon":-93.512378,"length":2300,"course":359.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL13"]={"id":"LL13","name":"WALTER STOREY FIELD","lat":38.048611,"lon":-88.300556,"elevation":460,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

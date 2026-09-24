@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IL4"]={"id":"6IL4","name":"FOXFIELD AERODROME","lat":42.1603,"lon":-89.886233,"elevation":895,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

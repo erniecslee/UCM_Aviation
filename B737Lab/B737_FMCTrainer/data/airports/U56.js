@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U56"]={"id":"U56","name":"RIGBY","lat":43.642725,"lon":-111.929164,"elevation":4845,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

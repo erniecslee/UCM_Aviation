@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA81"]={"id":"PA81","name":"5 LAKES","lat":39.912778,"lon":-77.532778,"elevation":819,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

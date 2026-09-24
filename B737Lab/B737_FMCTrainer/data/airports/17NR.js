@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17NR"]={"id":"17NR","name":"ZOMBIE AIR FORCE","lat":34.783769,"lon":-78.576956,"elevation":86,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

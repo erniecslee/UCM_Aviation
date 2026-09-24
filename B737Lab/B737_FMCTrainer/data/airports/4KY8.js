@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KY8"]={"id":"4KY8","name":"SARGENTS FLD","lat":38.029583,"lon":-83.240556,"elevation":1050,"region":"K5","runways":[{"id":"RW12","lat":38.030278,"lon":-83.2425,"length":1229,"course":121.1},{"id":"RW30","lat":38.028889,"lon":-83.238611,"length":1229,"course":301.1}],"procedures":{"D":{},"E":{},"F":{}}};

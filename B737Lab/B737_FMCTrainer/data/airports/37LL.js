@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37LL"]={"id":"37LL","name":"DALE CURTEN FARM","lat":38.047831,"lon":-89.997056,"elevation":615,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

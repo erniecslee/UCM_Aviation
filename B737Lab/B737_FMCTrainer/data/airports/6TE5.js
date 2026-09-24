@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TE5"]={"id":"6TE5","name":"KUBECKA FLYING SERVICE INC","lat":28.980817,"lon":-96.621919,"elevation":65,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

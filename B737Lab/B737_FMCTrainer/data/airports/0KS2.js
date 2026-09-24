@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KS2"]={"id":"0KS2","name":"LEVERTON","lat":37.393908,"lon":-97.151486,"elevation":1251,"region":"K3","runways":[{"id":"RW17","lat":37.396653,"lon":-97.1516,"length":2000,"course":175.3},{"id":"RW35","lat":37.391161,"lon":-97.151369,"length":2000,"course":355.3}],"procedures":{"D":{},"E":{},"F":{}}};

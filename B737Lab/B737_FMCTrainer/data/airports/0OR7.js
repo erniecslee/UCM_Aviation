@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OR7"]={"id":"0OR7","name":"MARR FLD","lat":44.854008,"lon":-123.263711,"elevation":275,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7M6"]={"id":"7M6","name":"PARIS MUNI","lat":35.299117,"lon":-93.681614,"elevation":430,"region":"K4","runways":[{"id":"RW03","lat":35.296219,"lon":-93.684467,"length":2710,"course":34.0},{"id":"RW21","lat":35.302011,"lon":-93.678761,"length":2710,"course":214.0}],"procedures":{"D":{},"E":{},"F":{}}};

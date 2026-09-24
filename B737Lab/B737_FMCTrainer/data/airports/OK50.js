@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK50"]={"id":"OK50","name":"FLYSOONER FLD","lat":35.751667,"lon":-96.15375,"elevation":750,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

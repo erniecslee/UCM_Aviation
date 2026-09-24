@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46NY"]={"id":"46NY","name":"SAVANNAH","lat":43.0188,"lon":-76.761,"elevation":465,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

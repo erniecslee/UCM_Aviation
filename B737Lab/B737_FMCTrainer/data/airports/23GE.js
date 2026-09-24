@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23GE"]={"id":"23GE","name":"LT LANDING","lat":32.383056,"lon":-83.1,"elevation":286,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

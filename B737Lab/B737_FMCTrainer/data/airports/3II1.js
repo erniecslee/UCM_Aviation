@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3II1"]={"id":"3II1","name":"SHENANDOAH FLYING FLD","lat":39.416714,"lon":-86.635836,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

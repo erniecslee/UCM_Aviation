@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TE2"]={"id":"2TE2","name":"FLYING OAKS","lat":32.829267,"lon":-97.534944,"elevation":720,"region":"K4","runways":[{"id":"RW15","lat":32.832928,"lon":-97.536342,"length":2800,"course":155.1},{"id":"RW33","lat":32.825606,"lon":-97.533544,"length":2800,"course":335.1}],"procedures":{"D":{},"E":{},"F":{}}};

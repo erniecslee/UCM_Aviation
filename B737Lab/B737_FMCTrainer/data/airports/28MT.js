@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28MT"]={"id":"28MT","name":"CAIN RANCH","lat":46.953556,"lon":-112.748083,"elevation":4480,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

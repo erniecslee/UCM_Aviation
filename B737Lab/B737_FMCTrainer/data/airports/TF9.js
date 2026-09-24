@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TF9"]={"id":"TF9","name":"TAYLOR FLAT","lat":40.889656,"lon":-109.167528,"elevation":5638,"region":"K2","runways":[{"id":"RW08","lat":40.88945,"lon":-109.172042,"length":2500,"course":76.8},{"id":"RW26","lat":40.889864,"lon":-109.163017,"length":2500,"course":256.9}],"procedures":{"D":{},"E":{},"F":{}}};

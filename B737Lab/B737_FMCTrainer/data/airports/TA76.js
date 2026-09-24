@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA76"]={"id":"TA76","name":"FLYING 7H RANCH","lat":31.430972,"lon":-98.466389,"elevation":1570,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

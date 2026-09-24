@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2M5"]={"id":"2M5","name":"STOCKTON LAKE","lat":37.650039,"lon":-93.758542,"elevation":867,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

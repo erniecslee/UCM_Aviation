@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78I"]={"id":"78I","name":"PAM'S PLACE","lat":39.501647,"lon":-86.688503,"elevation":791,"region":"K5","runways":[{"id":"RW18","lat":39.505889,"lon":-86.684667,"length":1629,"course":182.8},{"id":"RW36","lat":39.501417,"lon":-86.68475,"length":1629,"course":2.8}],"procedures":{"D":{},"E":{},"F":{}}};

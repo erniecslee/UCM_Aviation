@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS24"]={"id":"XS24","name":"CHERRY SPRAYING SERVICE","lat":29.829672,"lon":-97.099153,"elevation":370,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

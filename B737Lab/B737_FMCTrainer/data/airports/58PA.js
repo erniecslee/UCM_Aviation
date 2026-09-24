@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58PA"]={"id":"58PA","name":"PAX-TERRA CAELUM","lat":39.859967,"lon":-78.9877,"elevation":2335,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

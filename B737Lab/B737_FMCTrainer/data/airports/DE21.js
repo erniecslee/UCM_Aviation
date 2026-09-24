@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE21"]={"id":"DE21","name":"WEST PVT","lat":38.517336,"lon":-75.165464,"elevation":21,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

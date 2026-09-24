@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7M3"]={"id":"7M3","name":"BEARCE","lat":34.529081,"lon":-93.529425,"elevation":644,"region":"K4","runways":[{"id":"RW08","lat":34.528186,"lon":-93.535975,"length":4000,"course":75.0},{"id":"RW26","lat":34.529894,"lon":-93.523456,"length":4000,"course":255.0}],"procedures":{"D":{},"E":{},"F":{}}};

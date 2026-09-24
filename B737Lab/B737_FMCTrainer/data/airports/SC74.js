@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC74"]={"id":"SC74","name":"MARSH POINT","lat":32.461858,"lon":-80.600939,"elevation":12,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

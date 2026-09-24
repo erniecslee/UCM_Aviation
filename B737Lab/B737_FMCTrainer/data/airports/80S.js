@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80S"]={"id":"80S","name":"LAVINA","lat":46.307278,"lon":-108.954806,"elevation":3512,"region":"K1","runways":[{"id":"RW07","lat":46.307256,"lon":-108.961664,"length":3460,"course":75.0},{"id":"RW25","lat":46.307281,"lon":-108.947969,"length":3460,"course":255.0}],"procedures":{"D":{},"E":{},"F":{}}};

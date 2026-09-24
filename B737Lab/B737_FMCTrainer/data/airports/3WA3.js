@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WA3"]={"id":"3WA3","name":"ANGEL PARK","lat":46.648475,"lon":-118.583044,"elevation":884,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

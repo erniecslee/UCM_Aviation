@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PN6"]={"id":"0PN6","name":"MEMMI","lat":40.168969,"lon":-77.992503,"elevation":1138,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA27"]={"id":"IA27","name":"ANTIQUE AIRFIELD","lat":40.977792,"lon":-92.587689,"elevation":890,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

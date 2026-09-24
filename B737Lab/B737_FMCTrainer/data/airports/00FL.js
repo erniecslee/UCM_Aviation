@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00FL"]={"id":"00FL","name":"RIVER OAK","lat":27.230881,"lon":-80.969231,"elevation":35,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA30"]={"id":"VA30","name":"BERRYVALE","lat":38.526792,"lon":-77.956386,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

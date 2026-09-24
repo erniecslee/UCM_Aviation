@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS03"]={"id":"PS03","name":"ELEPHANT PATH","lat":40.407786,"lon":-75.232472,"elevation":370,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

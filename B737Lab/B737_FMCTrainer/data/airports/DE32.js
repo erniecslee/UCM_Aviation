@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE32"]={"id":"DE32","name":"BELFAIR","lat":38.975,"lon":-75.616667,"elevation":64,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

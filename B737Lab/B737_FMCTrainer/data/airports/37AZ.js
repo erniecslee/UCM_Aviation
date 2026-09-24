@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37AZ"]={"id":"37AZ","name":"SARITA","lat":32.935617,"lon":-111.484567,"elevation":1464,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

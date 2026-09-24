@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE83"]={"id":"TE83","name":"WESTWIND RANCH","lat":28.9208,"lon":-99.75615,"elevation":686,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

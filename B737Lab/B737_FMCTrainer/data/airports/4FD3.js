@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FD3"]={"id":"4FD3","name":"THE WRIGHT PLACE","lat":25.515253,"lon":-80.5135,"elevation":13,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

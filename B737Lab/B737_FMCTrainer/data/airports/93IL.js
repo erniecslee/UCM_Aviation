@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93IL"]={"id":"93IL","name":"SCNEIDER RLA","lat":40.910178,"lon":-88.867486,"elevation":661,"region":"K5","runways":[{"id":"RW18","lat":40.912783,"lon":-88.867542,"length":1900,"course":182.3},{"id":"RW36","lat":40.907569,"lon":-88.867431,"length":1900,"course":2.3}],"procedures":{"D":{},"E":{},"F":{}}};

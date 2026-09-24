@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16FL"]={"id":"16FL","name":"J-22 RANCH","lat":30.725631,"lon":-87.200764,"elevation":200,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

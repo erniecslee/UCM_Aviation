@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN5"]={"id":"8TN5","name":"NOBUZZN","lat":36.486025,"lon":-86.911,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

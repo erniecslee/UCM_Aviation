@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18V"]={"id":"18V","name":"PLATTE VALLEY AIRPARK","lat":40.102722,"lon":-104.701194,"elevation":4965,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

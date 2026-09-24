@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS61"]={"id":"PS61","name":"TIDIOUTE","lat":41.690894,"lon":-79.365881,"elevation":1100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

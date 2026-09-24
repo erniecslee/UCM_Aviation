@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AL5"]={"id":"7AL5","name":"LIBERTY FLD","lat":31.289903,"lon":-85.540478,"elevation":363,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

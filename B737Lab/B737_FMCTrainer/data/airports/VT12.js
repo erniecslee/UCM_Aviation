@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT12"]={"id":"VT12","name":"E A DEEDS FARM","lat":44.291164,"lon":-73.283181,"elevation":127,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

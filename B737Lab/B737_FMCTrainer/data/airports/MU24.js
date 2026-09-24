@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU24"]={"id":"MU24","name":"BRASS LANTERN AIRPARK","lat":36.571731,"lon":-93.036844,"elevation":812,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

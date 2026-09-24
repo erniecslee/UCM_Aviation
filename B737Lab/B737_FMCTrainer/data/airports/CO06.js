@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO06"]={"id":"CO06","name":"WIRTH FLD","lat":40.513611,"lon":-103.911944,"elevation":4881,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

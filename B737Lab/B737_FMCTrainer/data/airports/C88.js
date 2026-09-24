@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C88"]={"id":"C88","name":"TKACZYK FLD","lat":43.139092,"lon":-84.222503,"elevation":727,"region":"K5","runways":[{"id":"RW01","lat":43.137106,"lon":-84.222472,"length":2247,"course":6.2},{"id":"RW19","lat":43.139936,"lon":-84.222514,"length":2247,"course":186.2}],"procedures":{"D":{},"E":{},"F":{}}};

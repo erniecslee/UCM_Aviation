@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79VG"]={"id":"79VG","name":"PERKEY","lat":37.665278,"lon":-79.812417,"elevation":1200,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

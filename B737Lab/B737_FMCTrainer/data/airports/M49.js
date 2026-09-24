@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M49"]={"id":"M49","name":"JOLLY FISHERMAN","lat":47.143014,"lon":-95.528919,"elevation":1499,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

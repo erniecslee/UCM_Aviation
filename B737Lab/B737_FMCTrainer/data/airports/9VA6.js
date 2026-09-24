@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9VA6"]={"id":"9VA6","name":"SAUNDERS FLD","lat":37.5814,"lon":-77.918772,"elevation":321,"region":"K6","runways":[{"id":"RW18","lat":37.584397,"lon":-77.9183,"length":2200,"course":197.1},{"id":"RW36","lat":37.5784,"lon":-77.919242,"length":2200,"course":17.1}],"procedures":{"D":{},"E":{},"F":{}}};

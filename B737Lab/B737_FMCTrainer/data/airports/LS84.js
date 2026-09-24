@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS84"]={"id":"LS84","name":"MATIDORA","lat":29.449225,"lon":-89.623708,"elevation":1,"region":"K4","runways":[{"id":"RW04","lat":29.4478,"lon":-89.626422,"length":2015,"course":60.9},{"id":"RW22","lat":29.450647,"lon":-89.620992,"length":2015,"course":240.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ21"]={"id":"AZ21","name":"FOUR PILLARS","lat":31.745833,"lon":-110.247778,"elevation":4100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

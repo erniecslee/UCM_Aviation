@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK40"]={"id":"OK40","name":"DOUBLE H RANCH","lat":34.728253,"lon":-97.900578,"elevation":1321,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

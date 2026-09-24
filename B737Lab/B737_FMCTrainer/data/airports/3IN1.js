@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IN1"]={"id":"3IN1","name":"WEIMER FLD","lat":39.819267,"lon":-85.569017,"elevation":990,"region":"K5","runways":[{"id":"RW18","lat":39.822833,"lon":-85.569044,"length":2600,"course":185.0},{"id":"RW36","lat":39.815697,"lon":-85.568986,"length":2600,"course":5.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IN7"]={"id":"7IN7","name":"GARY JOHNSON FLD","lat":40.235833,"lon":-87.350833,"elevation":570,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

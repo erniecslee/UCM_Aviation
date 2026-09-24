@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IL3"]={"id":"8IL3","name":"ALMS RLA","lat":39.579775,"lon":-88.623525,"elevation":668,"region":"K5","runways":[{"id":"RW18","lat":39.582717,"lon":-88.623578,"length":2144,"course":182.4},{"id":"RW36","lat":39.576833,"lon":-88.623472,"length":2144,"course":2.4}],"procedures":{"D":{},"E":{},"F":{}}};

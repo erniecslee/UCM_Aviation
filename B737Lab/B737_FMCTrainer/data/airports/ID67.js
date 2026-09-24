@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID67"]={"id":"ID67","name":"SANDS","lat":43.860681,"lon":-116.262708,"elevation":4310,"region":"K1","runways":[{"id":"RW18","lat":43.862083,"lon":-116.262611,"length":1024,"course":170.2},{"id":"RW36","lat":43.859278,"lon":-116.262806,"length":1024,"course":350.2}],"procedures":{"D":{},"E":{},"F":{}}};

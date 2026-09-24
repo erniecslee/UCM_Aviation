@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92SC"]={"id":"92SC","name":"MACKS PATCH/DERRICK FLD","lat":33.52135,"lon":-81.578361,"elevation":400,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

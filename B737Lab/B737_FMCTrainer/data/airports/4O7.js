@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4O7"]={"id":"4O7","name":"DECKER FLD","lat":36.372167,"lon":-98.178444,"elevation":1330,"region":"K4","runways":[{"id":"RW03","lat":36.369569,"lon":-98.1804,"length":2215,"course":24.0},{"id":"RW21","lat":36.374772,"lon":-98.176492,"length":2215,"course":204.0}],"procedures":{"D":{},"E":{},"F":{}}};

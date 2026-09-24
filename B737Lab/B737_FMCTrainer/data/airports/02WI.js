@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02WI"]={"id":"02WI","name":"BEER","lat":45.031911,"lon":-92.655756,"elevation":920,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

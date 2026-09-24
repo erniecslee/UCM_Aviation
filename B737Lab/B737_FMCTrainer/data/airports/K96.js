@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K96"]={"id":"K96","name":"TUSCOLA","lat":39.781197,"lon":-88.306447,"elevation":665,"region":"K5","runways":[{"id":"RW09","lat":39.781253,"lon":-88.311178,"length":2660,"course":90.9}],"procedures":{"D":{},"E":{},"F":{}}};

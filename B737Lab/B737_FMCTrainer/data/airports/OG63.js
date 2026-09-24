@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG63"]={"id":"OG63","name":"GILBERT","lat":45.648889,"lon":-123.039444,"elevation":211,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

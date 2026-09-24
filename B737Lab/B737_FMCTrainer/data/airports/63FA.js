@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63FA"]={"id":"63FA","name":"SULLIVAN FLD","lat":29.734167,"lon":-82.565278,"elevation":88,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

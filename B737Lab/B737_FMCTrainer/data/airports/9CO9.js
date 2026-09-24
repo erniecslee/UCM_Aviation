@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO9"]={"id":"9CO9","name":"PHYLCON RANCH","lat":39.129144,"lon":-108.142297,"elevation":6585,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

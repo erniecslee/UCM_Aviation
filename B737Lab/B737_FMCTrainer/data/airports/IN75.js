@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN75"]={"id":"IN75","name":"BLAIRPORT","lat":41.737697,"lon":-85.713236,"elevation":795,"region":"K5","runways":[{"id":"RW18","lat":41.739722,"lon":-85.713236,"length":1475,"course":185.6},{"id":"RW36","lat":41.735672,"lon":-85.713233,"length":1475,"course":5.6}],"procedures":{"D":{},"E":{},"F":{}}};

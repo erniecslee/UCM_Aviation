@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA63"]={"id":"WA63","name":"PLEASANT FARM","lat":45.562342,"lon":-122.256089,"elevation":540,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

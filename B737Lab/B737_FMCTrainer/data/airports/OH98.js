@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH98"]={"id":"OH98","name":"BERG FLD","lat":41.0325,"lon":-83.688056,"elevation":783,"region":"K5","runways":[{"id":"RW01","lat":41.029775,"lon":-83.688497,"length":2000,"course":13.9},{"id":"RW19","lat":41.035225,"lon":-83.687614,"length":2000,"course":193.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK62"]={"id":"AK62","name":"NAUKATI BAY","lat":55.849642,"lon":-133.227828,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

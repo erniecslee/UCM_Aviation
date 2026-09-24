@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN45"]={"id":"MN45","name":"JENNRICH FLD","lat":44.570278,"lon":-93.132161,"elevation":951,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

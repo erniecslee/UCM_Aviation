@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CL9"]={"id":"5CL9","name":"TABLE MOUNTAIN FLD","lat":37.141333,"lon":-119.507917,"elevation":1280,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

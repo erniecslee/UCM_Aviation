@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26A"]={"id":"26A","name":"ASHLAND/LINEVILLE","lat":33.284197,"lon":-85.808967,"elevation":1065,"region":"K7","runways":[{"id":"RW27","lat":33.284197,"lon":-85.802383,"length":4023,"course":271.0}],"procedures":{"D":{},"E":{},"F":{}}};

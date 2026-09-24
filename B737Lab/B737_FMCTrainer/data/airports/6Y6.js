@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6Y6"]={"id":"6Y6","name":"ST HELEN","lat":44.368003,"lon":-84.402156,"elevation":1198,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

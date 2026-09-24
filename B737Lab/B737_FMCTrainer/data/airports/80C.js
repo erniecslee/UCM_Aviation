@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80C"]={"id":"80C","name":"LONE HICKORY","lat":36.060514,"lon":-80.6901,"elevation":1015,"region":"K7","runways":[{"id":"RW16","lat":36.062889,"lon":-80.6918,"length":2000,"course":156.0},{"id":"RW34","lat":36.058139,"lon":-80.6884,"length":2000,"course":336.0}],"procedures":{"D":{},"E":{},"F":{}}};

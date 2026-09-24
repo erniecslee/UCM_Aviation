@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY21"]={"id":"MY21","name":"KOLLAR'S SHOREVIEW MARINE","lat":45.0333,"lon":-93.125222,"elevation":886,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

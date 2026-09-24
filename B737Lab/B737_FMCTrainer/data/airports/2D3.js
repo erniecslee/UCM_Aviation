@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2D3"]={"id":"2D3","name":"GOODING LAKE","lat":61.627719,"lon":-149.239069,"elevation":500,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

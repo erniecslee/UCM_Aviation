@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3ND6"]={"id":"3ND6","name":"DJR","lat":47.242069,"lon":-99.897625,"elevation":1945,"region":"K3","runways":[{"id":"RW09","lat":47.242222,"lon":-99.899417,"length":897,"course":92.3},{"id":"RW27","lat":47.241917,"lon":-99.895833,"length":897,"course":272.3}],"procedures":{"D":{},"E":{},"F":{}}};

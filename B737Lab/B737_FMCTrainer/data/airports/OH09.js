@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH09"]={"id":"OH09","name":"ONE SHOT","lat":40.315067,"lon":-82.2437,"elevation":1069,"region":"K5","runways":[{"id":"RW11","lat":40.315375,"lon":-82.245453,"length":1003,"course":110.8},{"id":"RW29","lat":40.314758,"lon":-82.24195,"length":1003,"course":290.8}],"procedures":{"D":{},"E":{},"F":{}}};

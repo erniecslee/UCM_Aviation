@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4Z5"]={"id":"4Z5","name":"HORSFELD","lat":62.007233,"lon":-141.182114,"elevation":3620,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

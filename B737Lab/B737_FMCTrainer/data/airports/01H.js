@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01H"]={"id":"01H","name":"LAKE MAXINKUCKEE","lat":41.206111,"lon":-86.404444,"elevation":733,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

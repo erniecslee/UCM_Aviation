@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54II"]={"id":"54II","name":"CALDWELL FLD","lat":40.624483,"lon":-86.155272,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

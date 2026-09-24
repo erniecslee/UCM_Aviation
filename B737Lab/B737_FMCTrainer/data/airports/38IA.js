@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38IA"]={"id":"38IA","name":"GARYS","lat":43.425675,"lon":-94.658717,"elevation":1289,"region":"K3","runways":[{"id":"RW18","lat":43.430181,"lon":-94.658553,"length":3286,"course":180.5},{"id":"RW36","lat":43.421169,"lon":-94.658883,"length":3286,"course":0.5}],"procedures":{"D":{},"E":{},"F":{}}};

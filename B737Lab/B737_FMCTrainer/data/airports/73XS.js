@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73XS"]={"id":"73XS","name":"SECOND F","lat":31.786111,"lon":-101.534444,"elevation":2700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

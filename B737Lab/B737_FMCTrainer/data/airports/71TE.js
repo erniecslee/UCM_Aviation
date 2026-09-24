@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71TE"]={"id":"71TE","name":"MOURSUND RANCH","lat":30.377975,"lon":-98.376133,"elevation":1471,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

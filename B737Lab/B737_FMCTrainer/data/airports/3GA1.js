@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA1"]={"id":"3GA1","name":"PRATTSBURG","lat":32.728333,"lon":-84.356944,"elevation":554,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS08"]={"id":"TS08","name":"KUBECKA AVIATION","lat":29.083589,"lon":-96.50025,"elevation":74,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

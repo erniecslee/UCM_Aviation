@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92PA"]={"id":"92PA","name":"HAWKINS FLD","lat":40.704233,"lon":-79.952003,"elevation":1150,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

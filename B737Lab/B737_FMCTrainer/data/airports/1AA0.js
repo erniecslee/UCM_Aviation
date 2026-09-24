@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AA0"]={"id":"1AA0","name":"DALLAS BAY SKY PARK","lat":35.188106,"lon":-85.176578,"elevation":704,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

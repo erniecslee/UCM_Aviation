@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PPIT"]={"id":"PPIT","name":"NUNAPITCHUK","lat":60.906,"lon":-162.440583,"elevation":22,"region":"PP","runways":[{"id":"RW18","lat":60.909197,"lon":-162.438742,"length":2420,"course":178.0},{"id":"RW36","lat":60.902825,"lon":-162.442442,"length":2420,"course":358.0}],"procedures":{"D":{},"E":{},"F":{}}};

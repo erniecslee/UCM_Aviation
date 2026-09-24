@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL35"]={"id":"AL35","name":"MC GINNIS","lat":30.619636,"lon":-87.704433,"elevation":125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

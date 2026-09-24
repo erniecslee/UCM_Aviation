@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT63"]={"id":"MT63","name":"DOG LEG","lat":46.58445,"lon":-111.778533,"elevation":3983,"region":"K1","runways":[{"id":"RW16","lat":46.587072,"lon":-111.779481,"length":1970,"course":154.4},{"id":"RW34","lat":46.581831,"lon":-111.777589,"length":1970,"course":334.4}],"procedures":{"D":{},"E":{},"F":{}}};

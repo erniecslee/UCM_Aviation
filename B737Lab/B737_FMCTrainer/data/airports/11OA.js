@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11OA"]={"id":"11OA","name":"HIDE-A-WAY HILLS RESORT","lat":39.643122,"lon":-82.466822,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

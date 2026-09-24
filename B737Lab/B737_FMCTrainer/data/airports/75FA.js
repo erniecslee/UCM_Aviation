@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75FA"]={"id":"75FA","name":"BROWNVILLE","lat":27.295836,"lon":-81.883178,"elevation":66,"region":"K7","runways":[{"id":"RW01","lat":27.293111,"lon":-81.883197,"length":1981,"course":6.9},{"id":"RW19","lat":27.298561,"lon":-81.883156,"length":1981,"course":186.9}],"procedures":{"D":{},"E":{},"F":{}}};

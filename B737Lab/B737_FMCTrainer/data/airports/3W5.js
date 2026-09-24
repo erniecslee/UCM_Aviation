@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3W5"]={"id":"3W5","name":"MEARS FLD","lat":48.529839,"lon":-121.75825,"elevation":267,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

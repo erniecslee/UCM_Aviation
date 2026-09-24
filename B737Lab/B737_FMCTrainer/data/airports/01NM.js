@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01NM"]={"id":"01NM","name":"CHAMPION RANCH","lat":33.008611,"lon":-104.540278,"elevation":3630,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

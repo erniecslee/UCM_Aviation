@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AK0"]={"id":"4AK0","name":"NIKLASON LAKE","lat":61.6292,"lon":-149.271081,"elevation":380,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

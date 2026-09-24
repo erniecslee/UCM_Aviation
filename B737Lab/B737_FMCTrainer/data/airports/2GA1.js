@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2GA1"]={"id":"2GA1","name":"POOLE FARM","lat":33.680669,"lon":-83.852683,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

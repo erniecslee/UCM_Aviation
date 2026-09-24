@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80LA"]={"id":"80LA","name":"RED HAWK","lat":31.218042,"lon":-92.174111,"elevation":95,"region":"K4","runways":[{"id":"RW12","lat":31.219639,"lon":-92.177694,"length":2524,"course":117.7},{"id":"RW30","lat":31.216444,"lon":-92.170528,"length":2524,"course":297.7}],"procedures":{"D":{},"E":{},"F":{}}};

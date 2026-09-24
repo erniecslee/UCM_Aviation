@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AL3"]={"id":"8AL3","name":"FRICKS FLD","lat":34.141767,"lon":-86.088567,"elevation":1000,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

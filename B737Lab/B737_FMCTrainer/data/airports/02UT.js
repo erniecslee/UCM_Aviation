@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02UT"]={"id":"02UT","name":"LUCIN","lat":41.366314,"lon":-113.843064,"elevation":4412,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

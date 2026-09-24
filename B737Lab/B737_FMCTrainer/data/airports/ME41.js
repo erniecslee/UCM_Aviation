@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME41"]={"id":"ME41","name":"WITHERSPOONS LANDING STRIP","lat":44.152581,"lon":-68.876422,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

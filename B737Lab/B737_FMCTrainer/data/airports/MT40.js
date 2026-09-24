@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT40"]={"id":"MT40","name":"HUSKY RANCH","lat":45.787778,"lon":-108.727222,"elevation":3503,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

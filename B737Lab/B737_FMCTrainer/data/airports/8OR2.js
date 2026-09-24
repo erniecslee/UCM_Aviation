@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OR2"]={"id":"8OR2","name":"KINGSTON AIRPARK","lat":44.778456,"lon":-122.730086,"elevation":871,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

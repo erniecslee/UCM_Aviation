@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT16"]={"id":"CT16","name":"FETSKE","lat":41.375097,"lon":-72.374528,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

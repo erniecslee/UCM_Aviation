@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OR1"]={"id":"7OR1","name":"ARNOLD AIRSTRIP","lat":43.419322,"lon":-118.576036,"elevation":4140,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

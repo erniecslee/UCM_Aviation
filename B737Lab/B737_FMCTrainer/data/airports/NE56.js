@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE56"]={"id":"NE56","name":"WERNER","lat":41.341389,"lon":-96.395,"elevation":1157,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

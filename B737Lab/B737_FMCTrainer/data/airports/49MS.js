@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49MS"]={"id":"49MS","name":"GRAY FLD","lat":32.804478,"lon":-88.937961,"elevation":532,"region":"K7","runways":[{"id":"RW09","lat":32.804461,"lon":-88.942681,"length":2900,"course":92.3},{"id":"RW27","lat":32.804494,"lon":-88.933244,"length":2900,"course":272.3}],"procedures":{"D":{},"E":{},"F":{}}};

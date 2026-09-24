@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["RI07"]={"id":"RI07","name":"WING-OVER FARM","lat":41.578992,"lon":-71.141711,"elevation":113,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

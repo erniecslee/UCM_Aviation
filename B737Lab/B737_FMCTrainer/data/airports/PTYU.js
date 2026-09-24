@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PTYU"]={"id":"PTYU","name":"ULITHI","lat":10.019919,"lon":139.78975,"elevation":16,"region":"PT","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

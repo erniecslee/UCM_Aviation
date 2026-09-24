@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4B7"]={"id":"4B7","name":"SCHROON LAKE","lat":43.862581,"lon":-73.740547,"elevation":834,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

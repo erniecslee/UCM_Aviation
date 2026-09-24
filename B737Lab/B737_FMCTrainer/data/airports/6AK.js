@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK"]={"id":"6AK","name":"RAINY PASS LODGE","lat":62.084142,"lon":-152.717525,"elevation":1900,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

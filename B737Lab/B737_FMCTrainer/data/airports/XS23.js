@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS23"]={"id":"XS23","name":"PRIOUR RANCH","lat":30.126594,"lon":-99.471161,"elevation":2200,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

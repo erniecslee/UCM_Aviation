@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT05"]={"id":"TT05","name":"PATTON AIR PARK","lat":29.191361,"lon":-98.255125,"elevation":451,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

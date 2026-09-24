@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG39"]={"id":"VG39","name":"EARTH","lat":37.220833,"lon":-76.0075,"elevation":9,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

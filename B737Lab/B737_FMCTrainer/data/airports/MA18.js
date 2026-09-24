@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA18"]={"id":"MA18","name":"CMELAK FLD","lat":42.079108,"lon":-73.307181,"elevation":980,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

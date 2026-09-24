@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GA1"]={"id":"0GA1","name":"MUSTANG FLD","lat":34.477881,"lon":-82.897086,"elevation":693,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

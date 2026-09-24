@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AS31"]={"id":"AS31","name":"CARPENTER FLD","lat":35.840875,"lon":-90.526583,"elevation":239,"region":"K4","runways":[{"id":"RW18","lat":35.844006,"lon":-90.526617,"length":2280,"course":181.1},{"id":"RW36","lat":35.837744,"lon":-90.526547,"length":2280,"course":1.1}],"procedures":{"D":{},"E":{},"F":{}}};

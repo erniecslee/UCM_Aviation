@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5I6"]={"id":"5I6","name":"GALVESTON","lat":40.584206,"lon":-86.256942,"elevation":786,"region":"K5","runways":[{"id":"RW18","lat":40.590722,"lon":-86.256939,"length":2720,"course":182.0},{"id":"RW36","lat":40.584133,"lon":-86.256939,"length":2720,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

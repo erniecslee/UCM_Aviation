@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7KS"]={"id":"7KS","name":"COYOTE CREEK","lat":37.893847,"lon":-97.266292,"elevation":1456,"region":"K3","runways":[{"id":"RW02","lat":37.892528,"lon":-97.267139,"length":1078,"course":24.1},{"id":"RW20","lat":37.895167,"lon":-97.265444,"length":1078,"course":204.1}],"procedures":{"D":{},"E":{},"F":{}}};

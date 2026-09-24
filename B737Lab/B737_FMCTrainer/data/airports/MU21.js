@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU21"]={"id":"MU21","name":"MILLER FARM","lat":38.523658,"lon":-91.517664,"elevation":630,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

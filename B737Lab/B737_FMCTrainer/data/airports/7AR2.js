@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR2"]={"id":"7AR2","name":"VERSER'S LANDING","lat":35.5572,"lon":-92.1321,"elevation":610,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

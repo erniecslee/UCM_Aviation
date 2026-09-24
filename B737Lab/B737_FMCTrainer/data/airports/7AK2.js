@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AK2"]={"id":"7AK2","name":"SNETTISHAM","lat":58.134397,"lon":-133.729514,"elevation":14,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

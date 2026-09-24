@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12LA"]={"id":"12LA","name":"KML","lat":30.275917,"lon":-93.357417,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

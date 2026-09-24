@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS03"]={"id":"XS03","name":"HERBERT RANCH","lat":30.481303,"lon":-98.281131,"elevation":1140,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

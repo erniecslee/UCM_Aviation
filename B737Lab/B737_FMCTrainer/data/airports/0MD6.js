@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MD6"]={"id":"0MD6","name":"WALTERS","lat":39.381214,"lon":-77.105814,"elevation":750,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

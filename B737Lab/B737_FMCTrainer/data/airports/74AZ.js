@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74AZ"]={"id":"74AZ","name":"RANCHO SAN MARCOS","lat":31.619611,"lon":-110.047361,"elevation":4353,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

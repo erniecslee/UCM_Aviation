@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78AK"]={"id":"78AK","name":"C T S","lat":61.734944,"lon":-150.537514,"elevation":160,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

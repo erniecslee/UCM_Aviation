@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16NC"]={"id":"16NC","name":"LEE'S","lat":36.196111,"lon":-76.665278,"elevation":31,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

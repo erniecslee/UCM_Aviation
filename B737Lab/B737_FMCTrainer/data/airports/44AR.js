@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44AR"]={"id":"44AR","name":"HILLER","lat":34.46125,"lon":-92.576806,"elevation":356,"region":"K4","runways":[{"id":"RW02","lat":34.460278,"lon":-92.577222,"length":751,"course":19.6},{"id":"RW20","lat":34.462222,"lon":-92.576389,"length":751,"course":199.6}],"procedures":{"D":{},"E":{},"F":{}}};

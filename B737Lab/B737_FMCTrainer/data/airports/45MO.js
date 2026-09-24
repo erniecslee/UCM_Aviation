@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45MO"]={"id":"45MO","name":"WALDMEISTER FARM","lat":38.847272,"lon":-90.639011,"elevation":424,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

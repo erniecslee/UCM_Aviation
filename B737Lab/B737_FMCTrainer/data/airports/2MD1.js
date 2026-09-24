@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MD1"]={"id":"2MD1","name":"RECOMPENSE FARM","lat":38.308458,"lon":-76.724686,"elevation":30,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

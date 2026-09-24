@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6P3"]={"id":"6P3","name":"WAUNAKEE","lat":43.178731,"lon":-89.451283,"elevation":954,"region":"K5","runways":[{"id":"RW09","lat":43.178725,"lon":-89.45545,"length":2223,"course":90.0},{"id":"RW27","lat":43.178733,"lon":-89.448067,"length":2223,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

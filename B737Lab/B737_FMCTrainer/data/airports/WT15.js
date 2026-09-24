@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT15"]={"id":"WT15","name":"CUTTY FLD","lat":48.842461,"lon":-122.514314,"elevation":100,"region":"K1","runways":[{"id":"RW15","lat":48.842869,"lon":-122.514431,"length":304,"course":154.3},{"id":"RW33","lat":48.84205,"lon":-122.5142,"length":304,"course":334.3}],"procedures":{"D":{},"E":{},"F":{}}};

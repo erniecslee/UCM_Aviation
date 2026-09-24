@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FD1"]={"id":"2FD1","name":"HOBBY HILL","lat":28.975539,"lon":-81.918694,"elevation":95,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

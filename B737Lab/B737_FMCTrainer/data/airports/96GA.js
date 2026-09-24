@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["96GA"]={"id":"96GA","name":"3-M'S","lat":33.185833,"lon":-84.368056,"elevation":890,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

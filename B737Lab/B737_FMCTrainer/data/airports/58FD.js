@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58FD"]={"id":"58FD","name":"SOUTHERLY","lat":28.014167,"lon":-81.540556,"elevation":78,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

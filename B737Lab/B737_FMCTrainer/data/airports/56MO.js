@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56MO"]={"id":"56MO","name":"FLYING E FLD","lat":38.781556,"lon":-92.034239,"elevation":858,"region":"K3","runways":[{"id":"RW18","lat":38.784381,"lon":-92.034181,"length":2058,"course":181.6},{"id":"RW36","lat":38.778731,"lon":-92.034294,"length":2058,"course":1.6}],"procedures":{"D":{},"E":{},"F":{}}};

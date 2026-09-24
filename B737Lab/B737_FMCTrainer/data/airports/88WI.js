@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88WI"]={"id":"88WI","name":"NICOLET","lat":44.508328,"lon":-87.860653,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

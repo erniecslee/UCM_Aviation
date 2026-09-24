@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OH7"]={"id":"2OH7","name":"PFEIFFER FLD","lat":39.521494,"lon":-84.628186,"elevation":806,"region":"K5","runways":[{"id":"RW18","lat":39.523153,"lon":-84.628172,"length":1208,"course":186.5},{"id":"RW36","lat":39.519833,"lon":-84.6282,"length":1208,"course":6.5}],"procedures":{"D":{},"E":{},"F":{}}};

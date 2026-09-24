@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06IA"]={"id":"06IA","name":"RICH FLD","lat":41.840142,"lon":-91.834414,"elevation":880,"region":"K3","runways":[{"id":"RW09","lat":41.840125,"lon":-91.837533,"length":1700,"course":88.6},{"id":"RW27","lat":41.840158,"lon":-91.831294,"length":1700,"course":268.6}],"procedures":{"D":{},"E":{},"F":{}}};

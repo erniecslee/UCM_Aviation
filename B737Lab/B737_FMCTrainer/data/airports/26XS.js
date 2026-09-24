@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26XS"]={"id":"26XS","name":"TATUM RANCH","lat":30.114097,"lon":-98.461411,"elevation":1420,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

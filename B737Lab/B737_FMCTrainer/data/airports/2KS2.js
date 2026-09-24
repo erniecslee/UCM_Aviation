@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2KS2"]={"id":"2KS2","name":"STUBER FLYING RANCH","lat":37.655586,"lon":-96.290558,"elevation":1200,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

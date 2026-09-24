@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ46"]={"id":"AZ46","name":"MORGAN RANCH AIRSTRIP","lat":34.766411,"lon":-112.549061,"elevation":5025,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

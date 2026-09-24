@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA81"]={"id":"VA81","name":"CUB FLD","lat":37.945419,"lon":-77.899439,"elevation":396,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

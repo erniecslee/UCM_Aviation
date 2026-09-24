@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2U4"]={"id":"2U4","name":"ROCKFORD MUNI","lat":43.1895,"lon":-112.531806,"elevation":4465,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

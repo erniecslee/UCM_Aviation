@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA39"]={"id":"GA39","name":"HODGES AIRPARK","lat":31.984375,"lon":-81.246222,"elevation":10,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS70"]={"id":"XS70","name":"GLOVER","lat":33.140583,"lon":-95.022581,"elevation":400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

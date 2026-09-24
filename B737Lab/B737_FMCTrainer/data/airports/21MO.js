@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21MO"]={"id":"21MO","name":"BAKER FARM","lat":37.587675,"lon":-91.783336,"elevation":1362,"region":"K3","runways":[{"id":"RW02","lat":37.584664,"lon":-91.784531,"length":2300,"course":18.3},{"id":"RW20","lat":37.590689,"lon":-91.782147,"length":2300,"course":198.3}],"procedures":{"D":{},"E":{},"F":{}}};

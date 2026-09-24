@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC86"]={"id":"NC86","name":"ROCKING A FARM","lat":34.733611,"lon":-78.753056,"elevation":58,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

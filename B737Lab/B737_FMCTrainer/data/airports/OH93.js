@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH93"]={"id":"OH93","name":"DARBY","lat":40.140339,"lon":-83.390197,"elevation":972,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W56"]={"id":"W56","name":"FLY FOR FUN","lat":45.687281,"lon":-122.521853,"elevation":297,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

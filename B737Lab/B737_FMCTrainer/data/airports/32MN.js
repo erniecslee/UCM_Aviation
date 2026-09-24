@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32MN"]={"id":"32MN","name":"DON'S LANDING FLD","lat":45.367464,"lon":-94.399436,"elevation":1140,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

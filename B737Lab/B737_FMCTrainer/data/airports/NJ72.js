@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ72"]={"id":"NJ72","name":"HOP BROOK FARM","lat":40.351219,"lon":-74.181256,"elevation":140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

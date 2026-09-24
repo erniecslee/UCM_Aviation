@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WA9"]={"id":"2WA9","name":"TOUCHET VALLEY","lat":46.289167,"lon":-118.101111,"elevation":1350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

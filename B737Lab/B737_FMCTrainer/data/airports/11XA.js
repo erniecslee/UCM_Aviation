@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11XA"]={"id":"11XA","name":"BRIAR LAKES RANCH","lat":31.949722,"lon":-95.713056,"elevation":480,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

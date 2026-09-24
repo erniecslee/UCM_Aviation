@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66S"]={"id":"66S","name":"CAVANAUGH BAY","lat":48.518667,"lon":-116.822194,"elevation":2484,"region":"K1","runways":[{"id":"RW15","lat":48.522842,"lon":-116.823328,"length":3100,"course":149.8}],"procedures":{"D":{},"E":{},"F":{}}};

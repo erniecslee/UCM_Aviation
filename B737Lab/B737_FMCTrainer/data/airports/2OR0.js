@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OR0"]={"id":"2OR0","name":"NIELSEN","lat":45.344289,"lon":-122.517867,"elevation":510,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

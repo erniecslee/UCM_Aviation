@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AL6"]={"id":"4AL6","name":"BONNER FLD","lat":30.466864,"lon":-87.683319,"elevation":105,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46VA"]={"id":"46VA","name":"BYRD CREEK","lat":37.817467,"lon":-78.048547,"elevation":306,"region":"K6","runways":[{"id":"RW04","lat":37.815822,"lon":-78.049958,"length":1450,"course":42.3},{"id":"RW22","lat":37.819111,"lon":-78.047128,"length":1450,"course":222.3}],"procedures":{"D":{},"E":{},"F":{}}};

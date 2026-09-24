@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OH8"]={"id":"7OH8","name":"CURTIS","lat":41.637778,"lon":-81.101389,"elevation":1250,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

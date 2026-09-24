@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH30"]={"id":"NH30","name":"AVERY POINT","lat":43.6755,"lon":-71.402722,"elevation":505,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

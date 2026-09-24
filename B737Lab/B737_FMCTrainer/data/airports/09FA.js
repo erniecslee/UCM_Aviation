@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09FA"]={"id":"09FA","name":"PLACID LAKES","lat":27.245603,"lon":-81.413128,"elevation":130,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

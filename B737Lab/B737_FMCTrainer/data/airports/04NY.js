@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04NY"]={"id":"04NY","name":"KLAVERACK","lat":42.262308,"lon":-73.696233,"elevation":250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

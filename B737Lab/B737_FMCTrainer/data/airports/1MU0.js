@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MU0"]={"id":"1MU0","name":"MEDCALF FLD","lat":37.166719,"lon":-93.562697,"elevation":1260,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

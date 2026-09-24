@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS82"]={"id":"PS82","name":"LAZY J RANCH","lat":41.295917,"lon":-75.597689,"elevation":1650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9M6"]={"id":"9M6","name":"KELLY-DUMAS","lat":32.84765,"lon":-91.404056,"elevation":112,"region":"K4","runways":[{"id":"RW18","lat":32.852172,"lon":-91.403694,"length":3799,"course":181.0},{"id":"RW36","lat":32.842439,"lon":-91.404469,"length":3799,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

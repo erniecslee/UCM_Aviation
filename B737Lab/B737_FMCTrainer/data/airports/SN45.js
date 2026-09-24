@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN45"]={"id":"SN45","name":"MICHAEL'S","lat":38.8281,"lon":-95.267106,"elevation":1105,"region":"K3","runways":[{"id":"RW18","lat":38.831394,"lon":-95.267125,"length":2400,"course":173.7},{"id":"RW36","lat":38.824806,"lon":-95.267086,"length":2400,"course":353.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN16"]={"id":"IN16","name":"CROWN POINT AIRFIELD","lat":41.419389,"lon":-87.4001,"elevation":722,"region":"K5","runways":[{"id":"RW18","lat":41.419731,"lon":-87.4001,"length":250,"course":184.3},{"id":"RW36","lat":41.41905,"lon":-87.4001,"length":250,"course":4.3}],"procedures":{"D":{},"E":{},"F":{}}};

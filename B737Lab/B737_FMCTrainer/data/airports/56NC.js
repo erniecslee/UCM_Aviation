@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56NC"]={"id":"56NC","name":"WHEAT FLD","lat":35.206667,"lon":-82.031944,"elevation":960,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

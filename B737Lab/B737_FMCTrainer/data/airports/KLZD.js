@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KLZD"]={"id":"KLZD","name":"DANIELSON","lat":41.81975,"lon":-71.900972,"elevation":238,"region":"K6","runways":[{"id":"RW13","lat":41.821575,"lon":-71.905267,"length":2700,"course":134.0},{"id":"RW31","lat":41.817908,"lon":-71.896661,"length":2700,"course":314.0}],"procedures":{"D":{},"E":{},"F":{}}};

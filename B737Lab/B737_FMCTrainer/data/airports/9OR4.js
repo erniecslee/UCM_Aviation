@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9OR4"]={"id":"9OR4","name":"KING'S","lat":45.933744,"lon":-118.447747,"elevation":950,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

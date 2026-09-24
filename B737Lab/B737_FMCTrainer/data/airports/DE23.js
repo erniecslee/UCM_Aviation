@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE23"]={"id":"DE23","name":"OCKEL FARMS","lat":38.750278,"lon":-75.36,"elevation":47,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

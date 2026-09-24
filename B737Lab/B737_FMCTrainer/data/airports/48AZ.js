@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48AZ"]={"id":"48AZ","name":"RIMROCK","lat":34.650856,"lon":-111.788206,"elevation":3575,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

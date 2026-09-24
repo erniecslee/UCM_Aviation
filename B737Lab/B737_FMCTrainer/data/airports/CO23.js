@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO23"]={"id":"CO23","name":"ASHLAWN","lat":40.109892,"lon":-105.237206,"elevation":5313,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TN5"]={"id":"7TN5","name":"FLYING D","lat":35.133806,"lon":-89.186806,"elevation":477,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

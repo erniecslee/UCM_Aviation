@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25MT"]={"id":"25MT","name":"BLATTER","lat":48.422222,"lon":-106.253333,"elevation":2800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

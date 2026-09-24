@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13GE"]={"id":"13GE","name":"HOLT AIRPARK","lat":32.360833,"lon":-82.318056,"elevation":280,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16W"]={"id":"16W","name":"LITTLE GOOSE LOCK AND DAM","lat":46.583944,"lon":-118.003583,"elevation":681,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7S9"]={"id":"7S9","name":"LENHARDT AIRPARK","lat":45.180397,"lon":-122.743425,"elevation":165,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

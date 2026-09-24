@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK19"]={"id":"NK19","name":"POTOCZAK","lat":43.061169,"lon":-78.661419,"elevation":582,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO04"]={"id":"CO04","name":"DENNING","lat":40.001928,"lon":-104.415633,"elevation":4977,"region":"K2","runways":[{"id":"RW17","lat":40.003111,"lon":-104.415639,"length":863,"course":172.6},{"id":"RW35","lat":40.000742,"lon":-104.415628,"length":863,"course":352.6}],"procedures":{"D":{},"E":{},"F":{}}};

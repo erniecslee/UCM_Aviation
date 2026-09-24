@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA62"]={"id":"TA62","name":"RANCHO SAN LORENZO","lat":31.55855,"lon":-106.203631,"elevation":3628,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

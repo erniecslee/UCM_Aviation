@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAGY"]={"id":"PAGY","name":"SKAGWAY","lat":59.4602,"lon":-135.316861,"elevation":44,"region":"PA","runways":[{"id":"RW02","lat":59.456731,"lon":-135.323519,"length":3550,"course":15.4},{"id":"RW20","lat":59.463681,"lon":-135.310161,"length":3550,"course":195.4}],"procedures":{"D":{},"E":{},"F":{}}};

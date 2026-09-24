@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6LL4"]={"id":"6LL4","name":"WILDY FLD","lat":38.26755,"lon":-89.891769,"elevation":450,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NY6"]={"id":"7NY6","name":"SHERWOOD FARM","lat":42.893689,"lon":-73.507892,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

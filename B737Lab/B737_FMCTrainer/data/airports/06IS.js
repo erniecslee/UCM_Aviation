@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06IS"]={"id":"06IS","name":"SINELE STRIP","lat":40.546431,"lon":-91.274317,"elevation":695,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

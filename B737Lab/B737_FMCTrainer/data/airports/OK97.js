@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK97"]={"id":"OK97","name":"KETCHUM RANCH","lat":34.533414,"lon":-97.766978,"elevation":1100,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MA25"]={"id":"MA25","name":"LONG POND","lat":41.732056,"lon":-70.061128,"elevation":31,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92A"]={"id":"92A","name":"CHILHOWEE","lat":35.226264,"lon":-84.584894,"elevation":769,"region":"K7","runways":[{"id":"RW03","lat":35.224017,"lon":-84.586633,"length":1938,"course":34.4},{"id":"RW21","lat":35.228511,"lon":-84.583156,"length":1938,"course":214.4}],"procedures":{"D":{},"E":{},"F":{}}};

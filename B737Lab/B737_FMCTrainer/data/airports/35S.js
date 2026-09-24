@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35S"]={"id":"35S","name":"WASCO STATE","lat":45.589206,"lon":-120.673986,"elevation":1503,"region":"K1","runways":[{"id":"RW07","lat":45.589242,"lon":-120.680719,"length":3450,"course":71.4},{"id":"RW25","lat":45.589167,"lon":-120.66725,"length":3450,"course":251.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88AZ"]={"id":"88AZ","name":"GRAPEVINE AIRSTRIP","lat":33.640908,"lon":-111.056917,"elevation":2329,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

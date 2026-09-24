@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52WT"]={"id":"52WT","name":"GALT'S GULCH","lat":46.022883,"lon":-118.54375,"elevation":580,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

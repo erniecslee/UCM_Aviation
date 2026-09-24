@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88LL"]={"id":"88LL","name":"BLOCK","lat":42.191689,"lon":-89.838175,"elevation":917,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

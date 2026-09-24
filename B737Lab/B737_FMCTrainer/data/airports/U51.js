@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["U51"]={"id":"U51","name":"BANCROFT MUNI","lat":42.720753,"lon":-111.867456,"elevation":5435,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

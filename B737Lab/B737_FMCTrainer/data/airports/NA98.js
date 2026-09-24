@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA98"]={"id":"NA98","name":"DILSE AIRSTRIP","lat":46.302508,"lon":-103.170172,"elevation":2878,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

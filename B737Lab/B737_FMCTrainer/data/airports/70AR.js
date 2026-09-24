@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70AR"]={"id":"70AR","name":"RANDAL FLD","lat":35.994517,"lon":-89.997311,"elevation":242,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

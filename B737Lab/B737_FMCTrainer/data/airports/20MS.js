@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20MS"]={"id":"20MS","name":"DIXON","lat":31.8285,"lon":-90.652833,"elevation":280,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

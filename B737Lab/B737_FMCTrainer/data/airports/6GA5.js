@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6GA5"]={"id":"6GA5","name":"KOLIBRI","lat":33.578167,"lon":-84.906883,"elevation":1100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

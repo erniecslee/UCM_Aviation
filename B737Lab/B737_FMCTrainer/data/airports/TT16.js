@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT16"]={"id":"TT16","name":"COSMO FLD","lat":32.936733,"lon":-98.397447,"elevation":1059,"region":"K4","runways":[{"id":"RW18","lat":32.940442,"lon":-98.397581,"length":2700,"course":174.8},{"id":"RW36","lat":32.933022,"lon":-98.397314,"length":2700,"course":354.8}],"procedures":{"D":{},"E":{},"F":{}}};

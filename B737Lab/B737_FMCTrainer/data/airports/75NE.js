@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75NE"]={"id":"75NE","name":"HEATON","lat":41.445828,"lon":-95.956678,"elevation":1000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53OH"]={"id":"53OH","name":"CHARLOE","lat":41.134494,"lon":-84.450783,"elevation":721,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23TA"]={"id":"23TA","name":"ROWLAND R AIRFIELD","lat":33.487331,"lon":-96.455819,"elevation":705,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

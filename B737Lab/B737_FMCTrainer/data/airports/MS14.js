@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS14"]={"id":"MS14","name":"JOHN FARESE AIRPARK","lat":34.813889,"lon":-89.199617,"elevation":565,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

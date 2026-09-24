@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01TX"]={"id":"01TX","name":"BEULAH FLD","lat":33.170581,"lon":-98.622222,"elevation":1120,"region":"K4","runways":[{"id":"RW15","lat":33.174167,"lon":-98.624722,"length":3025,"course":146.0},{"id":"RW33","lat":33.166994,"lon":-98.619722,"length":3025,"course":326.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42VT"]={"id":"42VT","name":"FROGS END","lat":44.366886,"lon":-73.150161,"elevation":320,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS21"]={"id":"PS21","name":"FLYING EAGLE","lat":40.645919,"lon":-76.812192,"elevation":660,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

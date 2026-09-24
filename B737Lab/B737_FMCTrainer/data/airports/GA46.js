@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA46"]={"id":"GA46","name":"HIGH POINT","lat":30.927,"lon":-81.432556,"elevation":28,"region":"K7","runways":[{"id":"RW12","lat":30.928111,"lon":-81.436056,"length":2339,"course":117.4},{"id":"RW30","lat":30.925889,"lon":-81.429056,"length":2339,"course":297.4}],"procedures":{"D":{},"E":{},"F":{}}};

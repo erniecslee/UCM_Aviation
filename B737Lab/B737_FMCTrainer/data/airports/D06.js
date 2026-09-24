@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D06"]={"id":"D06","name":"MINTO MUNI","lat":48.292603,"lon":-97.394022,"elevation":820,"region":"K3","runways":[{"id":"RW17","lat":48.295886,"lon":-97.394011,"length":2396,"course":174.0},{"id":"RW35","lat":48.289319,"lon":-97.394033,"length":2396,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

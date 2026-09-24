@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY23"]={"id":"WY23","name":"IBERLIN STRIP","lat":44.073311,"lon":-106.265864,"elevation":4331,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

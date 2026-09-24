@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3F2"]={"id":"3F2","name":"CISCO MUNI","lat":32.415028,"lon":-98.996833,"elevation":1621,"region":"K4","runways":[{"id":"RW17","lat":32.420106,"lon":-98.996822,"length":3700,"course":173.0},{"id":"RW35","lat":32.409933,"lon":-98.996853,"length":3700,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3U7"]={"id":"3U7","name":"BENCHMARK","lat":47.482028,"lon":-112.872306,"elevation":5434,"region":"K1","runways":[{"id":"RW12","lat":47.488325,"lon":-112.880142,"length":6000,"course":122.0},{"id":"RW30","lat":47.475756,"lon":-112.864481,"length":6000,"course":302.0}],"procedures":{"D":{},"E":{},"F":{}}};

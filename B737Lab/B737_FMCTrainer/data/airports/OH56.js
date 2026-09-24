@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH56"]={"id":"OH56","name":"WARPED WING","lat":40.159569,"lon":-82.737661,"elevation":1130,"region":"K5","runways":[{"id":"RW01","lat":40.156389,"lon":-82.738514,"length":2366,"course":19.0},{"id":"RW19","lat":40.16275,"lon":-82.736806,"length":2366,"course":199.0}],"procedures":{"D":{},"E":{},"F":{}}};

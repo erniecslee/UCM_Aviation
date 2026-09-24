@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN87"]={"id":"MN87","name":"COOKS LANDING","lat":45.243611,"lon":-93.221667,"elevation":905,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

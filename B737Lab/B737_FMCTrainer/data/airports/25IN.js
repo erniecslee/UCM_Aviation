@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25IN"]={"id":"25IN","name":"REID-EASH","lat":41.702828,"lon":-85.419425,"elevation":879,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

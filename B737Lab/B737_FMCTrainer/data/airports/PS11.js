@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS11"]={"id":"PS11","name":"MC CARDLE FARM","lat":40.64535,"lon":-77.555272,"elevation":600,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

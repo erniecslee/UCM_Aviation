@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57B"]={"id":"57B","name":"ISLESBORO","lat":44.302472,"lon":-68.910583,"elevation":88,"region":"K6","runways":[{"id":"RW01","lat":44.299911,"lon":-68.909822,"length":2400,"course":5.8},{"id":"RW19","lat":44.305675,"lon":-68.911553,"length":2400,"course":185.8}],"procedures":{"D":{},"E":{},"F":{}}};

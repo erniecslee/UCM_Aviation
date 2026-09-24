@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23MS"]={"id":"23MS","name":"SMITH FARMS","lat":30.677394,"lon":-88.551247,"elevation":48,"region":"K7","runways":[{"id":"RW09","lat":30.677353,"lon":-88.555342,"length":2575,"course":91.9},{"id":"RW27","lat":30.677433,"lon":-88.547153,"length":2575,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

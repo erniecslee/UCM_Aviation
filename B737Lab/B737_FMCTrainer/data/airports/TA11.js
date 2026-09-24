@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA11"]={"id":"TA11","name":"TSA","lat":32.383475,"lon":-97.014169,"elevation":660,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

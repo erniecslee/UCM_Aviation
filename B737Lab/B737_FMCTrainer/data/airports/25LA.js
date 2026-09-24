@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25LA"]={"id":"25LA","name":"PLANE CRAZY","lat":30.546069,"lon":-90.576333,"elevation":57,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

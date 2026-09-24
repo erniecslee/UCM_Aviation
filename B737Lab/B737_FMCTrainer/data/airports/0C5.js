@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0C5"]={"id":"0C5","name":"CANADIAN LAKES","lat":43.577011,"lon":-85.284,"elevation":960,"region":"K5","runways":[{"id":"RW18","lat":43.579603,"lon":-85.284014,"length":3800,"course":184.0},{"id":"RW36","lat":43.572856,"lon":-85.283978,"length":3800,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

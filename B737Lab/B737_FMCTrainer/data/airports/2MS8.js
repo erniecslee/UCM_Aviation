@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MS8"]={"id":"2MS8","name":"SPENCER FLD","lat":33.789561,"lon":-89.874194,"elevation":175,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

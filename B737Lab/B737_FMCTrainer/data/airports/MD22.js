@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD22"]={"id":"MD22","name":"DEALE","lat":38.78345,"lon":-76.564681,"elevation":15,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

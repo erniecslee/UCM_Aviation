@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K17"]={"id":"K17","name":"MONTEZUMA MUNI","lat":37.585667,"lon":-100.470139,"elevation":2780,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

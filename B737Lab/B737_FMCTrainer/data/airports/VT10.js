@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT10"]={"id":"VT10","name":"MANNING PERSONAL AIRSTRIP","lat":43.981447,"lon":-73.385678,"elevation":255,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

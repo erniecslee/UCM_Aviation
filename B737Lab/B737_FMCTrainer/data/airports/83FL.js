@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["83FL"]={"id":"83FL","name":"NASSAU","lat":30.626881,"lon":-81.534781,"elevation":20,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

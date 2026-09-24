@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["07NH"]={"id":"07NH","name":"DIVING ROCK","lat":43.175556,"lon":-72.063889,"elevation":1404,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

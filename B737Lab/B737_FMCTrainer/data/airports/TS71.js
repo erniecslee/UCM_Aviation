@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS71"]={"id":"TS71","name":"FLYING B RANCH","lat":32.527914,"lon":-96.943892,"elevation":780,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

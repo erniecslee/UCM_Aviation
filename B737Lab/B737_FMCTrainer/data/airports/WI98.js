@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI98"]={"id":"WI98","name":"BOBS","lat":46.625069,"lon":-90.817631,"elevation":602,"region":"K5","runways":[{"id":"RW06W","lat":46.619303,"lon":-90.828764,"length":7000,"course":55.3},{"id":"RW24W","lat":46.630836,"lon":-90.806497,"length":7000,"course":235.3}],"procedures":{"D":{},"E":{},"F":{}}};

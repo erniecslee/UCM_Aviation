@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24CL"]={"id":"24CL","name":"BOSWELL","lat":36.088672,"lon":-119.541628,"elevation":205,"region":"K2","runways":[{"id":"RW14","lat":36.095306,"lon":-119.545,"length":6815,"course":145.6},{"id":"RW32","lat":36.081589,"lon":-119.538025,"length":6815,"course":325.6}],"procedures":{"D":{},"E":{},"F":{}}};

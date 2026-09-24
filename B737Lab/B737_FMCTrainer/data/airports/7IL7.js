@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7IL7"]={"id":"7IL7","name":"EDWARD GETZELMAN","lat":42.126692,"lon":-88.533419,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

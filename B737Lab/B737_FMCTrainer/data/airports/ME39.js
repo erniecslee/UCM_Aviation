@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME39"]={"id":"ME39","name":"ROCKY RIDGE","lat":44.235361,"lon":-70.132556,"elevation":480,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

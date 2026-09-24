@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PPWR"]={"id":"PPWR","name":"PORT WALTER","lat":56.381017,"lon":-134.650931,"elevation":0,"region":"PP","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

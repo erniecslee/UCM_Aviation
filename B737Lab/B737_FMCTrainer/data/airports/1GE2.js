@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GE2"]={"id":"1GE2","name":"C & W AIR PARK","lat":32.844444,"lon":-84.543889,"elevation":1306,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05IN"]={"id":"05IN","name":"COOPER","lat":39.641992,"lon":-86.504164,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

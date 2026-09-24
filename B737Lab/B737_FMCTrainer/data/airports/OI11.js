@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI11"]={"id":"OI11","name":"HIBBETTS","lat":40.637283,"lon":-81.1126,"elevation":1060,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

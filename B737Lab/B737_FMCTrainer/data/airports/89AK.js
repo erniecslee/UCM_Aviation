@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89AK"]={"id":"89AK","name":"LINCOLN VILLAGE AIRPARK","lat":61.559389,"lon":-149.705469,"elevation":250,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

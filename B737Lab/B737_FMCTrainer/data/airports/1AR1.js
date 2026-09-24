@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AR1"]={"id":"1AR1","name":"WALLS","lat":34.527178,"lon":-91.872664,"elevation":215,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

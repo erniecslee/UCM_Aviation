@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CZO"]={"id":"CZO","name":"CHISTOCHINA","lat":62.562333,"lon":-144.672444,"elevation":1861,"region":"PA","runways":[{"id":"RW02","lat":62.560222,"lon":-144.676489,"length":2060,"course":20.4},{"id":"RW20","lat":62.56445,"lon":-144.668417,"length":2060,"course":200.4}],"procedures":{"D":{},"E":{},"F":{}}};

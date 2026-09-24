@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OH3"]={"id":"4OH3","name":"BIEBER FLD","lat":40.983056,"lon":-80.701111,"elevation":1035,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

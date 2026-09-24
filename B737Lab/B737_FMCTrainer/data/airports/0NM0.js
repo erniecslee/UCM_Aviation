@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NM0"]={"id":"0NM0","name":"COLUMBUS MUNI","lat":31.823711,"lon":-107.626967,"elevation":4024,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

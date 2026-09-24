@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA30"]={"id":"AA30","name":"TRIO ESTATES","lat":61.648189,"lon":-149.870831,"elevation":315,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

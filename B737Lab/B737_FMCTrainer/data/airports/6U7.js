@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6U7"]={"id":"6U7","name":"HYSHAM","lat":46.293472,"lon":-107.193306,"elevation":2624,"region":"K1","runways":[{"id":"RW07","lat":46.293531,"lon":-107.199344,"length":3060,"course":77.0},{"id":"RW25","lat":46.293428,"lon":-107.187239,"length":3060,"course":257.0}],"procedures":{"D":{},"E":{},"F":{}}};

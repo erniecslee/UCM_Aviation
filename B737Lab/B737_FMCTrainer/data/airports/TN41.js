@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN41"]={"id":"TN41","name":"WARD FARMS","lat":36.3175,"lon":-82.578611,"elevation":1600,"region":"K7","runways":[{"id":"RW05","lat":36.315278,"lon":-82.581111,"length":2188,"course":49.4},{"id":"RW23","lat":36.319722,"lon":-82.576111,"length":2188,"course":229.4}],"procedures":{"D":{},"E":{},"F":{}}};

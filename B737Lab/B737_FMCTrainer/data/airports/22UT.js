@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22UT"]={"id":"22UT","name":"LARKSPUR AIRSTRIP","lat":37.025156,"lon":-111.62975,"elevation":4056,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID42"]={"id":"ID42","name":"POPLAR POINT","lat":42.925556,"lon":-115.757222,"elevation":2525,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

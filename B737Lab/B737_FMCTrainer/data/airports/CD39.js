@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD39"]={"id":"CD39","name":"POND'S FLD","lat":40.265,"lon":-105.136667,"elevation":5050,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

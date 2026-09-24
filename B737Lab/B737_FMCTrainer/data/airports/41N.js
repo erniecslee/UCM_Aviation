@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41N"]={"id":"41N","name":"BRACEVILLE","lat":41.211167,"lon":-80.969258,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

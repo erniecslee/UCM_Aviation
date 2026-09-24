@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA35"]={"id":"WA35","name":"CLAM HARBOR","lat":48.622325,"lon":-122.947128,"elevation":220,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

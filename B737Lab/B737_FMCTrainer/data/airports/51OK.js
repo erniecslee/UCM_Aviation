@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51OK"]={"id":"51OK","name":"EAGLE CREEK","lat":35.793611,"lon":-96.029722,"elevation":740,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

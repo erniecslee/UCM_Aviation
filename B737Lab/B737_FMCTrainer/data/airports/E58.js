@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E58"]={"id":"E58","name":"BIRD DOG AIRFIELD","lat":33.306456,"lon":-97.347128,"elevation":895,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI28"]={"id":"OI28","name":"LANKER","lat":40.583947,"lon":-82.679342,"elevation":1440,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

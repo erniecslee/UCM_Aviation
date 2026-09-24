@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05CO"]={"id":"05CO","name":"RANCHO DE AEREO","lat":40.214983,"lon":-104.984422,"elevation":4978,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TX8"]={"id":"7TX8","name":"FLYING K","lat":35.107556,"lon":-102.03825,"elevation":3560,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

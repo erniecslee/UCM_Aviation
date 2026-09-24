@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T28"]={"id":"T28","name":"CAIN","lat":33.354442,"lon":-97.439147,"elevation":917,"region":"K4","runways":[{"id":"RW18","lat":33.356081,"lon":-97.438942,"length":1200,"course":183.0},{"id":"RW36","lat":33.3528,"lon":-97.439353,"length":1200,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

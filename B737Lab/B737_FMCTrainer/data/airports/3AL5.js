@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AL5"]={"id":"3AL5","name":"EDWARDS FARM","lat":33.835306,"lon":-85.763917,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

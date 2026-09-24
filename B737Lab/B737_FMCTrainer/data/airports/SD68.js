@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD68"]={"id":"SD68","name":"FLYING T","lat":43.3847,"lon":-103.431031,"elevation":3675,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

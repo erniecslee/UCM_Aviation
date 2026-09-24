@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN00"]={"id":"WN00","name":"KIMSHAN RANCH","lat":47.840092,"lon":-122.859608,"elevation":80,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

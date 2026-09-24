@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN17"]={"id":"TN17","name":"VINTAGE FLD","lat":35.582297,"lon":-84.487986,"elevation":990,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

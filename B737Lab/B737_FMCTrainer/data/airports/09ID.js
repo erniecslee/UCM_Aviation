@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09ID"]={"id":"09ID","name":"TAYLOR RANCH LANDING AREA","lat":45.103889,"lon":-114.855278,"elevation":3835,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

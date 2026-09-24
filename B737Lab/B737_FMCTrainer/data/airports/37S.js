@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37S"]={"id":"37S","name":"FORT PECK","lat":48.004833,"lon":-106.477889,"elevation":2290,"region":"K1","runways":[{"id":"RW05","lat":48.003375,"lon":-106.482947,"length":2700,"course":54.0},{"id":"RW23","lat":48.006319,"lon":-106.472825,"length":2700,"course":234.0}],"procedures":{"D":{},"E":{},"F":{}}};

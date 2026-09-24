@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA12"]={"id":"AA12","name":"DOVE ISLAND LODGE","lat":57.040833,"lon":-135.295556,"elevation":17,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

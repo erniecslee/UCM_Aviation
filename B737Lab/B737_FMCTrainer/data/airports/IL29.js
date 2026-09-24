@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL29"]={"id":"IL29","name":"YATES","lat":39.533006,"lon":-90.215581,"elevation":616,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

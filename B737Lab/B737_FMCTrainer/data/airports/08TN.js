@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08TN"]={"id":"08TN","name":"PTC","lat":35.298914,"lon":-86.474358,"elevation":820,"region":"K7","runways":[{"id":"RW10","lat":35.29945,"lon":-86.478861,"length":2716,"course":102.7},{"id":"RW28","lat":35.298378,"lon":-86.469853,"length":2716,"course":282.7}],"procedures":{"D":{},"E":{},"F":{}}};

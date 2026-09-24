@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6CA1"]={"id":"6CA1","name":"TRIPLE R RANCH","lat":41.742653,"lon":-121.878336,"elevation":4380,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

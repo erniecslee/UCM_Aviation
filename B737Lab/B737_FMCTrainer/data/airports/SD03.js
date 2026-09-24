@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD03"]={"id":"SD03","name":"CALICO FLD","lat":44.050531,"lon":-97.335067,"elevation":1750,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

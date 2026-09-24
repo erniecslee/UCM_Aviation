@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM03"]={"id":"NM03","name":"GRANT BESLEY","lat":36.662139,"lon":-105.720208,"elevation":7646,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

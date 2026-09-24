@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN45"]={"id":"IN45","name":"4 WINDS AERODROME","lat":39.825044,"lon":-86.883342,"elevation":810,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

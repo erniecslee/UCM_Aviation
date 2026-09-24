@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25D"]={"id":"25D","name":"FOREST LAKE","lat":45.247103,"lon":-92.992464,"elevation":932,"region":"K3","runways":[{"id":"RW13","lat":45.250158,"lon":-92.996367,"length":3000,"course":134.9},{"id":"RW31","lat":45.244047,"lon":-92.988558,"length":3000,"course":314.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79FD"]={"id":"79FD","name":"MIDWAY LAKE","lat":28.041958,"lon":-82.092586,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

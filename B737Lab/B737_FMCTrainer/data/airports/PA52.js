@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA52"]={"id":"PA52","name":"OBERLANDER","lat":41.859333,"lon":-79.907167,"elevation":1626,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

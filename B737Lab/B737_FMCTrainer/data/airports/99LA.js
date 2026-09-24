@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99LA"]={"id":"99LA","name":"LAWSON FLD","lat":30.289369,"lon":-92.389022,"elevation":25,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

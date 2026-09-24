@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS14"]={"id":"LS14","name":"LYON","lat":30.071042,"lon":-92.825147,"elevation":6,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

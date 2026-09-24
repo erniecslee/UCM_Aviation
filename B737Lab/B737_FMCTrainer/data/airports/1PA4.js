@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1PA4"]={"id":"1PA4","name":"WAGNER","lat":40.552572,"lon":-77.619992,"elevation":520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

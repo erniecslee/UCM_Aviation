@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OR7"]={"id":"8OR7","name":"GATES","lat":44.627067,"lon":-123.224542,"elevation":220,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

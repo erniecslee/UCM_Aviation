@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76MN"]={"id":"76MN","name":"HEMMINGSEN","lat":47.59635,"lon":-96.021706,"elevation":1246,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

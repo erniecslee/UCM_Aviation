@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0KY5"]={"id":"0KY5","name":"BOYCE WAFER FARM","lat":36.8125,"lon":-86.375,"elevation":600,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16CO"]={"id":"16CO","name":"DRY PEN","lat":39.402333,"lon":-108.076617,"elevation":5331,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

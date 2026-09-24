@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN23"]={"id":"IN23","name":"ZELLER ELEV COMPANY","lat":37.908375,"lon":-87.758356,"elevation":378,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

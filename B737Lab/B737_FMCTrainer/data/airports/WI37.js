@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI37"]={"id":"WI37","name":"RAINBOW","lat":45.808294,"lon":-91.096275,"elevation":1321,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

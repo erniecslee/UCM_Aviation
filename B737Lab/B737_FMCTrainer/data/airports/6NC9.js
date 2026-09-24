@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC9"]={"id":"6NC9","name":"MOSS HILL","lat":35.202108,"lon":-77.750531,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

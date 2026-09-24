@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR13"]={"id":"AR13","name":"PEARSON FLD","lat":34.9862,"lon":-92.633497,"elevation":300,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

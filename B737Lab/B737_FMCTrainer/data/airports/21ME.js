@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21ME"]={"id":"21ME","name":"MOODY FLD","lat":43.677206,"lon":-70.422617,"elevation":148,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU07"]={"id":"MU07","name":"ANGLE BAR M","lat":38.394742,"lon":-94.310225,"elevation":900,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

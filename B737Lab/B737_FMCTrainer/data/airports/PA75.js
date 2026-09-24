@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA75"]={"id":"PA75","name":"BAKER","lat":41.965072,"lon":-77.315814,"elevation":1800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

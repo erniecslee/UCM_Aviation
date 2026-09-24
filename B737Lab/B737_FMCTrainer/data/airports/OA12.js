@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OA12"]={"id":"OA12","name":"BUENA VISTA FARM","lat":39.334444,"lon":-84.07,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

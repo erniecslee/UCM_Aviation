@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NY5"]={"id":"5NY5","name":"GARDINER","lat":41.666761,"lon":-74.149589,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

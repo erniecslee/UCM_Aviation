@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7Y2"]={"id":"7Y2","name":"THOMPSONVILLE","lat":44.517794,"lon":-85.970567,"elevation":793,"region":"K5","runways":[{"id":"RW09","lat":44.518319,"lon":-85.977986,"length":2900,"course":89.8},{"id":"RW27","lat":44.518889,"lon":-85.967131,"length":2900,"course":269.8}],"procedures":{"D":{},"E":{},"F":{}}};

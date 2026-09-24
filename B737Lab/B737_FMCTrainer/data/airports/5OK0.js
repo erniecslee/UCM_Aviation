@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5OK0"]={"id":"5OK0","name":"KITS","lat":35.54135,"lon":-98.59455,"elevation":1492,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

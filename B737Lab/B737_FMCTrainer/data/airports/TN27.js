@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN27"]={"id":"TN27","name":"RACECAR","lat":35.671375,"lon":-86.721528,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

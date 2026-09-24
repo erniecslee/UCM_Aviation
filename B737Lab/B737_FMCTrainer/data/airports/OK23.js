@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK23"]={"id":"OK23","name":"TALIAFERRO FLD","lat":34.1983,"lon":-97.231167,"elevation":930,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

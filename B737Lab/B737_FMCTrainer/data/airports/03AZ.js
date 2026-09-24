@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03AZ"]={"id":"03AZ","name":"THOMPSON INTL AVIATION","lat":31.433433,"lon":-110.083967,"elevation":4275,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

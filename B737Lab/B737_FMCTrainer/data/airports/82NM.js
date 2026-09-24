@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82NM"]={"id":"82NM","name":"SKEEN RANCH","lat":33.170097,"lon":-105.133869,"elevation":5524,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

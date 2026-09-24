@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MT6"]={"id":"3MT6","name":"NISTLER","lat":45.634272,"lon":-111.114331,"elevation":5035,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA20"]={"id":"CA20","name":"EAGLES NEST/DAVID WARDALL FLD","lat":38.430467,"lon":-121.014942,"elevation":220,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

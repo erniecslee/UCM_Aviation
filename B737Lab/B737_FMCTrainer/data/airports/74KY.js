@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74KY"]={"id":"74KY","name":"TERRY FLD","lat":36.898667,"lon":-88.846725,"elevation":370,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

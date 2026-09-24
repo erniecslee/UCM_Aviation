@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK86"]={"id":"AK86","name":"KRAMER","lat":61.573539,"lon":-149.91135,"elevation":150,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

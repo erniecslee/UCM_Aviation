@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99XS"]={"id":"99XS","name":"BLUE RIDGE","lat":33.294014,"lon":-96.446889,"elevation":639,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

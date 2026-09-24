@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY53"]={"id":"NY53","name":"M & M AIRFIELD","lat":43.183792,"lon":-75.401272,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

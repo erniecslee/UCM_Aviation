@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK11"]={"id":"OK11","name":"KSA ORCHARDS","lat":34.314136,"lon":-98.010522,"elevation":1080,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15IL"]={"id":"15IL","name":"GITTLESON FARMS","lat":41.797253,"lon":-89.273153,"elevation":836,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34M"]={"id":"34M","name":"CAMPBELL MUNI","lat":36.486056,"lon":-90.015694,"elevation":284,"region":"K3","runways":[{"id":"RW18","lat":36.490181,"lon":-90.015631,"length":3000,"course":178.7},{"id":"RW36","lat":36.481939,"lon":-90.015761,"length":3000,"course":358.7}],"procedures":{"D":{},"E":{},"F":{}}};

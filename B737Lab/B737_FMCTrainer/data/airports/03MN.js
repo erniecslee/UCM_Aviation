@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03MN"]={"id":"03MN","name":"NAUERTH LAND RANCH","lat":43.625239,"lon":-95.224722,"elevation":1435,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

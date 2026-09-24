@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC28"]={"id":"NC28","name":"MEADSTOWN AIRSTRIP","lat":36.200158,"lon":-76.235767,"elevation":7,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

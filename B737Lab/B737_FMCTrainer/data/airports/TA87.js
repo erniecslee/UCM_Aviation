@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA87"]={"id":"TA87","name":"CARTER-NORMAN","lat":33.10745,"lon":-97.548108,"elevation":737,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

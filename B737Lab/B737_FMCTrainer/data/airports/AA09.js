@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AA09"]={"id":"AA09","name":"BUSCH CREEK","lat":62.4775,"lon":-147.774722,"elevation":3984,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD11"]={"id":"MD11","name":"WRIGHT FLD","lat":39.277053,"lon":-76.062725,"elevation":80,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

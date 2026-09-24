@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3SD3"]={"id":"3SD3","name":"BROWN FLD","lat":43.811792,"lon":-102.7199,"elevation":2780,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

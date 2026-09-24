@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL12"]={"id":"IL12","name":"KINSEY","lat":39.880047,"lon":-90.465125,"elevation":455,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

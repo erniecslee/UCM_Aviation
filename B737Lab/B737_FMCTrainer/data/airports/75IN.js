@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75IN"]={"id":"75IN","name":"FULTON FLD","lat":40.158831,"lon":-87.489347,"elevation":640,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

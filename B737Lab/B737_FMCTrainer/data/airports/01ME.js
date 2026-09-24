@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01ME"]={"id":"01ME","name":"ST PETERS","lat":46.778889,"lon":-68.500278,"elevation":608,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

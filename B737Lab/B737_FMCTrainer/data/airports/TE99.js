@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE99"]={"id":"TE99","name":"BARNSTORMER","lat":32.0215,"lon":-97.253733,"elevation":625,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

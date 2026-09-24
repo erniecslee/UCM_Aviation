@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK2"]={"id":"2OK2","name":"TWIN LAKES","lat":35.329353,"lon":-97.269736,"elevation":1198,"region":"K4","runways":[{"id":"RW18","lat":35.333028,"lon":-97.269139,"length":2700,"course":180.6},{"id":"RW36","lat":35.325681,"lon":-97.270331,"length":2700,"course":0.6}],"procedures":{"D":{},"E":{},"F":{}}};

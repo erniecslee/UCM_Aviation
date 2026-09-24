@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA21"]={"id":"WA21","name":"SUNSHINE ACRES","lat":47.833889,"lon":-117.263611,"elevation":2364,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

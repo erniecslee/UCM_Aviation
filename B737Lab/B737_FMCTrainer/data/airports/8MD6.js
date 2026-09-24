@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8MD6"]={"id":"8MD6","name":"BURGESS FLD","lat":38.397069,"lon":-77.146922,"elevation":35,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

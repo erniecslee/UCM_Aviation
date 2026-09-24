@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME90"]={"id":"ME90","name":"LITTLE OSSIPEE LAKE","lat":43.613136,"lon":-70.696447,"elevation":311,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS06"]={"id":"XS06","name":"ROSE RANCH","lat":34.122906,"lon":-102.171294,"elevation":3580,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["90OI"]={"id":"90OI","name":"JOE CIMPRICH","lat":39.604219,"lon":-84.635,"elevation":1010,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

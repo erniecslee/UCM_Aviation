@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6XS4"]={"id":"6XS4","name":"PFEFFER 2","lat":29.945961,"lon":-95.941356,"elevation":205,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FA1"]={"id":"0FA1","name":"OTT'S LANDING","lat":27.303936,"lon":-81.880361,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

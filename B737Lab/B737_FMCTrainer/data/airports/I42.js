@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I42"]={"id":"I42","name":"PAOLI MUNI","lat":38.584803,"lon":-86.464947,"elevation":816,"region":"K5","runways":[{"id":"RW02","lat":38.580544,"lon":-86.466925,"length":3302,"course":21.0},{"id":"RW20","lat":38.589064,"lon":-86.462972,"length":3302,"course":201.0}],"procedures":{"D":{},"E":{},"F":{}}};

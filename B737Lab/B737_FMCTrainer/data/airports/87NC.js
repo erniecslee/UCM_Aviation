@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87NC"]={"id":"87NC","name":"BROCKS","lat":34.916111,"lon":-78.600278,"elevation":120,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NM1"]={"id":"7NM1","name":"MESA VERDE RANCH STRIP","lat":32.935278,"lon":-106.045278,"elevation":4237,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

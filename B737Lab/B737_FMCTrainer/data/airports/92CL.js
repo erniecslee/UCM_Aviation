@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92CL"]={"id":"92CL","name":"MORONIS","lat":39.103225,"lon":-121.850247,"elevation":35,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

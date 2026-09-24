@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04AN"]={"id":"04AN","name":"NORTH 40","lat":61.737511,"lon":-148.700725,"elevation":943,"region":"PA","runways":[{"id":"RW09","lat":61.737511,"lon":-148.706519,"length":2010,"course":75.5},{"id":"RW27","lat":61.737511,"lon":-148.694928,"length":2010,"course":255.5}],"procedures":{"D":{},"E":{},"F":{}}};

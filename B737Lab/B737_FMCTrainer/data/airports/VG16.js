@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG16"]={"id":"VG16","name":"LANDIS","lat":36.625136,"lon":-80.170603,"elevation":1100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

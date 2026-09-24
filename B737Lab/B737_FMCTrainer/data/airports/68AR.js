@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68AR"]={"id":"68AR","name":"LUGINBUEL HEE HAW","lat":35.934094,"lon":-94.415925,"elevation":1425,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

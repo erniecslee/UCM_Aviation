@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33CL"]={"id":"33CL","name":"OAK COUNTRY RANCH","lat":35.568306,"lon":-120.797397,"elevation":1200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

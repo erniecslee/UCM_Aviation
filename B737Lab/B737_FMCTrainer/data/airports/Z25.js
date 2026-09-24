@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z25"]={"id":"Z25","name":"TRIPOD","lat":59.263147,"lon":-158.557756,"elevation":225,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

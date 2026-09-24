@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR71"]={"id":"OR71","name":"MORGAN'S","lat":45.065278,"lon":-123.329167,"elevation":195,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

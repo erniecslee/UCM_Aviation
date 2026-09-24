@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["31IN"]={"id":"31IN","name":"TIMBER HOUSE","lat":40.285036,"lon":-86.856397,"elevation":726,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

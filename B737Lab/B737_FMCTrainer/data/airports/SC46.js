@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC46"]={"id":"SC46","name":"HOUSE MOVERS FLD","lat":33.850978,"lon":-81.548436,"elevation":540,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

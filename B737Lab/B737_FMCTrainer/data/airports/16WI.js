@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16WI"]={"id":"16WI","name":"SWEETWATER BAY","lat":44.951933,"lon":-87.808436,"elevation":579,"region":"K5","runways":[{"id":"ALL","lat":44.924506,"lon":-87.808536,"length":10000,"course":0.0},{"id":"WAY","lat":44.951933,"lon":-87.808436,"length":10000,"course":0.0}],"procedures":{"D":{},"E":{},"F":{}}};

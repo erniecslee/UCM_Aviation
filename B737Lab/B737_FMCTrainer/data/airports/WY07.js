@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY07"]={"id":"WY07","name":"HARDY RANCH","lat":43.325244,"lon":-105.675553,"elevation":5077,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

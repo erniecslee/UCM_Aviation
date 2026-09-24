@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E94"]={"id":"E94","name":"GLENWOOD","lat":33.353319,"lon":-108.867144,"elevation":5433,"region":"K2","runways":[{"id":"RW01","lat":33.348608,"lon":-108.869419,"length":3700,"course":10.0},{"id":"RW19","lat":33.358031,"lon":-108.864867,"length":3700,"course":190.0}],"procedures":{"D":{},"E":{},"F":{}}};

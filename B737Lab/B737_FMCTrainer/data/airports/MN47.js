@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN47"]={"id":"MN47","name":"CAMERON'S","lat":45.549686,"lon":-93.469756,"elevation":930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

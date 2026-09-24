@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK3"]={"id":"9AK3","name":"NIKOLAI CREEK","lat":61.013883,"lon":-151.448911,"elevation":30,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

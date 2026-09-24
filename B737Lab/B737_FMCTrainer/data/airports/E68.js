@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E68"]={"id":"E68","name":"ESTRELLA SAILPORT","lat":33.085328,"lon":-112.160981,"elevation":1273,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

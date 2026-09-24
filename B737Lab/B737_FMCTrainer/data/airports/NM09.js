@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM09"]={"id":"NM09","name":"FIRST AERO SQUADRON AIRPARK","lat":31.867322,"lon":-107.635858,"elevation":4140,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

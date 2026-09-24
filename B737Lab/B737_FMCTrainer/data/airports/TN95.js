@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN95"]={"id":"TN95","name":"RIDGELY","lat":36.237222,"lon":-89.485556,"elevation":275,"region":"K7","runways":[{"id":"RW10","lat":36.237222,"lon":-89.491667,"length":3605,"course":92.3},{"id":"RW28","lat":36.237222,"lon":-89.479444,"length":3605,"course":272.4}],"procedures":{"D":{},"E":{},"F":{}}};

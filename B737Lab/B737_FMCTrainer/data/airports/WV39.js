@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV39"]={"id":"WV39","name":"RAVENSWOOD","lat":38.952025,"lon":-81.773186,"elevation":560,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

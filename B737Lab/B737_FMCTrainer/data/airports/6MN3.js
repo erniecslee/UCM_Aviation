@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MN3"]={"id":"6MN3","name":"MCKEEN","lat":45.072894,"lon":-94.069683,"elevation":1020,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

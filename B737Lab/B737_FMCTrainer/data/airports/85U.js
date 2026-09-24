@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85U"]={"id":"85U","name":"SOLDIER BAR USFS","lat":45.099914,"lon":-114.800928,"elevation":4190,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

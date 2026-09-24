@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MN2"]={"id":"0MN2","name":"GRINDSTONE LAKE","lat":46.133283,"lon":-93.002983,"elevation":1025,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

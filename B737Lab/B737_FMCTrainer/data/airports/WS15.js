@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS15"]={"id":"WS15","name":"MILL HOUSE FLD","lat":43.495192,"lon":-89.265394,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

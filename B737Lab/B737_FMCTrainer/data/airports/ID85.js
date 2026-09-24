@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID85"]={"id":"ID85","name":"ELK RIVER","lat":46.787403,"lon":-116.16765,"elevation":2827,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

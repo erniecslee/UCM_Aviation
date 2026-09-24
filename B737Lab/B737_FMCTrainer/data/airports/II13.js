@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II13"]={"id":"II13","name":"SUGAR CREEK AIR PARK","lat":39.920278,"lon":-85.598611,"elevation":1000,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

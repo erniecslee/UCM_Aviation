@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Q2"]={"id":"1Q2","name":"SPAULDING","lat":40.650306,"lon":-120.768508,"elevation":5116,"region":"K2","runways":[{"id":"RW16","lat":40.656614,"lon":-120.768411,"length":4600,"course":164.0},{"id":"RW34","lat":40.643997,"lon":-120.768608,"length":4600,"course":344.0}],"procedures":{"D":{},"E":{},"F":{}}};

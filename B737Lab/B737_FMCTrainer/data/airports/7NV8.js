@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NV8"]={"id":"7NV8","name":"GEYSER RANCH","lat":38.664117,"lon":-114.632225,"elevation":5977,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

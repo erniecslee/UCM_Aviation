@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NK2"]={"id":"4NK2","name":"CARY FLD","lat":43.145233,"lon":-73.41965,"elevation":455,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

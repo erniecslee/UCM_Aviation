@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18OI"]={"id":"18OI","name":"BOGGY BOTTOMS","lat":41.419742,"lon":-82.971303,"elevation":580,"region":"K5","runways":[{"id":"RW02","lat":41.416447,"lon":-82.971386,"length":2400,"course":7.1},{"id":"RW20","lat":41.423033,"lon":-82.971219,"length":2400,"course":187.1}],"procedures":{"D":{},"E":{},"F":{}}};

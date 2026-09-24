@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS80"]={"id":"MS80","name":"HASTING AIRPARK","lat":34.001906,"lon":-89.315094,"elevation":275,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

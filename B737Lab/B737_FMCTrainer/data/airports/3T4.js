@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3T4"]={"id":"3T4","name":"TETLIN","lat":63.124694,"lon":-142.518556,"elevation":1671,"region":"PA","runways":[{"id":"RW08","lat":63.125592,"lon":-142.528306,"length":3300,"course":80.0},{"id":"RW26","lat":63.123789,"lon":-142.508778,"length":3300,"course":260.0}],"procedures":{"D":{},"E":{},"F":{}}};

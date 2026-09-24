@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92GE"]={"id":"92GE","name":"MIDVILLE INTL","lat":32.845278,"lon":-82.270833,"elevation":265,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

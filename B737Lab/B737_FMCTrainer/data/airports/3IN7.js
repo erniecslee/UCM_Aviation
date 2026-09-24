@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IN7"]={"id":"3IN7","name":"CHAIN-O-LAKES","lat":41.662547,"lon":-86.354178,"elevation":743,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

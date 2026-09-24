@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56CL"]={"id":"56CL","name":"MORRIS AG AIR SW","lat":33.591969,"lon":-114.605511,"elevation":263,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

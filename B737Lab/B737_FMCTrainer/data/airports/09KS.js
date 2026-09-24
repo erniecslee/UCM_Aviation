@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09KS"]={"id":"09KS","name":"COFFMAN","lat":38.706953,"lon":-95.138303,"elevation":970,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

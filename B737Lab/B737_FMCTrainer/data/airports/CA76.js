@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA76"]={"id":"CA76","name":"FLYING T RANCH","lat":33.070322,"lon":-116.751967,"elevation":2500,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

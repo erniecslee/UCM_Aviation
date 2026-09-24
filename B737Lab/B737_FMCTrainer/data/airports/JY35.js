@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["JY35"]={"id":"JY35","name":"ALLEN'S","lat":40.03345,"lon":-74.057914,"elevation":0,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

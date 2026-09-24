@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17AR"]={"id":"17AR","name":"BREDLOW FARM","lat":34.553056,"lon":-92.091389,"elevation":236,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

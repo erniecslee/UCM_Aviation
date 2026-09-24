@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06PA"]={"id":"06PA","name":"FREEFALL OZ","lat":41.996,"lon":-78.2865,"elevation":1440,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

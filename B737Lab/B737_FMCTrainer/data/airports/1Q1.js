@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Q1"]={"id":"1Q1","name":"KINGTECH FLD","lat":36.162389,"lon":-119.050639,"elevation":426,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC2"]={"id":"NC2","name":"TAYLORSVILLE","lat":35.930833,"lon":-81.196667,"elevation":1090,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

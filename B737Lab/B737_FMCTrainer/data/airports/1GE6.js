@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GE6"]={"id":"1GE6","name":"DAYSTAR STRIP","lat":31.372439,"lon":-82.123453,"elevation":105,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

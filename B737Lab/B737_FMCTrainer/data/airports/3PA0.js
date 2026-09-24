@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PA0"]={"id":"3PA0","name":"HORST","lat":40.383425,"lon":-76.466353,"elevation":450,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

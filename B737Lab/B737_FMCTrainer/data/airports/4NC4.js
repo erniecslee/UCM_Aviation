@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC4"]={"id":"4NC4","name":"BEAR CREEK","lat":35.406489,"lon":-80.35805,"elevation":795,"region":"K7","runways":[{"id":"RW03","lat":35.4039,"lon":-80.3595,"length":2074,"course":32.9},{"id":"RW21","lat":35.409081,"lon":-80.3566,"length":2074,"course":212.9}],"procedures":{"D":{},"E":{},"F":{}}};

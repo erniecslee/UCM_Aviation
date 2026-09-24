@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6L5"]={"id":"6L5","name":"WISHEK MUNI","lat":46.249631,"lon":-99.539658,"elevation":2043,"region":"K3","runways":[{"id":"RW14","lat":46.253583,"lon":-99.5434,"length":3460,"course":138.0},{"id":"RW32","lat":46.245658,"lon":-99.535889,"length":3460,"course":318.0}],"procedures":{"D":{},"E":{},"F":{}}};

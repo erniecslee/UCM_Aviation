@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5II1"]={"id":"5II1","name":"LAYNE FLD","lat":39.782822,"lon":-86.617503,"elevation":905,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

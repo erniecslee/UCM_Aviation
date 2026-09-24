@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NK6"]={"id":"7NK6","name":"BLUEBERRY FLD","lat":42.291667,"lon":-75.066667,"elevation":2100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

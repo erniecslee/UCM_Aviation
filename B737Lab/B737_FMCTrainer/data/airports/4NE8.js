@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NE8"]={"id":"4NE8","name":"MALONE M-BAR RANCH","lat":40.382778,"lon":-101.15155,"elevation":3000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

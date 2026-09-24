@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7GA4"]={"id":"7GA4","name":"DANVILLE AIRPARK","lat":32.580989,"lon":-83.267661,"elevation":459,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

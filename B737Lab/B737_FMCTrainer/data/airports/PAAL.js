@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAL"]={"id":"PAAL","name":"PORT MOLLER","lat":56.005986,"lon":-160.560792,"elevation":20,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

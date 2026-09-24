@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD59"]={"id":"SD59","name":"LONE TREE","lat":45.022278,"lon":-97.844861,"elevation":1799,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

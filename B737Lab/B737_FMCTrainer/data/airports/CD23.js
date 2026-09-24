@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD23"]={"id":"CD23","name":"AERO BEAR FLD","lat":39.198333,"lon":-104.329167,"elevation":6300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

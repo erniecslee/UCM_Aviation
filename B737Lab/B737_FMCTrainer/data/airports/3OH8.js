@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OH8"]={"id":"3OH8","name":"GNADENHUTTEN","lat":40.360833,"lon":-81.423333,"elevation":842,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

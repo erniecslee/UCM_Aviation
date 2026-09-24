@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN42"]={"id":"SN42","name":"HARROD","lat":38.561081,"lon":-95.206661,"elevation":1000,"region":"K3","runways":[{"id":"RW27","lat":38.561053,"lon":-95.202794,"length":2210,"course":265.0}],"procedures":{"D":{},"E":{},"F":{}}};

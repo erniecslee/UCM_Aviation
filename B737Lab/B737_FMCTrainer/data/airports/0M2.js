@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0M2"]={"id":"0M2","name":"REELFOOT LAKE","lat":36.475333,"lon":-89.346306,"elevation":289,"region":"K7","runways":[{"id":"RW01","lat":36.470572,"lon":-89.347017,"length":3500,"course":5.0},{"id":"RW19","lat":36.480119,"lon":-89.345597,"length":3500,"course":185.0}],"procedures":{"D":{},"E":{},"F":{}}};

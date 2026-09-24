@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY61"]={"id":"NY61","name":"EAGLE NEST","lat":43.829786,"lon":-74.495439,"elevation":1790,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

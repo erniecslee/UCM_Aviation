@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24LA"]={"id":"24LA","name":"PK FLD","lat":30.318111,"lon":-90.95565,"elevation":21,"region":"K4","runways":[{"id":"RW18","lat":30.320172,"lon":-90.955617,"length":1500,"course":181.8},{"id":"RW36","lat":30.31605,"lon":-90.955683,"length":1500,"course":1.8}],"procedures":{"D":{},"E":{},"F":{}}};

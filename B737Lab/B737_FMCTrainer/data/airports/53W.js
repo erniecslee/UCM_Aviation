@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53W"]={"id":"53W","name":"WOODRUFF LAKE","lat":43.554603,"lon":-84.978964,"elevation":938,"region":"K5","runways":[{"id":"RW09","lat":43.554483,"lon":-84.984653,"length":3700,"course":92.0},{"id":"RW27","lat":43.554728,"lon":-84.972967,"length":3700,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

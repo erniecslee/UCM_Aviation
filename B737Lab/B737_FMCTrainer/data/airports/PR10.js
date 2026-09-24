@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PR10"]={"id":"PR10","name":"BOQUERON","lat":18.013019,"lon":-67.145456,"elevation":3,"region":"TJ","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

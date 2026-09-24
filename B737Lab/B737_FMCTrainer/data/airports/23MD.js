@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23MD"]={"id":"23MD","name":"BREEZECROFT","lat":39.255556,"lon":-76.206944,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4M2"]={"id":"4M2","name":"BOONEVILLE MUNI","lat":35.149525,"lon":-93.863389,"elevation":468,"region":"K4","runways":[{"id":"RW09","lat":35.149603,"lon":-93.868831,"length":3254,"course":86.0},{"id":"RW27","lat":35.14945,"lon":-93.85795,"length":3254,"course":266.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY65"]={"id":"WY65","name":"MADSEN","lat":44.348869,"lon":-105.337492,"elevation":4500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

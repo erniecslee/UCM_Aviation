@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58A"]={"id":"58A","name":"TOLSONA LAKE","lat":62.113411,"lon":-146.041067,"elevation":2000,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

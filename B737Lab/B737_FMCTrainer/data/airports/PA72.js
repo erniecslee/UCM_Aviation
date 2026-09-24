@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA72"]={"id":"PA72","name":"CIRCLE W AIRFIELD","lat":39.958708,"lon":-76.970811,"elevation":460,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

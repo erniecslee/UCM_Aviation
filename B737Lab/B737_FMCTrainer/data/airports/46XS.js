@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46XS"]={"id":"46XS","name":"CANADIAN RIVER RANCH","lat":35.402675,"lon":-102.807606,"elevation":3839,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

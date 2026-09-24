@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0VA2"]={"id":"0VA2","name":"RIVERWOOD","lat":37.796517,"lon":-79.766714,"elevation":1020,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

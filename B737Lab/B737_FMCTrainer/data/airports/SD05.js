@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD05"]={"id":"SD05","name":"THORSON AIRFIELD","lat":45.368611,"lon":-98.471944,"elevation":1300,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

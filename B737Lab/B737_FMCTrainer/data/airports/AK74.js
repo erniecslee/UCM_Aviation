@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK74"]={"id":"AK74","name":"UPPER HANNUM CREEK","lat":65.904858,"lon":-163.329092,"elevation":1300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02NH"]={"id":"02NH","name":"IROQUOIS LANDING","lat":44.657139,"lon":-71.219056,"elevation":1180,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

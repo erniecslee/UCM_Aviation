@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA83"]={"id":"VA83","name":"FINCASTLE","lat":37.522353,"lon":-79.851986,"elevation":1140,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

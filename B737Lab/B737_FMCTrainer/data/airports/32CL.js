@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32CL"]={"id":"32CL","name":"BOB'S FLYING SERVICE INC","lat":38.833233,"lon":-121.717742,"elevation":40,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

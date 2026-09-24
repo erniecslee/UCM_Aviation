@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MU5"]={"id":"6MU5","name":"CARP FARMS","lat":39.364317,"lon":-93.778269,"elevation":803,"region":"K3","runways":[{"id":"RW01","lat":39.361889,"lon":-93.778861,"length":1800,"course":10.2},{"id":"RW19","lat":39.366744,"lon":-93.777675,"length":1800,"course":190.2}],"procedures":{"D":{},"E":{},"F":{}}};

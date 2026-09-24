@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56WI"]={"id":"56WI","name":"JAKS FLD","lat":44.773439,"lon":-89.593731,"elevation":1190,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

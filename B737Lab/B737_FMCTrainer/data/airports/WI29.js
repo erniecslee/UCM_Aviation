@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI29"]={"id":"WI29","name":"RUSH RIVER","lat":44.908889,"lon":-92.401667,"elevation":1078,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

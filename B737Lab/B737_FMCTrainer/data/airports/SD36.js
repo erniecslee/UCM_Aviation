@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD36"]={"id":"SD36","name":"BOOTH RANCH","lat":45.12915,"lon":-100.755975,"elevation":2250,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KTB"]={"id":"KTB","name":"THORNE BAY","lat":55.687961,"lon":-132.536675,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

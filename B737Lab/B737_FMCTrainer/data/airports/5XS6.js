@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5XS6"]={"id":"5XS6","name":"OLD REB","lat":26.175353,"lon":-97.875275,"elevation":60,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

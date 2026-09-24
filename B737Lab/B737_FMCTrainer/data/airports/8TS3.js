@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TS3"]={"id":"8TS3","name":"BRUNER","lat":31.390181,"lon":-95.473281,"elevation":387,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

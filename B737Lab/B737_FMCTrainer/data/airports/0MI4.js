@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MI4"]={"id":"0MI4","name":"LESTERSON-DEMPSEY AIRSTRIP","lat":46.270222,"lon":-87.386528,"elevation":1120,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

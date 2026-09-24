@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME46"]={"id":"ME46","name":"BACK ACRES","lat":43.412308,"lon":-70.446717,"elevation":60,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

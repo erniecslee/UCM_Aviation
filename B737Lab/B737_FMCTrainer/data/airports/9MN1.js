@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MN1"]={"id":"9MN1","name":"TROLL FARM","lat":45.611628,"lon":-93.197444,"elevation":960,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

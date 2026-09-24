@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["48WA"]={"id":"48WA","name":"WEST VALLEY","lat":46.5625,"lon":-120.776667,"elevation":1900,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

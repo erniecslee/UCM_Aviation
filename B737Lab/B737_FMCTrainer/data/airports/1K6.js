@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1K6"]={"id":"1K6","name":"ELLINWOOD MUNI","lat":38.372842,"lon":-98.598644,"elevation":1797,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN8"]={"id":"8TN8","name":"FIELD OF DREAMS","lat":35.541667,"lon":-89.871389,"elevation":250,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

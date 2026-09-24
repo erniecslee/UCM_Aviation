@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1M2"]={"id":"1M2","name":"BELZONI MUNI","lat":33.145181,"lon":-90.515286,"elevation":110,"region":"K7","runways":[{"id":"RW03","lat":33.141681,"lon":-90.517833,"length":3000,"course":29.0},{"id":"RW21","lat":33.148708,"lon":-90.512711,"length":3000,"course":209.0}],"procedures":{"D":{},"E":{},"F":{}}};

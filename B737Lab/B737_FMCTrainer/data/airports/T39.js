@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T39"]={"id":"T39","name":"ARCHER CITY MUNI","lat":33.582325,"lon":-98.618669,"elevation":1065,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

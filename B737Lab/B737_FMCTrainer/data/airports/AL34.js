@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL34"]={"id":"AL34","name":"ELAM'S LANDING","lat":34.447039,"lon":-87.386133,"elevation":685,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C48"]={"id":"C48","name":"WILSON BAR USFS","lat":45.396667,"lon":-115.483333,"elevation":2275,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

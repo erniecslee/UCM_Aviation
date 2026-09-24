@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91NY"]={"id":"91NY","name":"MANITOU FLD","lat":43.195617,"lon":-77.748061,"elevation":470,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

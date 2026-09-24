@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04OR"]={"id":"04OR","name":"COLLINS LANDING STRIP","lat":44.749856,"lon":-120.201128,"elevation":1500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

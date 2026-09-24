@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79OK"]={"id":"79OK","name":"WILSON RANCH","lat":36.313675,"lon":-96.085706,"elevation":910,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

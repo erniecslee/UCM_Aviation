@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55ID"]={"id":"55ID","name":"SPEAR VALLEY","lat":48.381056,"lon":-116.484972,"elevation":2220,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

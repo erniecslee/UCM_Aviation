@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89IN"]={"id":"89IN","name":"MILHON","lat":39.506992,"lon":-86.389717,"elevation":615,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

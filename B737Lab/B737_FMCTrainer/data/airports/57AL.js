@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57AL"]={"id":"57AL","name":"BASWELL","lat":30.653194,"lon":-87.72375,"elevation":190,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

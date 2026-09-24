@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56NY"]={"id":"56NY","name":"MAYNARD'S","lat":43.325336,"lon":-78.049739,"elevation":342,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

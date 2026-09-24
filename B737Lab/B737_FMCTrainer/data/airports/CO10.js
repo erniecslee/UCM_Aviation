@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO10"]={"id":"CO10","name":"LEMONS PRIVATE STRIP","lat":39.994708,"lon":-105.223878,"elevation":5230,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

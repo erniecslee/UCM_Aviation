@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI87"]={"id":"WI87","name":"PINE RIVER","lat":45.203333,"lon":-89.524444,"elevation":1370,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

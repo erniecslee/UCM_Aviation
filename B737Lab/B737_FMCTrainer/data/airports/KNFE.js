@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNFE"]={"id":"KNFE","name":"FENTRESS NALF","lat":36.692036,"lon":-76.134564,"elevation":16,"region":"K6","runways":[{"id":"RW05","lat":36.683569,"lon":-76.143269,"length":8004,"course":49.0},{"id":"RW23","lat":36.700508,"lon":-76.125869,"length":8004,"course":228.0}],"procedures":{"D":{},"E":{},"F":{}}};

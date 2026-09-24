@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OA5"]={"id":"2OA5","name":"FL-AIRFIELD","lat":40.1825,"lon":-83.350944,"elevation":980,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00ID"]={"id":"00ID","name":"DELTA SHORES","lat":48.145278,"lon":-116.214444,"elevation":2064,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

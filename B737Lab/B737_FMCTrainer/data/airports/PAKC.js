@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAKC"]={"id":"PAKC","name":"COFFMAN COVE","lat":56.014803,"lon":-132.833922,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

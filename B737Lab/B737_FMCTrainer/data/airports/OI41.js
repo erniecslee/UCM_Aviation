@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI41"]={"id":"OI41","name":"FAR VIEW","lat":41.294,"lon":-81.156194,"elevation":1300,"region":"K5","runways":[{"id":"RW10","lat":41.294169,"lon":-81.160169,"length":2180,"course":100.0},{"id":"RW28","lat":41.293847,"lon":-81.152244,"length":2180,"course":280.0}],"procedures":{"D":{},"E":{},"F":{}}};

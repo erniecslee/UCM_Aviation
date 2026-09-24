@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30SD"]={"id":"30SD","name":"BARBER FLD","lat":45.504811,"lon":-98.595539,"elevation":1380,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

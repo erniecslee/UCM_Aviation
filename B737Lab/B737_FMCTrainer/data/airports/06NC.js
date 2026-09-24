@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06NC"]={"id":"06NC","name":"TAILWINDS","lat":34.8275,"lon":-78.930278,"elevation":163,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

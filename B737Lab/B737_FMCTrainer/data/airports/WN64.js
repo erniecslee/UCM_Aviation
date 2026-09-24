@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN64"]={"id":"WN64","name":"J K D FARMS","lat":46.974292,"lon":-120.462011,"elevation":1575,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID35"]={"id":"ID35","name":"HIGH VALLEY","lat":44.239058,"lon":-116.143464,"elevation":4883,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

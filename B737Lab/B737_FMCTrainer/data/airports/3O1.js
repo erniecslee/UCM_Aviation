@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3O1"]={"id":"3O1","name":"GUSTINE","lat":37.260556,"lon":-120.96425,"elevation":79,"region":"K2","runways":[{"id":"RW18","lat":37.2648,"lon":-120.96275,"length":3207,"course":180.0},{"id":"RW36","lat":37.256331,"lon":-120.965772,"length":3207,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

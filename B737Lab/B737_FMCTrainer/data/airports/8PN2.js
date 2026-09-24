@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8PN2"]={"id":"8PN2","name":"HALLETT'S","lat":40.91055,"lon":-75.165133,"elevation":700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

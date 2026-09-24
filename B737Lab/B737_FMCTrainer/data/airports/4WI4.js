@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WI4"]={"id":"4WI4","name":"TURNER","lat":45.574075,"lon":-89.747972,"elevation":1500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

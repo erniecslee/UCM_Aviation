@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55LL"]={"id":"55LL","name":"SKY SOARING","lat":42.153997,"lon":-88.511769,"elevation":891,"region":"K5","runways":[{"id":"RW09","lat":42.153992,"lon":-88.517303,"length":3000,"course":89.9},{"id":"RW27","lat":42.154003,"lon":-88.506239,"length":3000,"course":269.9}],"procedures":{"D":{},"E":{},"F":{}}};

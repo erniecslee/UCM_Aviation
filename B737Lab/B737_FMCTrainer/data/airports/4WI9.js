@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WI9"]={"id":"4WI9","name":"CORNELL MUNI","lat":45.165522,"lon":-91.105697,"elevation":1154,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

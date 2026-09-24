@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O06"]={"id":"O06","name":"LAKE OROVILLE LANDING AREA","lat":39.566553,"lon":-121.467747,"elevation":900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

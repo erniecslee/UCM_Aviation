@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TN5"]={"id":"9TN5","name":"ASKEY FLD","lat":35.458333,"lon":-86.956944,"elevation":810,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

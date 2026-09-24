@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5J2"]={"id":"5J2","name":"SILTCOOS LAKE","lat":43.886608,"lon":-124.101478,"elevation":11,"region":"K1","runways":[{"id":"RW13","lat":43.892214,"lon":-124.106936,"length":5000,"course":130.4},{"id":"RW31","lat":43.881,"lon":-124.096017,"length":5000,"course":310.4}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI88"]={"id":"OI88","name":"ADA","lat":40.790603,"lon":-83.829075,"elevation":945,"region":"K5","runways":[{"id":"RW09","lat":40.790603,"lon":-83.832642,"length":1975,"course":95.0},{"id":"RW27","lat":40.790603,"lon":-83.825508,"length":1975,"course":275.0}],"procedures":{"D":{},"E":{},"F":{}}};

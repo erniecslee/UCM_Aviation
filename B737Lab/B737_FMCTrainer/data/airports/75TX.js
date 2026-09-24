@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75TX"]={"id":"75TX","name":"LEONA RANCH","lat":29.500231,"lon":-100.367025,"elevation":1720,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

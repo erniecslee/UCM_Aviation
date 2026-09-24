@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66GA"]={"id":"66GA","name":"SAWYER FARM","lat":31.474722,"lon":-85.002778,"elevation":350,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

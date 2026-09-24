@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA84"]={"id":"CA84","name":"TORREY PINES","lat":32.889722,"lon":-117.246944,"elevation":372,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

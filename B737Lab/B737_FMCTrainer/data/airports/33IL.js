@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33IL"]={"id":"33IL","name":"JOHN SCHARFF","lat":40.166111,"lon":-88.898306,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

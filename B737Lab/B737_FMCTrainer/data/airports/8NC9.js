@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NC9"]={"id":"8NC9","name":"W N C  AIR MUSEUM","lat":35.307222,"lon":-82.433611,"elevation":2083,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

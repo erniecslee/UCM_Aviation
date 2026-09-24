@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OA2"]={"id":"2OA2","name":"MACKIE'S","lat":39.248056,"lon":-83.915,"elevation":993,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

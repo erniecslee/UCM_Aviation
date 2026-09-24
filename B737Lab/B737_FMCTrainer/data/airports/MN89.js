@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN89"]={"id":"MN89","name":"AEROVILLA","lat":46.616625,"lon":-95.650322,"elevation":1374,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL57"]={"id":"IL57","name":"COTTONWOOD","lat":40.422606,"lon":-89.020967,"elevation":746,"region":"K5","runways":[{"id":"RW18","lat":40.425075,"lon":-89.021067,"length":1800,"course":178.2},{"id":"RW36","lat":40.420136,"lon":-89.020867,"length":1800,"course":358.2}],"procedures":{"D":{},"E":{},"F":{}}};

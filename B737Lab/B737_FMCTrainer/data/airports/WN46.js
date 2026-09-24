@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN46"]={"id":"WN46","name":"BATTLE CREEK","lat":43.067508,"lon":-88.508711,"elevation":865,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

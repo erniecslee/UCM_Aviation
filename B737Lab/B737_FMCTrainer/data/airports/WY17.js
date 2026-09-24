@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY17"]={"id":"WY17","name":"ELLIS RANCH","lat":42.021908,"lon":-106.424469,"elevation":6530,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

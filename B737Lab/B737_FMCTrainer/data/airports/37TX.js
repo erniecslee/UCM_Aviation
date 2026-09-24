@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37TX"]={"id":"37TX","name":"YATES FLD","lat":31.321556,"lon":-98.865603,"elevation":1418,"region":"K4","runways":[{"id":"RW04","lat":31.320106,"lon":-98.868689,"length":2200,"course":53.0},{"id":"RW22","lat":31.323006,"lon":-98.862508,"length":2200,"course":233.0}],"procedures":{"D":{},"E":{},"F":{}}};

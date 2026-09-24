@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY68"]={"id":"MY68","name":"JOHNSONS AERO REPAIR","lat":45.777183,"lon":-96.391453,"elevation":1028,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

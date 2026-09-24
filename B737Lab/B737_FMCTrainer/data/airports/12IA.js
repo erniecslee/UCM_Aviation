@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12IA"]={"id":"12IA","name":"PLUEGER AIRFIELD","lat":42.800544,"lon":-96.137797,"elevation":1245,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

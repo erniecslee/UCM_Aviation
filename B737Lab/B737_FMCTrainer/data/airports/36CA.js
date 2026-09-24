@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36CA"]={"id":"36CA","name":"STONE LAND COMPANY","lat":36.131897,"lon":-119.985692,"elevation":265,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

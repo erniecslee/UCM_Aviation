@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK31"]={"id":"AK31","name":"SWIFT CREEK","lat":61.411225,"lon":-143.001236,"elevation":1225,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

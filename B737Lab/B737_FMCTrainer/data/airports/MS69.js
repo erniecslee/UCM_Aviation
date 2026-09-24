@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS69"]={"id":"MS69","name":"FALCON FLD","lat":32.108764,"lon":-90.046472,"elevation":415,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

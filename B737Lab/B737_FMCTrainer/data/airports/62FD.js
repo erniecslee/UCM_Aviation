@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62FD"]={"id":"62FD","name":"DOCTORS LAKE","lat":30.125278,"lon":-81.744167,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

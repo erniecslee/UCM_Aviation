@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27P"]={"id":"27P","name":"ELDORA","lat":42.329906,"lon":-93.114283,"elevation":975,"region":"K3","runways":[{"id":"RW18","lat":42.334069,"lon":-93.1143,"length":3035,"course":179.9},{"id":"RW36","lat":42.326433,"lon":-93.114281,"length":3035,"course":359.9}],"procedures":{"D":{},"E":{},"F":{}}};

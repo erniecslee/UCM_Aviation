@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MN5"]={"id":"1MN5","name":"MOLNAU AIRPARK","lat":44.843572,"lon":-93.739964,"elevation":1000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

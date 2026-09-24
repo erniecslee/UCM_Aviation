@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["20VG"]={"id":"20VG","name":"HAWK RIDGE","lat":37.288683,"lon":-79.446917,"elevation":760,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

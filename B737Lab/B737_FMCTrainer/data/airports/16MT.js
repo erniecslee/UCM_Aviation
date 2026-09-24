@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16MT"]={"id":"16MT","name":"BANGART FLD","lat":45.405222,"lon":-109.129875,"elevation":4320,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

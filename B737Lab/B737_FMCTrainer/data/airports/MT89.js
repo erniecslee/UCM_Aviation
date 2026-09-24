@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT89"]={"id":"MT89","name":"SANDS","lat":48.257889,"lon":-114.173417,"elevation":3003,"region":"K1","runways":[{"id":"RW01","lat":48.255583,"lon":-114.175233,"length":1900,"course":14.9},{"id":"RW19","lat":48.260192,"lon":-114.1716,"length":1900,"course":194.9}],"procedures":{"D":{},"E":{},"F":{}}};

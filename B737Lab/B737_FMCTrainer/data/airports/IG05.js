@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IG05"]={"id":"IG05","name":"WHEELER","lat":41.189764,"lon":-86.606956,"elevation":720,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12TN"]={"id":"12TN","name":"MEADOWLAKE","lat":35.823686,"lon":-84.538822,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

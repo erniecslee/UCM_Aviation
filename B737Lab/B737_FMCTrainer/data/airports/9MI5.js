@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MI5"]={"id":"9MI5","name":"GRASS ROOTS","lat":43.237803,"lon":-83.5244,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

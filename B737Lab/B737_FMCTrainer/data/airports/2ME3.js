@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ME3"]={"id":"2ME3","name":"HEARTSTONE FARM","lat":45.04135,"lon":-68.990022,"elevation":230,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

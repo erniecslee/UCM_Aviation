@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK27"]={"id":"AK27","name":"VALLEY FLYING CROWN","lat":61.642581,"lon":-149.62445,"elevation":400,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

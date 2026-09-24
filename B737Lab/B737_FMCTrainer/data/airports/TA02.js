@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA02"]={"id":"TA02","name":"HOWARD FLD","lat":33.1029,"lon":-97.464189,"elevation":960,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

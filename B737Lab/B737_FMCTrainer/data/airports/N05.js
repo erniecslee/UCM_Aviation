@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N05"]={"id":"N05","name":"HACKETTSTOWN","lat":40.8201,"lon":-74.855167,"elevation":670,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

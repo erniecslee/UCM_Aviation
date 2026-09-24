@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS57"]={"id":"XS57","name":"HAVELKA HAVEN","lat":31.465356,"lon":-97.404792,"elevation":711,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

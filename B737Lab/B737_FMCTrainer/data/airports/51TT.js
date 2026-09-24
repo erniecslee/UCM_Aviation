@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51TT"]={"id":"51TT","name":"HOES RANCH","lat":30.149442,"lon":-97.734553,"elevation":572,"region":"K4","runways":[{"id":"RW16","lat":30.15145,"lon":-97.735281,"length":1530,"course":159.4},{"id":"RW34","lat":30.147433,"lon":-97.733825,"length":1530,"course":339.4}],"procedures":{"D":{},"E":{},"F":{}}};

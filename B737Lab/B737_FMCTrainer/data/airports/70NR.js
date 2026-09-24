@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70NR"]={"id":"70NR","name":"RUBY'S LANDING","lat":35.219467,"lon":-78.366861,"elevation":144,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

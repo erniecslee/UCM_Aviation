@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT44"]={"id":"VT44","name":"PERRAS FLD","lat":44.526719,"lon":-72.581503,"elevation":820,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

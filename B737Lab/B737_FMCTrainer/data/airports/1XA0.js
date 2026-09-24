@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1XA0"]={"id":"1XA0","name":"DW","lat":31.808425,"lon":-98.425203,"elevation":1186,"region":"K4","runways":[{"id":"RW01","lat":31.806497,"lon":-98.425892,"length":1466,"course":13.5},{"id":"RW19","lat":31.81035,"lon":-98.424511,"length":1466,"course":193.5}],"procedures":{"D":{},"E":{},"F":{}}};

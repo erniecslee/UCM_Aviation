@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50AK"]={"id":"50AK","name":"ROBIN'S LANDING","lat":61.380461,"lon":-150.11625,"elevation":95,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

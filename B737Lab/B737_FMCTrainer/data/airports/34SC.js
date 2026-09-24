@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34SC"]={"id":"34SC","name":"TOMS CREEK","lat":33.771833,"lon":-79.96625,"elevation":80,"region":"K7","runways":[{"id":"RW17","lat":33.774639,"lon":-79.967167,"length":2117,"course":173.1},{"id":"RW35","lat":33.769028,"lon":-79.965333,"length":2117,"course":353.1}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR76"]={"id":"OR76","name":"CIDER RUN","lat":45.335036,"lon":-122.409506,"elevation":525,"region":"K1","runways":[{"id":"RW08","lat":45.3352,"lon":-122.411833,"length":1203,"course":81.3},{"id":"RW26","lat":45.334875,"lon":-122.407178,"length":1203,"course":261.3}],"procedures":{"D":{},"E":{},"F":{}}};

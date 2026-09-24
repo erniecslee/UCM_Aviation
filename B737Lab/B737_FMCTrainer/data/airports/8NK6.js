@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NK6"]={"id":"8NK6","name":"SUNTIME","lat":42.713056,"lon":-75.168333,"elevation":1650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

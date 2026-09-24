@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS13"]={"id":"MS13","name":"EIFLING FARMS","lat":33.075678,"lon":-90.953436,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

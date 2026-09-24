@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN0"]={"id":"4TN0","name":"MELTON FLD","lat":36.151944,"lon":-83.732778,"elevation":1060,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

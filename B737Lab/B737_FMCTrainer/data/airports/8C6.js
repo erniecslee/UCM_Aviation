@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8C6"]={"id":"8C6","name":"TRAER MUNI","lat":42.200833,"lon":-92.456639,"elevation":892,"region":"K3","runways":[{"id":"RW17","lat":42.204347,"lon":-92.456564,"length":2555,"course":178.0},{"id":"RW35","lat":42.197336,"lon":-92.456739,"length":2555,"course":358.0}],"procedures":{"D":{},"E":{},"F":{}}};

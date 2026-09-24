@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO36"]={"id":"MO36","name":"11","lat":38.068317,"lon":-94.567722,"elevation":872,"region":"K3","runways":[{"id":"RW04U","lat":38.067844,"lon":-94.568267,"length":466,"course":41.2},{"id":"RW22U","lat":38.068789,"lon":-94.567178,"length":466,"course":221.2}],"procedures":{"D":{},"E":{},"F":{}}};

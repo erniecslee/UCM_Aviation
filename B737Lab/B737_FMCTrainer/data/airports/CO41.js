@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO41"]={"id":"CO41","name":"CAMPBELLS","lat":39.913889,"lon":-104.473333,"elevation":5165,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08FL"]={"id":"08FL","name":"J H HENDRIE FARMS","lat":27.084497,"lon":-81.328683,"elevation":103,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

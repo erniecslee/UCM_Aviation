@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX29"]={"id":"TX29","name":"FLYING O","lat":32.289033,"lon":-96.704436,"elevation":490,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34OI"]={"id":"34OI","name":"MOHICAN AIRPARK","lat":40.694503,"lon":-82.117931,"elevation":1180,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3H3"]={"id":"3H3","name":"COTTONWOOD LAKE","lat":61.597611,"lon":-149.316361,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

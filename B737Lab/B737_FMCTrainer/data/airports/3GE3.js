@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GE3"]={"id":"3GE3","name":"BROAD RIVER AIR PARK","lat":34.412417,"lon":-83.180444,"elevation":690,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

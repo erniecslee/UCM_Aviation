@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68S"]={"id":"68S","name":"DAVENPORT","lat":47.652061,"lon":-118.173772,"elevation":2424,"region":"K1","runways":[{"id":"RW06","lat":47.650781,"lon":-118.180108,"length":3260,"course":53.0},{"id":"RW24","lat":47.653339,"lon":-118.167436,"length":3260,"course":233.0}],"procedures":{"D":{},"E":{},"F":{}}};

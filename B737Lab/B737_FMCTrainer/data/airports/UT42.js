@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT42"]={"id":"UT42","name":"WESTWATER","lat":39.146667,"lon":-109.145,"elevation":4660,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

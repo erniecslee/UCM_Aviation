@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11VG"]={"id":"11VG","name":"DEVIL'S REACH LANDING","lat":38.209444,"lon":-77.000556,"elevation":28,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

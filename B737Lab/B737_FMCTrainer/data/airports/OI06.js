@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI06"]={"id":"OI06","name":"WAGNER","lat":39.991744,"lon":-84.291656,"elevation":935,"region":"K5","runways":[{"id":"RW09","lat":39.991717,"lon":-84.294958,"length":1850,"course":93.0},{"id":"RW27","lat":39.991772,"lon":-84.288353,"length":1850,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

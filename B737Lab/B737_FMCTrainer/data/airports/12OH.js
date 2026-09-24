@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12OH"]={"id":"12OH","name":"MCGREGOR AIRFIELD","lat":39.834778,"lon":-84.334667,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

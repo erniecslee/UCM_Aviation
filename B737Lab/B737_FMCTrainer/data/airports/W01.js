@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W01"]={"id":"W01","name":"TONASKET MUNI","lat":48.724869,"lon":-119.465636,"elevation":1311,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

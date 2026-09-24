@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KDTG"]={"id":"KDTG","name":"DWIGHT","lat":41.132622,"lon":-88.438644,"elevation":632,"region":"K5","runways":[{"id":"RW09","lat":41.132508,"lon":-88.442933,"length":2364,"course":90.0},{"id":"RW27","lat":41.132708,"lon":-88.435444,"length":2364,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4M4"]={"id":"4M4","name":"SHADY LAWN FLD","lat":43.128586,"lon":-84.381294,"elevation":683,"region":"K5","runways":[{"id":"RW09","lat":43.128572,"lon":-84.384786,"length":1865,"course":96.4},{"id":"RW27","lat":43.128597,"lon":-84.3778,"length":1865,"course":276.4}],"procedures":{"D":{},"E":{},"F":{}}};

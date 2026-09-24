@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8WI1"]={"id":"8WI1","name":"DILLENBURG'S","lat":44.753592,"lon":-88.728158,"elevation":915,"region":"K5","runways":[{"id":"RW18","lat":44.758,"lon":-88.728297,"length":2000,"course":181.0},{"id":"RW36","lat":44.752514,"lon":-88.728297,"length":2000,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

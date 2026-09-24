@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG30"]={"id":"VG30","name":"SCOTT FARM STRIP","lat":37.227083,"lon":-75.976875,"elevation":33,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

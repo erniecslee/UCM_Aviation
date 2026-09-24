@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CA8"]={"id":"2CA8","name":"B & E RANCH","lat":34.420556,"lon":-116.610578,"elevation":2793,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

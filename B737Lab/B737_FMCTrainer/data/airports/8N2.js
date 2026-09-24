@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8N2"]={"id":"8N2","name":"SKYDIVE CHICAGO","lat":41.399778,"lon":-88.793917,"elevation":616,"region":"K5","runways":[{"id":"RW03","lat":41.394569,"lon":-88.798381,"length":4522,"course":34.0},{"id":"RW21","lat":41.405,"lon":-88.789447,"length":4522,"course":214.0}],"procedures":{"D":{},"E":{},"F":{}}};

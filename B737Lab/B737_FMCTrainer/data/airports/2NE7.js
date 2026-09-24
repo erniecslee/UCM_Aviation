@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NE7"]={"id":"2NE7","name":"KUMOR","lat":40.851386,"lon":-101.942681,"elevation":3520,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12NH"]={"id":"12NH","name":"GILE POND","lat":43.495278,"lon":-71.654444,"elevation":485,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GE5"]={"id":"1GE5","name":"FLYING D","lat":33.101236,"lon":-84.393533,"elevation":838,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

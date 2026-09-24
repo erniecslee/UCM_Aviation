@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY31"]={"id":"WY31","name":"MELODY RANCH","lat":43.40965,"lon":-110.772981,"elevation":6075,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

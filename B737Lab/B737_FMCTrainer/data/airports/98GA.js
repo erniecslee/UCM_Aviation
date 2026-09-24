@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98GA"]={"id":"98GA","name":"CIRCLE T","lat":33.207242,"lon":-83.915419,"elevation":545,"region":"K7","runways":[{"id":"RW13","lat":33.209497,"lon":-83.919528,"length":3000,"course":126.1},{"id":"RW31","lat":33.204989,"lon":-83.911314,"length":3000,"course":306.1}],"procedures":{"D":{},"E":{},"F":{}}};

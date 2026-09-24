@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA99"]={"id":"GA99","name":"MIAMI VALLEY FARM","lat":32.548758,"lon":-83.801853,"elevation":468,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

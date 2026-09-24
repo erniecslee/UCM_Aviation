@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD69"]={"id":"CD69","name":"MORNING SHADOWS RANCH","lat":37.740281,"lon":-106.525597,"elevation":8300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

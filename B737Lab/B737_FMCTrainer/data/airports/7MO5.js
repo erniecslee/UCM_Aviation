@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MO5"]={"id":"7MO5","name":"BUCKHORN","lat":36.559792,"lon":-92.204917,"elevation":781,"region":"K3","runways":[{"id":"RW14","lat":36.562628,"lon":-92.207611,"length":2600,"course":143.0},{"id":"RW32","lat":36.556958,"lon":-92.202225,"length":2600,"course":323.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79GA"]={"id":"79GA","name":"COATES","lat":31.491283,"lon":-85.016594,"elevation":310,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

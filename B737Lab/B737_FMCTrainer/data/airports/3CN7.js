@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3CN7"]={"id":"3CN7","name":"ALTA MESA AIRPARK","lat":38.379167,"lon":-121.221667,"elevation":125,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

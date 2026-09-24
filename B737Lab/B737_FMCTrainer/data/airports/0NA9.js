@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0NA9"]={"id":"0NA9","name":"BOYD'S TURF","lat":46.750014,"lon":-103.801033,"elevation":2750,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

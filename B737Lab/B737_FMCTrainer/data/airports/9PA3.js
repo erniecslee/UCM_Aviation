@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9PA3"]={"id":"9PA3","name":"MCMILLIN LANDINGSTRIP","lat":40.887367,"lon":-80.320269,"elevation":918,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

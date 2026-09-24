@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA23"]={"id":"VA23","name":"SANFORD FLD","lat":38.119017,"lon":-76.613569,"elevation":15,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

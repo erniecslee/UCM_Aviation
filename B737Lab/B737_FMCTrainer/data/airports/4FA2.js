@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4FA2"]={"id":"4FA2","name":"CROOM A CHOBEE","lat":28.625753,"lon":-82.14135,"elevation":65,"region":"K7","runways":[{"id":"RW10","lat":28.625753,"lon":-82.144467,"length":2000,"course":96.5},{"id":"RW28","lat":28.625753,"lon":-82.138233,"length":2000,"course":276.5}],"procedures":{"D":{},"E":{},"F":{}}};

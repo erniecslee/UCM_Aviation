@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4PN7"]={"id":"4PN7","name":"MERRITT FLD","lat":41.420911,"lon":-76.534392,"elevation":2000,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85TE"]={"id":"85TE","name":"OLD KINGSBURY AERODROME","lat":29.634194,"lon":-97.811694,"elevation":560,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

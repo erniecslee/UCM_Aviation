@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M42"]={"id":"M42","name":"RUSSIAN FLAT","lat":46.724311,"lon":-110.417828,"elevation":6336,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

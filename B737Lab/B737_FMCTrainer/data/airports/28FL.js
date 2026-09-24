@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28FL"]={"id":"28FL","name":"JIM FINLAY FARM","lat":29.441917,"lon":-81.583131,"elevation":40,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

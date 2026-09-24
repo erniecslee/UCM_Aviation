@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS48"]={"id":"MS48","name":"GEORGE FORD","lat":30.621889,"lon":-89.697,"elevation":62,"region":"K7","runways":[{"id":"RW18","lat":30.62565,"lon":-89.696981,"length":2735,"course":179.0},{"id":"RW36","lat":30.618131,"lon":-89.697019,"length":2735,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

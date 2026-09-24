@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47WI"]={"id":"47WI","name":"OAKBROOK","lat":42.890008,"lon":-88.808161,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

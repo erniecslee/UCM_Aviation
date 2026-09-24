@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NC5"]={"id":"5NC5","name":"THE DUCHY","lat":35.981528,"lon":-79.273072,"elevation":650,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

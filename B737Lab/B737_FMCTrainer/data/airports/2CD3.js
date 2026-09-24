@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CD3"]={"id":"2CD3","name":"BIJOU SPRINGS RANCH","lat":39.119472,"lon":-104.431806,"elevation":6600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

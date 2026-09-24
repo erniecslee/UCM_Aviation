@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0XS7"]={"id":"0XS7","name":"ANACACHO RANCH","lat":29.194019,"lon":-100.280181,"elevation":1067,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

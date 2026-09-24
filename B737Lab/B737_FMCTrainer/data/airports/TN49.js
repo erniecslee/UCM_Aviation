@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN49"]={"id":"TN49","name":"BELLWOOD FLD","lat":36.258806,"lon":-86.16275,"elevation":590,"region":"K7","runways":[{"id":"RW01","lat":36.262528,"lon":-86.162056,"length":2741,"course":193.3},{"id":"RW19","lat":36.255083,"lon":-86.163444,"length":2741,"course":13.3}],"procedures":{"D":{},"E":{},"F":{}}};

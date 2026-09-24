@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND62"]={"id":"ND62","name":"BRANDS","lat":46.848339,"lon":-102.457956,"elevation":2423,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

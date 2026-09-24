@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77TN"]={"id":"77TN","name":"DARNELL'S FLD","lat":36.509167,"lon":-82.681667,"elevation":1150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

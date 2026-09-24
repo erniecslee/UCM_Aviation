@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32CA"]={"id":"32CA","name":"STONE AIRSTRIP","lat":36.333283,"lon":-119.825136,"elevation":220,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

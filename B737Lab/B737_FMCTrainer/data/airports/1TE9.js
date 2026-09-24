@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TE9"]={"id":"1TE9","name":"RMR RANCH","lat":31.27175,"lon":-96.43965,"elevation":420,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F13"]={"id":"F13","name":"SHELL CREEK AIRPARK","lat":26.968611,"lon":-81.916306,"elevation":20,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

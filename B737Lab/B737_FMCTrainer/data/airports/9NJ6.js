@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NJ6"]={"id":"9NJ6","name":"HALKA NURSERIES","lat":39.366389,"lon":-75.268333,"elevation":10,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

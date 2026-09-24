@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["73IN"]={"id":"73IN","name":"BENHAM","lat":38.976667,"lon":-87.0225,"elevation":500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

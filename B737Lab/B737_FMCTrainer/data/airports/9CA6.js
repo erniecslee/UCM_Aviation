@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CA6"]={"id":"9CA6","name":"NORTH VALLEY","lat":37.869097,"lon":-118.095108,"elevation":4960,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

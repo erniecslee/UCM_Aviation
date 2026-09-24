@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9TX4"]={"id":"9TX4","name":"FLYING H RANCH","lat":30.659633,"lon":-97.911125,"elevation":1000,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

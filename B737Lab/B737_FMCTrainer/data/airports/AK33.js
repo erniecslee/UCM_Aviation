@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK33"]={"id":"AK33","name":"HERENDEEN BAY","lat":55.801394,"lon":-160.899256,"elevation":20,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

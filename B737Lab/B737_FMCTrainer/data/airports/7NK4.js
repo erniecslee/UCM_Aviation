@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7NK4"]={"id":"7NK4","name":"RIDGE ROAD WEST","lat":43.222558,"lon":-77.810564,"elevation":400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

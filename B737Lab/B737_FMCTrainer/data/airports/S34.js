@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S34"]={"id":"S34","name":"PLAINS","lat":47.473556,"lon":-114.907081,"elevation":2467,"region":"K1","runways":[{"id":"RW13","lat":47.478581,"lon":-114.912864,"length":4650,"course":124.0},{"id":"RW31","lat":47.468531,"lon":-114.9013,"length":4650,"course":304.0}],"procedures":{"D":{},"E":{},"F":{}}};

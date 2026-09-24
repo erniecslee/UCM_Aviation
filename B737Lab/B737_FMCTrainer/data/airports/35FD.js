@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35FD"]={"id":"35FD","name":"RUSH","lat":29.692333,"lon":-82.729167,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

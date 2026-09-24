@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3R8"]={"id":"3R8","name":"HONAKER FLD","lat":38.6577,"lon":-85.790586,"elevation":600,"region":"K5","runways":[{"id":"RW02","lat":38.654225,"lon":-85.792467,"length":2750,"course":25.0},{"id":"RW20","lat":38.661175,"lon":-85.788703,"length":2750,"course":205.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN72"]={"id":"SN72","name":"GRAHAM FARMS","lat":38.300019,"lon":-95.439981,"elevation":985,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MO3"]={"id":"9MO3","name":"LAWLOR-JUSTUS","lat":39.641661,"lon":-94.813575,"elevation":1100,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["53VG"]={"id":"53VG","name":"THE SALMON  FARM","lat":37.613889,"lon":-75.801111,"elevation":41,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

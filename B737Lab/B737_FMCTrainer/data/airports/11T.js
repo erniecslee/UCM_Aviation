@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11T"]={"id":"11T","name":"ROCKING L","lat":30.373308,"lon":-100.190225,"elevation":2339,"region":"K4","runways":[{"id":"RW18","lat":30.37665,"lon":-100.190181,"length":2432,"course":176.2},{"id":"RW36","lat":30.369964,"lon":-100.190267,"length":2432,"course":356.2}],"procedures":{"D":{},"E":{},"F":{}}};

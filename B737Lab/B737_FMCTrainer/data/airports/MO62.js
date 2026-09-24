@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO62"]={"id":"MO62","name":"ECKART FLD","lat":38.064678,"lon":-94.568889,"elevation":880,"region":"K3","runways":[{"id":"RW18","lat":38.066303,"lon":-94.568889,"length":1182,"course":178.9},{"id":"RW36","lat":38.063056,"lon":-94.568889,"length":1182,"course":358.9}],"procedures":{"D":{},"E":{},"F":{}}};

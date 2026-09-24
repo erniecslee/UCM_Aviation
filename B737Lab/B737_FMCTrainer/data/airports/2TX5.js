@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2TX5"]={"id":"2TX5","name":"MCGREGOR","lat":31.453497,"lon":-97.751411,"elevation":757,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

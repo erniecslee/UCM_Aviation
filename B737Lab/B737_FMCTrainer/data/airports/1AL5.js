@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AL5"]={"id":"1AL5","name":"BERRY FLD","lat":30.636389,"lon":-87.747778,"elevation":170,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

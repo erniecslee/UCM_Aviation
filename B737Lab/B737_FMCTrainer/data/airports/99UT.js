@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99UT"]={"id":"99UT","name":"SUNDOG","lat":40.350556,"lon":-109.401389,"elevation":4900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA16"]={"id":"TA16","name":"TRIPLE S","lat":33.442864,"lon":-100.854572,"elevation":2317,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

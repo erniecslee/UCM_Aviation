@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT80"]={"id":"TT80","name":"PECAN VALLEY","lat":30.938639,"lon":-97.865319,"elevation":814,"region":"K4","runways":[{"id":"RW01","lat":30.937039,"lon":-97.865825,"length":1206,"course":12.0},{"id":"RW19","lat":30.940239,"lon":-97.864814,"length":1206,"course":192.0}],"procedures":{"D":{},"E":{},"F":{}}};

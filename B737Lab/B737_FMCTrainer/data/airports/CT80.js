@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CT80"]={"id":"CT80","name":"STONINGTON AIRPARK","lat":41.347322,"lon":-71.885903,"elevation":7,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

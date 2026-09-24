@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60NC"]={"id":"60NC","name":"STAR HILL GOLF CLUB","lat":34.705161,"lon":-77.051058,"elevation":40,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE26"]={"id":"GE26","name":"DUKE STRIP 2","lat":32.381667,"lon":-83.059722,"elevation":340,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

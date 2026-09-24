@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32WN"]={"id":"32WN","name":"BOWMAN AIRSTRIP","lat":45.099606,"lon":-88.419733,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

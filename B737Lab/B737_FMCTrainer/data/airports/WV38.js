@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV38"]={"id":"WV38","name":"WEST PARKERSBURG","lat":39.265353,"lon":-81.585958,"elevation":582,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

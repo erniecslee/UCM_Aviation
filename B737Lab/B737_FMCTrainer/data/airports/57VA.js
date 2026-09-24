@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57VA"]={"id":"57VA","name":"WEMMERING","lat":36.71915,"lon":-80.547314,"elevation":2951,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

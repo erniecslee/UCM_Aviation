@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU62"]={"id":"MU62","name":"HILLTOP","lat":38.563347,"lon":-94.591067,"elevation":1005,"region":"K3","runways":[{"id":"RW18","lat":38.564989,"lon":-94.590986,"length":1200,"course":177.2},{"id":"RW36","lat":38.5617,"lon":-94.591147,"length":1200,"course":357.2}],"procedures":{"D":{},"E":{},"F":{}}};

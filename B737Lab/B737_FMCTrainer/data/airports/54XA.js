@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["54XA"]={"id":"54XA","name":"FLAHERTY","lat":33.491528,"lon":-97.211111,"elevation":802,"region":"K4","runways":[{"id":"RW18","lat":33.494722,"lon":-97.211111,"length":2325,"course":177.2},{"id":"RW36","lat":33.488333,"lon":-97.211111,"length":2325,"course":357.2}],"procedures":{"D":{},"E":{},"F":{}}};

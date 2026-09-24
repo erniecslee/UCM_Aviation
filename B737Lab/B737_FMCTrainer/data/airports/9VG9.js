@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9VG9"]={"id":"9VG9","name":"JUCAPA FARMS","lat":39.372117,"lon":-78.30445,"elevation":1160,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

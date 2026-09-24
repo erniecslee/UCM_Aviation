@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC03"]={"id":"NC03","name":"DARR FLD","lat":35.906894,"lon":-79.989819,"elevation":874,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY23"]={"id":"NY23","name":"MAC","lat":42.987572,"lon":-74.966544,"elevation":1210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

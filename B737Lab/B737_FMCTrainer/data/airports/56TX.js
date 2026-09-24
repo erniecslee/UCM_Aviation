@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56TX"]={"id":"56TX","name":"ANCHORAGE FARM FLD","lat":30.009347,"lon":-96.759603,"elevation":440,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

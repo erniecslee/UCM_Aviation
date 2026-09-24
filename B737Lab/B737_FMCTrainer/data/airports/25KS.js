@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25KS"]={"id":"25KS","name":"WYRILL FARMING","lat":39.683344,"lon":-99.128422,"elevation":1700,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

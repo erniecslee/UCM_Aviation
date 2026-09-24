@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30TX"]={"id":"30TX","name":"BURG LAKE AERO","lat":30.232361,"lon":-98.654972,"elevation":1463,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OK8"]={"id":"3OK8","name":"FLYING G RANCH","lat":36.11675,"lon":-96.233619,"elevation":890,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

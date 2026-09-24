@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3WN6"]={"id":"3WN6","name":"KNUTSON FARMS","lat":45.238961,"lon":-91.711947,"elevation":1035,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

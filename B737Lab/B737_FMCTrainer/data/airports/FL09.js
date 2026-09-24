@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL09"]={"id":"FL09","name":"KITTYHAWK ESTATES","lat":30.338831,"lon":-83.144303,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN71"]={"id":"TN71","name":"COX FARM","lat":35.794522,"lon":-84.341589,"elevation":1000,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

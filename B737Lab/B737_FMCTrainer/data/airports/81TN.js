@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81TN"]={"id":"81TN","name":"SOUTHFORK","lat":36.5045,"lon":-82.15875,"elevation":1500,"region":"K7","runways":[{"id":"RW14","lat":36.503583,"lon":-82.157667,"length":925,"course":323.6},{"id":"RW32","lat":36.505417,"lon":-82.159833,"length":925,"course":143.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY09"]={"id":"WY09","name":"SHERWIN FLD NR 1","lat":43.506083,"lon":-104.878222,"elevation":4190,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

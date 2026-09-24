@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX34"]={"id":"TX34","name":"WINDY TALES","lat":32.847958,"lon":-97.984306,"elevation":980,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

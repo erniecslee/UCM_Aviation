@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22LA"]={"id":"22LA","name":"WD FLYERS","lat":30.997547,"lon":-91.881092,"elevation":48,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

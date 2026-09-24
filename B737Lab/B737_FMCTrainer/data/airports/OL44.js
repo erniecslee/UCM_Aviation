@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL44"]={"id":"OL44","name":"PORTER","lat":35.133056,"lon":-99.383889,"elevation":1807,"region":"K4","runways":[{"id":"RW18","lat":35.134722,"lon":-99.383889,"length":1213,"course":175.9},{"id":"RW36","lat":35.131389,"lon":-99.383889,"length":1213,"course":355.9}],"procedures":{"D":{},"E":{},"F":{}}};

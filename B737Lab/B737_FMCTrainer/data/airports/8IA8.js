@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IA8"]={"id":"8IA8","name":"PFEIFER FLD","lat":41.454839,"lon":-91.617311,"elevation":715,"region":"K3","runways":[{"id":"RW12","lat":41.455297,"lon":-91.618222,"length":600,"course":124.9},{"id":"RW30","lat":41.454383,"lon":-91.6164,"length":600,"course":304.9}],"procedures":{"D":{},"E":{},"F":{}}};

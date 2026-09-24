@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09IA"]={"id":"09IA","name":"SKYDIVE IOWA","lat":41.745831,"lon":-92.409353,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

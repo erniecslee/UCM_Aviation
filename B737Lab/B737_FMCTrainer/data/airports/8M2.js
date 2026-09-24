@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8M2"]={"id":"8M2","name":"SALLY WOFFORD","lat":35.590272,"lon":-90.913672,"elevation":245,"region":"K4","runways":[{"id":"RW01","lat":35.587108,"lon":-90.914256,"length":2330,"course":6.0},{"id":"RW19","lat":35.593439,"lon":-90.913086,"length":2330,"course":186.0}],"procedures":{"D":{},"E":{},"F":{}}};

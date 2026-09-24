@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1GE9"]={"id":"1GE9","name":"WAVERLY LANDING","lat":32.714444,"lon":-84.718056,"elevation":675,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

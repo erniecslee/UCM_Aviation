@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50NC"]={"id":"50NC","name":"ERVIN AIRFIELD","lat":35.545,"lon":-80.668611,"elevation":905,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

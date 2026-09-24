@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE42"]={"id":"NE42","name":"DREAM FLD","lat":40.933336,"lon":-96.700569,"elevation":1194,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

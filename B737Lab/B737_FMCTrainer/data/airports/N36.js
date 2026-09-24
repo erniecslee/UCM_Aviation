@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N36"]={"id":"N36","name":"WOTJE","lat":9.466667,"lon":170.233333,"elevation":4,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

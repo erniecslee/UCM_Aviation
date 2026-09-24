@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27MN"]={"id":"27MN","name":"LAKE BRONSON","lat":48.737478,"lon":-96.654489,"elevation":960,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

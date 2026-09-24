@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1K7"]={"id":"1K7","name":"FREDONIA","lat":37.580706,"lon":-95.837156,"elevation":882,"region":"K3","runways":[{"id":"RW17","lat":37.586961,"lon":-95.837119,"length":4557,"course":174.0},{"id":"RW35","lat":37.575933,"lon":-95.837183,"length":4557,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

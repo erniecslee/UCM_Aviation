@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK88"]={"id":"OK88","name":"BIG CREEK RANCH AIRSTRIP","lat":36.914456,"lon":-95.463297,"elevation":882,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

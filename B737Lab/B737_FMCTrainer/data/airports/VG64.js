@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG64"]={"id":"VG64","name":"LEE FLD","lat":37.5615,"lon":-76.852528,"elevation":20,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

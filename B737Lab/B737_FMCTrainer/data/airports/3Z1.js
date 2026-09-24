@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3Z1"]={"id":"3Z1","name":"FEATHER RIVER","lat":64.831728,"lon":-166.131522,"elevation":325,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

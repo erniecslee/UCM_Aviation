@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK9"]={"id":"2OK9","name":"CARIBOU","lat":35.658056,"lon":-97.629167,"elevation":1050,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

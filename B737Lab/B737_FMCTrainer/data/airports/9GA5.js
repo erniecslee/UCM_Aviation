@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9GA5"]={"id":"9GA5","name":"LOWELL FLD","lat":32.058219,"lon":-84.290189,"elevation":475,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

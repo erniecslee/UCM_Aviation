@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MS1"]={"id":"5MS1","name":"ROLLANG FLD","lat":32.954294,"lon":-90.845933,"elevation":106,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

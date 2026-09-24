@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN04"]={"id":"SN04","name":"ROBERTS MEML","lat":38.423056,"lon":-96.371944,"elevation":1185,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

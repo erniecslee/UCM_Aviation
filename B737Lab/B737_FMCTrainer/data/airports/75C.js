@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75C"]={"id":"75C","name":"OROGRANDE","lat":45.729444,"lon":-115.527778,"elevation":4419,"region":"K1","runways":[{"id":"RW01","lat":45.726147,"lon":-115.530603,"length":2800,"course":14.0},{"id":"RW19","lat":45.732728,"lon":-115.524944,"length":2800,"course":194.0}],"procedures":{"D":{},"E":{},"F":{}}};

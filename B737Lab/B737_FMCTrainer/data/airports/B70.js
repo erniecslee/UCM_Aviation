@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["B70"]={"id":"B70","name":"TIBER DAM","lat":48.313872,"lon":-111.109142,"elevation":3023,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

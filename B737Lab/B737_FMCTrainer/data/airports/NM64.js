@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM64"]={"id":"NM64","name":"DIAMOND A RANCH","lat":31.458706,"lon":-108.862558,"elevation":5155,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

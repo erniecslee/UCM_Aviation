@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36MS"]={"id":"36MS","name":"EDWARDS 1","lat":33.439892,"lon":-90.834533,"elevation":114,"region":"K7","runways":[{"id":"RW18","lat":33.444286,"lon":-90.834519,"length":3200,"course":181.4},{"id":"RW36","lat":33.435494,"lon":-90.834544,"length":3200,"course":1.4}],"procedures":{"D":{},"E":{},"F":{}}};

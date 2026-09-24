@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16OK"]={"id":"16OK","name":"ENTZ ARTS","lat":35.449911,"lon":-98.586214,"elevation":1688,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

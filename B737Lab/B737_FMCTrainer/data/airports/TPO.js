@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TPO"]={"id":"TPO","name":"PORT ALSWORTH","lat":60.204333,"lon":-154.318872,"elevation":280,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

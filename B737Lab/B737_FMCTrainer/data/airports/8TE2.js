@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TE2"]={"id":"8TE2","name":"J-BAR RANCH","lat":31.527914,"lon":-102.5282,"elevation":2667,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7CO8"]={"id":"7CO8","name":"WEST PUEBLO","lat":38.363333,"lon":-104.738028,"elevation":5135,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

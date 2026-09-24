@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OR0"]={"id":"7OR0","name":"MINAM LODGE","lat":45.358197,"lon":-117.634369,"elevation":3589,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

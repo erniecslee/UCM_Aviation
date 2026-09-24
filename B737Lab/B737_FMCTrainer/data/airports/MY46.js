@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY46"]={"id":"MY46","name":"HAY SHAKERS","lat":44.279167,"lon":-94.213333,"elevation":995,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

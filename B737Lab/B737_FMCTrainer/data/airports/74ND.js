@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74ND"]={"id":"74ND","name":"METZ FLD","lat":47.747742,"lon":-97.501681,"elevation":1104,"region":"K3","runways":[{"id":"RW18","lat":47.750644,"lon":-97.501672,"length":2118,"course":177.1},{"id":"RW36","lat":47.744839,"lon":-97.501689,"length":2118,"course":357.1}],"procedures":{"D":{},"E":{},"F":{}}};

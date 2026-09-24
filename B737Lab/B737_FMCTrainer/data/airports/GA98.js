@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA98"]={"id":"GA98","name":"GRAYHILL","lat":32.948611,"lon":-85.053889,"elevation":750,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

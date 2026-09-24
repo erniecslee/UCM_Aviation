@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN21"]={"id":"TN21","name":"PALMER VILLAGE-NAPIER LAKE","lat":35.447575,"lon":-87.506111,"elevation":790,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

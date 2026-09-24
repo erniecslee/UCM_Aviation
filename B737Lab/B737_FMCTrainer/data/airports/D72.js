@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D72"]={"id":"D72","name":"D&C FIRE LAKE FLYING CLUB","lat":61.352519,"lon":-149.54635,"elevation":295,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

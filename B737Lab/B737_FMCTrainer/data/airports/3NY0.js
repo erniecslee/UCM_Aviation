@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NY0"]={"id":"3NY0","name":"THE RANCH","lat":42.827297,"lon":-74.404022,"elevation":1110,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

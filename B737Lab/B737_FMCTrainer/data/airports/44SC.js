@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44SC"]={"id":"44SC","name":"4 HOLES FLD","lat":33.4796,"lon":-80.777864,"elevation":184,"region":"K7","runways":[{"id":"RW02","lat":33.473,"lon":-80.7802,"length":5010,"course":24.4},{"id":"RW20","lat":33.4862,"lon":-80.775525,"length":5010,"course":204.4}],"procedures":{"D":{},"E":{},"F":{}}};

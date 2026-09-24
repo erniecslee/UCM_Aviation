@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1ND4"]={"id":"1ND4","name":"WALKINSHAW","lat":47.058306,"lon":-97.017031,"elevation":900,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

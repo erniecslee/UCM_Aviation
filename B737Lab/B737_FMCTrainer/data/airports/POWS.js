@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["POWS"]={"id":"POWS","name":"STEAMBOAT BAY","lat":55.529639,"lon":-133.641697,"elevation":0,"region":"PO","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6WA2"]={"id":"6WA2","name":"GOWER FLD","lat":47.111486,"lon":-122.821247,"elevation":130,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

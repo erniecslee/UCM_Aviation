@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE75"]={"id":"NE75","name":"KRISTIJANTO AIRSTRIP","lat":42.400342,"lon":-96.430678,"elevation":1096,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58WI"]={"id":"58WI","name":"RIEGLEMAN FLD","lat":43.338528,"lon":-88.558333,"elevation":950,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

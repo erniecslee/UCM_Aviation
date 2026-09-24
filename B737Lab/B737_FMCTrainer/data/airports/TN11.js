@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN11"]={"id":"TN11","name":"MOUNTAIN OUTLAW","lat":36.501478,"lon":-83.255453,"elevation":1150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

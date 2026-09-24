@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA3"]={"id":"3GA3","name":"WARREN FLD","lat":34.871111,"lon":-85.4375,"elevation":1866,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

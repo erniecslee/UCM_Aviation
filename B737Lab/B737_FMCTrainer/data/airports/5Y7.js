@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5Y7"]={"id":"5Y7","name":"HANLEY FLD","lat":46.354117,"lon":-86.620992,"elevation":984,"region":"K5","runways":[{"id":"RW18","lat":46.360069,"lon":-86.618103,"length":4000,"course":184.0},{"id":"RW36","lat":46.3491,"lon":-86.618103,"length":4000,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

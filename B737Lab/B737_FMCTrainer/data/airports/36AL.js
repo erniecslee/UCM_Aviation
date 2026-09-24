@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36AL"]={"id":"36AL","name":"HIDDEN SPRINGS AIRPARK","lat":31.492889,"lon":-85.534278,"elevation":346,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

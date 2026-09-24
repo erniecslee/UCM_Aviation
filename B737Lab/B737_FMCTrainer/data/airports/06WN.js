@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06WN"]={"id":"06WN","name":"WESTERN AIRPARK","lat":46.924986,"lon":-122.553039,"elevation":394,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NK4"]={"id":"9NK4","name":"GREIG FARM","lat":42.024319,"lon":-73.856292,"elevation":215,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

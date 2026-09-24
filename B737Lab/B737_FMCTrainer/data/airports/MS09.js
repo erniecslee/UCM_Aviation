@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS09"]={"id":"MS09","name":"GLIDWELL FLYING SERVICE","lat":34.101775,"lon":-90.701211,"elevation":160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

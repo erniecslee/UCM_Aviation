@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62AK"]={"id":"62AK","name":"WALLIS LAKE","lat":61.572861,"lon":-149.5747,"elevation":320,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY96"]={"id":"MY96","name":"BAHNSEN","lat":44.416667,"lon":-93.330833,"elevation":1004,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

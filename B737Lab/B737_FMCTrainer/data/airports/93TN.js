@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["93TN"]={"id":"93TN","name":"CENTER FLD","lat":36.361389,"lon":-82.451111,"elevation":1700,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

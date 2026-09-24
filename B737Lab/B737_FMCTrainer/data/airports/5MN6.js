@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MN6"]={"id":"5MN6","name":"NORTHBOUND","lat":47.156389,"lon":-93.523889,"elevation":1273,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

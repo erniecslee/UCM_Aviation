@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0K6"]={"id":"0K6","name":"DOBIE'S","lat":36.179347,"lon":-95.580275,"elevation":610,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

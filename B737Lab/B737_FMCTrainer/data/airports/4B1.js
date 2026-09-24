@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4B1"]={"id":"4B1","name":"DUANESBURG","lat":42.759861,"lon":-74.134639,"elevation":714,"region":"K6","runways":[{"id":"RW10","lat":42.759672,"lon":-74.139486,"length":2600,"course":101.0},{"id":"RW28","lat":42.760056,"lon":-74.129817,"length":2600,"course":281.0}],"procedures":{"D":{},"E":{},"F":{}}};

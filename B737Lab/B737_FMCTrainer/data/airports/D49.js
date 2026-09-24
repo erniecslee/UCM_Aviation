@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D49"]={"id":"D49","name":"COLUMBUS MUNI","lat":48.899414,"lon":-102.792292,"elevation":1931,"region":"K3","runways":[{"id":"RW07","lat":48.899417,"lon":-102.797611,"length":2560,"course":78.0}],"procedures":{"D":{},"E":{},"F":{}}};

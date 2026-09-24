@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["18NC"]={"id":"18NC","name":"LANNI FLD","lat":35.889019,"lon":-81.613708,"elevation":1160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

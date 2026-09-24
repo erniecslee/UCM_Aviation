@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO56"]={"id":"MO56","name":"LOST MINE","lat":36.514231,"lon":-92.640167,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

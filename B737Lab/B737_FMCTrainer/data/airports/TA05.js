@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA05"]={"id":"TA05","name":"ANXIETY AERODROME","lat":32.037656,"lon":-96.531653,"elevation":430,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

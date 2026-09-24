@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK0"]={"id":"2AK0","name":"MAC KENZIE COUNTRY AIRPARK","lat":61.255881,"lon":-149.974656,"elevation":120,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

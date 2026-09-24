@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47XA"]={"id":"47XA","name":"LUV FLD","lat":30.510556,"lon":-97.412778,"elevation":540,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

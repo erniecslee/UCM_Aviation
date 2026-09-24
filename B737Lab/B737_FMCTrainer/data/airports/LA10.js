@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA10"]={"id":"LA10","name":"TRACEMONT FLD","lat":31.358889,"lon":-92.7225,"elevation":83,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA44"]={"id":"XA44","name":"BIRCHFIELD RANCH","lat":31.266111,"lon":-98.423889,"elevation":1550,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

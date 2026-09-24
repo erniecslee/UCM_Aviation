@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA58"]={"id":"IA58","name":"B-8 FARMS","lat":42.114989,"lon":-96.171964,"elevation":1063,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

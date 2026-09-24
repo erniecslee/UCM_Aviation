@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OR8"]={"id":"4OR8","name":"WAGONER","lat":44.848453,"lon":-123.041483,"elevation":700,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

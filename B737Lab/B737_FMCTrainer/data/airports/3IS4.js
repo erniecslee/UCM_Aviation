@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IS4"]={"id":"3IS4","name":"MERKLE","lat":42.288903,"lon":-90.345406,"elevation":970,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

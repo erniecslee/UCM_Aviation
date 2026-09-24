@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT33"]={"id":"WT33","name":"SKID ROW","lat":46.423986,"lon":-117.077925,"elevation":750,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

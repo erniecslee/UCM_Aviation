@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OR8"]={"id":"3OR8","name":"CLINE FALLS AIR PARK","lat":44.283175,"lon":-121.269203,"elevation":2920,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

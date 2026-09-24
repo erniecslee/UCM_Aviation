@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z71"]={"id":"Z71","name":"CAPE POLE","lat":55.966289,"lon":-133.796722,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

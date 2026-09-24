@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD53"]={"id":"FD53","name":"CUB HAVEN","lat":28.453333,"lon":-82.215,"elevation":70,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61KY"]={"id":"61KY","name":"SCHRODER","lat":38.550067,"lon":-84.763281,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

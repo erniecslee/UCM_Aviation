@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AA4"]={"id":"0AA4","name":"FAREWELL","lat":62.509183,"lon":-153.890628,"elevation":1535,"region":"PA","runways":[{"id":"RW08","lat":62.510789,"lon":-153.903778,"length":4600,"course":81.0},{"id":"RW26","lat":62.507578,"lon":-153.877475,"length":4600,"course":261.0}],"procedures":{"D":{},"E":{},"F":{}}};

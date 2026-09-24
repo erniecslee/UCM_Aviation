@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI18"]={"id":"MI18","name":"CEDARVILLE","lat":43.093083,"lon":-83.836072,"elevation":725,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

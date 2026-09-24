@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9I3"]={"id":"9I3","name":"WEST LIBERTY","lat":37.914433,"lon":-83.251944,"elevation":934,"region":"K5","runways":[{"id":"RW07","lat":37.913344,"lon":-83.255869,"length":2400,"course":75.0},{"id":"RW25","lat":37.915522,"lon":-83.248017,"length":2400,"course":255.0}],"procedures":{"D":{},"E":{},"F":{}}};

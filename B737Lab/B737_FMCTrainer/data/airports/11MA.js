@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11MA"]={"id":"11MA","name":"BULLJUMP","lat":41.807325,"lon":-70.758369,"elevation":60,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5HO"]={"id":"5HO","name":"HOPE","lat":60.907253,"lon":-149.622811,"elevation":194,"region":"PA","runways":[{"id":"RW17","lat":60.910022,"lon":-149.622122,"length":2040,"course":161.9},{"id":"RW35","lat":60.904483,"lon":-149.6235,"length":2040,"course":341.9}],"procedures":{"D":{},"E":{},"F":{}}};

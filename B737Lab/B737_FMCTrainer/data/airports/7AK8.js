@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AK8"]={"id":"7AK8","name":"CROSSWINDS LANDING","lat":61.62125,"lon":-149.614919,"elevation":355,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

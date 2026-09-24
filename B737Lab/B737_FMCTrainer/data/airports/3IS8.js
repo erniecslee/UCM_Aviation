@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3IS8"]={"id":"3IS8","name":"RINKENBERGER","lat":41.230869,"lon":-89.615653,"elevation":808,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

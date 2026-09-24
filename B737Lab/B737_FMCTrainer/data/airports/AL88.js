@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL88"]={"id":"AL88","name":"BAN FARM","lat":30.426586,"lon":-87.470814,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

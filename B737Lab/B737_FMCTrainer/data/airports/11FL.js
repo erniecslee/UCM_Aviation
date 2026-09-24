@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11FL"]={"id":"11FL","name":"WILLIAMS FLD","lat":30.043017,"lon":-81.880933,"elevation":88,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

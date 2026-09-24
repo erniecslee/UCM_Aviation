@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14NC"]={"id":"14NC","name":"CAMP DAVIS MCOLF","lat":34.50945,"lon":-77.551308,"elevation":60,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

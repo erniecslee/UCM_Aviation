@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["W48"]={"id":"W48","name":"ESSEX SKYPARK","lat":39.262417,"lon":-76.432125,"elevation":14,"region":"K6","runways":[{"id":"RW16","lat":39.264806,"lon":-76.434139,"length":2081,"course":157.0},{"id":"RW34","lat":39.260028,"lon":-76.430111,"length":2081,"course":337.0}],"procedures":{"D":{},"E":{},"F":{}}};

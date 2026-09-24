@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK05"]={"id":"NK05","name":"TOM N' JERRY","lat":42.354794,"lon":-76.516053,"elevation":1490,"region":"K6","runways":[{"id":"RW18","lat":42.356444,"lon":-76.516042,"length":1200,"course":192.4},{"id":"RW36","lat":42.35315,"lon":-76.516075,"length":1200,"course":12.4}],"procedures":{"D":{},"E":{},"F":{}}};

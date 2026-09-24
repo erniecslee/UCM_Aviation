@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME45"]={"id":"ME45","name":"GOOSEFAIR","lat":43.405642,"lon":-70.432272,"elevation":40,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["23M"]={"id":"23M","name":"CLARKE COUNTY","lat":32.085956,"lon":-88.739025,"elevation":321,"region":"K7","runways":[{"id":"RW16","lat":32.0902,"lon":-88.740878,"length":3295,"course":158.0},{"id":"RW34","lat":32.081708,"lon":-88.737172,"length":3295,"course":338.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39AR"]={"id":"39AR","name":"EIFLING FLD","lat":34.911597,"lon":-91.837083,"elevation":253,"region":"K4","runways":[{"id":"RW18","lat":34.915306,"lon":-91.837,"length":2700,"course":181.8},{"id":"RW36","lat":34.907889,"lon":-91.837167,"length":2700,"course":1.8}],"procedures":{"D":{},"E":{},"F":{}}};

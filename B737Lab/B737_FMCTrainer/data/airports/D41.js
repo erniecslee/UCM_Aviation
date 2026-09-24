@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D41"]={"id":"D41","name":"STEPHEN MUNI","lat":48.458311,"lon":-96.862839,"elevation":830,"region":"K3","runways":[{"id":"RW17","lat":48.464639,"lon":-96.866164,"length":2700,"course":169.8},{"id":"RW35","lat":48.457258,"lon":-96.865344,"length":2700,"course":349.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR34"]={"id":"OR34","name":"WHIPPET FLD","lat":44.322339,"lon":-121.433375,"elevation":3040,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

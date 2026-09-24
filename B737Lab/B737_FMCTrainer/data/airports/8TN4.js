@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN4"]={"id":"8TN4","name":"FLAGLOR","lat":36.244722,"lon":-82.968889,"elevation":1100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

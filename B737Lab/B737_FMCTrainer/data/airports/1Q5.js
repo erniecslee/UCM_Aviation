@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Q5"]={"id":"1Q5","name":"GRAVELLY VALLEY","lat":39.450722,"lon":-122.954611,"elevation":1900,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

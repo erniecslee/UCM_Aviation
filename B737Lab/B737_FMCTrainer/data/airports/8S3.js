@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8S3"]={"id":"8S3","name":"SANTIAM JUNCTION STATE","lat":44.434556,"lon":-121.942278,"elevation":3780,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

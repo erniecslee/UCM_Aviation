@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1II0"]={"id":"1II0","name":"WEBSTER","lat":39.576714,"lon":-85.587753,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

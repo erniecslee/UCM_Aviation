@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7AR0"]={"id":"7AR0","name":"HAMMER FLD","lat":36.431444,"lon":-93.699306,"elevation":1600,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

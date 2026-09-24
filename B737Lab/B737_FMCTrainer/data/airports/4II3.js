@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4II3"]={"id":"4II3","name":"OLEO","lat":39.736389,"lon":-86.729722,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

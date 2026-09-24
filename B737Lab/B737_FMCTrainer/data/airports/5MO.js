@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MO"]={"id":"5MO","name":"APPLEGATE","lat":40.391947,"lon":-92.564772,"elevation":999,"region":"K3","runways":[{"id":"RW16","lat":40.395019,"lon":-92.565669,"length":2295,"course":164.4},{"id":"RW34","lat":40.388872,"lon":-92.563872,"length":2295,"course":344.4}],"procedures":{"D":{},"E":{},"F":{}}};

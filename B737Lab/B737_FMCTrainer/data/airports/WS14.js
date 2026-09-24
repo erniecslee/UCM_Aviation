@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS14"]={"id":"WS14","name":"LAKE ELL FLD","lat":44.464139,"lon":-89.358725,"elevation":1113,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

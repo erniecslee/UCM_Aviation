@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA55"]={"id":"PA55","name":"BROKENSTRAW","lat":41.832942,"lon":-79.360672,"elevation":1230,"region":"K6","runways":[{"id":"RW09","lat":41.831931,"lon":-79.365311,"length":3650,"course":82.0},{"id":"RW27","lat":41.833817,"lon":-79.356647,"length":3650,"course":262.0}],"procedures":{"D":{},"E":{},"F":{}}};

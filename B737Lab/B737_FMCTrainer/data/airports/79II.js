@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79II"]={"id":"79II","name":"HARTER FLYING FLD","lat":39.883375,"lon":-85.702478,"elevation":930,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

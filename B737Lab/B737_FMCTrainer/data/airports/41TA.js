@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["41TA"]={"id":"41TA","name":"CIRCLE P RANCH","lat":32.237319,"lon":-97.870639,"elevation":800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

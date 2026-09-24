@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6IL6"]={"id":"6IL6","name":"KINGFIELD","lat":40.926642,"lon":-90.265075,"elevation":750,"region":"K5","runways":[{"id":"RW06","lat":40.924181,"lon":-90.267769,"length":2330,"course":41.8},{"id":"RW24","lat":40.929103,"lon":-90.262381,"length":2330,"course":221.8}],"procedures":{"D":{},"E":{},"F":{}}};

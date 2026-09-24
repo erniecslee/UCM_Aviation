@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58KY"]={"id":"58KY","name":"WILLOW ISLAND AIRPARK","lat":38.121658,"lon":-85.332556,"elevation":740,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

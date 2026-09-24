@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8GA8"]={"id":"8GA8","name":"FALCONS AERIE","lat":33.577333,"lon":-85.002997,"elevation":1180,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85TN"]={"id":"85TN","name":"TELLICO PLAINS MUNI","lat":35.381667,"lon":-84.303889,"elevation":980,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

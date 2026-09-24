@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3VG5"]={"id":"3VG5","name":"KINMAN","lat":37.128783,"lon":-79.303236,"elevation":694,"region":"K6","runways":[{"id":"RW06","lat":37.127625,"lon":-79.305364,"length":1500,"course":64.9},{"id":"RW24","lat":37.129944,"lon":-79.301111,"length":1500,"course":244.9}],"procedures":{"D":{},"E":{},"F":{}}};

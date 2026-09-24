@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1ID7"]={"id":"1ID7","name":"FAIRBANKS AIRFIELD","lat":42.587778,"lon":-114.334167,"elevation":3830,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

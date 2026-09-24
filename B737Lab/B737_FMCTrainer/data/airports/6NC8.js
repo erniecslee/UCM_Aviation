@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6NC8"]={"id":"6NC8","name":"MARCHMONT PLANTATION AIRPARK","lat":35.938192,"lon":-80.3845,"elevation":730,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

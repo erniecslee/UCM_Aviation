@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["DE15"]={"id":"DE15","name":"RELIANCE","lat":38.612614,"lon":-75.699653,"elevation":40,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

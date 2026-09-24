@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI0"]={"id":"7WI0","name":"TURKEY BLUFF","lat":43.373031,"lon":-91.109853,"elevation":1110,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

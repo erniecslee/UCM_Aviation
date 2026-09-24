@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74NY"]={"id":"74NY","name":"NEW SALEM AERODROME","lat":43.005617,"lon":-77.291378,"elevation":660,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

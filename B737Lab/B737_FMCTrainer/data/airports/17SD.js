@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17SD"]={"id":"17SD","name":"STONE'S CONSERVATION","lat":44.818642,"lon":-96.564017,"elevation":1687,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

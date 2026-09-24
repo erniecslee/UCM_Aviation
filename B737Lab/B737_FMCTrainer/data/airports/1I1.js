@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1I1"]={"id":"1I1","name":"MARCY FLD","lat":44.220856,"lon":-73.788011,"elevation":985,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

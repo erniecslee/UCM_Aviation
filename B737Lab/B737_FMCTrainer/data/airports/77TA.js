@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77TA"]={"id":"77TA","name":"SWORD'S LANDING","lat":33.150833,"lon":-96.011944,"elevation":553,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

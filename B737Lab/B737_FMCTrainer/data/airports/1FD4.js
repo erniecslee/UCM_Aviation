@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1FD4"]={"id":"1FD4","name":"CORKSCREW TRACE AIRPARK","lat":26.445356,"lon":-81.607303,"elevation":29,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

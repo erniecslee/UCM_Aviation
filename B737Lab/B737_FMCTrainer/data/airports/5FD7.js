@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FD7"]={"id":"5FD7","name":"CHINSEGUT","lat":28.611658,"lon":-82.367869,"elevation":80,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

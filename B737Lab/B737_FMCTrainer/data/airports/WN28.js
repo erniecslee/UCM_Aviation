@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN28"]={"id":"WN28","name":"HIRD","lat":42.903958,"lon":-90.363917,"elevation":1120,"region":"K5","runways":[{"id":"RW18","lat":42.907528,"lon":-90.363917,"length":2600,"course":182.2},{"id":"RW36","lat":42.900389,"lon":-90.363917,"length":2600,"course":2.2}],"procedures":{"D":{},"E":{},"F":{}}};

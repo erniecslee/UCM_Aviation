@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KKU"]={"id":"KKU","name":"EKUK","lat":58.811192,"lon":-158.558842,"elevation":30,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

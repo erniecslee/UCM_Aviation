@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN64"]={"id":"PN64","name":"HILLING INTL","lat":40.502389,"lon":-77.939361,"elevation":1400,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

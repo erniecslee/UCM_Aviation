@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II87"]={"id":"II87","name":"TWELVE OAKS","lat":39.451436,"lon":-86.328325,"elevation":715,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

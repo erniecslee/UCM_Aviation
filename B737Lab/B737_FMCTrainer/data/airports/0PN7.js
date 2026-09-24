@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PN7"]={"id":"0PN7","name":"DRILLMORE ACRES","lat":40.128333,"lon":-77.631389,"elevation":680,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

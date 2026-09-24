@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN15"]={"id":"IN15","name":"T & T","lat":38.604769,"lon":-87.463075,"elevation":550,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

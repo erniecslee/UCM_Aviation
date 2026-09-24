@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN55"]={"id":"IN55","name":"SONGER","lat":40.079119,"lon":-87.262153,"elevation":652,"region":"K5","runways":[{"id":"RW18","lat":40.08255,"lon":-87.262106,"length":2500,"course":181.6},{"id":"RW36","lat":40.075689,"lon":-87.2622,"length":2500,"course":1.6}],"procedures":{"D":{},"E":{},"F":{}}};

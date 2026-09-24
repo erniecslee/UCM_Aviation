@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6II2"]={"id":"6II2","name":"WILLIS SITE NR 2","lat":39.733378,"lon":-85.723311,"elevation":881,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F75"]={"id":"F75","name":"HARRISON FLD OF KNOX CITY","lat":33.43815,"lon":-99.812869,"elevation":1500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

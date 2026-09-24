@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1IS2"]={"id":"1IS2","name":"TRIPLE CREEK","lat":39.896422,"lon":-88.522283,"elevation":666,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

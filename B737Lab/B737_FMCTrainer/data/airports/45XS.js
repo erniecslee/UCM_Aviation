@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45XS"]={"id":"45XS","name":"GHOST APACHE","lat":28.130967,"lon":-98.905833,"elevation":330,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

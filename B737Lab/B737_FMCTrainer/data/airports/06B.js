@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06B"]={"id":"06B","name":"LUCKY LANDING MARINA","lat":44.907014,"lon":-68.805036,"elevation":115,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

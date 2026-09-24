@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44TS"]={"id":"44TS","name":"MC DAVID RANCH","lat":30.577686,"lon":-98.833653,"elevation":1407,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

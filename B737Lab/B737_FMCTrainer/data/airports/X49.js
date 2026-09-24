@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X49"]={"id":"X49","name":"SOUTH LAKELAND","lat":27.933358,"lon":-82.043975,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09CO"]={"id":"09CO","name":"COTTONWOOD FLD","lat":38.055564,"lon":-103.653281,"elevation":4180,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

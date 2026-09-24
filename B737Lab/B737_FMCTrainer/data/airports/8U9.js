@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8U9"]={"id":"8U9","name":"CANYON FERRY","lat":46.418822,"lon":-111.577194,"elevation":3840,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

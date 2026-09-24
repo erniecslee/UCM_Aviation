@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TN3"]={"id":"8TN3","name":"RABY AIRPARK","lat":35.841667,"lon":-84.181111,"elevation":830,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

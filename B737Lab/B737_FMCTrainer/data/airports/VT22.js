@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT22"]={"id":"VT22","name":"SHELBURNE FARMS","lat":44.401439,"lon":-73.267072,"elevation":130,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

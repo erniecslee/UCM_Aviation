@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28MN"]={"id":"28MN","name":"RIVER RIDGE RANCH","lat":44.5681,"lon":-92.757017,"elevation":1014,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

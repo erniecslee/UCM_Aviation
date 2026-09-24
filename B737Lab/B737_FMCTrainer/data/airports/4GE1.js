@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GE1"]={"id":"4GE1","name":"VIOLA FARM","lat":30.72375,"lon":-84.541111,"elevation":285,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

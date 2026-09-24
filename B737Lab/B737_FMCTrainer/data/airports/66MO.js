@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66MO"]={"id":"66MO","name":"AHLERS ACRES","lat":38.833456,"lon":-90.951425,"elevation":678,"region":"K3","runways":[{"id":"RW18","lat":38.834692,"lon":-90.951503,"length":900,"course":175.2},{"id":"RW36","lat":38.832219,"lon":-90.951347,"length":900,"course":355.2}],"procedures":{"D":{},"E":{},"F":{}}};

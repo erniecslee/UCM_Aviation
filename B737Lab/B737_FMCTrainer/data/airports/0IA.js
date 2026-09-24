@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0IA"]={"id":"0IA","name":"BARBEE LAKE","lat":41.284675,"lon":-85.703814,"elevation":838,"region":"K5","runways":[{"id":"RW14W","lat":41.287486,"lon":-85.706942,"length":2675,"course":145.5},{"id":"RW32W","lat":41.281864,"lon":-85.700683,"length":2675,"course":325.5}],"procedures":{"D":{},"E":{},"F":{}}};

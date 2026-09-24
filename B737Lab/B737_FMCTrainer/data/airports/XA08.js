@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA08"]={"id":"XA08","name":"LOS CUERNOS RANCH","lat":28.157611,"lon":-99.095528,"elevation":340,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

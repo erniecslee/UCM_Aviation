@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45NK"]={"id":"45NK","name":"NEGRICH FLD","lat":43.128772,"lon":-74.264086,"elevation":975,"region":"K6","runways":[{"id":"RW08","lat":43.128231,"lon":-74.2658,"length":997,"course":79.5},{"id":"RW26","lat":43.129314,"lon":-74.262369,"length":997,"course":259.5}],"procedures":{"D":{},"E":{},"F":{}}};

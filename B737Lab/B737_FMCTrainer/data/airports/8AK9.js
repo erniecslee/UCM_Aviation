@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK9"]={"id":"8AK9","name":"TOK 2","lat":63.299928,"lon":-143.023339,"elevation":1630,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

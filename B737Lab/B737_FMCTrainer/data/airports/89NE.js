@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89NE"]={"id":"89NE","name":"MCCARDLES","lat":41.476508,"lon":-96.128033,"elevation":1274,"region":"K3","runways":[{"id":"RW18","lat":41.478978,"lon":-96.128058,"length":1800,"course":177.5},{"id":"RW36","lat":41.474039,"lon":-96.128008,"length":1800,"course":357.5}],"procedures":{"D":{},"E":{},"F":{}}};

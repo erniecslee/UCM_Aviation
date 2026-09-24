@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08ME"]={"id":"08ME","name":"LINDBERGH","lat":44.814225,"lon":-70.345344,"elevation":554,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

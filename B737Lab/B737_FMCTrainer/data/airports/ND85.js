@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND85"]={"id":"ND85","name":"HUMANN PRIVATE AIRSTRIP","lat":46.493056,"lon":-100.178889,"elevation":1980,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

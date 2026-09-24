@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD2"]={"id":"SD2","name":"LAKE COCHRANE","lat":44.709764,"lon":-96.474542,"elevation":1690,"region":"K3","runways":[{"id":"RW10W","lat":44.710556,"lon":-96.482,"length":3920,"course":96.2},{"id":"RW28W","lat":44.708972,"lon":-96.467083,"length":3920,"course":276.2}],"procedures":{"D":{},"E":{},"F":{}}};

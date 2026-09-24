@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8AK1"]={"id":"8AK1","name":"JACOBUS FLD","lat":62.280283,"lon":-145.362767,"elevation":1670,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5KY8"]={"id":"5KY8","name":"HAROLD REYNOLDS","lat":37.889722,"lon":-84.927778,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

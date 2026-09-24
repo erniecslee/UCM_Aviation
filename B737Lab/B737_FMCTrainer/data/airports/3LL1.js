@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3LL1"]={"id":"3LL1","name":"HERSCHEL HUNTER","lat":38.222272,"lon":-89.704264,"elevation":470,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

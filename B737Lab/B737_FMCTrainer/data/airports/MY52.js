@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY52"]={"id":"MY52","name":"TURKEY TRACK","lat":44.718578,"lon":-93.044103,"elevation":923,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

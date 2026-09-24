@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS65"]={"id":"TS65","name":"DUCOTE AIRPARK","lat":31.358497,"lon":-100.610342,"elevation":1974,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

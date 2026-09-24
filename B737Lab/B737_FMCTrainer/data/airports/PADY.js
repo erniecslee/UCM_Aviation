@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PADY"]={"id":"PADY","name":"KONGIGANAK","lat":59.961631,"lon":-162.880594,"elevation":40,"region":"PA","runways":[{"id":"RW01","lat":59.958586,"lon":-162.883044,"length":2400,"course":3.0},{"id":"RW19","lat":59.964675,"lon":-162.878142,"length":2400,"course":183.0}],"procedures":{"D":{},"E":{},"F":{}}};

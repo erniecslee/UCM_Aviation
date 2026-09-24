@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WY25"]={"id":"WY25","name":"SNELL - NORTH LARAMIE RIVER","lat":42.306914,"lon":-104.936636,"elevation":4490,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

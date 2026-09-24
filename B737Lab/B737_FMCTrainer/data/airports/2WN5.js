@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WN5"]={"id":"2WN5","name":"MURMURING SPRINGS","lat":44.006356,"lon":-90.019239,"elevation":910,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

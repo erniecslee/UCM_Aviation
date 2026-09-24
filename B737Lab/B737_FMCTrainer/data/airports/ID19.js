@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID19"]={"id":"ID19","name":"BIRD NR 2","lat":48.231036,"lon":-116.38935,"elevation":2192,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

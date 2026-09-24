@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND41"]={"id":"ND41","name":"VOLLER","lat":46.134711,"lon":-100.113169,"elevation":1900,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO53"]={"id":"CO53","name":"YANKEE FLD","lat":40.634706,"lon":-104.991086,"elevation":5050,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

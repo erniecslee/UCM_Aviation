@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM40"]={"id":"NM40","name":"FLYING H","lat":34.540172,"lon":-106.7779,"elevation":4772,"region":"K2","runways":[{"id":"RW01","lat":34.538647,"lon":-106.778133,"length":1120,"course":356.0},{"id":"RW19","lat":34.541697,"lon":-106.777667,"length":1120,"course":176.0}],"procedures":{"D":{},"E":{},"F":{}}};

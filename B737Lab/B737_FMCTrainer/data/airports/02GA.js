@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02GA"]={"id":"02GA","name":"DOUG BOLTON FLD","lat":34.202608,"lon":-83.42905,"elevation":884,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

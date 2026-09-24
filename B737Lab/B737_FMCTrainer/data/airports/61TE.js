@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61TE"]={"id":"61TE","name":"KEZER AIR RANCH","lat":32.982317,"lon":-97.620767,"elevation":830,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

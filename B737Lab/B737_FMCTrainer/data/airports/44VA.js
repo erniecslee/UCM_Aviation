@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44VA"]={"id":"44VA","name":"BIG HILL","lat":37.731239,"lon":-79.811158,"elevation":1620,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

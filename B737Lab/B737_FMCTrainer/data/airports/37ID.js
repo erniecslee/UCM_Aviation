@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37ID"]={"id":"37ID","name":"HUNGRY RIDGE RANCH","lat":45.782417,"lon":-115.938,"elevation":4599,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

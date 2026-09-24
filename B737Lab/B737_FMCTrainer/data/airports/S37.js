@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S37"]={"id":"S37","name":"SMOKETOWN","lat":40.041594,"lon":-76.201897,"elevation":370,"region":"K6","runways":[{"id":"RW10","lat":40.041475,"lon":-76.204958,"length":2750,"course":97.9},{"id":"RW28","lat":40.041792,"lon":-76.197383,"length":2750,"course":277.9}],"procedures":{"D":{},"E":{},"F":{}}};

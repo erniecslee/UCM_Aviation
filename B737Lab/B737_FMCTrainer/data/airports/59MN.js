@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59MN"]={"id":"59MN","name":"COX-COYOUR MEML FLD","lat":48.599422,"lon":-95.186906,"elevation":1304,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8NA0"]={"id":"8NA0","name":"TAPPEN AIRSTRIP","lat":46.881097,"lon":-99.630942,"elevation":1780,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

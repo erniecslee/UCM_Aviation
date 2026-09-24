@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["UT83"]={"id":"UT83","name":"THUNDER RIDGE AIRPARK","lat":40.257819,"lon":-110.858611,"elevation":7050,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

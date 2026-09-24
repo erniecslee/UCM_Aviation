@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK71"]={"id":"OK71","name":"TLC","lat":36.503744,"lon":-98.008839,"elevation":1367,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

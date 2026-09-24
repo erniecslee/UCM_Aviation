@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["36WI"]={"id":"36WI","name":"HOLLAND AIR PARK","lat":44.032183,"lon":-91.299592,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

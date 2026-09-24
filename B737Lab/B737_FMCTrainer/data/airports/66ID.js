@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66ID"]={"id":"66ID","name":"WIND RIDGE","lat":45.876667,"lon":-116.179167,"elevation":4050,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

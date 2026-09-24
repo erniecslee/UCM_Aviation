@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WN7"]={"id":"2WN7","name":"PLANEACRES","lat":43.94875,"lon":-88.673194,"elevation":844,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

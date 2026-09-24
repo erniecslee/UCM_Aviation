@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA41"]={"id":"CA41","name":"QUINN","lat":36.583283,"lon":-119.639856,"elevation":310,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

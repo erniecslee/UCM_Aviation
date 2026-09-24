@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9VG"]={"id":"9VG","name":"CAMPBELL FLD","lat":37.458469,"lon":-75.878819,"elevation":40,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

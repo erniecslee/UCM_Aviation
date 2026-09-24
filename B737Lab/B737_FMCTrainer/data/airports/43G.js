@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43G"]={"id":"43G","name":"BELLEVILLE","lat":42.177181,"lon":-83.545025,"elevation":695,"region":"K5","runways":[{"id":"RW15","lat":42.177356,"lon":-83.545156,"length":2253,"course":156.0},{"id":"RW33","lat":42.175914,"lon":-83.544081,"length":2253,"course":336.0}],"procedures":{"D":{},"E":{},"F":{}}};

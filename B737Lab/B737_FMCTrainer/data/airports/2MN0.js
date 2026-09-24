@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MN0"]={"id":"2MN0","name":"PRIBBS FLD","lat":48.082114,"lon":-97.016247,"elevation":818,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

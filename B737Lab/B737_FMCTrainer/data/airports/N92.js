@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["N92"]={"id":"N92","name":"LANEYS","lat":35.5743,"lon":-81.1173,"elevation":1025,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

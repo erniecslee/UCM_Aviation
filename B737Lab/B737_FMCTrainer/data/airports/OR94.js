@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR94"]={"id":"OR94","name":"J & J","lat":44.391667,"lon":-123.029533,"elevation":298,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

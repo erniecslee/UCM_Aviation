@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS68"]={"id":"LS68","name":"KEN GUIDRY NR 1","lat":29.934653,"lon":-92.213461,"elevation":10,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

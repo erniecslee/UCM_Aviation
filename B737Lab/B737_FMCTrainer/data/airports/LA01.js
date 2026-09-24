@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LA01"]={"id":"LA01","name":"MILLERS FLYING SERVICE","lat":30.483533,"lon":-92.546803,"elevation":44,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

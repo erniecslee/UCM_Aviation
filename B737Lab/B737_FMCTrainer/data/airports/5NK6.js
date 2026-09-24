@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5NK6"]={"id":"5NK6","name":"NAUTICAL MILE","lat":42.964158,"lon":-74.744811,"elevation":725,"region":"K6","runways":[{"id":"RW12","lat":42.964444,"lon":-74.746389,"length":870,"course":116.4},{"id":"RW30","lat":42.963872,"lon":-74.743233,"length":870,"course":296.4}],"procedures":{"D":{},"E":{},"F":{}}};

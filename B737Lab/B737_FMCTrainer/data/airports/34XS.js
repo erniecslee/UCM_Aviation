@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34XS"]={"id":"34XS","name":"FLYING HARE FLD","lat":30.390819,"lon":-95.53975,"elevation":225,"region":"K4","runways":[{"id":"RW18","lat":30.392056,"lon":-95.539694,"length":900,"course":180.4},{"id":"RW36","lat":30.389583,"lon":-95.539806,"length":900,"course":0.4}],"procedures":{"D":{},"E":{},"F":{}}};

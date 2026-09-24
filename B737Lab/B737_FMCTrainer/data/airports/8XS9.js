@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8XS9"]={"id":"8XS9","name":"RUST FLD","lat":29.957019,"lon":-98.790364,"elevation":1331,"region":"K4","runways":[{"id":"RW17","lat":29.960214,"lon":-98.790364,"length":2324,"course":172.0},{"id":"RW35","lat":29.953825,"lon":-98.790364,"length":2324,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

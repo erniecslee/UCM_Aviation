@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03GA"]={"id":"03GA","name":"HIA","lat":32.562306,"lon":-81.857694,"elevation":238,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

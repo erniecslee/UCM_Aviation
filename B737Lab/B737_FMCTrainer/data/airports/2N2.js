@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2N2"]={"id":"2N2","name":"NEWFOUND VALLEY","lat":43.592019,"lon":-71.751469,"elevation":510,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

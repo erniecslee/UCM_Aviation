@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78K"]={"id":"78K","name":"YES BAY LODGE","lat":55.916303,"lon":-131.801133,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

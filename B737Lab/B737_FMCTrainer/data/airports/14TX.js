@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14TX"]={"id":"14TX","name":"KEYES RANCH","lat":30.289369,"lon":-98.173903,"elevation":1150,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

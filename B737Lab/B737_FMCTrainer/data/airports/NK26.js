@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NK26"]={"id":"NK26","name":"OLD FORGE","lat":43.725183,"lon":-74.976217,"elevation":1753,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

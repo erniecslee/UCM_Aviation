@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN14"]={"id":"PN14","name":"MISTY HILL FARM","lat":40.789444,"lon":-79.9975,"elevation":1243,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

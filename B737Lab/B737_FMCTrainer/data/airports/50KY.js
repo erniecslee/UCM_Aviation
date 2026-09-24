@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["50KY"]={"id":"50KY","name":"ZANZIBAR FARM","lat":38.1298,"lon":-84.330211,"elevation":915,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

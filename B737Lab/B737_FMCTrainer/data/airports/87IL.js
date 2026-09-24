@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87IL"]={"id":"87IL","name":"BUSHBY","lat":41.516697,"lon":-88.266731,"elevation":580,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

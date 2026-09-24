@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0MS8"]={"id":"0MS8","name":"CATFISH POINT","lat":33.699275,"lon":-91.165111,"elevation":154,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

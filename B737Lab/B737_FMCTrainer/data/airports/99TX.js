@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99TX"]={"id":"99TX","name":"BRIGGS RANCH","lat":28.300272,"lon":-99.566989,"elevation":520,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

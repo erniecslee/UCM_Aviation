@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69MN"]={"id":"69MN","name":"YAGGIE PVT","lat":46.277736,"lon":-96.429514,"elevation":982,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

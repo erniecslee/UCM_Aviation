@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0VA1"]={"id":"0VA1","name":"JOHNSON FOX FLD","lat":37.233475,"lon":-79.585308,"elevation":900,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

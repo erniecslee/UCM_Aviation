@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS41"]={"id":"LS41","name":"TATER PATCH","lat":32.567067,"lon":-93.8789,"elevation":240,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

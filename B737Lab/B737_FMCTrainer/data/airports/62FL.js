@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62FL"]={"id":"62FL","name":"FLYJIVEFLY","lat":27.844444,"lon":-81.439722,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

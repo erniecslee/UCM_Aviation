@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KS9"]={"id":"4KS9","name":"DINKEL","lat":38.83395,"lon":-99.062875,"elevation":1900,"region":"K3","runways":[{"id":"RW18","lat":38.839783,"lon":-99.062792,"length":4250,"course":176.5},{"id":"RW36","lat":38.828119,"lon":-99.062958,"length":4250,"course":356.5}],"procedures":{"D":{},"E":{},"F":{}}};

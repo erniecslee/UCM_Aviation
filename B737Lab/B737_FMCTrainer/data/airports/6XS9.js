@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6XS9"]={"id":"6XS9","name":"HARMONY FLD","lat":29.296072,"lon":-98.379458,"elevation":570,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

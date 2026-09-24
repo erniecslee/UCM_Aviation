@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN80"]={"id":"MN80","name":"THE PASS","lat":44.914369,"lon":-93.688533,"elevation":930,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

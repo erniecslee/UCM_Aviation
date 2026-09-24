@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32OK"]={"id":"32OK","name":"SOUTH FARM","lat":35.499139,"lon":-98.615917,"elevation":1657,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

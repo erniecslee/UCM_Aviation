@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME34"]={"id":"ME34","name":"ROBINSON RIDGE FLD","lat":44.173689,"lon":-69.428656,"elevation":250,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

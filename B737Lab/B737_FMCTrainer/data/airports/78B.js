@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78B"]={"id":"78B","name":"BUCKHORN CAMPS","lat":45.654214,"lon":-68.949489,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

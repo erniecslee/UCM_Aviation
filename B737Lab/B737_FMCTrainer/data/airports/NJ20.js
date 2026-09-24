@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ20"]={"id":"NJ20","name":"COYLE FLD","lat":39.812619,"lon":-74.424594,"elevation":190,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

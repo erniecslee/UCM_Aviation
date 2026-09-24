@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC0"]={"id":"4NC0","name":"BOYD'S HAWKS CREEK","lat":35.89905,"lon":-80.617656,"elevation":815,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

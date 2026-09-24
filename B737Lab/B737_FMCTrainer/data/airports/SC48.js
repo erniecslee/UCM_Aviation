@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC48"]={"id":"SC48","name":"BYRD FLD","lat":33.884328,"lon":-79.999794,"elevation":110,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

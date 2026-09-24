@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MT1"]={"id":"2MT1","name":"RYAN FLD","lat":48.483056,"lon":-113.959444,"elevation":3660,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

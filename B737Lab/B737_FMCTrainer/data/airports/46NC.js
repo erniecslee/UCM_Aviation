@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["46NC"]={"id":"46NC","name":"BROWN FLD","lat":34.892778,"lon":-80.373333,"elevation":400,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

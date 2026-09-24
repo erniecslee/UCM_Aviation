@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z17"]={"id":"Z17","name":"OPHIR","lat":63.145919,"lon":-156.528908,"elevation":595,"region":"PA","runways":[{"id":"RW11","lat":63.147644,"lon":-156.533361,"length":1940,"course":109.0},{"id":"RW29","lat":63.144194,"lon":-156.524456,"length":1940,"course":289.0}],"procedures":{"D":{},"E":{},"F":{}}};

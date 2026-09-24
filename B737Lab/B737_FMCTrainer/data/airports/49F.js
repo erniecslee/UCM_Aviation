@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49F"]={"id":"49F","name":"RANKIN","lat":31.227028,"lon":-101.952917,"elevation":2543,"region":"K4","runways":[{"id":"RW17","lat":31.231164,"lon":-101.952978,"length":3000,"course":170.0},{"id":"RW35","lat":31.222914,"lon":-101.952872,"length":3000,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IS8"]={"id":"4IS8","name":"LEIGH FARM","lat":40.021717,"lon":-89.550103,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE38"]={"id":"NE38","name":"AKNUX","lat":40.709458,"lon":-98.560067,"elevation":2025,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

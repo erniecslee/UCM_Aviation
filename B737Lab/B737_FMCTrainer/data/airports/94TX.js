@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["94TX"]={"id":"94TX","name":"RIVER BEND RANCH","lat":31.437661,"lon":-99.315608,"elevation":1500,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

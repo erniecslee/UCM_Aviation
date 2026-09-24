@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["17OH"]={"id":"17OH","name":"KOSIK","lat":41.242553,"lon":-82.270161,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

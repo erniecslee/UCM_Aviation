@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13TX"]={"id":"13TX","name":"GOATNECK","lat":32.153389,"lon":-97.559222,"elevation":575,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

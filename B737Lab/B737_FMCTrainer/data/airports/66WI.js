@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66WI"]={"id":"66WI","name":"J-3 CUB FLD","lat":43.077503,"lon":-88.662881,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

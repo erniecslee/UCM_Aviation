@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4KS2"]={"id":"4KS2","name":"INGELS AERODROME","lat":39.018614,"lon":-94.954411,"elevation":960,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

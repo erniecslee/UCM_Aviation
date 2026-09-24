@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TS8"]={"id":"4TS8","name":"RUSTY'S FLYING SERVICE","lat":29.374956,"lon":-99.341986,"elevation":1089,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

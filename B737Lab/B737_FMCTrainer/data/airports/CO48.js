@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO48"]={"id":"CO48","name":"CROP AIR","lat":40.512481,"lon":-104.651908,"elevation":4800,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

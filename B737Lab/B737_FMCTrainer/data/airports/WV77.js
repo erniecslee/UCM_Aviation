@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV77"]={"id":"WV77","name":"HINTON-ALDERSON","lat":37.679564,"lon":-80.710358,"elevation":1520,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

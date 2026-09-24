@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PFKP"]={"id":"PFKP","name":"POINT BAKER","lat":56.351861,"lon":-133.622586,"elevation":0,"region":"PF","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

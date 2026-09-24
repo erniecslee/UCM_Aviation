@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC03"]={"id":"SC03","name":"MC NEIL","lat":33.559317,"lon":-80.648339,"elevation":170,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72ND"]={"id":"72ND","name":"BERG FLD","lat":47.6611,"lon":-97.592033,"elevation":1111,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

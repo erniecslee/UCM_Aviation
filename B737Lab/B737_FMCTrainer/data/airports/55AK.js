@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55AK"]={"id":"55AK","name":"LAWRENCE AIRSTRIP","lat":61.495781,"lon":-149.699319,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

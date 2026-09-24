@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3E0"]={"id":"3E0","name":"MIAMI-ROBERTS COUNTY","lat":35.713933,"lon":-100.603192,"elevation":2720,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

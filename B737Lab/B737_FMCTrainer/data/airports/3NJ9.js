@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NJ9"]={"id":"3NJ9","name":"ALLEN AIRSTRIP","lat":39.941019,"lon":-74.771,"elevation":51,"region":"K6","runways":[{"id":"RW13","lat":39.942322,"lon":-74.774067,"length":1965,"course":130.9},{"id":"RW31","lat":39.939717,"lon":-74.767931,"length":1965,"course":310.9}],"procedures":{"D":{},"E":{},"F":{}}};

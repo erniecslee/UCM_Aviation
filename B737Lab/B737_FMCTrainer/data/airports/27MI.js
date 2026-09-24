@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["27MI"]={"id":"27MI","name":"MILLER FLD","lat":43.3728,"lon":-83.486622,"elevation":705,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR09"]={"id":"OR09","name":"WHITEHORSE RANCH","lat":42.335639,"lon":-118.257525,"elevation":4447,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

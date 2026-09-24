@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN69"]={"id":"SN69","name":"EMMERSON","lat":37.931428,"lon":-94.642736,"elevation":860,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

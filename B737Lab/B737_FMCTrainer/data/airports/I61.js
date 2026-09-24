@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["I61"]={"id":"I61","name":"HAGERSTOWN","lat":39.889167,"lon":-85.163333,"elevation":1000,"region":"K5","runways":[{"id":"RW02","lat":39.88385,"lon":-85.166603,"length":4000,"course":23.0},{"id":"RW20","lat":39.894167,"lon":-85.161728,"length":4000,"course":203.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MS6"]={"id":"6MS6","name":"KAEHR","lat":32.401461,"lon":-89.897083,"elevation":345,"region":"K7","runways":[{"id":"RW18","lat":32.405319,"lon":-89.897186,"length":2808,"course":180.5},{"id":"RW36","lat":32.397603,"lon":-89.896978,"length":2808,"course":0.5}],"procedures":{"D":{},"E":{},"F":{}}};

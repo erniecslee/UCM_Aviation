@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL78"]={"id":"IL78","name":"BENOIT","lat":41.131119,"lon":-87.792203,"elevation":660,"region":"K5","runways":[{"id":"RW18","lat":41.133861,"lon":-87.792292,"length":2000,"course":180.0},{"id":"RW36","lat":41.128375,"lon":-87.792111,"length":2000,"course":360.0}],"procedures":{"D":{},"E":{},"F":{}}};

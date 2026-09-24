@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA19"]={"id":"TA19","name":"POST OAK AIRFIELD","lat":32.674575,"lon":-97.783642,"elevation":1020,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

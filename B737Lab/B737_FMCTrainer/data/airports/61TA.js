@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["61TA"]={"id":"61TA","name":"EAGLE LANDING","lat":32.884022,"lon":-94.607703,"elevation":380,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

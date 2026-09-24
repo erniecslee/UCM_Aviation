@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2LA5"]={"id":"2LA5","name":"REED AIRFIELD","lat":30.344358,"lon":-92.433142,"elevation":30,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

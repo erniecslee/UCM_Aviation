@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3CO2"]={"id":"3CO2","name":"MERTENS","lat":40.617483,"lon":-103.333269,"elevation":4192,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

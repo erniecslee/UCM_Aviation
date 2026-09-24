@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OR9"]={"id":"3OR9","name":"MURPHY RANCH","lat":43.957381,"lon":-118.132417,"elevation":3465,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

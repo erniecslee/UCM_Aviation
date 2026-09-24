@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH69"]={"id":"NH69","name":"WINDSOCK VILLAGE","lat":43.826256,"lon":-71.184828,"elevation":460,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

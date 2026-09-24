@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["00TT"]={"id":"00TT","name":"NOWHERE","lat":34.516606,"lon":-99.936942,"elevation":1752,"region":"K4","runways":[{"id":"RW18","lat":34.519942,"lon":-99.936872,"length":2429,"course":176.6},{"id":"RW36","lat":34.513269,"lon":-99.937008,"length":2429,"course":356.6}],"procedures":{"D":{},"E":{},"F":{}}};

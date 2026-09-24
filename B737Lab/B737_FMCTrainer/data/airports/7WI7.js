@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI7"]={"id":"7WI7","name":"SPRINGHILL FLD","lat":43.454167,"lon":-90.427222,"elevation":1160,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

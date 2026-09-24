@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY55"]={"id":"NY55","name":"GRUND FLD","lat":42.447294,"lon":-76.596889,"elevation":1453,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["28MY"]={"id":"28MY","name":"SUNRISE BAY","lat":47.9118,"lon":-92.352694,"elevation":1358,"region":"K3","runways":[{"id":"RW08","lat":47.911097,"lon":-92.358719,"length":3000,"course":81.3},{"id":"RW26","lat":47.9125,"lon":-92.346667,"length":3000,"course":261.3}],"procedures":{"D":{},"E":{},"F":{}}};

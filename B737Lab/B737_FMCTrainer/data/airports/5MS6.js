@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MS6"]={"id":"5MS6","name":"DEE'S","lat":32.423517,"lon":-90.007586,"elevation":309,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO94"]={"id":"MO94","name":"STARR","lat":39.499997,"lon":-94.580233,"elevation":1000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

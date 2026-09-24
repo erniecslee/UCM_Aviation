@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CO7"]={"id":"8CO7","name":"COLORADO ANTIQUE FLD","lat":40.122486,"lon":-105.172486,"elevation":5069,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

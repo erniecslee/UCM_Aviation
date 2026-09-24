@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC9"]={"id":"4NC9","name":"LZ CARROLL","lat":35.4485,"lon":-80.342583,"elevation":675,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

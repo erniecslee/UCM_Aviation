@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1Y9"]={"id":"1Y9","name":"PAULLINA MUNI","lat":42.987889,"lon":-95.664472,"elevation":1385,"region":"K3","runways":[{"id":"RW17","lat":42.991733,"lon":-95.664414,"length":2800,"course":175.0},{"id":"RW35","lat":42.98405,"lon":-95.664544,"length":2800,"course":355.0}],"procedures":{"D":{},"E":{},"F":{}}};

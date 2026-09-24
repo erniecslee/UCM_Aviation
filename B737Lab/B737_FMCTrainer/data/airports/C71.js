@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C71"]={"id":"C71","name":"CROSBY MUNI","lat":31.296403,"lon":-91.052539,"elevation":336,"region":"K7","runways":[{"id":"RW17","lat":31.3007,"lon":-91.052533,"length":3127,"course":177.0},{"id":"RW35","lat":31.292103,"lon":-91.052542,"length":3127,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16X"]={"id":"16X","name":"PROPWASH","lat":33.080611,"lon":-97.358417,"elevation":804,"region":"K4","runways":[{"id":"RW17","lat":33.084733,"lon":-97.358386,"length":3000,"course":173.0},{"id":"RW35","lat":33.076486,"lon":-97.358436,"length":3000,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

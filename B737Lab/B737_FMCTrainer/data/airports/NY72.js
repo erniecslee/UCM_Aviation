@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY72"]={"id":"NY72","name":"POOLSBROOK AERODROME","lat":43.072289,"lon":-75.938528,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

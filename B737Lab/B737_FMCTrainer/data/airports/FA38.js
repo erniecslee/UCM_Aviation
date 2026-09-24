@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA38"]={"id":"FA38","name":"WOODS AND LAKES AIRPARK","lat":29.123592,"lon":-81.887028,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

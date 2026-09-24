@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0PN5"]={"id":"0PN5","name":"NICHOLS","lat":41.779225,"lon":-79.598383,"elevation":1761,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

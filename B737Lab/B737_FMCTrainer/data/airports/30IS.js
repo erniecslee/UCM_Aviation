@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["30IS"]={"id":"30IS","name":"AERO LAKE ESTATES","lat":42.077247,"lon":-88.625089,"elevation":875,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

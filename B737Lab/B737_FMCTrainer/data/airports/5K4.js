@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5K4"]={"id":"5K4","name":"SCHUY-RUSH","lat":40.117547,"lon":-90.590406,"elevation":665,"region":"K5","runways":[{"id":"RW09","lat":40.117269,"lon":-90.595406,"length":3565,"course":88.0},{"id":"RW27","lat":40.117269,"lon":-90.582658,"length":3565,"course":268.0}],"procedures":{"D":{},"E":{},"F":{}}};

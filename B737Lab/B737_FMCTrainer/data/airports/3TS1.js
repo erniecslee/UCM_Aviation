@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TS1"]={"id":"3TS1","name":"WHITE WINGS","lat":30.011369,"lon":-98.040503,"elevation":1083,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

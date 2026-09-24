@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["91AS"]={"id":"91AS","name":"CRUMROD","lat":34.144242,"lon":-90.992267,"elevation":156,"region":"K4","runways":[{"id":"RW18","lat":34.147528,"lon":-90.992292,"length":2393,"course":180.8},{"id":"RW36","lat":34.140953,"lon":-90.992242,"length":2393,"course":0.8}],"procedures":{"D":{},"E":{},"F":{}}};

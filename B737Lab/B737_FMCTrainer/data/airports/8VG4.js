@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8VG4"]={"id":"8VG4","name":"BUFFALO RIDGE","lat":37.605306,"lon":-79.016361,"elevation":660,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

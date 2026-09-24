@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D74"]={"id":"D74","name":"CHORMAN","lat":38.84955,"lon":-75.612781,"elevation":65,"region":"K6","runways":[{"id":"RW16","lat":38.854039,"lon":-75.615358,"length":3585,"course":166.8},{"id":"RW34","lat":38.846158,"lon":-75.610822,"length":3585,"course":346.8}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33OR"]={"id":"33OR","name":"CROW-MAG","lat":44.063733,"lon":-123.391486,"elevation":450,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

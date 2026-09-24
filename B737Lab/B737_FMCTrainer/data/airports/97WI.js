@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["97WI"]={"id":"97WI","name":"NORTH FORK","lat":44.9633,"lon":-90.860278,"elevation":1145,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

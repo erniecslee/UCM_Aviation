@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82WI"]={"id":"82WI","name":"TRIPLE S RANCH","lat":44.149161,"lon":-87.814394,"elevation":855,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

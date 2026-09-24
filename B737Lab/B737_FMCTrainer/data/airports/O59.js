@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O59"]={"id":"O59","name":"CEDARVILLE","lat":41.553611,"lon":-120.165611,"elevation":4623,"region":"K2","runways":[{"id":"RW20","lat":41.558892,"lon":-120.16165,"length":4415,"course":192.5}],"procedures":{"D":{},"E":{},"F":{}}};

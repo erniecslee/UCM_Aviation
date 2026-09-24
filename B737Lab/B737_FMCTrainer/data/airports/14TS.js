@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["14TS"]={"id":"14TS","name":"O S WYATT","lat":27.421667,"lon":-98.604361,"elevation":537,"region":"K4","runways":[{"id":"RW16","lat":27.429214,"lon":-98.608111,"length":6010,"course":151.0},{"id":"RW34","lat":27.414094,"lon":-98.600619,"length":6010,"course":331.0}],"procedures":{"D":{},"E":{},"F":{}}};

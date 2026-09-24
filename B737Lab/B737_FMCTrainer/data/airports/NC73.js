@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC73"]={"id":"NC73","name":"HODGES FARM","lat":35.438778,"lon":-76.449369,"elevation":6,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE25"]={"id":"NE25","name":"ORR FLD","lat":41.181533,"lon":-100.86,"elevation":2849,"region":"K3","runways":[{"id":"RW08","lat":41.181525,"lon":-100.863522,"length":1940,"course":81.0},{"id":"RW26","lat":41.181542,"lon":-100.856475,"length":1940,"course":261.0}],"procedures":{"D":{},"E":{},"F":{}}};

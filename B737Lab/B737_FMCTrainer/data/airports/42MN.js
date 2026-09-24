@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42MN"]={"id":"42MN","name":"KRAL'S PERSONAL USE LANDING FL","lat":45.084131,"lon":-93.564403,"elevation":990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

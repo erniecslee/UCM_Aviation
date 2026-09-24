@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG48"]={"id":"OG48","name":"GREER","lat":44.195944,"lon":-123.073139,"elevation":360,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39KS"]={"id":"39KS","name":"PAPAS DREAM","lat":37.298144,"lon":-95.262931,"elevation":890,"region":"K3","runways":[{"id":"RW06","lat":37.296858,"lon":-95.265969,"length":2000,"course":60.5},{"id":"RW24","lat":37.299428,"lon":-95.259892,"length":2000,"course":240.5}],"procedures":{"D":{},"E":{},"F":{}}};

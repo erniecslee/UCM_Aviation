@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MS5"]={"id":"5MS5","name":"MINT JULEP AIRPARK","lat":30.545125,"lon":-89.463064,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

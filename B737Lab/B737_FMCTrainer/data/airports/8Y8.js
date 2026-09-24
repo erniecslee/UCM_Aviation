@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8Y8"]={"id":"8Y8","name":"PELTZ FLD","lat":43.265972,"lon":-94.562511,"elevation":1280,"region":"K3","runways":[{"id":"RW18","lat":43.268769,"lon":-94.562553,"length":2040,"course":178.5},{"id":"RW36","lat":43.263175,"lon":-94.562467,"length":2040,"course":358.5}],"procedures":{"D":{},"E":{},"F":{}}};

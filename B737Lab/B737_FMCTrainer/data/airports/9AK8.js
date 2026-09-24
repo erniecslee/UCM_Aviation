@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AK8"]={"id":"9AK8","name":"WOLF TRACK","lat":61.624742,"lon":-149.682231,"elevation":90,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38XA"]={"id":"38XA","name":"WALK-AIR","lat":32.408056,"lon":-95.389444,"elevation":474,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

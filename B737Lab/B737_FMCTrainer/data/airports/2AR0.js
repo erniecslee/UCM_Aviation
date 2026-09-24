@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AR0"]={"id":"2AR0","name":"BULLY HENRY","lat":34.868117,"lon":-91.974253,"elevation":245,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

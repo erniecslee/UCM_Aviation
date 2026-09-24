@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["16FD"]={"id":"16FD","name":"SKINNERS WHOLESALE NURSERY","lat":29.404975,"lon":-81.495906,"elevation":20,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

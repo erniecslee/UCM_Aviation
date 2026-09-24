@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA7"]={"id":"3GA7","name":"THOMAS RIDGE","lat":32.450833,"lon":-84.249181,"elevation":515,"region":"K7","runways":[{"id":"RW09","lat":32.450833,"lon":-84.254,"length":2974,"course":95.6},{"id":"RW27","lat":32.450833,"lon":-84.244361,"length":2974,"course":275.6}],"procedures":{"D":{},"E":{},"F":{}}};

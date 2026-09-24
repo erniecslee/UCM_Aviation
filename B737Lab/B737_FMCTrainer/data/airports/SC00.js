@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC00"]={"id":"SC00","name":"TRIPLE TREE","lat":34.671686,"lon":-81.997611,"elevation":680,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

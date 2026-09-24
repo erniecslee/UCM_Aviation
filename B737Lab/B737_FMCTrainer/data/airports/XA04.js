@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA04"]={"id":"XA04","name":"CIRCLE EIGHT RANCH","lat":32.237619,"lon":-97.899644,"elevation":800,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

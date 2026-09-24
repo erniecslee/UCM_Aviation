@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55TX"]={"id":"55TX","name":"STONECIPHER","lat":30.112158,"lon":-94.256297,"elevation":39,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

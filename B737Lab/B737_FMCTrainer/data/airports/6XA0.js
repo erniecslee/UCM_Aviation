@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6XA0"]={"id":"6XA0","name":"CIRCLE RANCH","lat":30.351164,"lon":-99.173056,"elevation":2124,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

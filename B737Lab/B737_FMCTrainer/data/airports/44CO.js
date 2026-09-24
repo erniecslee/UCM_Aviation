@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["44CO"]={"id":"44CO","name":"REDLANDS","lat":38.83665,"lon":-107.792839,"elevation":6400,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

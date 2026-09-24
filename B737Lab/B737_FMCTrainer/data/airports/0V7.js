@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0V7"]={"id":"0V7","name":"KAYENTA","lat":36.716444,"lon":-110.228444,"elevation":5688,"region":"K2","runways":[{"id":"RW05","lat":36.712467,"lon":-110.2395,"length":7101,"course":53.0},{"id":"RW23","lat":36.720436,"lon":-110.217397,"length":7101,"course":233.0}],"procedures":{"D":{},"E":{},"F":{}}};

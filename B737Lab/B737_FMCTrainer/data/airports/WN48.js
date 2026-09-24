@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN48"]={"id":"WN48","name":"KIMBREL FARM","lat":46.790378,"lon":-123.310428,"elevation":139,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

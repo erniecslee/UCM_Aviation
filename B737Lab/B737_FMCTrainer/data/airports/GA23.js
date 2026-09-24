@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA23"]={"id":"GA23","name":"WYATT","lat":34.578333,"lon":-85.383889,"elevation":720,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

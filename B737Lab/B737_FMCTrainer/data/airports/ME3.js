@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME3"]={"id":"ME3","name":"BRADFORD CAMPS","lat":46.395833,"lon":-69.005,"elevation":815,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

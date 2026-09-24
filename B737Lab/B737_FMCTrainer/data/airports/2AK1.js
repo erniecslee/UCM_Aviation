@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK1"]={"id":"2AK1","name":"BLAIR LAKE","lat":64.363489,"lon":-147.365042,"elevation":910,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

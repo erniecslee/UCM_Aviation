@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN19"]={"id":"WN19","name":"BELL-AIRE","lat":46.331967,"lon":-120.44375,"elevation":768,"region":"K1","runways":[{"id":"RW09","lat":46.331936,"lon":-120.447222,"length":1754,"course":75.0},{"id":"RW27","lat":46.331997,"lon":-120.440278,"length":1754,"course":255.0}],"procedures":{"D":{},"E":{},"F":{}}};

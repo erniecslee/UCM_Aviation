@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IS2"]={"id":"9IS2","name":"SCHERTZ FLD","lat":40.482167,"lon":-88.267556,"elevation":758,"region":"K5","runways":[{"id":"RW18","lat":40.486053,"lon":-88.267561,"length":3177,"course":182.0},{"id":"RW36","lat":40.477808,"lon":-88.267556,"length":3177,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

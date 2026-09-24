@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["BB0"]={"id":"BB0","name":"BLACK BUTTE NORTH","lat":47.845556,"lon":-109.186944,"elevation":3150,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

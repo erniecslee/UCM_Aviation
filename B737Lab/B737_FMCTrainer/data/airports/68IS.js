@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68IS"]={"id":"68IS","name":"CASA DE AERO PARK","lat":42.1486,"lon":-88.561947,"elevation":860,"region":"K5","runways":[{"id":"RW09","lat":42.1486,"lon":-88.567475,"length":2998,"course":92.0},{"id":"RW27","lat":42.1486,"lon":-88.556419,"length":2998,"course":272.0}],"procedures":{"D":{},"E":{},"F":{}}};

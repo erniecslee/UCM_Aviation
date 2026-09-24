@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79KY"]={"id":"79KY","name":"LUCAS FLD","lat":37.871278,"lon":-84.610528,"elevation":906,"region":"K5","runways":[{"id":"RW09","lat":37.871661,"lon":-84.618208,"length":5488,"course":98.6},{"id":"RW27","lat":37.8709,"lon":-84.602806,"length":5488,"course":278.6}],"procedures":{"D":{},"E":{},"F":{}}};

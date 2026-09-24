@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["T32"]={"id":"T32","name":"SUDDEN STOP","lat":33.571497,"lon":-96.907225,"elevation":720,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

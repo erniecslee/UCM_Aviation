@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8OK2"]={"id":"8OK2","name":"BAKER AIRSTRIP","lat":35.475053,"lon":-97.928881,"elevation":1370,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

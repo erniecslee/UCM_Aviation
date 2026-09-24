@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA61"]={"id":"TA61","name":"KAY RANCH","lat":32.473478,"lon":-95.165781,"elevation":315,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O68"]={"id":"O68","name":"SLUICE CREEK","lat":45.447581,"lon":-116.584969,"elevation":1370,"region":"K1","runways":[{"id":"RW03","lat":45.446611,"lon":-116.586283,"length":976,"course":30.6},{"id":"RW21","lat":45.448547,"lon":-116.583656,"length":976,"course":210.6}],"procedures":{"D":{},"E":{},"F":{}}};

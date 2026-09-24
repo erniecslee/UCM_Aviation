@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37CL"]={"id":"37CL","name":"LYALL","lat":33.324478,"lon":-116.990306,"elevation":925,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

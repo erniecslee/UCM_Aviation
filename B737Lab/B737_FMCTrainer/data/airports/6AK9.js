@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK9"]={"id":"6AK9","name":"CIZEK NORTH","lat":61.633461,"lon":-149.682381,"elevation":300,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

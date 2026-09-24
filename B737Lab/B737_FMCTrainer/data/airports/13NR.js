@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13NR"]={"id":"13NR","name":"DUSENBURY FLD","lat":36.2975,"lon":-80.161667,"elevation":646,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

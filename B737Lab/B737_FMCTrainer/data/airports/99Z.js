@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["99Z"]={"id":"99Z","name":"FINGER LAKE","lat":61.609236,"lon":-149.263542,"elevation":337,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

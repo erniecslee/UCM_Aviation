@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS39"]={"id":"LS39","name":"COUNTRY BEND","lat":30.5733,"lon":-90.979628,"elevation":49,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

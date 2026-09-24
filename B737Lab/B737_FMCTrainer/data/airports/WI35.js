@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI35"]={"id":"WI35","name":"CEDER LAKE","lat":45.215797,"lon":-92.5727,"elevation":917,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS36"]={"id":"LS36","name":"LIGHT PLANE FLYERS AIRFIELD","lat":30.250208,"lon":-92.971983,"elevation":25,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

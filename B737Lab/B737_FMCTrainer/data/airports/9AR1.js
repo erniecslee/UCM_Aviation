@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AR1"]={"id":"9AR1","name":"CATLETT FARMS","lat":34.933472,"lon":-93.517222,"elevation":466,"region":"K4","runways":[{"id":"RW16","lat":34.936944,"lon":-93.518611,"length":2661,"course":161.3},{"id":"RW34","lat":34.93,"lon":-93.515833,"length":2661,"course":341.3}],"procedures":{"D":{},"E":{},"F":{}}};

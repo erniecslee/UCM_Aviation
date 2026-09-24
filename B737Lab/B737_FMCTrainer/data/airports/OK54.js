@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK54"]={"id":"OK54","name":"MAY RANCH","lat":36.996697,"lon":-99.004822,"elevation":1833,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

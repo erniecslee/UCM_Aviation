@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MI9"]={"id":"2MI9","name":"CAPEN","lat":43.624194,"lon":-85.317817,"elevation":1015,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

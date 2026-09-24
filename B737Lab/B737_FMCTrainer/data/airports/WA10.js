@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA10"]={"id":"WA10","name":"PAGE","lat":46.016525,"lon":-118.370522,"elevation":800,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

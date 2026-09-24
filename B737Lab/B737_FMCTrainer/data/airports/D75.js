@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D75"]={"id":"D75","name":"BLODGETT LAKE","lat":61.576081,"lon":-149.675569,"elevation":242,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

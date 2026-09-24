@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD83"]={"id":"FD83","name":"STOUT","lat":28.258622,"lon":-81.383958,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

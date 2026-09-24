@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL36"]={"id":"OL36","name":"TROPHY RIDGE","lat":36.988431,"lon":-96.322247,"elevation":987,"region":"K4","runways":[{"id":"RW17","lat":36.98975,"lon":-96.322575,"length":980,"course":166.4},{"id":"RW35","lat":36.987111,"lon":-96.321919,"length":980,"course":346.4}],"procedures":{"D":{},"E":{},"F":{}}};

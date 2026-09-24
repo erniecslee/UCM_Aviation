@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG50"]={"id":"OG50","name":"COTTONWOOD CREEK RANCH","lat":43.847222,"lon":-117.574167,"elevation":2555,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

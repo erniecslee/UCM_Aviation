@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57ND"]={"id":"57ND","name":"ODEGAARD","lat":46.6083,"lon":-97.059533,"elevation":1020,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV67"]={"id":"NV67","name":"PILOT CREEK RANCHES","lat":41.115758,"lon":-114.113625,"elevation":4980,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

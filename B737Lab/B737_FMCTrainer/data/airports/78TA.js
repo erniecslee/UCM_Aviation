@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["78TA"]={"id":"78TA","name":"RANCH-AERO","lat":29.072181,"lon":-98.783581,"elevation":560,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

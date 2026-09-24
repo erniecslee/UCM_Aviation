@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76T"]={"id":"76T","name":"BISHOP","lat":33.269167,"lon":-97.451861,"elevation":888,"region":"K4","runways":[{"id":"RW17","lat":33.274297,"lon":-97.451878,"length":3730,"course":173.0},{"id":"RW35","lat":33.264044,"lon":-97.45185,"length":3730,"course":353.0}],"procedures":{"D":{},"E":{},"F":{}}};

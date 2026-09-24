@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD19"]={"id":"SD19","name":"ANDERSEN FARMS","lat":44.465278,"lon":-97.2225,"elevation":1750,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

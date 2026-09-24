@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA24"]={"id":"FA24","name":"HORSESHOE ACRES AIRPARK","lat":27.093333,"lon":-80.612222,"elevation":9,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

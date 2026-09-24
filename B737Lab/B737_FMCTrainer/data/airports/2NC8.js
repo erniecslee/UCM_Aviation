@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NC8"]={"id":"2NC8","name":"GOODNIGHT'S","lat":35.525417,"lon":-80.639789,"elevation":740,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

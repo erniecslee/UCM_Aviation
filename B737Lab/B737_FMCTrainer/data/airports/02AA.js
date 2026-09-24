@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02AA"]={"id":"02AA","name":"BAREFOOT","lat":61.506667,"lon":-149.911944,"elevation":160,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

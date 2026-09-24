@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY38"]={"id":"MY38","name":"IRONS POINT","lat":47.84325,"lon":-92.350717,"elevation":1358,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

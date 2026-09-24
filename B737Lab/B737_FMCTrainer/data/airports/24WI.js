@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["24WI"]={"id":"24WI","name":"WEBB LAKE LODGE","lat":46.029794,"lon":-92.127031,"elevation":940,"region":"K5","runways":[{"id":"RW14","lat":46.033622,"lon":-92.132669,"length":4000,"course":89.4}],"procedures":{"D":{},"E":{},"F":{}}};

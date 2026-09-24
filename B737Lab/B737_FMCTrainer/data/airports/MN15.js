@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN15"]={"id":"MN15","name":"SMITH FLD","lat":44.623339,"lon":-93.402053,"elevation":958,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

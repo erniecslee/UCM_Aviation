@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2PA4"]={"id":"2PA4","name":"BODEN","lat":41.84675,"lon":-75.446292,"elevation":2120,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

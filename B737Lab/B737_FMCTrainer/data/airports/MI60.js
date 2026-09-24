@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI60"]={"id":"MI60","name":"TANNEHILL AIRFIELD","lat":44.591389,"lon":-85.310833,"elevation":1050,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

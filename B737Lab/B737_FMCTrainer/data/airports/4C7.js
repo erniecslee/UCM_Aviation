@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4C7"]={"id":"4C7","name":"ACKLEY MUNI","lat":42.547444,"lon":-93.033417,"elevation":1070,"region":"K3","runways":[{"id":"RW15","lat":42.550556,"lon":-93.03625,"length":2725,"course":143.0}],"procedures":{"D":{},"E":{},"F":{}}};

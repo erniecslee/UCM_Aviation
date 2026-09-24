@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55ND"]={"id":"55ND","name":"PETE'S PORT","lat":47.355569,"lon":-102.710742,"elevation":2260,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

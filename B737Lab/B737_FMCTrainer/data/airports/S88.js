@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S88"]={"id":"S88","name":"SKYKOMISH STATE","lat":47.710936,"lon":-121.339056,"elevation":1002,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TE2"]={"id":"7TE2","name":"CAGE RANCH","lat":27.105878,"lon":-98.205839,"elevation":148,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

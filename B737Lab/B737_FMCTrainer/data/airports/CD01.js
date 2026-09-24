@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD01"]={"id":"CD01","name":"LOWE AIRSTRIP","lat":38.398333,"lon":-105.620278,"elevation":6200,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

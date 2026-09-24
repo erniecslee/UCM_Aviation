@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FD9"]={"id":"7FD9","name":"ESTHERBROOK AERODROME","lat":30.624375,"lon":-83.286814,"elevation":100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

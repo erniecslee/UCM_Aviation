@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV22"]={"id":"NV22","name":"RED ROCK RANCH","lat":40.312703,"lon":-115.896731,"elevation":6158,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04FL"]={"id":"04FL","name":"CROSS CREEK FARMS","lat":29.239425,"lon":-81.222006,"elevation":30,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

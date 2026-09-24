@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["H76"]={"id":"H76","name":"PAWHUSKA MUNI","lat":36.671725,"lon":-96.405569,"elevation":1000,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MI4"]={"id":"9MI4","name":"WAITE FLD","lat":42.890731,"lon":-83.932208,"elevation":821,"region":"K5","runways":[{"id":"RW03","lat":42.887956,"lon":-83.933836,"length":3400,"course":30.3},{"id":"RW21","lat":42.895014,"lon":-83.929694,"length":3400,"course":210.3}],"procedures":{"D":{},"E":{},"F":{}}};

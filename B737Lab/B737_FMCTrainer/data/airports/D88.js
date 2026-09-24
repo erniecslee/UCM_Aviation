@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D88"]={"id":"D88","name":"PRATT'S EASTERN DIVIDE","lat":42.150056,"lon":-79.685881,"elevation":1640,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

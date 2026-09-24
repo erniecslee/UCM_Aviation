@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03MO"]={"id":"03MO","name":"DORTON","lat":39.288831,"lon":-93.992422,"elevation":930,"region":"K3","runways":[{"id":"RW09","lat":39.288769,"lon":-93.996136,"length":2100,"course":88.1},{"id":"RW27","lat":39.288889,"lon":-93.988714,"length":2100,"course":268.1}],"procedures":{"D":{},"E":{},"F":{}}};

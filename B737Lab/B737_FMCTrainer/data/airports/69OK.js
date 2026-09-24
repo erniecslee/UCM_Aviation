@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69OK"]={"id":"69OK","name":"GREEN COUNTRY AIRPARK","lat":36.728683,"lon":-94.850511,"elevation":840,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

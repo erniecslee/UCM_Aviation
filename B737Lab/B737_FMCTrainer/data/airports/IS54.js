@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS54"]={"id":"IS54","name":"MC CHRISTY","lat":39.644694,"lon":-89.145744,"elevation":630,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY82"]={"id":"NY82","name":"ALEXANDER FARM","lat":42.580636,"lon":-73.616228,"elevation":525,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

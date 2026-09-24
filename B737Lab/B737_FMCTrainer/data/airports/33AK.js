@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33AK"]={"id":"33AK","name":"NUGGET BENCH","lat":62.517256,"lon":-150.945342,"elevation":2010,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

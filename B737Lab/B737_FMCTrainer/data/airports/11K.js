@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11K"]={"id":"11K","name":"SQUADRON FLD","lat":37.461172,"lon":-95.241944,"elevation":947,"region":"K3","runways":[{"id":"RW01","lat":37.458467,"lon":-95.242031,"length":1970,"course":359.9},{"id":"RW19","lat":37.463878,"lon":-95.241858,"length":1970,"course":179.9}],"procedures":{"D":{},"E":{},"F":{}}};

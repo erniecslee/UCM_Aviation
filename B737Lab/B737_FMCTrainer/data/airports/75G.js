@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["75G"]={"id":"75G","name":"ROSSETTIE","lat":42.195097,"lon":-84.030861,"elevation":1005,"region":"K5","runways":[{"id":"RW18","lat":42.1985,"lon":-84.030944,"length":2480,"course":184.0},{"id":"RW36","lat":42.192694,"lon":-84.0308,"length":2480,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

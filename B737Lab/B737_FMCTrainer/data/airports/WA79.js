@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA79"]={"id":"WA79","name":"WALTER SUTTONS STRIP","lat":45.933167,"lon":-122.417875,"elevation":451,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

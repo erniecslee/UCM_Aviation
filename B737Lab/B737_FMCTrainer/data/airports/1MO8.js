@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MO8"]={"id":"1MO8","name":"SHERLOCK FLD","lat":38.252808,"lon":-92.802969,"elevation":800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

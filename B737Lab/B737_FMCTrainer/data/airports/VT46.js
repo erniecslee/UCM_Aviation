@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT46"]={"id":"VT46","name":"NORTHERN LIGHTS","lat":44.871986,"lon":-73.286519,"elevation":130,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

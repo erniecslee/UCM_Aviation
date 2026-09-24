@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5D6"]={"id":"5D6","name":"PARSONS","lat":40.648081,"lon":-81.069528,"elevation":1270,"region":"K5","runways":[{"id":"RW10","lat":40.648175,"lon":-81.074158,"length":2570,"course":99.0},{"id":"RW28","lat":40.647986,"lon":-81.0649,"length":2570,"course":279.0}],"procedures":{"D":{},"E":{},"F":{}}};

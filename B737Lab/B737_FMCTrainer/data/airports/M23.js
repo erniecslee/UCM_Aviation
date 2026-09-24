@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M23"]={"id":"M23","name":"JAMES H EASOM FLD","lat":32.312008,"lon":-89.13565,"elevation":370,"region":"K7","runways":[{"id":"RW14","lat":32.314906,"lon":-89.1391,"length":3000,"course":133.0},{"id":"RW32","lat":32.309108,"lon":-89.1322,"length":3000,"course":313.0}],"procedures":{"D":{},"E":{},"F":{}}};

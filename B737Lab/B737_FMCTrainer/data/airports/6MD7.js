@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MD7"]={"id":"6MD7","name":"D'ANGELO","lat":39.339167,"lon":-75.766667,"elevation":82,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

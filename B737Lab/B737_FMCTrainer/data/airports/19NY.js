@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["19NY"]={"id":"19NY","name":"FOUR SEASONS","lat":42.407131,"lon":-76.962706,"elevation":1676,"region":"K6","runways":[{"id":"RW17","lat":42.4104,"lon":-76.964103,"length":2500,"course":173.4},{"id":"RW35","lat":42.403861,"lon":-76.961306,"length":2500,"course":353.4}],"procedures":{"D":{},"E":{},"F":{}}};

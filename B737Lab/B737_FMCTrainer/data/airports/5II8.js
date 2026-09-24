@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5II8"]={"id":"5II8","name":"JACOBI","lat":38.410061,"lon":-86.128864,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

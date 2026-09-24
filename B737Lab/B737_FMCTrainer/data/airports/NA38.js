@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA38"]={"id":"NA38","name":"SABBE BROTHERS LANDING STRIP","lat":47.950561,"lon":-99.429578,"elevation":1572,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

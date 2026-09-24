@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD50"]={"id":"FD50","name":"THE TRAILS","lat":30.109111,"lon":-83.188747,"elevation":45,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

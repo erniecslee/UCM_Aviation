@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL39"]={"id":"OL39","name":"MIDWAY","lat":35.698611,"lon":-96.6775,"elevation":853,"region":"K4","runways":[{"id":"RW17","lat":35.701944,"lon":-96.678333,"length":2477,"course":166.0},{"id":"RW35","lat":35.695278,"lon":-96.676667,"length":2477,"course":346.0}],"procedures":{"D":{},"E":{},"F":{}}};

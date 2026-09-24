@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS62"]={"id":"XS62","name":"STAHL","lat":33.568942,"lon":-97.190578,"elevation":820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

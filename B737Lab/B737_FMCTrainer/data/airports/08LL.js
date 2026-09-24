@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08LL"]={"id":"08LL","name":"SAUER","lat":41.075278,"lon":-88.489167,"elevation":665,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

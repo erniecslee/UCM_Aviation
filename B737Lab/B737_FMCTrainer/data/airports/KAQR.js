@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KAQR"]={"id":"KAQR","name":"ATOKA MUNI","lat":34.398339,"lon":-96.148061,"elevation":590,"region":"K4","runways":[{"id":"RW18","lat":34.401914,"lon":-96.147511,"length":3015,"course":181.0},{"id":"RW36","lat":34.394867,"lon":-96.148594,"length":3015,"course":1.0}],"procedures":{"D":{},"E":{},"F":{}}};

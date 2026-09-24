@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC42"]={"id":"NC42","name":"PINEY RIDGE","lat":36.067361,"lon":-80.701111,"elevation":960,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV53"]={"id":"WV53","name":"LAREW","lat":39.372036,"lon":-79.892847,"elevation":1790,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

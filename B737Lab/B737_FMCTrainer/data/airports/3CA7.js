@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3CA7"]={"id":"3CA7","name":"METZ","lat":36.3283,"lon":-121.186589,"elevation":240,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

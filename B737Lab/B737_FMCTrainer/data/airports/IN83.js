@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN83"]={"id":"IN83","name":"LAUTZENHISER AIRPARK","lat":41.502272,"lon":-84.930242,"elevation":928,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

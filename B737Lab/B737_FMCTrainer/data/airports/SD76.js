@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SD76"]={"id":"SD76","name":"TENNANT RANCH","lat":45.829444,"lon":-103.945486,"elevation":3090,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

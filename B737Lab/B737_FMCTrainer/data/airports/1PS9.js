@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1PS9"]={"id":"1PS9","name":"WICKER & WINGS AERODROME","lat":40.403436,"lon":-75.370456,"elevation":590,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

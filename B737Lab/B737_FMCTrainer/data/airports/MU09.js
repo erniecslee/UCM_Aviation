@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU09"]={"id":"MU09","name":"HESTER","lat":40.466658,"lon":-95.021086,"elevation":1000,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

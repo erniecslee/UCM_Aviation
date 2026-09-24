@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II89"]={"id":"II89","name":"LOCKYEAR","lat":38.086989,"lon":-87.681689,"elevation":525,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

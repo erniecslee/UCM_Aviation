@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6MA2"]={"id":"6MA2","name":"MEADOWBROOK","lat":42.860089,"lon":-70.996556,"elevation":117,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

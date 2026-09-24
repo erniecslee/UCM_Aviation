@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5J5"]={"id":"5J5","name":"HOLLY HILL","lat":33.301525,"lon":-80.393081,"elevation":96,"region":"K7","runways":[{"id":"RW04","lat":33.297611,"lon":-80.397444,"length":3900,"course":48.0},{"id":"RW22","lat":33.305439,"lon":-80.388717,"length":3900,"course":228.0}],"procedures":{"D":{},"E":{},"F":{}}};

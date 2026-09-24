@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WV3"]={"id":"2WV3","name":"HALES LANDING","lat":39.117233,"lon":-81.391667,"elevation":650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

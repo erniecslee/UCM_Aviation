@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI00"]={"id":"WI00","name":"NORRIE BROOK","lat":44.873858,"lon":-89.230667,"elevation":1240,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

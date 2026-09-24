@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68ID"]={"id":"68ID","name":"RAPOPORT RANCH","lat":48.25,"lon":-116.466667,"elevation":2170,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

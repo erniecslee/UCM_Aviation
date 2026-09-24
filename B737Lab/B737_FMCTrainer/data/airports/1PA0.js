@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1PA0"]={"id":"1PA0","name":"HINAMAN ACRES","lat":41.133408,"lon":-77.199692,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

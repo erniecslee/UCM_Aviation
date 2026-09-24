@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR06"]={"id":"OR06","name":"SNIDER CREEK","lat":42.539014,"lon":-122.922947,"elevation":1430,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

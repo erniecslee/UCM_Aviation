@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CO2"]={"id":"0CO2","name":"CRESTED BUTTE AIRPARK","lat":38.851936,"lon":-106.932819,"elevation":8980,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

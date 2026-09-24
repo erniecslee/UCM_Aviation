@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05TE"]={"id":"05TE","name":"HILDE-GRIFF FLD","lat":30.722133,"lon":-97.791403,"elevation":950,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

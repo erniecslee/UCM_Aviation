@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84WY"]={"id":"84WY","name":"MOORE RANCH","lat":43.446111,"lon":-105.743056,"elevation":5027,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

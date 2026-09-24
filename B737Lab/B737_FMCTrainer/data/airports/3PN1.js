@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3PN1"]={"id":"3PN1","name":"ASHLAWN","lat":41.622025,"lon":-75.596297,"elevation":1511,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

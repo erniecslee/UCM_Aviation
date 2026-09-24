@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA35"]={"id":"PA35","name":"AREA 52","lat":40.432042,"lon":-75.626019,"elevation":660,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

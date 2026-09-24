@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9S1"]={"id":"9S1","name":"FOUR WINDS","lat":33.368278,"lon":-96.754694,"elevation":790,"region":"K4","runways":[{"id":"RW18","lat":33.371933,"lon":-96.754642,"length":2662,"course":178.2},{"id":"RW36","lat":33.364619,"lon":-96.754747,"length":2662,"course":358.2}],"procedures":{"D":{},"E":{},"F":{}}};

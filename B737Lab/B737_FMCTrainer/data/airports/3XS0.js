@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3XS0"]={"id":"3XS0","name":"HARTLEE FLD","lat":33.26845,"lon":-97.071122,"elevation":588,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL77"]={"id":"AL77","name":"SMART ROAD","lat":31.740556,"lon":-86.007306,"elevation":436,"region":"K7","runways":[{"id":"RW09","lat":31.740556,"lon":-86.010844,"length":2200,"course":94.3},{"id":"RW27","lat":31.740556,"lon":-86.003767,"length":2200,"course":274.4}],"procedures":{"D":{},"E":{},"F":{}}};

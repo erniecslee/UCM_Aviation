@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2IA9"]={"id":"2IA9","name":"SOUTH 80 FLD","lat":43.190792,"lon":-93.770775,"elevation":1210,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

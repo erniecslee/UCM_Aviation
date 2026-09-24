@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA31"]={"id":"PA31","name":"ROVER","lat":40.283425,"lon":-76.539411,"elevation":500,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

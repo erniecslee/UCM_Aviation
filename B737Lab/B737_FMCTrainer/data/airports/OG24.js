@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG24"]={"id":"OG24","name":"FLYING D RANCH","lat":43.388728,"lon":-123.222014,"elevation":730,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

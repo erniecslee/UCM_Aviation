@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5VA5"]={"id":"5VA5","name":"CHIMNEY VIEW","lat":38.403458,"lon":-77.315814,"elevation":25,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

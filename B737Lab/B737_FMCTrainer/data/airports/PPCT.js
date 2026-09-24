@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PPCT"]={"id":"PPCT","name":"TAKOTNA","lat":62.992944,"lon":-156.029722,"elevation":423,"region":"PP","runways":[{"id":"RW04","lat":62.990306,"lon":-156.037778,"length":3300,"course":37.4},{"id":"RW22","lat":62.995556,"lon":-156.021667,"length":3300,"course":217.4}],"procedures":{"D":{},"E":{},"F":{}}};

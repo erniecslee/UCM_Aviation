@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A29"]={"id":"A29","name":"SITKA","lat":57.052139,"lon":-135.346208,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS67"]={"id":"WS67","name":"VIETMEIER","lat":46.799933,"lon":-91.208519,"elevation":795,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

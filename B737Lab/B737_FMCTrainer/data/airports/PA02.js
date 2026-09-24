@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA02"]={"id":"PA02","name":"DILLEN PERSONAL","lat":41.983389,"lon":-80.183114,"elevation":1028,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

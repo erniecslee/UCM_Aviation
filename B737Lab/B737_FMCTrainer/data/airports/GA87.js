@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA87"]={"id":"GA87","name":"HIGH VALLEY AIRPARK","lat":34.698144,"lon":-84.012692,"elevation":2800,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

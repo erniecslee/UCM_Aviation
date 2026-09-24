@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["66Y"]={"id":"66Y","name":"DIAMONDHEAD","lat":30.362981,"lon":-89.387656,"elevation":14,"region":"K7","runways":[{"id":"RW18","lat":30.366519,"lon":-89.387656,"length":3800,"course":178.0}],"procedures":{"D":{},"E":{},"F":{}}};

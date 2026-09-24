@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2E2"]={"id":"2E2","name":"SHARPE'S STRIP","lat":42.951608,"lon":-82.775867,"elevation":781,"region":"K5","runways":[{"id":"RW18","lat":42.953389,"lon":-82.775961,"length":2700,"course":185.5},{"id":"RW36","lat":42.947908,"lon":-82.775661,"length":2700,"course":5.5}],"procedures":{"D":{},"E":{},"F":{}}};

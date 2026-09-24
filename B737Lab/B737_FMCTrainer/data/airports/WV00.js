@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV00"]={"id":"WV00","name":"DEER CREEK FARM","lat":38.470833,"lon":-79.800556,"elevation":2650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

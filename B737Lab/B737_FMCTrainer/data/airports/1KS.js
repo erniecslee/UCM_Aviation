@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1KS"]={"id":"1KS","name":"LINN COUNTY","lat":38.173433,"lon":-94.690325,"elevation":860,"region":"K3","runways":[{"id":"RW18","lat":38.177556,"lon":-94.690344,"length":3000,"course":178.6},{"id":"RW36","lat":38.169311,"lon":-94.690306,"length":3000,"course":358.6}],"procedures":{"D":{},"E":{},"F":{}}};

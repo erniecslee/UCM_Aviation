@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9ID6"]={"id":"9ID6","name":"MALLARD CREEK RANCH","lat":45.613333,"lon":-115.324833,"elevation":5200,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

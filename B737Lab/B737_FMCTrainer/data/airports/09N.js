@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["09N"]={"id":"09N","name":"AIRHAVEN","lat":41.832639,"lon":-73.876167,"elevation":450,"region":"K6","runways":[{"id":"RW02","lat":41.830083,"lon":-73.876347,"length":1863,"course":16.0},{"id":"RW20","lat":41.835189,"lon":-73.875989,"length":1863,"course":196.0}],"procedures":{"D":{},"E":{},"F":{}}};

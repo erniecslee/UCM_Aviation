@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["56AZ"]={"id":"56AZ","name":"MAULDIN AIRSTRIP","lat":33.481983,"lon":-113.002128,"elevation":1193,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

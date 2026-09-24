@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI80"]={"id":"WI80","name":"PISHA FARM","lat":43.776308,"lon":-90.414275,"elevation":1411,"region":"K5","runways":[{"id":"RW18","lat":43.778403,"lon":-90.414464,"length":1530,"course":178.5},{"id":"RW36","lat":43.774214,"lon":-90.414083,"length":1530,"course":358.5}],"procedures":{"D":{},"E":{},"F":{}}};

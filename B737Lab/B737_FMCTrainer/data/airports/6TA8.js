@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TA8"]={"id":"6TA8","name":"SPEARS RANCH","lat":30.831833,"lon":-97.670239,"elevation":861,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

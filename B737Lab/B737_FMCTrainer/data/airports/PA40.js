@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA40"]={"id":"PA40","name":"BENTON","lat":41.200083,"lon":-76.387164,"elevation":780,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

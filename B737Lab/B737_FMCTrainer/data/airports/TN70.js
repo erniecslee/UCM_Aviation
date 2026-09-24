@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN70"]={"id":"TN70","name":"BURKEEN FLD","lat":35.026203,"lon":-89.702583,"elevation":365,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49II"]={"id":"49II","name":"REINOEHL FLD","lat":39.609767,"lon":-87.015292,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

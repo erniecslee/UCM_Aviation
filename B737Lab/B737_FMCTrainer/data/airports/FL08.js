@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL08"]={"id":"FL08","name":"FLORIDA SHERIFFS BOYS RANCH","lat":30.415497,"lon":-83.016522,"elevation":93,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

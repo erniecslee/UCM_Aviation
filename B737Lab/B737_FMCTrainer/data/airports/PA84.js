@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA84"]={"id":"PA84","name":"LEVEL ACRES FARM","lat":39.953819,"lon":-76.909261,"elevation":523,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

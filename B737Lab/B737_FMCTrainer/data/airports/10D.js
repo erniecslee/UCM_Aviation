@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10D"]={"id":"10D","name":"WINSTED MUNI","lat":44.953817,"lon":-94.065317,"elevation":1030,"region":"K3","runways":[{"id":"RW09","lat":44.953833,"lon":-94.071592,"length":3248,"course":86.0},{"id":"RW27","lat":44.9538,"lon":-94.059044,"length":3248,"course":266.0}],"procedures":{"D":{},"E":{},"F":{}}};

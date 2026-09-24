@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND60"]={"id":"ND60","name":"DOUGLAS PORTAGE","lat":47.958878,"lon":-97.479808,"elevation":953,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

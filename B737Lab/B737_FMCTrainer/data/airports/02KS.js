@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02KS"]={"id":"02KS","name":"JMJ LANDING","lat":39.222219,"lon":-96.055269,"elevation":1170,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4Z7"]={"id":"4Z7","name":"HYDER","lat":55.903319,"lon":-130.006703,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

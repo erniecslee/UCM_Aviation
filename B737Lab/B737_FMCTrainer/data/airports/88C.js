@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88C"]={"id":"88C","name":"PALMYRA MUNI","lat":42.883525,"lon":-88.599353,"elevation":851,"region":"K5","runways":[{"id":"RW09","lat":42.883472,"lon":-88.604578,"length":2801,"course":90.0},{"id":"RW27","lat":42.883575,"lon":-88.594128,"length":2801,"course":270.0}],"procedures":{"D":{},"E":{},"F":{}}};

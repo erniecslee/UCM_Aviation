@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PACL"]={"id":"PACL","name":"CLEAR","lat":64.300389,"lon":-149.116528,"elevation":559,"region":"PA","runways":[{"id":"RW01","lat":64.295869,"lon":-149.123581,"length":3997,"course":7.0},{"id":"RW19","lat":64.304928,"lon":-149.109503,"length":3997,"course":187.0}],"procedures":{"D":{},"E":{},"F":{}}};

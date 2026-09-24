@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E92"]={"id":"E92","name":"ESTANCIA MUNI","lat":34.763394,"lon":-106.041406,"elevation":6100,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

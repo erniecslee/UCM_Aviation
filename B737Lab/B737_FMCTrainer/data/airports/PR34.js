@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PR34"]={"id":"PR34","name":"SAN JUAN","lat":18.457778,"lon":-66.121111,"elevation":10,"region":"TJ","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

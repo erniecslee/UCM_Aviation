@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7KS9"]={"id":"7KS9","name":"EAGLE FLD","lat":37.84915,"lon":-97.510236,"elevation":1381,"region":"K3","runways":[{"id":"RW17","lat":37.854094,"lon":-97.510269,"length":3600,"course":174.0},{"id":"RW35","lat":37.844206,"lon":-97.5102,"length":3600,"course":354.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX79"]={"id":"TX79","name":"CRESCENT C RANCH","lat":28.088889,"lon":-99.048889,"elevation":277,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

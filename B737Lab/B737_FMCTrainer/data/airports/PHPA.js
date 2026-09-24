@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PHPA"]={"id":"PHPA","name":"PORT ALLEN","lat":21.896944,"lon":-159.603167,"elevation":24,"region":"PH","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

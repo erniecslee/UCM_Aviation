@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ88"]={"id":"AZ88","name":"ELOY FARMS AIRSTRIP","lat":32.689503,"lon":-111.549319,"elevation":1555,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

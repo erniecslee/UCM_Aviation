@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5TS8"]={"id":"5TS8","name":"BEAR CREEK RANCH","lat":29.808553,"lon":-98.272514,"elevation":1360,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

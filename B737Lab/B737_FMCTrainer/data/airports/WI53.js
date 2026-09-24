@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI53"]={"id":"WI53","name":"MAGUIRE FLD","lat":44.79175,"lon":-89.888706,"elevation":1274,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

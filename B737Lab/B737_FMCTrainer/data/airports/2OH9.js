@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OH9"]={"id":"2OH9","name":"CAESAR CREEK SOARING CLUB","lat":39.476728,"lon":-84.093822,"elevation":940,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

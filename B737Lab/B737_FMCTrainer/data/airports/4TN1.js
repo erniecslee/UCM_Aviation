@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TN1"]={"id":"4TN1","name":"HAPPY LANDINGS","lat":35.371139,"lon":-84.961522,"elevation":700,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

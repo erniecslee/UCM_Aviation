@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38CN"]={"id":"38CN","name":"SANBORN","lat":39.109336,"lon":-121.883858,"elevation":36,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

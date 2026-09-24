@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS00"]={"id":"TS00","name":"FULLER","lat":32.788186,"lon":-97.180844,"elevation":490,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

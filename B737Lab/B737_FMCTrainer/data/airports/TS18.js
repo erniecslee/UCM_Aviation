@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS18"]={"id":"TS18","name":"KINGSLAND ESTATES","lat":30.654353,"lon":-98.478642,"elevation":873,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

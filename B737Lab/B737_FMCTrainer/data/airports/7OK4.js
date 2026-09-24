@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7OK4"]={"id":"7OK4","name":"WATERS HOME","lat":35.607986,"lon":-98.638508,"elevation":1721,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

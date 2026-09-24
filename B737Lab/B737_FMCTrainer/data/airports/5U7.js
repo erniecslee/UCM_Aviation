@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5U7"]={"id":"5U7","name":"FORT SMITH LANDING STRIP","lat":45.320792,"lon":-107.931222,"elevation":3242,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

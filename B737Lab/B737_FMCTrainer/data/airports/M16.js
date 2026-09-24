@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["M16"]={"id":"M16","name":"STEAM BOAT BAY","lat":46.397861,"lon":-94.371,"elevation":1197,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2DE2"]={"id":"2DE2","name":"WILLAVIEW","lat":38.855033,"lon":-75.572206,"elevation":63,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

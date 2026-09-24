@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8VA9"]={"id":"8VA9","name":"VALLEY VIEW","lat":38.692083,"lon":-77.551528,"elevation":240,"region":"K6","runways":[{"id":"RW02","lat":38.689444,"lon":-77.552778,"length":2050,"course":30.8},{"id":"RW20","lat":38.694722,"lon":-77.550278,"length":2050,"course":210.8}],"procedures":{"D":{},"E":{},"F":{}}};

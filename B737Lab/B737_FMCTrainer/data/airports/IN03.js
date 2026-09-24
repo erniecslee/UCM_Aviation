@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IN03"]={"id":"IN03","name":"ALFORD AIRPARK","lat":38.463889,"lon":-87.25,"elevation":500,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

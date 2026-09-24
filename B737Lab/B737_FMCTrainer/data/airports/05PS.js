@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05PS"]={"id":"05PS","name":"MILLS BROTHERS","lat":40.142778,"lon":-77.861944,"elevation":1210,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

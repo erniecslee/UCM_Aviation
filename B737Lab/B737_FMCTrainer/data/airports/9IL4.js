@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IL4"]={"id":"9IL4","name":"HEP CATS","lat":41.807222,"lon":-89.048056,"elevation":790,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

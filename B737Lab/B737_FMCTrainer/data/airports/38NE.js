@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["38NE"]={"id":"38NE","name":"BOARDMAN AERIAL","lat":40.753622,"lon":-97.851439,"elevation":1720,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

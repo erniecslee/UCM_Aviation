@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OK"]={"id":"1OK","name":"FAIRMONT FLD","lat":36.365236,"lon":-97.667842,"elevation":1170,"region":"K4","runways":[{"id":"RW17","lat":36.368722,"lon":-97.667836,"length":2540,"course":177.0},{"id":"RW35","lat":36.36175,"lon":-97.667847,"length":2540,"course":357.0}],"procedures":{"D":{},"E":{},"F":{}}};

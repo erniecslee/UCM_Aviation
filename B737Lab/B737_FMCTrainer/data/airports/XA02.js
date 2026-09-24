@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA02"]={"id":"XA02","name":"DANZ RANCH","lat":30.2802,"lon":-98.426411,"elevation":1230,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

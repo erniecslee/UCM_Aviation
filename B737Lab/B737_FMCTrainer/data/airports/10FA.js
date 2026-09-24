@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["10FA"]={"id":"10FA","name":"FLYING BARON ESTATES","lat":28.797489,"lon":-81.935914,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

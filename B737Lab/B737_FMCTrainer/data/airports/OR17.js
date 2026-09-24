@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR17"]={"id":"OR17","name":"OXBOW RANCH","lat":44.411825,"lon":-118.691336,"elevation":3972,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

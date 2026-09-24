@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63CA"]={"id":"63CA","name":"DESERT AIR SKY RANCH","lat":33.481139,"lon":-115.874164,"elevation":0,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7LA9"]={"id":"7LA9","name":"CHUTE N GATORS","lat":29.999494,"lon":-93.138025,"elevation":4,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

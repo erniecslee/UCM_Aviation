@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ06"]={"id":"AZ06","name":"DUSTY WINGS FLD","lat":32.786336,"lon":-113.9386,"elevation":289,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IS65"]={"id":"IS65","name":"WOODLAKE LANDING","lat":41.638364,"lon":-88.644522,"elevation":677,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

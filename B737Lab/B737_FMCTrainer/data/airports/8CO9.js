@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8CO9"]={"id":"8CO9","name":"PINE VIEW","lat":39.344433,"lon":-104.581081,"elevation":6572,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

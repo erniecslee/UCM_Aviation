@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34IL"]={"id":"34IL","name":"G BRAY","lat":40.362186,"lon":-90.110056,"elevation":557,"region":"K5","runways":[{"id":"RW16","lat":40.364289,"lon":-90.110886,"length":1600,"course":162.2},{"id":"RW34","lat":40.360086,"lon":-90.109222,"length":1600,"course":342.2}],"procedures":{"D":{},"E":{},"F":{}}};

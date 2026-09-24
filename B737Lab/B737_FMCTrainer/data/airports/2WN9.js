@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WN9"]={"id":"2WN9","name":"HILLCREST","lat":45.845125,"lon":-120.700894,"elevation":2405,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

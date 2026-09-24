@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL56"]={"id":"CL56","name":"RANCHAERO","lat":39.719522,"lon":-121.870494,"elevation":173,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

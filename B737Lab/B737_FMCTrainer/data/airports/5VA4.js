@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5VA4"]={"id":"5VA4","name":"MATTS","lat":37.721589,"lon":-77.220342,"elevation":95,"region":"K6","runways":[{"id":"RW04","lat":37.717089,"lon":-77.2242,"length":3966,"course":44.7},{"id":"RW22","lat":37.726089,"lon":-77.216481,"length":3966,"course":224.7}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["85FL"]={"id":"85FL","name":"THOMAS FARMS","lat":30.969047,"lon":-87.055425,"elevation":281,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

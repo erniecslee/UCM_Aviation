@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VT62"]={"id":"VT62","name":"CATAMOUNT AIRFIELD","lat":44.390367,"lon":-72.350639,"elevation":1350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

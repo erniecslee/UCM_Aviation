@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TE4"]={"id":"1TE4","name":"ZUEHL","lat":29.495633,"lon":-98.158881,"elevation":592,"region":"K4","runways":[{"id":"RW17","lat":29.499703,"lon":-98.159072,"length":2963,"course":170.6},{"id":"RW35","lat":29.491561,"lon":-98.158686,"length":2963,"course":350.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K87"]={"id":"K87","name":"HIAWATHA MUNI","lat":39.879169,"lon":-95.525261,"elevation":1130,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

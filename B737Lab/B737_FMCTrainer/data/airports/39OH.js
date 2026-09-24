@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["39OH"]={"id":"39OH","name":"CROSSWIND MEADOWS","lat":40.812281,"lon":-81.055094,"elevation":1160,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

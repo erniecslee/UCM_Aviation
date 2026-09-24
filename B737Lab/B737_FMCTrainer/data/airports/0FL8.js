@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0FL8"]={"id":"0FL8","name":"GARY GALE","lat":30.193889,"lon":-81.681944,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68F"]={"id":"68F","name":"TEAGUE MUNI","lat":31.66175,"lon":-96.3105,"elevation":525,"region":"K4","runways":[{"id":"RW15","lat":31.665636,"lon":-96.313214,"length":3300,"course":143.0},{"id":"RW33","lat":31.657853,"lon":-96.307761,"length":3300,"course":323.0}],"procedures":{"D":{},"E":{},"F":{}}};

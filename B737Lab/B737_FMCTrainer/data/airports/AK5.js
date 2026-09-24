@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK5"]={"id":"AK5","name":"ENCELEWSKI LAKE","lat":60.255556,"lon":-151.303056,"elevation":230,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

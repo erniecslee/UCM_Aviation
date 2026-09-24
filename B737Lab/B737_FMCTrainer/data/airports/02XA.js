@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02XA"]={"id":"02XA","name":"JLS FARMS","lat":33.591319,"lon":-95.882864,"elevation":675,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

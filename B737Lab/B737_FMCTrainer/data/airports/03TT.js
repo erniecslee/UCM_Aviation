@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03TT"]={"id":"03TT","name":"BRAZOS POLO","lat":29.632117,"lon":-95.932481,"elevation":117,"region":"K4","runways":[{"id":"RW18","lat":29.636239,"lon":-95.932278,"length":3000,"course":180.4},{"id":"RW36","lat":29.627992,"lon":-95.932683,"length":3000,"course":0.4}],"procedures":{"D":{},"E":{},"F":{}}};

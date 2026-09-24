@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA73"]={"id":"GA73","name":"SHADE TREE","lat":33.161789,"lon":-84.453258,"elevation":850,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

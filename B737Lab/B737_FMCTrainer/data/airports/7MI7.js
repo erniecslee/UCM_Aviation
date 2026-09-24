@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7MI7"]={"id":"7MI7","name":"WALKER","lat":42.380594,"lon":-85.577511,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KTKO"]={"id":"KTKO","name":"MANKATO","lat":39.802789,"lon":-98.221161,"elevation":1859,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52F"]={"id":"52F","name":"AERO VALLEY","lat":33.049844,"lon":-97.232239,"elevation":643,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

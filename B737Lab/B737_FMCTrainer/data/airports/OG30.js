@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OG30"]={"id":"OG30","name":"AEROACRES","lat":45.316511,"lon":-122.605369,"elevation":420,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

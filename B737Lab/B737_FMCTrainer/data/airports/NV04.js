@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NV04"]={"id":"NV04","name":"MARYS RIVER RANCH","lat":41.316306,"lon":-115.250058,"elevation":5600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

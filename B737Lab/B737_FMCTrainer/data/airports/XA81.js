@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA81"]={"id":"XA81","name":"HOMERUN","lat":33.643036,"lon":-95.876222,"elevation":609,"region":"K4","runways":[{"id":"RW02","lat":33.639125,"lon":-95.878233,"length":3097,"course":21.3},{"id":"RW20","lat":33.646944,"lon":-95.874211,"length":3097,"course":201.3}],"procedures":{"D":{},"E":{},"F":{}}};

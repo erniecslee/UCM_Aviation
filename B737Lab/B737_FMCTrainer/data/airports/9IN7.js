@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9IN7"]={"id":"9IN7","name":"ZUPANCIC FLD","lat":39.354722,"lon":-86.306944,"elevation":660,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

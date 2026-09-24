@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2VG8"]={"id":"2VG8","name":"FOLLY NECK","lat":37.872222,"lon":-76.731111,"elevation":12,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

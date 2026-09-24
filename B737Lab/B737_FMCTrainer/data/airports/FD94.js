@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD94"]={"id":"FD94","name":"HARTZOG FLD","lat":30.718889,"lon":-85.606667,"elevation":125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

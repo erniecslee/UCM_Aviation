@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PFMP"]={"id":"PFMP","name":"RAMPART","lat":65.5079,"lon":-150.140833,"elevation":307,"region":"PF","runways":[{"id":"RW11","lat":65.511503,"lon":-150.148511,"length":3520,"course":115.0},{"id":"RW29","lat":65.504294,"lon":-150.133156,"length":3520,"course":295.0}],"procedures":{"D":{},"E":{},"F":{}}};

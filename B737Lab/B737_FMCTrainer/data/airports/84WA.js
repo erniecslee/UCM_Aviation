@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84WA"]={"id":"84WA","name":"D AND B AIRPARK","lat":46.972875,"lon":-123.384322,"elevation":55,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

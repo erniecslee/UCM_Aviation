@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SD3"]={"id":"1SD3","name":"TURKEY RIDGE","lat":43.233319,"lon":-97.150333,"elevation":1325,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

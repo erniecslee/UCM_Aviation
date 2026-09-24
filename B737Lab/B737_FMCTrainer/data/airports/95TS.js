@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95TS"]={"id":"95TS","name":"ROB","lat":33.230833,"lon":-98.489722,"elevation":1310,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

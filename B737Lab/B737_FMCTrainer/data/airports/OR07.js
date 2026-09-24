@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR07"]={"id":"OR07","name":"WEDDLE FLD","lat":44.762375,"lon":-119.101917,"elevation":3823,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

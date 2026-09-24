@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE35"]={"id":"NE35","name":"SUTTON","lat":40.058339,"lon":-97.541153,"elevation":1583,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25SC"]={"id":"25SC","name":"MOUNTAIN RIDGE","lat":34.960639,"lon":-82.337389,"elevation":980,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

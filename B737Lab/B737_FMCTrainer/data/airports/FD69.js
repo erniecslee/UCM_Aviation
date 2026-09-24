@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD69"]={"id":"FD69","name":"LAKE APOPKA SOUTH","lat":28.573472,"lon":-81.594944,"elevation":65,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

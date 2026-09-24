@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4NC7"]={"id":"4NC7","name":"PEACOCK","lat":35.696264,"lon":-78.537503,"elevation":390,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

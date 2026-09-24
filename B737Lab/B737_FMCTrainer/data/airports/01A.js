@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01A"]={"id":"01A","name":"PURKEYPILE","lat":62.940756,"lon":-152.269611,"elevation":2041,"region":"PA","runways":[{"id":"RW05","lat":62.940214,"lon":-152.272933,"length":1176,"course":46.3},{"id":"RW23","lat":62.941297,"lon":-152.266286,"length":1176,"course":226.3}],"procedures":{"D":{},"E":{},"F":{}}};

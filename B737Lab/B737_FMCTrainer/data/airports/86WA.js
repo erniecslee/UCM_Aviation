@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["86WA"]={"id":"86WA","name":"KAPOWSIN FLD","lat":47.003992,"lon":-122.235669,"elevation":720,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7FL4"]={"id":"7FL4","name":"HALLER AIRPARK","lat":29.903019,"lon":-81.685922,"elevation":75,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

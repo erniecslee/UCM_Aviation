@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KNFJ"]={"id":"KNFJ","name":"CHOCTAW NOLF","lat":30.506944,"lon":-86.959722,"elevation":102,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

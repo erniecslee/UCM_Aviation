@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3TS5"]={"id":"3TS5","name":"HENSON FARMS","lat":34.361669,"lon":-101.083342,"elevation":2650,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

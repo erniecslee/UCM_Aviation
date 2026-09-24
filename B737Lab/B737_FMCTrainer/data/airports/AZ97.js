@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ97"]={"id":"AZ97","name":"X BAR 1 RANCH (LOWER)","lat":35.348331,"lon":-113.688831,"elevation":3710,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

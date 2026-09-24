@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NJ84"]={"id":"NJ84","name":"HIDDEN ACRES FARM","lat":39.433056,"lon":-75.396667,"elevation":60,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

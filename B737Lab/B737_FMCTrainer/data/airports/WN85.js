@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN85"]={"id":"WN85","name":"MORRISONVILLE INTL","lat":43.274714,"lon":-89.350394,"elevation":960,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

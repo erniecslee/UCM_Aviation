@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AZ5"]={"id":"3AZ5","name":"HUALAPAI","lat":35.572214,"lon":-113.292431,"elevation":5317,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

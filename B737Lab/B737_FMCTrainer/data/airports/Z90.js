@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z90"]={"id":"Z90","name":"STAMPEDE","lat":63.751206,"lon":-150.330264,"elevation":1852,"region":"PA","runways":[{"id":"RW15","lat":63.753861,"lon":-150.331072,"length":1960,"course":146.3},{"id":"RW33","lat":63.74855,"lon":-150.329456,"length":1960,"course":326.3}],"procedures":{"D":{},"E":{},"F":{}}};

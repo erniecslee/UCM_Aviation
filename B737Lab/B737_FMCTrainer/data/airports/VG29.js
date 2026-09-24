@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG29"]={"id":"VG29","name":"BRANHAM MILL AIRPARK","lat":37.970111,"lon":-76.708667,"elevation":100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

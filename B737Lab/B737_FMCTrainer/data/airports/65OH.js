@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65OH"]={"id":"65OH","name":"WIITA FARMS","lat":41.071722,"lon":-81.751242,"elevation":1220,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

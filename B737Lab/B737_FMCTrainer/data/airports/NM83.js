@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NM83"]={"id":"NM83","name":"INDUSTRIAL AIRPARK","lat":32.766781,"lon":-103.208822,"elevation":3707,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

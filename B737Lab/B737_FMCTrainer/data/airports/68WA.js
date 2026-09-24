@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68WA"]={"id":"68WA","name":"MC MAHON FLD","lat":46.393742,"lon":-120.221719,"elevation":850,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62K"]={"id":"62K","name":"SENECA MUNI","lat":39.847611,"lon":-96.116917,"elevation":1291,"region":"K3","runways":[{"id":"RW18","lat":39.850897,"lon":-96.116572,"length":2400,"course":179.0},{"id":"RW36","lat":39.844328,"lon":-96.117258,"length":2400,"course":359.0}],"procedures":{"D":{},"E":{},"F":{}}};

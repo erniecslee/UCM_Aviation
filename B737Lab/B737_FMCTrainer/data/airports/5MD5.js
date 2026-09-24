@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MD5"]={"id":"5MD5","name":"ARCADIA FARMS","lat":38.196111,"lon":-75.709444,"elevation":18,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

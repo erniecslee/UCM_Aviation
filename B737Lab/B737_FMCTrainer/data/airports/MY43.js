@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY43"]={"id":"MY43","name":"MOYER","lat":45.278242,"lon":-95.877389,"elevation":1047,"region":"K3","runways":[{"id":"RW18","lat":45.281125,"lon":-95.877397,"length":2102,"course":178.0},{"id":"RW36","lat":45.275358,"lon":-95.877381,"length":2102,"course":358.0}],"procedures":{"D":{},"E":{},"F":{}}};

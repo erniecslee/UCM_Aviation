@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z52"]={"id":"Z52","name":"JOHNSONS LANDING","lat":56.036686,"lon":-160.266206,"elevation":130,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

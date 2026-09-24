@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2AK7"]={"id":"2AK7","name":"HELIO","lat":61.538919,"lon":-149.972811,"elevation":163,"region":"PA","runways":[{"id":"RW07","lat":61.538847,"lon":-149.975672,"length":1000,"course":72.9},{"id":"RW25","lat":61.538992,"lon":-149.96995,"length":1000,"course":252.9}],"procedures":{"D":{},"E":{},"F":{}}};

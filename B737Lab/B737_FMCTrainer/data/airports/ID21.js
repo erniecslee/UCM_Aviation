@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID21"]={"id":"ID21","name":"SMITH RANCH","lat":47.756289,"lon":-117.023811,"elevation":2370,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

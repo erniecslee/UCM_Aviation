@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL59"]={"id":"IL59","name":"CHICAGO GLIDER CLUB","lat":41.431975,"lon":-88.247286,"elevation":590,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

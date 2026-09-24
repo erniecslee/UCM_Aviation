@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA92"]={"id":"PA92","name":"BLUE MOUNTAIN ACADEMY (PVT)","lat":40.552869,"lon":-76.028825,"elevation":531,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

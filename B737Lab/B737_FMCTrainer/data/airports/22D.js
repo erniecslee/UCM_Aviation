@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22D"]={"id":"22D","name":"BANDEL","lat":40.130594,"lon":-80.096139,"elevation":1210,"region":"K6","runways":[{"id":"RW01","lat":40.127492,"lon":-80.096003,"length":2260,"course":5.0},{"id":"RW19","lat":40.133697,"lon":-80.096275,"length":2260,"course":185.0}],"procedures":{"D":{},"E":{},"F":{}}};

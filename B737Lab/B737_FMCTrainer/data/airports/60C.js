@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["60C"]={"id":"60C","name":"ELROY","lat":43.706169,"lon":-90.257797,"elevation":944,"region":"K5","runways":[{"id":"RW06","lat":43.704214,"lon":-90.262992,"length":3096,"course":61.6},{"id":"RW24","lat":43.708128,"lon":-90.252603,"length":3096,"course":241.6}],"procedures":{"D":{},"E":{},"F":{}}};

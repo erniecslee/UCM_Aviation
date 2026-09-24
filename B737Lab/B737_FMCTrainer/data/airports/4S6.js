@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4S6"]={"id":"4S6","name":"TIETON STATE","lat":46.637553,"lon":-121.123978,"elevation":2964,"region":"K1","runways":[{"id":"RW20","lat":46.640083,"lon":-121.1206,"length":2509,"course":202.6}],"procedures":{"D":{},"E":{},"F":{}}};

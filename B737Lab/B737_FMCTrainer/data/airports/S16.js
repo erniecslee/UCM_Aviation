@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S16"]={"id":"S16","name":"COPALIS STATE","lat":47.144861,"lon":-124.189253,"elevation":1,"region":"K1","runways":[{"id":"RW14","lat":47.1495,"lon":-124.191467,"length":3560,"course":142.0},{"id":"RW32","lat":47.140219,"lon":-124.187036,"length":3560,"course":322.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3CO7"]={"id":"3CO7","name":"DIETRICHS","lat":39.332489,"lon":-104.566358,"elevation":6780,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

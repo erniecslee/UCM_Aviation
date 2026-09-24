@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0WN1"]={"id":"0WN1","name":"SHANGRI-LA","lat":46.75195,"lon":-120.601667,"elevation":1500,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

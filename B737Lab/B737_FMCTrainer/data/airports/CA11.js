@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA11"]={"id":"CA11","name":"BODAD","lat":39.997214,"lon":-120.216858,"elevation":5909,"region":"K2","runways":[{"id":"RW15","lat":39.998575,"lon":-120.217369,"length":1032,"course":150.9},{"id":"RW33","lat":39.995853,"lon":-120.216344,"length":1032,"course":330.9}],"procedures":{"D":{},"E":{},"F":{}}};

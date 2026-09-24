@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6G8"]={"id":"6G8","name":"BROOKLYN","lat":42.094214,"lon":-84.240919,"elevation":981,"region":"K5","runways":[{"id":"RW01","lat":42.090378,"lon":-84.241711,"length":2829,"course":14.0},{"id":"RW19","lat":42.096386,"lon":-84.240469,"length":2829,"course":194.0}],"procedures":{"D":{},"E":{},"F":{}}};

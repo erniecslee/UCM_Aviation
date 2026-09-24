@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["89OI"]={"id":"89OI","name":"CIRCLE C","lat":41.038947,"lon":-80.983981,"elevation":1042,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

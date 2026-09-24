@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT45"]={"id":"TT45","name":"NIGHTHAWKS NEST","lat":29.498333,"lon":-98.155,"elevation":592,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

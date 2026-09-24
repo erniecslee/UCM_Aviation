@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6TA0"]={"id":"6TA0","name":"ROCKING R RANCH","lat":30.799572,"lon":-100.334097,"elevation":2380,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

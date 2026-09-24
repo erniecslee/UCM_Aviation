@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5MU5"]={"id":"5MU5","name":"GJERDE INTL","lat":38.508981,"lon":-94.48435,"elevation":905,"region":"K3","runways":[{"id":"RW18","lat":38.511175,"lon":-94.484175,"length":1600,"course":182.6},{"id":"RW36","lat":38.506783,"lon":-94.484522,"length":1600,"course":2.6}],"procedures":{"D":{},"E":{},"F":{}}};

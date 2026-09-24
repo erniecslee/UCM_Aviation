@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["15FL"]={"id":"15FL","name":"CANNON CREEK AIRPARK","lat":30.153742,"lon":-82.666406,"elevation":125,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

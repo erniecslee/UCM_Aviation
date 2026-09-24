@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9A9"]={"id":"9A9","name":"SHIFLET FLD","lat":35.720681,"lon":-82.009831,"elevation":1212,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK05"]={"id":"OK05","name":"DOUBLE R RANCH","lat":36.782556,"lon":-95.413167,"elevation":801,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NA2"]={"id":"3NA2","name":"LORENTZEN","lat":47.302772,"lon":-101.067092,"elevation":1790,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

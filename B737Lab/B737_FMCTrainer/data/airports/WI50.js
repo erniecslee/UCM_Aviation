@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI50"]={"id":"WI50","name":"LOEBER MCDANIEL FLD","lat":43.398056,"lon":-89.640556,"elevation":889,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

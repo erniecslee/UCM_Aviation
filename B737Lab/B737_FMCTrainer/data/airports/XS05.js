@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS05"]={"id":"XS05","name":"FREEDOM","lat":33.072828,"lon":-97.398339,"elevation":840,"region":"K4","runways":[{"id":"RW15","lat":33.076069,"lon":-97.399669,"length":2500,"course":158.1},{"id":"RW33","lat":33.069575,"lon":-97.397011,"length":2500,"course":338.1}],"procedures":{"D":{},"E":{},"F":{}}};

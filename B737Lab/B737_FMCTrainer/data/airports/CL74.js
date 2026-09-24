@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CL74"]={"id":"CL74","name":"SKYOTEE RANCH","lat":34.831922,"lon":-118.400914,"elevation":2600,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

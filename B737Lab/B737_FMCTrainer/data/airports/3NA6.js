@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NA6"]={"id":"3NA6","name":"RISOVI RANCH STRIP","lat":47.770558,"lon":-99.461792,"elevation":1560,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["A23"]={"id":"A23","name":"SAGINAW","lat":56.886333,"lon":-134.158389,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

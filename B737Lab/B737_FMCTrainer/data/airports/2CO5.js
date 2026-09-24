@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CO5"]={"id":"2CO5","name":"GUNNISON RIVER FARMS","lat":38.784444,"lon":-107.903611,"elevation":5200,"region":"K2","runways":[{"id":"RW05","lat":38.784444,"lon":-107.903611,"length":2800,"course":69.6}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA48"]={"id":"VA48","name":"LOCKERMAN","lat":37.0382,"lon":-79.596142,"elevation":795,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

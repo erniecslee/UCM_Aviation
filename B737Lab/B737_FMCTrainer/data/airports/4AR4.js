@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4AR4"]={"id":"4AR4","name":"RICE FLD","lat":36.457011,"lon":-90.572067,"elevation":300,"region":"K4","runways":[{"id":"RW18","lat":36.460514,"lon":-90.571956,"length":2551,"course":183.0},{"id":"RW36","lat":36.453508,"lon":-90.572175,"length":2551,"course":3.0}],"procedures":{"D":{},"E":{},"F":{}}};

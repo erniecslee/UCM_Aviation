@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["E67"]={"id":"E67","name":"KEARNY","lat":33.047194,"lon":-110.909056,"elevation":1833,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

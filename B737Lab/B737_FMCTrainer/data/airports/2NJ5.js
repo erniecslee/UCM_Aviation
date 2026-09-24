@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2NJ5"]={"id":"2NJ5","name":"SANDUFF FARMS LANDING FLD","lat":40.652044,"lon":-75.186008,"elevation":350,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

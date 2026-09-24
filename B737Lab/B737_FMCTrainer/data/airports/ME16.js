@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME16"]={"id":"ME16","name":"LORING INTL","lat":46.950428,"lon":-67.885861,"elevation":746,"region":"K6","runways":[{"id":"RW01","lat":46.934322,"lon":-67.879781,"length":12101,"course":7.8},{"id":"RW19","lat":46.966617,"lon":-67.890872,"length":12101,"course":187.8}],"procedures":{"D":{},"E":{},"F":{}}};

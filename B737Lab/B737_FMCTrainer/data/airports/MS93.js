@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MS93"]={"id":"MS93","name":"HOOPER SKYLARK FLD","lat":30.726578,"lon":-89.731736,"elevation":150,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

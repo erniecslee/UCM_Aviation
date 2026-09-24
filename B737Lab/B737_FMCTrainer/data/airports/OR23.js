@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR23"]={"id":"OR23","name":"KARPENS","lat":46.161389,"lon":-123.640278,"elevation":125,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

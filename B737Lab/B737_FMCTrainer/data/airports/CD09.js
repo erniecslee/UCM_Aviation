@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD09"]={"id":"CD09","name":"YODER AIRSTRIP","lat":39.819706,"lon":-104.409125,"elevation":5345,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

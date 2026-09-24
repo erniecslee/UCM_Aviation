@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11MO"]={"id":"11MO","name":"REDGATE RANCH","lat":38.901708,"lon":-91.635167,"elevation":820,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["47GA"]={"id":"47GA","name":"EVERIDGE","lat":32.219722,"lon":-83.855278,"elevation":450,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

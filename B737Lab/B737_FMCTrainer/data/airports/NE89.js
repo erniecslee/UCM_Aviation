@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE89"]={"id":"NE89","name":"BAR LAZY B","lat":42.759856,"lon":-98.602019,"elevation":1689,"region":"K3","runways":[{"id":"RW14","lat":42.761658,"lon":-98.603361,"length":1500,"course":147.4},{"id":"RW32","lat":42.75805,"lon":-98.600678,"length":1500,"course":327.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID61"]={"id":"ID61","name":"VALENOV RANCH","lat":48.296575,"lon":-117.015203,"elevation":2425,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN06"]={"id":"MN06","name":"PULKRABEK LANDING FLD","lat":48.049975,"lon":-96.783678,"elevation":850,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

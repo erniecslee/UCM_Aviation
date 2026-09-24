@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["82VA"]={"id":"82VA","name":"ROOT FLD","lat":38.173189,"lon":-78.969194,"elevation":1290,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

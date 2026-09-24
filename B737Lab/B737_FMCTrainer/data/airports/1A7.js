@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1A7"]={"id":"1A7","name":"JACKSON COUNTY","lat":36.396817,"lon":-85.641325,"elevation":517,"region":"K7","runways":[{"id":"RW18","lat":36.401617,"lon":-85.641119,"length":3497,"course":184.0},{"id":"RW36","lat":36.392017,"lon":-85.641531,"length":3497,"course":4.0}],"procedures":{"D":{},"E":{},"F":{}}};

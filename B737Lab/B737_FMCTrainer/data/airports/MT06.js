@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT06"]={"id":"MT06","name":"DUNCAN","lat":46.570211,"lon":-112.175006,"elevation":4260,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

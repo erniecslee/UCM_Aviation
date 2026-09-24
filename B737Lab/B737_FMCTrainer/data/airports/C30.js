@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C30"]={"id":"C30","name":"MEJIT","lat":10.283333,"lon":170.883333,"elevation":5,"region":"PK","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI27"]={"id":"MI27","name":"HAIGH","lat":42.612533,"lon":-83.854114,"elevation":1000,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

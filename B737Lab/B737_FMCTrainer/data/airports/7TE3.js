@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7TE3"]={"id":"7TE3","name":"LOMETA AIR STRIP","lat":31.2335,"lon":-98.466983,"elevation":1400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

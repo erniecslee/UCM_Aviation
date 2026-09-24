@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN18"]={"id":"WN18","name":"BECKER'S LANDING","lat":48.456772,"lon":-122.539333,"elevation":155,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

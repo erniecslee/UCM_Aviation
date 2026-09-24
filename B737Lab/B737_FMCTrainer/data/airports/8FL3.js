@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FL3"]={"id":"8FL3","name":"BACK ACHERS","lat":29.073036,"lon":-81.999531,"elevation":90,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

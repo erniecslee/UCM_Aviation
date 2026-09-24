@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4OK0"]={"id":"4OK0","name":"1904 PRIVATE RUNWAY","lat":36.161544,"lon":-97.86195,"elevation":1151,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

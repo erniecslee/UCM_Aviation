@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C43"]={"id":"C43","name":"HIRAM CURE","lat":42.770033,"lon":-84.964958,"elevation":853,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN53"]={"id":"PN53","name":"STROHMIER","lat":40.551458,"lon":-78.623353,"elevation":1962,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

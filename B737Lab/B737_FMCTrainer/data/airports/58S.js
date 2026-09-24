@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58S"]={"id":"58S","name":"WHITEFISH","lat":48.408019,"lon":-114.299575,"elevation":3066,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

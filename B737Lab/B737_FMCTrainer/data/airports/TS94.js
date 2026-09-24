@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TS94"]={"id":"TS94","name":"RANCHO BUENA VISTA","lat":26.251186,"lon":-97.300811,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

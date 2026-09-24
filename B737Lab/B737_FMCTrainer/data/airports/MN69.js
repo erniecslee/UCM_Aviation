@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN69"]={"id":"MN69","name":"MAPLE","lat":45.002742,"lon":-93.671906,"elevation":1026,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

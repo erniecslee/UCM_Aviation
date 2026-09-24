@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAE"]={"id":"PAAE","name":"OUZINKIE","lat":57.942156,"lon":-152.464994,"elevation":100,"region":"PA","runways":[{"id":"RW08","lat":57.942989,"lon":-152.473339,"length":3300,"course":79.0},{"id":"RW26","lat":57.941322,"lon":-152.456647,"length":3300,"course":259.0}],"procedures":{"D":{},"E":{},"F":{}}};

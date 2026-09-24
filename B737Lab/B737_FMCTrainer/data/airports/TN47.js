@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN47"]={"id":"TN47","name":"DANDRIDGE","lat":36.019608,"lon":-83.391572,"elevation":962,"region":"K7","runways":[{"id":"RW04","lat":36.016128,"lon":-83.39425,"length":2989,"course":38.5},{"id":"RW22","lat":36.023089,"lon":-83.388897,"length":2989,"course":218.5}],"procedures":{"D":{},"E":{},"F":{}}};

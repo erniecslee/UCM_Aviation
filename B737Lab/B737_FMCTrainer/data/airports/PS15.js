@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PS15"]={"id":"PS15","name":"VICARS PRIVATE","lat":40.547569,"lon":-78.391681,"elevation":1370,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

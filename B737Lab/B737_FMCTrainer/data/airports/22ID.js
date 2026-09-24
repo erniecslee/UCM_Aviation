@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["22ID"]={"id":"22ID","name":"TREASURE GULCH","lat":43.944667,"lon":-115.941167,"elevation":4350,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ND96"]={"id":"ND96","name":"SAUTER","lat":46.800711,"lon":-100.678644,"elevation":1730,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

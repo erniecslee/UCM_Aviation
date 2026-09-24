@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA80"]={"id":"WA80","name":"MC CLELLAN FLD","lat":45.894281,"lon":-122.548156,"elevation":840,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

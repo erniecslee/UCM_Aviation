@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3OK7"]={"id":"3OK7","name":"DOUBLE W","lat":36.241753,"lon":-96.134172,"elevation":790,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

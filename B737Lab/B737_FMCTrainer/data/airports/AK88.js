@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AK88"]={"id":"AK88","name":"EAGLE NEST","lat":61.604697,"lon":-149.040189,"elevation":416,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

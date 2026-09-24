@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NE34"]={"id":"NE34","name":"FEHRINGER AERODROME","lat":41.038875,"lon":-102.952697,"elevation":4300,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

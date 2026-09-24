@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WT04"]={"id":"WT04","name":"SILVERBIRD","lat":47.517222,"lon":-117.534167,"elevation":2418,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

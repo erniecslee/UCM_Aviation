@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI47"]={"id":"MI47","name":"COLDBROOK FLD","lat":42.220131,"lon":-85.367042,"elevation":945,"region":"K5","runways":[{"id":"RW03","lat":42.217008,"lon":-85.369364,"length":2600,"course":34.9},{"id":"RW21","lat":42.22325,"lon":-85.364717,"length":2600,"course":214.9}],"procedures":{"D":{},"E":{},"F":{}}};

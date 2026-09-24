@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XA2"]={"id":"2XA2","name":"KNAPE","lat":29.220422,"lon":-95.310881,"elevation":20,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72KY"]={"id":"72KY","name":"CARR","lat":36.765083,"lon":-84.199381,"elevation":1105,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

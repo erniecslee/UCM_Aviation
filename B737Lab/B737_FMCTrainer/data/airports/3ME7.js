@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3ME7"]={"id":"3ME7","name":"DESTINY COVE","lat":44.460597,"lon":-70.396958,"elevation":580,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

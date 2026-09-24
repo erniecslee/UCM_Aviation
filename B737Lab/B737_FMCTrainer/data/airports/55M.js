@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55M"]={"id":"55M","name":"JB WEST MUNICIPAL AIRPORT","lat":33.926417,"lon":-91.861111,"elevation":398,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

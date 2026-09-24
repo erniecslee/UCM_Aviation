@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["68CA"]={"id":"68CA","name":"LAKE CALIFORNIA AIR PARK","lat":40.361111,"lon":-122.215833,"elevation":615,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WWT"]={"id":"WWT","name":"NEWTOK","lat":60.923656,"lon":-164.656214,"elevation":6,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

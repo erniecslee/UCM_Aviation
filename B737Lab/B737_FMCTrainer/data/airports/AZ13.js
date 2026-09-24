@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AZ13"]={"id":"AZ13","name":"SCHU RANCH","lat":33.016992,"lon":-112.281261,"elevation":1410,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2WS3"]={"id":"2WS3","name":"C R ACRES","lat":44.280428,"lon":-88.093578,"elevation":800,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

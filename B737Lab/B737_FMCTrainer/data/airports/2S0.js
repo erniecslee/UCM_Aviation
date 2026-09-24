@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2S0"]={"id":"2S0","name":"TWISP MUNI","lat":48.350586,"lon":-120.09395,"elevation":1602,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

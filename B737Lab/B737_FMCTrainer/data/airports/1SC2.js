@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1SC2"]={"id":"1SC2","name":"GWINN FLD","lat":33.933786,"lon":-80.796111,"elevation":390,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

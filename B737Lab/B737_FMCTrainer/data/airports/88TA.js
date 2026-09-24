@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88TA"]={"id":"88TA","name":"FIGURE 2 RANCH","lat":31.455958,"lon":-104.844386,"elevation":3700,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

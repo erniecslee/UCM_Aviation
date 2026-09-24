@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["40TA"]={"id":"40TA","name":"MILES FLD","lat":31.312956,"lon":-96.220522,"elevation":460,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

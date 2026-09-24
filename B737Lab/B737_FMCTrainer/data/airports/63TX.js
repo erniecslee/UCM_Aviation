@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63TX"]={"id":"63TX","name":"DOW RANCH","lat":32.010311,"lon":-96.177128,"elevation":330,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

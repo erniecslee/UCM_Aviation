@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA57"]={"id":"TA57","name":"TEXAS VALLEY AIR FLD","lat":31.623778,"lon":-96.992497,"elevation":450,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

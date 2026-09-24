@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7S4"]={"id":"7S4","name":"WISDOM","lat":45.591589,"lon":-113.459225,"elevation":6133,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

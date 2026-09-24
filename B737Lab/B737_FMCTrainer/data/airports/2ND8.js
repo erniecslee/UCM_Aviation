@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2ND8"]={"id":"2ND8","name":"FIEBIGER","lat":46.671372,"lon":-98.658069,"elevation":1491,"region":"K3","runways":[{"id":"RW09","lat":46.671372,"lon":-98.664844,"length":3403,"course":86.1},{"id":"RW27","lat":46.671372,"lon":-98.651292,"length":3403,"course":266.1}],"procedures":{"D":{},"E":{},"F":{}}};

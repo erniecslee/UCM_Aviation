@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY51"]={"id":"NY51","name":"RUSSELL","lat":42.870075,"lon":-74.499306,"elevation":700,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

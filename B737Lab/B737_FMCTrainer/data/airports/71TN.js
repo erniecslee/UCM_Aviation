@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["71TN"]={"id":"71TN","name":"KRASCHENBERN","lat":36.383333,"lon":-80.736667,"elevation":1300,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

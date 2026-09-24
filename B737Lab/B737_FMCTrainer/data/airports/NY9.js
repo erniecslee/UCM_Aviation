@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY9"]={"id":"NY9","name":"LONG LAKE /HELMS","lat":43.975061,"lon":-74.420439,"elevation":1629,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

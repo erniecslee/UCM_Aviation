@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TS1"]={"id":"1TS1","name":"LAAS FARM","lat":29.912725,"lon":-95.994122,"elevation":165,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

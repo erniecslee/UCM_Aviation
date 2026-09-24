@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7Y4"]={"id":"7Y4","name":"BAGLEY MUNI","lat":47.524031,"lon":-95.363714,"elevation":1503,"region":"K3","runways":[{"id":"RW14","lat":47.528347,"lon":-95.368025,"length":3800,"course":141.0},{"id":"RW32","lat":47.519717,"lon":-95.3594,"length":3800,"course":321.0}],"procedures":{"D":{},"E":{},"F":{}}};

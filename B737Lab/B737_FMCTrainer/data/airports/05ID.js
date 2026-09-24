@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05ID"]={"id":"05ID","name":"RUNNING CREEK RANCH","lat":45.914083,"lon":-114.835661,"elevation":2969,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

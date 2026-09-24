@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08GA"]={"id":"08GA","name":"SAPELO ISLAND","lat":31.425781,"lon":-81.285928,"elevation":12,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

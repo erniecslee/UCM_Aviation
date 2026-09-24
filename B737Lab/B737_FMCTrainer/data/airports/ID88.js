@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ID88"]={"id":"ID88","name":"TRACY RANCH","lat":43.287397,"lon":-115.080069,"elevation":5071,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

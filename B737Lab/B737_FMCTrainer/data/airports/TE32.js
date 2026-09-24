@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE32"]={"id":"TE32","name":"RANCHO BLANCO","lat":27.308633,"lon":-99.481431,"elevation":385,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

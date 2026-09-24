@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LL34"]={"id":"LL34","name":"THORP","lat":40.219167,"lon":-88.922778,"elevation":750,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

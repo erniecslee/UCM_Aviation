@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO59"]={"id":"CO59","name":"HAY FEVER FARM","lat":40.545833,"lon":-104.564444,"elevation":4840,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

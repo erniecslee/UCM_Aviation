@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["6AK3"]={"id":"6AK3","name":"BUTLER AVIATION","lat":60.729442,"lon":-151.278069,"elevation":185,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F09"]={"id":"F09","name":"OLUSTEE MUNI","lat":34.512575,"lon":-99.429533,"elevation":1346,"region":"K4","runways":[{"id":"RW17","lat":34.519961,"lon":-99.433839,"length":2000,"course":172.0},{"id":"RW35","lat":34.514467,"lon":-99.433839,"length":2000,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

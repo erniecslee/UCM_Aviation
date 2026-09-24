@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0XA7"]={"id":"0XA7","name":"BAR 3 RANCH","lat":30.662403,"lon":-97.622478,"elevation":744,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4F1"]={"id":"4F1","name":"WESTPORT","lat":36.221417,"lon":-96.3465,"elevation":901,"region":"K4","runways":[{"id":"RW03","lat":36.218047,"lon":-96.349131,"length":2900,"course":26.0},{"id":"RW21","lat":36.224781,"lon":-96.343875,"length":2900,"course":206.0}],"procedures":{"D":{},"E":{},"F":{}}};

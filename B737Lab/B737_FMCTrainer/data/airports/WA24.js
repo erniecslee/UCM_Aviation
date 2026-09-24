@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WA24"]={"id":"WA24","name":"PFISTER'S","lat":46.396944,"lon":-119.020833,"elevation":625,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

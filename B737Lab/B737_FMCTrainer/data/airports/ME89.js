@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME89"]={"id":"ME89","name":"BUZZY'S FLD","lat":43.608411,"lon":-70.968119,"elevation":650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

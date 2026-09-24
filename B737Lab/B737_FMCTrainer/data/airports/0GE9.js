@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GE9"]={"id":"0GE9","name":"PEGASUS RANCH","lat":32.693889,"lon":-81.798611,"elevation":230,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

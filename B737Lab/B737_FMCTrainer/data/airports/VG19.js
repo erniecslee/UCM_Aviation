@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG19"]={"id":"VG19","name":"SAWYER","lat":37.990678,"lon":-75.591872,"elevation":13,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

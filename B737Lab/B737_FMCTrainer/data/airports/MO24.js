@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MO24"]={"id":"MO24","name":"LONESOME SKY","lat":40.142775,"lon":-95.388311,"elevation":868,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

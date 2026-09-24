@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["32TX"]={"id":"32TX","name":"ROCKPILE RANCH","lat":30.792006,"lon":-104.250856,"elevation":5386,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

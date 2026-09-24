@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["81KS"]={"id":"81KS","name":"BLACKHAWK","lat":39.156017,"lon":-95.577608,"elevation":1015,"region":"K3","runways":[{"id":"RW02","lat":39.153878,"lon":-95.578894,"length":1720,"course":23.3},{"id":"RW20","lat":39.158153,"lon":-95.576319,"length":1720,"course":203.3}],"procedures":{"D":{},"E":{},"F":{}}};

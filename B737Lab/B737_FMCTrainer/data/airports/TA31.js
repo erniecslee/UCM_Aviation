@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TA31"]={"id":"TA31","name":"TULAROSA","lat":29.430511,"lon":-100.257575,"elevation":1397,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

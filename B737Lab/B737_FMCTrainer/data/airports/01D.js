@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01D"]={"id":"01D","name":"LAKE WAWASEE","lat":41.403611,"lon":-85.706111,"elevation":859,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

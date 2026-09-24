@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["X43"]={"id":"X43","name":"SUNRAY","lat":36.029203,"lon":-101.828783,"elevation":3507,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

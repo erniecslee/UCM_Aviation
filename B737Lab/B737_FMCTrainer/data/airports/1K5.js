@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1K5"]={"id":"1K5","name":"WAYNOKA MUNI","lat":36.5713,"lon":-98.854664,"elevation":1544,"region":"K4","runways":[{"id":"RW17","lat":36.57615,"lon":-98.854675,"length":3532,"course":172.0},{"id":"RW35","lat":36.56645,"lon":-98.854656,"length":3532,"course":352.0}],"procedures":{"D":{},"E":{},"F":{}}};

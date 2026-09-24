@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CA49"]={"id":"CA49","name":"JONES FARMS","lat":36.204117,"lon":-119.840967,"elevation":199,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

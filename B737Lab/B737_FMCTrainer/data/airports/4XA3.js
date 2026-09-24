@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4XA3"]={"id":"4XA3","name":"OWEN FLD","lat":32.253611,"lon":-99.498611,"elevation":1971,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

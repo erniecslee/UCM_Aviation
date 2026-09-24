@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OK82"]={"id":"OK82","name":"SCOTTYS FLD","lat":34.691733,"lon":-99.344808,"elevation":1425,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["74TX"]={"id":"74TX","name":"FORT CLARK SPRINGS","lat":29.286625,"lon":-100.433689,"elevation":1106,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

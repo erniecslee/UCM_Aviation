@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY67"]={"id":"NY67","name":"CARTER FLIGHT PARK","lat":42.993067,"lon":-75.911667,"elevation":1301,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

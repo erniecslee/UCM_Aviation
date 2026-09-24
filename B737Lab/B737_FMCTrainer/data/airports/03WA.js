@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03WA"]={"id":"03WA","name":"SPANGLE FLD","lat":47.408228,"lon":-117.371864,"elevation":2440,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

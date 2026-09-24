@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9ND8"]={"id":"9ND8","name":"HINKLE","lat":48.78555,"lon":-97.672311,"elevation":908,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

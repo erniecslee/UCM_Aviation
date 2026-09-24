@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["43CN"]={"id":"43CN","name":"CORCORAN","lat":36.102681,"lon":-119.594789,"elevation":185,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

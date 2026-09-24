@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9NC3"]={"id":"9NC3","name":"EDWARDS","lat":35.070833,"lon":-80.566389,"elevation":640,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

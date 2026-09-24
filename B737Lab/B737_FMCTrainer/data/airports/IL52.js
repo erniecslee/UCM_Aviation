@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IL52"]={"id":"IL52","name":"WILLIAMS","lat":40.439211,"lon":-91.144033,"elevation":679,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1TX9"]={"id":"1TX9","name":"HAWK RANCH","lat":32.637639,"lon":-95.161333,"elevation":335,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

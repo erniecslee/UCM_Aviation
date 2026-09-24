@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["76TA"]={"id":"76TA","name":"POSTOAK","lat":31.301419,"lon":-98.224372,"elevation":1120,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05NC"]={"id":"05NC","name":"DEAD COW FLD","lat":34.759444,"lon":-76.644722,"elevation":11,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98OK"]={"id":"98OK","name":"CANDY LAKE ESTATE","lat":36.489167,"lon":-96.052778,"elevation":685,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

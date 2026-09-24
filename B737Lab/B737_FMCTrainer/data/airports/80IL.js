@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80IL"]={"id":"80IL","name":"LOEPPERT CPL AERO","lat":42.451581,"lon":-89.225083,"elevation":820,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

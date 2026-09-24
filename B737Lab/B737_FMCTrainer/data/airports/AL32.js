@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL32"]={"id":"AL32","name":"FLYING BK RANCH","lat":34.322589,"lon":-85.643714,"elevation":670,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

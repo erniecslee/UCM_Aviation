@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["88OK"]={"id":"88OK","name":"BOICE FLD","lat":34.622533,"lon":-97.980692,"elevation":1225,"region":"K4","runways":[{"id":"RW18","lat":34.625142,"lon":-97.980564,"length":2000,"course":179.1},{"id":"RW36","lat":34.619786,"lon":-97.980831,"length":2000,"course":359.1}],"procedures":{"D":{},"E":{},"F":{}}};

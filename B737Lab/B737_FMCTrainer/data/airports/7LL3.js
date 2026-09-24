@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7LL3"]={"id":"7LL3","name":"JASPER COUNTY FLYING CLUB","lat":38.931711,"lon":-88.156983,"elevation":575,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

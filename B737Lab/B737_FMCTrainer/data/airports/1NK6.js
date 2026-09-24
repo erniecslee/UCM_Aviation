@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NK6"]={"id":"1NK6","name":"CATALANO AIRFIELD","lat":44.423658,"lon":-73.749586,"elevation":840,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

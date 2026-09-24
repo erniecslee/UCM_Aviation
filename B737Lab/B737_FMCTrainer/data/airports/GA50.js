@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA50"]={"id":"GA50","name":"DREAM TEAM","lat":33.5975,"lon":-83.517778,"elevation":604,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L05"]={"id":"L05","name":"KERN VALLEY","lat":35.728222,"lon":-118.419722,"elevation":2614,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

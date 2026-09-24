@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY60"]={"id":"NY60","name":"VASILE FLD","lat":44.762542,"lon":-73.559306,"elevation":580,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

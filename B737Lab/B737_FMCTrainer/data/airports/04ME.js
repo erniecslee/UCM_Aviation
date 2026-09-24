@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04ME"]={"id":"04ME","name":"BEECH HILL","lat":44.666728,"lon":-69.893944,"elevation":625,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

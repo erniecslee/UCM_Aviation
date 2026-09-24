@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI16"]={"id":"WI16","name":"JIM BENSON FLD","lat":42.853053,"lon":-90.129722,"elevation":1100,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

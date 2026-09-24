@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55GE"]={"id":"55GE","name":"ROSTEX","lat":34.980633,"lon":-84.741606,"elevation":887,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

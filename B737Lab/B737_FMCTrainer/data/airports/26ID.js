@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["26ID"]={"id":"26ID","name":"MOOSE LODGE","lat":48.363889,"lon":-116.403611,"elevation":2081,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

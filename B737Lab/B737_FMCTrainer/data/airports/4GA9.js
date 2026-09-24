@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4GA9"]={"id":"4GA9","name":"LARRY WATSON MEML","lat":34.242319,"lon":-84.057133,"elevation":1230,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

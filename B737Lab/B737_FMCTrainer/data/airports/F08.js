@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["F08"]={"id":"F08","name":"EUFAULA MUNI","lat":35.298306,"lon":-95.627372,"elevation":635,"region":"K4","runways":[{"id":"RW17","lat":35.302425,"lon":-95.627381,"length":3000,"course":173.9},{"id":"RW35","lat":35.294183,"lon":-95.627361,"length":3000,"course":353.9}],"procedures":{"D":{},"E":{},"F":{}}};

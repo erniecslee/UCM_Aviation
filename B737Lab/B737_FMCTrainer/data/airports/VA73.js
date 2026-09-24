@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA73"]={"id":"VA73","name":"MAZZA","lat":37.244594,"lon":-77.494153,"elevation":190,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

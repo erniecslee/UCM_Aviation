@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62VA"]={"id":"62VA","name":"GRASSO SALVAGE","lat":36.669872,"lon":-76.728567,"elevation":70,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

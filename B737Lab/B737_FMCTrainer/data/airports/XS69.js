@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS69"]={"id":"XS69","name":"HACKBERRY RANCH","lat":29.911328,"lon":-100.00035,"elevation":1829,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

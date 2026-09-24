@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9AA9"]={"id":"9AA9","name":"AIRKAT AIRPARK","lat":59.403056,"lon":-136.019444,"elevation":260,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

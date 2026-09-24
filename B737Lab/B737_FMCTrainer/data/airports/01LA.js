@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["01LA"]={"id":"01LA","name":"BARHAM","lat":32.639028,"lon":-91.773736,"elevation":90,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT45"]={"id":"MT45","name":"CASTLEBERRY","lat":45.908886,"lon":-104.576064,"elevation":3373,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

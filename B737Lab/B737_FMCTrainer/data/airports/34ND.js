@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["34ND"]={"id":"34ND","name":"PLATH FARMS","lat":46.705803,"lon":-97.156478,"elevation":928,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4IL3"]={"id":"4IL3","name":"THRIFTY ACRES","lat":42.142803,"lon":-89.228439,"elevation":725,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

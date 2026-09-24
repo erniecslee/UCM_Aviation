@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5FL6"]={"id":"5FL6","name":"GARY STARK","lat":27.405008,"lon":-80.811469,"elevation":62,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

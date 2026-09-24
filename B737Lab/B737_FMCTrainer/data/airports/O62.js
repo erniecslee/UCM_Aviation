@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["O62"]={"id":"O62","name":"B & H USFS","lat":45.724117,"lon":-117.077375,"elevation":4007,"region":"K1","runways":[{"id":"RW04","lat":45.722289,"lon":-117.079889,"length":1850,"course":30.6},{"id":"RW22","lat":45.725944,"lon":-117.074861,"length":1850,"course":210.6}],"procedures":{"D":{},"E":{},"F":{}}};

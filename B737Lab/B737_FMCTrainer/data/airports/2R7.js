@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2R7"]={"id":"2R7","name":"FRANKLINTON","lat":30.819444,"lon":-90.112528,"elevation":175,"region":"K4","runways":[{"id":"RW13","lat":30.82215,"lon":-90.116122,"length":3000,"course":128.0},{"id":"RW31","lat":30.816742,"lon":-90.108906,"length":3000,"course":308.0}],"procedures":{"D":{},"E":{},"F":{}}};

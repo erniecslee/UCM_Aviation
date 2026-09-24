@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["72MI"]={"id":"72MI","name":"NORTHWOODS","lat":46.286222,"lon":-89.278083,"elevation":1642,"region":"K5","runways":[{"id":"RW09","lat":46.286692,"lon":-89.28795,"length":5000,"course":96.0},{"id":"RW27","lat":46.285725,"lon":-89.268217,"length":5000,"course":276.0}],"procedures":{"D":{},"E":{},"F":{}}};

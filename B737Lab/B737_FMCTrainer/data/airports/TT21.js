@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TT21"]={"id":"TT21","name":"GRANT RANCH","lat":33.289083,"lon":-97.671042,"elevation":843,"region":"K4","runways":[{"id":"RW16","lat":33.290931,"lon":-97.671683,"length":1400,"course":160.6},{"id":"RW34","lat":33.287236,"lon":-97.6704,"length":1400,"course":340.6}],"procedures":{"D":{},"E":{},"F":{}}};

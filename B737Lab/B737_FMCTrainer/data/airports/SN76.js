@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN76"]={"id":"SN76","name":"SUNFLOWER AERODROME","lat":37.926278,"lon":-97.906694,"elevation":1582,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

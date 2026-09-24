@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9GA3"]={"id":"9GA3","name":"YOUNG FLD","lat":31.839608,"lon":-84.481583,"elevation":401,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

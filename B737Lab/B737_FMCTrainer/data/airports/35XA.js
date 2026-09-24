@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35XA"]={"id":"35XA","name":"RCADE RANCH","lat":30.834058,"lon":-94.941683,"elevation":267,"region":"K4","runways":[{"id":"RW12","lat":30.835031,"lon":-94.943719,"length":1461,"course":117.5},{"id":"RW30","lat":30.833086,"lon":-94.939647,"length":1461,"course":297.5}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC02"]={"id":"NC02","name":"BOOMERANG","lat":35.212619,"lon":-81.866492,"elevation":850,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

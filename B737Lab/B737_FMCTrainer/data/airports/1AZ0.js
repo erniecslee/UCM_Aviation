@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1AZ0"]={"id":"1AZ0","name":"BISHOP AIRFIELD","lat":33.111944,"lon":-112.269167,"elevation":1261,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

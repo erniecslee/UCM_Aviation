@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["77II"]={"id":"77II","name":"BOYER FLIGHT PARK","lat":40.720039,"lon":-86.616117,"elevation":710,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

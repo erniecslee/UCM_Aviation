@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8KS1"]={"id":"8KS1","name":"NEU FLD","lat":39.169197,"lon":-94.978619,"elevation":920,"region":"K3","runways":[{"id":"RW17","lat":39.171944,"lon":-94.978578,"length":2000,"course":175.7},{"id":"RW35","lat":39.16645,"lon":-94.978658,"length":2000,"course":355.7}],"procedures":{"D":{},"E":{},"F":{}}};

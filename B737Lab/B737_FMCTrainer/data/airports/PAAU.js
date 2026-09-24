@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAAU"]={"id":"PAAU","name":"NUNAM IQUA","lat":62.520417,"lon":-164.847647,"elevation":18,"region":"PA","runways":[{"id":"RW02","lat":62.516731,"lon":-164.851653,"length":3016,"course":19.0},{"id":"RW20","lat":62.524103,"lon":-164.843639,"length":3016,"course":199.0}],"procedures":{"D":{},"E":{},"F":{}}};

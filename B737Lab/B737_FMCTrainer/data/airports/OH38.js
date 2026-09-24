@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH38"]={"id":"OH38","name":"BLUE BIRD","lat":39.314519,"lon":-81.616517,"elevation":780,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

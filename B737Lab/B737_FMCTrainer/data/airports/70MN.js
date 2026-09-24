@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70MN"]={"id":"70MN","name":"LUCKYS","lat":46.9915,"lon":-95.048461,"elevation":1490,"region":"K3","runways":[{"id":"RW16W","lat":46.998261,"lon":-95.052353,"length":5300,"course":157.3},{"id":"RW34W","lat":46.984739,"lon":-95.044569,"length":5300,"course":337.3}],"procedures":{"D":{},"E":{},"F":{}}};

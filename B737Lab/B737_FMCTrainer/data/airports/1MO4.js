@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1MO4"]={"id":"1MO4","name":"LANDMARK MFG CORPORATION","lat":39.891675,"lon":-93.864108,"elevation":800,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

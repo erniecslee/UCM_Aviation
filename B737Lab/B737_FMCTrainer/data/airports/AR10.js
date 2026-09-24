@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AR10"]={"id":"AR10","name":"GREENWALT COMPANY","lat":34.806667,"lon":-91.608333,"elevation":232,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

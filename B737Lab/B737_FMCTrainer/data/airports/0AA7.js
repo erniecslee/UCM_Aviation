@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0AA7"]={"id":"0AA7","name":"KALIFONSKY MEADOWS","lat":60.491539,"lon":-151.235253,"elevation":65,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

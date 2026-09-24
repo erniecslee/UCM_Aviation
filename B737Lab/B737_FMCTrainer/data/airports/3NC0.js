@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NC0"]={"id":"3NC0","name":"CLYDE VALLEY","lat":35.690406,"lon":-81.712319,"elevation":1100,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

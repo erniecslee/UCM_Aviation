@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["ME86"]={"id":"ME86","name":"LIBBY CAMPS","lat":46.308333,"lon":-68.843611,"elevation":754,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

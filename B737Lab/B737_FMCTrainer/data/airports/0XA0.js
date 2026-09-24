@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0XA0"]={"id":"0XA0","name":"RNW","lat":33.014006,"lon":-97.708481,"elevation":930,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

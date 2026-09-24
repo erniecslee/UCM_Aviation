@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35AR"]={"id":"35AR","name":"SWEET SPRINGS","lat":35.311806,"lon":-91.875636,"elevation":418,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2XS5"]={"id":"2XS5","name":"CROSS TRIANGLE RANCH","lat":30.010489,"lon":-98.425297,"elevation":1420,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

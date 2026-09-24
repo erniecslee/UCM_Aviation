@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["65MS"]={"id":"65MS","name":"MAVERICK HILL","lat":34.564694,"lon":-89.884056,"elevation":340,"region":"K7","runways":[{"id":"RW18","lat":34.567028,"lon":-89.884056,"length":1700,"course":182.0},{"id":"RW36","lat":34.562361,"lon":-89.884056,"length":1700,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

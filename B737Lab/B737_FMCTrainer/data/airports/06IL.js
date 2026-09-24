@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06IL"]={"id":"06IL","name":"HUMM","lat":41.599528,"lon":-88.869944,"elevation":708,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

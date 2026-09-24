@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8FA0"]={"id":"8FA0","name":"LAKE GIBSON","lat":28.108628,"lon":-81.958692,"elevation":142,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

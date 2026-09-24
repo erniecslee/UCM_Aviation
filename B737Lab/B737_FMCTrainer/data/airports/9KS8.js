@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9KS8"]={"id":"9KS8","name":"GATORS PLACE","lat":37.750353,"lon":-97.047353,"elevation":1326,"region":"K3","runways":[{"id":"RW18","lat":37.751925,"lon":-97.047306,"length":1146,"course":178.6},{"id":"RW36","lat":37.748778,"lon":-97.0474,"length":1146,"course":358.6}],"procedures":{"D":{},"E":{},"F":{}}};

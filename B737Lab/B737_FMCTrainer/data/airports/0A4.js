@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0A4"]={"id":"0A4","name":"JOHNSON CITY","lat":36.363717,"lon":-82.309025,"elevation":1550,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

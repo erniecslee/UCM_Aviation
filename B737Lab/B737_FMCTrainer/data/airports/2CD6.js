@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CD6"]={"id":"2CD6","name":"YUKON","lat":39.39485,"lon":-104.547033,"elevation":6510,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

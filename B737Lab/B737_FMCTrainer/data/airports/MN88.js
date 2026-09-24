@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN88"]={"id":"MN88","name":"LANDEPLATZ","lat":44.230344,"lon":-94.415075,"elevation":987,"region":"K3","runways":[{"id":"RW18","lat":44.230864,"lon":-94.415089,"length":380,"course":178.2},{"id":"RW36","lat":44.229822,"lon":-94.415064,"length":380,"course":358.2}],"procedures":{"D":{},"E":{},"F":{}}};

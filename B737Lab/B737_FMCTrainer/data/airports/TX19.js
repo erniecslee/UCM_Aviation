@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX19"]={"id":"TX19","name":"RUSSELLS RANCH","lat":33.536222,"lon":-94.907161,"elevation":400,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

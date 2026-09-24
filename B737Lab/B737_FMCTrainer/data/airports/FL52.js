@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL52"]={"id":"FL52","name":"ANGEL'S FLD","lat":30.481031,"lon":-84.086833,"elevation":160,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

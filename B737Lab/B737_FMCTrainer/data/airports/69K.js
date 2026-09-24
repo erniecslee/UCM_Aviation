@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69K"]={"id":"69K","name":"WAMEGO MUNI","lat":39.197858,"lon":-96.258942,"elevation":966,"region":"K3","runways":[{"id":"RW18","lat":39.201406,"lon":-96.258911,"length":3184,"course":174.4},{"id":"RW36","lat":39.193486,"lon":-96.258978,"length":3184,"course":354.4}],"procedures":{"D":{},"E":{},"F":{}}};

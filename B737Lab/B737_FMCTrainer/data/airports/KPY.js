@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KPY"]={"id":"KPY","name":"PORT BAILEY","lat":57.930111,"lon":-153.040558,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

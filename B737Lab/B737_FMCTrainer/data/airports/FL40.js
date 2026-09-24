@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL40"]={"id":"FL40","name":"HUMMINGBIRDS LANDING","lat":27.120972,"lon":-81.802692,"elevation":50,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

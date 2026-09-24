@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["D91"]={"id":"D91","name":"SPENCERPORT AIRPARK","lat":43.169506,"lon":-77.818342,"elevation":614,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

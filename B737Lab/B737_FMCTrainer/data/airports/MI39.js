@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI39"]={"id":"MI39","name":"MITCH VEENSTRA","lat":42.852236,"lon":-85.839108,"elevation":700,"region":"K5","runways":[{"id":"RW09","lat":42.852247,"lon":-85.841361,"length":1200,"course":96.4},{"id":"RW27","lat":42.8522,"lon":-85.836886,"length":1200,"course":276.4}],"procedures":{"D":{},"E":{},"F":{}}};

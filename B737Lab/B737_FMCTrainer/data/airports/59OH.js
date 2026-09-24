@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59OH"]={"id":"59OH","name":"KELCH","lat":38.975278,"lon":-84.034167,"elevation":905,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

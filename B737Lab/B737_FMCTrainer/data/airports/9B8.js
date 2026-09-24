@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9B8"]={"id":"9B8","name":"SALMON RIVER AIRFIELD","lat":41.589544,"lon":-72.442308,"elevation":540,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

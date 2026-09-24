@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4WI5"]={"id":"4WI5","name":"CARLSON","lat":44.723572,"lon":-91.459881,"elevation":900,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

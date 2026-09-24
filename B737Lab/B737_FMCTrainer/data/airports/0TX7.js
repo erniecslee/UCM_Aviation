@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0TX7"]={"id":"0TX7","name":"TWISTED JS","lat":33.092944,"lon":-96.390028,"elevation":597,"region":"K4","runways":[{"id":"RW16","lat":33.094611,"lon":-96.390611,"length":1264,"course":161.3},{"id":"RW34","lat":33.091278,"lon":-96.389444,"length":1264,"course":341.3}],"procedures":{"D":{},"E":{},"F":{}}};

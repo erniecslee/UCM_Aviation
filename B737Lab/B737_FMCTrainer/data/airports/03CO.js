@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["03CO"]={"id":"03CO","name":"BLUE WATER","lat":38.097919,"lon":-106.089756,"elevation":7710,"region":"K2","runways":[{"id":"RW09","lat":38.098058,"lon":-106.0934,"length":2100,"course":84.9},{"id":"RW27","lat":38.097778,"lon":-106.086111,"length":2100,"course":264.9}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9V7"]={"id":"9V7","name":"EADS MUNI","lat":38.475139,"lon":-102.810861,"elevation":4245,"region":"K2","runways":[{"id":"RW17","lat":38.480442,"lon":-102.810881,"length":3860,"course":170.0},{"id":"RW35","lat":38.469839,"lon":-102.810833,"length":3860,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

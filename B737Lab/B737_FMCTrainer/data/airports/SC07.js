@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SC07"]={"id":"SC07","name":"ALANS","lat":33.675375,"lon":-80.950181,"elevation":378,"region":"K7","runways":[{"id":"RW13","lat":33.677583,"lon":-80.953694,"length":2675,"course":131.0},{"id":"RW31","lat":33.673167,"lon":-80.946667,"length":2675,"course":311.0}],"procedures":{"D":{},"E":{},"F":{}}};

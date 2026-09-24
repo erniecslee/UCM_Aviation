@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["Z59"]={"id":"Z59","name":"BETHEL","lat":60.782025,"lon":-161.743128,"elevation":15,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

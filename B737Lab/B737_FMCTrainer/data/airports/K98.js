@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K98"]={"id":"K98","name":"ALLISON MUNI","lat":42.763867,"lon":-92.804361,"elevation":1053,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

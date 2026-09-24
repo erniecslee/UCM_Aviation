@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5PA6"]={"id":"5PA6","name":"SHIELD FARM","lat":41.931169,"lon":-79.146711,"elevation":1240,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

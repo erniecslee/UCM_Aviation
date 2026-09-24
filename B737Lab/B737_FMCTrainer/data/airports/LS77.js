@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["LS77"]={"id":"LS77","name":"MAGNOLIA AIRPARK","lat":30.7271,"lon":-91.148553,"elevation":140,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

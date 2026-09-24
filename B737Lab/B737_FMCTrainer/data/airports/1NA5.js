@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1NA5"]={"id":"1NA5","name":"GIENGER/BOX BAR RANCH","lat":46.624978,"lon":-99.450386,"elevation":1950,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

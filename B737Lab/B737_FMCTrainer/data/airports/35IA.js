@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35IA"]={"id":"35IA","name":"FRAZIER","lat":41.848317,"lon":-90.595572,"elevation":758,"region":"K3","runways":[{"id":"RW09","lat":41.848256,"lon":-90.600717,"length":2804,"course":91.0},{"id":"RW27","lat":41.848358,"lon":-90.592261,"length":2804,"course":271.1}],"procedures":{"D":{},"E":{},"F":{}}};

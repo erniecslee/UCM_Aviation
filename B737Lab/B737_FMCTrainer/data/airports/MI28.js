@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MI28"]={"id":"MI28","name":"ARCHER MEML FLD","lat":42.906978,"lon":-84.472203,"elevation":794,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

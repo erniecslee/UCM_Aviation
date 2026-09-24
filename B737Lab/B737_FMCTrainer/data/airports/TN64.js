@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN64"]={"id":"TN64","name":"WEST WIND AIRPARK","lat":35.546267,"lon":-84.526306,"elevation":1021,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

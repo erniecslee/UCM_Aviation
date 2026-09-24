@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["C40"]={"id":"C40","name":"MILLER","lat":40.716714,"lon":-85.249972,"elevation":845,"region":"K5","runways":[{"id":"RW09","lat":40.714364,"lon":-85.250706,"length":2600,"course":93.0},{"id":"RW27","lat":40.714364,"lon":-85.241272,"length":2600,"course":273.0}],"procedures":{"D":{},"E":{},"F":{}}};

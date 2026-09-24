@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN66"]={"id":"TN66","name":"AUSTIN FLD","lat":35.744514,"lon":-85.047178,"elevation":1000,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

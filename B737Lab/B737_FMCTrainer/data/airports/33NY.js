@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["33NY"]={"id":"33NY","name":"WAYNE DELP","lat":42.399528,"lon":-73.866239,"elevation":800,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

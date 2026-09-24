@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["51VA"]={"id":"51VA","name":"SKYVIEW","lat":38.716228,"lon":-77.633881,"elevation":340,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN04"]={"id":"MN04","name":"LAKE PIERSON","lat":44.834594,"lon":-93.700189,"elevation":966,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

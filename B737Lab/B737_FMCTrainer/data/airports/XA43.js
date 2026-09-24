@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA43"]={"id":"XA43","name":"FALL CREEK RANCH","lat":29.908111,"lon":-99.206903,"elevation":2030,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

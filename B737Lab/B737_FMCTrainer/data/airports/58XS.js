@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["58XS"]={"id":"58XS","name":"MC ENTIRE'S LAZY V RANCH","lat":31.830694,"lon":-101.055944,"elevation":2360,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

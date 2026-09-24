@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["63A"]={"id":"63A","name":"LLOYD R ROUNDTREE SEAPLANE FAC","lat":56.811319,"lon":-132.960056,"elevation":0,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

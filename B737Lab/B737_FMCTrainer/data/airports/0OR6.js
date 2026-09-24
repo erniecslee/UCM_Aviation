@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0OR6"]={"id":"0OR6","name":"ROME SERVICE","lat":42.834044,"lon":-117.629044,"elevation":3387,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

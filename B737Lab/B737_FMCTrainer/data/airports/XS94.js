@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XS94"]={"id":"XS94","name":"CORRALITOS","lat":27.111372,"lon":-99.423303,"elevation":360,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

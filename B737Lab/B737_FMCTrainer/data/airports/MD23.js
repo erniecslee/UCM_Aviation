@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD23"]={"id":"MD23","name":"KENNERSLEY","lat":39.144833,"lon":-76.0405,"elevation":30,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

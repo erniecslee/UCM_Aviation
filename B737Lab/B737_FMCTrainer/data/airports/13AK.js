@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["13AK"]={"id":"13AK","name":"SATTERBERGS","lat":61.6547,"lon":-149.9,"elevation":350,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

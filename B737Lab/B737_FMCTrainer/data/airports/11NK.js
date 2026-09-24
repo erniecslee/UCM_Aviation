@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["11NK"]={"id":"11NK","name":"HOP HOUSE AIRPARK","lat":42.913889,"lon":-74.611667,"elevation":530,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

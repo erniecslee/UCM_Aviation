@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87TX"]={"id":"87TX","name":"FAINTING GOAT","lat":32.110586,"lon":-97.356181,"elevation":690,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

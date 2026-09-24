@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["4TX3"]={"id":"4TX3","name":"FOREST HILL","lat":33.661214,"lon":-95.833578,"elevation":525,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

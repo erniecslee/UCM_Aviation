@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD25"]={"id":"FD25","name":"FLY IN RANCHES","lat":27.562469,"lon":-80.498844,"elevation":25,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

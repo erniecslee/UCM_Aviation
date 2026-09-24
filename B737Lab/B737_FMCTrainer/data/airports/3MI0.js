@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MI0"]={"id":"3MI0","name":"DOSS FLD","lat":43.936964,"lon":-85.021975,"elevation":1050,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

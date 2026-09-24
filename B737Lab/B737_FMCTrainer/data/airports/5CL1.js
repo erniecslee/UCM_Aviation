@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5CL1"]={"id":"5CL1","name":"ROBERT OLIVER AIRPARK","lat":35.404722,"lon":-120.525,"elevation":1380,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

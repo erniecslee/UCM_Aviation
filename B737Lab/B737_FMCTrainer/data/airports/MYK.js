@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MYK"]={"id":"MYK","name":"MAY CREEK","lat":61.336161,"lon":-142.685886,"elevation":1681,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

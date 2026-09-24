@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["29FA"]={"id":"29FA","name":"CALOOSA DOWNTOWN","lat":26.635,"lon":-81.875,"elevation":2,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

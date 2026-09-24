@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1OR0"]={"id":"1OR0","name":"SUNNYHILL","lat":43.483169,"lon":-124.202892,"elevation":320,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

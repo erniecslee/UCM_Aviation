@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC67"]={"id":"NC67","name":"SIX OAKS","lat":35.467778,"lon":-82.4525,"elevation":2015,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

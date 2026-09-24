@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PAUM"]={"id":"PAUM","name":"UMIAT","lat":69.371114,"lon":-152.134983,"elevation":268,"region":"PA","runways":[{"id":"RW06","lat":69.370156,"lon":-152.156442,"length":5583,"course":62.0},{"id":"RW24","lat":69.372069,"lon":-152.113522,"length":5583,"course":242.0}],"procedures":{"D":{},"E":{},"F":{}}};

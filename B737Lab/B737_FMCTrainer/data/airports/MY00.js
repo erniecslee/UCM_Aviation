@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY00"]={"id":"MY00","name":"SIEG'S FARM","lat":43.894125,"lon":-94.493858,"elevation":1060,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

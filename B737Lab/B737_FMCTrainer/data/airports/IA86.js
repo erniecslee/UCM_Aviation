@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["IA86"]={"id":"IA86","name":"HEDGEWOOD LANDING","lat":41.266661,"lon":-93.509381,"elevation":990,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL33"]={"id":"FL33","name":"WATSON FLIGHT STRIP","lat":29.668292,"lon":-82.826233,"elevation":55,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

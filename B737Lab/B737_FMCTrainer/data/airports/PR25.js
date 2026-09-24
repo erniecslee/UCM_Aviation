@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PR25"]={"id":"PR25","name":"LAJAS AIRPARK","lat":18.0125,"lon":-67.075,"elevation":30,"region":"TJ","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

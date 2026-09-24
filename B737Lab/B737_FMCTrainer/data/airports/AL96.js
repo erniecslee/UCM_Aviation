@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["AL96"]={"id":"AL96","name":"BON SECOUR","lat":30.298333,"lon":-87.740833,"elevation":0,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

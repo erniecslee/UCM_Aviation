@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OL70"]={"id":"OL70","name":"SKYROADS","lat":34.890389,"lon":-97.998194,"elevation":1200,"region":"K4","runways":[{"id":"RW17","lat":34.894111,"lon":-97.998681,"length":2725,"course":170.6},{"id":"RW35","lat":34.886667,"lon":-97.997708,"length":2725,"course":350.6}],"procedures":{"D":{},"E":{},"F":{}}};

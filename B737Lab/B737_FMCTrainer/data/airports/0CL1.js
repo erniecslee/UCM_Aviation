@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0CL1"]={"id":"0CL1","name":"KREY FLD","lat":34.569436,"lon":-117.555556,"elevation":3042,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

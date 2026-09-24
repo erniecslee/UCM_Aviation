@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PABP"]={"id":"PABP","name":"BADAMI","lat":70.137467,"lon":-147.030439,"elevation":26,"region":"PA","runways":[{"id":"RW04","lat":70.133881,"lon":-147.048006,"length":5100,"course":42.0},{"id":"RW22","lat":70.141053,"lon":-147.012864,"length":5100,"course":222.0}],"procedures":{"D":{},"E":{},"F":{}}};

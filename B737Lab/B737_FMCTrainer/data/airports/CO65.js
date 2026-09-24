@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO65"]={"id":"CO65","name":"GEARY RANCH","lat":38.048575,"lon":-105.480778,"elevation":8300,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["02SC"]={"id":"02SC","name":"HARPERS","lat":32.758503,"lon":-81.224825,"elevation":111,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["59KS"]={"id":"59KS","name":"LAMB RANCH","lat":38.027311,"lon":-95.115314,"elevation":1009,"region":"K3","runways":[{"id":"RW18","lat":38.030606,"lon":-95.115247,"length":2400,"course":179.5},{"id":"RW36","lat":38.024014,"lon":-95.115386,"length":2400,"course":359.5}],"procedures":{"D":{},"E":{},"F":{}}};

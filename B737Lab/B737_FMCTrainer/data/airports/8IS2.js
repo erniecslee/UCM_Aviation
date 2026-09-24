@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8IS2"]={"id":"8IS2","name":"KILSOQUAH FARM","lat":40.997778,"lon":-85.388889,"elevation":840,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

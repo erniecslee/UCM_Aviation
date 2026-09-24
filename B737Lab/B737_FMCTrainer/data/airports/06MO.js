@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["06MO"]={"id":"06MO","name":"NOAHS ARK","lat":39.230878,"lon":-94.801536,"elevation":755,"region":"K3","runways":[{"id":"RW15","lat":39.234722,"lon":-94.803431,"length":3000,"course":154.0},{"id":"RW33","lat":39.227031,"lon":-94.799642,"length":3000,"course":334.0}],"procedures":{"D":{},"E":{},"F":{}}};

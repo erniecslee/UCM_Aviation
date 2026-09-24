@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FL58"]={"id":"FL58","name":"JOHARY","lat":29.026369,"lon":-81.987864,"elevation":72,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

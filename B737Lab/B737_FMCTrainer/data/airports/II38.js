@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["II38"]={"id":"II38","name":"SHERK FLD","lat":41.426433,"lon":-86.316394,"elevation":860,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

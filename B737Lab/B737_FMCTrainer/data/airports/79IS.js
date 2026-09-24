@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["79IS"]={"id":"79IS","name":"HARTWELL RANCH","lat":39.444769,"lon":-90.562069,"elevation":427,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

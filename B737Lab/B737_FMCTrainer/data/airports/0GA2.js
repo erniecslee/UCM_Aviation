@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["0GA2"]={"id":"0GA2","name":"AIRNAUTIQUE, INC","lat":34.382269,"lon":-82.945486,"elevation":720,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

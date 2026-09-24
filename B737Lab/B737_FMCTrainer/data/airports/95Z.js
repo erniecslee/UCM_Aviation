@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["95Z"]={"id":"95Z","name":"BRADLEY SKY-RANCH","lat":64.759222,"lon":-147.387639,"elevation":483,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

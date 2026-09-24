@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MY12"]={"id":"MY12","name":"DYKSTRA ACREAGE","lat":43.880803,"lon":-96.253086,"elevation":1690,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

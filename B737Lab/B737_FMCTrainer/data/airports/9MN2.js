@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9MN2"]={"id":"9MN2","name":"WABANA","lat":47.410383,"lon":-93.521369,"elevation":1319,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MD95"]={"id":"MD95","name":"RESERVOIR","lat":39.482047,"lon":-76.881644,"elevation":550,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["12VA"]={"id":"12VA","name":"HOP-ALONG","lat":37.788056,"lon":-79.767778,"elevation":1060,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

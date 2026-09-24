@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TE0"]={"id":"8TE0","name":"TEE PEE CREEK","lat":33.964722,"lon":-100.788681,"elevation":2380,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

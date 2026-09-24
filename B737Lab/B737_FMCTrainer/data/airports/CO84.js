@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CO84"]={"id":"CO84","name":"IDLERS FLD","lat":39.608325,"lon":-102.540758,"elevation":4159,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

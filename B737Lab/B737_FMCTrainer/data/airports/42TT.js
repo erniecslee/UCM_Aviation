@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["42TT"]={"id":"42TT","name":"DUKE INTL","lat":30.455592,"lon":-95.230794,"elevation":250,"region":"K4","runways":[{"id":"RW14","lat":30.458022,"lon":-95.233675,"length":2533,"course":132.6},{"id":"RW32","lat":30.453164,"lon":-95.227917,"length":2533,"course":312.6}],"procedures":{"D":{},"E":{},"F":{}}};

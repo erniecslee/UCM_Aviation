@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WV68"]={"id":"WV68","name":"TAYLORS","lat":39.355533,"lon":-78.079042,"elevation":650,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5U0"]={"id":"5U0","name":"DENTON","lat":47.320861,"lon":-109.941917,"elevation":3594,"region":"K1","runways":[{"id":"RW09","lat":47.320958,"lon":-109.947058,"length":2550,"course":75.0},{"id":"RW27","lat":47.320783,"lon":-109.936778,"length":2550,"course":255.0}],"procedures":{"D":{},"E":{},"F":{}}};

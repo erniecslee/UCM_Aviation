@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MT32"]={"id":"MT32","name":"CKYE FLD","lat":46.538811,"lon":-114.039825,"elevation":3600,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

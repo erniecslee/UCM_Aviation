@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55WN"]={"id":"55WN","name":"PRITCHARD FLD","lat":44.813267,"lon":-91.558067,"elevation":912,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

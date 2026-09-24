@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TE52"]={"id":"TE52","name":"CHIGGER FLD","lat":32.535969,"lon":-97.588633,"elevation":950,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

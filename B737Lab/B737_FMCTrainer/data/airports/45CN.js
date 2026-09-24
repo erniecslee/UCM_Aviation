@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["45CN"]={"id":"45CN","name":"HERMITAGE","lat":37.880203,"lon":-120.193522,"elevation":2700,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

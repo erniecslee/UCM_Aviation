@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NH61"]={"id":"NH61","name":"NEW POVERTY FLATS","lat":42.967475,"lon":-71.181172,"elevation":188,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["1WI3"]={"id":"1WI3","name":"BUZZY FLD","lat":42.741297,"lon":-89.224647,"elevation":895,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OH28"]={"id":"OH28","name":"DONNER FLD","lat":39.366667,"lon":-83.6,"elevation":990,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA31"]={"id":"GA31","name":"TWO ROCKS","lat":33.469789,"lon":-84.668547,"elevation":964,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PA07"]={"id":"PA07","name":"DERICK","lat":40.194217,"lon":-77.518325,"elevation":680,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

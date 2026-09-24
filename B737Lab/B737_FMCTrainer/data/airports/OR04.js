@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OR04"]={"id":"OR04","name":"KENNEL AIRSTRIP","lat":44.029561,"lon":-121.164747,"elevation":3595,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

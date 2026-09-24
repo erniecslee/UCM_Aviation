@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["XA41"]={"id":"XA41","name":"LONE STAR FLYING SERVICE","lat":30.355017,"lon":-99.247533,"elevation":2220,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

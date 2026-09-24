@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WN98"]={"id":"WN98","name":"NORTHERN TRAILS AVIATION","lat":45.659444,"lon":-91.5225,"elevation":1272,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

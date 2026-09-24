@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FA50"]={"id":"FA50","name":"WINGS-N-WHEELS","lat":29.361361,"lon":-82.149817,"elevation":82,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

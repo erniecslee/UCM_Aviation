@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TN96"]={"id":"TN96","name":"FALL CREEK FLD","lat":36.041172,"lon":-86.358325,"elevation":675,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

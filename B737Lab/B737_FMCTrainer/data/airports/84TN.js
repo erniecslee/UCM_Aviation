@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["84TN"]={"id":"84TN","name":"ELKINS FLD","lat":36.211731,"lon":-84.028358,"elevation":985,"region":"K7","runways":[{"id":"RW06","lat":36.210372,"lon":-84.030436,"length":1576,"course":57.2},{"id":"RW24","lat":36.213089,"lon":-84.026278,"length":1576,"course":237.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["21N"]={"id":"21N","name":"MATTITUCK","lat":40.986944,"lon":-72.519139,"elevation":30,"region":"K6","runways":[{"id":"RW01","lat":40.983936,"lon":-72.519075,"length":2200,"course":13.0},{"id":"RW19","lat":40.989975,"lon":-72.519189,"length":2200,"course":193.0}],"procedures":{"D":{},"E":{},"F":{}}};

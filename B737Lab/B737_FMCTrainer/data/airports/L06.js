@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["L06"]={"id":"L06","name":"FURNACE CREEK","lat":36.4605,"lon":-116.879806,"elevation":-210,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["62ND"]={"id":"62ND","name":"MORTEN","lat":47.779158,"lon":-97.759533,"elevation":1340,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

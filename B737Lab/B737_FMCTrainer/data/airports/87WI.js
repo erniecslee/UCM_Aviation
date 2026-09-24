@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["87WI"]={"id":"87WI","name":"QUALE","lat":43.019444,"lon":-89.185392,"elevation":955,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

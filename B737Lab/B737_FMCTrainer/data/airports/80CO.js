@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["80CO"]={"id":"80CO","name":"SIMONSON FLD","lat":38.151411,"lon":-104.701111,"elevation":5130,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

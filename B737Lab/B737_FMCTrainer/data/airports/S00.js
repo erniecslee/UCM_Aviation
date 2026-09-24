@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["S00"]={"id":"S00","name":"OPHEIM","lat":48.866692,"lon":-106.417256,"elevation":3264,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

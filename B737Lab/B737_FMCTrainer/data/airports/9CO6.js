@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["9CO6"]={"id":"9CO6","name":"D BAR D","lat":39.281333,"lon":-104.573117,"elevation":6752,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

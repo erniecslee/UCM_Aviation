@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["PN43"]={"id":"PN43","name":"TIGERTOWN","lat":41.842975,"lon":-75.805869,"elevation":1618,"region":"K6","runways":[{"id":"RW05U","lat":41.842325,"lon":-75.806603,"length":620,"course":52.0},{"id":"RW23U","lat":41.843625,"lon":-75.805133,"length":620,"course":232.0}],"procedures":{"D":{},"E":{},"F":{}}};

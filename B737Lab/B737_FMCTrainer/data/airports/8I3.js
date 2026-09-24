@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8I3"]={"id":"8I3","name":"GLENNDALE","lat":40.433372,"lon":-86.203328,"elevation":850,"region":"K5","runways":[{"id":"RW18","lat":40.430764,"lon":-86.201103,"length":2048,"course":182.0},{"id":"RW36","lat":40.425142,"lon":-86.201103,"length":2048,"course":2.0}],"procedures":{"D":{},"E":{},"F":{}}};

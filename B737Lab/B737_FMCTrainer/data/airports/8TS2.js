@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["8TS2"]={"id":"8TS2","name":"HENRIETTA","lat":33.783433,"lon":-98.216989,"elevation":932,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

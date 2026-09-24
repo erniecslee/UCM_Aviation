@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3MT3"]={"id":"3MT3","name":"THREE CROSS RANCH","lat":46.125556,"lon":-109.365,"elevation":3930,"region":"K1","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

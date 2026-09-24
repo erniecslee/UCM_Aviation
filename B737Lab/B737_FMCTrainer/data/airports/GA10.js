@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA10"]={"id":"GA10","name":"RIDGEVIEW FARM","lat":33.068953,"lon":-84.351953,"elevation":854,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["CD20"]={"id":"CD20","name":"SPRAGUE","lat":40.474972,"lon":-105.22025,"elevation":5603,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

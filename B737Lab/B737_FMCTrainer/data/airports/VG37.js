@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VG37"]={"id":"VG37","name":"GREENWAY AIRFIELD","lat":36.589319,"lon":-76.638008,"elevation":75,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

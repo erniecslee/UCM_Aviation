@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["7WI1"]={"id":"7WI1","name":"LITTLE CLAM LAKE","lat":46.158564,"lon":-90.884347,"elevation":1456,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

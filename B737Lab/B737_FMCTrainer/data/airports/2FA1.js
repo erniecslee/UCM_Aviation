@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2FA1"]={"id":"2FA1","name":"SAWGRASS","lat":29.251264,"lon":-81.200536,"elevation":40,"region":"K7","runways":[{"id":"RW18","lat":29.253347,"lon":-81.200536,"length":1515,"course":187.1},{"id":"RW36","lat":29.249181,"lon":-81.200533,"length":1515,"course":7.1}],"procedures":{"D":{},"E":{},"F":{}}};

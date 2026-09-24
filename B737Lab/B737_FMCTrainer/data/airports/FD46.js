@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["FD46"]={"id":"FD46","name":"GODDARD SEADROME","lat":27.755306,"lon":-81.513964,"elevation":78,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

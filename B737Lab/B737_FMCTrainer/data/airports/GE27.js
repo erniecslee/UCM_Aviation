@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GE27"]={"id":"GE27","name":"SMITH FLD","lat":32.602222,"lon":-83.754167,"elevation":475,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

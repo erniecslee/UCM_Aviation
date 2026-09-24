@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NC27"]={"id":"NC27","name":"LOWER CREEK","lat":35.944575,"lon":-81.490094,"elevation":1195,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

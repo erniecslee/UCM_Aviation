@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3NC9"]={"id":"3NC9","name":"WOMBLE FLD","lat":35.878164,"lon":-79.087022,"elevation":475,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

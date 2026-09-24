@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WS82"]={"id":"WS82","name":"JOHNSON ISLAND","lat":45.126667,"lon":-88.443333,"elevation":870,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

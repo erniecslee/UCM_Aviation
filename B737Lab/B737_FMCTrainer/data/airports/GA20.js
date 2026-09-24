@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["GA20"]={"id":"GA20","name":"STAFFORD","lat":30.811111,"lon":-81.462778,"elevation":28,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["69IL"]={"id":"69IL","name":"DAVID GILLESPIE","lat":41.365311,"lon":-88.679239,"elevation":730,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2OK6"]={"id":"2OK6","name":"RATCLIFF RANCH","lat":36.724167,"lon":-95.342056,"elevation":902,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

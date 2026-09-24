@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2MO9"]={"id":"2MO9","name":"RUNWAY RANCH","lat":38.950006,"lon":-94.450231,"elevation":929,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

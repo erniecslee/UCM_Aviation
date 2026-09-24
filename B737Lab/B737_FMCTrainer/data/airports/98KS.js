@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98KS"]={"id":"98KS","name":"REXFORD","lat":37.449503,"lon":-100.50645,"elevation":2782,"region":"K3","runways":[{"id":"N","lat":37.452853,"lon":-100.506422,"length":2440,"course":171.0},{"id":"S","lat":37.44615,"lon":-100.506456,"length":2440,"course":351.0}],"procedures":{"D":{},"E":{},"F":{}}};

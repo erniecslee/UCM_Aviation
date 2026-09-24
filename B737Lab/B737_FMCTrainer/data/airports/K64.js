@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["K64"]={"id":"K64","name":"VINLAND VALLEY AERODROME","lat":38.836131,"lon":-95.182036,"elevation":890,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

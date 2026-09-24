@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NA86"]={"id":"NA86","name":"JOHNSON PVT AIRSTRIP","lat":47.333322,"lon":-97.900931,"elevation":1492,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

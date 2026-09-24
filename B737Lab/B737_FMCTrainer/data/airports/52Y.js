@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["52Y"]={"id":"52Y","name":"REMER MUNI","lat":47.068008,"lon":-93.912733,"elevation":1350,"region":"K3","runways":[{"id":"RW13","lat":47.070508,"lon":-93.9169,"length":2765,"course":131.1},{"id":"RW31","lat":47.065508,"lon":-93.908567,"length":2765,"course":311.1}],"procedures":{"D":{},"E":{},"F":{}}};

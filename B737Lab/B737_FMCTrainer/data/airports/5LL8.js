@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5LL8"]={"id":"5LL8","name":"HUGH VAN VOORST","lat":41.112256,"lon":-88.140053,"elevation":617,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

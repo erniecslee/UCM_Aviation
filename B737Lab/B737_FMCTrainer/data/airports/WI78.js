@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["WI78"]={"id":"WI78","name":"MARTINS AERODROME","lat":44.42575,"lon":-87.935028,"elevation":808,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

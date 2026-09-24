@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55CL"]={"id":"55CL","name":"STRAIN RANCH","lat":39.053056,"lon":-122.095556,"elevation":123,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

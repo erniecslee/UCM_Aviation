@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["57IS"]={"id":"57IS","name":"DOZIER","lat":38.316714,"lon":-88.272267,"elevation":420,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

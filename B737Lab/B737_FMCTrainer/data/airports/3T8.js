@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3T8"]={"id":"3T8","name":"WILDCAT CANYON","lat":31.678556,"lon":-97.362556,"elevation":660,"region":"K4","runways":[{"id":"RW15","lat":31.681544,"lon":-97.3644,"length":2450,"course":145.0},{"id":"RW33","lat":31.675592,"lon":-97.360714,"length":2450,"course":325.0}],"procedures":{"D":{},"E":{},"F":{}}};

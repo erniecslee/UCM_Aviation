@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3GA6"]={"id":"3GA6","name":"ERLEN","lat":33.570556,"lon":-84.898333,"elevation":1044,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

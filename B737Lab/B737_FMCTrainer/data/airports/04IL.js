@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04IL"]={"id":"04IL","name":"FULL THROTTLE","lat":40.637536,"lon":-89.007019,"elevation":755,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["5A2"]={"id":"5A2","name":"WARNER ROBINS AIR PARK","lat":32.560639,"lon":-83.67675,"elevation":409,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

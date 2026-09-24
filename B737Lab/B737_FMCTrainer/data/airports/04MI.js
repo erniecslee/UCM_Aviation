@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["04MI"]={"id":"04MI","name":"RAPIDS AIRWAY","lat":42.534481,"lon":-84.628314,"elevation":880,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

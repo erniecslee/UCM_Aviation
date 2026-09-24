@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["25MO"]={"id":"25MO","name":"COOK","lat":37.185833,"lon":-94.551111,"elevation":920,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["SN75"]={"id":"SN75","name":"SOMMERS","lat":39.866114,"lon":-95.341958,"elevation":1070,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

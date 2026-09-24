@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["05TX"]={"id":"05TX","name":"CIRCLE 'A' RANCH","lat":32.129167,"lon":-97.404167,"elevation":608,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

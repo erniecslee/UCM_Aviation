@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["49CL"]={"id":"49CL","name":"EL PECO RANCH","lat":36.905503,"lon":-120.177389,"elevation":213,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

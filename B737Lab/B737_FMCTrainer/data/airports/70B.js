@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["70B"]={"id":"70B","name":"MILLINOCKET","lat":45.728381,"lon":-68.844486,"elevation":492,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

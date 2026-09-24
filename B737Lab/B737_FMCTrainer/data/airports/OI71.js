@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["OI71"]={"id":"OI71","name":"GERMACK","lat":41.777244,"lon":-80.903756,"elevation":823,"region":"K5","runways":[{"id":"RW01","lat":41.772803,"lon":-80.904047,"length":3242,"course":10.0},{"id":"RW19","lat":41.781686,"lon":-80.903461,"length":3242,"course":190.0}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["98OH"]={"id":"98OH","name":"PAINE'S","lat":41.825053,"lon":-80.883147,"elevation":660,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

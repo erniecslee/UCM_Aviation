@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37F"]={"id":"37F","name":"MUNDAY MUNI","lat":33.468722,"lon":-99.586222,"elevation":1474,"region":"K4","runways":[{"id":"RW17","lat":33.473128,"lon":-99.586361,"length":3200,"course":170.0},{"id":"RW35","lat":33.464336,"lon":-99.586081,"length":3200,"course":350.0}],"procedures":{"D":{},"E":{},"F":{}}};

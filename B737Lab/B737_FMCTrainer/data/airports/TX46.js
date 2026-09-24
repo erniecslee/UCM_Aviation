@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["TX46"]={"id":"TX46","name":"BLACKWOOD AIRPARK","lat":32.409586,"lon":-97.387239,"elevation":820,"region":"K4","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

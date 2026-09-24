@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MN62"]={"id":"MN62","name":"QUAST","lat":44.849961,"lon":-94.350261,"elevation":1050,"region":"K3","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

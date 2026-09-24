@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["RI11"]={"id":"RI11","name":"RICONN","lat":41.696767,"lon":-71.783681,"elevation":385,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

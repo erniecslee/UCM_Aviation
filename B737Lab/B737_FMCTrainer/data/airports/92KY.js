@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["92KY"]={"id":"92KY","name":"PUMPKIN FLD","lat":37.838519,"lon":-84.009461,"elevation":760,"region":"K5","runways":[{"id":"RW13","lat":37.839289,"lon":-84.011081,"length":1091,"course":127.2},{"id":"RW31","lat":37.83775,"lon":-84.007839,"length":1091,"course":307.2}],"procedures":{"D":{},"E":{},"F":{}}};

@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["VA49"]={"id":"VA49","name":"LYNNHAVEN FLD","lat":38.331111,"lon":-78.754444,"elevation":1100,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

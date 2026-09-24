@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55SC"]={"id":"55SC","name":"FALLS LANDING","lat":34.909722,"lon":-81.075,"elevation":587,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

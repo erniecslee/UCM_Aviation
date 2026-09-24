@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["35ID"]={"id":"35ID","name":"BLUEBIRD","lat":44.923833,"lon":-113.966317,"elevation":4318,"region":"K1","runways":[{"id":"RW14","lat":44.925608,"lon":-113.9676,"length":1456,"course":140.6},{"id":"RW32","lat":44.922056,"lon":-113.965033,"length":1456,"course":320.6}],"procedures":{"D":{},"E":{},"F":{}}};

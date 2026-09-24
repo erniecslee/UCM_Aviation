@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["2CB"]={"id":"2CB","name":"CAMP BLANDING AAF (CAMP BLANDI","lat":29.951944,"lon":-81.979861,"elevation":196,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

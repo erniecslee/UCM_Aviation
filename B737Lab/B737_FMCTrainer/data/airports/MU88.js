@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["MU88"]={"id":"MU88","name":"YARBRO FLD","lat":36.858,"lon":-90.399758,"elevation":518,"region":"K3","runways":[{"id":"RW18","lat":36.860611,"lon":-90.399719,"length":1900,"course":182.5},{"id":"RW36","lat":36.855394,"lon":-90.399794,"length":1900,"course":2.5}],"procedures":{"D":{},"E":{},"F":{}}};

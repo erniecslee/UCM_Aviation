@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55AZ"]={"id":"55AZ","name":"POTTERS FLD","lat":32.873942,"lon":-111.959858,"elevation":1309,"region":"K2","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

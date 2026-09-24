@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["55OI"]={"id":"55OI","name":"AERO FLIGHT CENTER","lat":40.858672,"lon":-80.535347,"elevation":1140,"region":"K5","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

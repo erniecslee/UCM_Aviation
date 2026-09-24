@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["NY91"]={"id":"NY91","name":"SMITHFIELD","lat":42.994028,"lon":-75.702778,"elevation":1465,"region":"K6","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

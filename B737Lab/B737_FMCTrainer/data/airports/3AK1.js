@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["3AK1"]={"id":"3AK1","name":"SKELTON","lat":61.937983,"lon":-147.170081,"elevation":3289,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

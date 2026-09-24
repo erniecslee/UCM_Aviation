@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["08AK"]={"id":"08AK","name":"FISHER","lat":61.569639,"lon":-149.724439,"elevation":200,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

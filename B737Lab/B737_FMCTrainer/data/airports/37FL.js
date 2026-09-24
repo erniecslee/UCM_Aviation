@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["37FL"]={"id":"37FL","name":"FLYING HARNESS FARMS","lat":29.718569,"lon":-82.844567,"elevation":78,"region":"K7","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

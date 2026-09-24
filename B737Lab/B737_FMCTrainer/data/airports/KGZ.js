@@ -1,0 +1,1 @@
+window.NAV_AIRPORT_DATA=window.NAV_AIRPORT_DATA||{};window.NAV_AIRPORT_DATA["KGZ"]={"id":"KGZ","name":"GLACIER CREEK","lat":61.455133,"lon":-142.38095,"elevation":2380,"region":"PA","runways":[],"procedures":{"D":{},"E":{},"F":{}}};

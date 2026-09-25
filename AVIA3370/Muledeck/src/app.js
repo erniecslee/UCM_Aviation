@@ -148,9 +148,20 @@
   const CHART_ZOOM_MAX = 3;
 
   function applyChartTransform() {
+    // At 90/270 deg swap the iframe's layout size so the rotated page
+    // fills the stage exactly (no grey side bands).
+    const stage = chartFrame.parentElement;
+    if (chartView.rotation % 180 !== 0 && stage.clientWidth) {
+      chartFrame.style.width = stage.clientHeight + "px";
+      chartFrame.style.height = stage.clientWidth + "px";
+    } else {
+      chartFrame.style.width = "";
+      chartFrame.style.height = "";
+    }
     chartFrame.style.transform = `rotate(${chartView.rotation}deg) scale(${chartView.zoom})`;
     chartZoomLabel.textContent = `${Math.round(chartView.zoom * 100)}%`;
   }
+  window.addEventListener("resize", () => { if (!chartViewer.hidden) applyChartTransform(); });
   function resetChartTransform() {
     chartView.zoom = 1;
     chartView.rotation = 0;

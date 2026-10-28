@@ -1,0 +1,45 @@
+/* B737 FMC ACARS Trainer · ATC data link indications and ground console */
+.du-strip{display:flex;align-items:center;justify-content:space-between;gap:12px;background:#0c141c;border:1px solid #2c3a47;border-radius:6px;padding:8px 14px;margin:0 0 14px}
+.du-label{font:600 11px var(--mono);letter-spacing:1.5px;color:#7d92a4}
+#du-atc{font:600 17px var(--mono);letter-spacing:1px;color:#2a3540;transition:color .15s}
+#du-atc.on{color:#fff;text-shadow:0 0 6px #ffffff66}
+.atc-console{max-width:1510px;margin:0 auto;padding:6px 32px 40px;border-top:1px solid var(--line)}
+.cc-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin:26px 0 14px}
+.cc-head h2{margin:4px 0 0;font-size:22px}
+.cc-state{font:13px/1.6 var(--mono);color:#b9c6d3;text-align:right}
+.cc-state b{font-weight:600}.cc-state b.ok{color:#7fdca8}.cc-state b.wait{color:#ffd37a}.cc-state b.bad{color:#ff8f8f}
+.cc-grid{display:grid;grid-template-columns:minmax(300px,380px) minmax(420px,1fr);gap:20px;align-items:start}
+.cc-card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px}
+.cc-card h3{margin:0 0 6px;font-size:15px;font-weight:600;letter-spacing:.3px}
+.cc-card h4{margin:16px 0 8px;font-size:12px;letter-spacing:1.2px;color:#9fb1c1;font-weight:600;text-transform:uppercase}
+.cc-card label{font-size:12px;margin:10px 0 4px}
+.cc-card input,.cc-card select,.cc-card textarea{padding:7px 9px;font-size:13px}
+.cc-card textarea{width:100%;color:var(--text);background:#101820;border:1px solid #3c4856;border-radius:5px;resize:vertical;text-transform:uppercase;font:13px var(--mono)}
+.cc-card button{font-size:12px;padding:7px 10px}
+.cc-two{display:grid;grid-template-columns:1fr 1fr;gap:0 12px;align-items:end}
+.cc-check{display:flex!important;align-items:center;gap:8px;margin:8px 0!important;color:#c5d0db!important}
+.cc-check input{width:auto}
+.cc-btns{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}.cc-end{align-items:end;margin:0 0 1px}
+.cc-note{font-size:13px;line-height:1.6;background:#10202b;border-left:3px solid var(--accent);padding:10px 14px;margin:8px 0 6px;color:#cfe3de;border-radius:0 6px 6px 0}
+.cc-note.bad{border-left-color:#ff8f8f;background:#2a1a1d;color:#ffd0d0}
+.cc-scn{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px}
+.cc-s{text-align:left;display:flex;flex-direction:column;gap:3px;padding:9px 11px!important;line-height:1.35}
+.cc-s strong{font-size:12.5px;font-weight:600}.cc-s span{font-size:11px;color:var(--muted)}
+.cc-custom{margin-top:16px}.cc-custom summary{cursor:pointer;font-size:13px;color:var(--accent)}
+.cc-inbox{max-height:380px;overflow:auto}
+.cc-in{border-top:1px solid #2a3745;padding:9px 0;font-size:12.5px;line-height:1.5;color:#c5d0db}
+.cc-in:first-child{border-top:0}
+.cc-in .t{font:11px var(--mono);color:#758b9c}
+.cc-in b{font-size:10.5px;letter-spacing:1px;color:#9fb1c1;margin-right:4px}
+.cc-in.req b{color:#ffd37a}.cc-in.emer b{color:#ff8f8f}
+.cc-in .cc-btns{margin-top:6px}.cc-in em{color:var(--muted);font-size:12px}
+.cc-in button.go{background:#1d4a40;border-color:#3b7e6e}
+.muted{color:var(--muted)}
+#cc-check ul{list-style:none;margin:0;padding:0}
+#cc-check li{display:flex;gap:9px;align-items:flex-start;font-size:12.5px;color:#9fb1c1;padding:3px 0;line-height:1.4}
+#cc-check li i{flex:none;width:12px;height:12px;border:1.5px solid #4a5a69;border-radius:3px;margin-top:3px}
+#cc-check li.done{color:#d6efe7}#cc-check li.done i{background:var(--accent);border-color:var(--accent);box-shadow:inset 0 0 0 2px #18212b}
+#cc-prog{font:12px var(--mono);color:var(--accent);margin-left:8px}
+#cc-resetck{margin-top:14px;font-size:12px}
+@media(min-width:1100px){.cc-grid{grid-template-columns:minmax(300px,380px) minmax(420px,1fr)}.cc-grid>.cc-card:nth-child(3){grid-column:1}.cc-grid>.cc-card:nth-child(4){grid-column:2}}
+@media(max-width:980px){.cc-grid{grid-template-columns:1fr}.atc-console{padding:6px 14px 30px}}

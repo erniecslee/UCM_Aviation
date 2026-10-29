@@ -157,7 +157,7 @@ function sendReport(r,auto){
 
 /* ---------- ATC key ---------- */
 function atcKey(){
- if(!CP.logon.connected)return 'ATC LOGON';
+ if(!CP.logon.connected)return 'ATC';
  const news=CP.log.filter(en=>en.dir==='UP'&&en.status==='NEW'),pend=CP.log.filter(isPendUp);
  if(news.length>1)return 'ATC LOG';
  if(news.length===1){CP.view.up=news[0].id;return 'ATC UPLINK';}

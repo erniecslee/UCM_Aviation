@@ -10,7 +10,7 @@ const blankReq=()=>({mode:'REQUEST',from:'ATC INDEX',alt:null,stepAt:'',pilotDis
 const blankEmer=()=>({type:'',divert:null,offset:'',descend:null,sob:'',fuel:'',free:''});
 const CP=window.CP={
  link:'READY',
- ground:{id:'KUSA',fltOnFile:'TBC1234',tailOnFile:'AB-CDE',planOnFile:true,dclCapable:true,autoValidate:true,autoConnect:true,autoRoger:true,ackMs:1200,mute:false},
+ ground:{id:'KUSA',fltOnFile:'TBC1234',tailOnFile:'AB-CDE',planOnFile:true,dclCapable:true,autoValidate:true,autoConnect:true,autoRoger:true,ackMs:1200,mute:false},pendMax:5,failNext:false,lastLink:'READY',
  logon:{to:'',flt:'',tail:'',maxUL:'',status:'',sentAt:0,actCtr:'',nextCtr:'',connected:false,noResponse:false,reason:''},
  ads:{off:false,contracts:[],emer:false,reports:0},
  log:[],reports:[],inbox:[],seq:1,
@@ -48,14 +48,16 @@ function abortPending(){for(const en of CP.log){if(isPendUp(en)||isPendDn(en))en
 /* ---------- links / connection ---------- */
 function linkCheck(){if(CP.link!=='READY')throw Error('NO COMM');if(!CP.logon.connected)throw Error('NO ATC COMM');}
 function connect(){const L=CP.logon;L.connected=true;L.actCtr=CP.ground.id;L.to='';taught('connect');if(!message)message='ATC COMM ESTABLISHED';redraw();}
-function terminate(by){const L=CP.logon;L.connected=false;L.actCtr='';L.nextCtr='';L.status='';abortPending();CP.ads.contracts=[];CP.ads.emer=false;L.noResponse=false;taught('terminate');inbox({type:'INFO',text:by==='ATC'?'CPDLC connection terminated by ATC':'Aircraft terminated the ATC connection (ATC COMM SELECT OFF)'});redraw();}
+function notice(t,quiet){if(!quiet)chime();message=t;redraw();}
+function terminate(by){const L=CP.logon;L.connected=false;L.actCtr='';L.nextCtr='';L.status='';abortPending();CP.ads.contracts=[];CP.ads.emer=false;L.noResponse=false;taught('terminate');inbox({type:'INFO',text:by==='ATC'?'CPDLC connection terminated by ATC':'Aircraft terminated the ATC connection (ATC COMM SELECT OFF)'});if(by==='ATC')notice('ATC COMM TERMINATED');else redraw();}
 function inbox(o){CP.inbox.unshift({n:CP.seq++,t:nowMs(),...o});tell();}
 
 /* ---------- downlink / uplink core ---------- */
-function sendDown(o){linkCheck();const en=addEntry({dir:'DN',status:'SENDING',...o});setTimeout(()=>{if(en.status==='SENDING'){en.status=en.needsResp?'OPEN':'SENT';groundReceive(en);if(en.onAck)en.onAck(en);redraw();}},CP.ground.ackMs);redraw();return en;}
+function sendDown(o){linkCheck();if(CP.failNext){CP.failNext=false;throw Error('UNABLE TO SEND MSG');}const en=addEntry({dir:'DN',status:'SENDING',...o});setTimeout(()=>{if(en.status==='SENDING'){en.status=en.needsResp?'OPEN':'SENT';groundReceive(en);if(en.onAck)en.onAck(en);redraw();}},CP.ground.ackMs);redraw();return en;}
 function deliver(spec){
  const L=CP.logon;if(!L.connected)return {ok:false,why:'No CPDLC connection. The aircraft must log on and the ground must establish the connection first.'};
  if(CP.link!=='READY')return {ok:false,why:'Data link status is '+CP.link+'; uplinks cannot be delivered.'};
+ if(CP.log.filter(isPendUp).length>=CP.pendMax){message='RESPOND TO ATC UPLINKS';chime();redraw();return {ok:false,why:'The aircraft has '+CP.pendMax+' open uplinks (storage full): RESPOND TO ATC UPLINKS shows on the CDU. Answer them first.'};}
  const lines=spec.lines||wrap(spec.text);
  const en=addEntry({dir:'UP',kind:'UPLINK',status:'NEW',resp:spec.resp||'NE',lines,loadable:spec.loadable||null,noReject:!!spec.noReject,noReason:!!spec.noReason,dcl:!!spec.dcl,refId:spec.refId||null,armable:spec.armable||null,rep:spec.rep||null,dclKind:spec.dclKind||'',cond:!!spec.cond,expect:!!spec.expect,title:spec.title||''});
  if(spec.refId){const dn=byId(spec.refId);if(dn&&dn.dir==='DN'&&dn.status!=='ABORTED'){dn.reply=en.id;dn.status=spec.replyKind==='STANDBY'?'OPEN':spec.replyKind==='DEFERRED'?'DEFERRED':'RESPONSE RCVD';}}
@@ -358,6 +360,7 @@ function pgVerifyReq(){
 }
 function sendRequest(){
  const q=CP.req;const lines=reqLines();if(!lines.length&&!q.free)throw Error('INVALID ENTRY');
+ const elems=['alt','speed','offset','directTo','rte','depArr','heading','track','perf','wx'].filter(k=>q[k]).length+(q.free?1:0);if(elems>5)throw Error('MESSAGE LIMIT EXCEEDED');
  const approve=approvalFor(q);const key=q.mode;
  const en=sendDown({kind:'REQUEST',lines:[...lines,...(q.free?wrap(q.free):[])],needsResp:true,approve,isDcl:q.mode==='CLEARANCE',freeText:!!q.free,onAck:en=>{CP.req=blankReq();if(CP.view.waiting===en.id&&(page==='VERIFY REQUEST'||page==='PDC CLEARANCE')){CP.view.sent=en.id;go('ATC SENT');}}});
  CP.view.waiting=en.id;
@@ -458,15 +461,19 @@ function sendEmergency(){
 
 /* ---------- housekeeping ---------- */
 let seqIdx;
+function logonTimeout(){const L=CP.logon;if(L.status!=='SENT'||L.noResponse)return false;L.noResponse=true;if(!message)message='RE-LOGON TO ATC COMM';chime();redraw();return true;}
+function reqTimeout(){const en=CP.log.filter(x=>x.dir==='DN'&&x.status==='OPEN'&&x.needsResp).pop();if(!en)return false;en.timedOut=true;notice('ATC TIMEOUT-RESEND');return true;}
+function fillStorage(){let n=0;for(let i=0;i<=CP.pendMax;i++){const r=deliver({text:'EXPECT FURTHER CLEARANCE '+(i+1),resp:'R'});if(r.ok)n++;}return n;}
 function tick(){
  if(typeof e==='undefined'||!e||!e.active)return;
  const idx=e.active.index;if(seqIdx!==undefined&&idx>seqIdx){const leg=e.active.legs[idx-1];if(leg&&!leg.disco)CP.lastSeq={id:leg.id,t:nowMs(),alt:curAlt(),fuel:e.perf.fuel};}seqIdx=idx;
  for(const r of CP.reports.filter(x=>x.state==='READY'&&x.armed&&x.kind==='LEVEL')){if(Math.abs(curAlt()-r.ft)<=100&&CP.logon.connected&&CP.link==='READY'){try{sendReport(r,true);}catch{}redraw();}}
- const L=CP.logon;if(L.status==='SENT'&&!L.noResponse&&nowMs()-L.sentAt>600000){L.noResponse=true;redraw();}
+ const L=CP.logon;if(L.status==='SENT'&&!L.noResponse&&nowMs()-L.sentAt>600000)logonTimeout();
+ if(CP.lastLink==='READY'&&CP.link!=='READY'&&L.connected)notice('DATALINK LOST');CP.lastLink=CP.link;
  if(CP.ads.contracts.length&&!CP.ads.off){CP.ads.reports=(CP.ads.reports||0);}
 }
 setInterval(tick,1000);
 
-window.CPDLC={advisory:m=>/^(ATC MESSAGE|ATC COMM|ROUTE LOADED)/.test(m||'')||(window.ACARS&&ACARS.advisory(m)),pages:PAGES,build,register,preRender,atcKey,ref:p=>(EXT_REF[p]||FCOM_REF()[p]||'11.34.1'),state:CP,
- api:{posData,loadRoute,sendDown,deliver,connect,terminate,respondGround:null,tell,redraw,taught,routeIds,byId,wrap,chime,inbox,curAlt,fmtAlt,Zt,abortPending,blankReq,nowMs}};
+window.CPDLC={advisory:m=>/^(ATC MESSAGE|ATC COMM|ROUTE LOADED|RE-LOGON TO|ATC TIMEOUT|RESPOND TO ATC|DATALINK LOST)/.test(m||'')||(window.ACARS&&ACARS.advisory(m)),pages:PAGES,build,register,preRender,atcKey,ref:p=>(EXT_REF[p]||FCOM_REF()[p]||'11.34.1'),state:CP,
+ api:{logonTimeout,reqTimeout,fillStorage,notice,posData,loadRoute,sendDown,deliver,connect,terminate,respondGround:null,tell,redraw,taught,routeIds,byId,wrap,chime,inbox,curAlt,fmtAlt,Zt,abortPending,blankReq,nowMs}};
 })();
